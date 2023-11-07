@@ -1,6 +1,16 @@
-import pandas as pd
+from abc import ABC, abstractmethod
+from utils.setup_logging import setup_logging
 
-
-
-class DataLoader():
+class DataLoader(ABC):
     
+    def __init__(self, config):
+        
+        self.config = config
+        self.logger = setup_logging(self.__class__.__name__, self.config)
+
+    @abstractmethod
+    def get_data(self) -> list:
+        """
+        Reads query data from a file path in the config and retrieves a list of queries ordered alphabetically.
+        """
+        pass

@@ -1,6 +1,7 @@
 from item import Item
 from user import User
 import logging
+import llms
 from utils.logging import setup_logging
 import abc
 
@@ -14,6 +15,9 @@ class BasePEModule(abc.ABC):
         self.logger: logging.Logger = setup_logging(self.__class__.__name__)
         self.config = config
 
+        llm_module = llms.LLM_CLASSES[self.config['model']['llm_name']]
+        self.llm = llm_module(config)
+
     def get_top_items(self, k=5):
         pass
 
@@ -21,11 +25,14 @@ class BasePEModule(abc.ABC):
     Generates a query based on the current utility values and the provided set of items.
     '''
     def query_selection(self):
-        return "Abstract base class"
+        return NotImplementedError("Abstract Base Class")
 
     '''
     Updates the belief state and user profile based on the user's response
     '''
     def belief_update(self, query, response): 
-        return
+        return NotImplementedError("Abstract Base Class")
 
+
+    def pe_loop(self):
+        return NotImplementedError("Abstract Base Class")

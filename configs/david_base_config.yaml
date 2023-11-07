@@ -1,5 +1,13 @@
-
-
-
-
-
+debug_mode: false  
+data:
+  data_loader_name: DavidLoader
+  data_path: data/david_data.csv
+llm:
+  model: "gpt-3.5-turbo" # options: "text-davinci-003"
+logging:
+  disabled: False
+  level: DEBUG # options: INFO, DEBUG, WARNING
+ranking:
+  ranker_name: ItemRanker
+  k_i: 4
+  k_r: 3
