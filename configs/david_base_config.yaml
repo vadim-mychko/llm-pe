@@ -7,7 +7,3 @@ llm:
 logging:
   disabled: False
   level: DEBUG # options: INFO, DEBUG, WARNING
-ranking:
-  ranker_name: ItemRanker
-  k_i: 4
-  k_r: 3
