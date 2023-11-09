@@ -7,9 +7,9 @@ from llms.llm_base import LLMBase
 
 class GPTCompletion(LLMBase):
     def __init__(self, config):
-        super.__init__(config)
+        super().__init__(config)
 
-    def make_request(self, prompt: str, temperature: Optional[float] = 0, max_tokens=256) -> str:
+    def make_request(self, prompt: str, temperature: Optional[float] = 0, max_tokens=256, logprobs=0) -> str:
         """
         Make a request to Open AI's GPT Completion LLM.
 
@@ -26,8 +26,9 @@ class GPTCompletion(LLMBase):
             temperature=temperature,
             prompt=prompt,
             max_tokens=max_tokens,
-            logprobs=0
+            logprobs=logprobs
         )
+    
 
         tokens_used = response["usage"]["total_tokens"]
         cost_of_response = tokens_used * 0.000002
@@ -36,7 +37,6 @@ class GPTCompletion(LLMBase):
         self.total_tokens_used += tokens_used
         self.total_cost += cost_of_response
         self.log_probabilities = logprobs
-
         return response['choices'][0]['text']
     
     def get_log_probabilities(self):

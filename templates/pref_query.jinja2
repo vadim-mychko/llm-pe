@@ -1,0 +1,37 @@
+{# templates/query.txt #}
+
+Here are two examples of past interactions for you to follow:
+Example 1:
+A user has the following past interactions:
+Query: Do you care about fuel mileage? 
+Response: No, I don't really care about that.
+Query: Do you want a sports car? 
+Response: Yes
+An item has the following reviews: 
+Review: This is a grey four-door sedan that focuses on fuel efficiency and low budget.
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: False
+
+Example 2:
+A user has the following past interactions:
+Query: Do you need lots of trunk space? 
+Response: Yes, I regularly go on road trips with my family.
+Query: Do you want something that can go offroad? 
+Response: No, our trips are mostly highway driving.
+An item has the following reviews: 
+Review: This is a black SUV that has good fuel efficiency and lots of storage space but struggles on bad road conditions.
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: True
+
+Now, here is the real query:
+A customer has the following past interactions:
+{% for interaction in interactions %}
+Query: {{ interaction['query'] }}
+Response: {{ interaction['response'] }}
+{% endfor %}
+An item has the following reviews: 
+{% for review in reviews %}
+Review: {{ review }}
+{% endfor %}
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: 

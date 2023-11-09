@@ -8,6 +8,9 @@ class DataLoader(ABC):
         self.config = config
         self.logger = setup_logging(self.__class__.__name__, self.config)
 
+    def __len__(self):
+        pass
+
     @abstractmethod
     def get_data(self) -> list:
         """

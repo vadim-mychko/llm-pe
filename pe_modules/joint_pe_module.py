@@ -16,13 +16,14 @@ user_profile - string with the natural language user profile
 
 class JointPEModule(BasePEModule):
 
-    def __init__(self, config, dataloader):
-        super().__init__(config)
+    def __init__(self, config, dataloader, debug=False):
+        #TODO: Move debug to config
+        super().__init__(config, debug)
         self.items = dataloader.get_data()
         self.user_profile = ""
-        self.util = [[0.5]] * len(dataloader) # Until we figure out belief update, we'll just use a utility value in [0,1]
+        self.util = [0.5] * len(dataloader) # Until we figure out belief update, we'll just use a utility value in [0,1]
         self.responses = []
-        self.jinja_env = jinja2.Environment()
+        self.jinja_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
 
     '''
     Gets the top k items with UCB
@@ -33,7 +34,7 @@ class JointPEModule(BasePEModule):
     '''
     Return the items with the top k utility means. Just for ease of implementation
     '''
-    def top_k_utilities(self, k=3):
+    def top_k_utils(self, k=3):
         top_k_idx = sorted(range(len(self.util)), key=lambda i: self.util[i])[-2:]
         top_k_items = []
         for idx in top_k_idx:
@@ -45,12 +46,14 @@ class JointPEModule(BasePEModule):
     '''
     def query_selection(self):
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
-        query_items = self.top_k_means()
+        query_items = self.top_k_utils()
         
-        query = "Generate a yes or no query that best distinguishes between the following items: \n"
-        for i, item in enumerate(query_items):
-            item_str = "Item %d: %s\n" % (i, item['desc'])
-            query += item_str
+        template_file = self.config['llm']['query_selection_template_file']
+        query_template = self.jinja_env.get_template(template_file)
+        context = {
+            "items": query_items
+        }
+        query = query_template.render(context)
 
         response = self.llm.make_request(query)
         return response
@@ -82,7 +85,7 @@ class JointPEModule(BasePEModule):
         }
         final_query = query_template.render(context)
 
-        response = self.llm.make_request(final_query)
+        response = self.llm.make_request(final_query, logprobs=10)
         log_probs = self.llm.get_log_probabilities()
 
         # Extract T/F logprobs and return. Will need to pool positive/negative tokens
@@ -118,13 +121,19 @@ class JointPEModule(BasePEModule):
 
 
     def pe_loop(self):
-        for i in range(5):
+        for i in range(4):
             query = self.query_selection()
             print(query)
             response = input("Your response: ")
             self.responses.append({'query': query, 'response': response}) # maybe fix datatype later for scalability?
             self.belief_update() 
+            if (self.debug):
+                self.logger.debug("Utilities at turn", i, self.util)
+
 
         top_items = self.get_top_items(5)
+        print("Top ranked items:")
+        for i, item in enumerate(top_items):
+            print(i, item)
 
         return top_items

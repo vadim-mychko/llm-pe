@@ -5,7 +5,8 @@ data:
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
   llm_name: 'GPTCompletion'
-  pref_template_file: "./templates/pref_query.txt"
+  pref_template_file: "pref_query.jinja2"
+  query_selection_template_file: "query_selection.jinja2"
 logging:
   disabled: False
   level: DEBUG # options: INFO, DEBUG, WARNING

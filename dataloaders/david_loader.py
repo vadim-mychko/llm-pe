@@ -10,6 +10,9 @@ class DavidLoader(DataLoader):
             jdata = json.load(json_data)
         self.data = jdata['items']
 
+    def __len__(self):
+        return len(self.data)
+
     def get_data(self) -> list:
         return self.data
     

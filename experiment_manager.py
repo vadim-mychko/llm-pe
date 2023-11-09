@@ -23,7 +23,7 @@ class ExperimentManager():
     def run_experiment(self):
 
         # TODO: Add support for polymorphism later
-        pe_module = JointPEModule(self.config, self.dataloader)
+        pe_module = JointPEModule(self.config, self.dataloader, debug=True)
 
         result = pe_module.pe_loop()
 
