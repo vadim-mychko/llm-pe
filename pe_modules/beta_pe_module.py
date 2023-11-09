@@ -5,9 +5,9 @@ from pe_modules.base_pe_module import BasePEModule
 import jinja2
 
 #TODO: Remove these after debugging
-import matplotlib.pyplot as plt
-from scipy.stats import beta
-import numpy as np
+# import matplotlib.pyplot as plt
+# from scipy.stats import beta
+# import numpy as np
 
 '''
 BetaBernPEModule is a child class of PEModule, the core module for our preference elicitation task.
@@ -170,10 +170,10 @@ class BetaPEModule(BasePEModule):
             self.logger.debug(debug_str) 
 
             # Plotting utility
-            for i, util in enumerate(self.util):
-                x = np.linspace(beta.ppf(0.01, util['alpha'], util['beta']), beta.ppf(0.99, util['alpha'], util['beta']), 100)
-                plt.plot(x, beta.pdf(x, util['alpha'], util['beta']), label='%d' % i)
-            plt.show()
+            # for i, util in enumerate(self.util):
+            #     x = np.linspace(beta.ppf(0.01, util['alpha'], util['beta']), beta.ppf(0.99, util['alpha'], util['beta']), 100)
+            #     plt.plot(x, beta.pdf(x, util['alpha'], util['beta']), label='%d' % i)
+            # plt.show()
 
         # import pdb; pdb.set_trace()
 
