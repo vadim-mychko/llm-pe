@@ -29,12 +29,24 @@ class BetaPEModule(BasePEModule):
         self.jinja_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
         self.like_probs = [1] * len(dataloader) # This is the probability of each item being in the group the user prefers based on repeated spliting into half-spaces on aspects
         self.aspects = []
+        self.ucb_counts = [1] * len(dataloader) # start with one to avoid division by zero? TODO: confirm w Armin
+        self.turn = 0 # Counts the number of turns that have passed
 
     '''
-    Gets the top k items with UCB
+    Gets the top k items with UCB using tradeoff parameter c
     '''
-    def ucb_get_items(self, k=3):
-        pass
+    def ucb_get_items(self, k=3, c=1):
+        scores = [(util['alpha'] / (util['alpha'] + util['beta']) ) for util in self.util]
+
+        for i in range(len(scores)):
+            scores[i] += math.sqrt(2 * math.log(self.turn) / self.ucb_counts[i]) # TODO: Try to clean this up 
+        
+        top_k_idx = sorted(range(len(scores)), key=lambda i: scores[i])[-2:]
+
+        top_k_items = []
+        for idx in reversed(top_k_idx):
+            top_k_items.append(self.items[idx])
+        return top_k_items
 
     '''
     Return the items with the top k utility means. Just for ease of initial implementation
@@ -54,7 +66,7 @@ class BetaPEModule(BasePEModule):
     def query_selection(self):
         # Get the top 3 items and generate the query to differentiate between them
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
-        query_items = self.get_top_items(k=2)
+        query_items = self.ucb_get_items(k=3, c=0.2)
 
         debug_str = "Selecting query based on items with id %d and id %d" % (query_items[0]['id'], query_items[1]['id']) # TODO: Could maybe plot utility distn instead?
         self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
@@ -157,6 +169,7 @@ class BetaPEModule(BasePEModule):
         # Plot utility TODO: Remove when past initial stages
 
         for i in range(5):
+            self.turn += 1
             query = self.query_selection()
             print("QUERY:", query)
             response = input("Your response (ONLY yes or no): ")
