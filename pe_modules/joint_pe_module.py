@@ -11,14 +11,13 @@ JointPEModule models the utility conditioned on all responses.
 items - A list of all Items
 util - List with utility value beliefs for each item
 responses - List of user query/response strings
-user_profile - string with the natural language user profile
+user_profile - string with the natural language user profile -> Possibly removable?
 '''
 
 class JointPEModule(BasePEModule):
 
-    def __init__(self, config, dataloader, debug=False):
-        #TODO: Move debug to config
-        super().__init__(config, debug)
+    def __init__(self, config, dataloader):
+        super().__init__(config)
         self.items = dataloader.get_data()
         self.user_profile = ""
         self.util = [0.5] * len(dataloader) # Until we figure out belief update, we'll just use a utility value in [0,1]
@@ -42,9 +41,10 @@ class JointPEModule(BasePEModule):
         return top_k_items
 
     '''
-    Generates a query based on the current utility values.
+    Get the LLM to generate a query for the user based on the current utility values.
     '''
     def query_selection(self):
+        # Get the top 3 items and generate the query to differentiate between them
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
         query_items = self.get_top_items()
         
@@ -59,10 +59,10 @@ class JointPEModule(BasePEModule):
         return response
     
     '''
-    Do the actual belief update process given the probabilities.
+    Update the belief state at self.utils[item_idx] given the T/F probabilities.
     '''
     def update_from_probs(self, item_idx, true_prob, false_prob):
-        # TODO: For now we'll do some hack that just changes the mean
+        # TODO: For now we'll do some very sketchy hack that just changes the mean
         momentum = 0.3
         
         # This is super hacky, we'll fix it
@@ -72,11 +72,11 @@ class JointPEModule(BasePEModule):
         
     
     '''
-    Queries the LLM on if a user would like the item given the response history. Expects part of the query
-    string to be passed in query, like in the belief_update function. Returns a dict with the log probs of true/false
-    for the user liking the description of the item based on the response history in resp_hist_str
+    Queries the LLM on if a user would like the item given the response history. Returns a dict with the log probs of true/false
+    that the user will like the item based on item_reviews given the response history in self.responses
     '''
     def get_item_pref(self, item_reviews):
+        # Create query from jinja template
         pref_query_file = self.config['llm']['pref_template_file']
         query_template = self.jinja_env.get_template(pref_query_file)
         context = {
@@ -85,18 +85,20 @@ class JointPEModule(BasePEModule):
         }
         final_query = query_template.render(context)
 
+        # We want more than just the top logprob so set logprobs to something higher than 0
         response = self.llm.make_request(final_query, logprobs=10)
         log_probs = self.llm.get_log_probabilities()
 
-        # Extract T/F logprobs and return. Will need to pool positive/negative tokens
+        # Extract T/F logprobs 
         true_prob = 0.0
         false_prob = 0.0
 
-        #TODO: Add an option to turn off stripping and lowercasing
+        #TODO: Add an option to turn off stripping and lowercasing.
 
         for token_pos in log_probs: # Iterate over each token value for each token position
             for token_val in token_pos.keys():
                 trimmed_token_val = token_val.strip().lower()
+                 # If token is 'true' or 'false' after lowercasing and stripping, add to corresponding probability total
                 if trimmed_token_val == "true":
                     token_log_prob = token_pos[token_val]
                     token_prob = math.exp(token_log_prob)
@@ -109,27 +111,30 @@ class JointPEModule(BasePEModule):
         return {'true': true_prob, 'false': false_prob}
 
     '''
-    Updates the belief state for all items and user profile based on the user's response
+    Updates the belief state for all items and user profile based on all of the user's past response
     '''
     def belief_update(self): 
         for item_idx, item in enumerate(self.items):
-            # Get logprobs
+            # Get logprobs of user liking item based on reviews and user's interactions
             probs = self.get_item_pref(item['reviews'])
             # Perform update
             self.update_from_probs(item_idx, probs['true'], probs['false'])
         return
 
-
+    '''
+    pe_loop is the core functionality of the preference elicitation module. It repeatedly selects a query,
+    gets the user's response, then updates beliefs. Currently, it is set to run a fixed number of times before printing
+    the top 3 items
+    '''
     def pe_loop(self):
         for i in range(3):
             query = self.query_selection()
             print(query)
             response = input("Your response: ")
-            self.responses.append({'query': query, 'response': response}) # maybe fix datatype later for scalability?
+            self.responses.append({'query': query, 'response': response}) 
             self.belief_update() 
-            if (self.debug):
-                debug_str = "Utilities at turn %s: %s" % (i, str(self.util))
-                self.logger.debug(debug_str)
+            debug_str = "Utilities at turn %s: %s" % (i, str(self.util))
+            self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
 
 
         top_items = self.get_top_items(3)

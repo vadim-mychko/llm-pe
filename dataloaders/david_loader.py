@@ -4,7 +4,10 @@ import json
 
 class DavidLoader(DataLoader):
 
-    def __init__(self, config): #TODO: Fix for JSON
+    '''
+    Load the json data file into self.data
+    '''
+    def __init__(self, config): 
         super().__init__(config)
         with open(self.config['data']['data_path']) as json_data:
             jdata = json.load(json_data)
