@@ -34,8 +34,8 @@ class JointPEModule(BasePEModule):
     '''
     Return the items with the top k utility means. Just for ease of implementation
     '''
-    def top_k_utils(self, k=3):
-        top_k_idx = sorted(range(len(self.util)), key=lambda i: self.util[i])[-2:]
+    def get_top_items(self, k=3):
+        top_k_idx = sorted(range(len(self.util)), key=lambda i: self.util[i])[-k:]
         top_k_items = []
         for idx in top_k_idx:
             top_k_items.append(self.items[idx])
@@ -46,7 +46,7 @@ class JointPEModule(BasePEModule):
     '''
     def query_selection(self):
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
-        query_items = self.top_k_utils()
+        query_items = self.get_top_items()
         
         template_file = self.config['llm']['query_selection_template_file']
         query_template = self.jinja_env.get_template(template_file)
@@ -121,17 +121,18 @@ class JointPEModule(BasePEModule):
 
 
     def pe_loop(self):
-        for i in range(4):
+        for i in range(3):
             query = self.query_selection()
             print(query)
             response = input("Your response: ")
             self.responses.append({'query': query, 'response': response}) # maybe fix datatype later for scalability?
             self.belief_update() 
             if (self.debug):
-                self.logger.debug("Utilities at turn", i, self.util)
+                debug_str = "Utilities at turn %s: %s" % (i, str(self.util))
+                self.logger.debug(debug_str)
 
 
-        top_items = self.get_top_items(5)
+        top_items = self.get_top_items(3)
         print("Top ranked items:")
         for i, item in enumerate(top_items):
             print(i, item)
