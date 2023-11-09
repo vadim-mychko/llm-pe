@@ -116,14 +116,8 @@ class BetaPEModule(BasePEModule):
     def belief_update(self): 
         # Query LLM to extract aspect from the last query -> based on the yes/no of the response this is true/false respectively
         aspect = self.get_last_aspect()
-        
-        # If user responded no to the query, we add NOT to the aspect TODO: This needs to be fixed later on since NOT might
-        # not mke semantic sense in some cases. Probably just reverse the entailment assessment.
-        if self.responses[-1]['response'] == "no":
-            aspect = "NOT " + aspect
-
         self.aspects.append(aspect)
-
+        
         #  Perform entailment between the aspect and each item to get a halfspace - 
         #  e.g. , for item i1, prompt an LLM with "Could <aspect> be used to describe i1? Reply Yes/No.'' - anton
         for i, item in enumerate(self.items):
@@ -137,6 +131,10 @@ class BetaPEModule(BasePEModule):
             else:
                 debug_str += " does NOT entail item %d" % i
             self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
+
+            # If user responded "no", then invert the entailment assessment. TODO: This is a little sketchy, clear with the others
+            if self.responses[-1]['response'] == "no":
+                entailment = not entailment
 
             # Armin's belief update
             # Update like_probs to indicate probability of preference for item's aspect space
@@ -158,9 +156,9 @@ class BetaPEModule(BasePEModule):
     def pe_loop(self):
         # Plot utility TODO: Remove when past initial stages
 
-        for i in range(3):
+        for i in range(5):
             query = self.query_selection()
-            print(query)
+            print("QUERY:", query)
             response = input("Your response (ONLY yes or no): ")
             self.responses.append({'query': query, 'response': response}) 
             self.belief_update() 
@@ -180,6 +178,8 @@ class BetaPEModule(BasePEModule):
         top_items = self.get_top_items(3)
         print("Top ranked items:")
         for i, item in enumerate(top_items):
-            print("Rank %d: " % i, item)        
+            print("Rank %d: Item #%d" % (i,item['id']))
+            for review in item['reviews']:
+                print("   Review:", review)
 
         return top_items
