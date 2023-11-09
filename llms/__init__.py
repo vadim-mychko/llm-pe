@@ -3,6 +3,6 @@ from llms.openai_wrapper import GPTChatCompletion, GPTCompletion
 
 
 LLM_CLASSES = {
-    'GPTChat': GPTChatCompletion,
-    'GPT': GPTCompletion
+    'GPTChatCompletion': GPTChatCompletion,
+    'GPTCompletion': GPTCompletion
 }

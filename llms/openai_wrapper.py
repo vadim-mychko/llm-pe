@@ -31,17 +31,27 @@ class GPTCompletion(LLMBase):
 
         tokens_used = response["usage"]["total_tokens"]
         cost_of_response = tokens_used * 0.000002
-        logprobs = response['choices'][0]['logprobs']['token_logprobs']
+        logprobs = response['choices'][0]['logprobs']['top_logprobs'] #TODO: Since we want more than just top, change this
 
         self.total_tokens_used += tokens_used
         self.total_cost += cost_of_response
         self.log_probabilities = logprobs
 
         return response['choices'][0]['text']
+    
+    def get_log_probabilities(self):
+        """
+        Get the log probabilities of the most recent response.
+
+        Returns:
+            list: The log probabilities.
+        """
+        return self.log_probabilities
+    
 
 class GPTChatCompletion(LLMBase):
     def __init__(self, config):
-        super.__init__(config)
+        super().__init__(config)
         
     def make_request(self, prompt: str, temperature: Optional[float] = 0, max_tokens=2000) -> str:
         """

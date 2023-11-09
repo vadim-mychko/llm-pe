@@ -5,7 +5,7 @@ import abc
 import logging
 import os
 import openai
-from utils.setup_logging import setup_logging
+from utils.logging import setup_logging
 
 #[Anton Jun 27]: Looks like you've rewritten the base LLM class into a base OpenAI class. 
 #I agree we need to have an abstract class for the OpenAI models, and this code can be the basis for that.
@@ -23,7 +23,7 @@ class LLMBase(abc.ABC):
         openai.api_key = self.API_KEY
 
     @abc.abstractmethod
-    def make_request(self, prompt: str, temperature: Optional[float] = 0, max_tokens=256) -> str:
+    def make_request(self, prompt: str, temperature=0.0, max_tokens=256) -> str:
         """
         Make a request to the LLM.
 

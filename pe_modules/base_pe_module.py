@@ -12,10 +12,10 @@ BasePEModule is the abstract base class for the core module for our preference e
 class BasePEModule(abc.ABC):
 
     def __init__(self, config):
-        self.logger: logging.Logger = setup_logging(self.__class__.__name__)
+        self.logger: logging.Logger = setup_logging(self.__class__.__name__, config)
         self.config = config
 
-        llm_module = llms.LLM_CLASSES[self.config['model']['llm_name']]
+        llm_module = llms.LLM_CLASSES[self.config['llm']['llm_name']]
         self.llm = llm_module(config)
 
     def get_top_items(self, k=5):

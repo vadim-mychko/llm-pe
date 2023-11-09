@@ -1,9 +1,11 @@
 debug_mode: false  
 data:
   data_loader_name: DavidLoader
-  data_path: data/david_data.csv
+  data_path: data/david_data.json
 llm:
-  model: "gpt-3.5-turbo" # options: "text-davinci-003"
+  model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
+  llm_name: 'GPTCompletion'
+  pref_template_file: "./templates/pref_query.txt"
 logging:
   disabled: False
   level: DEBUG # options: INFO, DEBUG, WARNING
