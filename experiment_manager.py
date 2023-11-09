@@ -1,5 +1,6 @@
 import os
 from pe_modules.joint_pe_module import JointPEModule
+from pe_modules.beta_pe_module import BetaPEModule
 import dataloaders
 import llms
 import argparse
@@ -23,7 +24,8 @@ class ExperimentManager():
     def run_experiment(self):
 
         # TODO: Add support for polymorphism later
-        pe_module = JointPEModule(self.config, self.dataloader)
+        #pe_module = JointPEModule(self.config, self.dataloader)
+        pe_module = BetaPEModule(self.config, self.dataloader)
 
         result = pe_module.pe_loop()
 

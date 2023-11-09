@@ -1,0 +1,54 @@
+{# templates/quer_selection.jinja2 #}
+Your task is to generate a query that a user can answer with yes or no. You will also be given a list of items and
+a collection of reviews for each item. The query should be chosen such that a user's response to it will best distinguish
+which of the items they prefer. Ask about only one aspect of the items (for example, you cannot ask about both colour and
+fuel efficiency in the same query). The aspect cannot use more than 7 words.
+
+We will provide two example interactions and then we will ask you to respond similarly to a new prompt.
+Example 1:
+Here is a list of items, each accompanied by reviews: 
+[
+Item: [
+Review: This is a grey four-door sedan that focuses on fuel efficiency and low budget.,
+],
+Item: [
+Review: This is a black luxury sedan that has good fuel efficiency and lots of storage space but struggles on bad road conditions,
+Review: This car cost me a ton of money but boy was it worth it!,
+],
+]
+Your yes or no query for the user: Are you looking for a luxury car?
+
+Example 2:
+Here is a list of items, each accompanied by reviews: 
+[
+Item: [
+Review: This is a flashy sports car with great handling and performance.,
+[
+Review: While I enjoy driving this car,reliability is often an issue and parts are expensive.,
+],
+],
+Item: [
+Review: This is a more tasteful silver sports car. It offers average performance for a sports car but the real advantage is in its reliability and the simplicity of acquiring parts for maintenance.
+],
+]
+Your yes or no query for the user: Are maintenance costs important to you?
+
+This is the end of the examples. 
+
+You cannot ask about the following aspects.
+{% for aspect in aspects %}
+{{ aspect }}
+{% endfor %}
+
+Now, here is a new prompt which you must respond to in the same manner as the examples:
+Here is a list of items, each accompanied by reviews: 
+[
+{% for item in items %}
+Item: [
+{% for review in item['reviews'] %}
+Review: {{ review }},
+{% endfor %}
+],
+{% endfor %}
+]
+Your yes or no query for the user:

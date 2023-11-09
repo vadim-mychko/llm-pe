@@ -111,7 +111,7 @@ class JointPEModule(BasePEModule):
         return {'true': true_prob, 'false': false_prob}
 
     '''
-    Updates the belief state for all items and user profile based on all of the user's past response
+    Updates the belief state for all items based on all of the user's past response
     '''
     def belief_update(self): 
         for item_idx, item in enumerate(self.items):

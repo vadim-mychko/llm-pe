@@ -1,0 +1,15 @@
+{# templates/aspect_query.jinja2 #}
+You will be given a query that was asked to a user who is seeking to choose an item from a set. The query is posed in order to
+better determine which item the user prefers based on the characteristics of the items.
+Your task is to extract one aspect that is no more than 7 words that describes what characteristic the query was asking about.
+
+Here are some examples: 
+Query: Do you prioritize trunk space when choosing a car?
+Response: trunk space
+Query: Are you looking for a fuel-efficient vehicle?
+Response: fuel-efficiency
+Query: Are maintenance costs important to you??
+Response: maintenance costs
+
+Query: {{ interaction['query'] }}
+Response: 

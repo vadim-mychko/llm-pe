@@ -1,0 +1,6 @@
+{# templates/entailment_query.jinja2 #}
+An item has these reviews: [
+{% for review in reviews %}
+Review: {{ review }},
+{% endfor %}]
+Does "{{ aspect }}" describe this item? Answer only yes or no.
