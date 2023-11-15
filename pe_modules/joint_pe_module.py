@@ -65,8 +65,9 @@ class JointPEModule(BasePEModule):
         # TODO: For now we'll do some very sketchy hack that just changes the mean
         momentum = 0.3
         
-        # This is super hacky, we'll fix it
-        new_util = ((1-momentum) * self.util[item_idx]) + momentum * (true_prob / (true_prob + false_prob))
+        # This is super hacky, we'll fix it -> Try update fully every time
+        # TODO: Look at log probs for each item given interactions w 1- / 2 values
+        new_util = ((1-momentum) * self.util[item_idx]) + momentum * (true_prob / (true_prob + false_prob)) 
         self.util[item_idx] = new_util
         return
         
@@ -106,7 +107,11 @@ class JointPEModule(BasePEModule):
                 if trimmed_token_val == "false":
                     token_log_prob = token_pos[token_val]
                     token_prob = math.exp(token_log_prob)
-                    false_prob += token_prob
+                    false_prob += token_prob 
+
+        # TODO: Use Mustafa's update method -> Confirm how this would make sense in our context
+        # true_prob = (1 + true_prob) / 2
+        # false_prob = (1 - false_prob) / 2
             
         return {'true': true_prob, 'false': false_prob}
 

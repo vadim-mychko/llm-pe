@@ -35,13 +35,13 @@ class BetaPEModule(BasePEModule):
     '''
     Gets the top k items with UCB using tradeoff parameter c
     '''
-    def ucb_get_items(self, k=3, c=1):
+    def ucb_get_items(self, k=3, c=1): #TODO: Talk to Armin + Anton - think about changing this to choose the whole set. Mean is mean across all items
         scores = [(util['alpha'] / (util['alpha'] + util['beta']) ) for util in self.util]
 
         for i in range(len(scores)):
-            scores[i] += math.sqrt(2 * math.log(self.turn) / self.ucb_counts[i]) # TODO: Try to clean this up 
+            scores[i] += c * math.sqrt(2 * math.log(self.turn) / self.ucb_counts[i]) # TODO: Try to clean this up 
         
-        top_k_idx = sorted(range(len(scores)), key=lambda i: scores[i])[-2:]
+        top_k_idx = sorted(range(len(scores)), key=lambda i: scores[i])[-k:]
 
         top_k_items = []
         for idx in reversed(top_k_idx):
@@ -59,14 +59,20 @@ class BetaPEModule(BasePEModule):
         for idx in reversed(top_k_idx):
             top_k_items.append(self.items[idx])
         return top_k_items
+    
+    # TODO: Check that the prev queries are being added to the banned list
+    # Maybe try multi-stage with extract aspect to query and then generate query about attribute
+    # TODO: Change query banned list to positive rather than negative "Generate a NEW aspect"
+    # TODO: Could maintain list of queries and check for matches, then say the previous was unacceptable
 
     '''
     Get the LLM to generate a query for the user based on the current utility values.
     '''
+    # TODO: This should be in superclass or have a new class for this w Strategy design pattern
     def query_selection(self):
         # Get the top 3 items and generate the query to differentiate between them
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
-        query_items = self.ucb_get_items(k=3, c=0.2)
+        query_items = self.ucb_get_items(k=3, c=0.2) #TODO: Make these config parameters -> spend some time
 
         debug_str = "Selecting query based on items with id %d and id %d" % (query_items[0]['id'], query_items[1]['id']) # TODO: Could maybe plot utility distn instead?
         self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
@@ -81,11 +87,13 @@ class BetaPEModule(BasePEModule):
         query = query_template.render(context)
 
         response = self.llm.make_request(query)
+        self.logger.debug(query)
         return response
     
     '''
     Returns a string with the attribute that the llm extracted from the most recent query
     '''
+    # TODO: This should be in superclass
     def get_last_aspect(self):
         # An aspect based on the user's response to the last query
         
@@ -99,6 +107,7 @@ class BetaPEModule(BasePEModule):
         response = self.llm.make_request(query)
         return response
     
+    # TODO: This should be in superclass
     def entailment_check(self, aspect, item):
 
         template_file = self.config['llm']['entailment_template_file']
@@ -165,6 +174,7 @@ class BetaPEModule(BasePEModule):
     gets the user's response, then updates beliefs. Currently, it is set to run a fixed number of times before printing
     the top 3 items
     '''
+    # TODO: This should be in superclass
     def pe_loop(self):
         # Plot utility TODO: Remove when past initial stages
 

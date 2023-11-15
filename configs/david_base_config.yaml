@@ -10,5 +10,5 @@ llm:
   aspect_extraction_template_file: "aspect_query_just_query.jinja2"
   entailment_template_file: "entailment_query.jinja2"
 logging:
-  disabled: True # Replace with false
+  disabled: False # Replace with false
   level: DEBUG # options: INFO, DEBUG, WARNING
