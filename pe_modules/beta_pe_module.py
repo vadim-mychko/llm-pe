@@ -178,7 +178,7 @@ class BetaPEModule(BasePEModule):
             debug_str = "Utilities at turn %s: %s" % (i, str(self.util)) # TODO: Could maybe plot utility distn instead?
             self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
             debug_str = "Like_probs at turn %s: %s" % (i, str(self.like_probs)) 
-            self.logger.debug(debug_str) 
+            self.logger.debug(debug_str) # TODO: Maybe eventually automate so save intermediate steps
 
             # Plotting utility
             # for i, util in enumerate(self.util):
@@ -191,8 +191,8 @@ class BetaPEModule(BasePEModule):
         top_items = self.get_top_items(3)
         print("Top ranked items:")
         for i, item in enumerate(top_items):
-            print("Rank %d: Item #%d" % (i,item['id']))
-            for review in item['reviews']:
-                print("   Review:", review)
+            print("Rank %d: " % i , item['name'])
+            # for review in item['reviews']:
+            #     print("   Review:", review)
 
         return top_items
