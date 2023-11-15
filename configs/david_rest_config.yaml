@@ -1,12 +1,12 @@
 debug_mode: false  
 data:
-  data_loader_name: DavidLoader
-  data_path: data/david_data.json
+  data_loader_name: RestLoader
+  data_path: data/restaurants_david_3.json
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
   llm_name: 'GPTCompletion'
   pref_template_file: "pref_query.jinja2"
-  query_selection_template_file: "query_selection_past_aspects.jinja2"
+  query_selection_template_file: "query_selection_past_queries.jinja2"
   aspect_extraction_template_file: "aspect_query_just_query.jinja2"
   entailment_template_file: "entailment_query.jinja2"
 logging:

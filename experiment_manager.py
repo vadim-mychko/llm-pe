@@ -31,7 +31,7 @@ class ExperimentManager():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-config", "--config_path", type=str, default="./configs/david_base_config.yaml")
+    parser.add_argument("-config", "--config_path", type=str, default="./configs/david_rest_config.yaml")
 
     args = parser.parse_args()
 

@@ -35,13 +35,12 @@ Your yes or no query for the user: Are maintenance costs important to you?
 
 This is the end of the examples. 
 
-Here are the queries you have already asked and their responses. You must ask about a different aspect.
+The following queries are banned. You may not ask them under any circumstances.
 {% for interaction in interactions %}
 Query: {{ interaction['query'] }}
-Response: {{ interaction['response'] }}
 {% endfor %}
 
-Now, here is a new prompt which you must respond to in the same manner as the examples:
+Now, here is a new prompt which you must respond to in the same manner as the examples, without using a banned query:
 Here is a list of items, each accompanied by reviews: 
 [
 {% for item in items %}

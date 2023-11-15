@@ -140,6 +140,6 @@ class JointPEModule(BasePEModule):
         top_items = self.get_top_items(3)
         print("Top ranked items:")
         for i, item in enumerate(top_items):
-            print(i, item)
+            print(i, item['name'])
 
         return top_items
