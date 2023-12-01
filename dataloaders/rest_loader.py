@@ -18,7 +18,6 @@ class RestaurantLoader(DataLoader):
         return len(self.data)
 
     def get_data(self, k=3) -> list:
-        # TODO: Return the dict with the top k reviews for each restaurant
         return_list = []
         id_counter = 0
         for key in self.data.keys():

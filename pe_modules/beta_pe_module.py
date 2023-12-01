@@ -60,7 +60,6 @@ class BetaPEModule(BasePEModule):
             top_k_items.append(self.items[idx])
         return top_k_items
     
-    # TODO: Check that the prev queries are being added to the banned list
     # Maybe try multi-stage with extract aspect to query and then generate query about attribute
     # TODO: Change query banned list to positive rather than negative "Generate a NEW aspect"
     # TODO: Could maintain list of queries and check for matches, then say the previous was unacceptable
@@ -77,7 +76,7 @@ class BetaPEModule(BasePEModule):
         debug_str = "Selecting query based on items with id %d and id %d" % (query_items[0]['id'], query_items[1]['id']) # TODO: Could maybe plot utility distn instead?
         self.logger.debug(debug_str) # Log all utilities to debugger - works for small datasets
         
-        template_file = self.config['llm']['query_selection_template_file']
+        template_file = self.config['query']['query_selection_template_file']
         query_template = self.jinja_env.get_template(template_file)
         context = {
             "items": query_items,
@@ -86,7 +85,7 @@ class BetaPEModule(BasePEModule):
         }
         query = query_template.render(context)
 
-        response = self.llm.make_request(query)
+        response = self.llm.make_request(query, temperature=self.config['llm']['temperature'])
         self.logger.debug(query)
         return response
     
@@ -108,7 +107,19 @@ class BetaPEModule(BasePEModule):
         return response
     
     # TODO: This should be in superclass
-    def entailment_check(self, aspect, item):
+    # TODO: Meeting: We want to compare beta bernoulli to a joint aspect entailment update
+    # TODO: LLm-driven termination. Tool-assisted LLM. Termination: Looking at uncertainty and a 
+    # fixed number. What we really care about for termination is regret "what if I recommended this item
+    #  but the second best was actually good". If we go to a regret-driven method.
+    # Do we do better empirically with LLM-driven termination vs Bayesian
+    # TODO: Different utility model than beta bernoulli -> most would just be a continuous real value
+    # TODO: Different query -> to allow unbounded language interactions. 
+    # Pairwise gives continuous utility model but still binary feedback. Pairwise is powerful but we
+    # would need a different bayesian update for that vs our entailment feedback. So maybe our
+    # design choices are just yes/no vs full feedback
+    # TODO: Entailment from full conversation history to allow open-ended. We could do any interpolation between full
+    # history and just last response. Couldn't do aspect tho.
+    def entailment_check(self, aspect, item): #TODO: GET PROBABILITIES OF ENTAILMENT TO INFORM UPDATE STRENGTH -> Research sub-question: Is the LLM calibrated in its uncertainty
 
         template_file = self.config['llm']['entailment_template_file']
         query_template = self.jinja_env.get_template(template_file)

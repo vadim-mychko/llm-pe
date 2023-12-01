@@ -32,7 +32,7 @@ class GPTCompletion(LLMBase):
 
         tokens_used = response["usage"]["total_tokens"]
         cost_of_response = tokens_used * 0.000002
-        logprobs = response['choices'][0]['logprobs']['top_logprobs'] #TODO: Since we want more than just top, change this
+        logprobs = response['choices'][0]['logprobs']['top_logprobs']
 
         self.total_tokens_used += tokens_used
         self.total_cost += cost_of_response

@@ -48,14 +48,14 @@ class JointPEModule(BasePEModule):
         #query_items = self.ucb_get_items() #implement later, for now pick top 3 items by utility mean
         query_items = self.get_top_items()
         
-        template_file = self.config['llm']['query_selection_template_file']
+        template_file = self.config['query']['query_selection_template_file']
         query_template = self.jinja_env.get_template(template_file)
         context = {
             "items": query_items
         }
         query = query_template.render(context)
 
-        response = self.llm.make_request(query)
+        response = self.llm.make_request(query, temperature=self.config['llm']['temperature'])
         return response
     
     '''
