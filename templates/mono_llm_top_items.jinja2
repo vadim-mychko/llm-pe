@@ -1,0 +1,103 @@
+{# templates/mono_llm_top_items.jinja2 #}
+You will be given a list of queries and a user's responses to them. You will also be given a list 
+of items, each with a description. You must select the item IDs of the top items you would recommend to the user. The number of 
+items will be specified.
+
+Example:
+''''
+####
+Query: Are you looking for a long-sleeve or short-sleeve shirt?
+Response: Short-sleeve
+####
+####
+Query: What material are you looking for?
+Response: Cotton
+####
+####
+Query: How formal would you like the shirt to be?
+Response: I would prefer something a bit more casual
+####
+
+Your task is to select the item that best matches the user's preferences expressed in these interactions.
+Here are the descriptions of each item:
+####
+Item ID: 5
+Descriptions ["Lightweight linen oxford collar button down long-sleeve shirt."]
+####
+####
+Item ID: 2
+Descriptions ["Short-sleeve collared shirt. Made from egyptian cotton."]
+####
+####
+Item ID: 9
+Descriptions ["Brilliant blue silk dress shirt. Paisley pattern."]
+####
+What is the item ID of the item you would recommend?
+Response: 2
+''''
+
+
+Example:
+''''
+####
+Query: Do you want an electric guitar or an acoustic guitar?
+Response: Electric
+####
+####
+Query: What type of pickups do you want?
+Response: Two humbucker pickups
+####
+####
+Query: Is there a brand that you prefer?
+Response: I like Gibson, but Epiphone is fine too.
+####
+####
+Query: Do you prefer red of black?
+Response: I would prefer red over black. I also like blue. Colour doesn't matter as much.
+####
+
+Your task is to select the item that best matches the user's preferences expressed in these interactions.
+Here are the descriptions of each item:
+####
+Item ID: 9
+Descriptions ["Seagull acoustic guitar. Rich, warm tone."]
+####
+####
+Item ID: 5
+Descriptions ["Fender Stratocaster electric guitar. Three single-coil pickups and solid body design. Colour: Surf Green."]
+####
+####
+Item ID: 10
+Descriptions ["Yamaha Pacifica electric guitar. Solid body. Two pickups - one humbucker and one single coil. Colour: Brown"]
+####
+####
+Item ID: 7
+Descriptions ["Gibson SG335 electric guitar with two humbucker pickups and a semi-hollow body shape. Colour: Crimson"]
+####
+####
+Item ID: 4
+Descriptions ["Epiphone LP Junior electric guitar with two humbucker pickups and a solid body shape. Colour: Blue"]
+####
+What is the item ID of the item you would recommend?
+Response: 7
+''''
+
+
+Here is the full interaction history:
+''''
+{% for interaction in interactions %}
+####
+Query: {{ interaction['query'] }}
+Response: {{ interaction['response'] }}
+####
+{% endfor %}
+Your task is to select the item that best matches the user's preferences expressed in these interactions.
+Here are the descriptions of each item:
+{% for item in items %}
+####
+Item ID: {{ item['id'] }} 
+Descriptions {{ item['descriptions'] }}
+####
+{% endfor %}
+What is the item ID of the item you would recommend?
+Response:

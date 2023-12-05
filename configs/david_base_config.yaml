@@ -2,17 +2,27 @@ debug_mode: false
 data:
   data_loader_name: DavidLoader
   data_path: data/david_data.json
-query:
-  aspect_from_items_template_file: ""
-  query_from_aspect_template_file: ""
-  query_selection_template_file: "query_selection_past_queries.jinja2"
+dialogue_sim:
+  num_recs: 5
+  num_turns: 5
+  sim_type: "llm" # options: "llm" "manual"
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
   llm_name: 'GPTCompletion'
   pref_template_file: "pref_query.jinja2"
   aspect_extraction_template_file: "aspect_query_just_query.jinja2"
   entailment_template_file: "entailment_query.jinja2"
+  user_sim_template_file: "user_simulation.jinja2"
   temperature: 0.2
 logging:
   disabled: False # Replace with false
   level: DEBUG # options: INFO, DEBUG, WARNING
+mono_llm:
+  query_gen_template: "mono_llm_query_gen.jinja2"
+  top_items_template: "mono_llm_top_items.jinja2"
+pe:
+  pe_module_name: MonoLLM
+query:
+  aspect_from_items_template_file: ""
+  query_from_aspect_template_file: ""
+  query_selection_template_file: "query_selection_past_queries.jinja2"

@@ -1,0 +1,34 @@
+from users.base_user import UserSim
+'''
+The User class represents a user. 
+
+They have the following fields: 
+_id - unique int id
+top_items - List of Item ids indicating the user's top few items
+user_desc - String with a natural language description of the user
+'''
+
+class LLMUserSim(UserSim):
+    def __init__(self, config, top_item_desc, llm, jinja):
+        super().__init__()
+        self.config = config
+        self.llm = llm
+        self.jinja_env = jinja
+        self.top_item_desc = []
+
+    # Take in a list of strings and set it as the NL descriptions for the top item
+    def set_top_item(self, top_item_desc):
+        self.top_item_desc = top_item_desc
+
+    def get_response(self, query):
+        template_file = self.config['llm']['user_sim_template_file']
+        query_template = self.jinja_env.get_template(template_file)
+        context = {
+            "item_descs": self.top_item_desc, # Pass the descriptions of this user's preferred item
+            "query": query
+        }
+        prompt = query_template.render(context)
+
+        response = self.llm.make_request(prompt)
+        print("Query:", query, "\nResponse:", response)
+        return response

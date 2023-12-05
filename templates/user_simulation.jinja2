@@ -1,0 +1,11 @@
+{# templates/user_simulation.jinja2 #}
+You are a user who is being asked queries to elicit your preferences.
+
+The item that you prefer has the following descriptions:
+####
+{% for desc in item_descs %}
+Description: {{ desc }},
+####
+{% endfor %}
+Respond to the following query about your preferences:
+Query: {{ query }}

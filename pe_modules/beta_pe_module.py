@@ -1,5 +1,5 @@
 from item import Item
-from user import User
+from users.user import User
 import math
 from pe_modules.base_pe_module import BasePEModule
 import jinja2
