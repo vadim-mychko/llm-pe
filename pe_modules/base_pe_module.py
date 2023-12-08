@@ -3,6 +3,7 @@ import llms
 from utils.logging import setup_logging
 import abc
 import jinja2
+import query_selection.pointwise_item_selection as item_selection
 
 '''
 BasePEModule is the abstract base class for the core module for our preference elicitation task. 
@@ -38,3 +39,6 @@ class BasePEModule(abc.ABC):
     '''
     def update_from_response(self,query, response):
         return NotImplementedError("Abstract Base Class")
+    
+    def reset(self):
+        self.interactions = []

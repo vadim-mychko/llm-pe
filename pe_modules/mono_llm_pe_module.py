@@ -33,7 +33,6 @@ class MonoLLMPEModule(BasePEModule):
     def get_query(self):
         template_file = self.config['mono_llm']['query_gen_template']
         query_template = self.jinja_env.get_template(template_file)
-        # import pdb; pdb.set_trace()
         context = {
             "items": self.items,
             "interactions": self.interactions,

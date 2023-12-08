@@ -12,7 +12,7 @@ class DialogueSimulator:
 
     def run_dialogue(self, user, pe_module):
         recs = []
-        for i in range(self.config['dialogue_sim']['num_turns']):
+        for dialogue_turn_num in range(self.config['dialogue_sim']['num_turns']):
             query = pe_module.get_query()
             response = user.get_response(query)
             pe_module.update_from_response(query, response)

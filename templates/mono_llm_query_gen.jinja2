@@ -1,7 +1,7 @@
 {# templates/mono_llm_top_items.jinja2 #}
 Your task is to generate a query for a user that best elicits their preferences about a set of items. 
 You must first identify a single aspect that is no more than 7 words that best differentiates the items. 
-Then you will generate a query about that aspect.
+Then you will generate a yes/no query about that aspect.
 
 Example:
 ''''
@@ -16,7 +16,7 @@ Descriptions: ["The hit adult comedy of the summer. Constant gags, as well as so
 ####
 
 First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a query about that aspect.
+Then, respond with a yes or no query about that aspect.
 Output: Do you prefer family-friendly movies?
 ''''
 
@@ -37,8 +37,8 @@ Descriptions: ["The Yamaha Pacifica is perfect for a first electric guitar. It i
 ####
 
 First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a query about that aspect.
-Output: What type of pickups would you like your guitar to have?
+Then, respond with a yes or no query about that aspect.
+Output: Do you want single-coil pickups?
 ''''
 
 ''''
@@ -57,8 +57,9 @@ You must generate a novel query. The following queries have already been asked:
 Query: {{ interaction['query'] }}
 ####
 {% endfor %}
+Your query must ask about a different aspect than all of these queries.
 {% endif %}
 
 First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a query about that aspect.
+Then, respond with a yes or no query about that aspect.
 Output:

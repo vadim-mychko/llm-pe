@@ -1,7 +1,7 @@
 debug_mode: false  
 data:
   data_loader_name: DavidLoader
-  data_path: data/david_data.json
+  data_path: data/synth_data.json
 dialogue_sim:
   num_recs: 5
   num_turns: 5
@@ -9,9 +9,7 @@ dialogue_sim:
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
   llm_name: 'GPTCompletion'
-  pref_template_file: "pref_query.jinja2"
-  aspect_extraction_template_file: "aspect_query_just_query.jinja2"
-  entailment_template_file: "entailment_query.jinja2"
+  like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation.jinja2"
   temperature: 0.2
 logging:
@@ -21,8 +19,8 @@ mono_llm:
   query_gen_template: "mono_llm_query_gen.jinja2"
   top_items_template: "mono_llm_top_items.jinja2"
 pe:
-  pe_module_name: MonoLLM
+  pe_module_name: "DT" # options: "MonoLLM", "DT"
+  response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
 query:
-  aspect_from_items_template_file: ""
-  query_from_aspect_template_file: ""
-  query_selection_template_file: "query_selection_past_queries.jinja2"
+  query_gen_template: "pointwise_query_generation.jinja2"
+  item_selection: "ucb" # Which item selection method to use. See map in query_selection.pointwise_item_selection

@@ -34,9 +34,12 @@ class GPTCompletion(LLMBase):
         cost_of_response = tokens_used * 0.000002
         logprobs = response['choices'][0]['logprobs']['top_logprobs']
 
+        self.full_logprobs = response['choices'][0]['logprobs']
+
         self.total_tokens_used += tokens_used
         self.total_cost += cost_of_response
         self.log_probabilities = logprobs
+        # return response
         return response['choices'][0]['text']
     
     def get_log_probabilities(self):
@@ -47,6 +50,19 @@ class GPTCompletion(LLMBase):
             list: The log probabilities.
         """
         return self.log_probabilities
+    
+    def get_full_logprobs(self):
+        """
+        Get the list of logprobs rather than the top_logprobs dict
+
+        Returns:
+        dict with following fields:
+            "text_offset": list
+            "token_logprobs": list of probabilities
+            "tokens": list of tokens
+            "top_logprobs": list of dicts with top logprobs at each position
+        """
+        return self.full_logprobs
     
 
 class GPTChatCompletion(LLMBase):

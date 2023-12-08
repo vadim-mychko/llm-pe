@@ -1,4 +1,5 @@
 from users.base_user import UserSim
+from utils.logging import setup_logging
 '''
 The User class represents a user. 
 
@@ -14,7 +15,8 @@ class LLMUserSim(UserSim):
         self.config = config
         self.llm = llm
         self.jinja_env = jinja
-        self.top_item_desc = []
+        self.top_item_desc = top_item_desc
+        self.logger = setup_logging(self.__class__.__name__, self.config)
 
     # Take in a list of strings and set it as the NL descriptions for the top item
     def set_top_item(self, top_item_desc):
@@ -28,7 +30,8 @@ class LLMUserSim(UserSim):
             "query": query
         }
         prompt = query_template.render(context)
+        # self.logger.debug("User Sim Prompt: %s" % prompt)
 
         response = self.llm.make_request(prompt)
-        print("Query:", query, "\nResponse:", response)
+        self.logger.info("Query: %s Response: %s" % (query, response))
         return response
