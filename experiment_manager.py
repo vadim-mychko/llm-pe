@@ -16,79 +16,73 @@ from utils.logging import setup_logging
 
 class ExperimentManager():
 
-    def __init__(self, config):
+    def __init__(self):
 
-        self.config = config
-        self.logger = setup_logging(self.__class__.__name__, self.config)
+        self.logger = None
 
-        # Dataloader
-        dataloader = dataloaders.DATALOADER_CLASSES[self.config['data']['data_loader_name']]
-        self.dataloader = dataloader(config) # Could force to be DataLoader class here?
-        self.data = self.dataloader.get_data()
-        self.jinja = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
-        llm_module = llms.LLM_CLASSES[self.config['llm']['llm_name']]
-        self.llm = llm_module(config)
+    '''
+    Dump to JSON
+    '''
+    def dump_results(self):
+        raise NotImplementedError
 
-    def run_single_experiment(self):
-        dial_sim = DialogueSimulator(self.config)
-        
-        # SELECT USER SIM AND PE MODULE TYPES
-        user = UserSim()
-        if (self.config['dialogue_sim']['sim_type'] == "llm"):
-            item_num = 0 # NOTE: SET THE ITEM NUMBER HERE
-            user = LLMUserSim(self.config, self.data[item_num]['description'], self.llm, self.jinja)
-            self.logger.debug("First Description of Top Item: %s" % self.data[item_num]['description'][0])
-            
-        pe_module_class = pe_modules.PE_MODULE_CLASSES[self.config['pe']['pe_module_name']]
-        pe_module = pe_module_class(self.config, self.dataloader)
+    # This class should eventually use the UserSim class to allow manual experiments. Not implementing now bc low priority
+    def manual_experiment(self, config):
+        raise NotImplementedError
 
-        # Run Dialogue
-        recs = dial_sim.run_dialogue(user, pe_module)
-        # TODO: Temp fix for difference in output format
-        for turn in range(len(recs)):
-            if (self.config['pe']['pe_module_name'] == "DT"):
-                self.logger.info("Recommendations at turn %d: %s" % (turn, recs[turn][0]['id']))
-            else:
-                self.logger.info("Recommendations at turn %d: %s" % (turn, recs[turn]))
+    '''
+    Run the experiment specified by the config file
+    '''
 
-    def run_multi_experiment(self):
-        dial_sim = DialogueSimulator(self.config)
-        
-        # SELECT USER SIM AND PE MODULE TYPES
-        item_num = 0
-        user = LLMUserSim(self.config, self.data[item_num]['description'], self.llm, self.jinja)
+    def run_single_experiment(self, config):
+        self.logger = setup_logging(self.__class__.__name__, config)
+
+        # Dataloader Class
+        dataloader_class = dataloaders.DATALOADER_CLASSES[config['data']['data_loader_name']]
+        # Load item data
+        item_dataloader = dataloader_class(config['data']['data_path'], config) 
+        items = item_dataloader.get_data()
+        # Load user data
+        user_dataloader = dataloader_class(config['data']['user_path'], config) 
+        user_data = user_dataloader.get_data()
+        # Set up other stuff
+        jinja = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
+        llm_module = llms.LLM_CLASSES[config['llm']['llm_name']]
+        llm = llm_module(config)
+
+        # Dialogue Sim
+        dial_sim = DialogueSimulator(config)
+
+        # PE Module
+        pe_module_class = pe_modules.PE_MODULE_CLASSES[config['pe']['pe_module_name']]
+        pe_module = pe_module_class(config, item_dataloader)
 
         runs = []
+        for user_id, user_item_ids in user_data.items():
+            # Add relevant item descriptions to a list
+            item_descs = []
+            for item_id in user_item_ids:
+                item_descs.append(items[item_id]['description'])
+            # Create user simulator and dialogue simulator
+            user_sim = LLMUserSim(config, item_descs, llm, jinja)
 
-        pe_module_class = pe_modules.PE_MODULE_CLASSES[self.config['pe']['pe_module_name']]
-        pe_module = pe_module_class(self.config, self.dataloader)
-#
-        for run_num in range(len(self.data)):
-        # for run_num in range(2):
+            # Reset pe_module
             pe_module.reset()
-            # import pdb; pdb.set_trace()
-            user.set_top_item(self.data[run_num]['description'])
-            self.logger.debug("First Description of Top Item: %s" % self.data[run_num]['description'][0])
                 
             # Run Dialogue
-            recs = dial_sim.run_dialogue(user, pe_module)
+            recs = dial_sim.run_dialogue(user_sim, pe_module)
+            
             # TODO: Temp fix for difference in output format
             for rec_turn in range(len(recs)):
-                if (self.config['pe']['pe_module_name'] == "DT"):
-                    runs.append({'run': run_num,'turn': rec_turn, 'correct_item': run_num, 'rec_item': recs[rec_turn][0]['id']})
+                if (config['pe']['pe_module_name'] == "DT"):
+                    runs.append({'user_id': user_id,'turn': rec_turn, 'correct_items': user_item_ids, 'rec_items': recs[rec_turn][0]})
                     # self.logger.info("Recommendations at turn %d: %s" % (turn, recs[turn][0]['id']))
                 else:
                     # self.logger.info("Recommendations at turn %d: %s" % (turn, recs[turn]))
-                    runs.append({'run': run_num, 'turn': rec_turn, 'correct_item': self.data[run_num]['id'], 'rec_item': recs[rec_turn]})
+                    runs.append({'user_id': user_id, 'turn': rec_turn, 'correct_items': user_item_ids, 'rec_items': recs[rec_turn]})
 
-        self.logger.info("RESULTS: ######################################")
-        for run in runs:
-            if (self.config['pe']['pe_module_name'] == "DT"):
-                self.logger.info("Run %d - Turn %d - Correct Item %d - Recommended Item %d" % (run['run'], run['turn'], run['correct_item'], run['rec_item']))
-            else:
-                self.logger.info("Run %d - Turn %d - Correct Item %d - Recommended Item %s" % (run['run'], run['turn'], run['correct_item'], run['rec_item']))
-
-        
+        #TODO: Change output format and dump to JSON
+        print(runs)
 
 
 if __name__ == "__main__":
@@ -100,6 +94,6 @@ if __name__ == "__main__":
 
     config = yaml.safe_load(open(args.config_path))
 
-    experiment_manager = ExperimentManager(config)
+    experiment_manager = ExperimentManager()
     # experiment_manager.run_multi_experiment()
-    experiment_manager.run_single_experiment()
+    experiment_manager.run_single_experiment(config)

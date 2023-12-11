@@ -7,9 +7,9 @@ Then you will generate a yes/no query about that aspect.
 
 Example:
 ''''
-Here are the descriptions of the item:
+Here is the description of the item:
 ####
-Descriptions: ["This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family"]
+Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
 ####
 
 First, determine the aspect that best elicits the user's preference over this item and unseen items. Assume the 
@@ -20,9 +20,9 @@ Output: Are you looking for a family-friendly movies?
 
 Example:
 ''''
-Here are the descriptions of the item:
+Here is the description of the item:
 ####
-Descriptions: ["Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available."]
+Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
 ####
 
 You must generate a novel query. The following queries have already been asked:
@@ -40,9 +40,9 @@ Output: Do you prefer single-coil pickups?
 ''''
 
 ''''
-Here are the descriptions of the item:
+Here is the description of the item:
 ####
-Descriptions: [ {% for description in item_desc %} {{ description }} {% endfor %}]
+Descriptions: [ {{ item_desc }} ]
 ####
 
 {% if interactions %}

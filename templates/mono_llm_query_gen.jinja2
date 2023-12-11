@@ -8,11 +8,11 @@ Example:
 Here are the descriptions of each item
 ####
 Item ID: 3
-Descriptions: ["This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family"]
+Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
 ####
 ####
 Item ID: 1
-Descriptions: ["The hit adult comedy of the summer. Constant gags, as well as some innuendo and risque scenes."]
+Description: The hit adult comedy of the summer. Constant gags, as well as some innuendo and risque scenes.
 ####
 
 First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
@@ -25,15 +25,15 @@ Example:
 Here are the descriptions of each item
 ####
 Item ID: 2
-Descriptions: ["The Gibson SG335 electric guitar is set up with two humbucker pickups and a semi-hollow body shape. Comes in red, black, and blue."]
+Description: The Gibson SG335 electric guitar is set up with two humbucker pickups and a semi-hollow body shape. Comes in red, black, and blue.
 ####
 ####
 Item ID: 16
-Descriptions: ["Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available."]
+Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
 ####
 ####
 Item ID: 7
-Descriptions: ["The Yamaha Pacifica is perfect for a first electric guitar. It is solid body. Experts note the flexibility of the Pacifica, which comes with a two pickups - one humbucker and one single coil."]
+Description: The Yamaha Pacifica is perfect for a first electric guitar. It is solid body. Experts note the flexibility of the Pacifica, which comes with a two pickups - one humbucker and one single coil.
 ####
 
 First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
@@ -43,10 +43,10 @@ Output: Do you want single-coil pickups?
 
 ''''
 Here are the descriptions of each item:
-{% for item in items %}
+{% for item_id, item_value in items.items() %}
 ####
-Item ID: {{ item['id'] }} 
-Descriptions: {{ item['description'] }}
+Item ID: {{ item_id }} 
+Description: {{ item_value['description'] }}
 ####
 {% endfor %}
 

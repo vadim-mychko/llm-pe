@@ -13,8 +13,7 @@ Response: No, I don't really care about that.
 Query: Do you want a sports car? 
 Response: Yes
 ####
-An item has the following descriptions: 
-####
+The item has this description:
 Description: This is a grey four-door sedan that focuses on fuel efficiency and low budget.
 ####
 Is the following statement true or false: This user will like this item. Answer only with True or False.
@@ -36,8 +35,7 @@ Response: Two humbucker pickups
 Query: Is there a brand that you prefer?
 Response: I like Gibson, but Epiphone is fine too.
 ####
-An item has the following descriptions: 
-####
+The item has this description:
 Description: Gibson SG335 electric guitar with two humbucker pickups and a semi-hollow body shape. Colour: Crimson
 ####
 Is the following statement true or false: This user will like this item. Answer only with True or False.
@@ -53,11 +51,9 @@ Query: {{ interaction['query'] }}
 Response: {{ interaction['response'] }}
 ####
 {% endfor %}
-An item has the following reviews: 
-{% for description in item_desc %}
 ####
+The item has this description:
 Description: {{ item_desc }}
 ####
-{% endfor %}
 Is the following statement true or false: This user will like this item. Answer only with True or False.
 Your response: 

@@ -1,5 +1,6 @@
 from pe_modules.base_pe_module import BasePEModule
-import query_selection.pointwise_item_selection as item_selection
+import math
+import heapq
 import math
 
 
@@ -11,23 +12,31 @@ class DTPEModule(BasePEModule):
 
     def __init__(self, config, dataloader):
         super().__init__(config, dataloader)
-        self.belief = [{"alpha": 0.5, "beta": 0.5}] * len(self.items) # Set initial belief state
+        self.belief = {}
+        for id in self.items:
+            self.belief[id] = {"alpha": 0.5, "beta": 0.5} # Set initial belief state
         # TODO: Set up item selection method from config
 
     '''
     Generates a query based on the current utility values and the provided set of items.
     '''
     def get_query(self):
-        item_selection_method = item_selection.ITEM_SELECTION_CLASSES[self.config['query']['item_selection']]
-        item_idx = item_selection_method(self.belief)
-        item_desc = self.items[item_idx[0]]['description'] #NOTE: Currently item_idx is a list to support returning multiple
+        ITEM_SELECTION_MAP = {
+        'greedy': self.item_selection_greedy,
+        }  
+        
+        item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
+
+        item_ids = item_selection_method() #NOTE: item_id is a list with the item_id of the top idx
+        # import pdb; pdb.set_trace()
+        item_desc = self.items[item_ids[0]]['description'] 
         # self.logger.debug("Generating query from item %d with first desc %s" % (item_idx[0], item_desc))
 
         template_file = self.config['query']['query_gen_template']
         prompt_template = self.jinja_env.get_template(template_file)
 
         context = {
-            "item_desc": item_desc, # List of item descriptions for the given item
+            "item_desc": item_desc, # Item description for the given item
             "interactions": self.interactions 
         }
         prompt = prompt_template.render(context)
@@ -39,14 +48,11 @@ class DTPEModule(BasePEModule):
         return user_query
     
     '''
-    Get the top k recommended items
+    Get the IDs of the top k recommended items
     '''
     def get_top_items(self, k=5):
-        top_k_idx = sorted(range(len(self.belief)), key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))[-k:]
-        top_k_items = []
-        for idx in reversed(top_k_idx):
-            top_k_items.append(self.items[idx])
-        return top_k_items
+        top_k_ids = heapq.nlargest(k, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))
+        return top_k_ids
     
     # Check if the user will like an item based on the item description and the full/partial interaction history
     # Return the probbility that the user will like the item as a float.
@@ -117,15 +123,36 @@ class DTPEModule(BasePEModule):
         self.interactions.append({"query": query, "response":response})
 
         # Update this for new class
-        for item_num, item in enumerate(self.items):
-            like_probs = self.get_like_probs(item)
+        for item_id in self.items:
+            like_probs = self.get_like_probs(self.items[item_id])
 
-            new_alpha = self.belief[item_num]['alpha'] + like_probs # new_alpha = old_alpha + L
-            new_beta = 1 - like_probs + self.belief[item_num]['beta'] # new_beta = 1 - L + old_beta
-            self.belief[item_num] = {'alpha': new_alpha, 'beta': new_beta}
+            new_alpha = self.belief[item_id]['alpha'] + like_probs # new_alpha = old_alpha + L
+            new_beta = 1 - like_probs + self.belief[item_id]['beta'] # new_beta = 1 - L + old_beta
+            self.belief[item_id] = {'alpha': new_alpha, 'beta': new_beta}
 
-            self.logger.debug("Like probs for item %d: %f, updated alpha = %f and beta = %f" % (item_num, like_probs, self.belief[item_num]['alpha'], self.belief[item_num]['beta']))
+            self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs, self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
 
     def reset(self):
         super().reset()
-        self.belief = [{"alpha": 0.5, "beta": 0.5}] * len(self.items)
+        self.belief = {}
+        for id in self.items:
+            self.belief[id] = {"alpha": 0.5, "beta": 0.5}
+
+
+    '''
+    the following item_selection_x() methods use different pointwise item selection methods. Each 
+    method returns the item_id on which to query, based on the selection method.
+    '''
+    # Select the item with the highest expected utility.
+    def item_selection_greedy(self):
+        top_id = heapq.nlargest(1, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
+        return top_id
+
+    def item_selection_random(self):
+        raise NotImplementedError
+
+    def item_selection_entropy_reduction(self):
+        raise NotImplementedError
+
+    def thompson_sampling(beliefs):
+        raise NotImplementedError

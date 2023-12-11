@@ -12,19 +12,20 @@ class MonoLLMPEModule(BasePEModule):
         super().__init__(config, dataloader)
 
     '''
-    Get the top k recommended items
+    Get the IDs of the top k recommended items
     '''
     def get_top_items(self, k=5):
         template_file = self.config['mono_llm']['top_items_template']
         query_template = self.jinja_env.get_template(template_file)
         context = {
             "num_items": k,
-            "items": self.items,
+            "items": self.items, 
             "interactions": self.interactions,
         }
         query = query_template.render(context)
 
         response = self.llm.make_request(query)
+        # TODO: We need to get this to work with more than a single top item
         return response
 
     '''

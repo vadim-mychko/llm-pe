@@ -60,23 +60,23 @@ Your task is to select the item that best matches the user's preferences express
 Here are the descriptions of each item:
 ####
 Item ID: 9
-Descriptions ["Seagull acoustic guitar. Rich, warm tone."]
+Description: Seagull acoustic guitar. Rich, warm tone.
 ####
 ####
 Item ID: 5
-Descriptions ["Fender Stratocaster electric guitar. Three single-coil pickups and solid body design. Colour: Surf Green."]
+Description: Fender Stratocaster electric guitar. Three single-coil pickups and solid body design. Colour: Surf Green.
 ####
 ####
 Item ID: 10
-Descriptions ["Yamaha Pacifica electric guitar. Solid body. Two pickups - one humbucker and one single coil. Colour: Brown"]
+Description: Yamaha Pacifica electric guitar. Solid body. Two pickups - one humbucker and one single coil. Colour: Brown
 ####
 ####
 Item ID: 7
-Descriptions ["Gibson SG335 electric guitar with two humbucker pickups and a semi-hollow body shape. Colour: Crimson"]
+Description: Gibson SG335 electric guitar with two humbucker pickups and a semi-hollow body shape. Colour: Crimson
 ####
 ####
 Item ID: 4
-Descriptions ["Epiphone LP Junior electric guitar with two humbucker pickups and a solid body shape. Colour: Blue"]
+Description: Epiphone LP Junior electric guitar with two humbucker pickups and a solid body shape. Colour: Blue
 ####
 What is the item ID of the item you would recommend?
 Response: 7
@@ -93,10 +93,10 @@ Response: {{ interaction['response'] }}
 {% endfor %}
 Your task is to select the item that best matches the user's preferences expressed in these interactions.
 Here are the descriptions of each item:
-{% for item in items %}
+{% for item_id, item_value in items.items() %}
 ####
-Item ID: {{ item['id'] }} 
-Descriptions {{ item['descriptions'] }}
+Item ID: {{ item_id }} 
+Description {{ item_value['description'] }}
 ####
 {% endfor %}
 What is the item ID of the item you would recommend?

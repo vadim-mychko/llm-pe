@@ -3,7 +3,6 @@ import llms
 from utils.logging import setup_logging
 import abc
 import jinja2
-import query_selection.pointwise_item_selection as item_selection
 
 '''
 BasePEModule is the abstract base class for the core module for our preference elicitation task. 
@@ -23,7 +22,7 @@ class BasePEModule(abc.ABC):
         self.llm = llm_module(config)
 
     '''
-    Get the top k recommended items
+    Get the IDs of the top k recommended items
     '''
     def get_top_items(self, k=5):
         pass
