@@ -4,8 +4,8 @@ data:
   data_path: "data/shapes.json"
   user_path: "data/users/single_user.json"
 dialogue_sim:
-  num_recs: 5
-  num_turns: 2
+  num_recs: 1
+  num_turns: 3
   sim_type: "llm" # options: "llm" "manual"
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
