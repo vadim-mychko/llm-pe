@@ -6,7 +6,7 @@ import jinja2
 class LLMLogprobScorer(ItemScorer):
 
     def __init__(self, config):
-        super().__init__(config)  # Corrected super() usage
+        super().__init__(config)  
 
         llm_module = llms.LLM_CLASSES[self.config['llm']['llm_name']]
         self.llm = llm_module(config)
