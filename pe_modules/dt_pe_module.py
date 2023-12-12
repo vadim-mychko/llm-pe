@@ -80,8 +80,7 @@ class DTPEModule(BasePEModule):
         #optional preprocessing
         if self.config['item_scoring']['preprocess_query']:
             preference = self.history_preprocessor.preprocess(preference)
-            print(f'preference: {preference}')
-            input()
+
 
         #get like_prob for all items
         like_probs = self.item_scorer.score_items(preference, self.items) 
@@ -92,7 +91,7 @@ class DTPEModule(BasePEModule):
             self.belief[item_id] = {'alpha': new_alpha, 'beta': new_beta}
 
             self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
-            input('')
+
 
     def reset(self):
         super().reset()
