@@ -28,6 +28,11 @@ class DTPEModule(BasePEModule):
             self.belief[id] = {"alpha": 0.5, "beta": 0.5} # Set initial belief state
         # TODO: Set up item selection method from config
 
+        # These fields are only used to maintain information for the return_dict
+        self.all_beliefs = [] # List containing full belief state at the end of each turn (i.e. after belief update)
+        self.queried_items = [] # List of items queried at each turn
+        self.recs = [] # List of recommended items at each step. Number recommended is from config
+
     '''
     Generates a query based on the current utility values and the provided set of items.
     '''
@@ -40,6 +45,7 @@ class DTPEModule(BasePEModule):
 
         item_ids = item_selection_method() #NOTE: item_id is a list with the item_id of the top idx
         # import pdb; pdb.set_trace()
+        self.queried_items.append(item_ids)
         item_desc = self.items[item_ids[0]]['description'] 
         # self.logger.debug("Generating query from item %d with first desc %s" % (item_idx[0], item_desc))
 
@@ -72,8 +78,6 @@ class DTPEModule(BasePEModule):
     def update_from_response(self, query, response):
         self.interactions.append({"query": query, "response":response})
 
-        #Anton dec 11: moved here to avoid repeating in each entailment method
-        #Anton dec 11: updated variable name to preference to allow for preprocessing
         # Use either full history or just last response 
         preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
 
@@ -92,12 +96,21 @@ class DTPEModule(BasePEModule):
 
             self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
 
+        self.all_beliefs.append(self.belief)
+
+        # Append the top k items to self.recs for return_dict
+        k = self.config['pe']['num_recs']
+        top_recs = self.get_top_items(k)
+        self.recs.append(top_recs)
+
 
     def reset(self):
         super().reset()
         self.belief = {}
         for id in self.items:
             self.belief[id] = {"alpha": 0.5, "beta": 0.5}
+        self.queried_items = []
+        self.all_beliefs = []
 
 
     '''
@@ -117,3 +130,10 @@ class DTPEModule(BasePEModule):
 
     def thompson_sampling(beliefs):
         raise NotImplementedError
+    
+    def get_last_results(self):
+        results = {"rec_items": self.recs, 
+                   "conv_hist": self.interactions, 
+                   "queried_items": self.queried_items, 
+                   "belief_states": self.all_beliefs}
+        return results

@@ -1,11 +1,10 @@
-debug_mode: false  
+debug_mode: false
 data:
   data_loader_name: "JSONLoader"
   data_path: "data/shapes.json"
   user_path: "data/users/single_user.json"
 dialogue_sim:
-  num_recs: 1
-  num_turns: 3
+  num_turns: 2
   sim_type: "llm" # options: "llm" "manual"
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
@@ -24,6 +23,7 @@ mono_llm:
 pe:
   pe_module_name: "DT" # options: "MonoLLM", "DT"
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
+  num_recs: 3
 query:
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
