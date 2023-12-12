@@ -2,6 +2,8 @@ from pe_modules.base_pe_module import BasePEModule
 import math
 import heapq
 import math
+import item_scorers
+import history_preprocessors
 
 
 '''
@@ -12,6 +14,15 @@ class DTPEModule(BasePEModule):
 
     def __init__(self, config, dataloader):
         super().__init__(config, dataloader)
+
+        item_scorer_class = item_scorers.ITEM_SCORER_CLASSES[config['item_scoring']['item_scorer_name']]
+        self.item_scorer = item_scorer_class(config)
+
+        if config['item_scoring']['preprocess_query']:
+            history_preprocessor_class = history_preprocessors.HISTORY_PREPROCESSOR_CLASSES[config['item_scoring']['history_preprocessor_name']]
+            self.history_preprocessor = history_preprocessor_class(config)
+
+
         self.belief = {}
         for id in self.items:
             self.belief[id] = {"alpha": 0.5, "beta": 0.5} # Set initial belief state
@@ -54,67 +65,6 @@ class DTPEModule(BasePEModule):
         top_k_ids = heapq.nlargest(k, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))
         return top_k_ids
     
-    # Check if the user will like an item based on the item description and the full/partial interaction history
-    # Return the probbility that the user will like the item as a float.
-    def get_like_probs(self, item): 
-
-        template_file = self.config['llm']['like_probs_template']
-        query_template = self.jinja_env.get_template(template_file)
-
-        # Use either full history or just last response
-        interaction_history = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
-
-        context = {
-            "item_desc": item['description'],
-            "interactions": interaction_history
-        }
-        query = query_template.render(context)
-
-        # self.logger.debug(query)
-
-        # response = self.llm.make_request(query, logprobs=0)
-        response = self.llm.make_request(query, logprobs=1)
-
-        
-        response = response.strip().lower()
-
-        full_logprobs = self.llm.get_full_logprobs() 
-
-        # NOTE: We're assuming here that response is one word, which it should be. Take logprobs of the first word
-
-        log_probs = full_logprobs['token_logprobs'][0]
-
-        probs = math.exp(log_probs)
-
-        like_probs = 0.0
-
-        if (response == "true"):
-            like_probs = (1 + probs) / 2
-        elif (response == "false"):
-            like_probs = (1 - probs) / 2
-        else:
-            raise ValueError("Expected LLM response to be either true or false")
-        
-        # self.logger.debug("Like Probs Query: %s Response: %s Like Probs: %f" % (query, response, like_probs))
-        
-        return like_probs
-
-        # # Extract T/F logprobs 
-        # true_prob = 0.0
-        # false_prob = 0.0
-
-        # for token_pos in log_probs: # Iterate over each token value for each token position
-        #     for token_val in token_pos.keys():
-        #         trimmed_token_val = token_val.strip().lower()
-        #          # If token is 'true' or 'false' after lowercasing and stripping, add to corresponding probability total
-        #         if trimmed_token_val == "true":
-        #             token_log_prob = token_pos[token_val]
-        #             token_prob = math.exp(token_log_prob)
-        #             true_prob += token_prob
-        #         if trimmed_token_val == "false":
-        #             token_log_prob = token_pos[token_val]
-        #             token_prob = math.exp(token_log_prob)
-        #             false_prob += token_prob 
     
     '''
     Update the model's beliefs, etc based on the user's response
@@ -122,15 +72,26 @@ class DTPEModule(BasePEModule):
     def update_from_response(self, query, response):
         self.interactions.append({"query": query, "response":response})
 
-        # Update this for new class
-        for item_id in self.items:
-            like_probs = self.get_like_probs(self.items[item_id])
+        #Anton dec 11: moved here to avoid repeating in each entailment method
+        #Anton dec 11: updated variable name to preference to allow for preprocessing
+        # Use either full history or just last response 
+        preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
 
-            new_alpha = self.belief[item_id]['alpha'] + like_probs # new_alpha = old_alpha + L
-            new_beta = 1 - like_probs + self.belief[item_id]['beta'] # new_beta = 1 - L + old_beta
+        #optional preprocessing
+        if self.config['item_scoring']['preprocess_query']:
+            preference = self.history_preprocessor.preprocess(preference)
+
+
+        #get like_prob for all items
+        like_probs = self.item_scorer.score_items(preference, self.items) 
+
+        for item_id in self.items:
+            new_alpha = self.belief[item_id]['alpha'] + like_probs[item_id] # new_alpha = old_alpha + L
+            new_beta = 1 - like_probs[item_id] + self.belief[item_id]['beta'] # new_beta = 1 - L + old_beta
             self.belief[item_id] = {'alpha': new_alpha, 'beta': new_beta}
 
-            self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs, self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
+            self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
+
 
     def reset(self):
         super().reset()
