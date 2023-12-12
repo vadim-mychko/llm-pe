@@ -46,7 +46,6 @@ class ExperimentManager():
         user_dataloader = dataloader_class(config['data']['user_path'], config) 
         user_data = user_dataloader.get_data()
         # Set up other stuff
-        jinja = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
         llm_module = llms.LLM_CLASSES[config['llm']['llm_name']]
         llm = llm_module(config)
 
@@ -64,7 +63,7 @@ class ExperimentManager():
             for item_id in user_item_ids:
                 item_descs.append(items[item_id]['description'])
             # Create user simulator and dialogue simulator
-            user_sim = LLMUserSim(config, item_descs, llm, jinja)
+            user_sim = LLMUserSim(config, item_descs, llm)
 
             # Reset pe_module
             pe_module.reset()
