@@ -1,5 +1,6 @@
 from users.base_user import UserSim
 from utils.logging import setup_logging
+import jinja2
 '''
 The User class represents a user. 
 
@@ -10,11 +11,11 @@ user_desc - String with a natural language description of the user
 '''
 
 class LLMUserSim(UserSim):
-    def __init__(self, config, top_item_desc, llm, jinja):
+    def __init__(self, config, top_item_desc, llm):
         super().__init__()
         self.config = config
         self.llm = llm
-        self.jinja_env = jinja
+        self.jinja_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
         self.top_item_desc = top_item_desc
         self.logger = setup_logging(self.__class__.__name__, self.config)
 
