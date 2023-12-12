@@ -12,6 +12,7 @@ llm:
   llm_name: 'GPTCompletion'
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation.jinja2"
+  template_dir: "./templates"
   temperature: 0.2
 logging:
   disabled: False # Replace with false
@@ -25,3 +26,7 @@ pe:
 query:
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
+item_scoring:
+  item_scorer_name: "LLMLogprobScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer"
+  preprocess_query: False
+  history_preprocessor_name: "EntailmentPreprocessor"
