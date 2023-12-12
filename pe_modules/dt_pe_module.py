@@ -3,7 +3,7 @@ import math
 import heapq
 import math
 import item_scorers
-#import history_preprocessors
+import history_preprocessors
 
 
 '''
@@ -18,9 +18,9 @@ class DTPEModule(BasePEModule):
         item_scorer_class = item_scorers.ITEM_SCORER_CLASSES[config['item_scoring']['item_scorer_name']]
         self.item_scorer = item_scorer_class(config)
 
-        #if config['item_scoring']['preprocess_query']:
-        #    history_preprocessor_class = history_preprocessors.HISTORY_PREPROCESSOR_CLASSES[config['history_preprocessing']['history_preprocessor_name']]
-        #    self.history_preprocessor = history_preprocessor_class(config)
+        if config['item_scoring']['preprocess_query']:
+            history_preprocessor_class = history_preprocessors.HISTORY_PREPROCESSOR_CLASSES[config['item_scoring']['history_preprocessor_name']]
+            self.history_preprocessor = history_preprocessor_class(config)
 
 
         self.belief = {}
@@ -73,11 +73,18 @@ class DTPEModule(BasePEModule):
         self.interactions.append({"query": query, "response":response})
 
         #Anton dec 11: moved here to avoid repeating in each entailment method
-        # Use either full history or just last response
-        interactions = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
+        #Anton dec 11: updated variable name to preference to allow for preprocessing
+        # Use either full history or just last response 
+        preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
+
+        #optional preprocessing
+        if self.config['item_scoring']['preprocess_query']:
+            preference = self.history_preprocessor.preprocess(preference)
+            print(f'preference: {preference}')
+            input()
 
         #get like_prob for all items
-        like_probs = self.item_scorer.score_items(interactions, self.items) 
+        like_probs = self.item_scorer.score_items(preference, self.items) 
 
         for item_id in self.items:
             new_alpha = self.belief[item_id]['alpha'] + like_probs[item_id] # new_alpha = old_alpha + L

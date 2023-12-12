@@ -29,4 +29,4 @@ query:
 item_scoring:
   item_scorer_name: "LLMLogprobScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer"
   preprocess_query: False
-  history_preprocessor_name: "EntailmentPreprocessor"
+  history_preprocessor_name: "HistoryConcatenator"
