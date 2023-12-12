@@ -7,11 +7,6 @@ import os
 import openai
 from utils.logging import setup_logging
 
-#[Anton Jun 27]: Looks like you've rewritten the base LLM class into a base OpenAI class. 
-#I agree we need to have an abstract class for the OpenAI models, and this code can be the basis for that.
-#But we also need an abstract class for any LLMs including non OpenAI ones.
-#TODO: Please add a higher level LLM() abstract class and update the UML. The generic LLM should have (total tokens used, config, logger).
-#Specific to OpenAI are : API_KEY , total_cost
 
 class LLMBase(abc.ABC):
     def __init__(self, config):
