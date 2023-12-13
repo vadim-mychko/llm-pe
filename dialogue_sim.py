@@ -11,12 +11,9 @@ class DialogueSimulator:
         self.config = config
 
     def run_dialogue(self, user, pe_module):
-        recs = []
-        num_top_items = self.config['dialogue_sim']['num_recs']
         for dialogue_turn_num in range(self.config['dialogue_sim']['num_turns']):
             query = pe_module.get_query()
             response = user.get_response(query)
             pe_module.update_from_response(query, response)
-            rec = pe_module.get_top_items(k=num_top_items)
-            recs.append(rec) 
-        return recs
+        results = pe_module.get_last_results()
+        return results

@@ -28,6 +28,35 @@ class DTPEModule(BasePEModule):
             self.belief[id] = {"alpha": 0.5, "beta": 0.5} # Set initial belief state
         # TODO: Set up item selection method from config
 
+        # These fields are only used to maintain information for the return_dict
+        self.all_beliefs = [] # List containing full belief state at the end of each turn (i.e. after belief update)
+        self.queried_items = [] # List of items queried at each turn
+        self.recs = [] # List of recommended items at each step. Number recommended is from config
+        self.aspects = []
+
+    '''
+    Generate an aspect from the item description on which to query 
+    '''
+    def get_aspect(self, item_desc):
+        template_file = self.config['query']['aspect_gen_template']
+        prompt_template = self.jinja_env.get_template(template_file)
+
+        context = {
+            "item_desc": item_desc, # Item description for the given item
+            "aspects": self.aspects
+        }
+        prompt = prompt_template.render(context)
+
+        aspect_pair = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
+
+        aspect_list = aspect_pair.split(",")
+        for i in range(len(aspect_list)):
+            aspect_list[i] = aspect_list[i].strip()
+        
+        aspect_dict = {"aspect_key": aspect_list[0], "aspect_value": aspect_list[1]}
+
+        return aspect_dict
+
     '''
     Generates a query based on the current utility values and the provided set of items.
     '''
@@ -36,19 +65,26 @@ class DTPEModule(BasePEModule):
         'greedy': self.item_selection_greedy,
         }  
         
+        # Run item selection to get the item to generate from
         item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
-
-        item_ids = item_selection_method() #NOTE: item_id is a list with the item_id of the top idx
-        # import pdb; pdb.set_trace()
+        item_ids = item_selection_method() #NOTE: item_id is a single-item list with the item_id of the top idx
+        self.queried_items.append(item_ids)
         item_desc = self.items[item_ids[0]]['description'] 
-        # self.logger.debug("Generating query from item %d with first desc %s" % (item_idx[0], item_desc))
+        
+        # Get the aspect
+        aspect_dict = self.get_aspect(item_desc)
 
+        # Clean the aspect, value pair (assuming correct format)
+        
+        self.aspects.append(aspect_dict)
+
+        # Generate query from aspect and item_desc
         template_file = self.config['query']['query_gen_template']
         prompt_template = self.jinja_env.get_template(template_file)
 
         context = {
             "item_desc": item_desc, # Item description for the given item
-            "interactions": self.interactions 
+            "aspect_dict": aspect_dict
         }
         prompt = prompt_template.render(context)
 
@@ -70,16 +106,19 @@ class DTPEModule(BasePEModule):
     Update the model's beliefs, etc based on the user's response
     '''
     def update_from_response(self, query, response):
-        self.interactions.append({"query": query, "response":response})
+        self.interactions.append({"query": query, 
+                                  "response":response, 
+                                  "aspect_key": self.aspects[-1]['aspect_key'], 
+                                  "aspect_value": self.aspects[-1]['aspect_value']
+                                })
 
-        #Anton dec 11: moved here to avoid repeating in each entailment method
-        #Anton dec 11: updated variable name to preference to allow for preprocessing
         # Use either full history or just last response 
         preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
 
         #optional preprocessing
         if self.config['item_scoring']['preprocess_query']:
             preference = self.history_preprocessor.preprocess(preference)
+            self.logger.debug("Preference: %s" % preference)
 
         #ANTON Dec 12 TODO: set truncation warnings
         #get like_prob for all items
@@ -92,12 +131,21 @@ class DTPEModule(BasePEModule):
 
             self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
 
+        self.all_beliefs.append(self.belief)
+
+        # Append the top k items to self.recs for return_dict
+        k = self.config['pe']['num_recs']
+        top_recs = self.get_top_items(k)
+        self.recs.append(top_recs)
+
 
     def reset(self):
         super().reset()
         self.belief = {}
         for id in self.items:
             self.belief[id] = {"alpha": 0.5, "beta": 0.5}
+        self.queried_items = []
+        self.all_beliefs = []
 
 
     '''
@@ -117,3 +165,11 @@ class DTPEModule(BasePEModule):
 
     def thompson_sampling(beliefs):
         raise NotImplementedError
+    
+    def get_last_results(self):
+        results = {"rec_items": self.recs, 
+                   "conv_hist": self.interactions, 
+                   "queried_items": self.queried_items, 
+                   "belief_states": self.all_beliefs,
+                   "aspects": self.aspects}
+        return results
