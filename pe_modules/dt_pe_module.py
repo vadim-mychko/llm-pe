@@ -120,7 +120,7 @@ class DTPEModule(BasePEModule):
             preference = self.history_preprocessor.preprocess(preference)
             self.logger.debug("Preference: %s" % preference)
 
-
+        #ANTON Dec 12 TODO: set truncation warnings
         #get like_prob for all items
         like_probs = self.item_scorer.score_items(preference, self.items) 
 

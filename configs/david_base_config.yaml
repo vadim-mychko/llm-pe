@@ -29,6 +29,6 @@ query:
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
-  item_scorer_name: "CEScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer"
+  item_scorer_name: "CEScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer"
   preprocess_query: True
   history_preprocessor_name: "AspectPreprocessor" # options "AspectPreprocessor" "HistoryConcatenator"
