@@ -48,9 +48,14 @@ class DTPEModule(BasePEModule):
         prompt = prompt_template.render(context)
 
         aspect_pair = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
-        print(aspect_pair)
 
-        return aspect_pair
+        aspect_list = aspect_pair.split(",")
+        for i in range(len(aspect_list)):
+            aspect_list[i] = aspect_list[i].strip()
+        
+        aspect_dict = {"aspect_key": aspect_list[0], "aspect_value": aspect_list[1]}
+
+        return aspect_dict
 
     '''
     Generates a query based on the current utility values and the provided set of items.
@@ -67,14 +72,10 @@ class DTPEModule(BasePEModule):
         item_desc = self.items[item_ids[0]]['description'] 
         
         # Get the aspect
-        aspect_pair = self.get_aspect(item_desc)
+        aspect_dict = self.get_aspect(item_desc)
 
         # Clean the aspect, value pair (assuming correct format)
-        aspect_list = aspect_pair.split(",")
-        for i in range(len(aspect_list)):
-            aspect_list[i] = aspect_list[i].strip()
         
-        aspect_dict = {"aspect": aspect_list[0], "value": aspect_list[1]}
         self.aspects.append(aspect_dict)
 
         # Generate query from aspect and item_desc
@@ -83,7 +84,7 @@ class DTPEModule(BasePEModule):
 
         context = {
             "item_desc": item_desc, # Item description for the given item
-            "aspect": aspect_dict
+            "aspect_dict": aspect_dict
         }
         prompt = prompt_template.render(context)
 
@@ -107,8 +108,8 @@ class DTPEModule(BasePEModule):
     def update_from_response(self, query, response):
         self.interactions.append({"query": query, 
                                   "response":response, 
-                                  "aspect": self.aspects[-1]['aspect'], 
-                                  "value": self.aspects[-1]['value']
+                                  "aspect_key": self.aspects[-1]['aspect_key'], 
+                                  "aspect_value": self.aspects[-1]['aspect_value']
                                 })
 
         # Use either full history or just last response 

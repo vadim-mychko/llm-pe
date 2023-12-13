@@ -20,10 +20,10 @@ class AspectPreprocessor(HistoryPreprocessor):
             response = interaction['response'].strip().lower()
             contradiction = ""
             if response == "no":
-                contradiction = "NOT "
+                contradiction = "not "
 
             # Create aspect history
-            concat_str = "%s: %s%s " % (interaction['aspect'], contradiction, interaction['value'])
+            concat_str = "%s: %s%s " % (interaction['aspect_key'], contradiction, interaction['aspect_value'])
             aspect_history += concat_str
 
         return aspect_history
