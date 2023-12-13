@@ -20,6 +20,7 @@ class BasePEModule(abc.ABC):
 
         llm_module = llms.LLM_CLASSES[self.config['llm']['llm_name']]
         self.llm = llm_module(config)
+        self.recs = []
 
 
 
@@ -43,3 +44,7 @@ class BasePEModule(abc.ABC):
     
     def reset(self):
         self.interactions = []
+        self.recs = []
+
+    def get_last_results(self):
+        return NotImplementedError
