@@ -1,60 +1,38 @@
 {# templates/pointwise_query_generation.jinja2 #}
-Your task is to generate a query for a user that best elicits their preferences about a set of items. However,
-you will only be given the description of a single item.
-You must first identify a single aspect that is no more than 7 words that will best determine the user's 
-preference about the item and the unseen items. 
-Then you will generate a yes/no query about that aspect.
+Your task is to generate a yes/no query for a user that best elicits their preferences 
+about a specific aspect of some items. You will be given the aspect and the description of 
+a single item.
 
 Example:
 ''''
-Here is the description of the item:
 ####
-Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
+Item Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
+####
+Aspect: genre
+Value: family-friendly
 ####
 
-First, determine the aspect that best elicits the user's preference over this item and unseen items. Assume the 
-user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output: Are you looking for a family-friendly movies?
+Query: Are you looking for a family-friendly movie?
 ''''
 
 Example:
 ''''
-Here is the description of the item:
 ####
-Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
+Item Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
 ####
-
-You must generate a novel query. The following queries have already been asked:
-####
-Query: Are you looking for a piano?
-####
-####
-Query: Do you want an electric guitar?
+Aspect: body type
+Value: solid body
 ####
 
-First, determine the aspect that best elicits the user's preference over this item and unseen items. Assume the 
-user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output: Do you prefer single-coil pickups?
+Query: Do you prefer a solid body design?
 ''''
 
 ''''
-Here is the description of the item:
 ####
-Descriptions: [ {{ item_desc }} ]
+Item Description: {{ item_desc }}
+####
+Aspect: {{ aspect['aspect'] }}
+Value: {{ aspect['value'] }}
 ####
 
-{% if interactions %}
-You must generate a novel query. The following queries have already been asked:
-{% for interaction in interactions %}
-####
-Query: {{ interaction['query'] }}
-####
-{% endfor %}
-{% endif %}
-
-First, determine the aspect that best elicits the user's preference over this item and unseen items. Assume the 
-user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output:
+Query: 

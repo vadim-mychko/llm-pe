@@ -25,9 +25,10 @@ pe:
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
   num_recs: 3
 query:
+  aspect_gen_template: "pointwise_aspect_generation.jinja2"
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
   item_scorer_name: "CEScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer"
   preprocess_query: True
-  history_preprocessor_name: "HistoryConcatenator"
+  history_preprocessor_name: "AspectPreprocessor" # options "AspectPreprocessor" "HistoryConcatenator"

@@ -32,6 +32,25 @@ class DTPEModule(BasePEModule):
         self.all_beliefs = [] # List containing full belief state at the end of each turn (i.e. after belief update)
         self.queried_items = [] # List of items queried at each turn
         self.recs = [] # List of recommended items at each step. Number recommended is from config
+        self.aspects = []
+
+    '''
+    Generate an aspect from the item description on which to query 
+    '''
+    def get_aspect(self, item_desc):
+        template_file = self.config['query']['aspect_gen_template']
+        prompt_template = self.jinja_env.get_template(template_file)
+
+        context = {
+            "item_desc": item_desc, # Item description for the given item
+            "aspects": self.aspects
+        }
+        prompt = prompt_template.render(context)
+
+        aspect_pair = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
+        print(aspect_pair)
+
+        return aspect_pair
 
     '''
     Generates a query based on the current utility values and the provided set of items.
@@ -41,20 +60,30 @@ class DTPEModule(BasePEModule):
         'greedy': self.item_selection_greedy,
         }  
         
+        # Run item selection to get the item to generate from
         item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
-
-        item_ids = item_selection_method() #NOTE: item_id is a list with the item_id of the top idx
-        # import pdb; pdb.set_trace()
+        item_ids = item_selection_method() #NOTE: item_id is a single-item list with the item_id of the top idx
         self.queried_items.append(item_ids)
         item_desc = self.items[item_ids[0]]['description'] 
-        # self.logger.debug("Generating query from item %d with first desc %s" % (item_idx[0], item_desc))
+        
+        # Get the aspect
+        aspect_pair = self.get_aspect(item_desc)
 
+        # Clean the aspect, value pair (assuming correct format)
+        aspect_list = aspect_pair.split(",")
+        for i in range(len(aspect_list)):
+            aspect_list[i] = aspect_list[i].strip()
+        
+        aspect_dict = {"aspect": aspect_list[0], "value": aspect_list[1]}
+        self.aspects.append(aspect_dict)
+
+        # Generate query from aspect and item_desc
         template_file = self.config['query']['query_gen_template']
         prompt_template = self.jinja_env.get_template(template_file)
 
         context = {
             "item_desc": item_desc, # Item description for the given item
-            "interactions": self.interactions 
+            "aspect": aspect_dict
         }
         prompt = prompt_template.render(context)
 
@@ -76,7 +105,11 @@ class DTPEModule(BasePEModule):
     Update the model's beliefs, etc based on the user's response
     '''
     def update_from_response(self, query, response):
-        self.interactions.append({"query": query, "response":response})
+        self.interactions.append({"query": query, 
+                                  "response":response, 
+                                  "aspect": self.aspects[-1]['aspect'], 
+                                  "value": self.aspects[-1]['value']
+                                })
 
         # Use either full history or just last response 
         preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
@@ -84,6 +117,7 @@ class DTPEModule(BasePEModule):
         #optional preprocessing
         if self.config['item_scoring']['preprocess_query']:
             preference = self.history_preprocessor.preprocess(preference)
+            self.logger.debug("Preference: %s" % preference)
 
 
         #get like_prob for all items
@@ -135,5 +169,6 @@ class DTPEModule(BasePEModule):
         results = {"rec_items": self.recs, 
                    "conv_hist": self.interactions, 
                    "queried_items": self.queried_items, 
-                   "belief_states": self.all_beliefs}
+                   "belief_states": self.all_beliefs,
+                   "aspects": self.aspects}
         return results
