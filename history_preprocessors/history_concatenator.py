@@ -11,6 +11,6 @@ class HistoryConcatenator(HistoryPreprocessor):
     # Iterate over each item in the history
         for item in history:
             # Append the 'query' and 'response' of each item to the string
-            concatenated_history += "Query: " + item['query'] + " \n Response: " + item['response'] + " \n "
+            concatenated_history += "Query: " + item['query'] + " \nResponse: " + item['response'] + " \n "
 
         return concatenated_history
