@@ -16,7 +16,6 @@ class LLMLogprobScorer(ItemScorer):
     # Check if the user will like an item based on the item description and the full/partial interaction history
     # Return the probability that the user will like the item as a float.
     def score_items(self,preference,items) -> dict:
-        #Anton Dec 11: changed variable name interaction_history to preference to account for possible transformations of interaction_history (e.g., extracting aspects user likes, etc - particularly relevant to entailment models)
         like_probs = {item_id : None for item_id in items}
         template_file = self.config['llm']['like_probs_template']
         query_template = self.jinja_env.get_template(template_file)
@@ -28,7 +27,7 @@ class LLMLogprobScorer(ItemScorer):
 
             context = {
                 "item_desc": items[item_id]['description'],
-                "interactions": preference
+                "preference": preference
             }
             query = query_template.render(context)
 
