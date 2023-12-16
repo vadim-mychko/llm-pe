@@ -9,7 +9,7 @@ class GPTCompletion(LLMBase):
     def __init__(self, config):
         super().__init__(config)
 
-    def make_request(self, prompt: str, temperature: Optional[float] = 0, max_tokens=256, logprobs=0) -> str:
+    def make_request(self, prompt: str, temperature: Optional[float] = 0, logprobs=0) -> str:
         """
         Make a request to Open AI's GPT Completion LLM.
 
@@ -25,7 +25,6 @@ class GPTCompletion(LLMBase):
             model=self.config["llm"]["model"],
             temperature=temperature,
             prompt=prompt,
-            max_tokens=max_tokens,
             logprobs=logprobs
         )
     
