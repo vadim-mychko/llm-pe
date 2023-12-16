@@ -68,7 +68,7 @@ class GPTChatCompletion(LLMBase):
     def __init__(self, config):
         super().__init__(config)
         
-    def make_request(self, prompt: str, temperature: float = 0.0) -> str:
+    def make_request(self, prompt: str, temperature: float = 0.0, logprobs=0) -> str:
         """
         Make a request to Open AI's GPT Chat Completion LLM.
 
@@ -90,6 +90,7 @@ class GPTChatCompletion(LLMBase):
             model=model_name,
             messages=messages,
             temperature=temperature,
+            logprobs = logprobs
         )
 
         tokens_used = response["usage"]["total_tokens"]
