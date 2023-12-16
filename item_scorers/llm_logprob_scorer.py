@@ -36,22 +36,11 @@ class LLMLogprobScorer(ItemScorer):
             # response = self.llm.make_request(query, logprobs=0)
             response = self.llm.make_request(query, logprobs=1)
 
-            response = response.strip().lower()
-
-            full_logprobs = self.llm.get_full_logprobs() 
-
-            # NOTE: We're assuming here that response is one word, which it should be. Take logprobs of the first word
-
-            log_probs = full_logprobs['token_logprobs'][0]
-
-            probs = math.exp(log_probs)
-
-            if (response == "true"):
-                like_prob = (1 + probs) / 2
-            elif (response == "false"):
-                like_prob = (1 - probs) / 2
-            else:
-                raise ValueError("Expected LLM response to be either true or false")
+            try:
+                logprobs = self.llm.get_logprobs()
+                like_prob = math.exp(logprobs['True'])
+            except KeyError:
+                raise KeyError("The 'True' key is missing in the logprobs dictionary")
         
             # self.logger.debug("Like Probs Query: %s Response: %s Like Probs: %f" % (query, response, like_probs))
         
