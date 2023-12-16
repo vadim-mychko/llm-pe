@@ -34,14 +34,17 @@ class LLMLogprobScorer(ItemScorer):
             # self.logger.debug(query)
 
             # response = self.llm.make_request(query, logprobs=0)
-            response = self.llm.make_request(query, logprobs=1)
+            response = self.llm.make_request(query, logprobs=2)
 
             try:
                 logprobs = self.llm.get_logprobs()
-                like_prob = math.exp(logprobs['True'])
+                if 'True' in logprobs:
+                    like_prob = math.exp(logprobs['True'])
+                elif 'False' in logprobs:
+                    like_prob = 1 - math.exp(logprobs['False'])
             except KeyError:
-                raise KeyError("The 'True' key is missing in the logprobs dictionary")
-        
+                print("Neither 'True' nor 'False' key found in the logprobs dictionary")
+
             # self.logger.debug("Like Probs Query: %s Response: %s Like Probs: %f" % (query, response, like_probs))
         
             like_probs[item_id] = like_prob

@@ -33,22 +33,21 @@ class GPTCompletion(LLMBase):
 
         if logprobs:
         #logprobs for only the first generated token and alternatives (e.g, 'True', 'False', 'Unc').
-        #format: {token: logprob}
+        #format: {token: logprob, ... }
             self.logprobs = response['choices'][0]['logprobs']['top_logprobs'][0]
         else:
             self.logprobs = None
 
+
         return response['choices'][0]['text']
-    
-    def get_logprobs(self):
-        self.logprobs
+   
     
 
 class GPTChatCompletion(LLMBase):
     def __init__(self, config):
         super().__init__(config)
         
-    def make_request(self, prompt: str, temperature: float = 0.0, logprobs=0) -> str:
+    def make_request(self, prompt: str, temperature: float = 0.0, logprobs=0, top_logprobs = 2) -> str:
         """
         Make a request to Open AI's GPT Chat Completion LLM.
 
@@ -70,7 +69,17 @@ class GPTChatCompletion(LLMBase):
             model=model_name,
             messages=messages,
             temperature=temperature,
-            logprobs = logprobs
+            logprobs = bool(logprobs),
+            top_logprobs = top_logprobs
         )
 
+
+        if bool(logprobs):
+        #logprobs for only the first generated token and alternatives (e.g, 'True', 'False', 'Unc').
+        #format: {token: logprob, ... }
+            top_logprobs = response.choices[0].logprobs['content'][0]['top_logprobs']
+            self.logprobs = {e['token']: e['logprob'] for e in top_logprobs}
+        else:
+            self.logprobs = None
+        print(self.logprobs)
         return response.choices[0].message['content']

@@ -13,6 +13,7 @@ class LLMBase(abc.ABC):
         self.total_cost = 0
         self.log_probabilities = []
         self.logger = setup_logging(self.__class__.__name__, self.config)
+        self.logprobs = None
 
     @abc.abstractmethod
     def make_request(self, prompt: str, temperature=0.0) -> str:
@@ -29,3 +30,5 @@ class LLMBase(abc.ABC):
         """
         raise NotImplementedError("This method must be implemented by a subclass.")
 
+    def get_logprobs(self):
+        return self.logprobs
