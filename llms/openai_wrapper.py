@@ -1,13 +1,16 @@
 import os
 from typing import Optional
-
+import os
 import openai
-
 from llms.llm_base import LLMBase
 
 class GPTCompletion(LLMBase):
     def __init__(self, config):
         super().__init__(config)
+
+
+        self.API_KEY = os.environ['OPENAI_API_KEY']
+        openai.api_key = self.API_KEY
 
     def make_request(self, prompt: str, temperature: Optional[float] = 0, logprobs=0) -> str:
         """
@@ -27,18 +30,13 @@ class GPTCompletion(LLMBase):
             prompt=prompt,
             logprobs=logprobs
         )
-    
 
-        tokens_used = response["usage"]["total_tokens"]
-        cost_of_response = tokens_used * 0.000002
         logprobs = response['choices'][0]['logprobs']['top_logprobs']
 
         self.full_logprobs = response['choices'][0]['logprobs']
 
-        self.total_tokens_used += tokens_used
-        self.total_cost += cost_of_response
         self.log_probabilities = logprobs
-        # return response
+
         return response['choices'][0]['text']
     
     def get_log_probabilities(self):
@@ -92,7 +90,5 @@ class GPTChatCompletion(LLMBase):
             temperature=temperature,
             logprobs = logprobs
         )
-
-        tokens_used = response["usage"]["total_tokens"]
 
         return response.choices[0].message['content']
