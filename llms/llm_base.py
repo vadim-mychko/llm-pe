@@ -3,8 +3,6 @@ Base Class for LLM Wrappers.
 """
 import abc
 import logging
-import os
-import openai
 from utils.logging import setup_logging
 
 
@@ -14,8 +12,8 @@ class LLMBase(abc.ABC):
         self.total_tokens_used = 0
         self.total_cost = 0
         self.log_probabilities = []
-        self.API_KEY = os.environ['OPENAI_API_KEY']
-        openai.api_key = self.API_KEY
+        self.logger = setup_logging(self.__class__.__name__, self.config)
+        self.logprobs = None
 
     @abc.abstractmethod
     def make_request(self, prompt: str, temperature=0.0) -> str:
@@ -32,21 +30,5 @@ class LLMBase(abc.ABC):
         """
         raise NotImplementedError("This method must be implemented by a subclass.")
 
-    def get_total_tokens_used(self) -> int:
-        """
-        Get the total number of tokens used by the LLM.
-
-        Returns:
-            int: The total number of tokens used.
-        """
-        return self.total_tokens_used
-    
-    def get_total_cost(self) -> float:
-        """
-        Get the total cost of LLM requests.
-
-        Returns:
-            float: The total cost of LLM requests.
-        """
-        return self.total_cost
-
+    def get_logprobs(self):
+        return self.logprobs
