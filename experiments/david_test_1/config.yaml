@@ -1,0 +1,15 @@
+logging:
+  disabled: False # Replace with false
+  level: DEBUG # options: INFO, DEBUG, WARNING
+ci:
+  confidence_level: 0.95
+metrics:
+  metrics: supported_measures
+  to_avg:
+    map: null
+details:
+  num_turns: 5
+paths:
+  qrels_path: data/users/shapes_qrel.tsv
+  experiment_dir: experiments/david_test_1
+  eval_results_master_path: experiments/david_test_1/eval_results.csv
