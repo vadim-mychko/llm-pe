@@ -31,17 +31,28 @@ class LLMLogprobScorer(ItemScorer):
             }
             query = query_template.render(context)
 
+
+            print('Prompt: ' + query)
+
             # self.logger.debug(query)
 
             # response = self.llm.make_request(query, logprobs=0)
             response = self.llm.make_request(query, logprobs=2)
 
             try:
+
                 logprobs = self.llm.get_logprobs()
-                if 'True' in logprobs:
-                    like_prob = math.exp(logprobs['True'])
-                elif 'False' in logprobs:
-                    like_prob = 1 - math.exp(logprobs['False'])
+
+                (k,v) = list(logprobs.items())[0]
+
+                if k == 'Unc':
+                        like_prob = 0.5
+                elif k == 'False':
+                        like_prob = 1 - math.exp(v)
+                elif k == 'True':
+                        like_prob = math.exp(v)
+
+
             except KeyError:
                 print("Neither 'True' nor 'False' key found in the logprobs dictionary")
 
