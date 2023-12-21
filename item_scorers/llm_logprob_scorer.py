@@ -32,8 +32,6 @@ class LLMLogprobScorer(ItemScorer):
             query = query_template.render(context)
 
 
-            print('Prompt: ' + query)
-
             # self.logger.debug(query)
 
             # response = self.llm.make_request(query, logprobs=0)
