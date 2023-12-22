@@ -16,29 +16,16 @@ from scipy.stats import norm
 
 class EvalManager:
 
-    def __init__(self, config):
-        if os.path.exists(config):
-            with open(config, "r") as config_file:
+    def __init__(self, exp_dir):
+        self.exp_dir = exp_dir
+        config_path = os.path.join(exp_dir, "config.yaml")
+        if os.path.exists(config_path):
+            with open(config_path, "r") as config_file:
                 self.config = yaml.safe_load(config_file)
+        else:
+            raise FileNotFoundError(f"Could not find {config_path}")
         
         self.logger = setup_logging(self.__class__.__name__, self.config)
-
-    def json_to_qrel_results(self, folder_path):
-        # Load in json results data
-        with open(folder_path + "/results.json") as json_data:
-            results = json.load(json_data)
-        # Convert to QREL format
-        for turn_num in range(self.config['details']['num_turns']):
-            qrel_rows = []
-            for user_id, user_data in results.items():
-                # Create an entry for each item recommended at this turn for this
-                for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
-                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
-                    qrel_rows.append(item_string)
-            # Print to file
-            with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
-                for row in qrel_rows:
-                    out_file.write(row)
 
     def eval_experiments(self):
         """
@@ -109,7 +96,7 @@ class EvalManager:
         """
         ci_results_list = []
         mean_eval_results_list = []
-        for turn in range(self.config['details']['num_turns']):
+        for turn in range(self.config['dialogue_sim']['num_turns']):
             exp_results_path = os.path.join(exp_dir, f"trec_results_turn{turn}.txt")
 
             # Check if TREC file exists before processing
@@ -206,7 +193,7 @@ class EvalManager:
         headers = ["Experiment Name", "Timestamp", "PE Module", "Response Update", "Num Recs", "Item Selection", "Item Scorer",
                "Preprocess Query", "Preprocessor Name", "Entailment Model", "LLM Temperature",
                "Data Path", "User Path"] 
-        for turn_num in range(self.config['details']['num_turns']):
+        for turn_num in range(self.config['dialogue_sim']['num_turns']):
             metrics_w_turn = [[f"{metric}@{turn_num}", f"{metric}@{turn_num}_lb", f"{metric}@{turn_num}_ub"] for metric in list(self.metrics_to_avg)]
             for metric_set in metrics_w_turn:
                 headers.extend(metric_set)
@@ -261,14 +248,43 @@ class EvalManager:
             config['data']['data_path'],
             config['data']['user_path']
         ]
-        for turn_num in range(self.config['details']['num_turns']):
+        for turn_num in range(self.config['dialogue_sim']['num_turns']):
             row.extend(mean_eval_results_list[turn_num].values())
             row.extend(ci_results_list[turn_num].values())
         return row
     
+    def json_to_qrel_results(self, folder_path):
+        # Load in json results data
+        with open(folder_path + "/results.json") as json_data:
+            results = json.load(json_data)
+        # Convert to QREL format
+        for turn_num in range(self.config['dialogue_sim']['num_turns']):
+            qrel_rows = []
+            for user_id, user_data in results.items():
+                # Create an entry for each item recommended at this turn for this
+                for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
+                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
+                    qrel_rows.append(item_string)
+            # Print to file
+            with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
+                for row in qrel_rows:
+                    out_file.write(row)
+
+    def convert_qrels_in_dir(self):
+        # os.walk() will yield a tuple containing directory path, 
+        # directory names and file names in the directory.
+        for root, dirs, files in os.walk(self.exp_dir):
+            # we are interested in directories only
+            for directory in dirs:
+                folder_path = os.path.join(root, directory)
+                self.json_to_qrel_results(folder_path)
+
+def run_eval_on_dir(exp_dir):
+    em = EvalManager(exp_dir)
+    em.convert_qrels_in_dir()
+    em.eval_experiments()
 
 if __name__ == "__main__":
-    em = EvalManager("./experiments/david_test_1/config.yaml")
-    em.json_to_qrel_results("experiments/david_test_1/dt_concat")
-    em.json_to_qrel_results("experiments/david_test_1/dt_individual")
+    em = EvalManager("./experiments/example/generation_test")
+    em.convert_qrels_in_dir()
     em.eval_experiments()

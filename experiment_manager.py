@@ -29,21 +29,50 @@ class ExperimentManager():
     # This class should eventually use the UserSim class to allow manual experiments. Not implementing now bc low priority
     def manual_experiment(self, config):
         raise NotImplementedError
+    
+    def run_experiments(self,exp_dir: str):
+        """
+        This function takes a directory path and runs experiments based on configuration files in the subdirectories.
+        It expects each subdirectory to contain a 'config.yaml' file, which will be used to load experiment settings.
+        
+        The function will iterate over the subdirectories of the given directory in the order they appear in the directory.
+        For each subdirectory, it will open and read the 'config.yaml' file as a configuration for an experiment.
+        The 'config.yaml' file should be in a format that can be parsed into a Python dictionary.
+
+        Parameters:
+        exp_dir (str): A string specifying the path of the directory containing experiment subdirectories.
+
+        Returns:
+        None
+        """
+
+        # os.walk() will yield a tuple containing directory path, 
+        # directory names and file names in the directory.
+        for root, dirs, files in os.walk(exp_dir):
+            # we are interested in directories only
+            for directory in dirs:
+                config_file_path = os.path.join(root, directory, "config.yaml")
+                dir_path = os.path.join(root, directory)
+                self.run_single_experiment(config_file_path, dir_path = dir_path)
 
     '''
     Run the experiment specified by the config file
     '''
-
-    def run_single_experiment(self, config):
+    def run_single_experiment(self, config_path, dir_path):
+        if os.path.exists(config_path):
+            with open(config_path, "r") as config_file:
+                config = yaml.safe_load(config_file)
+        
         self.logger = setup_logging(self.__class__.__name__, config)
 
         # Dataloader Class
-        dataloader_class = dataloaders.DATALOADER_CLASSES[config['data']['data_loader_name']]
+        item_dataloader_class = dataloaders.DATALOADER_CLASSES[config['data']['data_loader_name']]
+        user_dataloader_class = dataloaders.DATALOADER_CLASSES[config['data']['user_loader_name']]
         # Load item data
-        item_dataloader = dataloader_class(config['data']['data_path'], config) 
+        item_dataloader = item_dataloader_class(config['data']['data_path'], config) 
         items = item_dataloader.get_data()
         # Load user data
-        user_dataloader = dataloader_class(config['data']['user_path'], config) 
+        user_dataloader = user_dataloader_class(config['data']['user_path'], config) 
         user_data = user_dataloader.get_data()
         # Set up other stuff
         llm_module = llms.LLM_CLASSES[config['llm']['llm_name']]
@@ -71,20 +100,21 @@ class ExperimentManager():
             # Run Dialogue
             results = dial_sim.run_dialogue(user_sim, pe_module)
             runs[user_id] = results
-        return runs
+        
+        output_file = open(os.path.join(dir_path, "results.json"), "w")
+        json.dump(runs, output_file)
         
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    # parser.add_argument("-config", "--config_path", type=str, default="./configs/david_rest_config.yaml")
-    parser.add_argument("-config", "--config_path", type=str, default="./configs/david_base_config.yaml")
+
+    experiment_manager = ExperimentManager()
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("-exp_dir", "--experiment_dir", type=str)
 
     args = parser.parse_args()
 
-    config = yaml.safe_load(open(args.config_path))
-
-    experiment_manager = ExperimentManager()
-    # experiment_manager.run_multi_experiment()
-    results = experiment_manager.run_single_experiment(config)
-    output_file = open("results.json", "w")
-    json.dump(results, output_file)
+    # experiment_manager.run_experiments(args.experiment_dir)
+    experiment_manager.run_experiments("/Users/david/Documents/Research2324/Sanner/llm-pe/experiments/example/generation_test")
