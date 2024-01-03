@@ -7,10 +7,9 @@ class MNLIScorer(ItemScorer):
     def __init__(self, config):
         super().__init__(config)
         
-        self.nli_model = AutoModelForSequenceClassification.from_pretrained('facebook/bart-large-mnli')
-        self.nli_tokenizer = AutoTokenizer.from_pretrained('facebook/bart-large-mnli')
+        self.nli_model = AutoModelForSequenceClassification.from_pretrained(config['item_scoring']['mnli_model'])
+        self.nli_tokenizer = AutoTokenizer.from_pretrained(config['item_scoring']['mnli_model'])
 
-        import pdb; pdb. set_trace()
         self.device = torch.device("cpu")
         if torch.cuda.is_available():
             self.device = torch.device("cuda")

@@ -31,6 +31,7 @@ query:
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
   item_scorer_name: "MNLIScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer" "MNLIScorer"
+  mnli_model: "facebook/bart-large-mnli"
   preprocess_query: True
   history_preprocessor_name: "AspectKVPreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
 # Beginning of Evaluation Management Parameters #######################
