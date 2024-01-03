@@ -34,13 +34,13 @@ class MNLIScorer(ItemScorer):
 
         with torch.no_grad():
             outputs = self.nli_model(**inputs)
-            predictions = torch.nn.functional.softmax(outputs.logits, dim=-1)
+            entail_contradiction_logits = outputs[0][:,[0,2]]
+            predictions = entail_contradiction_logits.softmax(dim=1)
 
         #get entailement probs
-        probabilities = predictions[:, 2].tolist()
-        entailment_probs = {item_id : None for item_id in items}
+        entailment_probs = predictions[:, 1].tolist()
+        like_probs = {item_id : None for item_id in items}
 
         for i, item_id in enumerate(items):
-            entailment_probs[item_id] = probabilities[i]
-
-        return entailment_probs
+            like_probs[item_id] = entailment_probs[i]
+        return like_probs
