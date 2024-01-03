@@ -5,7 +5,7 @@ The AspectPreprocessor converts the user's preferences into a string where the
 aspects are concatenated. Aspects that the user's responded NO about have NOT 
 in front of them
 '''
-class AspectPreprocessor(HistoryPreprocessor):
+class AspectValuePreprocessor(HistoryPreprocessor):
 
     def preprocess(self,history) -> str:
 	#history = [{'query': query1, 'response': response1, 'aspect': aspect1, 'value': value1}, 
@@ -23,7 +23,7 @@ class AspectPreprocessor(HistoryPreprocessor):
                 contradiction = "not "
 
             # Create aspect history
-            concat_str = "%s: %s%s " % (interaction['aspect_key'], contradiction, interaction['aspect_value'])
+            concat_str = "%s%s " % ( contradiction, interaction['aspect_value'])
             aspect_history += concat_str
 
         return aspect_history

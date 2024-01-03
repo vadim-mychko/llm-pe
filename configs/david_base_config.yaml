@@ -30,9 +30,9 @@ query:
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
-  item_scorer_name: "CEScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer"
+  item_scorer_name: "MNLIScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer" "MNLIScorer"
   preprocess_query: True
-  history_preprocessor_name: "AspectPreprocessor" # options "AspectPreprocessor" "HistoryConcatenator"
+  history_preprocessor_name: "AspectKVPreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
 # Beginning of Evaluation Management Parameters #######################
 ci:
   confidence_level: 0.95

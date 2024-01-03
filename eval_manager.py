@@ -285,6 +285,6 @@ def run_eval_on_dir(exp_dir):
     em.eval_experiments()
 
 if __name__ == "__main__":
-    em = EvalManager("./experiments/example/generation_test")
+    em = EvalManager("./experiments/first_test")
     em.convert_qrels_in_dir()
     em.eval_experiments()

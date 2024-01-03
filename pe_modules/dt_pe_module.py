@@ -101,7 +101,6 @@ class DTPEModule(BasePEModule):
         top_k_ids = heapq.nlargest(k, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))
         return top_k_ids
     
-    
     '''
     Update the model's beliefs, etc based on the user's response
     '''
@@ -132,6 +131,8 @@ class DTPEModule(BasePEModule):
             self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
 
         self.all_beliefs.append(self.belief)
+
+        # TODO: DUPLICATING LOGS
 
         # Append the top k items to self.recs for return_dict
         k = self.config['pe']['num_recs']
