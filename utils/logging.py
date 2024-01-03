@@ -14,8 +14,10 @@ def setup_logging(name: str, config : dict, level = None, disabled = None) -> lo
     Returns:
         logging.Logger: The configured logger instance.
     """
-
     logger = logging.getLogger(name)
+
+    if (logger.hasHandlers()):
+        logger.handlers.clear()
 
     # Check if disabled argument is provided, else read from config
     if disabled is None:
@@ -43,3 +45,5 @@ def setup_logging(name: str, config : dict, level = None, disabled = None) -> lo
     logger.addHandler(ch)
     
     return logger
+
+#TODO: Add logging to output file as well as terminal and prevent duplicates
