@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 
 class ItemScorer(ABC):
     

@@ -1,6 +1,6 @@
 import logging
 import llms
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 import abc
 import jinja2
 

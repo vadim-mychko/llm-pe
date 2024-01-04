@@ -3,7 +3,7 @@ Base Class for LLM Wrappers.
 """
 import abc
 import logging
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 
 
 class LLMBase(abc.ABC):
