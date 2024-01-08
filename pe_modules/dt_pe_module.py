@@ -1,9 +1,10 @@
 from pe_modules.base_pe_module import BasePEModule
-import math
+import random
 import heapq
 import math
 import item_scorers
 import history_preprocessors
+from scipy.stats import beta
 
 
 '''
@@ -67,9 +68,9 @@ class DTPEModule(BasePEModule):
         
         # Run item selection to get the item to generate from
         item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
-        item_ids = item_selection_method() #NOTE: item_id is a single-item list with the item_id of the top idx
-        self.queried_items.append(item_ids)
-        item_desc = self.items[item_ids[0]]['description'] 
+        top_item_id = item_selection_method() 
+        self.queried_items.append(top_item_id)
+        item_desc = self.items[top_item_id]['description'] 
         
         # Get the aspect
         aspect_dict = self.get_aspect(item_desc)
@@ -153,16 +154,27 @@ class DTPEModule(BasePEModule):
     the following item_selection_x() methods use different pointwise item selection methods. Each 
     method returns the item_id on which to query, based on the selection method.
     '''
-    # Select the item with the highest expected utility.
+    # Select the item_id with the highest expected utility.
     def item_selection_greedy(self):
         top_id = heapq.nlargest(1, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
+        return top_id[0] # Return first element since top_id will be a single item list
+
+    # Select the item_id at random
+    def item_selection_random(self):
+        top_id = random.choice(list(self.items))
         return top_id
 
-    def item_selection_random(self):
-        raise NotImplementedError
-
+    # Select the item_id with the highest variance in utility
     def item_selection_entropy_reduction(self):
-        raise NotImplementedError
+        top_id = max(self.items, key=lambda i: (
+            (self.belief[i]['alpha'] * self.belief[i]['beta'] * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1)) / 
+            (math.pow(self.belief[i]['alpha'] + self.belief[i]['beta'], 2) * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1))
+        ))
+        return top_id
+    
+    def item_selection_ucb(self):
+        top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
+        return top_id
 
     def thompson_sampling(beliefs):
         raise NotImplementedError
