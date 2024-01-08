@@ -64,6 +64,9 @@ class DTPEModule(BasePEModule):
     def get_query(self):
         ITEM_SELECTION_MAP = {
         'greedy': self.item_selection_greedy,
+        'random': self.item_selection_random,
+        'entropy_reduction': self.item_selection_entropy_reduction,
+        'ucb': self.item_selection_ucb,
         }  
         
         # Run item selection to get the item to generate from
