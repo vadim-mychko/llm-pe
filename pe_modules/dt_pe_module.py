@@ -76,6 +76,9 @@ class DTPEModule(BasePEModule):
         
         # Run item selection to get the item to generate from
         item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
+        # If it's the first turn, always use random
+        if (len(self.queried_items) == 0): 
+            item_selection_method = self.item_selection_random
         top_item_id = item_selection_method() 
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 

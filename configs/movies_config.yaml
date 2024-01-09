@@ -2,10 +2,10 @@ debug_mode: false
 data:
   data_loader_name: "JSONLoader"
   user_loader_name: "UserTsvLoader"
-  data_path: "data/movielens_16_trimmed.json"
-  user_path: "data/users/movielens_16_qrel_trimmed.tsv"
+  data_path: "data/ml25M_100_movie_sample.json"
+  user_path: "data/users/movielens_16_5_users.tsv"
 dialogue_sim:
-  num_turns: 5
+  num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
@@ -24,7 +24,7 @@ mono_llm:
 pe:
   pe_module_name: "DT" # options: "MonoLLM", "DT"
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
-  num_recs: 3
+  num_recs: 10
 query:
   aspect_gen_template: "pointwise_aspect_generation.jinja2"
   query_gen_template: "pointwise_query_generation.jinja2"
