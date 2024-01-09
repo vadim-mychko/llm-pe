@@ -5,6 +5,7 @@ import math
 import item_scorers
 import history_preprocessors
 from scipy.stats import beta
+import timeit
 
 
 '''
@@ -34,6 +35,10 @@ class DTPEModule(BasePEModule):
         self.queried_items = [] # List of items queried at each turn
         self.recs = [] # List of recommended items at each step. Number recommended is from config
         self.aspects = []
+
+        # Track total time spent waiting for LLM or MNLI
+        self.total_llm_time = 0.0
+        self.total_entailment_time = 0.0
 
     '''
     Generate an aspect from the item description on which to query 
@@ -71,10 +76,14 @@ class DTPEModule(BasePEModule):
         
         # Run item selection to get the item to generate from
         item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
+        # If it's the first turn, always use random
+        if (len(self.queried_items) == 0): 
+            item_selection_method = self.item_selection_random
         top_item_id = item_selection_method() 
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
         
+        start = timeit.default_timer()
         # Get the aspect
         aspect_dict = self.get_aspect(item_desc)
 
@@ -95,6 +104,8 @@ class DTPEModule(BasePEModule):
         # self.logger.debug(prompt)
 
         user_query = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
+        stop = timeit.default_timer()
+        self.total_llm_time += (stop - start)
         self.logger.debug(user_query)
         return user_query
     
@@ -125,7 +136,10 @@ class DTPEModule(BasePEModule):
 
         #ANTON Dec 12 TODO: set truncation warnings
         #get like_prob for all items
+        start = timeit.default_timer()
         like_probs = self.item_scorer.score_items(preference, self.items) 
+        stop = timeit.default_timer()
+        self.total_entailment_time += (stop - start)
 
         for item_id in self.items:
             new_alpha = self.belief[item_id]['alpha'] + like_probs[item_id] # new_alpha = old_alpha + L
@@ -151,6 +165,8 @@ class DTPEModule(BasePEModule):
             self.belief[id] = {"alpha": 0.5, "beta": 0.5}
         self.queried_items = []
         self.all_beliefs = []
+        self.total_entailment_time = 0.0
+        self.total_llm_time = 0.0
 
 
     '''
@@ -187,5 +203,7 @@ class DTPEModule(BasePEModule):
                    "conv_hist": self.interactions, 
                    "queried_items": self.queried_items, 
                    "belief_states": self.all_beliefs,
-                   "aspects": self.aspects}
+                   "aspects": self.aspects,
+                   "llm_time": self.total_llm_time,
+                   "mnli_time": self.total_entailment_time}
         return results

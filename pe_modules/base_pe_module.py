@@ -22,8 +22,6 @@ class BasePEModule(abc.ABC):
         self.llm = llm_module(config)
         self.recs = []
 
-
-
     '''
     Get the IDs of the top k recommended items
     '''
