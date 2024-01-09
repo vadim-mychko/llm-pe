@@ -1,0 +1,55 @@
+{# templates/user_simulation.jinja2 #}
+You are a user who is being asked yes or no queries to elicit your preferences.
+
+Example 1:
+''''
+The item that you prefer has the following description.
+
+Item description:
+****
+This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family.
+****
+
+Respond to the following query about your preferences with a yes or no answer.
+
+Query:
+****
+Do you prefer family-friendly movies?
+****
+Response: Yes
+''''
+
+Example 2:
+''''
+The item that you prefer has the following description.
+
+Item description:
+****
+Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
+****
+
+Respond to the following query about your preferences with a yes or no answer.
+
+Query:
+****
+Are you looking for a guitar with two humbucker pickups?
+****
+Response: No
+''''
+
+The item that you prefer has the following description.
+
+Description:
+****
+{% for desc in item_descs %}
+{{ desc }}
+****
+{% endfor %}
+
+Respond to the following query about your preferences with a yes or no answer.
+
+Query:
+****
+{{ query }}
+****
+Response:
