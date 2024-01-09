@@ -11,7 +11,7 @@ import yaml
 import json
 
 
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 
 
 class ExperimentManager():
@@ -117,4 +117,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # experiment_manager.run_experiments(args.experiment_dir)
-    experiment_manager.run_experiments("/Users/david/Documents/Research2324/Sanner/llm-pe/experiments/movies_ce_vs_mnli")
+    experiment_manager.run_experiments("/Users/david/Documents/Research2324/Sanner/llm-pe/experiments/toy_example")

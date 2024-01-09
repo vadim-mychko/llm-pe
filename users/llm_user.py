@@ -1,5 +1,5 @@
 from users.base_user import UserSim
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 import jinja2
 '''
 The User class represents a user. 

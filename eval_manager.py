@@ -4,7 +4,7 @@ import argparse
 import os
 import csv
 from pathlib import Path
-from utils.logging import setup_logging
+from utils.setup_logging import setup_logging
 import dataloaders
 import numpy as np
 import pytrec_eval
@@ -42,7 +42,7 @@ class EvalManager:
         """
 
         # Get QREL ground truth 
-        qrels_path = self.config['paths']['qrels_path']
+        qrels_path = self.config['data']['user_path'] # TODO: Double check if missing users causes issues between experiments
 
         with open(qrels_path, "r") as qrels_file:
             self.qrels = pytrec_eval.parse_qrel(qrels_file)
@@ -110,7 +110,7 @@ class EvalManager:
 
             per_query_eval_results = evaluator.evaluate(results)
 
-            output_file = os.path.join(exp_dir, 'per_query_eval_results.json')
+            output_file = os.path.join(exp_dir, 'per_query_eval_results_turn%d.json' % turn)
 
             # Write the per-query results to the output file
             with open(output_file, "w") as f:
@@ -121,12 +121,12 @@ class EvalManager:
 
             # Get confidence intervals
             conf_lvl = float(self.config['ci']['confidence_level'])
-            ci_results = self.get_ci_results(per_query_eval_results, conf_lvl) #TODO: Implement this
+            ci_results = self.get_ci_results(per_query_eval_results, conf_lvl) 
 
             ci_results_list.append(ci_results)
             mean_eval_results_list.append(mean_eval_results)
 
-        row = self.get_row(mean_eval_results_list, ci_results_list, exp_dir) # Implement this
+        row = self.get_row(mean_eval_results_list, ci_results_list, exp_dir)
 
         return row
 
@@ -253,7 +253,7 @@ class EvalManager:
             row.extend(ci_results_list[turn_num].values())
         return row
     
-    def json_to_qrel_results(self, folder_path):
+    def json_to_trec_results(self, folder_path):
         # Load in json results data
         with open(folder_path + "/results.json") as json_data:
             results = json.load(json_data)
@@ -270,21 +270,19 @@ class EvalManager:
                 for row in qrel_rows:
                     out_file.write(row)
 
-    def convert_qrels_in_dir(self):
+    def convert_trecs_in_dir(self):
         # os.walk() will yield a tuple containing directory path, 
         # directory names and file names in the directory.
         for root, dirs, files in os.walk(self.exp_dir):
             # we are interested in directories only
             for directory in dirs:
                 folder_path = os.path.join(root, directory)
-                self.json_to_qrel_results(folder_path)
+                self.json_to_trec_results(folder_path)
 
 def run_eval_on_dir(exp_dir):
     em = EvalManager(exp_dir)
-    em.convert_qrels_in_dir()
+    em.convert_trecs_in_dir()
     em.eval_experiments()
 
 if __name__ == "__main__":
-    em = EvalManager("./experiments/movies_ce_vs_mnli")
-    em.convert_qrels_in_dir()
-    em.eval_experiments()
+    run_eval_on_dir("./experiments/toy_example")
