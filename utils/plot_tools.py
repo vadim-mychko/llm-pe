@@ -10,13 +10,13 @@ def map_plot(results_csv_file, config, experiment_names):
     results_df = pd.read_csv(results_csv_file)
 
     # Set up colours
-    import pdb; pdb.set_trace()
+    # import pdb; pdb.set_trace()
     colors = mpl.colormaps['viridis']
     colors = [colors(i) for i in np.linspace(0, 1, len(results_df))]
 
     # Plotting
     plt.figure(figsize=(10, 6))
-    plt.title('Placeholder Title')
+    plt.title('Comparison of Item Selection Methods on MovieLens Subset')
     
     for row_num in range(len(results_df)):
         row_maps = []
@@ -45,7 +45,7 @@ def map_plot(results_csv_file, config, experiment_names):
 
 
 if __name__ == "__main__":
-    config = {'dialogue_sim': {'num_turns': 10}}
-    results_csv_file = "experiments/movies_trimmed_ce_vs_mnli/aggregated_results.csv"
-    experiment_names = ["CE", "MNLI"]
+    config = {'dialogue_sim': {'num_turns': 5}}
+    results_csv_file = "experiments/dt_methods/aggregated_results.csv"
+    experiment_names = ["random", "ucb", "greedy", "entropy reduction"]
     map_plot(results_csv_file, config, experiment_names)

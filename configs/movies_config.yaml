@@ -5,7 +5,7 @@ data:
   data_path: "data/movielens_16_trimmed.json"
   user_path: "data/users/movielens_16_qrel_trimmed.tsv"
 dialogue_sim:
-  num_turns: 10
+  num_turns: 5
   sim_type: "llm" # options: "llm" "manual"
 llm:
   model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
