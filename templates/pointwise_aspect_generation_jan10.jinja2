@@ -1,0 +1,52 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Your task is to determine the most informative aspect value of a set of items. However, you are only 
+given the description of a single item.
+You must identify a single aspect key value pair that is no more than 7 words.
+
+Example:
+''''
+Here is the description of the item:
+####
+Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
+####
+
+What is the most informative aspect key value pair? Name only one key value pair.
+Key, Value: genre, family-friendly
+''''
+
+Example:
+''''
+Here is the description of the item:
+####
+Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
+####
+
+You must choose a new aspect key value pair. The following aspect key value pairs have already been used:
+####
+Key, Value: instrument, piano
+####
+####
+Key, Value: instrument, electric guitar
+####
+
+What is the most informative aspect key value pair? Name only one key value pair.
+Key, Value: body type, solid body
+''''
+
+''''
+Here is the description of the item:
+####
+Description: {{ item_desc }} 
+####
+
+{% if aspects %}
+You must choose a new aspect key value pair. The following aspect key value pairs have already been used:
+{% for aspect in aspects %}
+####
+Key, Value: {{ aspect['aspect_key'] }}, {{ aspect['aspect_value'] }}
+####
+{% endfor %}
+{% endif %}
+
+What is the most informative aspect key value pair? Name only one key value pair.
+Key, Value: 

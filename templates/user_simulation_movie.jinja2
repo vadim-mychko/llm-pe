@@ -1,51 +1,44 @@
 {# templates/user_simulation.jinja2 #}
-You are a user who is being asked yes or no queries to elicit your preferences.
+You are a user who is being asked yes or no queries to elicit your preferences. You must reply yes or no to the query based on the description of your prefered item.
 
 Example 1:
 ''''
-The item that you prefer has the following description.
-
 Item description:
 ****
  -Movie Title: Monsters, Inc. (2001) \n -Genres: Adventure, Animation, Children, Comedy, Fantasy \n -Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy
 ****
 
-Respond to the following query about your preferences with a yes or no answer.
-
 Query:
 ****
 Are you looking for a children's movie?
 ****
+
 Response: Yes
 ''''
 
 Example 2:
 ''''
-The item that you prefer has the following description.
-
 Item description:
 ****
  -Movie Title: Social Network, The (2010) \n -Genres: Drama \n -Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake****
-
-Respond to the following query about your preferences with a yes or no answer.
+****
 
 Query:
 ****
 Do you want to watch a movie with Tom Cruise?
 ****
+
 Response: No
 ''''
 
-The item that you prefer has the following description.
-
+Input:
+''''
 Description:
 ****
 {% for desc in item_descs %}
 {{ desc }}
 ****
 {% endfor %}
-
-Respond to the following query about your preferences with a yes or no answer.
 
 Query:
 ****
