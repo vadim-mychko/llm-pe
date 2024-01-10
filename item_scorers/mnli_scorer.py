@@ -19,9 +19,6 @@ class MNLIScorer(ItemScorer):
 
     def score_items(self,preference,items) -> dict:
 
-        torch.manual_seed(42)
-        torch.use_deterministic_algorithms(True)
-
         hypotheses = [preference] * len(items)
     
         premises = [item['description'] for item in items.values()]
