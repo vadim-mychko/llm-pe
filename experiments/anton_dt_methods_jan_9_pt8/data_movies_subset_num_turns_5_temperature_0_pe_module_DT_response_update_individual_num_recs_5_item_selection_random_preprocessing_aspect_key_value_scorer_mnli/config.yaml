@@ -24,7 +24,7 @@ llm:
   user_sim_template_file: user_simulation.jinja2
 logging:
   disabled: false
-  level: WARNING
+  level: DEBUG
 metrics:
   metrics: supported_measures
   to_avg:

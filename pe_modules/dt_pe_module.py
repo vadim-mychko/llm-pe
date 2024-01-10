@@ -82,9 +82,7 @@ class DTPEModule(BasePEModule):
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
         self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
-        print(f"{np.random.rand()} before item selection")
         top_item_id = item_selection_method()
-        print(f"{np.random.rand()} after item selection")
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
         
@@ -118,9 +116,7 @@ class DTPEModule(BasePEModule):
     Get the IDs of the top k recommended items
     '''
     def get_top_items(self, k=5):
-        print(f"{np.random.rand()} before topk item heapq selection")
         top_k_ids = heapq.nlargest(k, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))
-        print(f"{np.random.rand()} after topk item heapq selection")
         return top_k_ids
     
     '''
@@ -144,9 +140,7 @@ class DTPEModule(BasePEModule):
         #ANTON Dec 12 TODO: set truncation warnings
         #get like_prob for all items
         start = timeit.default_timer()
-        print(f"{np.random.rand()} before item scoring")
         like_probs = self.item_scorer.score_items(preference, self.items)
-        print(f"{np.random.rand()} after item scoring")
         stop = timeit.default_timer()
         self.total_entailment_time += (stop - start)
 
