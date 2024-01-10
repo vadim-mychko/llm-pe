@@ -199,7 +199,7 @@ class DTPEModule(BasePEModule):
     
     def item_selection_ucb(self):
         top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
-        return top_id
+        return str(top_id)
 
     def thompson_sampling(beliefs):
         raise NotImplementedError
