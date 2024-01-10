@@ -202,25 +202,6 @@ class EvalManager:
         df = pd.DataFrame(all_rows, columns=headers)
         df.to_csv(os.path.join(self.experiments_dir, 'aggregated_results.csv'), index=False)
 
-        # Append to master csv
-        master_path = self.config["paths"]["eval_results_master_path"]
-        if os.path.isfile(master_path) and os.path.getsize(master_path) > 0:
-            df_master = pd.read_csv(master_path)
-
-            if not df_master.columns.tolist() == headers[:len(df_master.columns.tolist())]:
-                raise ValueError("Existing headers in master csv do not match the current headers.")
-
-            # Append additional headers if needed
-            for header in headers[len(df_master.columns):]:
-                df_master[header] = None
-
-            df_master = df_master._append(df, ignore_index=True)
-        else:
-            df_master = df
-
-        df_master.to_csv(master_path, index=False)
-
-
     
     def get_row(self, mean_eval_results_list, ci_results_list, exp_dir):
         """
@@ -285,4 +266,12 @@ def run_eval_on_dir(exp_dir):
     em.eval_experiments()
 
 if __name__ == "__main__":
-    run_eval_on_dir("./experiments/anton_rerun_movies_16_5_dt")
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("-exp_dir", "--experiment_dir", type=str)
+
+    args = parser.parse_args()
+
+    run_eval_on_dir(args.experiment_dir)
+    #run_eval_on_dir("./experiments/anton_dt_methods_jan_9_pt7")

@@ -54,6 +54,8 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
+        self.logger.debug(prompt)
+
         aspect_pair = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
 
         aspect_list = aspect_pair.split(",")
@@ -103,7 +105,7 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
-        # self.logger.debug(prompt)
+        self.logger.debug(prompt)
 
         user_query = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
         stop = timeit.default_timer()
