@@ -102,7 +102,7 @@ class ExperimentManager():
             runs[user_id] = results
         
         output_file = open(os.path.join(dir_path, "results.json"), "w")
-        json.dump(runs, output_file)
+        json.dump(runs, output_file, indent = 4)
         
 
 if __name__ == "__main__":
