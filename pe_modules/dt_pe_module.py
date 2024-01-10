@@ -185,7 +185,8 @@ class DTPEModule(BasePEModule):
 
     # Select the item_id at random
     def item_selection_random(self):
-        top_id = random.choice(list(self.items))
+        # top_id = random.choice(list(self.items))
+        top_id = random.randrange(len(self.items))
         return top_id
 
     # Select the item_id with the highest variance in utility
