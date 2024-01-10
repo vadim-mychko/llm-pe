@@ -1,5 +1,6 @@
 from pe_modules.base_pe_module import BasePEModule
 import random
+import numpy as np
 import heapq
 import math
 import item_scorers
@@ -81,9 +82,9 @@ class DTPEModule(BasePEModule):
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
         self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
-        print(f"{random.random()} before item selection")
+        print(f"{np.random.rand()} before item selection")
         top_item_id = item_selection_method()
-        print(f"{random.random()} after item selection")
+        print(f"{np.random.rand()} after item selection")
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
         
@@ -117,9 +118,9 @@ class DTPEModule(BasePEModule):
     Get the IDs of the top k recommended items
     '''
     def get_top_items(self, k=5):
-        print(f"{random.random()} before topk item heapq selection")
+        print(f"{np.random.rand()} before topk item heapq selection")
         top_k_ids = heapq.nlargest(k, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta']) ))
-        print(f"{random.random()} after topk item heapq selection")
+        print(f"{np.random.rand()} after topk item heapq selection")
         return top_k_ids
     
     '''
@@ -143,9 +144,9 @@ class DTPEModule(BasePEModule):
         #ANTON Dec 12 TODO: set truncation warnings
         #get like_prob for all items
         start = timeit.default_timer()
-        print(f"{random.random()} before item scoring")
+        print(f"{np.random.rand()} before item scoring")
         like_probs = self.item_scorer.score_items(preference, self.items)
-        print(f"{random.random()} after item scoring")
+        print(f"{np.random.rand()} after item scoring")
         stop = timeit.default_timer()
         self.total_entailment_time += (stop - start)
 
@@ -167,7 +168,7 @@ class DTPEModule(BasePEModule):
 
 
     def reset(self):
-        random.seed(10)
+        np.random.seed(10)
         super().reset()
         self.belief = {}
         for id in self.items:
@@ -191,7 +192,7 @@ class DTPEModule(BasePEModule):
 
     # Select the item_id at random
     def item_selection_random(self):
-        top_id = random.choice(list(self.items))
+        top_id = np.random.choice(list(self.items))
         return top_id
 
     # Select the item_id with the highest variance in utility
