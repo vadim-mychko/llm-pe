@@ -285,4 +285,4 @@ def run_eval_on_dir(exp_dir):
     em.eval_experiments()
 
 if __name__ == "__main__":
-    run_eval_on_dir("./experiments/dt_methods")
+    run_eval_on_dir("./experiments/anton_rerun_movies_16_5_dt")
