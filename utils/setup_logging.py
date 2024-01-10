@@ -43,6 +43,14 @@ def setup_logging(name: str, config : dict, level = None, disabled = None) -> lo
     ch.setFormatter(formatter)
     ch.setLevel(level)
     logger.addHandler(ch)
+
+    # Create a StreamHandler that outputs log messages to output file, if it exists
+    output_file = config['logging'].get('log_file') # Returns None if the log_file is missing
+    if output_file:
+        oh = logging.FileHandler(output_file)
+        oh.setFormatter(formatter)
+        oh.setLevel(level)
+        logger.addHandler(oh)
     
     return logger
 
