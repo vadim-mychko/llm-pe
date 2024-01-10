@@ -34,7 +34,7 @@ mono_llm:
   top_items_template: mono_llm_top_items.jinja2
 paths:
   eval_results_master_path: experiments/dt_methods_jan_9_pt8/eval_results.csv
-  experiment_dir: experiments/dt_methods_jan_9_pt8
+  experiment_dir: experiments/anton_dt_methods_jan_9_pt8
 pe:
   num_recs: 5
   pe_module_name: DT
