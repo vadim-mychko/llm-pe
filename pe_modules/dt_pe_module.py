@@ -7,6 +7,7 @@ import history_preprocessors
 from scipy.stats import beta
 import timeit
 
+random.seed(42)
 
 '''
 The DTPEModule is a subclass of BasePEModule which conducts preference elicitation using
@@ -79,6 +80,7 @@ class DTPEModule(BasePEModule):
         # If it's the first turn, always use random
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
+        self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
         top_item_id = item_selection_method() 
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
@@ -159,12 +161,15 @@ class DTPEModule(BasePEModule):
 
 
     def reset(self):
+        random.seed(42)
         super().reset()
         self.belief = {}
         for id in self.items:
             self.belief[id] = {"alpha": 0.5, "beta": 0.5}
         self.queried_items = []
         self.all_beliefs = []
+        self.aspects = []
+        self.recs = [] # List of recommended items at each step. Number recommended is from config
         self.total_entailment_time = 0.0
         self.total_llm_time = 0.0
 
