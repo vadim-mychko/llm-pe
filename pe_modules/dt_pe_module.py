@@ -161,7 +161,7 @@ class DTPEModule(BasePEModule):
 
 
     def reset(self):
-        random.seed(42)
+        random.seed(10)
         super().reset()
         self.belief = {}
         for id in self.items:
