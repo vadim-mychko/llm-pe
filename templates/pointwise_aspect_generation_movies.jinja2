@@ -1,0 +1,46 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from previously identified aspects. The output format for the aspect is a key-value pair that does not exceed 7 words.
+
+Example 1:
+''''
+Item Description:
+****
+ -Movie Title: Social Network, The (2010) \n -Genres: Drama \n -Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake
+****
+Previously extracted aspects:
+****
+genre, drama
+actor, Jesse Eisenberg
+****
+Key, Value: director, David Fincher
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+" -Movie Title: Monsters, Inc. (2001) \n -Genres: Adventure, Animation, Children, Comedy, Fantasy \n -Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy"
+****
+Previously extracted aspects:
+****
+genre, children
+studio, Pixar
+****
+Key, Value: theme, monsters
+'''' 
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+{% if aspects %}
+Previously extracted aspects:
+****
+{% for aspect in aspects %}
+Key, Value: {{ aspect['aspect_key'] }}, {{ aspect['aspect_value'] }}
+{% endfor %}
+****
+{% endif %}
+Key, Value:
