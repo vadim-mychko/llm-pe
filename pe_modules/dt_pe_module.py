@@ -53,7 +53,7 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
-        self.logger.debug(prompt)
+        #self.logger.debug(prompt)
 
         aspect_pair = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
 
@@ -85,6 +85,7 @@ class DTPEModule(BasePEModule):
         top_item_id = item_selection_method()
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
+        self.logger.debug(f"itemId: {top_item_id} \n item description: {item_desc}")
         
         start = timeit.default_timer()
         # Get the aspect
@@ -104,7 +105,7 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
-        self.logger.debug(prompt)
+        #self.logger.debug(prompt)
 
         user_query = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
         stop = timeit.default_timer()
