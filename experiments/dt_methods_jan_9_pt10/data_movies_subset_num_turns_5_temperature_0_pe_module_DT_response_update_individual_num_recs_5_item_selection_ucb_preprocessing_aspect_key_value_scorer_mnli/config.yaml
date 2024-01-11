@@ -25,6 +25,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
+  log_file: experiments/dt_methods_jan_9_pt10/data_movies_subset_num_turns_5_temperature_0_pe_module_DT_response_update_individual_num_recs_5_item_selection_ucb_preprocessing_aspect_key_value_scorer_mnli/output.log
 metrics:
   metrics: supported_measures
   to_avg:
