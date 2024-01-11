@@ -1,6 +1,7 @@
 import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from item_scorers.item_scorer import ItemScorer
+import torch.nn.functional as F
 
 class MNLIScorer(ItemScorer):
 
@@ -34,7 +35,9 @@ class MNLIScorer(ItemScorer):
         with torch.no_grad():
             outputs = self.nli_model(**inputs)
             entail_contradiction_logits = outputs[0][:,[0,2]]
-            predictions = entail_contradiction_logits.softmax(dim=1)
+            # predictions = entail_contradiction_logits.softmax(dim=1)
+            T = 0.5
+            predictions = F.softmax(entail_contradiction_logits/T, dim=1)
 
         #get entailement probs
         entailment_probs = predictions[:, 1].tolist()

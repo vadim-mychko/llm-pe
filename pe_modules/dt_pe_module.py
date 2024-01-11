@@ -162,8 +162,8 @@ class DTPEModule(BasePEModule):
         self.recs.append(top_recs)
 
 
-    def reset(self):
-        np.random.seed(10)
+    def reset(self, user_id):
+        np.random.seed(int(user_id) * 10000)
         super().reset()
         self.belief = {}
         for id in self.items:
