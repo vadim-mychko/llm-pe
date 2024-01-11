@@ -34,7 +34,7 @@ class LLMUserSim(UserSim):
             "query": query
         }
         prompt = query_template.render(context)
-        # self.logger.debug("User Sim Prompt: %s" % prompt)
+        self.logger.debug("User Sim Prompt: %s" % prompt)
 
         response = self.llm.make_request(prompt)
         self.logger.info("Query: %s Response: %s" % (query, response))
