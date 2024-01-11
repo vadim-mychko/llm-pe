@@ -69,8 +69,7 @@ class GPTChatCompletion(LLMBase):
             model=model_name,
             messages=messages,
             temperature=temperature,
-            logprobs = bool(logprobs),
-            top_logprobs = top_logprobs
+            logprobs = bool(logprobs)
         )
 
 

@@ -36,7 +36,7 @@ class MNLIScorer(ItemScorer):
             outputs = self.nli_model(**inputs)
             entail_contradiction_logits = outputs[0][:,[0,2]]
             # predictions = entail_contradiction_logits.softmax(dim=1)
-            T = 0.5
+            T = self.config['item_scoring']['mnli_temp']
             predictions = F.softmax(entail_contradiction_logits/T, dim=1)
 
         #get entailement probs

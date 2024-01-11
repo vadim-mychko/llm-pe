@@ -8,8 +8,8 @@ dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
 llm:
-  model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "text-davinci-003"
-  llm_name: 'GPTCompletion'
+  model: "gpt-3.5-turbo-1106" # options: "gpt-3.5-turbo" "text-davinci-003"
+  llm_name: 'GPTChatCompletion'
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation_movie.jinja2"
   template_dir: "./templates"
@@ -34,6 +34,7 @@ item_scoring:
   mnli_model: "facebook/bart-large-mnli"
   preprocess_query: True
   history_preprocessor_name: "AspectKVPreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
+  mnli_temp: 1
 # Beginning of Evaluation Management Parameters #######################
 ci:
   confidence_level: 0.95
