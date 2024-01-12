@@ -2,6 +2,7 @@ import os
 from typing import Optional
 import os
 import openai
+import time
 from llms.llm_base import LLMBase
 
 class GPTCompletion(LLMBase):
@@ -65,12 +66,24 @@ class GPTChatCompletion(LLMBase):
             {"role": "user", "content": prompt},
         ]
 
-        response = openai.ChatCompletion.create(
-            model=model_name,
-            messages=messages,
-            temperature=temperature,
-            logprobs = bool(logprobs)
-        )
+        attempts = 0
+        while attempts < 3:
+            try:
+                response = openai.ChatCompletion.create(
+                    model=model_name,
+                    messages=messages,
+                    temperature=temperature,
+                    logprobs = bool(logprobs)
+                )
+            except openai.error.ServiceUnavailableError as e:
+                print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again")
+                attempts += 1
+                time.sleep(30) # Wait 30 seconds
+                continue
+            break
+
+        if attempts >= 3:
+            print("Received 3 repeated OpenAI Service Unavailable Errors... ending execution")
 
 
         if bool(logprobs):
