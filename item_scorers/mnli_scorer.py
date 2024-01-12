@@ -14,6 +14,7 @@ class MNLIScorer(ItemScorer):
         self.device = torch.device("cpu")
         #if torch.cuda.is_available():
         #    self.device = torch.device("cuda")
+        
         if torch.backends.mps.is_available():
             self.device = torch.device("mps")
         self.nli_model.to(self.device)
