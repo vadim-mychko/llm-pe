@@ -80,5 +80,5 @@ class GPTChatCompletion(LLMBase):
             self.logprobs = {e['token']: e['logprob'] for e in top_logprobs}
         else:
             self.logprobs = None
-        print(self.logprobs)
+
         return response.choices[0].message['content']
