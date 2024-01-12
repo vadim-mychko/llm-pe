@@ -2,14 +2,14 @@ debug_mode: false
 data:
   data_loader_name: "JSONLoader"
   user_loader_name: "UserTsvLoader"
-  data_path: "data/ml25M_100_movie_sample.json"
+  data_path: "data/ml25M_16_movie_sample.json"
   user_path: "data/users/movielens_16_5_users.tsv"
 dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
 llm:
-  model: "gpt-3.5-turbo-1106" # options: "gpt-3.5-turbo" "text-davinci-003"
-  llm_name: 'GPTChatCompletion'
+  model: "gpt-3.5-turbo-instruct" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-1106" "text-davinci-003"
+  llm_name: 'GPTCompletion'
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation_movie.jinja2"
   template_dir: "./templates"
@@ -33,7 +33,7 @@ item_scoring:
   item_scorer_name: "MNLIScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer" "MNLIScorer"
   mnli_model: "facebook/bart-large-mnli"
   preprocess_query: True
-  history_preprocessor_name: "AspectKVPreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
+  history_preprocessor_name: "AspectValuePreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
   mnli_temp: 1
 # Beginning of Evaluation Management Parameters #######################
 ci:
