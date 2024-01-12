@@ -72,6 +72,7 @@ class EvalManager:
         # directory names and file names in the directory.
         for root, dirs, files in os.walk(self.experiments_dir):
             # iterate over directories only
+            dirs.sort()
             for directory in dirs:
                 exp_dir = os.path.join(root, directory)
                 self.logger.debug(f'running evaluator on {exp_dir}')

@@ -13,19 +13,20 @@ item_scoring:
   history_preprocessor_name: AspectValuePreprocessor
   item_scorer_name: MNLIScorer
   mnli_model: facebook/bart-large-mnli
-  mnli_temp: 1
+  mnli_temp: 2
   preprocess_query: true
 llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   like_probs_template: pref_query.jinja2
-  llm_name: GPTChatCompletion
-  model: gpt-3.5-turbo-1106
+  llm_name: GPTCompletion
+  model: gpt-3.5-turbo-instruct
   temperature: 0
   template_dir: ./templates
   user_sim_template_file: user_simulation_movie.jinja2
 logging:
   disabled: false
   level: DEBUG
+  log_file: experiments/jan_12_mnli_temp_5_users_16_items_temp2/selction_ucb_mnli_temp_2/output.log
 metrics:
   metrics: supported_measures
   to_avg:
@@ -34,13 +35,13 @@ mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2
 paths:
-  eval_results_master_path: experiments/jan_12_5_usr_FS/eval_results.csv
-  experiment_dir: experiments/jan_12_5_usr_FS
+  eval_results_master_path: experiments/david_test_1/eval_results.csv
+  experiment_dir: experiments/david_test_1
 pe:
   num_recs: 10
   pe_module_name: DT
   response_update: individual
 query:
   aspect_gen_template: pointwise_aspect_generation.jinja2
-  item_selection: greedy
+  item_selection: ucb
   query_gen_template: pointwise_query_generation.jinja2
