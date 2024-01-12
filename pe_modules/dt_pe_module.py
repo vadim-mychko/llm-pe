@@ -154,7 +154,6 @@ class DTPEModule(BasePEModule):
 
         self.all_beliefs.append(self.belief)
 
-        # TODO: DUPLICATING LOGS
 
         # Append the top k items to self.recs for return_dict
         k = self.config['pe']['num_recs']
@@ -164,6 +163,7 @@ class DTPEModule(BasePEModule):
 
     def reset(self, user_id):
         np.random.seed(int(user_id) * 10000)
+        # np.random.seed(10)
         super().reset()
         self.belief = {}
         for id in self.items:
