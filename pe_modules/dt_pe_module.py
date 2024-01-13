@@ -90,8 +90,6 @@ class DTPEModule(BasePEModule):
         start = timeit.default_timer()
         # Get the aspect
         aspect_dict = self.get_aspect(item_desc)
-
-        # Clean the aspect, value pair (assuming correct format)
         
         self.aspects.append(aspect_dict)
 
