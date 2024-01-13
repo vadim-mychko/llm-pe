@@ -40,10 +40,21 @@ class DTPEModule(BasePEModule):
         self.total_llm_time = 0.0
         self.total_entailment_time = 0.0
 
+        self.ITEM_SELECTION_MAP = {
+        'greedy': self.item_selection_greedy,
+        'random': self.item_selection_random,
+        'entropy_reduction': self.item_selection_entropy_reduction,
+        'ucb': self.item_selection_ucb,
+        }
+        
+        self.ASPECT_EXTRACTION_MAP = {
+        'val': self.get_aspect_val,
+        'key_val': self.get_aspect_key_val
+         }
     '''
     Generate an aspect from the item description on which to query 
     '''
-    def get_aspect(self, item_desc):
+    def get_aspect_key_val(self, item_desc):
         template_file = self.config['query']['aspect_gen_template']
         prompt_template = self.jinja_env.get_template(template_file)
 
@@ -65,19 +76,32 @@ class DTPEModule(BasePEModule):
 
         return aspect_dict
 
+    def get_aspect_val(self, item_desc):
+        template_file = self.config['query']['aspect_gen_template']
+        prompt_template = self.jinja_env.get_template(template_file)
+
+        context = {
+            "item_desc": item_desc, # Item description for the given item
+            "aspects": self.aspects
+        }
+        prompt = prompt_template.render(context)
+
+        #self.logger.debug(prompt)
+
+        aspect_val = self.llm.make_request(prompt, temperature=self.config['llm']['temperature']).strip()
+        
+        aspect_dict = {"aspect_value": aspect_val}
+
+        return aspect_dict
+
     '''
     Generates a query based on the current utility values and the provided set of items.
     '''
     def get_query(self):
-        ITEM_SELECTION_MAP = {
-        'greedy': self.item_selection_greedy,
-        'random': self.item_selection_random,
-        'entropy_reduction': self.item_selection_entropy_reduction,
-        'ucb': self.item_selection_ucb,
-        }  
+ 
         
         # Run item selection to get the item to generate from
-        item_selection_method = ITEM_SELECTION_MAP[self.config['query']['item_selection']]
+        item_selection_method = self.ITEM_SELECTION_MAP[self.config['query']['item_selection']]
         # If it's the first turn, always use random
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
@@ -88,8 +112,12 @@ class DTPEModule(BasePEModule):
         self.logger.debug(f"itemId: {top_item_id} \n item description: {item_desc}")
         
         start = timeit.default_timer()
+
+
         # Get the aspect
-        aspect_dict = self.get_aspect(item_desc)
+        aspect_extraction_method = self.ASPECT_EXTRACTION_MAP[self.config['query']['aspect_extraction']]
+
+        aspect_dict = aspect_extraction_method(item_desc)
         
         self.aspects.append(aspect_dict)
 
@@ -122,11 +150,14 @@ class DTPEModule(BasePEModule):
     Update the model's beliefs, etc based on the user's response
     '''
     def update_from_response(self, query, response):
-        self.interactions.append({"query": query, 
-                                  "response":response, 
-                                  "aspect_key": self.aspects[-1]['aspect_key'], 
-                                  "aspect_value": self.aspects[-1]['aspect_value']
-                                })
+        interaction = {"query": query, "response": response}
+
+        #update with latest aspect fields
+        interaction.update(self.aspects[-1])
+        
+        self.interactions.append(interaction)
+
+        #self.logger.debug(f"self.interactions: {self.interactions}")
 
         # Use either full history or just last response 
         preference = [self.interactions[-1]] if self.config['pe']['response_update']=="individual" else self.interactions
