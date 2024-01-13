@@ -1,0 +1,75 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from previously identified aspects. The output format for the aspect is a key-value pair that does not exceed 7 words.
+
+Example 1:
+''''
+Item Description:
+****
+ -Movie Title: Social Network, The (2010) \n -Genres: Drama \n -Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake
+****
+Previously extracted aspects:
+****
+Key, Value: genre, drama
+Key, Value: decade produced, 2010's
+****
+Key, Value: theme, technology and society
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+ -Movie Title: Monsters, Inc. (2001) \n -Genres: Adventure, Animation, Children, Comedy, Fantasy \n -Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy
+****
+Previously extracted aspects:
+****
+Key, Value: theme, monsters
+Key, Value: decade produced, 2000's
+****
+Key, Value: genre, children
+''''
+
+Example 3:
+''''
+Item Description:
+****
+ -Movie Title: Runaway Train (1985) \n -Genres: Action, Adventure, Drama, Thriller \n -Tags: prison escape, Andrei Konchalovsky, Andrey Konchalovskiy, trains, Betamax, CLV, Director: Andrey Konchalovskiy, Eric Roberts, Jon Voight, Kenneth McMillan, Kyle T. Heffner, Rebecca De Mornay, T.K. Carter, Writer: Akira Kurosawa, Writer: Djordje Milicevic, Writer: Edward Bunker, Writer: Hideo Oguni, Writer: Paul Zindel, Writer: Ry\u00fbz\u00f4 Kikushima, alaska
+****
+Previously extracted aspects:
+****
+Key, Value: genre, action
+Key, Value: theme, prison escape
+****
+Key, Value: decade produced, 80's
+''''
+
+
+Example 4:
+''''
+Item Description:
+****
+Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
+****
+Previously extracted aspects:
+****
+Key, Value: instrument, piano
+Key, Value: instrument, electric guitar
+****
+Key, Value: body type, solid body
+''''
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+{% if aspects %}
+Previously extracted aspects:
+****
+{% for aspect in aspects %}
+Key, Value: {{ aspect['aspect_key'] }}, {{ aspect['aspect_value'] }}
+{% endfor %}
+****
+{% endif %}
+Key, Value:
