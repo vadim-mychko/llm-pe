@@ -34,13 +34,8 @@ mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2
 paths:
-<<<<<<<< HEAD:experiments/jan_12_5_usr_FS_turbo/config.yaml
-  eval_results_master_path: experiments/jan_12_5_usr_FS/eval_results.csv
-  experiment_dir: experiments/jan_12_5_usr_FS_turbo
-========
   eval_results_master_path: experiments/jan_12_mnli_temp_5_users_16_items_temp2/eval_results.csv
   experiment_dir: experiments/jan_12_mnli_temp_5_users_16_items_temp2
->>>>>>>> acbebb4111753b409e34413d9829b7a7fd7c59a7:experiments/jan_12_mnli_temp_5_users_16_items_temp2/config.yaml
 pe:
   num_recs: 10
   pe_module_name: DT
