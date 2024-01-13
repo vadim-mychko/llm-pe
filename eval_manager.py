@@ -74,6 +74,8 @@ class EvalManager:
             # iterate over directories only
             dirs.sort()
             for directory in dirs:
+                if directory == "results":
+                    continue
                 exp_dir = os.path.join(root, directory)
                 self.logger.debug(f'running evaluator on {exp_dir}')
                 row = self.eval_experiment(evaluator, exp_dir)
@@ -258,6 +260,8 @@ class EvalManager:
         for root, dirs, files in os.walk(self.exp_dir):
             # we are interested in directories only
             for directory in dirs:
+                if directory == "results":
+                    continue
                 folder_path = os.path.join(root, directory)
                 self.json_to_trec_results(folder_path)
 
