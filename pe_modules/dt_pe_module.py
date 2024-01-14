@@ -86,7 +86,7 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
-        #self.logger.debug(prompt)
+        self.logger.debug(prompt)
 
         aspect_val = self.llm.make_request(prompt, temperature=self.config['llm']['temperature']).strip()
         
