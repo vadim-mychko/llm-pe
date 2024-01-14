@@ -12,11 +12,13 @@ class MNLIScorer(ItemScorer):
         self.nli_tokenizer = AutoTokenizer.from_pretrained(config['item_scoring']['mnli_model'])
 
         self.device = torch.device("cpu")
-        #if torch.cuda.is_available():
-        #    self.device = torch.device("cuda")
+        if torch.cuda.is_available():
+           self.device = torch.device("cuda")
+           print("Using CUDA")
         
         if torch.backends.mps.is_available():
             self.device = torch.device("mps")
+            print("Using MPS")
         self.nli_model.to(self.device)
 
     def score_items(self,preference,items) -> dict:

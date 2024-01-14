@@ -42,6 +42,6 @@ pe:
   response_update: individual
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS.jinja2
+  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
   item_selection: greedy
   query_gen_template: pointwise_query_generation.jinja2
