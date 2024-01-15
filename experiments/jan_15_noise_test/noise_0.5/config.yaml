@@ -14,13 +14,13 @@ item_scoring:
   history_preprocessor_name: AspectValuePreprocessor
   item_scorer_name: MNLIScorer
   mnli_model: facebook/bart-large-mnli
-  mnli_temp: 20
+  mnli_temp: 1
   preprocess_query: true
 llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   like_probs_template: pref_query.jinja2
-  llm_name: GPTCompletion
-  model: gpt-3.5-turbo-instruct
+  llm_name: GPTChatCompletion
+  model: gpt-3.5-turbo-0613
   temperature: 0
   template_dir: ./templates
   user_sim_template_file: user_simulation_movie.jinja2
@@ -43,6 +43,7 @@ pe:
   pe_module_name: DT
   response_update: individual
 query:
-  aspect_gen_template: pointwise_aspect_generation.jinja2
+  aspect_extraction: val
+  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
   item_selection: ucb
   query_gen_template: pointwise_query_generation.jinja2
