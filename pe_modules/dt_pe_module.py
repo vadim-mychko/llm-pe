@@ -231,8 +231,15 @@ class DTPEModule(BasePEModule):
         top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
         return str(top_id)
 
-    def thompson_sampling(beliefs):
-        raise NotImplementedError
+    def thompson_sampling(self):
+        # Sample from all belief distributions and choose the max
+        samples = {}
+        for item_id, item_belief in self.belief.items(): # Could convert this to a list comprehension for tidiness
+            samples[item_id] = np.random.beta(item_belief['alpha'], item_belief['beta'])
+        top_id = max(samples, key=samples.get)
+        return top_id
+        
+        
     
     def get_last_results(self):
         results = {"rec_items": self.recs, 
