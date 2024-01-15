@@ -2,6 +2,7 @@ import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from item_scorers.item_scorer import ItemScorer
 import torch.nn.functional as F
+import gc
 
 class MNLIScorer(ItemScorer):
 
@@ -14,6 +15,8 @@ class MNLIScorer(ItemScorer):
         self.device = torch.device("cpu")
         if torch.cuda.is_available():
            self.device = torch.device("cuda")
+           torch.cuda.empty_cache()
+           gc.collect()
            print("Using CUDA")
         
         if torch.backends.mps.is_available():
@@ -22,6 +25,13 @@ class MNLIScorer(ItemScorer):
         self.nli_model.to(self.device)
 
     def score_items(self,preference,items) -> dict:
+        
+        #Anton[jan 15]: 2'nd level gc (first is at model loading)
+        #if self.device == torch.device("cuda"):
+        #   print('clearing CUDA cache and running gc')
+        #   torch.cuda.empty_cache()
+        #   gc.collect()
+        
         # Read batch_size from config
         batch_size = int(self.config['item_scoring']['batch_size']) if 'batch_size' in self.config['item_scoring'] else len(items)
 
@@ -55,5 +65,11 @@ class MNLIScorer(ItemScorer):
 
             for j, item_id in enumerate(batch_item_ids):
                 like_probs[item_id] = entailment_probs[j]
+
+            #Anton[jan 15]: 3'd level gc
+            #if self.device == torch.device("cuda"):
+            #    print('clearing CUDA cache and running gc')
+            #    torch.cuda.empty_cache()
+            #    gc.collect()
 
         return like_probs
