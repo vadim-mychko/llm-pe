@@ -8,7 +8,7 @@ dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
 llm:
-  model: "gpt-3.5-turbo-1106" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-instruct" "text-davinci-003"
+  model: "gpt-3.5-turbo-0613" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-instruct" "text-davinci-003"
   llm_name: 'GPTChatCompletion'
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation_movie.jinja2"
