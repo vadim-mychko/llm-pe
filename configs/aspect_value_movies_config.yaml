@@ -26,7 +26,7 @@ pe:
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
   num_recs: 10
 query:
-  aspect_gen_template: "pointwise_aspect_v_generation_movies_3FS.jinja2"
+  aspect_gen_template: "pointwise_aspect_v_generation_movies_3FS_3words.jinja2"
   aspect_extraction: "val"
   query_gen_template: "pointwise_query_generation.jinja2"
   item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
