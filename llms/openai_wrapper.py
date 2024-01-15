@@ -31,6 +31,25 @@ class GPTCompletion(LLMBase):
             logprobs=logprobs
         )
 
+        attempts = 0
+        while attempts < 3:
+            try:
+                response = openai.Completion.create(
+                    model=self.config["llm"]["model"],
+                    temperature=temperature,
+                    prompt=prompt,
+                    logprobs=logprobs
+                )
+            except openai.error.ServiceUnavailableError as e:
+                print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again")
+                attempts += 1
+                time.sleep(30) # Wait 30 seconds
+                continue
+            break
+
+        if attempts >= 3:
+            print("Received 3 repeated OpenAI Service Unavailable Errors... ending execution")
+
 
         if logprobs:
         #logprobs for only the first generated token and alternatives (e.g, 'True', 'False', 'Unc').
