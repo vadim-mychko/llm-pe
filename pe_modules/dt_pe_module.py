@@ -191,8 +191,7 @@ class DTPEModule(BasePEModule):
 
 
     def reset(self, user_id):
-        np.random.seed(int(user_id) * 10000)
-        # np.random.seed(10)
+        # Random seed is now set in experiment_manager
         super().reset()
         self.belief = {}
         for id in self.items:

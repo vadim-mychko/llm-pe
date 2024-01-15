@@ -10,6 +10,7 @@ import argparse
 import yaml
 from pathlib import Path
 import json
+import numpy as np
 
 
 from utils.setup_logging import setup_logging
@@ -111,12 +112,13 @@ class ExperimentManager():
         users_to_test = dict((k, user_data[k]) for k in user_data.keys() if not (k in prev_users))
 
         for user_id, user_item_ids in users_to_test.items():
+            np.random.seed(int(user_id) * 10000) # Set random seed for each user
             # Add relevant item descriptions to a list
             item_descs = []
             for item_id in user_item_ids:
                 item_descs.append(items[item_id]['description'])
             # Create user simulator and dialogue simulator
-            user_sim = LLMUserSim(config, item_descs, llm)
+            user_sim = LLMUserSim(config, item_descs, llm, user_id)
 
             # Reset pe_module
             pe_module.reset(int(user_id))

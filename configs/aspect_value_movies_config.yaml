@@ -8,7 +8,7 @@ dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
 llm:
-  model: "gpt-3.5-turbo-1106" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-instruct" "text-davinci-003"
+  model: "gpt-3.5-turbo-0613" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-instruct" "text-davinci-003"
   llm_name: 'GPTChatCompletion'
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation_movie.jinja2"
@@ -26,10 +26,10 @@ pe:
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update
   num_recs: 10
 query:
-  aspect_gen_template: "pointwise_aspect_v_generation_movies_3FS.jinja2"
+  aspect_gen_template: "pointwise_aspect_v_generation_movies_3FS_3words.jinja2"
   aspect_extraction: "val"
   query_gen_template: "pointwise_query_generation.jinja2"
-  item_selection: "greedy" # Which item selection method to use. See map in query_selection.pointwise_item_selection
+  item_selection: "ucb" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
   item_scorer_name: "MNLIScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer" "MNLIScorer"
   mnli_model: "facebook/bart-large-mnli"

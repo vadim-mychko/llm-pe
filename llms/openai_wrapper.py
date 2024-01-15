@@ -40,7 +40,7 @@ class GPTCompletion(LLMBase):
                     prompt=prompt,
                     logprobs=logprobs
                 )
-            except openai.error.ServiceUnavailableError as e:
+            except openai.APIError as e:
                 print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again")
                 attempts += 1
                 time.sleep(30) # Wait 30 seconds
@@ -94,7 +94,7 @@ class GPTChatCompletion(LLMBase):
                     temperature=temperature,
                     logprobs = bool(logprobs)
                 )
-            except openai.error.ServiceUnavailableError as e:
+            except openai.APIError as e:
                 print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again")
                 attempts += 1
                 time.sleep(30) # Wait 30 seconds
