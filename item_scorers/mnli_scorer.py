@@ -22,31 +22,38 @@ class MNLIScorer(ItemScorer):
         self.nli_model.to(self.device)
 
     def score_items(self,preference,items) -> dict:
+        # Read batch_size from config
+        batch_size = int(self.config['item_scoring']['batch_size']) if 'batch_size' in self.config['item_scoring'] else len(items)
 
-
-        hypotheses = [preference] * len(items)
-    
-        premises = [item['description'] for item in items.values()]
-
-        inputs = self.nli_tokenizer(premises, hypotheses, padding=True, truncation=True, return_tensors="pt", max_length=self.nli_tokenizer.model_max_length)
-
-        # Ensure the tokenized inputs don't exceed the max length
-        if inputs.input_ids.size(1) > self.nli_tokenizer.model_max_length:
-            print(f"Warning: One or more tokenized inputs exceed the max length of {self.tokenizer.model_max_length} and will be truncated.")
-
-        inputs = inputs.to(self.device)
-
-        with torch.no_grad():
-            outputs = self.nli_model(**inputs)
-            entail_contradiction_logits = outputs[0][:,[0,2]]
-            # predictions = entail_contradiction_logits.softmax(dim=1)
-            T = self.config['item_scoring']['mnli_temp']
-            predictions = F.softmax(entail_contradiction_logits/T, dim=1)
-
-        #get entailement probs
-        entailment_probs = predictions[:, 1].tolist()
         like_probs = {item_id : None for item_id in items}
+        item_ids = list(items.keys())
 
-        for i, item_id in enumerate(items):
-            like_probs[item_id] = entailment_probs[i]
+        for i in range(0, len(items), batch_size):
+            batch_item_ids = item_ids[i:i + batch_size]
+            batch_items = [items[item_id]['description'] for item_id in batch_item_ids]
+
+            hypotheses = [preference] * batch_size
+            premises = batch_items
+
+            inputs = self.nli_tokenizer(premises, hypotheses, padding=True, truncation=True, return_tensors="pt", max_length=self.nli_tokenizer.model_max_length)
+
+            # Ensure the tokenized inputs don't exceed the max length
+            if inputs.input_ids.size(1) > self.nli_tokenizer.model_max_length:
+                print(f"Warning: One or more tokenized inputs exceed the max length of {self.tokenizer.model_max_length} and will be truncated.")
+
+            inputs = inputs.to(self.device)
+
+            with torch.no_grad():
+                outputs = self.nli_model(**inputs)
+                entail_contradiction_logits = outputs[0][:,[0,2]]
+                # predictions = entail_contradiction_logits.softmax(dim=1)
+                T = self.config['item_scoring']['mnli_temp']
+                predictions = F.softmax(entail_contradiction_logits/T, dim=1)
+
+            #get entailement probs
+            entailment_probs = predictions[:, 1].tolist()
+
+            for j, item_id in enumerate(batch_item_ids):
+                like_probs[item_id] = entailment_probs[j]
+
         return like_probs
