@@ -13,11 +13,10 @@ user_desc - String with a natural language description of the user
 '''
 
 class LLMUserSim(UserSim):
-    def __init__(self, config, top_item_desc, llm, user_id):
+    def __init__(self, config, top_item_desc, llm):
         super().__init__()
         self.config = config
         self.llm = llm
-        self.user_id = user_id
         self.jinja_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
         self.top_item_desc = top_item_desc
         self.logger = setup_logging(self.__class__.__name__, self.config)

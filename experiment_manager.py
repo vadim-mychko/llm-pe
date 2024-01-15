@@ -118,7 +118,7 @@ class ExperimentManager():
             for item_id in user_item_ids:
                 item_descs.append(items[item_id]['description'])
             # Create user simulator and dialogue simulator
-            user_sim = LLMUserSim(config, item_descs, llm, user_id)
+            user_sim = LLMUserSim(config, item_descs, llm)
 
             # Reset pe_module
             pe_module.reset(int(user_id))
