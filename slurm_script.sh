@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=david_llm-pe_1
+#SBATCH --job-name=david1
 #SBATCH --gres=gpu:1
 #SBATCH -c 2
 #SBATCH --mem=10G
