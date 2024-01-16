@@ -2,8 +2,8 @@ debug_mode: false
 data:
   data_loader_name: "JSONLoader"
   user_loader_name: "UserTsvLoader"
-  data_path: "data/ml25M_100_movie_sample.json"
-  user_path: "data/users/movielens_100_50_users.tsv"
+  data_path: "data/ml25M_16_movie_sample.json"
+  user_path: "data/users/movielens_16_16_users.tsv"
 dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
