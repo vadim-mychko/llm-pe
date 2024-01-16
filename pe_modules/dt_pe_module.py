@@ -45,6 +45,7 @@ class DTPEModule(BasePEModule):
         'random': self.item_selection_random,
         'entropy_reduction': self.item_selection_entropy_reduction,
         'ucb': self.item_selection_ucb,
+        'thompson': self.item_selection_thompson,
         }
         
         self.ASPECT_EXTRACTION_MAP = {
@@ -230,7 +231,7 @@ class DTPEModule(BasePEModule):
         top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
         return str(top_id)
 
-    def thompson_sampling(self):
+    def item_selection_thompson(self):
         # Sample from all belief distributions and choose the max
         samples = {}
         for item_id, item_belief in self.belief.items(): # Could convert this to a list comprehension for tidiness
