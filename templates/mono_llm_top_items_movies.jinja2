@@ -1,27 +1,27 @@
 {# templates/mono_llm_top_items.jinja2 #}
-Given a set of item descriptions and a conversation history,  generate a new "yes or no" query to help determine the user's preferences towards the items.
+Given a set of movie descriptions, a conversation history, and a list length, generate a newline seperated list of movie titles in order of most to least relevant for the user.
 
 Example:
 ''''
 Item Descriptions:
 ****
- Movie Title: Social Network, The (2010) \n Genres: Drama \n Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake
-****
  Movie Title: Monsters, Inc. (2001) \n Genres: Adventure, Animation, Children, Comedy, Fantasy \n Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy
 ****
  Movie Title: Runaway Train (1985) \n Genres: Action, Adventure, Drama, Thriller \n Tags: prison escape, Andrei Konchalovsky, Andrey Konchalovskiy, trains, Betamax, CLV, Director: Andrey Konchalovskiy, Eric Roberts, Jon Voight, Kenneth McMillan, Kyle T. Heffner, Rebecca De Mornay, T.K. Carter, Writer: Akira Kurosawa, Writer: Djordje Milicevic, Writer: Edward Bunker, Writer: Hideo Oguni, Writer: Paul Zindel, Writer: Ry\u00fbz\u00f4 Kikushima, alaska
 ****
-''''
 
 Conversation History:
 ++++
-System: Are you interested in a movie about technology?
-User: no
+System: Are you interested in children's movie?
+User: yes
 System: Would you like to watch a movie from the 80's?
 User: no
 ++++
 
-Output: Are you looking for a children's movie?
+List length: 2
+
+Output: Monsters, Inc. (2001) \n
+Runaway Train (1985)
 ''''
 
 Input:
@@ -41,5 +41,7 @@ User: {{ interaction['response'] }}
 {% endfor -%}
 {% endif -%}
 ++++
+
+List length: {{ num_items }}
 
 Output: 

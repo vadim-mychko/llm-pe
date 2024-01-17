@@ -20,7 +20,7 @@ logging:
   level: DEBUG # options: INFO, DEBUG, WARNING
 mono_llm:
   query_gen_template: "mono_llm_query_gen_movies.jinja2"
-  top_items_template: "mono_llm_top_items.jinja2"
+  top_items_template: "mono_llm_top_items_movies.jinja2"
 pe:
   pe_module_name: "MonoLLM" # options: "MonoLLM", "DT"
   response_update: "individual" # options: "individual", "concatenated" -> Use most recent response or all responses for the update

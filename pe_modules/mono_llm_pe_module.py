@@ -30,6 +30,7 @@ class MonoLLMPEModule(BasePEModule):
 
         start = timeit.default_timer()
         response = self.llm.make_request(query)
+        self.logger.debug(response)
         stop = timeit.default_timer()
         self.total_entailment_time += (stop - start)
         return response # Just use the full string, we'll parse it in eval_manager
@@ -48,7 +49,7 @@ class MonoLLMPEModule(BasePEModule):
         }
         query = query_template.render(context)
 
-        self.logger.debug(query)
+        #self.logger.debug(query)
         
         start = timeit.default_timer()
         response = self.llm.make_request(query)
