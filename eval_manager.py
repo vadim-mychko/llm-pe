@@ -260,7 +260,7 @@ class EvalManager:
         hallucinations = 0
         duplicates = 0
         missing = 0
-        NULL_ID = "1000"
+        NULL_ID = 1000
         with open(self.config['paths']['name_map_path'], "r") as map_file:
             name_map = json.load(map_file)
 
@@ -279,12 +279,14 @@ class EvalManager:
                         break
 
                     result = result.strip()
-                    item_id = name_map.get(result, NULL_ID) # This is "NULL" value. Can change this if we ever handle more items
-                    if item_id == NULL_ID:
+                    item_id = name_map.get(result, str(NULL_ID)) # This is "NULL" value. Can change this if we ever handle more items
+                    if item_id == str(NULL_ID):
+                        print("Hallucination: ", result)
                         hallucinations += 1
                         NULL_ID += 1
                     elif item_id in item_rankings:
                         duplicates += 1
+                        print("Duplicate: ", result)
                         continue
                     item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
                     item_rank += 1
@@ -294,10 +296,11 @@ class EvalManager:
                 # Handle too few items (including removed ones)
                 len_diff = self.config['pe']['num_recs'] - len(item_rankings)
                 for i in range(len_diff):
-                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, NULL_ID, str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
+                    print(f"Too few items for user {user_id} at turn {turn_num} in {folder_path}")
+                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, str(NULL_ID), str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
                     item_rank += 1
                     qrel_rows.append(item_string)
-                    item_rankings.append(NULL_ID)
+                    item_rankings.append(str(NULL_ID))
                     NULL_ID += 1
                     missing += 1
 
@@ -309,6 +312,14 @@ class EvalManager:
             with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
                 for row in qrel_rows:
                     out_file.write(row)
+
+        # Print MonoLLM error results
+        errors = {'hallucinations' : hallucinations,
+                  'duplicates': duplicates,
+                  'missing': missing} #TODO: Could also handle 
+        with open(folder_path + "/errors.json", "w") as out_file:
+            json.dump(errors, out_file)
+                
 
     def convert_trecs_in_dir(self):
         # os.walk() will yield a tuple containing directory path, 
