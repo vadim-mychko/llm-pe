@@ -5,15 +5,10 @@ Example:
 ''''
 Item Descriptions:
 ''''
-
 ****
  -Movie Title: Social Network, The (2010) \n -Genres: Drama \n -Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake
 ****
-
-****
  -Movie Title: Monsters, Inc. (2001) \n -Genres: Adventure, Animation, Children, Comedy, Fantasy \n -Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy
-****
-
 ****
  -Movie Title: Runaway Train (1985) \n -Genres: Action, Adventure, Drama, Thriller \n -Tags: prison escape, Andrei Konchalovsky, Andrey Konchalovskiy, trains, Betamax, CLV, Director: Andrey Konchalovskiy, Eric Roberts, Jon Voight, Kenneth McMillan, Kyle T. Heffner, Rebecca De Mornay, T.K. Carter, Writer: Akira Kurosawa, Writer: Djordje Milicevic, Writer: Edward Bunker, Writer: Hideo Oguni, Writer: Paul Zindel, Writer: Ry\u00fbz\u00f4 Kikushima, alaska
 ****
@@ -30,79 +25,12 @@ Input:
 ''''
 Item Descriptions:
 ''''
-Here are the descriptions of each item:
-{% for item_id, item_value in items.items() %}
 ****
+{% for item_id, item_value in items.items() -%}
 {{ item_value['description'] }}
 ****
 {% endfor %}
-New Query:
+New Query: 
 
 
 
-
----------
-Your task is to generate a query for a user that best elicits their preferences about a set of items. 
-You must first identify a single aspect that is no more than 7 words that best differentiates the items. 
-Then you will generate a yes/no query about that aspect.
-
-Example:
-''''
-Here are the descriptions of each item
-####
-Item ID: 3
-Description: This movie is a laugh-a-minute, non-stop roller coaster of fun for the whole family
-####
-####
-Item ID: 1
-Description: The hit adult comedy of the summer. Constant gags, as well as some innuendo and risque scenes.
-####
-
-First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output: Do you prefer family-friendly movies?
-''''
-
-Example:
-''''
-Here are the descriptions of each item
-####
-Item ID: 2
-Description: The Gibson SG335 electric guitar is set up with two humbucker pickups and a semi-hollow body shape. Comes in red, black, and blue.
-####
-####
-Item ID: 16
-Description: Long-time fans of the Fender Stratocaster electric guitar praise its three single-coil pickups and solid body design. Many colour choices available.
-####
-####
-Item ID: 7
-Description: The Yamaha Pacifica is perfect for a first electric guitar. It is solid body. Experts note the flexibility of the Pacifica, which comes with a two pickups - one humbucker and one single coil.
-####
-
-First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output: Do you want single-coil pickups?
-''''
-
-''''
-Here are the descriptions of each item:
-{% for item_id, item_value in items.items() %}
-####
-Item ID: {{ item_id }} 
-Description: {{ item_value['description'] }}
-####
-{% endfor %}
-
-{% if interactions %}
-You must generate a novel query. The following queries have already been asked:
-{% for interaction in interactions %}
-####
-Query: {{ interaction['query'] }}
-####
-{% endfor %}
-Your query must ask about a different aspect than all of these queries.
-{% endif %}
-
-First, determine the aspect that best elicits the user's preference over these items. Assume the user is unfamiliar with the items.
-Then, respond with a yes or no query about that aspect.
-Output:
