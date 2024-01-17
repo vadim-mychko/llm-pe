@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a period drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a contemporary romantic drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie with a dark or mysterious atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama movie with a dark or mysterious atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Clash of the Titans (1981)\nBig Lebowski, The (1998)\nAll Quiet on the Western Front (1930)\nJane Eyre (1996)\nSanta Sangre (1989)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nCronos (1993)\nSt. Elmo's Fire (1985)\nSecret of Kells, The (2009)",
+            "All Quiet on the Western Front (1930)\nMothman Prophecies, The (2002)\nBig Red One, The (1980)\nLast Temptation of Christ, The (1988)\nMr. Holmes (2015)\nPiano, The (1993)\nJane Eyre (1996)\nSanta Sangre (1989)\nCronos (1993)\nSt. Elmo's Fire (1985)",
+            "All Quiet on the Western Front (1930)\nBig Lebowski, The (1998)\nPiano, The (1993)\nJane Eyre (1996)\nMothman Prophecies, The (2002)\nSecret of Kells, The (2009)\nCronos (1993)\nSanta Sangre (1989)\nBlair Witch Project, The (1999)\nMr. Holmes (2015)",
+            "Jane Eyre (1996)\nPiano, The (1993)\nMr. Holmes (2015)\nBig Lebowski, The (1998)\nSt. Elmo's Fire (1985)\nMothman Prophecies, The (2002)\nLast Temptation of Christ, The (1988)\nSecret of Kells, The (2009)\nBlair Witch Project, The (1999)\nCronos (1993)",
+            "Big Lebowski, The (1998)\nPiano, The (1993)\nJane Eyre (1996)\nMr. Holmes (2015)\nSanta Sangre (1989)\nIntolerable Cruelty (2003)\nMothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nCronos (1993)\nSecret of Kells, The (2009)",
+            "Big Lebowski, The (1998)\nMothman Prophecies, The (2002)\nMr. Holmes (2015)\nPiano, The (1993)\nJane Eyre (1996)\nSecret of Kells, The (2009)\nSanta Sangre (1989)\nCronos (1993)\nBlair Witch Project, The (1999)\nIntolerable Cruelty (2003)",
+            "Jane Eyre (1996)\nPiano, The (1993)\nMothman Prophecies, The (2002)\nLast Temptation of Christ, The (1988)\nMr. Holmes (2015)\nBig Red One, The (1980)\nLast Action Hero (1993)\nSecret of Kells, The (2009)\nSt. Elmo's Fire (1985)\nBlair Witch Project, The (1999)",
+            "Big Lebowski, The (1998)\nPiano, The (1993)\nJane Eyre (1996)\nMothman Prophecies, The (2002)\nLast Temptation of Christ, The (1988)\nMr. Holmes (2015)\nSecret of Kells, The (2009)\nCronos (1993)\nSanta Sangre (1989)\nClash of the Titans (1981)",
+            "Mothman Prophecies, The (2002)\nLast Temptation of Christ, The (1988)\nSecret of Kells, The (2009)\nCronos (1993)\nSanta Sangre (1989)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nBig Lebowski, The (1998)\nBlair Witch Project, The (1999)\nMr. Holmes (2015)",
+            "Mothman Prophecies, The (2002)\nSecret of Kells, The (2009)\nCronos (1993)\nSanta Sangre (1989)\nPiano, The (1993)\nBig Lebowski, The (1998)\nIntolerable Cruelty (2003)\nJane Eyre (1996)\nBlair Witch Project, The (1999)\nLast Temptation of Christ, The (1988)"
+        ]
+    }
+}
