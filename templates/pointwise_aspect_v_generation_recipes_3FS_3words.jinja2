@@ -26,7 +26,6 @@ Thai curry with shrimp and coconut milk that can be dipped with bread
 ****
 Previously extracted aspects:
 ****
-
 ****
 Output: Thai cuisine
 ''''
@@ -60,11 +59,11 @@ Item Description:
 ****
 Previously extracted aspects:
 ****
-{% if aspects %}
+{% if aspects -%}
 {% for aspect in aspects %}
 {{ aspect['aspect_value'] }}
 {% endfor %}
-{% endif %}
+{% endif -%}
 ****
 
 Output: 
