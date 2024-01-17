@@ -32,8 +32,8 @@ metrics:
   to_avg:
     map: null
 mono_llm:
-  query_gen_template: mono_llm_query_gen.jinja2
-  top_items_template: mono_llm_top_items.jinja2
+  query_gen_template: mono_llm_query_gen_movies.jinja2
+  top_items_template: mono_llm_top_items_movies.jinja2
 paths:
   eval_results_master_path: experiments/jan_17_noise_mono/eval_results.csv
   experiment_dir: experiments/jan_17_noise_mono
