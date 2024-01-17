@@ -35,8 +35,8 @@ mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2
 paths:
-  eval_results_master_path: experiments/jan_17_noise_mono/eval_results.csv
-  experiment_dir: experiments/jan_17_noise_mono
+  eval_results_master_path: experiments/jan_17_greedy_temp_sweep_llm_0_noise_0/eval_results.csv
+  experiment_dir: experiments/jan_17_greedy_temp_sweep_llm_0_noise_0
 pe:
   num_recs: 10
   pe_module_name: DT
@@ -44,5 +44,5 @@ pe:
 query:
   aspect_extraction: val
   aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
-  item_selection: ucb
+  item_selection: greedy
   query_gen_template: pointwise_query_generation_v.jinja2
