@@ -3,7 +3,7 @@ data:
   data_loader_name: "JSONLoader"
   user_loader_name: "UserTsvLoader"
   data_path: "data/ml25M_16_movie_sample.json"
-  user_path: "data/users/movielens_16_16_users_TEMP.tsv"
+  user_path: "data/users/movielens_16_16_users.tsv"
 dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
@@ -44,6 +44,6 @@ metrics:
   to_avg:
     map: null
 paths:
-  experiment_dir: experiments/jan_17_monollm
-  eval_results_master_path: experiments/jan_17_monollm/eval_results.csv
+  experiment_dir: experiments/jan_17_monollm_david
+  eval_results_master_path: experiments/jan_17_monollm_david/eval_results.csv
   name_map_path: data/name_maps/ml25M_16_map.json

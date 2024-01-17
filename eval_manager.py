@@ -105,8 +105,6 @@ class EvalManager:
             # Check if TREC file exists before processing
             if not os.path.isfile(exp_results_path):
                 self.logger.error(f"Missing TREC file at {exp_results_path}. Skipping this experiment.")
-            
-            # TODO: Handle duplicates in TREC file (failure of LLM to understand no duplicates)
                 
             with open(exp_results_path, "r") as results_file:
                 results = pytrec_eval.parse_run(results_file)
@@ -254,6 +252,64 @@ class EvalManager:
                 for row in qrel_rows:
                     out_file.write(row)
 
+    def json_to_trec_results_monollm(self, folder_path):
+        # Load in json results data
+        with open(folder_path + "/results.json") as json_data:
+            results = json.load(json_data)
+
+        hallucinations = 0
+        duplicates = 0
+        missing = 0
+        NULL_ID = "1000"
+        with open(self.config['paths']['name_map_path'], "r") as map_file:
+            name_map = json.load(map_file)
+
+        # Convert to QREL format
+        for turn_num in range(self.config['dialogue_sim']['num_turns']):
+            qrel_rows = []
+            for user_id, user_data in results.items():
+
+                # Clean text into individual entries
+                results_list = user_data['rec_items'][turn_num].split('\n')
+                item_rankings = []
+                item_rank = 0
+                for result in results_list:
+                    # Handle if too many items
+                    if len(item_rankings) >= self.config['pe']['num_recs']:
+                        break
+
+                    result = result.strip()
+                    item_id = name_map.get(result, NULL_ID) # This is "NULL" value. Can change this if we ever handle more items
+                    if item_id == NULL_ID:
+                        hallucinations += 1
+                        NULL_ID += 1
+                    elif item_id in item_rankings:
+                        duplicates += 1
+                        continue
+                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
+                    item_rank += 1
+                    qrel_rows.append(item_string)
+                    item_rankings.append(item_id)
+
+                # Handle too few items (including removed ones)
+                len_diff = self.config['pe']['num_recs'] - len(item_rankings)
+                for i in range(len_diff):
+                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, NULL_ID, str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
+                    item_rank += 1
+                    qrel_rows.append(item_string)
+                    item_rankings.append(NULL_ID)
+                    NULL_ID += 1
+                    missing += 1
+
+                # Create an entry for each item recommended at this turn for this
+                # for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
+                #     item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
+                #     qrel_rows.append(item_string)
+            # Print to file
+            with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
+                for row in qrel_rows:
+                    out_file.write(row)
+
     def convert_trecs_in_dir(self):
         # os.walk() will yield a tuple containing directory path, 
         # directory names and file names in the directory.
@@ -263,7 +319,14 @@ class EvalManager:
                 if directory == "results":
                     continue
                 folder_path = os.path.join(root, directory)
-                self.json_to_trec_results(folder_path)
+                # Check config and use DT or MonoLLM version accordingly
+                config_path = os.path.join(folder_path, "config.yaml")
+                with open(config_path, "r") as config_file:
+                    config = yaml.safe_load(config_file)
+                if config['pe']['pe_module_name'] == 'MonoLLM':
+                    self.json_to_trec_results_monollm(folder_path)
+                else:
+                    self.json_to_trec_results(folder_path)
 
 def run_eval_on_dir(exp_dir):
     em = EvalManager(exp_dir)
