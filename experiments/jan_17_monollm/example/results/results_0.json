@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer movies with a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies with a supernatural element?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies with a dark or eerie atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies with a strong emphasis on characters?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies with a unique visual style?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies with a comedic tone?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies with a suspenseful plot?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies based on books?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies with a cult following?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies with a strong emotional impact?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "It seems that there is no interaction history provided. Could you please provide the interaction history so that I can assist you better?",
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "2"
+        ]
+    }
+}

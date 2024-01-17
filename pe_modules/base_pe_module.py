@@ -2,6 +2,7 @@ import logging
 import llms
 from utils.setup_logging import setup_logging
 import abc
+import numpy as np
 import jinja2
 
 '''
@@ -43,6 +44,8 @@ class BasePEModule(abc.ABC):
     def reset(self):
         self.interactions = []
         self.recs = []
+        self.total_entailment_time = 0.0
+        self.total_llm_time = 0.0
 
     def get_last_results(self):
         return NotImplementedError

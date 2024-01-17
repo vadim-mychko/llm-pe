@@ -191,7 +191,7 @@ class DTPEModule(BasePEModule):
         self.recs.append(top_recs)
 
 
-    def reset(self, user_id):
+    def reset(self):
         # Random seed is now set in experiment_manager
         super().reset()
         self.belief = {}
