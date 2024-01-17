@@ -26,6 +26,8 @@ class MonoLLMPEModule(BasePEModule):
         }
         query = query_template.render(context)
 
+        self.logger.debug(query)
+
         start = timeit.default_timer()
         response = self.llm.make_request(query)
         stop = timeit.default_timer()
@@ -46,6 +48,8 @@ class MonoLLMPEModule(BasePEModule):
         }
         query = query_template.render(context)
 
+        self.logger.debug(query)
+        
         start = timeit.default_timer()
         response = self.llm.make_request(query)
         stop = timeit.default_timer()
