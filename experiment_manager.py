@@ -121,7 +121,7 @@ class ExperimentManager():
             user_sim = LLMUserSim(config, item_descs, llm)
 
             # Reset pe_module
-            pe_module.reset(int(user_id))
+            pe_module.reset()
                 
             # Run Dialogue
             results = dial_sim.run_dialogue(user_sim, pe_module)

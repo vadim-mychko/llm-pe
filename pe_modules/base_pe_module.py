@@ -41,12 +41,11 @@ class BasePEModule(abc.ABC):
     def update_from_response(self,query, response):
         return NotImplementedError("Abstract Base Class")
     
-    def reset(self, user_id):
+    def reset(self):
         self.interactions = []
         self.recs = []
         self.total_entailment_time = 0.0
         self.total_llm_time = 0.0
-        np.random.seed(user_id * 10000)
 
     def get_last_results(self):
         return NotImplementedError
