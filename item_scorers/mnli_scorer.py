@@ -2,7 +2,7 @@ import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from item_scorers.item_scorer import ItemScorer
 import torch.nn.functional as F
-import gc
+# import gc
 
 class MNLIScorer(ItemScorer):
 
@@ -15,8 +15,8 @@ class MNLIScorer(ItemScorer):
         self.device = torch.device("cpu")
         if torch.cuda.is_available():
            self.device = torch.device("cuda")
-           torch.cuda.empty_cache()
-           gc.collect()
+        #    torch.cuda.empty_cache()
+        #    gc.collect()
            print("Using CUDA")
         
         if torch.backends.mps.is_available():
