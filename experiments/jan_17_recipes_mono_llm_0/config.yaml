@@ -39,7 +39,7 @@ paths:
   experiment_dir: experiments/jan_17_recipes_mono_llm_0
 pe:
   num_recs: 10
-  pe_module_name: DT
+  pe_module_name: MonoLLM
   response_update: individual
 query:
   aspect_extraction: val

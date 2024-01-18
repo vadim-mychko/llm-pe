@@ -33,14 +33,14 @@ metrics:
   to_avg:
     map: null
 mono_llm:
-  query_gen_template: mono_llm_query_gen.jinja2
-  top_items_template: mono_llm_top_items.jinja2
+  query_gen_template: mono_llm_query_gen_recipes.jinja2
+  top_items_template: mono_llm_top_items_recipes.jinja2
 paths:
   eval_results_master_path: experiments/david_test_1/eval_results.csv
   experiment_dir: experiments/david_test_1
 pe:
   num_recs: 10
-  pe_module_name: DT
+  pe_module_name: MonoLLM
   response_update: individual
 query:
   aspect_extraction: val
