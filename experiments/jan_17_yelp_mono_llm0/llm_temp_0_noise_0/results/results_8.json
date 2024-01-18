@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian Fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nGermantown Garden \nDaleng Restaurant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nThe Juice Merchant \nGolden Triangle",
+            "Lacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nHeritage\nKokopelli Restaurant & Tequila Bar",
+            "Lacroix Restaurant at The Rittenhouse \nGermantown Garden \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nDaleng Restaurant \nMong Kok Station \nThe Juice Merchant \nWater Works Restaurant & Lounge \nGolden Triangle",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nDaleng Restaurant \nMong Kok Station \nThe Juice Merchant"
+        ]
+    }
+}

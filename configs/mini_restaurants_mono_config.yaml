@@ -47,3 +47,4 @@ metrics:
 paths:
   experiment_dir: experiments/david_test_1
   eval_results_master_path: experiments/david_test_1/eval_results.csv
+  name_map_path: data/name_maps/yelp_100_map.json

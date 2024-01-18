@@ -1,0 +1,898 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (Traditional) cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bars?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nKokopelli Restaurant & Tequila Bar\nCinCin Restaurant",
+            "Lacroix Restaurant at The Rittenhouse\nGermantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nGolden Triangle\nDaleng Restaurant\nWater Works Restaurant & Lounge\nMong Kok Station\nPrimoHoagies\nLe Pain Quotidien",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Tasty Toast\nZuzu's Kitchen\nGolden Triangle\nMong Kok Station\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar",
+            "Germantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nLe Pain Quotidien",
+            "Germantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nMong Kok Station"
+        ]
+    },
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Mediterranean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Mediterranean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Mediterranean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves American (New) cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves American (New) cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nHeritage",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nHeritage",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nHeritage",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nGermantown Garden \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar"
+        ]
+    },
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    },
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (Traditional) cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Tasty Toast\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nThe Juice Merchant\nGolden Triangle\nZuzu's Kitchen",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nDaleng Restaurant \nMong Kok Station \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nHeritage \nFederal Donuts",
+            "Germantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    },
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (New) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nGermantown Garden\nThe Juice Merchant\nPrimoHoagies",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nLe Pain Quotidien",
+            "Daleng Restaurant\nGolden Triangle\nMong Kok Station\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nLe Pain Quotidien",
+            "Daleng Restaurant\nGolden Triangle\nMong Kok Station\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nLe Pain Quotidien",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nLe Pain Quotidien",
+            "Daleng Restaurant\nGolden Triangle\nMong Kok Station\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nZuzu's Kitchen",
+            "Lacroix Restaurant at The Rittenhouse\nGolden Triangle\nDaleng Restaurant\nMong Kok Station\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar\nGermantown Garden\nThe Tasty Toast\nWater Works Restaurant & Lounge\nHeritage",
+            "Golden Triangle \nDaleng Restaurant \nMong Kok Station \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nThe Tasty Toast"
+        ]
+    },
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in specialty food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in specialty food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Federal Donuts\nFederal Donuts\nWater Works Restaurant & Lounge\nMong Kok Station\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nGolden Triangle\nGermantown Garden\nZuzu's Kitchen",
+            "Federal Donuts\nWater Works Restaurant & Lounge\nGermantown Garden\nMong Kok Station\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nGolden Triangle\nFederal Donuts\nCinCin Restaurant",
+            "Federal Donuts \nWater Works Restaurant & Lounge \nMong Kok Station \nFederal Donuts \nDaleng Restaurant \nThe Juice Merchant \nGolden Triangle \nGermantown Garden \nPrimoHoagies \nCinCin Restaurant",
+            "Federal Donuts\nMong Kok Station\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nGolden Triangle\nPrimoHoagies\nFederal Donuts\nCinCin Restaurant",
+            "Federal Donuts\nMong Kok Station\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nGolden Triangle\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast",
+            "Federal Donuts\nMong Kok Station\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nGolden Triangle\nPrimoHoagies\nThe Tasty Toast\nLe Pain Quotidien",
+            "Federal Donuts \nMong Kok Station \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nGolden Triangle \nPrimoHoagies \nThe Tasty Toast \nLe Pain Quotidien"
+        ]
+    },
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegan restaurant?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "The Juice Merchant\nPrimoHoagies\nDaleng Restaurant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nFederal Donuts\nWater Works Restaurant & Lounge\nGolden Triangle",
+            "The Juice Merchant\nDaleng Restaurant\nMong Kok Station\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nFederal Donuts",
+            "The Juice Merchant\nDaleng Restaurant\nMong Kok Station\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nFederal Donuts",
+            "The Juice Merchant\nDaleng Restaurant\nMong Kok Station\nZuzu's Kitchen\nPrimoHoagies\nWater Works Restaurant & Lounge\nGermantown Garden\nGolden Triangle\nLe Pain Quotidien\nFederal Donuts",
+            "The Juice Merchant\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nPrimoHoagies\nWater Works Restaurant & Lounge\nGolden Triangle\nGermantown Garden\nZuzu's Kitchen\nThe Tasty Toast",
+            "The Juice Merchant\nDaleng Restaurant\nMong Kok Station\nLe Pain Quotidien\nCinCin Restaurant\nFederal Donuts\nFederal Donuts\nWater Works Restaurant & Lounge\nGermantown Garden\nKokopelli Restaurant & Tequila Bar",
+            "The Juice Merchant\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies",
+            "The Juice Merchant\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies"
+        ]
+    },
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Cambodian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    },
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian Fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nGermantown Garden \nDaleng Restaurant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nThe Juice Merchant \nGolden Triangle",
+            "Lacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nHeritage\nKokopelli Restaurant & Tequila Bar",
+            "Lacroix Restaurant at The Rittenhouse \nGermantown Garden \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nDaleng Restaurant \nMong Kok Station \nThe Juice Merchant \nWater Works Restaurant & Lounge \nGolden Triangle",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nDaleng Restaurant \nMong Kok Station \nThe Juice Merchant"
+        ]
+    },
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in specialty food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Federal Donuts\nFederal Donuts\nWater Works Restaurant & Lounge\nMong Kok Station\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nGolden Triangle\nGermantown Garden\nZuzu's Kitchen",
+            "Federal Donuts\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nMong Kok Station\nThe Juice Merchant\nPrimoHoagies\nGolden Triangle\nFederal Donuts\nCinCin Restaurant",
+            "Federal Donuts \nWater Works Restaurant & Lounge \nMong Kok Station \nFederal Donuts \nDaleng Restaurant \nThe Juice Merchant \nGolden Triangle \nGermantown Garden \nPrimoHoagies \nCinCin Restaurant",
+            "Federal Donuts\nMong Kok Station\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nGolden Triangle\nPrimoHoagies\nFederal Donuts\nCinCin Restaurant",
+            "Federal Donuts\nMong Kok Station\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nLe Pain Quotidien\nZuzu's Kitchen\nGermantown Garden",
+            "Federal Donuts\nMong Kok Station\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nLe Pain Quotidien\nZuzu's Kitchen\nGermantown Garden",
+            "Federal Donuts\nMong Kok Station\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Juice Merchant\nPrimoHoagies\nFederal Donuts\nLe Pain Quotidien\nCinCin Restaurant"
+        ]
+    },
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (Traditional) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    },
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for tapas/small plates?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nMong Kok Station \nCinCin Restaurant \nGolden Triangle \nKokopelli Restaurant & Tequila Bar \nGermantown Garden \nThe Tasty Toast \nWater Works Restaurant & Lounge \nLe Pain Quotidien",
+            "Lacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nMong Kok Station \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nGolden Triangle \nGermantown Garden \nWater Works Restaurant & Lounge \nThe Juice Merchant \nPrimoHoagies"
+        ]
+    },
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Cambodian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (New) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in tapas/small plates?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nGermantown Garden\nThe Juice Merchant\nPrimoHoagies",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Juice Merchant\nPrimoHoagies\nThe Tasty Toast\nKokopelli Restaurant & Tequila Bar",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar\nWater Works Restaurant & Lounge\nThe Juice Merchant\nPrimoHoagies",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nGermantown Garden\nThe Tasty Toast\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nHeritage",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nGermantown Garden\nThe Tasty Toast\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nGermantown Garden\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nThe Tasty Toast\nHeritage",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nGermantown Garden\nThe Tasty Toast\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nHeritage",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nCinCin Restaurant\nGermantown Garden\nThe Tasty Toast\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nKokopelli Restaurant & Tequila Bar\nHeritage"
+        ]
+    },
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian Fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    },
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Tasty Toast\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nThe Juice Merchant\nGolden Triangle\nZuzu's Kitchen",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nLe Pain Quotidien \nMong Kok Station \nDaleng Restaurant \nThe Juice Merchant \nGolden Triangle \nZuzu's Kitchen",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nLe Pain Quotidien \nMong Kok Station \nDaleng Restaurant \nThe Juice Merchant \nGolden Triangle \nZuzu's Kitchen"
+        ]
+    },
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sandwich shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Brazilian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American (Traditional) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Cambodian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nPrimoHoagies\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nFederal Donuts\nDaleng Restaurant\nGolden Triangle\nWater Works Restaurant & Lounge",
+            "Zuzu's Kitchen\nPrimoHoagies\nThe Tasty Toast\nMong Kok Station\nLe Pain Quotidien\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant",
+            "Zuzu's Kitchen\nPrimoHoagies\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar",
+            "Zuzu's Kitchen\nPrimoHoagies\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    }
+}

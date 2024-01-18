@@ -2,12 +2,13 @@ ci:
   confidence_level: 0.95
 data:
   data_loader_name: JSONLoader
-  data_path: data/ml25M_100_movie_sample.json
+  data_path: data/recipe_16_sample.json
   user_loader_name: UserTsvLoader
-  user_path: data/users/movielens_100_50_users.tsv
+  user_path: data/users/movielens_16_16_users.tsv
 debug_mode: false
 dialogue_sim:
   num_turns: 10
+  response_noise: 0
   sim_type: llm
 item_scoring:
   history_preprocessor_name: AspectValuePreprocessor
@@ -22,7 +23,7 @@ llm:
   model: gpt-3.5-turbo-0613
   temperature: 0
   template_dir: ./templates
-  user_sim_template_file: user_simulation_movie.jinja2
+  user_sim_template_file: user_simulation_recipe.jinja2
 logging:
   disabled: false
   level: DEBUG
@@ -34,14 +35,14 @@ mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2
 paths:
-  eval_results_master_path: experiments/z_compare_file/eval_results.csv
-  experiment_dir: experiments/z_compare_file
+  eval_results_master_path: experiments/jan_18_recipes_llm_0_noise_0.5_best/eval_results.csv
+  experiment_dir: experiments/jan_18_recipes_llm_0_noise_0.5_best
 pe:
   num_recs: 10
   pe_module_name: DT
   response_update: individual
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
-  item_selection: greedy
-  query_gen_template: pointwise_query_generation.jinja2
+  aspect_gen_template: pointwise_aspect_v_generation_recipes_3FS_3words.jinja2
+  item_selection: ucb
+  query_gen_template: pointwise_query_generation_v.jinja2

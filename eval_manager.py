@@ -270,7 +270,7 @@ class EvalManager:
             for user_id, user_data in results.items():
 
                 # Clean text into individual entries
-                results_list = user_data['rec_items'][turn_num].split('\n')
+                results_list = re.split(r'\n\*{4}\n|\n|\\n\n', user_data['rec_items'][turn_num])
                 item_rankings = []
                 item_rank = 0
                 for result in results_list:
@@ -279,6 +279,10 @@ class EvalManager:
                         break
 
                     result = result.strip()
+                    # Handle blank item
+                    if len(result) == 0:
+                        break
+
                     item_id = name_map.get(result, str(NULL_ID)) # This is "NULL" value. Can change this if we ever handle more items
                     if item_id == str(NULL_ID):
                         print("Hallucination: ", result)
