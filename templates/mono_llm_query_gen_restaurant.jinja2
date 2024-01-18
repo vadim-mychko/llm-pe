@@ -1,0 +1,45 @@
+{# templates/mono_llm_top_items.jinja2 #}
+Given a set of item descriptions and a conversation history,  generate a new "yes or no" query to help determine the user's preferences towards the items.
+
+Example:
+''''
+Item Descriptions:
+****
+  name: Local Tavern categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional)
+****
+  name: Mood Indian Restaurant categories: Restaurants, Halal, Vegetarian, Pakistani, Indian
+****
+  name: Knead Bagels categories: Restaurants, Bagels, Coffee & Tea, Sandwiches, Food, Soup, Salad
+****
+''''
+
+Conversation History:
+++++
+System: Are you interested in a bar?
+User: no
+System: Do you Indian cuisine?
+User: no
+++++
+
+Output: Are you looking for sandwiches?
+''''
+
+Input:
+''''
+Item Descriptions:
+****
+{% for item_id, item_value in items.items() -%}
+{{ item_value['description'] }}
+****
+{% endfor %}
+Conversation History:
+++++
+{% if interactions -%}
+{% for interaction in interactions -%}
+System: {{ interaction['query'] }}
+User: {{ interaction['response'] }}
+{% endfor -%}
+{% endif -%}
+++++
+
+Output: 

@@ -1,0 +1,82 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from any previously identified aspects and must not exceed 3 words. 
+
+Example 1:
+''''
+Item Description:
+****
+ name: Local Tavern categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional)
+****
+
+Previously extracted aspects:
+****
+
+Mexican
+
+coffee
+
+Italian food
+
+****
+
+Output: bar
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+ name: QDOBA Mexican Eats categories: Restaurants, Fast Food, Event Planning & Services, Mexican, Caterers
+****
+
+Previously extracted aspects:
+****
+****
+
+Output: Mexican cuisine
+''''
+
+Example 3:
+''''
+Item Description:
+****
+ name: Bareburger - Midtown Village categories: Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad
+****
+
+Previously extracted aspects:
+****
+
+coffee
+
+Chinese cuisine
+
+fast food
+
+takeout
+
+burgers
+
+nightlife
+
+****
+
+Output: cocktail bar
+''''
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+
+Previously extracted aspects:
+****
+{% if aspects -%}
+{% for aspect in aspects %}
+{{ aspect['aspect_value'] }}
+{% endfor %}
+{% endif -%}
+****
+
+Output: 

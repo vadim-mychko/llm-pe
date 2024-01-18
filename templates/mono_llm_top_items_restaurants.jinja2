@@ -1,0 +1,47 @@
+{# templates/mono_llm_top_items.jinja2 #}
+Given a set of restaurant descriptions, a conversation history, and a list length, generate a newline seperated list of restaurant names in order of most to least relevant for the user.
+
+Example:
+''''
+Item Descriptions:
+****
+ name: Local Tavern categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional)
+****
+ name: Mood Indian Restaurant categories: Restaurants, Halal, Vegetarian, Pakistani, Indian
+****
+
+Conversation History:
+++++
+System: Are you interested in halal?
+User: yes
+System: Are you looking for a bar?
+User: no
+++++
+
+List length: 2
+
+Output: name: Mood Indian Restaurant categories: Restaurants, Halal, Vegetarian, Pakistani, Indian
+Salmon Local Tavern categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional)
+''''
+
+Input:
+''''
+Item Descriptions:
+****
+{% for item_id, item_value in items.items() -%}
+{{ item_value['description'] }}
+****
+{% endfor %}
+Conversation History:
+++++
+{% if interactions -%}
+{% for interaction in interactions -%}
+System: {{ interaction['query'] }}
+User: {{ interaction['response'] }}
+{% endfor -%}
+{% endif -%}
+++++
+
+List length: {{ num_items }}
+
+Output: 
