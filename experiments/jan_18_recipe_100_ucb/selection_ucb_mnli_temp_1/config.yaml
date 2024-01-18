@@ -27,6 +27,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
+  log_file: experiments/jan_18_recipe_100_ucb/selection_ucb_mnli_temp_1/output.log
 metrics:
   metrics: supported_measures
   to_avg:
@@ -35,8 +36,8 @@ mono_llm:
   query_gen_template: mono_llm_query_gen_recipes.jinja2
   top_items_template: mono_llm_top_items_recipes.jinja2
 paths:
-  eval_results_master_path: experiments/jan_18_recipe_100_ucb/eval_results.csv
-  experiment_dir: experiments/jan_18_recipe_100_ucb
+  eval_results_master_path: experiments/david_test_1/eval_results.csv
+  experiment_dir: experiments/david_test_1
   name_map_path: data/name_maps/recipe_100_map.json
 pe:
   num_recs: 10
