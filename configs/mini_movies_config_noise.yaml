@@ -14,7 +14,7 @@ llm:
   like_probs_template: "pref_query.jinja2"
   user_sim_template_file: "user_simulation_movie.jinja2"
   template_dir: "./templates"
-  temperature: 0
+  temperature: 1
   entailement_model: "cross-encoder/ms-marco-MiniLM-L-12-v2"
 logging:
   disabled: False # Replace with false
