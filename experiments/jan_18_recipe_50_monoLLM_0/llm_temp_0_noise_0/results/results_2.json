@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "Cheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nBread made swiss style with swiss cheese\n****\nCheesecake made with cream cheese\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder",
+            "Cheese and olive appetizer made to look like an eyeball\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGarlic bread with cheddar, green onions, and mayonnaise\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nBread made swiss style with swiss cheese\n****\nAssorted cheese soup with chicken\n****\nCheesecake made with cream cheese",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nCheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nCheesecake made with cream cheese\n****\nBread made swiss style with swiss cheese\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nCheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheesecake made with cream cheese\n****\nAssorted cheese soup with chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nCheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "Cheesecake made with cream cheese\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSmoothie made from fruit juice and bananas\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGarlic bread with cheddar, green onions, and mayonnaise",
+            "Cheesecake made with cream cheese\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nSmoothie made from fruit juice and bananas\n****\nChocolate and orange-flavoured smoothie\n****\nLow sugar applesauce cupcakes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nBaked breakfast bars made with nuts and seeds\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat sweet potato fries made with cajun seasoning"
+        ]
+    }
+}

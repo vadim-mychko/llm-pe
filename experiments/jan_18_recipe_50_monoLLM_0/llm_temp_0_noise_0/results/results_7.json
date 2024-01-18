@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like apple pie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nBeef stew made with beef, carrots and potatoes",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nFried shrimp and scallops\n****\nSoup made with shrimp, onions, and scallops\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nChopped French duck confit preserved by duck oil\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nChopped French duck confit preserved by duck oil\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with shrimp, onions, and scallops",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nNorway cake with lingonberry and whipped cream layers\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nCheesecake made with cream cheese\n****\nShredded barbecued pork shoulder\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nJam made from blackberries, lemon juice, and sugar",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nNorway cake with lingonberry and whipped cream layers\n****\nJam made from blackberries, lemon juice, and sugar\n****\nCheesecake made with cream cheese\n****\nLow sugar applesauce cupcakes\n****\nBread made swiss style with swiss cheese\n****\nSmoothie made from fruit juice and bananas\n****\nChocolate and orange-flavoured smoothie"
+        ]
+    }
+}
