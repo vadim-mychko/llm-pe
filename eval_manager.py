@@ -84,8 +84,6 @@ class EvalManager:
 
         self.write_to_csv(all_rows)
 
-        #TODO: MODIFY CODE TO WORK WITH PER_TURN FILES
-
     def eval_experiment(self, evaluator, exp_dir):
         """
         This function takes a evaluator and an experiment directory as input. It evaluates the results 
@@ -273,6 +271,7 @@ class EvalManager:
                 results_list = re.split(r'\n\*{4}\n|\n|\\n\n', user_data['rec_items'][turn_num])
                 item_rankings = []
                 item_rank = 0
+                user_turn_duplicates = 0 # To avoid double counting duplicates as missing
                 for result in results_list:
                     # Handle if too many items
                     if len(item_rankings) >= self.config['pe']['num_recs']:
@@ -290,6 +289,7 @@ class EvalManager:
                         NULL_ID += 1
                     elif item_id in item_rankings:
                         duplicates += 1
+                        user_turn_duplicates += 1
                         print("Duplicate: ", result)
                         continue
                     item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
@@ -298,7 +298,7 @@ class EvalManager:
                     item_rankings.append(item_id)
 
                 # Handle too few items (including removed ones)
-                len_diff = self.config['pe']['num_recs'] - len(item_rankings)
+                len_diff = self.config['pe']['num_recs'] - len(item_rankings) - user_turn_duplicates
                 for i in range(len_diff):
                     print(f"Too few items for user {user_id} at turn {turn_num} in {folder_path}")
                     item_string = "%s Q0 %s %s %s standard\n" % (user_id, str(NULL_ID), str(item_rank + 1), str(self.config['pe']['num_recs'] - item_rank))
