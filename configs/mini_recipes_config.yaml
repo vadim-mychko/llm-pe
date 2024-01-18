@@ -7,13 +7,14 @@ data:
 dialogue_sim:
   num_turns: 10
   sim_type: "llm" # options: "llm" "manual"
+  response_noise: 0
 llm:
   model: "gpt-3.5-turbo-0613" # options: "gpt-3.5-turbo" "gpt-3.5-turbo-instruct" "text-davinci-003"
   llm_name: 'GPTChatCompletion'
   like_probs_template: "pref_query.jinja2"
-  user_sim_template_file: "user_simulation_movie.jinja2"
+  user_sim_template_file: "user_simulation_recipe.jinja2"
   template_dir: "./templates"
-  temperature: 1
+  temperature: 0
   entailement_model: "cross-encoder/ms-marco-MiniLM-L-12-v2"
 logging:
   disabled: False # Replace with false
@@ -28,7 +29,7 @@ pe:
 query:
   aspect_gen_template: "pointwise_aspect_v_generation_recipes_3FS_3words.jinja2"
   aspect_extraction: "val"
-  query_gen_template: "pointwise_query_generation.jinja2"
+  query_gen_template: "pointwise_query_generation_v.jinja2"
   item_selection: "ucb" # Which item selection method to use. See map in query_selection.pointwise_item_selection
 item_scoring:
   item_scorer_name: "MNLIScorer" #options: "EntailmentScorer","CEScorer","DenseRetrievalScorer" "LLMLogprobScorer" "MNLIScorer"
