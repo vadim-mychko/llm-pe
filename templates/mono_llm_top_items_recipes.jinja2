@@ -1,0 +1,47 @@
+{# templates/mono_llm_top_items.jinja2 #}
+Given a set of recipe descriptions, a conversation history, and a list length, generate a newline seperated list of movie titles in order of most to least relevant for the user.
+
+Example:
+''''
+Item Descriptions:
+****
+ Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime
+****
+ Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake
+****
+
+Conversation History:
+++++
+System: Are you interested in a dessert?
+User: yes
+System: Are you looking for something with fish?
+User: no
+++++
+
+List length: 2
+
+Output: Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \n
+Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime
+''''
+
+Input:
+''''
+Item Descriptions:
+****
+{% for item_id, item_value in items.items() -%}
+{{ item_value['description'] }}
+****
+{% endfor %}
+Conversation History:
+++++
+{% if interactions -%}
+{% for interaction in interactions -%}
+System: {{ interaction['query'] }}
+User: {{ interaction['response'] }}
+{% endfor -%}
+{% endif -%}
+++++
+
+List length: {{ num_items }}
+
+Output: 
