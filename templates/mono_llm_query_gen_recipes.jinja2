@@ -1,0 +1,45 @@
+{# templates/mono_llm_top_items.jinja2 #}
+Given a set of item descriptions and a conversation history,  generate a new "yes or no" query to help determine the user's preferences towards the items.
+
+Example:
+''''
+Item Descriptions:
+****
+ Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake
+****
+ Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime
+****
+ Chinese-style steamed pork meatloaf
+****
+''''
+
+Conversation History:
+++++
+System: Are you interested in desserts?
+User: no
+System: Do you like Chinese cuisine?
+User: no
+++++
+
+Output: Do you like fish?
+''''
+
+Input:
+''''
+Item Descriptions:
+****
+{% for item_id, item_value in items.items() -%}
+{{ item_value['description'] }}
+****
+{% endfor %}
+Conversation History:
+++++
+{% if interactions -%}
+{% for interaction in interactions -%}
+System: {{ interaction['query'] }}
+User: {{ interaction['response'] }}
+{% endfor -%}
+{% endif -%}
+++++
+
+Output: 
