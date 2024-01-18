@@ -1,0 +1,47 @@
+{# templates/user_simulation.jinja2 #}
+You are a user who is being asked yes or no queries to elicit your preferences. You must reply yes or no to the query based on the description of your preferred item.
+
+Example 1:
+''''
+Item description:
+****
+ name: QDOBA Mexican Eats \n categories: Restaurants, Fast Food, Event Planning & Services, Mexican, Caterers \n attributes:\n     RestaurantsPriceRange2: 1 \n    WiFi: u'free' \n    RestaurantsTakeOut: True \n    GoodForKids: True \n    RestaurantsReservations: False \n    OutdoorSeating: True \n    HasTV: True \n    NoiseLevel: u'average' \n    Alcohol: u'none' \n    RestaurantsAttire: u'casual' \n    DriveThru: False \n    RestaurantsGoodForGroups: True \n    BikeParking: True \n    RestaurantsDelivery: True \n    GoodForMeal: {'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False} \n    BusinessAcceptsCreditCards: True \n    Caters: True \n    BusinessParking: {'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False} \n    Ambience: {'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True} \n
+****
+
+Query:
+****
+Are you looking for Mexican food?
+****
+
+Response: Yes
+''''
+
+Example 2:
+''''
+Item description:
+****
+ name: Bareburger - Midtown Village \n categories: Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad \n attributes:\n     BusinessAcceptsCreditCards: True \n    RestaurantsReservations: False \n    GoodForKids: True \n    RestaurantsPriceRange2: 2 \n    RestaurantsAttire: u'casual' \n    RestaurantsGoodForGroups: True \n    WheelchairAccessible: True \n    DriveThru: False \n    RestaurantsTakeOut: True \n    Alcohol: u'full_bar' \n    BikeParking: True \n    NoiseLevel: u'average' \n    HasTV: True \n    BusinessParking: {'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False} \n    RestaurantsDelivery: True \n    Ambience: {'touristy': False, 'hipster': None, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': True, 'upscale': False, 'classy': False, 'casual': True} \n    DogsAllowed: False \n    OutdoorSeating: True \n    ByAppointmentOnly: False \n    GoodForMeal: {'dessert': None, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False} \n    WiFi: u'free' \n    Caters: True \n    BYOB: False \n    BusinessAcceptsBitcoin: False \n    RestaurantsTableService: False \n    HappyHour: True \n
+****
+
+Query:
+****
+Are you looking for a breakfast restaurant?
+****
+
+Response: No
+''''
+
+Input:
+''''
+Item description:
+****
+{% for desc in item_descs %}
+{{ desc }}
+****
+{% endfor %}
+
+Query:
+****
+{{ query }}
+****
+Response:

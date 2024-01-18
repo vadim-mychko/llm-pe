@@ -1,0 +1,82 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from any previously identified aspects and must not exceed 3 words. 
+
+Example 1:
+''''
+Item Description:
+****
+ name: Local Tavern \n categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional) \n attributes:\n     Caters: False \n    RestaurantsAttire: 'casual' \n    RestaurantsReservations: False \n    HasTV: True \n    GoodForDancing: False \n    HappyHour: False \n    WiFi: u'free' \n    GoodForKids: False \n    CoatCheck: False \n    BusinessAcceptsCreditCards: True \n    RestaurantsTakeOut: True \n    BikeParking: False \n    OutdoorSeating: False \n    GoodForMeal: {'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': True} \n    RestaurantsGoodForGroups: True \n    RestaurantsPriceRange2: 2 \n    Alcohol: u'full_bar' \n    BestNights: {'monday': False, 'tuesday': False, 'friday': False, 'wednesday': False, 'thursday': False, 'sunday': False, 'saturday': False} \n    RestaurantsTableService: True \n    NoiseLevel: u'average' \n    Music: {'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': False, 'video': False, 'karaoke': False} \n    Smoking: u'no' \n    Ambience: {u'divey': False, u'hipster': None, u'casual': True, u'touristy': None, u'trendy': None, u'intimate': False, u'romantic': False, u'classy': False, u'upscale': False} \n    BusinessParking: {u'valet': False, u'garage': None, u'street': False, u'lot': False, u'validated': False} \n    RestaurantsDelivery: False \n
+****
+
+Previously extracted aspects:
+****
+
+Mexican
+
+upscale
+
+good for groups
+
+****
+
+Output: full bar
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+ name: QDOBA Mexican Eats \n categories: Restaurants, Fast Food, Event Planning & Services, Mexican, Caterers \n attributes:\n     RestaurantsPriceRange2: 1 \n    WiFi: u'free' \n    RestaurantsTakeOut: True \n    GoodForKids: True \n    RestaurantsReservations: False \n    OutdoorSeating: True \n    HasTV: True \n    NoiseLevel: u'average' \n    Alcohol: u'none' \n    RestaurantsAttire: u'casual' \n    DriveThru: False \n    RestaurantsGoodForGroups: True \n    BikeParking: True \n    RestaurantsDelivery: True \n    GoodForMeal: {'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False} \n    BusinessAcceptsCreditCards: True \n    Caters: True \n    BusinessParking: {'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False} \n    Ambience: {'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True} \n
+****
+
+Previously extracted aspects:
+****
+****
+
+Output: Mexican cuisine
+''''
+
+Example 3:
+''''
+Item Description:
+****
+ name: Bareburger - Midtown Village \n categories: Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad \n attributes:\n     BusinessAcceptsCreditCards: True \n    RestaurantsReservations: False \n    GoodForKids: True \n    RestaurantsPriceRange2: 2 \n    RestaurantsAttire: u'casual' \n    RestaurantsGoodForGroups: True \n    WheelchairAccessible: True \n    DriveThru: False \n    RestaurantsTakeOut: True \n    Alcohol: u'full_bar' \n    BikeParking: True \n    NoiseLevel: u'average' \n    HasTV: True \n    BusinessParking: {'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False} \n    RestaurantsDelivery: True \n    Ambience: {'touristy': False, 'hipster': None, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': True, 'upscale': False, 'classy': False, 'casual': True} \n    DogsAllowed: False \n    OutdoorSeating: True \n    ByAppointmentOnly: False \n    GoodForMeal: {'dessert': None, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False} \n    WiFi: u'free' \n    Caters: True \n    BYOB: False \n    BusinessAcceptsBitcoin: False \n    RestaurantsTableService: False \n    HappyHour: True \n
+****
+
+Previously extracted aspects:
+****
+
+breakfast
+
+Chinese cuisine
+
+casual
+
+good for kids
+
+burgers
+
+nightlife
+
+****
+
+Output: cocktail bar
+''''
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+
+Previously extracted aspects:
+****
+{% if aspects -%}
+{% for aspect in aspects %}
+{{ aspect['aspect_value'] }}
+{% endfor %}
+{% endif -%}
+****
+
+Output: 
