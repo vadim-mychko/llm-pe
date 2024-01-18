@@ -1,0 +1,562 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a dark and serious tone?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lighter tone?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that focuses on the experiences of children during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that takes place in a fantasy world?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a historical setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in the 17th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the 1940s?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the experiences of characters during the Great Depression?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nLast Supper, The (1995)\nNightcrawler (2014)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nEragon (2006)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nEragon (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nBlack Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nLast Supper, The (1995)\nBreathless (\u00c0 bout de souffle) (1960)\nBicycle Thieves (Ladri di biciclette) (1948)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nLast Supper, The (1995)\nBreathless (\u00c0 bout de souffle) (1960)\nBicycle Thieves (Ladri di biciclette) (1948)"
+        ]
+    },
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a visually stunning animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Grapes of Wrath, The (1940)\nNightcrawler (2014)\nLost in Translation (2003)\nJane Eyre (1996)\nControl (2007)\nMr. Holmes (2015)\nCronos (1993)\nUmberto D. (1952)\nBlack Robe (1991)\nLast Supper, The (1995)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Black Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)\nCronos (1993)\nBlack Robe (1991)\nNightcrawler (2014)\nLast Supper, The (1995)\nDelicatessen (1991)"
+        ]
+    },
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a visually stunning animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Black Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)\nCronos (1993)\nBlack Robe (1991)\nNightcrawler (2014)\nLast Supper, The (1995)\nDelicatessen (1991)"
+        ]
+    },
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a visually stunning animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Black Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)\nCronos (1993)\nBlack Robe (1991)\nNightcrawler (2014)\nLast Supper, The (1995)\nDelicatessen (1991)"
+        ]
+    },
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a romantic storyline?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a thought-provoking storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with complex characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a suspenseful plot?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a thriller set in a dystopian future?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Grapes of Wrath, The (1940)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nReal Genius (1985)",
+            "Grapes of Wrath, The (1940)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nReal Genius (1985)",
+            "Control (2007)\nNightcrawler (2014)\nLost in Translation (2003)\nMagnolia (1999)\nMartyrs (2008)\nLast Supper, The (1995)\nAmerican Graffiti (1973)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)",
+            "Control (2007)\nNightcrawler (2014)\nLost in Translation (2003)\nMartyrs (2008)\nLast Supper, The (1995)\nHurricane, The (1999)\nLast Temptation of Christ, The (1988)\nBreach (2007)\nAmerican Graffiti (1973)\nGrapes of Wrath, The (1940)",
+            "Nightcrawler (2014)\nControl (2007)\nDeparted, The (2006)\nLast Supper, The (1995)\nStranger than Fiction (2006)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)",
+            "Nightcrawler (2014)\nControl (2007)\nStranger than Fiction (2006)\nDeparted, The (2006)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)"
+        ]
+    },
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a visually stunning animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Black Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)\nCronos (1993)\nBlack Robe (1991)\nNightcrawler (2014)\nMr. Holmes (2015)\nControl (2007)"
+        ]
+    },
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a melancholic atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a visually stunning animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama with a bittersweet storyline and a visually stunning atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Umberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)\nCronos (1993)\nBlack Robe (1991)\nNightcrawler (2014)\nMr. Holmes (2015)\nControl (2007)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nDelicatessen (1991)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)"
+        ]
+    },
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a supernatural or fantasy element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a crime or thriller genre?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a romantic storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a romantic movie with a bittersweet ending?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nTenacious D in The Pick of Destiny (2006)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nBlack Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)",
+            "Jane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nReal Steel (2011)\nBrewster's Millions (1985)",
+            "Jane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nReal Genius (1985)\nGrapes of Wrath, The (1940)"
+        ]
+    },
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a different time period?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in modern times?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a different time period?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a different time period?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Lost in Translation (2003)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Tenacious D in The Pick of Destiny (2006)\nBruce Almighty (2003)\nReal Genius (1985)\nBrewster's Millions (1985)\nFace/Off (1997)\nMr. Holmes (2015)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nDelicatessen (1991)",
+            "Delicatessen (1991)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nMis\u00e9rables, Les (1998)\nControl (2007)\nBrewster's Millions (1985)\nFace/Off (1997)\nLast Supper, The (1995)\nBruce Almighty (2003)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nLast Supper, The (1995)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBrewster's Millions (1985)\nFace/Off (1997)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nReal Genius (1985)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nCronos (1993)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"
+        ]
+    },
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a supernatural or fantasy element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a crime or thriller genre?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a romantic storyline?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a documentary style?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)\nLast Supper, The (1995)\nFace/Off (1997)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nTenacious D in The Pick of Destiny (2006)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nBlack Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)"
+        ]
+    }
+}
