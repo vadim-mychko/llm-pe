@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a supernatural horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a supernatural element?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a horror movie with a supernatural element and a dark atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a supernatural element and a dark atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a supernatural element and a dark atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Clash of the Titans (1981)\nBig Lebowski, The (1998)\nAll Quiet on the Western Front (1930)\nJane Eyre (1996)\nSanta Sangre (1989)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nCronos (1993)\nSt. Elmo's Fire (1985)\nSecret of Kells, The (2009)",
+            "All Quiet on the Western Front (1930)\nMothman Prophecies, The (2002)\nBig Red One, The (1980)\nLast Temptation of Christ, The (1988)\nMr. Holmes (2015)\nPiano, The (1993)\nJane Eyre (1996)\nSanta Sangre (1989)\nCronos (1993)\nSt. Elmo's Fire (1985)",
+            "All Quiet on the Western Front (1930)\nBig Lebowski, The (1998)\nPiano, The (1993)\nJane Eyre (1996)\nSanta Sangre (1989)\nCronos (1993)\nMothman Prophecies, The (2002)\nMr. Holmes (2015)\nBlair Witch Project, The (1999)\nLast Temptation of Christ, The (1988)",
+            "All Quiet on the Western Front (1930)\nMothman Prophecies, The (2002)\nSecret of Kells, The (2009)\nPiano, The (1993)\nBig Lebowski, The (1998)\nCronos (1993)\nSanta Sangre (1989)\nBlair Witch Project, The (1999)\nMr. Holmes (2015)\nBig Red One, The (1980)",
+            "Mothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nCronos (1993)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nBig Lebowski, The (1998)\nMr. Holmes (2015)\nBig Red One, The (1980)\nLast Temptation of Christ, The (1988)",
+            "Mothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nCronos (1993)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nBig Lebowski, The (1998)\nBig Red One, The (1980)\nLast Temptation of Christ, The (1988)\nMr. Holmes (2015)",
+            "Mothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nCronos (1993)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nBig Lebowski, The (1998)\nMr. Holmes (2015)\nBig Red One, The (1980)\nLast Action Hero (1993)",
+            "Santa Sangre (1989)\nMothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nCronos (1993)\nLast Temptation of Christ, The (1988)\nBig Red One, The (1980)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nMr. Holmes (2015)\nBig Lebowski, The (1998)",
+            "Santa Sangre (1989)\nMothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nCronos (1993)\nLast Temptation of Christ, The (1988)\nBig Red One, The (1980)\nPiano, The (1993)\nMr. Holmes (2015)\nIntolerable Cruelty (2003)\nBig Lebowski, The (1998)",
+            "Santa Sangre (1989)\nMothman Prophecies, The (2002)\nBlair Witch Project, The (1999)\nCronos (1993)\nLast Temptation of Christ, The (1988)\nBig Red One, The (1980)\nPiano, The (1993)\nIntolerable Cruelty (2003)\nMr. Holmes (2015)\nSecret of Kells, The (2009)"
+        ]
+    }
+}
