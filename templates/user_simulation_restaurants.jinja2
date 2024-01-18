@@ -1,0 +1,47 @@
+{# templates/user_simulation.jinja2 #}
+You are a user who is being asked yes or no queries to elicit your preferences. You must reply yes or no to the query based on the description of your preferred item.
+
+Example 1:
+''''
+Item description:
+****
+ name: QDOBA Mexican Eats categories: Restaurants, Fast Food, Event Planning & Services, Mexican, Caterers
+****
+
+Query:
+****
+Are you looking for Mexican food?
+****
+
+Response: Yes
+''''
+
+Example 2:
+''''
+Item description:
+****
+ name: Bareburger - Midtown Village categories: Restaurants, Burgers, American (New), Food, American (Traditional), Nightlife, Bars, Cocktail Bars, Salad 
+****
+
+Query:
+****
+Do you like pizza?
+****
+
+Response: No
+''''
+
+Input:
+''''
+Item description:
+****
+{% for desc in item_descs %}
+{{ desc }}
+****
+{% endfor %}
+
+Query:
+****
+{{ query }}
+****
+Response:
