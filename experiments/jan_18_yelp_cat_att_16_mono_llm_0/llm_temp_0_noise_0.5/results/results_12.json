@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a casual restaurant with takeout options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with outdoor seating?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with outdoor seating and a quiet atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a casual restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a casual restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a casual restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with outdoor seating, a quiet atmosphere, and a casual dress code?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nHeritage",
+            "Water Works Restaurant & Lounge \nGermantown Garden \nLe Pain Quotidien \nFederal Donuts \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nMong Kok Station\nThe Juice Merchant\nFederal Donuts\nThe Tasty Toast\nPrimoHoagies\nGolden Triangle",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nPrimoHoagies\nGolden Triangle",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nGolden Triangle\nZuzu's Kitchen",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nCinCin Restaurant\nGolden Triangle",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Water Works Restaurant & Lounge\nGermantown Garden\nLe Pain Quotidien\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nFederal Donuts\nPrimoHoagies\nGolden Triangle"
+        ]
+    }
+}

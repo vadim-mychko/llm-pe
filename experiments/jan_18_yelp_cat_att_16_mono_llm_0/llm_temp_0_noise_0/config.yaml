@@ -20,7 +20,7 @@ llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   like_probs_template: pref_query.jinja2
   llm_name: GPTChatCompletion
-  model: gpt-3.5-turbo-0613
+  model: gpt-3.5-turbo-16k-0613
   temperature: 0
   template_dir: ./templates
   user_sim_template_file: user_simulation_yelp_cat_att.jinja2
