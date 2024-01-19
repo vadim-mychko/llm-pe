@@ -37,6 +37,7 @@ mono_llm:
 paths:
   eval_results_master_path: experiments/jan_18_yelp_cat_att_16_mono_llm_0/eval_results.csv
   experiment_dir: experiments/jan_18_yelp_cat_att_16_mono_llm_0
+  name_map_path: data/name_maps/yelp_100_map.json
 pe:
   num_recs: 10
   pe_module_name: MonoLLM
