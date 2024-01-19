@@ -1,0 +1,886 @@
+{
+    "8": {
+        "rec_items": [
+            [
+                "1",
+                "0",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            [
+                "1",
+                "10",
+                "0",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            [
+                "1",
+                "3",
+                "5",
+                "6",
+                "10",
+                "14",
+                "0",
+                "2",
+                "4",
+                "7"
+            ],
+            [
+                "3",
+                "5",
+                "1",
+                "6",
+                "10",
+                "14",
+                "0",
+                "2",
+                "4",
+                "7"
+            ],
+            [
+                "1",
+                "3",
+                "5",
+                "10",
+                "4",
+                "6",
+                "14",
+                "0",
+                "2",
+                "7"
+            ],
+            [
+                "10",
+                "1",
+                "3",
+                "5",
+                "6",
+                "0",
+                "2",
+                "4",
+                "9",
+                "11"
+            ],
+            [
+                "10",
+                "1",
+                "3",
+                "5",
+                "6",
+                "0",
+                "2",
+                "4",
+                "9",
+                "11"
+            ],
+            [
+                "10",
+                "1",
+                "3",
+                "5",
+                "6",
+                "0",
+                "2",
+                "4",
+                "9",
+                "11"
+            ],
+            [
+                "1",
+                "5",
+                "10",
+                "3",
+                "6",
+                "0",
+                "2",
+                "4",
+                "9",
+                "11"
+            ],
+            [
+                "1",
+                "5",
+                "10",
+                "3",
+                "6",
+                "0",
+                "2",
+                "4",
+                "9",
+                "11"
+            ]
+        ],
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie with supernatural elements?",
+                "response": "no",
+                "aspect_value": "supernatural"
+            },
+            {
+                "query": "Is it important for you that the item is a cult classic?",
+                "response": "no",
+                "aspect_value": "cult classic"
+            },
+            {
+                "query": "Is crime an important aspect for you?",
+                "response": "no",
+                "aspect_value": "crime"
+            },
+            {
+                "query": "Do you prefer quirky movies?",
+                "response": "no",
+                "aspect_value": "quirky"
+            },
+            {
+                "query": "Do you prefer period dramas?",
+                "response": "yes",
+                "aspect_value": "period drama"
+            },
+            {
+                "query": "Do you prefer movies from the 1990's?",
+                "response": "yes",
+                "aspect_value": "1990's"
+            },
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no",
+                "aspect_value": "horror"
+            },
+            {
+                "query": "Are you interested in a mystery movie?",
+                "response": "no",
+                "aspect_value": "mystery"
+            },
+            {
+                "query": "Do you enjoy suspenseful movies?",
+                "response": "no",
+                "aspect_value": "suspense"
+            },
+            {
+                "query": "Does drug use in a movie bother you?",
+                "response": "no",
+                "aspect_value": "drug use"
+            }
+        ],
+        "queried_items": [
+            "10",
+            "1",
+            "1",
+            "1",
+            "3",
+            "1",
+            "10",
+            "10",
+            "10",
+            "1"
+        ],
+        "belief_states": [
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            },
+            {
+                "0": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "1": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "2": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "3": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "4": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "5": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "6": {
+                    "alpha": 1.5,
+                    "beta": 9.5
+                },
+                "7": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "8": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "9": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "10": {
+                    "alpha": 2.0,
+                    "beta": 9.0
+                },
+                "11": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "12": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                },
+                "13": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "14": {
+                    "alpha": 1.0,
+                    "beta": 10.0
+                },
+                "15": {
+                    "alpha": 0.5,
+                    "beta": 10.5
+                }
+            }
+        ],
+        "aspects": [
+            {
+                "aspect_value": "supernatural"
+            },
+            {
+                "aspect_value": "cult classic"
+            },
+            {
+                "aspect_value": "crime"
+            },
+            {
+                "aspect_value": "quirky"
+            },
+            {
+                "aspect_value": "period drama"
+            },
+            {
+                "aspect_value": "1990's"
+            },
+            {
+                "aspect_value": "horror"
+            },
+            {
+                "aspect_value": "mystery"
+            },
+            {
+                "aspect_value": "suspense"
+            },
+            {
+                "aspect_value": "drug use"
+            }
+        ],
+        "llm_time": 8.17391279997537,
+        "mnli_time": 55.759828799869865
+    }
+}
