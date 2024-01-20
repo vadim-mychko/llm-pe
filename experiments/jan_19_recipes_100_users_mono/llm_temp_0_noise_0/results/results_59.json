@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit-based desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stir-fried dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Low fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nDigestion-friendly waffles\n****\nLow fat coconut alcohol-free cocktail\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nEggless sauerkraut cake\n****\nSmoothie made from banana puree with milk\n****\nMushy peas that are soft\n****\nHomemade soup with chicken, noodles, and spices\n****\nHot pot that is not spicy",
+            "Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nLow fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow sugar applesauce cupcakes\n****\nLow-fat cottage cheese\n****\nLow-fat gluten-free, egg-free, dairy-free, nut-free fudge\n****\nLow-fat smoothies made with greek yogurt, and pineapple\n****\nLow-fat coconut alcohol-free cocktail",
+            "Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nLow fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow sugar applesauce cupcakes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat assorted fruit dessert",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat assorted fruit dessert\nLow fat coconut alcohol-free cocktail\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat creamy base with dill flavoring, eggs, and noodles\nLow fat shredded barbecued pork shoulder\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge\nLow fat digestion-friendly waffles",
+            "Low fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow sugar applesauce cupcakes\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat shredded barbecued pork shoulder\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge",
+            "Low fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nDigestion-friendly waffles\n****\nLow fat coconut alcohol-free cocktail\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nEggless sauerkraut cake\n****\nSmoothie made from banana puree with milk\n****\nMushy peas that are soft\n****\nHomemade soup with chicken, noodles, and spices\n****\nMeatballs made with ground beef and ground pork",
+            "Low fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nDigestion-friendly waffles\n****\nLow fat coconut alcohol-free cocktail\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nEggless sauerkraut cake\n****\nSmoothie made from banana puree with milk\n****\nMushy peas that are soft\n****\nHomemade soup with chicken, noodles, and spices\n****\nMeatballs made with ground beef and ground pork"
+        ]
+    }
+}

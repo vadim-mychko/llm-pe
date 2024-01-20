@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheesecake made with cream cheese",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat shredded barbecued pork shoulder\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge\n****\nLow fat digestion-friendly waffles",
+            "Baked spinach quiche containing bacon\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow sugar applesauce cupcakes\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nMildly spicy chili recipe\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nMildly spicy chili recipe\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBaked breakfast bars made with nuts and seeds",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat shredded barbecued pork shoulder\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge"
+        ]
+    }
+}

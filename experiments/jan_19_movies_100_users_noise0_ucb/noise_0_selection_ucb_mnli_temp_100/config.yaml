@@ -27,7 +27,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
-  log_file: experiments/jan_19_movies_100_users_noise0_ucb/noise_0_selection_ucb_mnli_temp_100/output.log
+  log_file: experiments/jan_19_movies_100_users_noise0/selection_ucb_mnli_temp_100/output.log
 metrics:
   metrics: supported_measures
   to_avg:

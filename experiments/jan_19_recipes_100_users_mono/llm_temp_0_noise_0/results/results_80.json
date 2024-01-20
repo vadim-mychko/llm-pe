@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nCheese and olive appetizer made to look like an eyeball\nItalian salad made from romain lettuce, artichokes, and tomatoes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nCheese and vegetable soup with a beer broth\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nCheesecake made with cream cheese\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat assorted fruit dessert\nMozzarella dip recipe\nMozzarella sticks with marinara sauce",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nCheesecake made with cream cheese\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow fat assorted fruit dessert\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nLow fat assorted fruit dessert\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat coconut alcohol-free cocktail\nLow fat coconut alcohol-free cocktail\nLow fat coconut alcohol-free cocktail",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat shredded barbecued pork shoulder\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge"
+        ]
+    }
+}
