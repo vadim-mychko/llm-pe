@@ -211,6 +211,13 @@ class DTPEModule(BasePEModule):
     '''
     # Select the item_id with the highest expected utility.
     def item_selection_greedy(self):
+        # Check for epsilon parameter
+        if 'epsilon' in self.config['query']: # If no epsilon is provided, just do fully greedy
+            eps = self.config['query']['epsilon']
+            rand_draw = np.random.rand()
+            if rand_draw < eps:
+                top_id = np.random.choice(np.array(list(self.items.keys())))
+                return top_id
         top_id = heapq.nlargest(1, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
         return top_id[0] # Return first element since top_id will be a single item list
 
