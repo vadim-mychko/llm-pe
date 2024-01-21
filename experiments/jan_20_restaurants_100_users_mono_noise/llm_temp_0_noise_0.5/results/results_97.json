@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a coffee roastery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a creperie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Gran Caffe L'Aquila \nGreen Leafs & Bananas \nThe Juice Merchant \nThe Fresh Grocer - Progress Plaza \nThe Continental Restaurant and Martini Bar \nThe Cheesecake Factory \nThe Blue Duck \nTrolley Car Diner \nTu's Tea & Banh Mi South Philly \nTavern On the Hill",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire"
+        ]
+    }
+}

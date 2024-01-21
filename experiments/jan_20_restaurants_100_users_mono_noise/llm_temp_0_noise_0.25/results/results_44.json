@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Mexican restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Spread Bagelry\nLuhv Vegan Deli\nKC's Pastries\nThe Juice Merchant\nThe Fresh Grocer - Progress Plaza\nThe Green Line Cafe\nMugshots Coffeehouse\nThe Continental Restaurant and Martini Bar\nCafe L'Aube\nRival Bros Coffee",
+            "Gran Caffe L'Aquila\nSpread Bagelry\nKC's Pastries\nThe Green Line Cafe\nCafe L'Aube\nRival Bros Coffee\nOteri's Italian Bakery | North 5th St\nChestnut 7\nThe Cheesecake Factory\nLuhv Vegan Deli",
+            "Gran Caffe L'Aquila\nSpread Bagelry\nThe Green Line Cafe\nRival Bros Coffee\nCafe L'Aube\nOteri's Italian Bakery | North 5th St\nKC's Pastries\nThe Continental Restaurant and Martini Bar\nPearl's Oyster Bar\nMacaroni's Restaurant",
+            "Gran Caffe L'Aquila\nSpread Bagelry\nKC's Pastries\nThe Green Line Cafe\nRival Bros Coffee\nCafe L'Aube\nOteri's Italian Bakery | North 5th St\nMcMenamin's Tavern\nCJ & Eck's\nLucky's Last Chance",
+            "Spread Bagelry\nThe Green Line Cafe\nKC's Pastries\nOteri's Italian Bakery | North 5th St\nPure Tacos\nLucky's Last Chance\nParc\nLove & Honey Fried Chicken\nMcMenamin's Tavern\nCafe L'Aube",
+            "Gran Caffe L'Aquila\nCafe L'Aube\nRival Bros Coffee\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Spread Bagelry\nKC's Pastries\nThe Green Line Cafe\nRival Bros Coffee\nGran Caffe L'Aquila\nCafe L'Aube\nOteri's Italian Bakery | North 5th St\nAudrey Claire\nParc\nLucky's Last Chance",
+            "Spread Bagelry\nCJ & Eck's\nGran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos"
+        ]
+    }
+}

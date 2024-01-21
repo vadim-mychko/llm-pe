@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like turkey meatballs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheesecake made with cream cheese\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoasted almonds",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheesecake made with cream cheese\n****\nCheese and olive appetizer made to look like an eyeball\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast turkey with plum sauce\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast turkey with plum sauce\n****\nTurkey meatballs with cranberry sauce\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoasted almonds\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar"
+        ]
+    }
+}

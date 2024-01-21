@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie set in a college?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie about college students?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy movie about college students getting into funny situations?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie about college students getting into funny situations with a romantic subplot?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy movie about college students getting into funny situations with a romantic subplot and a feel-good ending?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie about college students getting into funny situations with a romantic subplot and a feel-good ending that also has a musical element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy movie about college students getting into funny situations with a romantic subplot and a feel-good ending?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie about college students getting into funny situations with a romantic subplot and a feel-good ending?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Tenacious D in The Pick of Destiny (2006)\nBruce Almighty (2003)\nReal Genius (1985)\nBrewster's Millions (1985)\nFace/Off (1997)\nMr. Holmes (2015)\nAmerican Graffiti (1973)\nGrapes of Wrath, The (1940)\nBig Lebowski, The (1998)\nLost in Translation (2003)",
+            "Brewster's Millions (1985)\nReal Genius (1985)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nDelicatessen (1991)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Real Genius (1985)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nDelicatessen (1991)\nBrewster's Millions (1985)\nFace/Off (1997)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Real Genius (1985)\nAnimal House (1978)\nOld School (2003)\nAccepted (2006)\nNeighbors (2014)\nPitch Perfect (2012)\nSuperbad (2007)\n21 Jump Street (2012)\nAmerican Pie (1999)\nThe Social Network (2010)",
+            "Accepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)\nAccepted (2006)",
+            "Real Genius (1985)\nAmerican Graffiti (1973)\nSure Thing, The (1985)\nIntolerable Cruelty (2003)\nBrewster's Millions (1985)\nFace/Off (1997)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "American Graffiti (1973)\nReal Genius (1985)\nBrewster's Millions (1985)\nSure Thing, The (1985)\nGentlemen of Fortune (Dzhentlmeny udachi) (1972)\nBig Lebowski, The (1998)\nIntolerable Cruelty (2003)\nTrapped (2002)\nMis\u00e9rables, Les (1998)\nUHF (1989)",
+            "American Graffiti (1973)\nReal Genius (1985)\nBrewster's Millions (1985)\nIntolerable Cruelty (2003)\nTrapped (2002)\nDelicatessen (1991)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "American Graffiti (1973)\nReal Genius (1985)\nBrewster's Millions (1985)\nIntolerable Cruelty (2003)\nTrapped (2002)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)"
+        ]
+    }
+}

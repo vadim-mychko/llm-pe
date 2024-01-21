@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with animals as the main characters?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an animated movie with animals as the main characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a live-action movie with animals as the main characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with animals as supporting characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with humans as the main characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie without any animal characters?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in a dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a period drama?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Homeward Bound: The Incredible Journey (1993)\nBabe (1995)\nThe Lion King (1994)\nFinding Nemo (2003)\nThe Secret Life of Pets (2016)\nZootopia (2016)\nMadagascar (2005)\nThe Jungle Book (1967)\nThe Fox and the Hound (1981)\nThe Aristocats (1970)",
+            "Homeward Bound: The Incredible Journey (1993)\nBrewster's Millions (1985)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Homeward Bound: The Incredible Journey (1993)\nBrewster's Millions (1985)\nReal Steel (2011)\nKing Kong (2005)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBruce Almighty (2003)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Homeward Bound: The Incredible Journey (1993)\nBrewster's Millions (1985)\nReal Steel (2011)\nKing Kong (2005)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)",
+            "Homeward Bound: The Incredible Journey (1993)\nBrewster's Millions (1985)\nReal Genius (1985)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Laura (1944)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nTerms of Endearment (1983)\nProposition, The (2005)\nBernie (2011)\nNaked Gun: From the Files of Police Squad!, The (1988)\nLast Action Hero (1993)\nOne Hour Photo (2002)\nDracula (Bram Stoker's Dracula) (1992)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nBreathless (\u00c0 bout de souffle) (1960)\nRashomon (Rash\u00f4mon) (1950)\nSeven Samurai (Shichinin no samurai) (1954)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a dark and serious tone?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lighter tone?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that takes place in a concentration camp?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set during World War II that does not focus on the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that explores the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set during World War II that does not focus on the Holocaust?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the experiences of soldiers during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set during World War II that focuses on civilian life?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nLast Supper, The (1995)\nNightcrawler (2014)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nEragon (2006)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nEragon (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Grapes of Wrath, The (1940)\nBlack Robe (1991)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nEragon (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nTenacious D in The Pick of Destiny (2006)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)",
+            "The Pianist (2002)\nSchindler's List (1993)\nSaving Private Ryan (1998)\nThe Great Escape (1963)\nDunkirk (2017)\nThe Thin Red Line (1998)\nInglourious Basterds (2009)\nThe Boy in the Striped Pajamas (2008)\nLife is Beautiful (La vita \u00e8 bella) (1997)\nThe Imitation Game (2014)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nLost in Translation (2003)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a fantasy movie with dragons?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons that is not a fantasy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with dragons that is set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons that is not set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons that is set in a different time period?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Grapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nBruce Almighty (2003)",
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nDelicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Eragon (2006)\nDragonheart (1996)\nPete's Dragon (2016)\nReign of Fire (2002)\nHow to Train Your Dragon (2010)\nDragonheart: A New Beginning (2000)\nDragonheart 3: The Sorcerer's Curse (2015)\nDragonheart: Battle for the Heartfire (2017)\nDragon Wars: D-War (2007)\nThe Flight of Dragons (1982)",
+            "Eragon (2006)\nDragonheart (1996)\nPete's Dragon (2016)\nReign of Fire (2002)\nHow to Train Your Dragon (2010)\nDragonheart: A New Beginning (2000)\nDragonheart 3: The Sorcerer's Curse (2015)\nDragonheart: Battle for the Heartfire (2017)\nDragon Wars: D-War (2007)\nThe Flight of Dragons (1982)",
+            "Eragon (2006)\nDragonheart (1996)\nPete's Dragon (2016)\nReign of Fire (2002)\nHow to Train Your Dragon (2010)\nDragon Wars: D-War (2007)\nDragonheart: A New Beginning (2000)\nDragonheart 3: The Sorcerer's Curse (2015)\nDragonheart: Battle for the Heartfire (2017)\nDragon Nest: Warriors' Dawn (2014)",
+            "Eragon (2006)\nDragon & Phoenix (2004)\nDragon Ball Z: The Return of Cooler (Doragon b\u00f4ru Z 6: Gekitotsu! Hyakuoku paw\u00e2 no senshi) (1992)\nDragon Ball Z: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon b\u00f4ru Z: Kono yo de ichiban tsuyoi yatsu) (1990)\nDragon Ball Z: The Tree of Might (Doragon b\u00f4ru Z 3: Chiky\u00fb marugoto ch\u00f4 kessen) (1990)\nDragon Ball Z: The History of Trunks (Doragon b\u00f4ru Z: Zetsub\u00f4 e no hank\u00f4!! Nokosareta ch\u00f4 senshi - Gohan to Torankusu) (1993)\nDragon Ball Z: The Dead Zone (Doragon b\u00f4ru Z 1: Ora no Gohan wo kaese!!) (1989)\nDragon Ball Z: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon b\u00f4ru Z: Kono yo de ichiban tsuyoi yatsu) (1990)\nDragon Ball Z: The Tree of Might (Doragon b\u00f4ru Z 3: Chiky\u00fb marugoto ch\u00f4 kessen) (1990)\nDragon Ball Z: The History of Trunks (Doragon b\u00f4ru Z: Zetsub\u00f4 e no hank\u00f4!! Nokosareta ch\u00f4 senshi - Gohan to Torankusu) (1993)",
+            "Eragon (2006)\nTenacious D in The Pick of Destiny (2006)\nBlack Robe (1991)\nUmberto D. (1952)\nLost in Translation (2003)\nJane Eyre (1996)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)",
+            "Eragon (2006)\nDragon & Phoenix (2004)\nDragon Ball Z: The Return of Cooler (Doragon b\u00f4ru Z 6: Gekitotsu! Hyakuoku paw\u00e2 no senshi) (1992)\nDragon Ball Z: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon b\u00f4ru Z: Kono yo de ichiban tsuyoi yatsu) (1990)\nDragon Ball Z: The Tree of Might (Doragon b\u00f4ru Z 3: Chiky\u00fb marugoto ch\u00f4 kessen) (1990)\nDragon Ball Z: The History of Trunks (Doragon b\u00f4ru Z: Zetsub\u00f4 e no hank\u00f4!! Nokosareta ch\u00f4 senshi - Gohan to Torankusu) (1993)\nDragon Ball Z: The Dead Zone (Doragon b\u00f4ru Z 1: Ora no Gohan wo kaese!!) (1989)\nDragon Ball Z: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon b\u00f4ru Z: Kono yo de ichiban tsuyoi yatsu) (1990)\nDragon Ball Z: The Tree of Might (Doragon b\u00f4ru Z 3: Chiky\u00fb marugoto ch\u00f4 kessen) (1990)\nDragon Ball Z: The History of Trunks (Doragon b\u00f4ru Z: Zetsub\u00f4 e no hank\u00f4!! Nokosareta ch\u00f4 senshi - Gohan to Torankusu) (1993)"
+        ]
+    }
+}

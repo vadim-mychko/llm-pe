@@ -1,0 +1,58 @@
+{
+    "16": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Greek cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a gelato place?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato or coffee & tea?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Spread Bagelry\nLuhv Vegan Deli\nKC's Pastries\nThe Juice Merchant\nThe Fresh Grocer - Progress Plaza\nThe Green Line Cafe\nMugshots Coffeehouse\nThe Continental Restaurant and Martini Bar\nCafe L'Aube\nRival Bros Coffee",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Audrey Claire\nParc\nLacroix Restaurant at The Rittenhouse\nMaison 208\nCafe L'Aube\nGran Caffe L'Aquila\nLe Pain Quotidien\nThe Continental Restaurant and Martini Bar\nLibert\u00e9 Lounge\nFiore Fine Foods",
+            "Audrey Claire\nParc\nMaison 208\nLacroix Restaurant at The Rittenhouse\nVeda - Modern Indian Bistro\nCinCin Restaurant\nLe Pain Quotidien\nThe Continental Restaurant and Martini Bar\nOteri's Italian Bakery | North 5th St\nGran Caffe L'Aquila",
+            "Audrey Claire\nParc\nChestnut 7\nThe Continental Restaurant and Martini Bar\nMaison 208\nThe Tavern Restaurant\nBistro SouthEast\nLuhv Vegan Deli\nCJ & Eck's\nThe El Bar",
+            "Audrey Claire\nParc\nChestnut 7\nThe Continental Restaurant and Martini Bar\nMaison 208\nThe Tavern Restaurant\nBistro SouthEast\nCinCin Restaurant\nLacroix Restaurant at The Rittenhouse\nMugshots Coffeehouse",
+            "Audrey Claire\nParc\nChestnut 7\nThe Continental Restaurant and Martini Bar\nMaison 208\nThe Tavern Restaurant\nBistro SouthEast\nCinCin Restaurant\nLacroix Restaurant at The Rittenhouse\nValley Green Inn"
+        ]
+    }
+}

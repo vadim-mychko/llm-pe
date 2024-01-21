@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the 1940s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the 1970s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the 1960s?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Tenacious D in The Pick of Destiny (2006)\nBruce Almighty (2003)\nReal Genius (1985)\nBrewster's Millions (1985)\nFace/Off (1997)\nMr. Holmes (2015)\nAmerican Graffiti (1973)\nGrapes of Wrath, The (1940)\nBig Lebowski, The (1998)\nLost in Translation (2003)",
+            "Delicatessen (1991)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nMr. Holmes (2015)\nBrewster's Millions (1985)\nFace/Off (1997)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nAmerican Graffiti (1973)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBrewster's Millions (1985)\nFace/Off (1997)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)",
+            "Delicatessen (1991)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "Delicatessen (1991)\nMis\u00e9rables, Les (1998)\nBernie (2011)\nNaked Gun: From the Files of Police Squad!, The (1988)\nLast Action Hero (1993)\nOne Hour Photo (2002)\nDracula (Bram Stoker's Dracula) (1992)\nLost World: Jurassic Park, The (1997)\nCocoon (1985)\nMan on Fire (2004)",
+            "Grapes of Wrath, The (1940)\nDelicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)"
+        ]
+    }
+}

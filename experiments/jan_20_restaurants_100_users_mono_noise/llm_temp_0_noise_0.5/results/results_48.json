@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in tacos?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Oishii Pok\u00e9\nCanton 11\nMisconduct Tavern\nMiga Korean BBQ & Sushi\nThe Continental Restaurant and Martini Bar\nDim Sum House\nMalbec Argentine Steakhouse\nPure Tacos\nThe Cheesecake Factory\nLuhv Vegan Deli",
+            "Oishii Pok\u00e9\nChestnut 7\nThe Cheesecake Factory\nPure Tacos\nMisconduct Tavern\nCanton 11\nMiga Korean BBQ & Sushi\nThe Continental Restaurant and Martini Bar\nDim Sum House\nMalbec Argentine Steakhouse",
+            "Oishii Pok\u00e9\nChestnut 7\nThe Cheesecake Factory\nLucky's Last Chance\nPure Tacos\nMisconduct Tavern\nCanton 11\nMiga Korean BBQ & Sushi\nDim Sum House\nMalbec Argentine Steakhouse",
+            "Oishii Pok\u00e9\nPure Tacos\nChestnut 7\nBaan Thai\nCanton 11\nMiga Korean BBQ & Sushi\nTrolley Car Diner\nSister Muhammad's Kitchen\nLuhv Vegan Deli\nMisconduct Tavern",
+            "Oishii Pok\u00e9\nPure Tacos\nChestnut 7\nBaan Thai\nCanton 11\nMiga Korean BBQ & Sushi\nTrolley Car Diner\nSister Muhammad's Kitchen\nLuhv Vegan Deli\nMisconduct Tavern",
+            "Oishii Pok\u00e9\nPure Tacos\nChestnut 7\nThe Cheesecake Factory\nLucky's Last Chance\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Grill  Smuckers\nThe Blue Duck\nThe El Bar",
+            "Oishii Pok\u00e9\nPure Tacos\nChestnut 7\nThe Cheesecake Factory\nLucky's Last Chance\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Grill  Smuckers\nThe Blue Duck\nThe El Bar"
+        ]
+    }
+}

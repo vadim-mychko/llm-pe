@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like ground meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nCheese with crackers\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nLow fat diced baked or fried potatoes\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat assorted fruit dessert\n****\nLow fat smoothies made with greek yogurt, and pineapple",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nChicken cooked and flavored with lemon sauce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese with crackers\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nCheese and vegetable soup with a beer broth",
+            "Meatballs made with ground beef and ground pork\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and olive appetizer made to look like an eyeball"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nMildly spicy chili recipe\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nCheese and vegetable soup with a beer broth\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMildly spicy chili recipe\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese with crackers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpanish rice with chicken breast\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHot pot that is not spicy",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nChopped French duck confit preserved by duck oil\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nShredded barbecued pork shoulder\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast turkey with plum sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nMildly spicy chili recipe\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nLow fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow sugar applesauce cupcakes\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow fat baked breakfast bars made with nuts and seeds\n****\nLow fat creamy base with dill flavoring, eggs, and noodles",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat assorted fruit dessert\nLow fat coconut alcohol-free cocktail\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat cheese and vegetable soup with a beer broth\nLow fat creamy base with dill flavoring, eggs, and noodles\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge\nLow fat digestion-friendly waffles",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes"
+        ]
+    }
+}

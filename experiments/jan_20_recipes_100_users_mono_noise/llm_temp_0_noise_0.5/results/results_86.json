@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nRoast turkey with plum sauce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Cheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheesecake made with cream cheese\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nRoasted almonds\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\nCheese and olive appetizer made to look like an eyeball\nLow fat baked breakfast pie made with sausage (pork) and apples\nCheese with crackers\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat assorted fruit dessert\nLow fat coconut alcohol-free cocktail\nLow sugar applesauce cupcakes\nLow fat smoothies made with greek yogurt, and pineapple",
+            "Beef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Beef stew made with beef, carrots and potatoes\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatballs made with ground beef and ground pork\nPork chops glazed with milk and cooked without nuts\nRoasted almonds\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoasted almonds\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork chops glazed with milk and cooked without nuts"
+        ]
+    }
+}

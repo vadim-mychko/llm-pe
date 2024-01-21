@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a dark and serious tone?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lighter tone?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that focuses on the experiences of children during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that explores the experiences of children during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that explores the experiences of children during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set during World War II that has a serious tone?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set during World War II that has a serious tone and explores the experiences of children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set during World War II that has a serious tone and explores the experiences of adults?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nLast Supper, The (1995)\nNightcrawler (2014)\nLost in Translation (2003)\nJane Eyre (1996)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nEragon (2006)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nEragon (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nNightcrawler (2014)\nLast Supper, The (1995)\nControl (2007)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nBlack Robe (1991)\nJane Eyre (1996)\nUmberto D. (1952)\nLost in Translation (2003)\nCronos (1993)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nBlack Robe (1991)\nJane Eyre (1996)\nUmberto D. (1952)\nLost in Translation (2003)\nCronos (1993)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nBlack Robe (1991)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nCronos (1993)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nBlack Robe (1991)\nJane Eyre (1996)\nUmberto D. (1952)\nLost in Translation (2003)\nCronos (1993)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nBlack Robe (1991)\nJane Eyre (1996)\nUmberto D. (1952)\nLost in Translation (2003)\nCronos (1993)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)",
+            "The Grapes of Wrath (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"
+        ]
+    }
+}
