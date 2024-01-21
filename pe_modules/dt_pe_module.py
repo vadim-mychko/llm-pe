@@ -216,7 +216,7 @@ class DTPEModule(BasePEModule):
             eps = self.config['query']['epsilon']
             rand_draw = np.random.rand()
             if rand_draw < eps:
-                top_id = np.random.choice(np.array(list(self.items.keys())))
+                top_id = np.random.choice(list(self.items))
                 return top_id
         top_id = heapq.nlargest(1, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
         return top_id[0] # Return first element since top_id will be a single item list
