@@ -3,6 +3,7 @@ from typing import Optional
 import os
 import openai
 import time
+import sys
 from llms.llm_base import LLMBase
 
 class GPTCompletion(LLMBase):
@@ -100,19 +101,24 @@ class GPTChatCompletion(LLMBase):
                     logprobs = bool(logprobs)
                 )
             except openai.error.RateLimitError as e:
-                print("OpenAI Rate Limit Error... waiting 30 seconds and trying again")
+                print("OpenAI Rate Limit Error... waiting 10 seconds and trying again", file=sys.stderr)
                 attempts += 1
                 time.sleep(10) # Wait 30 seconds
                 continue
             except openai.error.ServiceUnavailableError as e:
-                print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again")
+                print("OpenAI Service Unavailable Error... waiting 30 seconds and trying again", file=sys.stderr)
                 attempts += 1
                 time.sleep(30) # Wait 30 seconds
+                continue
+            except openai.error.APIError as e:
+                print("OpenAI API Error... waiting 10 seconds and trying again", file=sys.stderr)
+                attempts += 1
+                time.sleep(10) # Wait 30 seconds
                 continue
             break
 
         if attempts >= 3:
-            print("Received 3 repeated OpenAI Service Unavailable Errors... ending execution")
+            print("Received 3 repeated OpenAI Service Unavailable Errors... ending execution", file=sys.stderr)
 
 
         if bool(logprobs):
