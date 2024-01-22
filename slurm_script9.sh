@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=david6
+#SBATCH --job-name=david9
 #SBATCH --gres=gpu:1
 #SBATCH -c 2
 #SBATCH --mem=10G
@@ -15,5 +15,5 @@ source activate llm-pe
 
 # (while true; do nvidia-smi; top -b -n 1 | head -20; sleep 10; done) &
 # srun accelerate launch /h/davaus80/McIntoshLab-MedBind/david_efficiency_test.py
-/h/davaus80/.conda/envs/llm-pe/bin/python3 /h/davaus80/llm-pe/experiment_manager.py -exp_dir=/h/davaus80/llm-pe/experiments/jan_20_recipes_100_users_noise0_g
+/h/davaus80/.conda/envs/llm-pe/bin/python3 /h/davaus80/llm-pe/experiment_manager.py -exp_dir=/h/davaus80/llm-pe/experiments/jan_21_recipes_100_users_noise0.25_greedy
 # wait
