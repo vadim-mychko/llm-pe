@@ -16,6 +16,7 @@ item_scoring:
   mnli_model: facebook/bart-large-mnli
   mnli_temp: 1
   preprocess_query: true
+  batch_size: 1
 llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   like_probs_template: pref_query.jinja2
