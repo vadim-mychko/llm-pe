@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nGrilled salmon seasoned with salt and pepper\n****\nFried shrimp and scallops\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast turkey with plum sauce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nCheese and vegetable soup with a beer broth\n****\nStir-fried tofu, noodles and vegetables Bento",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nSoup made with shrimp, onions, and scallops\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nFried shrimp and scallops\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpanish rice with chicken breast",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nSoup made with shrimp, onions, and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nShredded barbecued pork shoulder\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpanish rice with chicken breast",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nPoke of tofu, mushroom and tomatoes\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nBeef stew made with beef, carrots and potatoes\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nPoke of tofu, mushroom and tomatoes\nSoup made with shrimp, onions, and scallops\nBeef stew made with beef, carrots and potatoes\nChicken breasts stuffed with bacon and mozzarella\nBread made swiss style with swiss cheese\nCheese and olive appetizer made to look like an eyeball",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nMilkshake made with fresh strawberries and ice cream\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning"
+        ]
+    }
+}

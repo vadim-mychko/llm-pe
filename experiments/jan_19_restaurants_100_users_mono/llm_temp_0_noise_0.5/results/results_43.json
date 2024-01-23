@@ -1,0 +1,58 @@
+{
+    "43": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Spread Bagelry\nLuhv Vegan Deli\nKC's Pastries\nThe Juice Merchant\nThe Fresh Grocer - Progress Plaza\nThe Green Line Cafe\nMugshots Coffeehouse\nThe Continental Restaurant and Martini Bar\nCafe L'Aube\nRival Bros Coffee",
+            "Gran Caffe L'Aquila\nSpread Bagelry\nKC's Pastries\nThe Green Line Cafe\nCafe L'Aube\nRival Bros Coffee\nOteri's Italian Bakery | North 5th St\nChestnut 7\nThe Cheesecake Factory\nLuhv Vegan Deli",
+            "Gran Caffe L'Aquila\nSpread Bagelry\nKC's Pastries\nThe Green Line Cafe\nOteri's Italian Bakery | North 5th St\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "Gran Caffe L'Aquila\nPearl's Oyster Bar\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nValley Green Inn\nChestnut 7\nThe Continental Restaurant and Martini Bar\nCinCin Restaurant\nOlive Garden Italian Restaurant\nAudrey Claire",
+            "Gran Caffe L'Aquila\nPearl's Oyster Bar\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nValley Green Inn\nCinCin Restaurant\nMaison 208\nOlive Garden Italian Restaurant\nThe Continental Restaurant and Martini Bar",
+            "Gran Caffe L'Aquila\nPearl's Oyster Bar\nZuzu's Kitchen\nThe Milk House\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Grill  Smuckers\nThe Blue Duck\nThe El Bar\nThe Fresh Grocer - Progress Plaza",
+            "Gran Caffe L'Aquila\nPearl's Oyster Bar\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant",
+            "Gran Caffe L'Aquila\nPearl's Oyster Bar\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant"
+        ]
+    }
+}

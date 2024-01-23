@@ -1,0 +1,39 @@
+{
+    "experiments/jan_19_restaurants_100_users_mono": "restaurants/mono/",
+    "experiments/jan_20_restaurants_100_users_noise0_er": "restaurants/er/noise0/",
+    "experiments/jan_20_restaurants_100_users_noise0_greedy": "restaurants/greedy/noise0/",
+    "experiments/jan_20_restaurants_100_users_noise0_random": "restaurants/random/noise0/",
+    "experiments/jan_20_restaurants_100_users_noise0_thompson": "restaurants/thompson/noise0/",
+    "experiments/jan_19_restaurants_100_users_noise0_ucb": "restaurants/ucb/noise0/",
+
+    "experiments/jan_21_restaurants_100_users_noise0.25_er": "restaurants/er/noise0.25/",
+    "experiments/jan_21_restaurants_100_users_noise0.25_greedy": "restaurants/greedy/noise0.25/",
+    "experiments/jan_21_restaurants_100_users_noise0.25_random": "restaurants/random/noise0.25/",
+    "experiments/jan_21_restaurants_100_users_noise0.25_thompson": "restaurants/thompson/noise0.25/",
+    "experiments/jan_21_restaurants_100_users_noise0.25_ucb": "restaurants/ucb/noise0.25/",
+
+    "experiments/jan_21_restaurants_100_users_noise0.5_er": "restaurants/er/noise0.5/",
+    "experiments/jan_21_restaurants_100_users_noise0.5_greedy": "restaurants/greedy/noise0.5/",
+    "experiments/jan_21_restaurants_100_users_noise0.5_random": "restaurants/random/noise0.5/",
+    "experiments/jan_21_restaurants_100_users_noise0.5_thompson": "restaurants/thompson/noise0.5/",
+    "experiments/jan_21_restaurants_100_users_noise0.5_ucb": "restaurants/ucb/noise0.5/",
+
+    "experiments/jan_19_recipes_100_users_mono": "recipes/mono/",
+    "experiments/jan_20_recipes_100_users_noise0_er": "recipes/er/noise0/",
+    "experiments/jan_20_recipes_100_users_noise0_greedy": "recipes/greedy/noise0/",
+    "experiments/jan_20_recipes_100_users_noise0_random": "recipes/random/noise0/",
+    "experiments/jan_20_recipes_100_users_noise0_thompson": "recipes/thompson/noise0/",
+    "experiments/jan_19_recipes_100_users_noise0_ucb": "recipes/ucb/noise0/",
+
+    "experiments/jan_21_recipes_100_users_noise0.25_er": "recipes/er/noise0.25/",
+    "experiments/jan_21_recipes_100_users_noise0.25_greedy": "recipes/greedy/noise0.25/",
+    "experiments/jan_21_recipes_100_users_noise0.25_random": "recipes/random/noise0.25/",
+    "experiments/jan_21_recipes_100_users_noise0.25_thompson": "recipes/thompson/noise0.25/",
+    "experiments/jan_21_recipes_100_users_noise0.25_ucb": "recipes/ucb/noise0.25/",
+
+    "experiments/jan_21_recipes_100_users_noise0.5_er": "recipes/er/noise0.5/",
+    "experiments/jan_21_recipes_100_users_noise0.5_greedy": "recipes/greedy/noise0.5/",
+    "experiments/jan_21_recipes_100_users_noise0.5_random": "recipes/random/noise0.5/",
+    "experiments/jan_21_recipes_100_users_noise0.5_thompson": "recipes/thompson/noise0.5/",
+    "experiments/jan_21_recipes_100_users_noise0.5_ucb": "recipes/ucb/noise0.5/"
+}

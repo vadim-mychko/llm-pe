@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausage?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken cooked and flavored with lemon sauce\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with shrimp, onions, and scallops\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nCheese and olive appetizer made to look like an eyeball\nItalian salad made from romain lettuce, artichokes, and tomatoes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nCheese and vegetable soup with a beer broth\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nCheesecake made with cream cheese\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat assorted fruit dessert\nMozzarella dip recipe\nMozzarella sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef stew made with beef, carrots and potatoes\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef stew made with beef, carrots and potatoes\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "Meatballs made with ground beef and ground pork\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef stew made with beef, carrots and potatoes\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheesecake made with cream cheese",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCheese and vegetable soup with a beer broth\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball"
+        ]
+    }
+}

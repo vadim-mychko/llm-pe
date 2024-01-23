@@ -1,0 +1,58 @@
+{
+    "41": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like roasted almonds?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds coated with butter and salt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds in their natural form?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nRoast turkey with plum sauce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with vegetables and chicken\n****\nSoup made from onions, carrots, and celery ribs",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChopped French duck confit preserved by duck oil\n****\nSmoothie made from fruit juice and bananas",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "Roasted almonds\n****\nAlmonds coated with butter and salt\n****\nCheese with crackers\n****\nMozzarella dip recipe\n****\nLow fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow sugar applesauce cupcakes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Almonds coated with butter and salt\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nCheese with crackers\n****\nMilkshake made with fresh strawberries and ice cream\n****\nCheese and vegetable soup with a beer broth\n****\nLow fat assorted fruit dessert\n****\nSmoothie made from banana puree with milk\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts",
+            "Almonds coated with butter and salt\n****\nRoasted almonds\n****\nCheese with crackers\n****\nMilkshake made with fresh strawberries and ice cream\n****\nCheese and vegetable soup with a beer broth\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nCheese and olive appetizer made to look like an eyeball\n****\nLow fat assorted fruit dessert\n****\nCheese and vegetable soup with a beer broth",
+            "Almonds coated with butter and salt\n****\nRoasted almonds\n****\nCheese with crackers\n****\nMilkshake made with fresh strawberries and ice cream\n****\nCheese and vegetable soup with a beer broth\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nCheese and olive appetizer made to look like an eyeball\n****\nLow fat assorted fruit dessert\n****\nCheese and vegetable soup with a beer broth"
+        ]
+    }
+}

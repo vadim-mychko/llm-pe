@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spaghetti with meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spaghetti with mushrooms and alfredo sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spaghetti with mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spaghetti with alfredo sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spaghetti with chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nCheese and olive appetizer made to look like an eyeball\nItalian salad made from romain lettuce, artichokes, and tomatoes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nCheese with crackers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese and vegetable soup with a beer broth\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheese and vegetable soup with a beer broth\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese with crackers\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMeatballs made with ground beef and ground pork\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nMeatballs made with ground beef and ground pork\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMeatballs made with ground beef and ground pork\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese with crackers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth"
+        ]
+    }
+}

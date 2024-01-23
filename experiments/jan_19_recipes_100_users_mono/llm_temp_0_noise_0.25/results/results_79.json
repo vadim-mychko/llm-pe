@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like ground turkey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nCheese with crackers\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes",
+            "Meatballs made with ground beef and ground pork\n****\nCheese and vegetable soup with a beer broth\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with shrimp, onions, and scallops\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with vegetables and chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nLow fat diced baked or fried potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning",
+            "Meatballs made with ground beef and ground pork\n****\nMushy peas that are soft\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nHomemade soup with chicken, noodles, and spices\n****\nHot pot that is not spicy",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage\n****\nRoasted almonds\n****\nMushy peas that are soft",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast turkey with plum sauce\n****\nRoasted almonds\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage\n****\nSpanish rice with chicken breast",
+            "Meatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoast turkey with plum sauce\n****\nTurkey soup made with ground turkey that is low fat, high carb\n****\nTurkey chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nTurkey lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nTurkey breast cooked and flavored with lemon sauce"
+        ]
+    }
+}

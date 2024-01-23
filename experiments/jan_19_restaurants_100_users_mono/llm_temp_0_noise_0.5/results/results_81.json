@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for gelato?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Gran Caffe L'Aquila\nGreen Leafs & Bananas\nThe Juice Merchant\nThe Fresh Grocer - Progress Plaza\nThe Continental Restaurant and Martini Bar\nThe Cheesecake Factory\nThe Blue Duck\nThe Tavern Restaurant\nThe Milk House\nThe Grill  Smuckers",
+            "Gran Caffe L'Aquila\nOteri's Italian Bakery | North 5th St\nChestnut 7\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe El Bar\nThe Grill  Smuckers\nThe Blue Duck\nThe Cheesecake Factory\nThe Fresh Grocer - Progress Plaza",
+            "Gran Caffe L'Aquila\nOteri's Italian Bakery | North 5th St\nChestnut 7\nThe Cheesecake Factory\nThe Green Line Cafe\nSpread Bagelry\nKC's Pastries\nWawa\nAudrey Claire\nOishii Pok\u00e9",
+            "Gran Caffe L'Aquila\nOteri's Italian Bakery | North 5th St\nChestnut 7\nThe Cheesecake Factory\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant",
+            "Gran Caffe L'Aquila\nGreen Leafs & Bananas\nChestnut 7\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nThe Grill  Smuckers\nThe Milk House\nThe Blue Duck\nThe Fresh Grocer - Progress Plaza\nThe El Bar",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila\nRival Bros Coffee\nCafe L'Aube\nMcMenamin's Tavern\nLove & Honey Fried Chicken\nParc\nLucky's Last Chance\nPure Tacos\nOteri's Italian Bakery | North 5th St\nAudrey Claire",
+            "Gran Caffe L'Aquila \nOteri's Italian Bakery | North 5th St \nChestnut 7 \nThe Cheesecake Factory \nParc \nAudrey Claire \nThe Green Line Cafe \nSpread Bagelry \nKC's Pastries \nWawa"
+        ]
+    }
+}

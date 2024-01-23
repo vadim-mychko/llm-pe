@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in coffee or tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a coffee roastery or a cafe?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a deli?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a gelato shop?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Spread Bagelry\nLuhv Vegan Deli\nKC's Pastries\nThe Juice Merchant\nThe Fresh Grocer - Progress Plaza\nThe Green Line Cafe\nMugshots Coffeehouse\nThe Continental Restaurant and Martini Bar\nCafe L'Aube\nRival Bros Coffee",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Cafe L'Aube\nSpread Bagelry\nThe Green Line Cafe\nRival Bros Coffee\nGran Caffe L'Aquila\nKC's Pastries\nWawa\nOteri's Italian Bakery | North 5th St\nMcMenamin's Tavern\nCJ & Eck's",
+            "Cafe L'Aube\nRival Bros Coffee\nThe Green Line Cafe\nSpread Bagelry\nKC's Pastries\nGran Caffe L'Aquila\nWawa\nOteri's Italian Bakery | North 5th St\nMcMenamin's Tavern\nLove & Honey Fried Chicken",
+            "Cafe L'Aube\nSpread Bagelry\nRival Bros Coffee\nGran Caffe L'Aquila\nThe Green Line Cafe\nKC's Pastries\nWawa\nThe Fresh Grocer - Progress Plaza\nWawa\nThe Continental Restaurant and Martini Bar",
+            "Cafe L'Aube\nSpread Bagelry\nThe Green Line Cafe\nRival Bros Coffee\nGran Caffe L'Aquila\nKC's Pastries\nWawa\nOteri's Italian Bakery | North 5th St\nMcMenamin's Tavern\nCJ & Eck's",
+            "CJ & Eck's \nGran Caffe L'Aquila \nRival Bros Coffee \nCafe L'Aube \nMcMenamin's Tavern \nLove & Honey Fried Chicken \nParc \nLucky's Last Chance \nPure Tacos \nOteri's Italian Bakery | North 5th St",
+            "CJ & Eck's \nGran Caffe L'Aquila \nRival Bros Coffee \nCafe L'Aube \nMcMenamin's Tavern \nLove & Honey Fried Chicken \nParc \nLucky's Last Chance \nPure Tacos \nOteri's Italian Bakery | North 5th St",
+            "CJ & Eck's \nGran Caffe L'Aquila \nRival Bros Coffee \nCafe L'Aube \nMcMenamin's Tavern \nLove & Honey Fried Chicken \nParc \nLucky's Last Chance \nPure Tacos \nOteri's Italian Bakery | North 5th St"
+        ]
+    }
+}
