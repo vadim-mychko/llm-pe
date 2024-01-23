@@ -1,0 +1,58 @@
+{
+    "62": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like stir-fried tofu with vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked mozzarella cheese sticks with marinara sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon roasted with olive oil, chives, and tarragon leaves?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork chops glazed with milk and cooked without nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nGrilled salmon seasoned with salt and pepper\n****\nFried shrimp and scallops\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast turkey with plum sauce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nPoke of tofu, mushroom and tomatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nStir-fried tofu, noodles and vegetables Bento\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nSoup made with shrimp, onions, and scallops\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nRoasted almonds",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nMeatballs made with ground beef and ground pork\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nBeef stew made with beef, carrots and potatoes\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime",
+            "Meatballs made with ground beef and ground pork\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nStir-fried tofu, noodles and vegetables Bento",
+            "Meatballs made with ground beef and ground pork\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Meatballs made with ground beef and ground pork\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon fillets grilled in a pan with herbs and spices\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoasted almonds\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCheese with crackers\nStir-fried tofu, noodles and vegetables Bento",
+            "Meatballs made with ground beef and ground pork\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon fillets grilled in a pan with herbs and spices\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoasted almonds\nPork chops glazed with milk and cooked without nuts\nCheese with crackers\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nGrilled salmon seasoned with salt and pepper\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoasted almonds\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nCheese with crackers\n****\nMozzarella dip recipe"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCheese and olive appetizer made to look like an eyeball\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nCheesecake made with cream cheese\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nRoast turkey with plum sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nRoast turkey with plum sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChicken breasts stuffed with bacon and mozzarella\nCheese and olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nCheesecake made with cream cheese\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast turkey with plum sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nGarlic bread with cheddar, green onions, and mayonnaise\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nChopped French duck confit preserved by duck oil\n****\nGrilled salmon seasoned with salt and pepper\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth\nCheese with crackers\nCheese and vegetable soup with a beer broth"
+        ]
+    }
+}

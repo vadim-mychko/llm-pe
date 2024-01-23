@@ -1,0 +1,58 @@
+{
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like almonds coated with butter and salt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds in general?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheesecake made with cream cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nAssorted cheese soup with chicken\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheesecake made with cream cheese",
+            "Cheese with crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth\n****\nCheese and vegetable soup with a beer broth",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat shredded barbecued pork shoulder\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat creamy base with dill flavoring, eggs, and noodles\n****\nLow fat gluten-free, egg-free, dairy-free, nut-free fudge\n****\nLow fat digestion-friendly waffles",
+            "Almonds coated with butter and salt\n****\nRoasted almonds\n****\nCheese with crackers\n****\nMozzarella dip recipe\n****\nLow fat assorted fruit dessert\n****\nSmoothie made from banana puree with milk\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese with crackers\n****\nRoasted almonds\n****\nAlmonds coated with butter and salt\n****\nLow fat assorted fruit dessert\n****\nMilkshake made with fresh strawberries and ice cream\n****\nSmoothie made from banana puree with milk\n****\nLow fat coconut alcohol-free cocktail\n****\nCheese and vegetable soup with a beer broth\n****\nLow fat diced baked or fried potatoes",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese with crackers\n****\nRoasted almonds\n****\nMilkshake made with fresh strawberries and ice cream\n****\nLow fat assorted fruit dessert\n****\nSmoothie made from banana puree with milk\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nAlmonds coated with butter and salt\n****\nAlmonds coated with butter and salt",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nRoasted almonds\n****\nAlmonds coated with butter and salt\n****\nLow fat assorted fruit dessert\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat sweet potato fries made with cajun seasoning"
+        ]
+    }
+}

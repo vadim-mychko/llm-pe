@@ -49,16 +49,21 @@ class EvalManager:
 
         # Get metrics for evaluation
         metrics_config = self.config['metrics']['metrics']
-        
+
         if isinstance(metrics_config, dict):
             metrics = metrics_config
         elif metrics_config == 'supported_measures':
             metrics = pytrec_eval.supported_measures
         else:
             raise ValueError(f"Invalid metrics configuration: {metrics_config}")
-                   
+
+        #TODO: This is hard coded to avoid having to fix all configs
+        metrics = {'map': None, 'P_1': None}           
+
         # Get metrics to be averaged across queries
         self.metrics_to_avg = self.config['metrics']['to_avg']
+        # TODO: I'm adding precision to avoid having to add it to every config at this point
+        self.metrics_to_avg['P_1'] = None
 
         evaluator = pytrec_eval.RelevanceEvaluator(
             self.qrels, metrics)
@@ -193,8 +198,11 @@ class EvalManager:
                "Preprocess Query", "Preprocessor Name", "Entailment Model", "LLM Temperature",
                "Data Path", "User Path"] 
         for turn_num in range(self.config['dialogue_sim']['num_turns']):
-            metrics_w_turn = [[f"{metric}@{turn_num}", f"{metric}@{turn_num}_lb", f"{metric}@{turn_num}_ub"] for metric in list(self.metrics_to_avg)]
+            metrics_w_turn = [[f"{metric}@{turn_num}"] for metric in list(self.metrics_to_avg)]
+            metrics_ci_w_turn = [[f"{metric}@{turn_num}_lb", f"{metric}@{turn_num}_ub"] for metric in list(self.metrics_to_avg)]
             for metric_set in metrics_w_turn:
+                headers.extend(metric_set)
+            for metric_set in metrics_ci_w_turn:
                 headers.extend(metric_set)
 
         # Write to aggregated_results.csv
