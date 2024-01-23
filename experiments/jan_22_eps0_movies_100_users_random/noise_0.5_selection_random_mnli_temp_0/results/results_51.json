@@ -1,0 +1,4246 @@
+{
+    "51": {
+        "rec_items": [
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ],
+            [
+                "6",
+                "9",
+                "2",
+                "8",
+                "4",
+                "5",
+                "0",
+                "7",
+                "3",
+                "1"
+            ]
+        ],
+        "conv_hist": [
+            {
+                "query": "Do you enjoy movies about war?",
+                "response": "no",
+                "aspect_value": "war"
+            },
+            {
+                "query": "Do you enjoy movies with a focus on music?",
+                "response": "no",
+                "aspect_value": "music"
+            },
+            {
+                "query": "Do you have an interest in movies about trains?",
+                "response": "no",
+                "aspect_value": "train"
+            },
+            {
+                "query": "Are you interested in movies about photography?",
+                "response": "yes",
+                "aspect_value": "photography"
+            },
+            {
+                "query": "Do you enjoy movies with existential themes?",
+                "response": "yes",
+                "aspect_value": "existential"
+            },
+            {
+                "query": "Do you prefer movies with a romantic storyline?",
+                "response": "no",
+                "aspect_value": "romance"
+            },
+            {
+                "query": "Do you enjoy sci-fi movies?",
+                "response": "no",
+                "aspect_value": "sci-fi"
+            },
+            {
+                "query": "Do you enjoy parody films?",
+                "response": "yes",
+                "aspect_value": "parody"
+            },
+            {
+                "query": "Is the coming of age theme important to you?",
+                "response": "no",
+                "aspect_value": "coming of age"
+            },
+            {
+                "query": "Is crime a genre you enjoy?",
+                "response": "yes",
+                "aspect_value": "crime"
+            }
+        ],
+        "queried_items": [
+            "73",
+            "25",
+            "61",
+            "15",
+            "24",
+            "81",
+            "19",
+            "14",
+            "97",
+            "21"
+        ],
+        "belief_states": [
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            },
+            {
+                "0": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "1": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "2": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "3": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "4": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "5": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "6": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "7": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "8": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "9": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "10": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "11": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "12": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "13": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "14": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "15": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "16": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "17": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "18": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "19": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "20": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "21": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "22": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "23": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "24": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "25": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "26": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "27": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "28": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "29": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "30": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "31": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "32": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "33": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "34": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "35": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "36": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "37": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "38": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "39": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "40": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "41": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "42": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "43": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "44": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "45": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "46": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "47": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "48": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "49": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "50": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "51": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "52": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "53": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "54": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "55": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "56": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "57": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "58": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "59": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "60": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "61": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "62": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "63": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "64": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "65": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "66": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "67": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "68": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "69": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "70": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "71": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "72": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "73": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "74": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "75": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "76": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "77": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "78": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "79": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "80": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "81": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "82": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "83": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "84": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "85": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "86": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "87": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "88": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "89": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "90": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "91": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "92": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "93": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "94": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "95": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "96": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "97": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "98": {
+                    "alpha": NaN,
+                    "beta": NaN
+                },
+                "99": {
+                    "alpha": NaN,
+                    "beta": NaN
+                }
+            }
+        ],
+        "aspects": [
+            {
+                "aspect_value": "war"
+            },
+            {
+                "aspect_value": "music"
+            },
+            {
+                "aspect_value": "train"
+            },
+            {
+                "aspect_value": "photography"
+            },
+            {
+                "aspect_value": "existential"
+            },
+            {
+                "aspect_value": "romance"
+            },
+            {
+                "aspect_value": "sci-fi"
+            },
+            {
+                "aspect_value": "parody"
+            },
+            {
+                "aspect_value": "coming of age"
+            },
+            {
+                "aspect_value": "crime"
+            }
+        ],
+        "llm_time": 10.456741309724748,
+        "mnli_time": 34.81586769036949
+    }
+}
