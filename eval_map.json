@@ -18,12 +18,6 @@
     "experiments/jan_21_restaurants_100_users_noise0.5_thompson": "restaurants/thompson/noise0.5/",
     "experiments/jan_21_restaurants_100_users_noise0.5_ucb": "restaurants/ucb/noise0.5/",
 
-    "experiments/jan_22_eps0_restaurants_100_users_er": "restaurants/eps0/er/",
-    "experiments/jan_22_eps0_restaurants_100_users_greedy": "restaurants/eps0/greedy/",
-    "experiments/jan_22_eps0_restaurants_100_users_random": "restaurants/eps0/random/",
-    "experiments/jan_22_eps0_restaurants_100_users_thompson": "restaurants/eps0/thompson/",
-    "experiments/jan_22_eps0_restaurants_100_users_ucb": "restaurants/eps0/ucb/",
-
     "experiments/jan_19_recipes_100_users_mono": "recipes/mono/",
     "experiments/jan_20_recipes_100_users_noise0_er": "recipes/er/noise0/",
     "experiments/jan_20_recipes_100_users_noise0_greedy": "recipes/greedy/noise0/",
@@ -43,17 +37,15 @@
     "experiments/jan_21_recipes_100_users_noise0.5_thompson": "recipes/thompson/noise0.5/",
     "experiments/jan_21_recipes_100_users_noise0.5_ucb": "recipes/ucb/noise0.5/",
 
-    "experiments/jan_22_eps0_recipes_100_users_er": "recipes/eps0/er/",
-    "experiments/jan_22_eps0_recipes_100_users_greedy": "recipes/eps0/greedy/",
-    "experiments/jan_22_eps0_recipes_100_users_random": "recipes/eps0/random/",
-    "experiments/jan_22_eps0_recipes_100_users_thompson": "recipes/eps0/thompson/",
-    "experiments/jan_22_eps0_recipes_100_users_ucb": "recipes/eps0/ucb/",
-
     "experiments/jan_22_movies_no_history": "movies/no_history/",
     "experiments/jan_22_recipes_no_history": "recipes/no_history/",
     "experiments/jan_22_restaurants_no_history": "restaurants/no_history/",
 
     "experiments/jan_23_movies_10": "movies/10_items/",
     "experiments/jan_23_recipes_10": "recipes/10_items/",
-    "experiments/jan_23_restaurants_10": "restaurants/10_items/"
+    "experiments/jan_23_restaurants_10": "restaurants/10_items/",
+
+    "experiments/jan_23_movies_mnli0": "movies/mnli0/",
+    "experiments/jan_23_recipes_mnli0": "recipes/mnli0/",
+    "experiments/jan_23_restaurants_mnli0": "restaurants/mnli0/"
 }
