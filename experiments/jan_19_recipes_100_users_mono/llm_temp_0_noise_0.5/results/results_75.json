@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian options?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nSoup made with shrimp, onions, and scallops\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nHigh protein skillet with rice and vegetables\n****\nLow fat sweet potato fries made with cajun seasoning",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nRoast turkey with plum sauce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork chops glazed with milk and cooked without nuts\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with vegetables and chicken\n****\nSoup made from onions, carrots, and celery ribs",
+            "Baked spinach quiche containing bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with shrimp, onions, and scallops\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with vegetables and chicken\n****\nSoup made from onions, carrots, and celery ribs\n****\nCheese and vegetable soup with a beer broth\n****\nAssorted cheese soup with chicken\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nLow fat assorted fruit dessert",
+            "Beef stew made with beef, carrots and potatoes\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\nPolish sausage with fermented cabbage\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMeatballs made with ground beef and ground pork\nPork chops glazed with milk and cooked without nuts\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "Beef stew made with beef, carrots and potatoes\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\nPolish sausage with fermented cabbage\nMeatballs made with ground beef and ground pork\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nStir-fried tofu, noodles and vegetables Bento\nRoasted almonds",
+            "Beef stew made with beef, carrots and potatoes\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\nPolish sausage with fermented cabbage\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoasted almonds\nSpanish rice with chicken breast\nMeatballs made with ground beef and ground pork",
+            "Beef stew made with beef, carrots and potatoes\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\nPolish sausage with fermented cabbage\nRoasted almonds\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nGluten-free, egg-free, dairy-free, nut-free fudge"
+        ]
+    }
+}

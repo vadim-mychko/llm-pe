@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for gelato?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Greek cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Oishii Pok\u00e9\nCanton 11\nMisconduct Tavern\nMiga Korean BBQ & Sushi\nThe Continental Restaurant and Martini Bar\nDim Sum House\nMalbec Argentine Steakhouse\nPure Tacos\nThe Cheesecake Factory\nLuhv Vegan Deli",
+            "Oishii Pok\u00e9\nChestnut 7\nThe Cheesecake Factory\nLuhv Vegan Deli\nSister Muhammad's Kitchen\nTrolley Car Diner\nLucky's Last Chance\nMisconduct Tavern\nThe Tavern Restaurant\nThe Continental Restaurant and Martini Bar",
+            "Oteri's Italian Bakery | North 5th St\nGran Caffe L'Aquila\nChestnut 7\nCJ & Eck's\nThe Continental Restaurant and Martini Bar\nMacaroni's Restaurant\nCinCin Restaurant\nLuhv Vegan Deli\nMaison 208\nThe Tavern Restaurant",
+            "Oteri's Italian Bakery | North 5th St\nChestnut 7\nThe Continental Restaurant and Martini Bar\nThe Tavern Restaurant\nCinCin Restaurant\nLacroix Restaurant at The Rittenhouse\nMaison 208\nParc\nAudrey Claire\nMalbec Argentine Steakhouse",
+            "Oishii Pok\u00e9\nChestnut 7\nThe Cheesecake Factory\nAudrey Claire\nOteri's Italian Bakery | North 5th St\nPure Tacos\nParc\nGran Caffe L'Aquila\nLuhv Vegan Deli\nFounding Fathers Sports Bar & Grill",
+            "Oishii Pok\u00e9\nCanton 11\nKC's Pastries\nDim Sum House\nCJ & Eck's\nRistorante La Buca\nMacaroni's Restaurant\nMiga Korean BBQ & Sushi\nCastellino's\nMaison 208",
+            "Oishii Pok\u00e9\nCanton 11\nDim Sum House\nMiga Korean BBQ & Sushi\nSteve's Prince of Steaks\nKC's Pastries\nOteri's Italian Bakery | North 5th St\nCJ & Eck's\nRival Bros Coffee\nGran Caffe L'Aquila"
+        ]
+    }
+}

@@ -28,7 +28,6 @@ class DTPEModule(BasePEModule):
         self.belief = {}
         for id in self.items:
             self.belief[id] = {"alpha": 0.5, "beta": 0.5} # Set initial belief state
-        # TODO: Set up item selection method from config
 
         # These fields are only used to maintain information for the return_dict
         self.all_beliefs = [] # List containing full belief state at the end of each turn (i.e. after belief update)

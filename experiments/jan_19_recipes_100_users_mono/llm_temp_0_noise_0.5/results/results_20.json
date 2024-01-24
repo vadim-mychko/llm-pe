@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatballs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like stir-fried tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked tofu dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu in soup?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nMildly spicy chili recipe\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nDigestion-friendly waffles\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nCheese with crackers\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nBaked spinach quiche containing bacon",
+            "Poke of tofu, mushroom and tomatoes\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nLow fat assorted fruit dessert\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow fat coconut alcohol-free cocktail\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nLow sugar applesauce cupcakes\n****\nLow fat cottage cheese with fruit",
+            "Tofu, mushroom and tomato poke\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSmoothie made from banana puree with milk\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nEggless sauerkraut cake",
+            "Mushy peas that are soft\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Mushy peas that are soft\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nCheese with crackers\n****\nPolish sausage with fermented cabbage\n****\nDigestion-friendly waffles",
+            "Meatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese with crackers\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nCheese and vegetable soup with a beer broth\n****\nPolish sausage with fermented cabbage\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHot pot that is not spicy"
+        ]
+    }
+}

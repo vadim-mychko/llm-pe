@@ -1,0 +1,41 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect must not exceed 3 words. 
+
+Example 1:
+''''
+Item Description:
+****
+Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake
+****
+
+Output: cupcake
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+Thai curry with shrimp and coconut milk that can be dipped with bread
+****
+
+Output: Thai cuisine
+''''
+
+Example 3:
+''''
+Item Description:
+****
+Breakfast quiche with onions, swiss cheese, and bacon
+****
+
+Output: swiss cheese
+''''
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+
+Output: 
