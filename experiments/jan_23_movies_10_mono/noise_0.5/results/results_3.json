@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a psychological twist?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a horror movie with extreme violence and disturbing content?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie with a supernatural element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a horror movie with a suspenseful atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a creepy and atmospheric setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie with a visually appealing and enigmatic style?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a horror movie with a surreal and stylized atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie with a visually appealing and enigmatic style?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a horror movie with a visually appealing and enigmatic style?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nAbraham Lincoln: Vampire Hunter (2012)\nTomb Raider (2018)\nAugust Rush (2007)\nLaura (1944)\nPirates of the Caribbean: At World's End (2007)",
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nAbraham Lincoln: Vampire Hunter (2012)\nTomb Raider (2018)\nAugust Rush (2007)\nLaura (1944)\nPirates of the Caribbean: At World's End (2007)",
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nTomb Raider (2018)\nAugust Rush (2007)\nLaura (1944)\nAbraham Lincoln: Vampire Hunter (2012)\nPirates of the Caribbean: At World's End (2007)",
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nLaura (1944)\nTomb Raider (2018)\nAugust Rush (2007)\nAbraham Lincoln: Vampire Hunter (2012)\nPirates of the Caribbean: At World's End (2007)",
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nAugust Rush (2007)\nLaura (1944)\nAbraham Lincoln: Vampire Hunter (2012)\nTomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)",
+            "Martyrs (2008)\nBlair Witch Project, The (1999)\nSanta Sangre (1989)\nLast Temptation of Christ, The (1988)\nPiano, The (1993)\nAbraham Lincoln: Vampire Hunter (2012)\nLaura (1944)\nTomb Raider (2018)\nAugust Rush (2007)\nPirates of the Caribbean: At World's End (2007)",
+            "Santa Sangre (1989)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nTomb Raider (2018)\nAugust Rush (2007)\nLaura (1944)\nPirates of the Caribbean: At World's End (2007)",
+            "Blair Witch Project, The (1999)\nSanta Sangre (1989)\nMartyrs (2008)\nLast Temptation of Christ, The (1988)\nTomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nAugust Rush (2007)\nAbraham Lincoln: Vampire Hunter (2012)\nPiano, The (1993)",
+            "Santa Sangre (1989)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nTomb Raider (2018)\nAugust Rush (2007)\nLaura (1944)\nPirates of the Caribbean: At World's End (2007)",
+            "Santa Sangre (1989)\nBlair Witch Project, The (1999)\nMartyrs (2008)\nPiano, The (1993)\nLast Temptation of Christ, The (1988)\nAugust Rush (2007)\nAbraham Lincoln: Vampire Hunter (2012)\nLaura (1944)\nTomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)"
+        ]
+    }
+}
