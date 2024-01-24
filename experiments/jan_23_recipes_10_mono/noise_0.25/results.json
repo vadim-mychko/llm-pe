@@ -1,0 +1,562 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cabbage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "2-ingredient yogurt from scratch\nPoke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nQueso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nQueso made from melted cheese and chili peppers\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes",
+            "2-ingredient yogurt from scratch\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nPoke of tofu, mushroom and tomatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon\nSoup made with cabbage, carrots, potatoes, and onions",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nBeef stew made with beef, carrots and potatoes \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon"
+        ]
+    },
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with sausage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with apples?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\n2-ingredient yogurt from scratch\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon"
+        ]
+    },
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cabbage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "2-ingredient yogurt from scratch\nPoke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nQueso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nQueso made from melted cheese and chili peppers\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes",
+            "2-ingredient yogurt from scratch\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nPoke of tofu, mushroom and tomatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon\n****\nQueso made from melted cheese and chili peppers",
+            "2-ingredient yogurt from scratch\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon\nSoup made with cabbage, carrots, potatoes, and onions",
+            "2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nHigh protein skillet with rice and vegetables \\n\nBeef stew made with beef, carrots and potatoes \\n\nGrilled salmon seasoned with salt and pepper \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon \\n\nSoup made with cabbage, carrots, potatoes, and onions"
+        ]
+    },
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tomatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "Large portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nBeef stew made with beef, carrots and potatoes",
+            "Large portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Queso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nBeef stew made with beef, carrots and potatoes",
+            "Queso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nHigh protein skillet with rice and vegetables\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon",
+            "Queso made from melted cheese and chili peppers\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Queso made from melted cheese and chili peppers\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon",
+            "Queso made from melted cheese and chili peppers\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\n2-ingredient yogurt from scratch\n****\nLow fat baked breakfast pie made with sausage (pork) and apples"
+        ]
+    },
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nQueso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nPoke of tofu, mushroom and tomatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nBeef stew made with beef, carrots and potatoes",
+            "Beef stew made with beef, carrots and potatoes \\n\nLarge portion fries with gravy and bacon \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nLarge portion fries with gravy and bacon \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\n2-ingredient yogurt from scratch \\n\nQueso made from melted cheese and chili peppers",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nBeef stew made with beef, carrots and potatoes",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nLarge portion fries with gravy and bacon",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nBeef stew made with beef, carrots and potatoes"
+        ]
+    },
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausage?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLarge portion fries with gravy and bacon \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nGrilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nQueso made from melted cheese and chili peppers \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nGrilled salmon seasoned with salt and pepper \\n\nLarge portion fries with gravy and bacon \\n\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\n2-ingredient yogurt from scratch",
+            "Beef stew made with beef, carrots and potatoes \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nLarge portion fries with gravy and bacon \\n\n2-ingredient yogurt from scratch"
+        ]
+    },
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy non-vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "Large portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "Queso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPoke of tofu, mushroom and tomatoes\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\n2-ingredient yogurt from scratch\nLow fat baked breakfast pie made with sausage (pork) and apples\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nBeef stew made with beef, carrots and potatoes \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nBeef stew made with beef, carrots and potatoes \\n\nLarge portion fries with gravy and bacon",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nLarge portion fries with gravy and bacon",
+            "Low fat baked breakfast pie made with sausage (pork) and apples\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nLarge portion fries with gravy and bacon"
+        ]
+    },
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cabbage?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Beef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nGrilled salmon seasoned with salt and pepper \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nLarge portion fries with gravy and bacon",
+            "High protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nGrilled salmon seasoned with salt and pepper\n****\n2-ingredient yogurt from scratch\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLarge portion fries with gravy and bacon",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\n2-ingredient yogurt from scratch\n****\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nBeef stew made with beef, carrots and potatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\n2-ingredient yogurt from scratch\n****\nLarge portion fries with gravy and bacon\n****\nSoup made with cabbage, carrots, potatoes, and onions"
+        ]
+    },
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes with mushrooms?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes with tomatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with cabbage?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with potatoes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes",
+            "2-ingredient yogurt from scratch\nPoke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nQueso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "2-ingredient yogurt from scratch\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nQueso made from melted cheese and chili peppers\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nLarge portion fries with gravy and bacon",
+            "Poke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nLarge portion fries with gravy and bacon",
+            "Poke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Poke of tofu, mushroom and tomatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nBeef stew made with beef, carrots and potatoes \\n\nPoke of tofu, mushroom and tomatoes \\n\n2-ingredient yogurt from scratch \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon \\n\nQueso made from melted cheese and chili peppers",
+            "Grilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "High protein skillet with rice and vegetables\n****\n2-ingredient yogurt from scratch\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon"
+        ]
+    },
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like yogurt?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cabbage?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper \\n\nPoke of tofu, mushroom and tomatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nBeef stew made with beef, carrots and potatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\n2-ingredient yogurt from scratch \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nBeef stew made with beef, carrots and potatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nBeef stew made with beef, carrots and potatoes",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nBeef stew made with beef, carrots and potatoes \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nBeef stew made with beef, carrots and potatoes \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\n2-ingredient yogurt from scratch \\n\nBeef stew made with beef, carrots and potatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nBeef stew made with beef, carrots and potatoes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nBeef stew made with beef, carrots and potatoes \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nHigh protein skillet with rice and vegetables \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nBeef stew made with beef, carrots and potatoes \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLarge portion fries with gravy and bacon",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nGrilled salmon seasoned with salt and pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nHigh protein skillet with rice and vegetables \\n\nPoke of tofu, mushroom and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nLarge portion fries with gravy and bacon \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples"
+        ]
+    }
+}
