@@ -1,4 +1,23 @@
 {
+    "experiments/jan_19_movies_100_users_mono": "movies/mono/",
+    "experiments/jan_19_movies_100_users_noise0_er": "movies/er/noise0/",
+    "experiments/jan_19_movies_100_users_noise0_greedy": "movies/greedy/noise0/",
+    "experiments/jan_19_movies_100_users_noise0_random": "movies/random/noise0/",
+    "experiments/jan_19_movies_100_users_noise0_thompson": "movies/thompson/noise0/",
+    "experiments/jan_19_movies_100_users_noise0_ucb": "movies/ucb/noise0/",
+
+    "experiments/jan_21_movies_100_users_noise0.25_er": "movies/er/noise0.25/",
+    "experiments/jan_21_movies_100_users_noise0.25_greedy": "movies/greedy/noise0.25/",
+    "experiments/jan_21_movies_100_users_noise0.25_random": "movies/random/noise0.25/",
+    "experiments/jan_21_movies_100_users_noise0.25_thompson": "movies/thompson/noise0.25/",
+    "experiments/jan_21_movies_100_users_noise0.25_ucb": "movies/ucb/noise0.25/",
+
+    "experiments/jan_21_movies_100_users_noise0.5_er": "movies/er/noise0.5/",
+    "experiments/jan_21_movies_100_users_noise0.5_greedy": "movies/greedy/noise0.5/",
+    "experiments/jan_21_movies_100_users_noise0.5_random": "movies/random/noise0.5/",
+    "experiments/jan_21_movies_100_users_noise0.5_thompson": "movies/thompson/noise0.5/",
+    "experiments/jan_21_movies_100_users_noise0.5_ucb": "movies/ucb/noise0.5/",
+
     "experiments/jan_19_restaurants_100_users_mono": "restaurants/mono/",
     "experiments/jan_20_restaurants_100_users_noise0_er": "restaurants/er/noise0/",
     "experiments/jan_20_restaurants_100_users_noise0_greedy": "restaurants/greedy/noise0/",
@@ -44,6 +63,10 @@
     "experiments/jan_23_movies_10": "movies/10_items/",
     "experiments/jan_23_recipes_10": "recipes/10_items/",
     "experiments/jan_23_restaurants_10": "restaurants/10_items/",
+
+    "experiments/jan_23_movies_10_mono": "movies/10_items/mono/",
+    "experiments/jan_23_recipes_10_mono": "recipes/10_items/mono/",
+    "experiments/jan_23_restaurants_10_mono": "restaurants/10_items/mono/",
 
     "experiments/jan_23_movies_mnli0": "movies/mnli0/",
     "experiments/jan_23_recipes_mnli0": "recipes/mnli0/",
