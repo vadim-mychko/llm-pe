@@ -1,0 +1,52 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Given a specific aspect which differentiates two items and their item description, generate a "yes or no" query to determine a user's preferences about that aspect.
+
+Example 1:
+''''
+Item Descriptions:
+****
+ Movie Title: Monsters, Inc. (2001) \n Genres: Adventure, Animation, Children, Comedy, Fantasy \n Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy
+****
+ Movie Title: Social Network, The (2010) \n Genres: Drama \n Tags: computers, true story, Jesse Eisenberg, based on true story, hacking, college, dark comedy, internet, David Fincher, business, software developers, loneliness, nerds, based on a true story, witty, complex characters, facebook, friendship, social network, Justin Timberlake
+****
+
+Aspect:
+****
+children
+****
+
+Output: Are you looking for a children's movie?
+''''
+
+Example 2:
+''''
+Item Descriptions:
+****
+Thai curry with shrimp and coconut milk that can be dipped with bread
+****
+Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake
+****
+
+Aspect:
+****
+shrimp
+****
+
+Output: Do you like shrimp?
+''''
+
+Input:
+''''
+Item Descriptions:
+****
+{% for desc in item_desc %}
+{{ desc }}
+{% endfor %}
+****
+
+Aspect:
+****
+{{ aspect_dict['aspect_value'] }}
+****
+
+Output: 
