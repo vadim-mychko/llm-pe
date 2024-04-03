@@ -45,6 +45,7 @@ class DTPEModule(BasePEModule):
         'entropy_reduction': self.item_selection_entropy_reduction,
         'ucb': self.item_selection_ucb,
         'thompson': self.item_selection_thompson,
+        'best_and_most_uncertain': self.item_selection_top_and_most_uncertain,
         }
         
         self.ASPECT_EXTRACTION_MAP = {
@@ -104,7 +105,8 @@ class DTPEModule(BasePEModule):
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
         self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
-        top_item_id = item_selection_method()
+        top_item_id_list = item_selection_method() # should be single item list
+        top_item_id = top_item_id_list[0]
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
         self.logger.debug(f"itemId: {top_item_id} \n item description: {item_desc}")
@@ -140,7 +142,6 @@ class DTPEModule(BasePEModule):
         # If it's the first turn, always use random
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
-        import pdb; pdb.set_trace()
         self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
         top_item_ids = item_selection_method(n=2)
         self.queried_items.append(top_item_ids)
@@ -171,7 +172,6 @@ class DTPEModule(BasePEModule):
     Generates a query based on the current utility values and the provided set of items.
     '''
     def get_query(self):
-        
         # NOTE: Hard coding this for now
         start = timeit.default_timer()
         if (self.config['pe']['setup'] == "pairwise"):
@@ -265,21 +265,31 @@ class DTPEModule(BasePEModule):
             if rand_draw < eps:
                 top_id = np.random.choice(list(self.items))
                 return top_id
-        top_id = heapq.nlargest(n, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
-        return top_id[0] # Return first element since top_id will be a single item list
+        top_ids = heapq.nlargest(n, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
+        return top_ids # Return item ids as list
 
     # Select the item_id at random
     def item_selection_random(self, n=1):
-        top_id = np.random.choice(list(self.items), n)
-        return top_id
+        top_ids = np.random.choice(list(self.items), n).tolist()
+        return top_ids
 
     # Select the item_id with the highest variance in utility
-    def item_selection_entropy_reduction(self):
-        top_id = max(self.items, key=lambda i: (
+    def item_selection_entropy_reduction(self, n=1):
+        top_id = heapq.nlargest(n, self.items, key=lambda i: (
             (self.belief[i]['alpha'] * self.belief[i]['beta'] * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1)) / 
             (math.pow(self.belief[i]['alpha'] + self.belief[i]['beta'], 2) * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1))
         ))
         return top_id
+    
+    def item_selection_top_and_most_uncertain(self, n=2):
+        top_item = self.item_selection_greedy(n=2) # Can probs just do 1 item
+        most_uncertain_2 = self.item_selection_entropy_reduction(n=2)
+        ret_list = [top_item[0]] # List of items to return
+        if (top_item[0] == most_uncertain_2[0]): # make sure we don't have duplicate items
+            ret_list.append(most_uncertain_2[1])
+        else:
+            ret_list.append(most_uncertain_2[0])
+        return ret_list
     
     def item_selection_ucb(self):
         top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
