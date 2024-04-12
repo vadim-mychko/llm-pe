@@ -87,7 +87,7 @@ class ExperimentManager():
 
         # PE Module
         pe_module_class = pe_modules.PE_MODULE_CLASSES[config['pe']['pe_module_name']]
-        pe_module = pe_module_class(config, item_dataloader)
+        pe_module = pe_module_class(config, item_dataloader, llm)
 
         # Create a results directory if it doesn't already exist
         Path(os.path.join(dir_path, "results")).mkdir(parents=True, exist_ok=True)
