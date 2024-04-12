@@ -45,6 +45,7 @@ class DTPEModule(BasePEModule):
         'entropy_reduction': self.item_selection_entropy_reduction,
         'ucb': self.item_selection_ucb,
         'thompson': self.item_selection_thompson,
+        'best_and_most_uncertain': self.item_selection_top_and_most_uncertain,
         }
         
         self.ASPECT_EXTRACTION_MAP = {
@@ -93,20 +94,19 @@ class DTPEModule(BasePEModule):
         aspect_dict = {"aspect_value": aspect_val}
 
         return aspect_dict
-
+    
     '''
-    Generates a query based on the current utility values and the provided set of items.
+    Selects one items and generates a prompt for the language model based on that item
     '''
-    def get_query(self):
- 
-        
+    def get_one_item_query(self):
         # Run item selection to get the item to generate from
         item_selection_method = self.ITEM_SELECTION_MAP[self.config['query']['item_selection']]
         # If it's the first turn, always use random
         if (len(self.queried_items) == 0): 
             item_selection_method = self.item_selection_random
         self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
-        top_item_id = item_selection_method()
+        top_item_id_list = item_selection_method() # should be single item list
+        top_item_id = top_item_id_list[0]
         self.queried_items.append(top_item_id)
         item_desc = self.items[top_item_id]['description'] 
         self.logger.debug(f"itemId: {top_item_id} \n item description: {item_desc}")
@@ -131,11 +131,59 @@ class DTPEModule(BasePEModule):
         }
         prompt = prompt_template.render(context)
 
+        return prompt
+    
+    '''
+    Selects two items and generates a prompt for the language model based on those items
+    '''
+    def get_two_item_query(self):
+        # Run item selection to get the item to generate from
+        item_selection_method = self.ITEM_SELECTION_MAP[self.config['query']['item_selection']]
+        # If it's the first turn, always use random
+        if (len(self.queried_items) == 0): 
+            item_selection_method = self.item_selection_random
+        self.logger.debug(f"Selected Item with {item_selection_method.__name__}")
+        top_item_ids = item_selection_method(n=2)
+        self.queried_items.append(top_item_ids)
+        item_descs = [self.items[top_item_id]['description'] for top_item_id in top_item_ids]
+        self.logger.debug(f"itemIds: {top_item_ids} \n item descriptions: {item_descs}")
+
+        # Get the aspect
+        aspect_extraction_method = self.ASPECT_EXTRACTION_MAP[self.config['query']['aspect_extraction']]
+
+        aspect_dict = aspect_extraction_method(item_descs)
+        
+        self.aspects.append(aspect_dict)
+
+        # Generate query from aspect and item_desc
+        template_file = self.config['query']['query_gen_template']
+        prompt_template = self.jinja_env.get_template(template_file)
+
+        context = {
+            "item_desc": item_descs, # Item description for the given item
+            "aspect_dict": aspect_dict
+        }
+        prompt = prompt_template.render(context)
+
+        return prompt
+
+
+    '''
+    Generates a query based on the current utility values and the provided set of items.
+    '''
+    def get_query(self):
+        # NOTE: Hard coding this for now
+        start = timeit.default_timer()
+        if (self.config['pe']['setup'] == "pairwise"):
+            prompt = self.get_two_item_query()
+        else:
+            prompt = self.get_one_item_query()
+
         self.logger.debug(prompt)
 
         user_query = self.llm.make_request(prompt, temperature=self.config['llm']['temperature'])
         stop = timeit.default_timer()
-        self.total_llm_time += (stop - start)
+        # self.total_llm_time += (stop - start)
         self.logger.debug(user_query)
         return user_query
     
@@ -209,7 +257,7 @@ class DTPEModule(BasePEModule):
     method returns the item_id on which to query, based on the selection method.
     '''
     # Select the item_id with the highest expected utility.
-    def item_selection_greedy(self):
+    def item_selection_greedy(self, n=1):
         # Check for epsilon parameter
         if 'epsilon' in self.config['query']: # If no epsilon is provided, just do fully greedy
             eps = self.config['query']['epsilon']
@@ -217,21 +265,31 @@ class DTPEModule(BasePEModule):
             if rand_draw < eps:
                 top_id = np.random.choice(list(self.items))
                 return top_id
-        top_id = heapq.nlargest(1, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
-        return top_id[0] # Return first element since top_id will be a single item list
+        top_ids = heapq.nlargest(n, self.items, key=lambda i: (self.belief[i]['alpha'] / (self.belief[i]['alpha'] + self.belief[i]['beta'])))
+        return top_ids # Return item ids as list
 
     # Select the item_id at random
-    def item_selection_random(self):
-        top_id = np.random.choice(list(self.items))
-        return top_id
+    def item_selection_random(self, n=1):
+        top_ids = np.random.choice(list(self.items), n).tolist()
+        return top_ids
 
     # Select the item_id with the highest variance in utility
-    def item_selection_entropy_reduction(self):
-        top_id = max(self.items, key=lambda i: (
+    def item_selection_entropy_reduction(self, n=1):
+        top_id = heapq.nlargest(n, self.items, key=lambda i: (
             (self.belief[i]['alpha'] * self.belief[i]['beta'] * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1)) / 
             (math.pow(self.belief[i]['alpha'] + self.belief[i]['beta'], 2) * (self.belief[i]['alpha'] + self.belief[i]['beta'] + 1))
         ))
         return top_id
+    
+    def item_selection_top_and_most_uncertain(self, n=2):
+        top_item = self.item_selection_greedy(n=2) # Can probs just do 1 item
+        most_uncertain_2 = self.item_selection_entropy_reduction(n=2)
+        ret_list = [top_item[0]] # List of items to return
+        if (top_item[0] == most_uncertain_2[0]): # make sure we don't have duplicate items
+            ret_list.append(most_uncertain_2[1])
+        else:
+            ret_list.append(most_uncertain_2[0])
+        return ret_list
     
     def item_selection_ucb(self):
         top_id = max(self.items, key=lambda i: beta.ppf(0.838, self.belief[i]['alpha'], self.belief[i]['beta']))
