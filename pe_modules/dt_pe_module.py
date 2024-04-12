@@ -14,8 +14,8 @@ a combined decision theory and LLM approach.
 '''
 class DTPEModule(BasePEModule):
 
-    def __init__(self, config, dataloader):
-        super().__init__(config, dataloader)
+    def __init__(self, config, dataloader,llm):
+        super().__init__(config, dataloader,llm)
 
         item_scorer_class = item_scorers.ITEM_SCORER_CLASSES[config['item_scoring']['item_scorer_name']]
         self.item_scorer = item_scorer_class(config)
