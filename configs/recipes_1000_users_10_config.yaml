@@ -34,7 +34,7 @@ item_scoring:
   mnli_model: "facebook/bart-large-mnli"
   preprocess_query: True
   history_preprocessor_name: "AspectValuePreprocessor" # options "AspectKVPreprocessor" "HistoryConcatenator"
-  mnli_temp: 100
+  mnli_temp: 1
   batch_size: 100
 # Beginning of Evaluation Management Parameters #######################
 ci:
