@@ -24,7 +24,7 @@ llm:
   model: gpt-3.5-turbo-0613
   temperature: 0
   template_dir: ./templates
-  user_sim_template_file: user_simulation_restaurants.jinja2
+  user_sim_template_file: user_simulation_recipe.jinja2
 logging:
   disabled: false
   level: DEBUG
@@ -43,6 +43,6 @@ pe:
   setup: pointwise
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_restaurants_3FS_3words.jinja2
+  aspect_gen_template: pointwise_aspect_v_generation_recipes_3FS_3words.jinja2
   item_selection: random
   query_gen_template: pointwise_query_generation_v.jinja2
