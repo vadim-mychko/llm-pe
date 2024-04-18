@@ -307,8 +307,11 @@ class DTPEModule(BasePEModule):
             samples[item_id] = np.random.beta(item_belief['alpha'], item_belief['beta'])
         top_id = max(samples, key=samples.get)
         return top_id
-        
-        
+    
+    def item_selection_ucb_temporal(self):
+        t = len(self.queried_items) + 1 # add one to avoid division by zero
+        top_id = max(self.items, key=lambda i: beta.ppf((1-(1/t)), self.belief[i]['alpha'], self.belief[i]['beta']))
+        return str(top_id)
     
     def get_last_results(self):
         results = {"rec_items": self.recs, 

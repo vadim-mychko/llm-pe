@@ -32,6 +32,7 @@ metrics:
   metrics: supported_measures
   to_avg:
     map: null
+  map_size: 1000
 paths:
   eval_results_master_path: experiments/apr_17_recipes_1000_items_10_users/eval_results.csv
   experiment_dir: experiments/apr_17_recipes_1000_items_10_users

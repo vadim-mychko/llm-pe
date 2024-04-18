@@ -36,8 +36,8 @@ mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2
 paths:
-  eval_results_master_path: experiments/apr_12_movies_1000_items_10_users/eval_results.csv
-  experiment_dir: experiments/apr_12_movies_1000_items_10_users
+  eval_results_master_path: experiments/apr_12_movies_bad_temp/eval_results.csv
+  experiment_dir: experiments/apr_12_movies_bad_temp
 pe:
   num_recs: 10
   pe_module_name: DT

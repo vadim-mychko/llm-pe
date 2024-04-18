@@ -32,6 +32,7 @@ metrics:
   metrics: supported_measures
   to_avg:
     map: null
+  map_size: 1000
 mono_llm:
   query_gen_template: mono_llm_query_gen.jinja2
   top_items_template: mono_llm_top_items.jinja2

@@ -213,7 +213,11 @@ class EvalManager:
 
         # Write to aggregated_results.csv
         df = pd.DataFrame(all_rows, columns=headers)
-        df.to_csv(os.path.join(self.experiments_dir, 'aggregated_results.csv'), index=False)
+        if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+            save_file = 'aggregated_results_1000.csv'
+        else:
+            save_file = 'aggregated_results.csv'
+        df.to_csv(os.path.join(self.experiments_dir, save_file), index=False)
 
     
     def get_row(self, mean_eval_results_list, ci_results_list, exp_dir):
