@@ -103,7 +103,10 @@ class EvalManager:
         ci_results_list = []
         mean_eval_results_list = []
         for turn in range(self.config['dialogue_sim']['num_turns']):
-            exp_results_path = os.path.join(exp_dir, f"trec_results_turn{turn}.txt")
+            if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+                exp_results_path = os.path.join(exp_dir, f"trec_results_1000_turn{turn}.txt")
+            else:
+                exp_results_path = os.path.join(exp_dir, f"trec_results_turn{turn}.txt")
 
             # Check if TREC file exists before processing
             if not os.path.isfile(exp_results_path):
@@ -114,7 +117,10 @@ class EvalManager:
 
             per_query_eval_results = evaluator.evaluate(results)
 
-            output_file = os.path.join(exp_dir, 'per_query_eval_results_turn%d.json' % turn)
+            if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+                output_file = os.path.join(exp_dir, 'per_query_eval_results_1000_turn%d.json' % turn)
+            else:
+                output_file = os.path.join(exp_dir, 'per_query_eval_results_turn%d.json' % turn)
 
             # Write the per-query results to the output file
             with open(output_file, "w") as f:
@@ -245,18 +251,35 @@ class EvalManager:
         # Load in json results data
         with open(folder_path + "/results.json") as json_data:
             results = json.load(json_data)
-        # Convert to QREL format
-        for turn_num in range(self.config['dialogue_sim']['num_turns']):
-            qrel_rows = []
-            for user_id, user_data in results.items():
-                # Create an entry for each item recommended at this turn for this
-                for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
-                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
-                    qrel_rows.append(item_string)
-            # Print to file
-            with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
-                for row in qrel_rows:
-                    out_file.write(row)
+        # import pdb; pdb.set_trace()
+        # Create more TREC files if 1000 items
+        if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+            # Convert to QREL format
+            for turn_num in range(self.config['dialogue_sim']['num_turns']):
+                qrel_rows = []
+                for user_id, user_data in results.items():
+                    # Create an entry for all items
+                    sorted_beliefs = [k for k, v in sorted(user_data['belief_states'][turn_num].items(), key=lambda item: (item[1]['alpha'] / (item[1]['alpha'] + item[1]['beta'])) , reverse=True)]
+                    for item_rank, item_id in enumerate(sorted_beliefs):
+                        item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(sorted_beliefs) - item_rank))
+                        qrel_rows.append(item_string)
+                # Print to file
+                with open(folder_path + f"/trec_results_1000_turn{turn_num}.txt", "w") as out_file:
+                    for row in qrel_rows:
+                        out_file.write(row)
+        else:
+            # Convert to QREL format
+            for turn_num in range(self.config['dialogue_sim']['num_turns']):
+                qrel_rows = []
+                for user_id, user_data in results.items():
+                    # Create an entry for each item recommended at this turn for this
+                    for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
+                        item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
+                        qrel_rows.append(item_string)
+                # Print to file
+                with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
+                    for row in qrel_rows:
+                        out_file.write(row)
 
     def json_to_trec_results_monollm(self, folder_path):
         # Load in json results data
