@@ -28,7 +28,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
-  log_file: experiments/apr_18_restaurants_1000_items_10_users_2/selection_ucb/output.log
+  log_file: experiments/apr_18_recipes_1000_items_10_users_2/selection_ucb/output.log
 metrics:
   metrics: supported_measures
   to_avg:

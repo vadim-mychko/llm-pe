@@ -28,7 +28,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
-  log_file: experiments/apr_18_restaurants_1000_items_10_users_2/selection_entropy_reduction/output.log
+  log_file: experiments/apr_18_recipes_1000_items_10_users_2/selection_greedy/output.log
 metrics:
   metrics: supported_measures
   to_avg:
@@ -44,5 +44,5 @@ pe:
 query:
   aspect_extraction: val
   aspect_gen_template: pointwise_aspect_v_generation_recipes_3FS_3words.jinja2
-  item_selection: entropy_reduction
+  item_selection: greedy
   query_gen_template: pointwise_query_generation_v.jinja2
