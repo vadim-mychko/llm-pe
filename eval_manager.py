@@ -58,12 +58,13 @@ class EvalManager:
             raise ValueError(f"Invalid metrics configuration: {metrics_config}")
 
         #TODO: This is hard coded to avoid having to fix all configs
-        metrics = {'map': None, 'P_1': None}           
+        metrics = {'map': None, 'P_1': None, 'recall_10': None}           
 
         # Get metrics to be averaged across queries
         self.metrics_to_avg = self.config['metrics']['to_avg']
         # TODO: I'm adding precision to avoid having to add it to every config at this point
         self.metrics_to_avg['P_1'] = None
+        self.metrics_to_avg['recall_10'] = None
 
         evaluator = pytrec_eval.RelevanceEvaluator(
             self.qrels, metrics)
