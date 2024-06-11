@@ -174,10 +174,11 @@ class DTPEModule(BasePEModule):
     def get_query(self):
         # NOTE: Hard coding this for now
         start = timeit.default_timer()
-        if (self.config['pe']['setup'] == "pairwise"):
-            prompt = self.get_two_item_query()
-        else:
-            prompt = self.get_one_item_query()
+        #ANTON JUN 11: reverted to single query version
+        #if (self.config['pe']['setup'] == "pairwise"):
+        #    prompt = self.get_two_item_query()
+        #else:
+        prompt = self.get_one_item_query()
 
         self.logger.debug(prompt)
 

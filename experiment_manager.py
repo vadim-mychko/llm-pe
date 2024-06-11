@@ -150,4 +150,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     experiment_manager.run_experiments(args.experiment_dir)
-    #experiment_manager.run_experiments("/Users/david/Documents/Research2324/Sanner/llm-pe/experiments/dt_methods")
