@@ -230,7 +230,12 @@ class DTPEModule(BasePEModule):
 
             self.logger.debug("Like probs for item %s: %f, updated alpha = %f and beta = %f" % (item_id, like_probs[item_id], self.belief[item_id]['alpha'], self.belief[item_id]['beta']))
 
-        self.all_beliefs.append(self.belief)
+        # Deep copy belief state dict
+        belief_copy = {}
+        for key, belief in self.belief.items():
+            belief_dict = {'alpha': belief['alpha'], 'beta': belief['beta']}
+            belief_copy[key] = belief_dict
+        self.all_beliefs.append(belief_copy)
 
 
         # Append the top k items to self.recs for return_dict
@@ -303,8 +308,11 @@ class DTPEModule(BasePEModule):
             samples[item_id] = np.random.beta(item_belief['alpha'], item_belief['beta'])
         top_id = max(samples, key=samples.get)
         return top_id
-        
-        
+    
+    def item_selection_ucb_temporal(self):
+        t = len(self.queried_items) + 1 # add one to avoid division by zero
+        top_id = max(self.items, key=lambda i: beta.ppf((1-(1/t)), self.belief[i]['alpha'], self.belief[i]['beta']))
+        return str(top_id)
     
     def get_last_results(self):
         results = {"rec_items": self.recs, 

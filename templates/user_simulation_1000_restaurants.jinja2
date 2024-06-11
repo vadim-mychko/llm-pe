@@ -1,0 +1,47 @@
+{# templates/user_simulation.jinja2 #}
+You are a user who is being asked yes or no queries to elicit your preferences. You must reply yes or no to the query based on the description of your preferred item.
+
+Example 1:
+''''
+Item description:
+****
+ name: The Libertine Liquor Bar \n categories: Restaurants, Lounges, Bars, American (New), Nightlife
+****
+
+Query:
+****
+Are you looking for a bar?
+****
+
+Response: Yes
+''''
+
+Example 2:
+''''
+Item description:
+****
+ name: Olive Garden Italian Restaurant \n categories: Restaurants, Wine Bars, Salad, Italian, Nightlife, Soup, Bars
+****
+
+Query:
+****
+Do you like Chinese food?
+****
+
+Response: No
+''''
+
+Input:
+''''
+Item description:
+****
+{% for desc in item_descs %}
+{{ desc }}
+****
+{% endfor %}
+
+Query:
+****
+{{ query }}
+****
+Response:

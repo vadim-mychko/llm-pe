@@ -58,12 +58,13 @@ class EvalManager:
             raise ValueError(f"Invalid metrics configuration: {metrics_config}")
 
         #TODO: This is hard coded to avoid having to fix all configs
-        metrics = {'map': None, 'P_1': None}           
+        metrics = {'map': None, 'P_1': None, 'recall_10': None}           
 
         # Get metrics to be averaged across queries
         self.metrics_to_avg = self.config['metrics']['to_avg']
         # TODO: I'm adding precision to avoid having to add it to every config at this point
         self.metrics_to_avg['P_1'] = None
+        self.metrics_to_avg['recall_10'] = None
 
         evaluator = pytrec_eval.RelevanceEvaluator(
             self.qrels, metrics)
@@ -103,7 +104,10 @@ class EvalManager:
         ci_results_list = []
         mean_eval_results_list = []
         for turn in range(self.config['dialogue_sim']['num_turns']):
-            exp_results_path = os.path.join(exp_dir, f"trec_results_turn{turn}.txt")
+            if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+                exp_results_path = os.path.join(exp_dir, f"trec_results_1000_turn{turn}.txt")
+            else:
+                exp_results_path = os.path.join(exp_dir, f"trec_results_turn{turn}.txt")
 
             # Check if TREC file exists before processing
             if not os.path.isfile(exp_results_path):
@@ -114,7 +118,10 @@ class EvalManager:
 
             per_query_eval_results = evaluator.evaluate(results)
 
-            output_file = os.path.join(exp_dir, 'per_query_eval_results_turn%d.json' % turn)
+            if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+                output_file = os.path.join(exp_dir, 'per_query_eval_results_1000_turn%d.json' % turn)
+            else:
+                output_file = os.path.join(exp_dir, 'per_query_eval_results_turn%d.json' % turn)
 
             # Write the per-query results to the output file
             with open(output_file, "w") as f:
@@ -207,7 +214,11 @@ class EvalManager:
 
         # Write to aggregated_results.csv
         df = pd.DataFrame(all_rows, columns=headers)
-        df.to_csv(os.path.join(self.experiments_dir, 'aggregated_results.csv'), index=False)
+        if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+            save_file = 'aggregated_results_1000.csv'
+        else:
+            save_file = 'aggregated_results.csv'
+        df.to_csv(os.path.join(self.experiments_dir, save_file), index=False)
 
     
     def get_row(self, mean_eval_results_list, ci_results_list, exp_dir):
@@ -245,18 +256,35 @@ class EvalManager:
         # Load in json results data
         with open(folder_path + "/results.json") as json_data:
             results = json.load(json_data)
-        # Convert to QREL format
-        for turn_num in range(self.config['dialogue_sim']['num_turns']):
-            qrel_rows = []
-            for user_id, user_data in results.items():
-                # Create an entry for each item recommended at this turn for this
-                for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
-                    item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
-                    qrel_rows.append(item_string)
-            # Print to file
-            with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
-                for row in qrel_rows:
-                    out_file.write(row)
+        # import pdb; pdb.set_trace()
+        # Create more TREC files if 1000 items
+        if ("map_size" in self.config['metrics']) and self.config['metrics']['map_size'] == 1000:
+            # Convert to QREL format
+            for turn_num in range(self.config['dialogue_sim']['num_turns']):
+                qrel_rows = []
+                for user_id, user_data in results.items():
+                    # Create an entry for all items
+                    sorted_beliefs = [k for k, v in sorted(user_data['belief_states'][turn_num].items(), key=lambda item: (item[1]['alpha'] / (item[1]['alpha'] + item[1]['beta'])) , reverse=True)]
+                    for item_rank, item_id in enumerate(sorted_beliefs):
+                        item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(sorted_beliefs) - item_rank))
+                        qrel_rows.append(item_string)
+                # Print to file
+                with open(folder_path + f"/trec_results_1000_turn{turn_num}.txt", "w") as out_file:
+                    for row in qrel_rows:
+                        out_file.write(row)
+        else:
+            # Convert to QREL format
+            for turn_num in range(self.config['dialogue_sim']['num_turns']):
+                qrel_rows = []
+                for user_id, user_data in results.items():
+                    # Create an entry for each item recommended at this turn for this
+                    for item_rank, item_id in enumerate(user_data['rec_items'][turn_num]):
+                        item_string = "%s Q0 %s %s %s standard\n" % (user_id, item_id, str(item_rank + 1), str(len(user_data['rec_items'][turn_num]) - item_rank))
+                        qrel_rows.append(item_string)
+                # Print to file
+                with open(folder_path + f"/trec_results_turn{turn_num}.txt", "w") as out_file:
+                    for row in qrel_rows:
+                        out_file.write(row)
 
     def json_to_trec_results_monollm(self, folder_path):
         # Load in json results data
