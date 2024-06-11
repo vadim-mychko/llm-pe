@@ -33,8 +33,8 @@ metrics:
   to_avg:
     map: null
 paths:
-  eval_results_master_path: experiments/apr_18_recipes_1000_items_10_users_2/eval_results.csv
-  experiment_dir: experiments/apr_18_recipes_1000_items_10_users_2
+  eval_results_master_path: experiments/apr_18_recipes_1000_items_20_users/eval_results.csv
+  experiment_dir: experiments/apr_18_recipes_1000_items_20_users
 pe:
   num_recs: 10
   pe_module_name: DT
