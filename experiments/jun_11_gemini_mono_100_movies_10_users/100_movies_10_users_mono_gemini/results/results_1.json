@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an action movie that has something to do with technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 2000's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 1990's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about science?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about relationships?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a dog or other animal?",
+                "response": "no"
+            },
+            {
+                "query": "Is the genre of movie you're looking for comedy, drama, or something else?",
+                "response": "drama"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Last Temptation of Christ, The (1988) \n4. August Rush (2007) \n5. Terms of Endearment (1983) \n6. Bernie (2011) \n7. One Hour Photo (2002) \n8. Dracula (Bram Stoker's Dracula) (1992) \n9. St. Elmo's Fire (1985) \n10. Cage aux Folles, La (1978)",
+            "1. Metropolis (2001) \n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n3. Searching (2018) \n4. Enter the Void (2009) \n5. Mr. Holmes (2015) \n6. Robot & Frank (2012) \n7. Stranger than Fiction (2006) \n8. Nightcrawler (2014) \n9. The Big Lebowski (1998) \n10. Lost in Translation (2003)",
+            "1. The Adventures of Tintin (2011)\n2. The Princess and the Frog (2009)\n3. Julie & Julia (2009)\n4. Boyhood (2014)\n5. Chef (2014)\n6. The Grand Budapest Hotel (2014)\n7. Paddington (2014)\n8. Brooklyn (2015)\n9. Room (2015)\n10. Moonlight (2016)",
+            "1. Runaway Train (1985)\n2. Tomb Raider (2018)\n3. One Hour Photo (2002)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Bad Education (La mala educaci\u00f3n) (2004)\n6. Darkman (1990)\n7. The (1999)\n8. How High (2001)\n9. The (2001)\n10. Timeline (2003)",
+            "1. Clash of the Titans (1981) \n2. Brewster's Millions (1985) \n3. The Grapes of Wrath (1940) \n4. The Big Red One (1980) \n5. What's Up, Doc? (1972) \n6. Meet John Doe (1941) \n7. American Graffiti (1973) \n8. Real Genius (1985) \n9. The Last Supper (1995) \n10. Cronos (1993)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Europa (Zentropa) (1991) \n3. The Big Lebowski (1998) \n4. Chungking Express (Chung Hing sam lam) (1994) \n5. Enter the Void (2009) \n6. Delicatessen (1991) \n7. Black Robe (1991) \n8. The Hurricane (1999) \n9. What\u2019s Up, Doc? (1972) \n10. Grapes of Wrath, The (1940)",
+            "1.  Grapes of Wrath, The (1940)\n2.  Metropolis (2001)\n3.  Terminator 3: Rise of the Machines (2003) \n4.  Mr. Holmes (2015) \n5.  American Graffiti (1973) \n6.  Thomas Crown Affair, The (1968) \n7.  A.I. Artificial Intelligence (2001) \n8.  Big Red One, The (1980) \n9.  Mission to Mars (2000) \n10. Umberto D. (1952)",
+            "1. Delicatessen (1991)\n2. The Piano (1993)\n3. Last Supper, The (1995)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. Lost in Translation (2003)\n6. Enter the Void (2009)\n7. Cronos (1993)\n8. The Secret of Kells (2009)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Stranger than Fiction (2006)",
+            "1. Big Lebowski, The (1998)\n2. Real Genius (1985)\n3. Europa (Zentropa) (1991)\n4. What's Up, Doc? (1972)\n5. Control (2007)\n6. The Big Red One (1980)\n7. American Graffiti (1973)\n8. Darkman (1990)\n9. How High (2001)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Terms of Endearment (1983)\n2. Autumn Sonata (H\u00f6stsonaten) (1978)\n3. All Quiet on the Western Front (1930)\n4. No Man's Land (2001)\n5. Magnolia (1999)\n6. Hurricane, The (1999)\n7. The Grapes of Wrath (1940)\n8. Umberto D. (1952)\n9. Black Robe (1991)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"
+        ]
+    }
+}

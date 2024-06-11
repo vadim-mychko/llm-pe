@@ -6,6 +6,7 @@ import sys
 from llms.llm_base import LLMBase
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
+from google.api_core.exceptions import GoogleAPICallError, RetryError, InvalidArgument
 
 
 class Gemini(LLMBase):
@@ -35,10 +36,11 @@ class Gemini(LLMBase):
         while attempts < 3:
             try:
                 response = self.model.generate_content(prompt, safety_settings = self.safety_settings)
-            except:
-                print("Gemini API Error... waiting 10 seconds")
+                self.logger.debug(response)
+            except (GoogleAPICallError, RetryError, InvalidArgument) as e:
+                print(f"Gemini API Error {e} \n ... waiting 60 seconds")
                 attempts += 1
-                time.sleep(10) # Wait 10 seconds
+                time.sleep(60) 
                 continue
             break
 

@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's or animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a fantasy element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with elements of science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is touching?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about animals?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. A.I. Artificial Intelligence (2001)\n2. Face/Off (1997)\n3. The Matrix (1999)\n4. Terminator 2: Judgment Day (1991)\n5. The Dark Knight (2008)\n6. Inception (2010)\n7. Interstellar (2014)\n8. 2001: A Space Odyssey (1968)\n9. Blade Runner 2049 (2017)\n10. Arrival (2016)",
+            "1. Children of Men (2006)\n2. Rush (2013)\n3. The Revenant (2015)\n4. Dunkirk (2017)\n5. 1917 (2019)\n6. Hacksaw Ridge (2016)\n7. Fury (2014)\n8. Saving Private Ryan (1998)\n9. The Thin Red Line (1998)\n10. Platoon (1986)",
+            "1. Tomb Raider (2018) \n2. Laura (1944) \n3. Terminator 3: Rise of the Machines (2003) \n4. Last Supper, The (1995) \n5. August Rush (2007) \n6. No Man's Land (2001) \n7. Tales from the Hood 2 (2018) \n8. The Lost Boys (1987) \n9. The Number 23 (2007) \n10. Hostel (2005)\n''''",
+            "1. Crimes and Misdemeanors (1989)\n2. Searching (2018)\n3. Are the Void (2009)\n4. Terminator 3: Rise of the Machines (2003)\n5. Nightcrawler (2014)\n6. Stranger than Fiction (2006)\n7. Big Lebowski, The (1998)\n8. American Graffiti (1973)\n9. Intolerable Cruelty (2003)\n10. Bruce Almighty (2003)",
+            "1.  Terminator 3: Rise of the Machines (2003)\n2.  Ready Player One (2018)\n3.  Real Steel (2011)\n4.  Transporter 2 (2005)\n5.  Ant-Man (2015)\n6.  Alita: Battle Angel (2019)\n7.  A.I. Artificial Intelligence (2001)\n8.  Timeline (2003)\n9.  Face/Off (1997)\n10. King Kong (2005)",
+            "1. The Piano (1993)\n2. August Rush (2007)\n3. Laura (1944)\n4. Saint Elmo's Fire (1985)\n5. What's Up, Doc? (1972)\n6. Stranger than Fiction (2006)\n7. Intolerable Cruelty (2003)\n8. Out of Sight (1998)\n9. The Sure Thing (1985)\n10. Rushmore (1998)",
+            "1. Beautiful Shots \\n\nMr. Holmes (2015)\n2. Time travel \\n\nSearching (2018)\n3. Space \\n\nAlita: Battle Angel (2019)\n4. Moral Issue \\n\nThe Corporation (2003)\n5. Haunting \\n\nEnter the Void (2009)\n6. Great Cinematography \\n\nLost in Translation (2003)\n7. Vampire \\n\nCronos (1993)\n8. Based on a book \\n\nJane Eyre (1996)\n9. Friendship \\n\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. British \\n\nBlack Robe (1991)",
+            "1. Searching (2018) \n2. American Graffiti (1973) \n3. Control (2007) \n4. Man on Earth, The (2007) \n5. Strange than Fiction (2006) \n6. Nightcrawler (2014) \n7. Mr. Holmes (2015) \n8. Lost in Translation (2003) \n9. Big Lebowski, The (1998) \n10. Real Steel (2011) ",
+            "1. Hachiko: A Dog's Story (2009)\n2. Hurricane, The (1999)\n3. Stranger than Fiction (2006)\n4. Robot & Frank (2012)\n5. Grapes of Wrath, The (1940)\n6. Lost in Translation (2003)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Umberto D. (1952)\n10. Black Robe (1991)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. The Hurricane (1999)\n3. Homeward Bound: The Incredible Journey (1993)\n4. Intolerable Cruelty (2003)\n5. Robot & Frank (2012)\n6. Lost in Translation (2003)\n7. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n8. Bruce Almighty (2003)\n9. Real Genius (1985)\n10. Stranger than Fiction (2006)"
+        ]
+    }
+}

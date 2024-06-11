@@ -8,8 +8,8 @@ based on internal knowledge and item descriptions.
 '''
 class MonoLLMPEModule(BasePEModule):
 
-    def __init__(self, config, dataloader):
-        super().__init__(config, dataloader)
+    def __init__(self, config, dataloader, llm):
+        super().__init__(config, dataloader, llm)
         self.total_llm_time = 0.0
         self.total_entailment_time = 0.0
 

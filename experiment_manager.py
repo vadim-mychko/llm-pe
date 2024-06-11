@@ -79,6 +79,7 @@ class ExperimentManager():
         user_dataloader = user_dataloader_class(config['data']['user_path'], config) 
         user_data = user_dataloader.get_data()
         # llm setup
+        #ANTON: TODO: move LLM setup back to the class that uses it (e.g. a user simulator, pe module) to allow multiple LLMs
         llm_module = llms.LLM_CLASSES[config['llm']['llm_name']]
         llm = llm_module(config)
 

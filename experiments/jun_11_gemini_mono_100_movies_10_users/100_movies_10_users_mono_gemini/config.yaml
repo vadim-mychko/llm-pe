@@ -4,7 +4,7 @@ data:
   data_loader_name: JSONLoader
   data_path: data/ml25M_100_movie_sample.json
   user_loader_name: UserTsvLoader
-  user_path: data/users/users_100_100.tsv
+  user_path: data/users/users_100_10.tsv
 debug_mode: false
 dialogue_sim:
   num_turns: 10
@@ -34,14 +34,14 @@ metrics:
   to_avg:
     map: null
 mono_llm:
-  query_gen_template: mono_llm_query_gen.jinja2
-  top_items_template: mono_llm_top_items.jinja2
+  query_gen_template: mono_llm_query_gen_movies.jinja2
+  top_items_template: mono_llm_top_items_movies.jinja2
 paths:
   eval_results_master_path: experiments/david_test_1/eval_results.csv
   experiment_dir: experiments/david_test_1
 pe:
   num_recs: 10
-  pe_module_name: DT
+  pe_module_name: MonoLLM
   response_update: individual
 query:
   aspect_extraction: val
