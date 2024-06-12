@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you okay with movies where the main characters are animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching animal movies with talking animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for movies with lots of action and adventure?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you okay with older movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a dangerous and thrilling journey?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about talking animals going on an adventure and facing challenges?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in a fantasy world?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated children's movie about talking animals going on an adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about talking animals going on an adventure and facing challenges?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about talking animals going on a long and difficult adventure?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Land Before Time, The (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Secret of Kells, The (2009)\n7. Fantastic Mr. Fox (2009)\n8. The Lion King (1994)\n9. Finding Nemo (2003)\n10. Penguins of Madagascar (2014)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985) \nHomeward Bound: The Incredible Journey (1993)\nLand Before Time, The (1988)\nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n****\nA.I. Artificial Intelligence (2001) \nAnt-Man (2015) \nRobot & Frank (2012) \nReal Steel (2011)\nAlita: Battle Angel (2019)\n****",
+            "1. Ant-Man (2015)\n2. Homeward Bound: The Incredible Journey (1993)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. The Land Before Time (1988)\n5. A.I. Artificial Intelligence (2001)\n6. Rise of the Planet of the Apes (2011)\n7. Real Steel (2011)\n8. We Bought a Zoo (2011)\n9. Volcano (1997)\n10. Harry Potter and the Sorcerer's Stone (2001)",
+            "1. Monsters, Inc. (2001)\n2. Homeward Bound: The Incredible Journey (1993)\n3. The Land Before Time (1988)\n4. Animal House (1978)\n5. Kung Fu Panda (2008)\n6. Zootopia (2016)\n7. Watership Down (1978)\n8. Fantastic Mr. Fox (2009)\n9. Babe (1995)\n10. Charlotte's Web (1973)\n'''",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. A.I. Artificial Intelligence (2001)\n3. The Land Before Time (1988)\n4. Meet John Doe (1941)\n5. Von Ryan's Express (1965)\n6. Terminator 3: Rise of the Machines (2003)\n7. Time Line (2003)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. The Grapes of Wrath (1940)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. The Land Before Time (1988)\n3. Hachiko: A Dog's Story (2009)\n4. Ant-Man (2015)\n5. Real Steel (2011)\n6. The Secret of Kells (2009)\n7. August Rush (2007)\n8. The Artist (2011)\n9. Cocoon (1985)\n10. The Princess and the Frog (2009)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Ant-Man (2015)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Land Before Time, The (1988)\n5. Beverly Hills Chihuahua (2008)\n6. Bolt (2008)\n7. Secret of Kells, The (2009)\n8. Isle of Dogs (2018)\n9. Fantastic Mr. Fox (2009)\n10. Sing (2016)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. The Land Before Time (1988)\n3. Animal Farm (1954)\n4. Robin Hood (1973)\n5. 101 Dalmatians (1961)\n6. Charlotte's Web (1973)\n7. The Jungle Book (1967)\n8. Fantastic Mr. Fox (2009)\n9. Zootopia (2016)\n10. Isle of Dogs (2018)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n3. Timeline (2003)\n4. Land Before Time, The (1988)\n5. Ant-Man (2015)\n6. Transporter 2 (2005)\n7. The Departed (2006)\n8. The Nightcrawler (2014)\n9. American Graffiti (1973)\n10. Eragon (2006)\n",
+            "Homeward Bound: The Incredible Journey (1993)\nThe Land Before Time (1988)\nAnt-Man (2015)\nThe Lion King (1994)\nFinding Nemo (2003)\nToy Story (1995)\nDumbo (1941)\nChicken Run (2000)\nZootopia (2016)\nThe Secret Life of Pets (2016)"
+        ]
+    }
+}
