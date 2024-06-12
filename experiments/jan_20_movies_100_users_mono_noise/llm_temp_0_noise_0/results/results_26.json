@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie set during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in a dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day that involves a crime gone awry?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day that involves a crime gone awry and has a touch of satire?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day that involves a crime gone awry, has a touch of satire, and includes elements of social commentary?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day that involves a crime gone awry, has a touch of satire, includes elements of social commentary, and is set during the Great Depression?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy set in the present day that involves a crime gone awry, has a touch of satire, includes elements of social commentary, and is not set during the Great Depression?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Eragon (2006)\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nUmberto D. (1952)\nBlack Robe (1991)\nCronos (1993)\nGrapes of Wrath, The (1940)\nReal Genius (1985)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)",
+            "Tenacious D in The Pick of Destiny (2006)\nBruce Almighty (2003)\nReal Genius (1985)\nAmerican Graffiti (1973)\nBrewster's Millions (1985)\nFace/Off (1997)\nMr. Holmes (2015)\nRobot & Frank (2012)\nDelicatessen (1991)\nBig Lebowski, The (1998)",
+            "Delicatessen (1991)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBrewster's Millions (1985)\nFace/Off (1997)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nReal Genius (1985)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Steel (2011)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)",
+            "Delicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nIntolerable Cruelty (2003)\nTrapped (2002)\nFace/Off (1997)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBrewster's Millions (1985)\nReal Genius (1985)",
+            "Delicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nIntolerable Cruelty (2003)\nTrapped (2002)\nFace/Off (1997)\nMr. Holmes (2015)\nRobot & Frank (2012)\nBrewster's Millions (1985)\nGrapes of Wrath, The (1940)",
+            "The Corporation (2003)\nDelicatessen (1991)\nTrapped (2002)\nIntolerable Cruelty (2003)\nLast Supper, The (1995)\nBruce Almighty (2003)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)",
+            "The Corporation (2003)\nDelicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nControl (2007)\nTrapped (2002)\nIntolerable Cruelty (2003)\nFace/Off (1997)\nMr. Holmes (2015)\nRobot & Frank (2012)",
+            "Delicatessen (1991)\nLast Supper, The (1995)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nGrapes of Wrath, The (1940)\nCronos (1993)\nJane Eyre (1996)\nLost in Translation (2003)\nUmberto D. (1952)"
+        ]
+    }
+}

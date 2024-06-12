@@ -1,5 +1,5 @@
 {
-    "experiments/jan_19_movies_100_users_mono": "movies/mono/",
+    "experiments/jan_20_movies_100_users_mono_noise": "movies/mono/",
     "experiments/jan_19_movies_100_users_noise0_er": "movies/er/noise0/",
     "experiments/jan_19_movies_100_users_noise0_greedy": "movies/greedy/noise0/",
     "experiments/jan_19_movies_100_users_noise0_random": "movies/random/noise0/",
