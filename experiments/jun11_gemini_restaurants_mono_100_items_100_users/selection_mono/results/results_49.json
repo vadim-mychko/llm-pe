@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Do you like breakfast food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pizza or sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for gluten-free food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a new American cuisine restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or nightclub?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a chicken restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that has coffee and tea?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Heritage \n2. Bloomsday Cafe \n3. Mad River Manayunk \n4. Founding Fathers Sports Bar & Grill \n5. Parc \n6. Green Leafs & Bananas \n7. Sister Muhammad's Kitchen \n8. Love & Honey Fried Chicken \n9. McMenamin's Tavern \n10. Rival Bros Coffee",
+            "1. Water Works Restaurant & Lounge \n2. Zuzu's Kitchen \n3. Golden Triangle \n4. Heritage \n5. The Grill  Smuckers \n6. The Tavern Restaurant \n7. The Continental Restaurant and Martini Bar \n8. The Blue Duck \n9. Parc \n10. Macaroni's Restaurant \n",
+            "1. Izumi \n2. Dim Sum House \n3. Federal Donuts \n4. Canton 11 \n5. Sang Kee Peking Duck House \n6. Fuji Mountain \n7. Oishii Pok\u00e9 \n8. The QUICK FIXX \n9. Daleng Restaurant \n10. The Juice Merchant",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nGolden Triangle\nMong Kok Station\nFederal Donuts\nHeritage\nKokopelli Restaurant & Tequila Bar",
+            "1. Golden Triangle \n2. Lacroix Restaurant at The Rittenhouse \n3. Heritage \n4. Grain Exchange \n5. Bloomsday Cafe \n6. Olive Garden Italian Restaurant \n7. Barston's Rattle & Hum \n8. CO-OP Restaurant & Lounge \n9. Five Guys \n10. Canton 11",
+            "Zuzu's Kitchen\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nThe Milk House\nA Tutti, Ristorante Italiano\nOlive Garden Italian Restaurant\nMacaroni's Restaurant\nJack's Firehouse\nRistorante La Buca\nParc",
+            "1. Golden Triangle \n2. Lacroix Restaurant at The Rittenhouse \n3. PrimoHoagies \n4. Daleng Restaurant \n5. Federal Donuts \n6. Mong Kok Station \n7. The Tasty Toast \n8. A Tutti, Ristorante Italiano \n9. Sang Kee Peking Duck House \n10. Canton 11",
+            "- Cantina Dos Segundos \n- Miga Korean BBQ & Sushi \n- EVOO - The Oil & Vinegar Tasting Room \n- Cook and Shaker \n- Founding Fathers Sports Bar & Grill \n- The El Bar \n- Aldine \n- The Union Tap House \n- Parc \n- CST Philly",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Germantown Garden \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast \n Le Pain Quotidien",
+            "Water Works Restaurant & Lounge \nDaleng Restaurant \nThe Tasty Toast \nGermantown Garden \nFuji Mountain \nMing Kok Station \nGolden Triangle \nZuzu's Kitchen \nFederal Donuts \nRistorante La Buca"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves coffee?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches and coffee?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches, coffee, and bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that sells sandwiches, coffee, and bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches, coffee, and bagels for breakfast or lunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves breakfast and has bagels?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nDaleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nDim Sum House\nEvan's Pizza\nNew York Gyro Truck\nKC's Pastries\nLucky's Last Chance",
+            "1. Cafe L'Aube\n2. Fiore Fine Foods\n3. Rival Bros Coffee\n4. Betty's Speakeasy\n5. Bloomsday Cafe\n6. Gran Caffe L'Aquila\n7. The Green Line Cafe\n8. Benna's Cafe\n9. Mugshots Coffeehouse\n10. The Continental Restaurant and Martini Bar",
+            "The Green Line Cafe \nSpread Bagelry \nStarbucks \nRival Bros Coffee \nGran Caffe L'Aquila \nLe Pain Quotidien \nBetty's Speakeasy \nMugshots Coffeehouse \nBloomsday Cafe \nBenna's Cafe",
+            "1. The Juice Merchant \n2. Green Leafs & Bananas \n3. The Green Line Cafe \n4. Spread Bagelry \n5. Cafe L'Aube \n6. Rival Bros Coffee \n7. The QUICK FIXX \n8. Betty's Speakeasy \n9. Gran Caffe L'Aquila \n10. Fiore Fine Foods",
+            "Rival Bros Coffee \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nBettys Speakeasy \\n\nThe Continental Restaurant and Martini Bar \\n\nLe Pain Quotidien \\n\nMugshots Coffeehouse \\n\nBloomsday Cafe \\n\nCO-OP Restaurant & Lounge \\n\nJake's & Cooper's Wine Bar & Wine Shop",
+            "The Green Line Cafe \nSpread Bagelry \nBagel Cafe \nLisa's Kitchen \nTrolley Car Diner \nGreen Leafs & Bananas \nThe Sandwich Factory \nWawa \nMike's Cafe \nOther Half Brewing Company",
+            "The Green Line Cafe \nSpread Bagelry \nBetty's Speakeasy \nTrolley Car Diner \nThe Cheesecake Factory \nRival Bros Coffee \nGran Caffe L'Aquila \nJake's & Cooper's Wine Bar & Wine Shop \nWawa \nBagel Nash",
+            "Trolley Car Diner \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nBetty's Speakeasy \\n\nWawa \\n\nAudrey Claire \\n\nParc \\n\nRival Bros Coffee \\n\nGran Caffe L'Aquila \\n\nCafe L'Aube",
+            "Trolley Car Diner\nSpread Bagelry\nThe Green Line Cafe\nBagel's Etc\nThe Bagel Place\nSabrina's Cafe\nGreen Eggs Cafe\nWawa\nThe Cow and the Curd\nThe Bagel Cafe",
+            "The Bagel Place \nSpread Bagelry \nTrolley Car Diner \nThe Green Line Cafe \nBenna's Cafe \nBetty's Speakeasy \nRival Bros Coffee \nThe Juice Merchant \nThe Blue Duck \nCafe L'Aube"
+        ]
+    }
+}

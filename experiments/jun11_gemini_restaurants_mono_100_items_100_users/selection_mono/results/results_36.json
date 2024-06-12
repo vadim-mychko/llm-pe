@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a Vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food that can be taken to go?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches to go?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza to go?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food to go that's pasta or other Italian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves lasagna or spaghetti to go?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves gnocchi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves tortellini or ravioli to go?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in going to a restaurant that offers penne or manicotti to go?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Ristorante La Buca\n2. Izumi\n3. Vedge\n4. Hey Hummus\n5. Fiore Fine Foods\n6. The QUICK FIXX\n7. Blackbird Pizzeria\n8. Betty's Speakeasy\n9. Schwester Muhammad's Kitchen\n10. Pure Tacos",
+            " Golden Triangle \\n\n Daleng Restaurant \\n\n Canton 11 \\n\n Sang Kee Peking Duck House \\n\n Izumi \\n\n Fiore Fine Foods \\n\n Sushi Bar \\n\n Oishii Pok\u00e9 \\n\n Green Leaf & Bananas \\n\n Blackbird Pizzeria",
+            "Lucca Restaurant\nRoman Delight\nA Tutti, Ristorante Italiano\nItalia Pizza & Restaurant\nZahav Restaurant\nGaspare's Ristorante\nIl Pittore Ristorante Italiano\nDavio's Northern Italian Steakhouse\nCampo's Philly Cheesesteaks\nFiore Fine Foods",
+            "PrimoHoagies \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nMacaroni's Restaurant \nFiore Fine Foods \nThe QUICK FIXX \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nAudrey Claire",
+            "1 PrimoHoagies\n2 Castellino's\n3 A Tutti, Ristorante Italiano\n4 Fiore Fine Foods\n5 Macaroni's Restaurant\n6 The QUICK FIXX\n7 Lisa's Kitchen\n8 Chestnut 7\n9 Audrey Claire\n10 Ristorante La Buca\n",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Olive Garden Italian Restaurant\n7. PrimoHoagies\n8. Ristorante La Buca\n9. Talluto's Authentic Italian Food\n10. The QUICK FIXX",
+            "1. Talluto's Authentic Italian Food\n2. Ristorante La Buca\n3. A Tutti, Ristorante Italiano\n4. PrimoHoagies\n5. Fiore Fine Foods\n6. DiNardo's Famous Sausage & Peppers\n7. Essene Market & Caf\u00e9\n8. Valanni\n9. Zocalo\n10. Amalgam\n",
+            "A Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nDaleng Restaurant \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nThe QUICK FIXX \\n\nCinCin Restaurant \\n\nRistorante La Buca \\n\nOlive Garden Italian Restaurant",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Ristorante La Buca\n9. Talluto's Authentic Italian Food\n10. The QUICK FIXX",
+            "1. Olive Garden Italian Restaurant \n2. Fiore Fine Foods \n3. A Tutti, Ristorante Italiano \n4. Castellino's \n5. Talluto's Authentic Italian Food \n6. Macaroni's Restaurant \n7. Ristorante La Buca \n8. Dim Sum House \n9. KC's Pastries \n10. PrimoHoagies"
+        ]
+    }
+}

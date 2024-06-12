@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering Italian or Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to trying Ethiopian food?",
+                "response": "no"
+            },
+            {
+                "query": "How about American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer pizza or burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Is the place you have in mind known for its breakfast?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Daleng Restaurant \\n\nBistro SouthEast \\n\nTu's Tea & Banh Mi South Philly \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9 \\n\nPearl's Oyster Bar \\n\nWater Works Restaurant & Lounge \\n\nAudrey Claire",
+            "Grain Exchange \\n\nHeritage \\n\nThe Tavern Restaurant \\n\nFranklin's \\n\nJack's Firehouse \\n\nBlackbird Pizzeria \\n\nSteve's Prince of Steaks \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nLisa's Kitchen",
+            "Grain Exchange \nValley Green Inn \nHeritage \nThe Tavern Restaurant \nGolden Triangle \nBistro SouthEast \nSang Kee Peking Duck House \nCanton 11 \nMiga Korean BBQ & Sushi \nGreen Leafs & Bananas",
+            "Zuzu's Kitchen\nGolden Triangle\nValley Green Inn\nPhiladelphia DiNic's Roast Pork & Beef\nDe' Medici\nSarcone's Famous Italian Deli\nAldo Lamberti Ristorante\nMosaica Restaurant & Bar\nParc\nThe Little Saigon Cafe",
+            "1. Veda - Modern Indian Bistro\n2. Steve's Prince of Steaks\n3. Trattoria Stella\n4. The Good King Tavern\n5. The Continental Restaurant and Martini Bar\n6. The Blue Duck\n7. Tavern On the Hill\n8. The Tasty Toast\n9. Sabrina's Cafe\n10. PrimoHoagies",
+            "The Tavern Restaurant \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nLove & Honey Fried Chicken \\n\nLucky's Last Chance",
+            "Water Works Restaurant & Lounge \nLocal Tavern\nVeda - Modern Indian Bistro \nFederal Donuts \nBistro SouthEast \nFranklin's \nJD Mcgillicuddy's Manayunk \nThe El Bar \n Founding Fathers Sports Bar & Grill\nMcMenamin's Tavern",
+            "The Milk House \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nThe Continental Restaurant and Martini Bar \nZuzus Kitchen \nThe Blue Duck \nMad River Manayunk \nThe Tavern Restaurant \nMisconduct Tavern \nFranklin's",
+            "Izumi \nPearl's Oyster Bar \nWater Works Restaurant & Lounge \nValley Green Inn \nFranklin's \nBlackbird Pizzeria \nThe Blue Duck \nMacaroni's Restaurant \nFounding Fathers Sports Bar & Grill \nJack's Firehouse\n",
+            "Federal Donuts \nThe Tavern Restaurant \nMisconduct Tavern \nRoy-Pitz Barrel House \nPaddy's Old City Pub \nFive Guys \nMad River Manayunk \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk"
+        ]
+    }
+}

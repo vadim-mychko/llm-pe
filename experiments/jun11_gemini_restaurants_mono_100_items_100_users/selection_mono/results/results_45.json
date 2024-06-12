@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer food from the American, Italian, or French cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Interested in Asian cuisines instead?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Vietnamese cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "How about Dim Sum?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try Peking Duck?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to check out Cantonese restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try restaurants with Szechuan cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- Golden Triangle\n- Daleng Restaurant\n- CinCin Restaurant\n- Veda - Modern Indian Bistro\n- Canton 11\n- Tu's Tea & Banh Mi South Philly\n- Fiore Fine Foods\n- Ristorante La Buca\n- Audrey Claire\n- Pure Tacos",
+            " Daleng Restaurant \n Golden Triangle \n CinCin Restaurant \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Canton 11 \n Sang Kee Peking Duck House \n Izumi \n Oishii Pok\u00e9 \n A Tutti, Ristorante Italiano",
+            " Golden Triangle \n Daleng Restaurant \n CinCin Restaurant \n Heritage \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Baan Thai \n Canton 11 \n Tu's Tea & Banh Mi South Philly \n Oishii Pok\u00e9 ",
+            "Daleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nCanton 11 \nTu's Tea & Banh Mi South Philly \nSang Kee Peking Duck House \nGrain Exchange \nCinCin Restaurant \nPearl's Oyster Bar \nAudrey Claire",
+            "Golden Triangle \nDaleng Restaurant \nLacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nBistro SouthEast \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nAudrey Claire \nRistorante La Buca",
+            "Sang Kee Peking Duck House \\n\nPearl's Oyster Bar \\n\nRistorante La Buca \\n\nCanton 11 \\n\nDim Sum House \\n\nTu's Tea & Banh Mi South Philly \\n\nKC's Pastries \\n\nOishii Pok\u00e9 \\n\nMiga Korean BBQ & Sushi \\n\nGolden Triangle",
+            "Sang Kee Peking Duck House\nCanton 11\nTu's Tea & Banh Mi South Philly\nDaleng Restaurant\nMiga Korean BBQ & Sushi\nCinCin Restaurant\nDim Sum House\nFederal Donuts\nGolden Triangle\nBistro SouthEast",
+            "Sang Kee Peking Duck House \nCanton 11 \nDim Sum House \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nBistro SouthEast \nBaan Thai \nDaleng Restaurant \nFederal Donuts \nGolden Triangle ",
+            "Sang Kee Peking Duck House \nGolden Triangle \nDaleng Restaurant \nMong Kok Station \nCanton 11 \nDim Sum House \nPearl's Oyster Bar \nRistorante La Buca \nFederal Donuts \nOishii Pok\u00e9",
+            "Sang Kee Peking Duck House \nDim Sum House \nCanton 11 \nGolden Triangle \nDaleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nVedge"
+        ]
+    }
+}

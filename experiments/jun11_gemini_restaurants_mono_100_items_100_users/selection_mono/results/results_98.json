@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to grab some sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer seafood with your Thai dish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to find a place that offers both seafood and Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to eat that has Pan Asian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Zuzu's Kitchen \n Water Works Restaurant & Lounge \n Germantown Garden \n Izumi \n PrimoHoagies \n The Varsity \n The Tasty Toast \n Lacroix Restaurant at The Rittenhouse",
+            "1. Heritage \n2. Grain Exchange \n3. Izumi \n4. The Milk House \n5. Bistro SouthEast \n6. Federal Donuts \n7. Wishbone \n8. Aldine \n9. Cook and Shaker \n10. Founding Fathers Sports Bar & Grill",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nFederal Donuts \\n\nHeritage \\n\nKokopelli Restaurant & Tequila Bar",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nFuji Mountain\nFederal Donuts\nGrain Exchange\nCanton 11\nThe Blue Duck\nWishbone\nBlackbird Pizzeria",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nGrain Exchange \nIzumi \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nThe Juice Merchant \nVeda - Modern Indian Bistro \nGolden Triangle",
+            "Baan Thai\nDaleng Restaurant\nBistro SouthEast\nGrain Exchange\nGolden Triangle\nIzumi\nCO-OP Restaurant & Lounge\nFederal Donuts\nTu's Tea & Banh Mi South Philly\nNorth Bowl",
+            "Daleng Restaurant \\n\nBistro SouthEast \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nBaan Thai \\n\nTu's Tea & Banh Mi South Philly \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9 \\n\nAudrey Claire \\n\nRistorante La Buca",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nCinCin Restaurant \nFederal Donuts \nOishii Pok\u00e9 \nAudrey Claire \nThe Continental Restaurant and Martini Bar",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nCinCin Restaurant \\n\nFederal Donuts \\n\nFuji Mountain \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nMiga Korean BBQ & Sushi \\n\nBuddhist Thai Cuisine\n"
+        ]
+    }
+}

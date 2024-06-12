@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Do you like Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you are looking for Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place for breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a bagel shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Baan Thai \n Miga Korean BBQ & Sushi \n Fiore Fine Foods \n Evan's Pizza \n Blackbird Pizzeria \n The QUICK FIXX \n New York Gyro Truck",
+            "Daleng Restaurant \nGolden Triangle \nCanton 11 \nBistro SouthEast \nVeda - Modern Indian Bistro \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nDim Sum House \nThe QUICK FIXX",
+            "1. Sang Kee Peking Duck House\n2. Canton 11\n3. Tu's Tea & Banh Mi South Philly\n4. Dim Sum House\n5. Macaroni's Restaurant\n6. Cook and Shaker\n7. Cheesecake Factory\n8. Federal Donuts\n9. Blackbird Pizzeria\n10. Fiore Fine Foods",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nFederal Donuts\nThe Blue Duck\nPearl's Oyster Bar\nJack's Firehouse\nFranklin's\nThe Cheesecake Factory\nParc\nGran Caffe L'Aquila",
+            "No restaurants match the criteria.",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nMong Kok Station \nDaleng Restaurant \nThe Juice Merchant \nA Tutti, Ristorante Italiano \nCO-OP Restaurant & Lounge \nThe Grill  Smuckers \nOishii Pok\u00e9 \nThe Green Line Cafe \nLisa's Kitchen \nAudrey Claire",
+            " The Green Line Cafe \nTrolley Car Diner \nThe Milk House \nThe Tasty Toast \nThe Blue Duck \nThe Grill  Smuckers \nSpread Bagelry \nSister Muhammad's Kitchen \nFranklin's \nBetty's Speakeasy",
+            "1. The Tasty Toast\n2. The Grill  Smuckers\n3. Trolley Car Diner\n4. Fiore Fine Foods\n5. The Continental Restaurant and Martini Bar\n6. Benna's Cafe\n7. Hey Hummus\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station\n The Tasty Toast\n Le Pain Quotidien",
+            "1. Golden Triangle\n2. Bistros SouthEast\n3. Daleng Restaurant\n4. Wawa\n5. Lacroix Restaurant at The Rittenhouse\n6. Jack's Firehouse\n7. Federal Donuts\n8. New York Gyro Truck\n9. Love & Honey Fried Chicken"
+        ]
+    }
+}

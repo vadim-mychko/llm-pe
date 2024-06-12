@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a quick bite to eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some comfort food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with a fast food atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a casual or fancy dining experience?",
+                "response": "casual"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge \nGolden Triangle \nGrain Exchange \nZuzu's Kitchen \nDaleng Restaurant \nFederal Donuts \nBistro SouthEast \nThe Milk House \nBloomsday Cafe \nSang Kee Peking Duck House",
+            "The Blue Duck \\n\nLisa's Kitchen \\n\nFranklin's \\n\nLucky's Last Chance \\n\nJack's Firehouse \\n\nFive Guys \\n\nMisconduct Tavern \\n\nThe Tavern Restaurant \\n\nLove & Honey Fried Chicken \\n\nRoy-Pitz Barrel House",
+            "The Blue Duck \nLisa's Kitchen \nFederal Donuts \nFive Guys \nFranklin's \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nMisconduct Tavern \nJack's Firehouse \nWishbone",
+            "Federal Donuts \nFive Guys \nLisa's Kitchen \nMisconduct Tavern \nThe Blue Duck \nFranklin's \nJack's Firehouse \nLucky's Last Chance \nLove & Honey Fried Chicken \nChestnut 7",
+            " Misconduct Tavern \\n\nJack's Firehouse \\n\nLove & Honey Fried Chicken \\n\nLisa's Kitchen \\n\nThe Blue Duck \\n\nFive Guys \\n\nMacaroni's Restaurant \\n\nChestnut 7 \\n\nFranklin's \\n\nBurgers",
+            "Five Guys \\n\nMisconduct Tavern \\n\nLisa's Kitchen \\n\nFranklin's \\n\nThe Blue Duck \\n\nLove & Honey Fried Chicken \\n\nJack's Firehouse \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nLucky's Last Chance",
+            "The Blue Duck\nLisa's Kitchen\nMad River Manayunk\nTrolley Car Diner\nThe Green Line Cafe\nLove & Honey Fried Chicken\nFranklin's\nLuvh Vegan Deli\nSpread Bagelry\nJack's Firehouse",
+            "Misconduct Tavern \nFive Guys \nThe Blue Duck \nFranklin's \nLisa's Kitchen \nSteve's Prince of Steaks \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nWishbone Tavern",
+            "Wishbone \nFive Guys \nLisa's Kitchen \nRoy-Pitz Barrel House \nFranklin's \nThe Blue Duck \nMisconduct Tavern \nChestnut 7 \nThe Tavern Restaurant \nJack's Firehouse \nFounding Fathers Sports Bar & Grill",
+            "1. Lisa's Kitchen\n2. Green Leafs & Bananas\n3. Misconduct Tavern\n4. Five Guys\n5. Wawa\n6. The Green Line Cafe\n7. Spread Bagelry\n8. Cafe L'Aube\n9. Rival Bros Coffee\n10. Lucky's Last Chance"
+        ]
+    }
+}

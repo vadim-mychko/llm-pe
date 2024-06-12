@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Based on your previous responses, would you like to try American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food with a Korean influence?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sampling Cambodian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Thai restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying Japanese cuisine specifically?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a Japanese restaurant that serves sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in hot pot?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Fuji Mountain \n Izumi \n Sang Kee Peking Duck House \n Golden Triangle \n Daleng Restaurant \n Canton 11 \n Miga Korean BBQ & Sushi \n Bistro SouthEast \n Baan Thai \n Tu's Tea & Banh Mi South Philly",
+            "Daleng Restaurant \nGolden Triangle \nCinCin Restaurant \nBistro SouthEast \nCanton 11 \nMiga Korean BBQ & Sushi \nMalbec Argentine Steakhouse \nVedge \nRoy-Pitz Barrel House \nCook and Shaker\n",
+            "Golden Triangle \nDaleng Restaurant \nCinCin Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nCanton 11 \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nPure Tacos \nParc",
+            "Daleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nGrain Exchange \nCinCin Restaurant \nThe Juice Merchant \nLaCroix Restaurant at The Rittenhouse \nIzumi \nBaan Thai \nA Tutti, Ristorante Italiano",
+            " Daleng Restaurant \nBistro SouthEast \nGolden Triangle \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nFederal Donuts \nSang Kee Peking Duck House",
+            "Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nBaan Thai \nCanton 11 \nMiga Korean BBQ & Sushi \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nAudrey Claire ",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nChinatown 11 \nLucky's Last Chance \nGran Caffe L'Aquila \nTu's Tea & Banh Mi South Philly \nDim Sum House \nSang Kee Peking Duck House",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nCanton 11 \nOishii Pok\u00e9 \nGran Caffe L'Aquila \nHibiscus Cafe \nZoe's Kitchen \nPanda Express \nBuffalo Wild Wings",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nSang Kee Peking Duck House \nCanton 11 \nBaan Thai \nDim Sum House \nRistorante La Buca \nSushi House By Noda",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nBaan Thai \nSang Kee Peking Duck House \nCanton 11 \nTu's Tea & Banh Mi South Philly \nGran Caffe L'Aquila \nDaleng Restaurant"
+        ]
+    }
+}

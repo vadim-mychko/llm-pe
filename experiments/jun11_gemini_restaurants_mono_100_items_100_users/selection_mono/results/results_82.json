@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant with sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with coffee?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Cheesecake Factory\n2. Founding Fathers Sports Bar & Grill\n3. Jack's Firehouse\n4. Franklin's \n5. The Green Line Cafe \n6. The Tasty Toast \n7. The Blue Duck \n8. Fiore Fine Foods \n9. Cook and Shaker\n10. Macaroni's Restaurant\n",
+            " Heritage \nThe Grill  Smuckers \nMacaroni's Restaurant \nThe Blue Duck \nPearl's Oyster Bar \nFranklin's \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nAudrey Claire \nLove & Honey Fried Chicken",
+            "- CinCin Restaurant\n- Water Works Restaurant & Lounge\n- Founding Fathers Sports Bar & Grill\n- Jack's Firehouse\n- The Blue Duck\n- The Grill  Smuckers\n- Pearl's Oyster Bar\n- The Continental Restaurant and Martini Bar\n- Franklin's\n- Chestnut 7",
+            "1. The Cheesecake Factory \n2. Zuzu's Kitchen \n3. American Sardine Bar \n4. Lever House Restaurant - NYC\n5. Han Dynasty - Old City\n6. Cafe Ynez \n7. Sevilla \n8. The Continental Restaurant and Martini Bar \n9. Fiore Fine Foods \n10. Chestnut Hill Brewing Company",
+            "1. Zuzu's Kitchen\n2. The Tasty Toast\n3. The Grill  Smuckers\n4. Blackbird Pizzeria\n5. The QUICK FIXX\n6. Oteri's Italian Bakery | North 5th St\n7. Macaroni's Restaurant\n8. Spread Bagelry\n9. Steve's Prince of Steaks\n10. Otto's German Sausage & Deli",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. Heritage \n3. The Juice Merchant \n4. Zuzu's Kitchen \n5. Golden Triangle \n6. Water Works Restaurant & Lounge \n7. The Green Line Cafe \n8. Water Works Restaurant & Lounge \n9. Ristorante La Buca \n10. Pearl's Oyster Bar",
+            "Water Works Restaurant & Lounge \nZuzu's Kitchen \nThe Juice Merchant \nThe Tasty Toast \nDaleng Restaurant \nFederal Donuts \nGolden Triangle \nPrimoHoagies \nHeritage \nThe Grill  Smuckers\n",
+            "1. The Cheesecake Factory \n2. Olive Garden Italian Restaurant \n3. Macaroni's Restaurant \n4. The Blue Duck \n5. Dim Sum House \n6. Founding Fathers Sports Bar & Grill \n7. Pure Tacos \n8. Castellino's \n9. Tavern On the Hill \n10. Heritage",
+            "Lacroix Restaurant at The Rittenhouse \nGrain Exchange \nHeritage \nZuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nThe Tasty Toast \nThe Milk House \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar",
+            " Zuzu's Kitchen \nGolden Triangle \nDaleng Restaurant \nThe Blue Duck \nEvan's Pizza \nTrolley Car Diner \nRistorante La Buca \nFederal Donuts \nThe QUICK FIXX \nLisa's Kitchen"
+        ]
+    }
+}

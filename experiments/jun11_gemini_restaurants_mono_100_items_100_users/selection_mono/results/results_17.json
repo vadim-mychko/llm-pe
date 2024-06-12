@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in something Asian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have any interest in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine or something else?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a low-key bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a dance floor?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "****\n name: City Tap House Logan Square \n categories: Restaurants, American (New), Bars, Nightlife, Gastropubs, American (Traditional), Pubs, Beer Bar, Beer, Wine & Spirits, Food\n****\n name: Cantina Dos Segundos \n categories: Restaurants, Mexican, Tequila Bars, Mezcal Bars, Food, Nightlife, Bars, Tacos, Margaritas, Coffee & Tea, Caterers, Event Planning & Services, Venues & Event Spaces, Beer, Wine & Spirits, Karaoke\n****\n name: El Taco Jaguar \n categories: Restaurants, Tacos, Mexican, Vegan, Food, Vegetarian\n****\n name: White Dog Cafe \n categories: Restaurants, American (New), Breakfast & Brunch, Nightlife, American (Traditional), Bars\n****\n name: Honeygrow \n categories: Restaurants, Salads, Sandwiches, Food, Soups, American (New), Vegan, Vegetarian, Fast Food\n****\n name: Via Locusta \n categories: Restaurants, Italian, Pizza, Bars, Nightlife\n****\n name: Tria Cafe & Wine Bar \n categories: Restaurants, Wine Bars, Food, Beer, Wine & Spirits, Bars, Coffee & Tea, Nightlife\n****\n name: MilkBoy South Street \n categories: Restaurants, American (New), Food, Bars, Nightlife, Coffee & Tea, Cocktail Bars, Music Venues, Arts & Entertainment\n****\n name: HipCityVeg \n categories: Restaurants, Vegan, Sandwiches, Burgers, Fast Food, Vegetarian, Salad, Food, Beer, Wine & Spirits, Bars\n****\n name: Sabrina's Cafe \n categories: Restaurants, Breakfast & Brunch, Coffee & Tea, American (Traditional), Nightlife, Bars, Food\n****",
+            " Tavern On the Hill\nMcMenamin's Tavern\nPaddy's Old City Pub\nMad River Manayunk\nLucky's Last Chance\nLove & Honey Fried Chicken\nMason 208\nParc\nKokopelli Restaurant & Tequila Bar\nFranklin's",
+            "- Water Works Restaurant & Lounge \n- Tavern On the Hill \n- Macaroni's Restaurant \n- Mad River Manayunk \n- Jack's Firehouse \n- Franklin's \n- Chestnut 7 \n- Parc \n- CJ & Eck's \n- Lucky's Last Chance",
+            "The Tavern Restaurant \nThe Blue Duck \nMad River Manayunk \nFounding Fathers Sports Bar & Grill \nFranklin's \nLucky's Last Chance \nLove & Honey Fried Chicken \nJD Mcgillicuddy's Manayunk \nCJ & Eck's \nBlackbird Pizzeria",
+            "Founding Fathers Sports Bar & Grill \nThe El Bar \nMisconduct Tavern \nMad River Manayunk \nPaddy's Old City Pub \nThe Tavern Restaurant \nVeda - Modern Indian Bistro \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk",
+            "1. The El Bar\n2. Tavern On the Hill\n3. Heritage\n4. Maison 208\n5. Olive Garden Italian Restaurant\n6. McGillin's Olde Ale House\n7. Jack's Firehouse\n8. Paddy's Old City Pub\n9. Founding Fathers Sports Bar & Grill\n10. Mad River Manayunk",
+            "Jack's Firehouse\nThe Tavern Restaurant\nThe El Bar\nMisconduct Tavern\nPaddy's Old City Pub\nMad River Manayunk\nFranklin's \nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nCJ & Eck's",
+            "Founding Fathers Sports Bar & Grill\nFranklin's\nMisconduct Tavern\nMacaroni's Restaurant\nThe Tavern Restaurant\nGrain Exchange\nChestnut 7\nThe Blue Duck\nLucky's Last Chance\nThe El Bar",
+            "Federal Donuts \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nMalbec Argentine Steakhouse \nMcMenamin's Tavern \nFranklin's \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nJack's Firehouse"
+        ]
+    }
+}

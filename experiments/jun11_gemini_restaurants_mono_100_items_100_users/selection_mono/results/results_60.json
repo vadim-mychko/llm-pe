@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place to grab a bagel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with pizza on the menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for beer?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something to eat with a salad as an option?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with hummus as a menu option?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves pasta?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            "Founding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nThe QUICK FIXX \nThe Green Line Cafe \nThe FRESH Grocer - Progress Plaza \nThe Grill  Smuckers",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nCinCin Restaurant\nFederal Donuts",
+            "1. Federal Donuts\n2. Zuzu's Kitchen\n3. Fiore Fine Foods\n4. The Blue Duck\n5. Ristorante La Buca\n6. A Tutti, Ristorante Italiano\n7. Il Caffe Aldo Lamberti\n8. Fiore Fine Foods\n9. Evan's Pizza\n10. The QUICK FIXX",
+            "1.  Sang Kee Peking Duck House \n2.  Canton 11 \n3.  Tu's Tea & Banh Mi South Philly \n4.  Federal Donuts \n5.  Evan's Pizza \n6.  The QUICK FIXX \n7.  KC's Pastries \n8.  Spread Bagelry \n9.  Parc \n10. Cafe L'Aube",
+            " Sang Kee Peking Duck House \nThe Juice Merchant \nZuzu's Kitchen \nGreen Leafs & Bananas \nBaan Thai \nDim Sum House \nThe Cheesecake Factory \nOlive Garden Italian Restaurant \nRoy-Pitz Barrel House \nGrain Exchange",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nThe QUICK FIXX \nSpreed Bagelry \nThe Green Line Cafe \nGran Caffe L'Aquila \nFiore Fine Foods \nThe Blue Duck \nParc \nOteri's Italian Bakery | North 5th St",
+            "1.  Ristorante La Buca\n2.  Audrey Claire \n3.  Pearl's Oyster Bar \n4.  Water Works Restaurant & Lounge \n5.  A Tutti, Ristorante Italiano \n6.  Macaroni's Restaurant \n7.  The QUICK FIXX\n8.  Daleng Restaurant \n9.  Canton 11 \n10. Sang Kee Peking Duck House",
+            "1. Ristorante La Buca\n2. Olive Garden Italian Restaurant\n3. A Tutti, Ristorante Italiano\n4. Lacroix Restaurant at The Rittenhouse\n5. PrimoHoagies\n6. Macaroni's Restaurant\n7. Talluto's Authentic Italian Food\n8. Crust Vegan Bakery\n9. Fiore Fine Foods\n10. Castellino's",
+            "1. Zuzu's Kitchen \n2. Olive Garden Italian Restaurant \n3. A Tutti, Ristorante Italiano \n4. PrimoHoagies \n5. Macaroni's Restaurant \n6. Ristorante La Buca \n7. Federal Donuts \n8. Parc \n9. CO-OP Restaurant & Lounge \n10. Chestnut 7"
+        ]
+    }
+}

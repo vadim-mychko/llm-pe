@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something in the American (Traditional) or American (New) category?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Vietnamese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Korean restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Izumi \nCanton 11 \nHibachi Express \nGolden Triangle \nDaleng Restaurant \nMong Kok Station \nA Tutti, Ristorante Italiano \nFederal Donuts \nBlackbird Pizzeria \nThe QUICK FIXX",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nZuzu's Kitchen \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nA Tutti, Ristorante Italiano \\n\nThe Milk House \\n\nValley Green Inn",
+            " Mood Indian Restaurant\nLocal Tavern\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nFederal Donuts\nCanton 11\nThe Blue Duck\nDim Sum House\nJake's & Cooper's Wine Bar & Wine Shop",
+            " Golden Triangle \\n\nLacroix Restaurant at The Rittenhouse \\n\nWater Works Restaurant & Lounge \\n\nThe Continental Restaurant and Martini Bar \\n\nThe Milk House \\n\nBloomsday Cafe \\n\nMacaroni's Restaurant \\n\nCook and Shaker \\n\nHawthornes Beer Cafe \\n\nCO-OP Restaurant & Lounge",
+            " Golden Triangle \n Daleng Restaurant \n Izumi \n The Tasty Toast \n CinCin Restaurant \n Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n Zazu's Kitchen \n CO-OP Restaurant & Lounge \n Heritage",
+            "* Canton 11\n* New York Gyro Truck\n* Sang Kee Peking Duck House\n* Tu's Tea & Banh Mi South Philly\n* Daleng Restaurant\n* KC's Pastries\n* Miga Korean BBQ & Sushi\n* Oishii Pok\u00e9\n* Bistro SouthEast\n* CinCin Restaurant",
+            "Daleng Restaurant \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nTalluto's Authentic Italian Food \nZuzus Kitchen \nIzumi \nBaan Thai \nFederal Donuts \n Canton 11",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nIzumi \\n\nA Tutti, Ristorante Italiano",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant",
+            "1. Golden Triangle\n2. The Tasty Toast\n3. Germantown Garden\n4. Macaroni's Restaurant\n5. Paddy's Old City Pub\n6. Misconduct Tavern\n7. The Tavern Restaurant\n8. Mad River Manayunk\n9. McMenamin's Tavern\n10. CJ & Eck's\n"
+        ]
+    }
+}

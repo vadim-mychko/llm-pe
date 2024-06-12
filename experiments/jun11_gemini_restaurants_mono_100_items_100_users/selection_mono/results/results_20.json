@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bars and nightlife?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer places that have sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Do you mind checking out places with seafood options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a place that serves Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a steakhouse?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Fuji Mountain \n Izumi \n Miga Korean BBQ & Sushi \n Oishii Pok\u00e9 \n Ristorante La Buca \n Sushi House \n Tu's Tea & Banh Mi South Philly \n Vedge",
+            "Macaroni's Restaurant \\n\nPaddy's Old City Pub \\n\nFounding Fathers Sports Bar & Grill \\n\nMad River Manayunk \\n\nThe Tavern Restaurant \\n\nJD Mcgillicuddy's Manayunk \\n\nFranklin's \\n\nWishbone \\n\nJack's Firehouse \\n\nThe Blue Duck",
+            "The Tavern Restaurant\nHeritage\nJack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nBetty's Speakeasy\nParc\nMcMenamin's Tavern\nGran Caffe L'Aquila\nMaison 208",
+            "1. Germantown Garden\n2. Founding Fathers Sports Bar & Grill\n3. Mad River Manayunk\n4. JD Mcgillicuddy's Manayunk\n5. Franklin's\n6. Jack's Firehouse\n7. Tavern On the Hill\n8. Paddy's Old City Pub\n9. Misconduct Tavern\n10. The Tavern Restaurant",
+            "Veda - Modern Indian Bistro \nMisconduct Tavern \nThe Tavern Restaurant \nMaison 208 \nBloomsday Cafe \nPaddy's Old City Pub \nNorth Bowl \nMad River Manayunk \nThe El Bar \nWishbone",
+            "Founding Fathers Sports Bar & Grill\nJD Mcgillicuddy's Manayunk\nMad River Manayunk\nFranklin's\nTavern On the Hill\nThe El Bar\nRoy-Pitz Barrel House\nThe Blue Duck\nPearl's Oyster Bar\nJack's Firehouse",
+            "Water Works Restaurant & Lounge \nGolden Triangle \nIzumi \nZummo's \nCantton 11 \nFuji Mountain \nMalbec Argentine Steakhouse \nRistorante La Buca \nThe Blue Duck \nThe Continental Restaurant and Martini Bar",
+            "The Tavern Restaurant \nGrain Exchange \nMisconduct Tavern \nMalbec Argentine Steakhouse \nThe Continental Restaurant and Martini Bar \nTavern On the Hill \nMad River Manayunk \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nThe Green Line Cafe",
+            "Founding Fathers Sports Bar & Grill\nFederal Donuts\nThe Tavern Restaurant\nPaddy's Old City Pub\nMisconduct Tavern\nBloomsday Cafe\nThe Green Line Cafe\nRival Bros Coffee\nWawa\nMad River Manayunk",
+            "1. Veda - Modern Indian Bistro\n2. The Tavern Restaurant \n3. Tavern On the Hill \n4. The Blue Duck\n5. Blackbird Pizzeria\n6. Roy-Pitz Barrel House \n7. Founding Fathers Sports Bar & Grill \n8. Franklin's \n9. JD Mcgillicuddy's Manayunk \n10. Lucky's Last Chance"
+        ]
+    }
+}

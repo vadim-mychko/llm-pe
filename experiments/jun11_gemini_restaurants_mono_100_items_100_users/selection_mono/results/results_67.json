@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a juice bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an Italian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegan restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that has tapas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast \\n\nLe Pain Quotidien",
+            "Grain Exchange \\n\nThe Tasty Toast \\n\nDaleng Restaurant \\n\nPrimoHoagies \\n\nGermantown Garden \\n\nThe Juice Merchant \\n\nZuzu's Kitchen \\n\nFederal Donuts \\n\nThe QUICK FIXX \\n\nA Tutti, Ristorante Italiano",
+            " Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n Heritage \n CO-OP Restaurant & Lounge \n The Continental Restaurant and Martini Bar \n Audrey Claire \n Macaroni's Restaurant \n Federal Donuts \nParc\nJake's & Cooper's Wine Bar & Wine Shop",
+            "Izumi \\n\nPho Ha \\n\nWasabi Sushi \\n\nWasabi House \\n\nJaponaise \\n\nFuji Mountain \\n\nOriental Pearl \\n\nKyma \\n\nHan Dynasty \\n\nParc\n",
+            "Zuzu's Kitchen\nGolden Triangle\nGrain Exchange\nCinCin Restaurant\nBloomsday Cafe\nCanton 11\nEvan's Pizza\nBlackbird Pizzeria\nThe QUICK FIXX\nThe Cheesecake Factory",
+            "CinCin Restaurant\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nThe Continental Restaurant and Martini Bar\nJake's & Cooper's Wine Bar & Wine Shop\nLacroix Restaurant at The Rittenhouse\nCO-OP Restaurant & Lounge\nEvan's Pizza\nIzumi\nThe Grill  Smuckers",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGrain Exchange \\n\nTavern On the Hill \\n\nLacroix Restaurant at The Rittenhouse \\n\nCook and Shaker \\n\nFederal Donuts \\n\nThe Milk House \\n\nOlive Garden Italian Restaurant \\n\nCO-OP Restaurant & Lounge",
+            "Water Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nThe Milk House \\n\nMiga Korean BBQ & Sushi \\n\nCanton 11 \\n\nSteve's Prince of Steaks \\n\nThe El Bar \\n\nJing's House Chinese Restaurant",
+            "Golden Triangle \\n\nBloomsday Cafe \\n\nFreddy's Famous Frozen Custard & Steakburgers \\n\nLucky's Last Chance \\n\nFive Guys \\n\nWishbone \\n\nLove & Honey Fried Chicken \\n\nFederal Donuts \\n\nJD Mcgillicuddy's Manayunk \\n\nLisa's Kitchen",
+            "Federal Donuts \nWishbone \nFive Guys \nLucky's Last Chance \nFranklin's \nJD Mcgillicuddy's Manayunk \nLove & Honey Fried Chicken \nJack's Firehouse \nLisa's Kitchen \nBetty's Speakeasy"
+        ]
+    }
+}

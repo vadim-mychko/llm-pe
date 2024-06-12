@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that has sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salad or poke?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that is halal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that has breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Vedge \\n\nMonster Vegan \\n\nHey Hummus \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nBenna's Cafe \\n\nNorth Bowl \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nJack's Firehouse",
+            "Vedge \nMonster Vegan \nThe Juice Merchant \nThe QUICK FIXX \nBenna's Cafe \nHey Hummus \nLuvh Vegan Deli \nGreen Leafs & Bananas \nVegetarian \nEssene Market & Cafe",
+            " Monster Vegan \n Hey Hummus \n Vedge \n Green Leafs & Bananas \n The Juice Merchant \n The QUICK FIXX \n Benna's Cafe \n Luhv Vegan Deli \n Blackbird Pizzeria \n Cafe L'Aube",
+            "Vedge \nHey Hummus \nMonster Vegan \nBenna's Cafe \nThe Juice Merchant \nBloomsday Cafe \nGreen Leafs & Bananas \nSister Muhammad's Kitchen \nLuvh Vegan Deli \nThe Green Line Cafe",
+            "Miga Korean BBQ & Sushi \\n\nDim Sum House \\n\ncanton 11 \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nVedge \\n\nMonster Vegan \\n\nThe Fresh Grocer - Progress Plaza \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9",
+            "1. Vedge \n2. Hey Hummus \n3. Monster Vegan \n4. Benna's Cafe \n5. The Juice Merchant \n6. Fiore Fine Foods \n7. Vegetarian \n8. Luhv Vegan Deli \n9. Green Leafs & Bananas \n10. Cafe L'Aube",
+            "Vedge \nHey Hummus \nMonster Vegan \nBenna's Cafe \nEssen Market & Caf\u00e9 \nThe QUICK FIXX \nLuhv Vegan Deli \nSpread Bagelry \nCafe L'Aube \nRival Bros Coffee",
+            "1. Vedge \\n\n2. Essene Market & Caf\u00e9 \\n\n3. Green Leafs & Bananas \\n\n4. Luhv Vegan Deli \\n\n5. Rival Bros Coffee \\n\n6. Cafe L'Aube \\n\n7. Benna's Cafe \\n\n8. Betty's Speakeasy \\n\n9. Fiore Fine Foods \\n\n10. Gran Caffe L'Aquila\n",
+            "The Juice Merchant\nThe Tasty Toast\nBenna's Cafe\nThe Fresh Grocer - Progress Plaza\nBetty's Speakeasy\nRival Bros Coffee\nTrolley Car Diner\nFiore Fine Foods\nThe Green Line Cafe\nSpread Bagelry",
+            "1. The Tasty Toast \n2. Castellino's \n3. Essene Market & Caf\u00e9 \n4. Vedge \n5. The Juice Merchant \n6. Benna's Cafe \n7. Fiore Fine Foods \n8. Betty's Speakeasy \n9. The Green Line Cafe \n10. Spread Bagelry"
+        ]
+    }
+}

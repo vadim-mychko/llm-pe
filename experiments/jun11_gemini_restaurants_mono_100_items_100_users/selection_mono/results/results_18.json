@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with pan-Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a restaurant that has pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that has burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with salads?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Izumi \\n\nFuji Mountain \\n\nBenna's Cafe \\n\nMiga Korean BBQ & Sushi \\n\nMad River Manayunk \\n\nRoy-Pitz Barrel House \\n\nEvan's Pizza \\n\nCook and Shaker \\n\nChestnut 7 \\n\nJack's Firehouse",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. Zuzu's Kitchen\n5. The Tasty Toast\n6. The QUICK FIXX\n7. Green Leafs & Bananas\n8. Spread Bagelry\n9. The Green Line Cafe\n10. Lisa's Kitchen",
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Tasty Toast \nThe Juice Merchant \nBistro SouthEast \nMonster Vegan \nCanton 11 \nTu's Tea & Banh Mi South Philly \nThe QUICK FIXX \nGreen Leafs & Bananas",
+            "Zuzu's Kitchen \\n\nPrimoHoagies \\n\nThe Tasty Toast \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nWawa\n",
+            "Zuzu's Kitchen \nThe Juice Merchant\nDaleng Restaurant \nPrimoHoagies \nThe Tasty Toast \nThe Green Line Cafe\nKC's Pastries \nSpread Bagelry \nGreen Leafs & Bananas \nLisa's Kitchen",
+            "Zuzu's Kitchen \nGolden Triangle \nPrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nFederal Donuts \nFive Guys \nMonster Vegan \nThe QUICK FIXX \nLisa's Kitchen",
+            "Jack's Firehouse \nLisa's Kitchen \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly \nKC's Pastries \nSpread Bagelry \nLucky's Last Chance \nMad River Manayunk \nOlive Garden Italian Restaurant \nMcMenamin's Tavern \nThe Grill  Smuckers \nThe El Bar \nPearl's Oyster Bar \nGreen Leafs & Bananas \nParc \nThe Cheesecake Factory \nFranklin's \nVedge \nThe Juice Merchant \nTermini Bros Bakery \nBenna's Cafe \nThe Tavern Restaurant \nMonster Vegan \nFederal Donuts \nBetty's Speakeasy \nNorth Bowl \nPaddy's Old City Pub \nChinatown Square \nZuzu's Kitchen \nFederal Donuts \nWishbone \nOishii Pok\u00e9 \nGreen Line Cafe \nLove & Honey Fried Chicken \nCJ & Eck's \nBloomsday Cafe \nPrimoHoagies \nRival Bros Coffee \nGran Caffe L'Aquila \nDaleng Restaurant \nThe Blue Duck \nEvan's Pizza \nFour Seasons Hotel Philadelphia \nMing Dynasty \nGolden Triangle \nSabrina's Cafe \nSabrina's Cafe \nFiore Fine Foods \nJohn's Roast Pork South Street",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. The Tasty Toast\n4. The Blue Duck\n5. Zuzu's Kitchen\n6. Lisa's Kitchen\n7. Green Leafs & Bananas\n8. Spread Bagelry\n9. The Green Line Cafe\n10. CJ & Eck's",
+            "1. PrimoHoagies \\n\n2. The Juice Merchant \\n\n3. The Tasty Toast \\n\n4. Federal Donuts \\n\n5. Grain Exchange \\n\n6. Misconduct Tavern \\n\n7. The Fresh Grocer - Progress Plaza \\n\n8. Federal Donuts \\n\n9. Cook and Shaker \\n\n10. Five Guys",
+            "1. The Green Line Cafe \n2. Spread Bagelry \n3. Sister Muhammad's Kitchen \n4. Green Leafs & Bananas \n5. Lisa's Kitchen \n6. Evan's Pizza \n7. Cook and Shaker \n8. Fiore Fine Foods \n9. Dim Sum House \n10. Aldine "
+        ]
+    }
+}

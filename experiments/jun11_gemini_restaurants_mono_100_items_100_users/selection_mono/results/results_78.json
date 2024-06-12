@@ -1,0 +1,58 @@
+{
+    "78": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer vegan restaurants that also have Indian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegetarian spot with bar options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant that has cocktail bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves tapas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegetarian spot that serves pasta or another Italian dish?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant\nZuzu's Kitchen\nLacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nFederal Donuts\nGermantown Garden\nGolden Triangle\nLocal Tavern\nSang Kee Peking Duck House\nFuji Mountain",
+            "Monster Vegan\nVedge\nHey Hummus\nDaleng Restaurant \nThe Juice Merchant\nBenna's Cafe\nNorth Bowl\nEssene Market & Caf\u00e9\nLuvh Vegan Deli\nGreen Leafs & Bananas",
+            "Vedge \nMonster Vegan \nThe Juice Merchant \nBenna's Cafe \nHey Hummus \nEssene Market & Caf\u00e9 \nLuhv Vegan Deli \nGreen Leafs & Bananas \nPure Tacos \nSister Muhammad's Kitchen",
+            "Monster Vegan \\n\nBenna's Cafe \\n\nNorth Bowl \\n\nVedge \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nLuvh Vegan Deli \\n\nPure Tacos \\n\nGran Caffe L'Aquila \\n\nRival Bros Coffee",
+            "Benna's Cafe\nVedge\nMonster Vegan\nHey Hummus\nVegan Luhv Deli\nEssene Market & Caf\u00e9\nGreen Leafs & Bananas\nThe Green Line Cafe\nTu's Tea & Banh Mi South Philly\nGran Caffe L'Aquila",
+            "1. Veda - Modern Indian Bistro \n2. Vedge \n3. Hey Hummus \n4. Essene Market & Caf\u00e9 \n5. Blackbird Pizzeria \n6. The QUICK FIXX \n7. Luhv Vegan Deli \n8. Gran Caffe L'Aquila \n9. Cafe L'Aube \n10. Rival Bros Coffee",
+            "Veda - Modern Indian Bistro \nMonster Vegan \nHey Hummus \nThe QUICK FIXX \nVedge \nBlackbird Pizzeria \nLuhv Vegan Deli \nGreen Leafs & Bananas \nBenna's Cafe \nEssene Market & Caf\u00e9",
+            "Vedge \nHey Hummus \nMonster Vegan \nBenna's Cafe \nThe Green Line Cafe \nGreen Leafs & Bananas \nLuvh Vegan Deli \nGran Caffe L'Aquila \nEvan's Pizza \nBetty's Speakeasy",
+            "Vedge \nHey Hummus \nMonster Vegan \nGreen Leafs & Bananas \nJack's Firehouse \nThe Blue Duck \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly \nLove & Honey Fried Chicken \nEvan's Pizza",
+            "1. Monster Vegan \n2. Vedge \n3. Hey Hummus \n4. North Bowl \n5. Essene Market & Caf\u00e9 \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. The Blue Duck \n8. The QUICK FIXX \n9. Luhv Vegan Deli \n10. The Green Line Cafe"
+        ]
+    }
+}

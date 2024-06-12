@@ -1,0 +1,58 @@
+{
+    "29": {
+        "conv_hist": [
+            {
+                "query": "Are looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American Cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese or Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian or vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with night life?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bars with a casual atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in hot dogs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nDim Sum House \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nBaan Thai \\n\nTu's Tea & Banh Mi South Philly \\n\nOishii Pok\u00e9 \\n\nAudrey Claire",
+            " Fuji Mountain \nWawa \nCanton 11 \nFederal Donuts \nJack's Firehouse \nJD Mcgillicuddy's Manayunk \nLisa's Kitchen \nThe Blue Duck \nSteve's Prince of Steaks \nGreen Leafs & Bananas",
+            "Golden Triangle \nDaleng Restaurant \nGrain Exchange \nNorth Bowl \nCanting 11 \nBistro SouthEast \nThe QUICK FIXX \nGreen Leafs & Bananas \nFounding Fathers Sports Bar & Grill \nAudrey Claire",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Federal Donuts \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n Canton 11 \n Dim Sum House \n Fiore Fine Foods \n KC's Pastries \n Oteri's Italian Bakery | North 5th St",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nThe Juice Merchant\nThe Tasty Toast\nChinChin Restaurant\nFederal Donuts\nKokopelli Restaurant & Tequila Bar",
+            "1. Fuji Mountain\n2. The El Bar\n3. Vedge\n4. Tu's Tea & Banh Mi South Philly\n5. The QUICK FIXX\n6. Green Leafs & Bananas\n7. Love & Honey Fried Chicken\n8. The Juice Merchant\n9. Daleng Restaurant \n10. Izumi",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nThe Juice Merchant \\n\nGrain Exchange \\n\nLe Pain Quotidien \\n\nThe Tasty Toast \\n\nCinCin Restaurant \\n\nHeritage",
+            "Macaroni's Restaurant \nGolden Triangle \nThe Tavern Restaurant \nMisconduct Tavern \nGermantown Garden \nWishbone \nJack's Firehouse \nLucky's Last Chance \nFranklin's \nPaddy's Old City Pub",
+            "1. Jake's & Cooper's Wine Bar & Wine Shop \n2. Roy-Pitz Barrel House \n3. Mad River Manayunk \n4. Macaroni's Restaurant \n5. Founding Fathers Sports Bar & Grill \n6. Chestnut 7 \n7. Franklin's \n8. JD Mcgillicuddy's Manayunk \n9. Thirsty Dice \n10. Misconduct Tavern",
+            "Tavern On the Hill \\n\nThe Grill  Smuckers \\n\nThe El Bar \\n\nThe Blue Duck \\n\nCinCin Restaurant \\n\nHeritage \\n\nGrain Exchange \\n\nEvan's Pizza \\n\nFederal Donuts \\n\nJack's Firehouse"
+        ]
+    }
+}

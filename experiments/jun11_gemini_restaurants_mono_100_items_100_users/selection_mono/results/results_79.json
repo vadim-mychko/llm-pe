@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves steak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean BBQ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sushi?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant\nZuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nThe Tasty Toast \nLe Pain Quotidien \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Heritage \n Kokopelli Restaurant & Tequila Bar",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Daleng Restaurant \n4. Federal Donuts \n5. The Tasty Toast \n6. Lacroix Restaurant at The Rittenhouse \n7. Grain Exchange \n8. CO-OP Restaurant & Lounge \n9. Macaroni's Restaurant \n10. Pearl's Oyster Bar",
+            "Water Works Restaurant & Lounge \\n\nZuzu's Kitchen \\n\nGolden Triangle \\n\nThe Milk House \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Continental Restaurant and Martini Bar \\n\nPearl's Oyster Bar \\n\nRoy-Pitz Barrel House \\n\nThe El Bar \\n\nJack's Firehouse",
+            "1. Water Works Restaurant & Lounge\n2. Lacroix Restaurant at The Rittenhouse\n3. Golden Triangle\n4. Daleng Restaurant\n5. Fuji Mountain\n6. Castellino's\n7. Canton 11\n8. Tavern On the Hill\n9. Baan Thai\n10. Sang Kee Peking Duck House",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nValley Green Inn \nVeda - Modern Indian Bistro",
+            "1. Water Works Restaurant & Lounge \n2. Pearl's Oyster Bar \n3. Ristorante La Buca \n4. Golden Triangle \n5. Bistro SouthEast \n6. Fiore Fine Foods \n7. Fiore Fine Foods \n8. Miga Korean BBQ & Sushi \n9. Oishii Pok\u00e9 \n10. Macaroni's Restaurant",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nPrimoHoagies \\n\nThe Tasty Toast \\n\nLacroix Restaurant at The Rittenhouse \\n\nFuji Mountain \\n\nLe Pain Quotidien \\n\nCanton 11 \\n\nBlue Duck \\n\nBanan Thai ",
+            "1. Water Works Restaurant & Lounge \n2. Zazu's Kitchen \n3. Golden Triangle \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Juice Merchant \n8. Federal Donuts \n9. Mong Kok Station \n10. The Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nValley Green Inn\nFuji Mountain\nMisconduct Tavern\nPaddy's Old City Pub\nThe Grill  Smuckers\nThe Green Line Cafe"
+        ]
+    }
+}

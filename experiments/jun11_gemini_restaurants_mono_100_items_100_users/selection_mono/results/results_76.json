@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Do you like American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in something healthier like a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken or burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for fish sandwiches.",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for deli sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Local Tavern\nWater Works Restaurant & Lounge\nThe Green Line Cafe\nThe Blue Duck\nThe Milk House\nThe Continental Restaurant and Martini Bar\nBlackbird Pizzeria\nThe El Bar\nThe Blue Duck\nGran Caffe L'Aquila",
+            "Grain Exchange \nThe Tasty Toast \nThe Green Line Cafe \nFuji Mountain \nThe QUICK FIXX \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nWawa",
+            "1. PrimoHoagies \n2. Daleng Restaurant \n3. The Juice Merchant \n4. Federal Donuts \n5. Mong Kok Station \n6. The Tasty Toast \n7. Le Pain Quotidien \n8. A Tutti, Ristorante Italiano \n9. Heritage \n10. The Milk House",
+            "1. PrimoHoagies\n2. Five Guys\n3. Lisas Kitchen \n4. Green Leafs & Bananas\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Cook and Shaker\n8. Roy-Pitz Barrel House\n9. The El Bar\n10. Bloomsday Cafe",
+            " Zuzu's Kitchen \nPrimoHoagies\nThe Tasty Toast\nFive Guys\nMisconduct Tavern\nRoy-Pitz Barrel House\nLisa's Kitchen\nThe Green Line Cafe\nSpread Bagelry\nSabrina's Cafe",
+            "The Blue Duck \nJack's Firehouse \nGreen Leafs & Bananas \nSpread Bagelry \nFranklin's \nEvan's Pizza \nThe Green Line Cafe \nDim Sum House \nTrolley Car Diner \nRistorante La Buca",
+            "1. Water Works Restaurant & Lounge\n2. Golden Triangle\n3. Heritage\n4. Lacroix Restaurant at The Rittenhouse\n5. CinCin Restaurant\n6. Veda - Modern Indian Bistro\n7. The Tavern Restaurant\n8. Macaroni's Restaurant\n9. The Blue Duck\n10. Mad River Manayunk",
+            " The Juice Merchant \\n\nThe Tasty Toast \\n\nPrimoHoagies \\n\nFederal Donuts \\n\nFive Guys \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "1. The Green Line Cafe \n2. PrimoHoagies \n3. Spread Bagelry \n4. Lisa's Kitchen \n5. Steve's Prince of Steaks \n6. McMenamin's Tavern \n7. Wishbone \n8. Betty's Speakeasy \n9. Blackbird Pizzeria \n10. Green Leafs & Bananas",
+            "1. Zazu's Kitchen \n2. The Tavern Restaurant \n3. The Tasty Toast \n4. PrimoHoagies \n5. Misconduct Tavern \n6. The Green Line Cafe \n7. Spread Bagelry \n8. Green Leafs & Bananas \n9. Lisa's Kitchen \n10. Steve's Prince of Steaks"
+        ]
+    }
+}

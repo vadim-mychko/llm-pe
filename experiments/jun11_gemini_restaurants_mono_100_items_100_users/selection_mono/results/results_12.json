@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for any American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that has live music?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "* The QUICK FIXX\n* Blackbird Pizzeria\n* Evan's Pizza\n* Fiore Fine Foods\n* A Tutti, Ristorante Italiano\n* Roy-Pitz Barrel House\n* Jake's & Cooper's Wine Bar & Wine Shop\n* Tavern On the Hill\n* PrimoHoagies\n* Macaroni's Restaurant",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nIzumi \\n\nGolden Triangle \\n\nLe Pain Quotidien \\n\nCanton 11 \\n\nBistro SouthEast \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi",
+            "1. Federal Donuts\n2. Daleng Restaurant\n3. CinCin Restaurant\n4. Canton 11\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Dim Sum House\n7. Blackbird Pizzeria\n8. Evan's Pizza\n9. Lisa's Kitchen\n10. Chestnut 7",
+            "The Green Line Cafe\nThe Tavern Restaurant \nMcMenamin's Tavern\nWishbone \nJack's Firehouse \nRoy-Pitz Barrel House \nFranklin's \nJake's & Cooper's Wine Bar & Wine Shop \nRistorante La Buca \nChestnut 7",
+            "Heritage \nGrain Exchange \nGermantown Garden \nFederal Donuts \nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys \nMad River Manayunk \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill",
+            "1. Tavern On the Hill \n2. McMenamin's Tavern \n3. The Continental Restaurant and Martini Bar \n4. The Green Line Cafe\n5. Trolley Car Diner \n6. Wawa \n7. Spread Bagelry \n8. Benna's Cafe \n9. Pearl's Oyster Bar \n10. Lucky's Last Chance",
+            "1. Grain Exchange \n2. Heritage \n3. The Tavern Restaurant \n4. Founding Fathers Sports Bar & Grill \n5. Misconduct Tavern \n6. Mad River Manayunk \n7. Johnny Brenda's \n8. The El Bar \n9. Local Tavern\n10. Germantown Garden",
+            "The Tavern Restaurant \nTavern On the Hill \nJack's Firehouse \nJD Mcgillicuddy's Manayunk \nPaddy's Old City Pub \nFranklin's \nMisconduct Tavern \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nMad River Manayunk",
+            "Jack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nThe El Bar \nMcMenamin's Tavern \nCJ & Eck's \nWishbone \nBetty's Speakeasy \nMalbec Argentine Steakhouse",
+            " Germantown Garden \nThe Tavern Restaurant \nMad River Manayunk \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nMisconduct Tavern \nPaddy's Old City Pub \nFranklin's \nJD Mcgillicuddy's Manayunk \nTavern On the Hill"
+        ]
+    }
+}

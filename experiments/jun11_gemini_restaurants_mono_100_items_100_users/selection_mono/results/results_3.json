@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food with Italian flavors?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ordering pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food with American flavors?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Golden Triangle \nZuzu's Kitchen \nDaleng Restaurant \nFederal Donuts \nIzumi \nWater Works Restaurant & Lounge \nPrimoHoagies \nBuchanan Ingersoll & Rooney P.C. \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano",
+            "1. Zuzu's Kitchen\n2. Germantown Garden\n3. Lokal Tavern\n4. Golden Triangle\n5. PrimoHoagies\n6. The Tasty Toast\n7. Daleng Restaurant\n8. Federal Donuts\n9. Valley Green Inn\n10. Wawa",
+            "Zuzu's Kitchen \\n\nWater Works Restaurant & Lounge \\n\nGrain Exchange \\n\nThe Green Line Cafe \\n\nThe Milk House \\n\nTavern On the Hill \\n\nPaddy's Old City Pub \\n\n North Bowl \\n\nMalbec Argentine Steakhouse \\n\nBenna's Cafe",
+            "Founding Fathers Sports Bar & Grill \\n\nGreen Leafs & Bananas \\n\nTrolley Car Diner \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nSteve's Prince of Steaks \\n\nBetty's Speakeasy \\n\nSpread Bagelry \\n\nLove & Honey Fried Chicken \\n\nFederal Donuts",
+            "1. The Grill  Smuckers \n2. The Tavern Restaurant \n3. The Milk House \n4. Trolley Car Diner \n5. Founding Fathers Sports Bar & Grill \n6. Olive Garden Italian Restaurant \n7. CO-OP Restaurant & Lounge \n8. The Cheesecake Factory \n9. Parc \n10. Valley Green Inn",
+            "1. Water Works Restaurant & Lounge\n2. Grain Exchange\n3. CO-OP Restaurant & Lounge\n4. Malbec Argentine Steakhouse\n5.Roy-Pitz Barrel House\n6. Cook and Shaker\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. CJ & Eck's\n10. Rival Bros Coffee\n",
+            "Grain Exchange \nThe Tavern Restaurant \nMisconduct Tavern \nThe Grill  Smuckers \nPaddy's Old City Pub \nNorth Bowl \nMacaroni's Restaurant \nMad River Manayunk \nJack's Firehouse \nFranklin's",
+            "1. The Green Line Cafe \n2. The QUICK FIXX \n3. Fiore Fine Foods \n4. Betty's Speakeasy \n5. Rival Bros Coffee \n6. Parc \n7. CJ & Eck's \n8. The El Bar \n9. Green Leafs & Bananas \n10. Chestnut 7",
+            "Dim Sum House \nTrolley Car Diner \nSang Kee Peking Duck House \nBaan Thai \nDonburi \nMama's Vegetarian \nHong Kong House \nCanton 11 \nChengdu 23 \nVietnam \nPepper Mill"
+        ]
+    }
+}

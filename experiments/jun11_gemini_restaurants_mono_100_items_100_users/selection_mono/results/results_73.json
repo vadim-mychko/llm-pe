@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in something with chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try some pizza instead?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            " Water Works Restaurant & Lounge \nGolden Triangle \nZuzu's Kitchen \nDaleng Restaurant \nThe Juice Merchant \nThe Tasty Toast \nPrimoHoagies \nLacroix Restaurant at The Rittenhouse \nIzumi \nMong Kok Station",
+            "1. Water Works Restaurant & Lounge\n2. Daleng Restaurant\n3. PrimoHoagies\n4. Golden Triangle\n5. Zuzu's Kitchen\n6. Federal Donuts\n7. The Tasty Toast \n8. Kokopelli Restaurant & Tequila Bar\n9. The Milk House\n10. CinCin Restaurant",
+            "1. The El Bar \n2. Tavern On the Hill \n3. Pearl's Oyster Bar \n4. Evan's Pizza \n5. Macaroni's Restaurant \n6. Cantina dos Amigos \n7. Steve's Prince of Steaks \n8. The QUICK FIXX \n9. Green Leafs & Bananas \n10. Chestnut 7",
+            " Mood Indian Restaurant\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nFederal Donuts\nPrimoHoagies\nGermantown Garden\nThe Juice Merchant\nFederal Donuts",
+            " Zuzu's Kitchen \n Golden Triangle \n A Tutti, Ristorante Italiano \n Fiore Fine Foods \n Evan's Pizza \n Blackbird Pizzeria \n The QUICK FIXX \n Chestnut 7 \n Betty's Speakeasy \n Spread Bagelry",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nThe Tasty Toast \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House \nTalluto's Authentic Italian Food \nFiore Fine Foods \nBetty's Speakeasy",
+            "1. Zuzu's Kitchen \n2. A Tutti, Ristorante Italiano \n3. The QUICK FIXX \n4. Chestnut 7 \n5. Blackbird Pizzeria \n6. Fiore Fine Foods \n7. Roy-Pitz Barrel House \n8. Jake's & Cooper's Wine Bar & Wine Shop \n9. Evan's Pizza \n10. Macaroni's Restaurant",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nFiore Fine Foods \nThe QUICK FIXX \nBlackbird Pizzeria \nChestnut 7 \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nGran Caffe L'Aquila \nBocca Italian Food Market and Wine Bar",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Otto\n7. The QUICK FIXX\n8. The Blue Duck\n9. Chestnut 7\n10. Pizzeria Stella"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in dining at Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering restaurants with Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a venue with Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at seafood restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in exploring vegan restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you considering places with chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to explore Asian restaurants?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nLe Pain Quotidien\nCinCin Restaurant",
+            "Sang Kee Peking Duck House \nChinatown Garden Restaurant \nGrain Exchange \nDaleng Restaurant \nThe Juice Merchant \n Federal Donuts \n Fuji Mountain \n CO-OP Restaurant & Lounge \n The QUICK FIXX \n Lisa's Kitchen",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nZuzu's Kitchen \\n\nFederal Donuts \\n\nLacroix Restaurant at The Rittenhouse \\n\nMong Kok Station",
+            "1. Mood Indian Restaurant\n2. Zuzu's Kitchen \n3. Federal Donuts \n4. The Tasty Toast \n5. Daleng Restaurant \n6. Bistro SouthEast \n7. Miga Korean BBQ & Sushi \n8. Green Leafs & Bananas \n9. The QUICK FIXX \n10. Blackbird Pizzeria",
+            "1. Water Works Restaurant & Lounge \n2. The QUICK FIXX \n3. CinCin Restaurant \n4. CO-OP Restaurant & Lounge \n5. Bloomsday Cafe \n6. Vedge \n7. Green Leafs & Bananas \n8. Founding Fathers Sports Bar & Grill \n9. Cafe L'Aube \n10. Oishii Pok\u00e9",
+            "****\n name: Olive Garden Italian Restaurant \n categories: Restaurants, Salad, Bars, Nightlife, Italian, Wine Bars\n****\n name: Oteri's Italian Bakery | North 5th St \n categories: Restaurants, Shopping, Jewelry, Event Planning & Services, Desserts, Bakeries, Caterers, Food\n****\n name: Gran Caffe L'Aquila \n categories: Restaurants, Gelato, Coffee & Tea, Food, Italian, Bakeries\n****\n name: The Continental Restaurant and Martini Bar \n categories: Restaurants, American (New), Lounges, Nightlife, Bars, Breakfast & Brunch\n****\n name: Ristorante La Buca \n categories: Restaurants, Seafood, Bars, Italian, Wine Bars, Nightlife\n****\n name: Aldo Lamberti Artisan Cheese \n categories: Restaurants, Cheese Shops, Italian, Specialty Food\n****\n name: Talula's Garden \n categories: Restaurants, American (New), Wine Bars, Food, Beer, Wine & Spirits, Bars, Cocktail Bars, Nightlife\n****\n name: Sabrina's Cafe \n categories: Restaurants, Italian, Bars, Seafood, Nightlife\n****\n name: Villa di Roma \n categories: Restaurants, Italian, Bars, Seafood, Nightlife\n****\n name: Agiato \n categories: Restaurants, Cafes, Coffee & Tea, Food, Italian",
+            " Golden Triangle \n Daleng Restaurant \n Sang Kee Peking Duck House \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Baan Thai \n Canton 11 \n Fiore Fine Foods \n Blackbird Pizzeria \n The QUICK FIXX",
+            " Ristorante La Buca\nLacroix Restaurant at The Rittenhouse\nHeritage\nMaison 208\nThe Tavern Restaurant\nTavern On the Hill\nPaddy's Old City Pub\nMad River Manayunk\nThe El Bar\nJack's Firehouse",
+            "Grain Exchange \\n\nThe Tavern Restaurant \\n\nGermantown Garden \\n\nThe Blue Duck \\n\nFounding Fathers Sports Bar & Grill \\n\nMisconduct Tavern \\n\nHeritage \\n\nFranklin's \\n\nCook and Shaker \\n\nThe El Bar",
+            "1. Lacroix Restaurant at The Rittenhouse\n2. Heritage \n3. Benna's Cafe \n4. Gran Caffe L'Aquila \n5. Betty's Speakeasy \n6. The Green Line Cafe \n7. CJ & Eck's \n8. Franklin's \n9. Aldo Lamberti Ristorante \n10. McMenamin's Tavern"
+        ]
+    }
+}

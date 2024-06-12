@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Would you like a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that's good for nightlife?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves hamburgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food delivery services?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches from a deli?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sandwich shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with American-style sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nPrimoHoagies\nDaleng Restaurant\nA Tutti, Ristorante Italiano\nIzumi\nFuji Mountain\nCastellino's",
+            "Izumi\nRistorante La Buca\nGolden Triangle\nAudrey Claire\nParc\nMiga Korean BBQ & Sushi\nPearl's Oyster Bar\nSang Kee Peking Duck House\nDaleng Restaurant\nVedge",
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nFuji Mountain \nFederal Donuts \nBistro SouthEast \nPearl's Oyster Bar \nThe Juice Merchant \nZuzu's Kitchen \nRistorante La Buca",
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nThe Milk House \\n\nBistro SouthEast \\n\nHibachi & Co \\n\nBaan Thai \\n\nCanton 11 \\n\nPearl's Oyster Bar \\n\nOishii Pok\u00e9 \\n\nAudrey Claire",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Germantown Garden \n4. Daleng Restaurant \n5. Le Pain Quotidien \n6. Zuzu's Kitchen\n7. The Tasty Toast \n8. Castellino's \n9. Baan Thai \n10. Canton 11",
+            "1. Zuzu's Kitchen\n2. Daleng Restaurant\n3. The Tasty Toast\n4. PrimoHoagies\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Green Leafs & Bananas\n8. Luhv Vegan Deli\n9. Lisa's Kitchen\n10. Steve's Prince of Steaks",
+            "- Lisa's Kitchen \\n\n- Steve's Prince of Steaks \\n\n- Green Leafs & Bananas \\n\n- Luhv Vegan Deli \\n\n- Trolley Car Diner \\n\n- Spread Bagelry \\n\n- Wawa \\n\n- The Green Line Cafe \\n\n- Cafe L'Aube \\n\n- CJ & Eck's\n''''",
+            "1. PrimoHoagies \n2. The Green Line Cafe \n3. Spread Bagelry \n4. Lisa's Kitchen \n5. Green Leafs & Bananas \n6. Steve's Prince of Steaks \n7. Luhv Vegan Deli \n8. Franklin's \n9. JD Mcgillicuddy's Manayunk \n10. Five Guys",
+            "PrimoHoagies \nLisa's Kitchen \nThe QUICK FIXX \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nRoy-Pitz Barrel House \nBlackbird Pizzeria \nLuvh Vegan Deli \nSandwich City \nJake's & Cooper's Wine Bar & Wine Shop",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station"
+        ]
+    }
+}

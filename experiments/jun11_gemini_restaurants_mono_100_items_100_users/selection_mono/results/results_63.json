@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nLe Pain Quotidien \nChinatown Garden \nPho 75 \nVeda - Modern Indian Bistro",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nZuzu's Kitchen \nFuji Mountain \nCantonese \nEvan's Pizza \nThe QUICK FIXX \nGreen Leafs & Bananas \nTrolley Car Diner",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. The Tasty Toast\n8. The Juice Merchant\n9. Federal Donuts\n10. Heritage",
+            "1. Veda - Modern Indian Bistro \n2. Sultan's Turkish Cuisine \n3. Kasrtner's Quality Meats \n4. The Juice Merchant \n5. Golden Triangle \n6. Sansom Vietnamese Kitchen \n7. Del Rossi's Cucina \n8. Sam's Famous Delicatessen \n9. Good Dog Bar \n10. Dim Sum House ",
+            "1. The Green Line Cafe \n2. Steve's Prince of Steaks \n3. CJ & Eck's \n4. Blackbird Pizzeria \n5. Founding Fathers Sports Bar & Grill\n6. Chestnut 7 \n7. The Cheesecake Factory \n8. Spread Bagelry \n9. Audrey Claire \n10. Gran Caffe L'Aquila",
+            "The Green Line Cafe\nTrolley Car Diner\nSister Muhammad's Kitchen\nSteve's Prince of Steaks\nThe Tasty Toast\nThe Cheesecake Factory\nFederal Donuts\nPearl's Oyster Bar\nLisa's Kitchen\nThe Blue Duck",
+            "1. Grain Exchange \n2. The Blue Duck \n3. Jack's Firehouse \n4. Founding Fathers Sports Bar & Grill \n5. Chestnut 7 \n6. The Cheesecake Factory \n7. Audrey Claire \n8. Parc \n9. McMenamin's Tavern \n10. Gran Caffe L'Aquila",
+            "The Grill  Smuckers \nPearl's Oyster Bar \nAudrey Claire \nJack's Firehouse \nFranklin's \nThe Blue Duck \nThe Continental Restaurant and Martini Bar \nParc \nJake's & Cooper's Wine Bar & Wine Shop \nMcMenamin's Tavern",
+            "Germantown Garden\nThe Juice Merchant\nFederal Donuts\nHeritage\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nThe Tasty Toast\nValley Green Inn\nRed Owl Tavern"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Thai?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a Chinese restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a restaurant that serves Cantonese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Szechuan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sushi?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nBistro SouthEast \nMiga Korean BBQ & Sushi \nCanton 11 \nBaan Thai \nTu's Tea & Banh Mi South Philly \nVeda - Modern Indian Bistro",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nCanton 11 \\n\nBaan Thai \\n\nCinCin Restaurant \\n\nPearl's Oyster Bar \\n\nFuji Mountain \\n\nIzumi",
+            " Golden Triangle \\n\n Daleng Restaurant \\n\n Bistro SouthEast \\n\n Canton 11 \\n\n Miga Korean BBQ & Sushi \\n\n Tu's Tea & Banh Mi South Philly \\n\n Pearl's Oyster Bar \\n\n Fiore Fine Foods \\n\n Evan's Pizza \\n\n Blackbird Pizzeria",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nMong Kok Station\nCinCin Restaurant\nGrain Exchange\nCanton 11\nBenna's Cafe\nMiga Korean BBQ & Sushi",
+            "Canton 11 \nSang Kee Peking Duck House \nDim Sum House \nGolden Triangle \nDaleng Restaurant \nKC's Pastries \nTu's Tea & Banh Mi South Philly \nBistro SouthEast \nBaan Thai \nPearl's Oyster Bar",
+            " Sang Kee Peking Duck House \n Canton 11 \n Dim Sum House \n Oteri's Italian Bakery | North 5th St \n KC's Pastries \n Pearl's Oyster Bar \n Tu's Tea & Banh Mi South Philly \n New York Gyro Truck \n Golden Triangle \n Daleng Restaurant",
+            "Canton 11\nSang Kee Peking Duck House\nDim Sum House\nVeda - Modern Indian Bistro\nGolden Triangle\nDaleng Restaurant\nTu's Tea & Banh Mi South Philly\nBistro SouthEast\nMiga Korean BBQ & Sushi\nCinCin Restaurant",
+            " Dim Sum House \\n\n Canton 11 \\n\n Sang Kee Peking Duck House \\n\n Golden Triangle \\n\n Oishii Pok\u00e9 \\n\n KC's Pastries \\n\n Talluto's Authentic Italian Food \\n\n Izumi \\n\n A Tutti, Ristorante Italiano \\n\n Fiore Fine Foods",
+            "1. Canton 11\n2. Dim Sum House\n3. Sang Kee Peking Duck House\n4. Wawa\n5. KC's Pastries\n6. Fiore Fine Foods\n7. Jake's & Cooper's Wine Bar & Wine Shop\n8. Evan's Pizza\n9. Gran Caffe L'Aquila\n10. New York Gyro Truck",
+            "Canton 11\nSang Kee Peking Duck House\nDim Sum House\nRistorante La Buca\nMiga Korean BBQ & Sushi\nBistro SouthEast\nDaleng Restaurant\nLucky's Last Chance\nEvan's Pizza\nGolden Triangle"
+        ]
+    }
+}

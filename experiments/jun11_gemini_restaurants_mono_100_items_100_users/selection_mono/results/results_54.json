@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any kind of pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat at a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a place with Asian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Japanese food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGrain Exchange \\n\nCanton 11 \\n\nTavern On the Hill \\n\nThe Continental Restaurant and Martini Bar \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nEvan's Pizza",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Tasty Toast\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nFuji Mountain\nPrimoHoagies\nVed? - Modern Indian Bistro\nIzumi",
+            "1. Grain Exchange \n2. Helmand Kabobi & Biryani \n3. Essen Market & Caf\u00e9 \n4. Vedge \n5. Hey Hummus \n6. Blackbird Pizzeria \n7. The QUICK FIXX \n8. Luhv Vegan Deli \n9. Gran Caffe L'Aquila \n10. The Green Line Cafe",
+            "1. Sang Kee Peking Duck House \n2. Mugshots Coffeehouse \n3. Canton 11 \n4. Pearl's Oyster Bar \n5. Tavern On the Hill \n6. The Tavern Restaurant \n7. Talutto's Authentic Italian Food \n8. Benna's Cafe \n9. Wawa \n10. Roy-Pitz Barrel House",
+            "Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nGrain Exchange \nChinatown 11 \nThe QUICK FIXX \nIzumi \nFuji Mountain",
+            "1.  Golden Triangle\n2.  Lacroix Restaurant at The Rittenhouse\n3.  ChinChin Restaurant \n4.  Daleng Restaurant\n5.  Canton 11 \n6.  Bistro SouthEast\n7.  Miga Korean BBQ & Sushi\n8.  Oishii Pok\u00e9 \n9.  Oteri's Italian Bakery | North 5th St\n10. Gran Caffe L'Aquila",
+            "Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nIzumi \nCanton 11 \nMiga Korean BBQ & Sushi \nHibachi Japanese Steakhouse \nBaan Thai",
+            "1. Daleng Restaurant \n2. Golden Triangle \n3. Bistro SouthEast \n4. Miga Korean BBQ & Sushi \n5. Baan Thai \n6. Canton 11 \n7. Tu's Tea & Banh Mi South Philly \n8. Sang Kee Peking Duck House \n9. Dim Sum House \n10. KC's Pastries",
+            "Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nIzumi \nSang Kee Peking Duck House \nCanton 11 \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nKC's Pastries \nOishii Pok\u00e9",
+            "Izumi \nWasabi Sushi Bar\nFuji Mountain\nMiga Korean BBQ & Sushi\nJake's & Cooper's Wine Bar & Wine Shop\nTu's Tea & Banh Mi South Philly\nOishii Pok\u00e9\nAudrey Claire\nA Tutti, Ristorante Italiano\nSang Kee Peking Duck House"
+        ]
+    }
+}

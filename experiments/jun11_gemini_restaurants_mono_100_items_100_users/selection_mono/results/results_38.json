@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegan sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a breakfast sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a warm sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a salad sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves cold vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian sandwich?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nDaleng Restaurant \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Juice Merchant \nThe Tasty Toast \nFederal Donuts",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast \\n\nThe Milk House \\n\nBistro SouthEast",
+            " Monster Vegan \n Luhv Vegan Deli \n Vedge \n The QUICK FIXX \n Blackbird Pizzeria \n Hey Hummus \n Green Leafs & Bananas \n Benna's Cafe \n Essene Market & Caf\u00e9 \n The Green Line Cafe",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nThe Juice Merchant \\n\nBenna's Cafe \\n\nEssene Market & Caf\u00e9 \\n\nHey Hummus",
+            "Luvh Vegan Deli \nGreen Leafs & Bananas \nThe Green Line Cafe \nWawa \nMonster Vegan \nHey Hummus \nVedge \nBetty's Speakeasy \nBenna's Cafe \nThe Juice Merchant",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nBlackbird Pizzeria \\n\nLuhv Vegan Deli \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nThe Juice Merchant \\n\nSarcone's Bakery \\n\nLa Rose Bleue",
+            " Monster Vegan \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nLuvh Vegan Deli \\n\nThe Juice Merchant \\n\nBenna's Cafe \\n\nRival Bros Coffee \\n\nTrolley Car Diner",
+            "1. The Green Line Cafe\n2. Green Leafs & Bananas\n3. The QUICK FIXX\n4. Luhv Vegan Deli\n5. Cafe L'Aube\n6. The Juice Merchant\n7. Spread Bagelry\n8. Lis'a Kitchen\n9. Betty's Speakeasy\n10. Monster Vegan\n",
+            "1. The Green Line Cafe \\n\n2. Lisa's Kitchen \\n\n3. Luhv Vegan Deli \\n\n4. Monster Vegan \\n\n5. Green Leafs & Bananas \\n\n6. Hey Hummus \\n\n7. Spreed Bagelry \\n\n8. Vedge \\n\n9. The Juice Merchant \\n\n10. Betty's Speakeasy \n"
+        ]
+    }
+}

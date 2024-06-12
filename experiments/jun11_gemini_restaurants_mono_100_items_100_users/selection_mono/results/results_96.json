@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Do you generally avoid meat?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to order takeout?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer American or Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves both Chinese and American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dim sum?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in buffets?",
+                "response": "no"
+            },
+            {
+                "query": "Is sushi something that interests you?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in spicy foods?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "- Water Works Restaurant & Lounge \n- Lacroix Restaurant at The Rittenhouse \n- Daleng Restaurant \n- Mong Kok Station \n- Le Pain Quotidien \n- CinCin Restaurant \n- Bistro SouthEast \n- Baan Thai \n- Canton 11 \n- Tavern On the Hill",
+            " Sang Kee Peking Duck House \n Canton 11 \n Dim Sum House \n KC's Pastries \n Oishii Pok\u00e9 \n Tu's Tea & Banh Mi South Philly \n Baan Thai \n Daleng Restaurant \n Golden Triangle \n Mood Indian Restaurant \n The QUICK FIXX",
+            " 1. Canton 11 \n2. Dim Sum House \n3. Sang Kee Peking Duck House \n4. Golden Triangle \n5. Sichuan Palace \n6. New York Gyro Truck \n7. Daleng Restaurant \n8. Pure Tacos \n9. KC's Pastries \n10. Oishii Pok\u00e9",
+            " Canton 11\nDim Sum House\nGolden Triangle\nDaleng Restaurant\nSang Kee Peking Duck House\nFederal Donuts\nTing Thai Garden\nPearl\u2019s Oyster Bar\nOishii Pok\u00e9\nNoodles Plus",
+            " Sang Kee Peking Duck House \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nOishii Pop\u00e9 \\n\nKC's Pastries \\n\nGolden Triangle \\n\nLucky's Last Chance \\n\nHibiscus tea \\n\nDim Sum House \\n\nFederal Donuts",
+            "1. Dim Sum House \n2. Canton 11 \n3. Sang Kee Peking Duck House \n4. Federal Donuts \n5. Ristorante La Buca \n6. KC's Pastries \n7. Wawa \n8. Lucky's Last Chance \n9. Oishii Pok\u00e9 \n10. Gran Caffe L'Aquila",
+            "Sang Kee Peking Duck House \nCanton 11 \nDim Sum House \nFederal Donuts \nKC's Pastries \nChinatown Garden \nLucky's Last Chance \nOishii Pok\u00e9 \nCity View Chinese Restaurant \nDuckbill Bar",
+            "Canton 11 \\n\nDim Sum House \\n\nSang Kee Peking Duck House \\n\nPearl's Oyster Bar \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nBaan Thai \\n\nFederal Donuts \\n\nIzumi",
+            " Canton 11\nSang Kee Peking Duck House\nDim Sum House\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nIzumi\nCinCin Restaurant\nOishii Pok\u00e9\nGolden Triangle\nDaleng Restaurant",
+            " Sang Kee Peking Duck House \n Canton 11 \n Dim Sum House \n KC's Pastries \n Oishii Pok\u00e9 \n Izumi \n Miga Korean BBQ & Sushi \n Golden Triangle \n Daleng Restaurant \n Bistro SouthEast"
+        ]
+    }
+}

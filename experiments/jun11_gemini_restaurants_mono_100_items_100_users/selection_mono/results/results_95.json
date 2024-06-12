@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a deli?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that has sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that's Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that has pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that has American breakfast options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Castellino's \n2. Fiore Fine Foods \n3. Trolley Car Diner \n4. Dim Sum House \n5. Oteri's Italian Bakery | North 5th St \n6. Macaroni's Restaurant \n7. PrimoHoagies \n8. Talluto's Authentic Italian Food \n9. The QUICK FIXX \n10. Spread Bagelry",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Lacroix Restaurant at The Rittenhouse\n4. Grain Exchange\n5. The Milk House\n6. Veda - Modern Indian Bistro\n7. Mugshots Coffeehouse\n8. Canton 11\n9. The Tavern Restaurant\n10. Maison 208",
+            "1. Federal Donuts\n2. Heritage\n3. The Tasty Toast\n4. PrimoHoagies\n5. The Blue Duck\n6. Bloomsday Cafe\n7. The Grill  Smuckers\n8. Five Guys\n9. Wishbone\n10. Lisa's Kitchen",
+            "1. Water Works Restaurant & Lounge\n2. Grain Exchange\n3. The Milk House\n4. Federal Donuts\n5. The Blue Duck\n6. The Tavern Restaurant\n7. Founding Fathers Sports Bar & Grill\n8. Jack's Firehouse\n9. Franklin's\n10. Lucky's Last Chance",
+            "Jack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory \nThe Green Line Cafe \nSpread Bagelry \nAudrey Claire",
+            "1. The Tavern Restaurant\n2. Tavern On the Hill\n3. Founding Fathers Sports Bar & Grill\n4. Mad River Manayunk\n5. JD Mcgillicuddy's Manayunk\n6. Franklin's\n7. Jack's Firehouse\n8. The Blue Duck\n9. Chestnut 7\n10. The El Bar",
+            "The Tavern Restaurant \nThe Grill  Smuckers \nFive Guys \nRoy-Pitz Barrel House \nThe Blue Duck \nThe QUICK FIXX \nLisa's Kitchen \nFranklin's \nThe Cheesecake Factory \nChestnut 7",
+            "Germantown Garden \nTavern On the Hill \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar \nPearl's Oyster Bar \nJack's Firehouse \nThe El Bar \nCook and Shaker \nNew York Gyro Truck \nSister Muhammad's Kitchen",
+            "1. Daleng Restaurant \n2. Cafe L'Aube \n3. Federal Donuts \n4. Macaroni's Restaurant \n5. Fiore Fine Foods \n6. Trolley Car Diner \n7. KC's Pastries \n8. The Cheesecake Factory \n9. Ciro's South Street Pizza \n10. Big Nick's Roast Beef\n'''''"
+        ]
+    }
+}

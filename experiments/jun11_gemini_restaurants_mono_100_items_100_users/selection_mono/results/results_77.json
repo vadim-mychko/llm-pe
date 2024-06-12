@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Are you primarily looking for places to eat sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to look at pizzas instead?",
+                "response": "no"
+            },
+            {
+                "query": "How about asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you primarily looking for places where you can get drinks?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in places where you can drink craft beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bars or lounges?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nGrain Exchange \nThe Juice Merchant \nLacroix Restaurant at The Rittenhouse \nBistro SouthEast \nCinCin Restaurant \nCO-OP Restaurant & Lounge \nDaleng Restaurant \nDim Sum House",
+            "1. The Juice Merchant \n2. Green Leafs & Bananas \n3. Spread Bagelry \n4. Zuzu's Kitchen \n5. Bloomsday Cafe \n6. The Green Line Cafe \n7. A Tutti, Ristorante Italiano \n8. Fiore Fine Foods \n9. Evan's Pizza \n10. Fiore Fine Foods",
+            " Mood Indian Restaurant \nGolden Triangle \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nCinCin Restaurant \nVeda - Modern Indian Bistro \nCanton 11 \nTu's Tea & Banh Mi South Philly \nBlackbird Pizzeria",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "1. The El Bar \n2. The Grill  Smuckers \n3. New York Gyro Truck \n4. Federal Donuts \n5. Cook and Shaker \n6. Maison 208 \n7. Jack's Firehouse \n8. Trolley Car Diner \n9. Lucky's Last Chance \n10. Parc",
+            "****\n name: Zuzu's Kitchen \n categories: Restaurants, Pizza, Salad, Sandwiches, Food Delivery Services, Food\n****\n name: Mong Kok Station \n categories: Restaurants, Bakeries, Chinese, Specialty Food, Food, Ethnic Food, Coffee & Tea\n****\n name: Daleng Restaurant \n categories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\n name: The Juice Merchant \n categories: Restaurants, Juice Bars & Smoothies, Vegan, Salad, Food, Sandwiches\n****\n name: Golden Triangle \n categories: Restaurants, Malaysian, Burmese, Asian Fusion, Thai\n****\n name: The Tavern Restaurant \n categories: Restaurants, Nightlife, American (Traditional), Bars, Burgers, Cocktail Bars, American (New)\n****\n name: Izumi \n categories: Restaurants, Sushi Bars, Desserts, Food, Japanese\n****\n name: Heritage \n categories: Restaurants, American (New), Arts & Entertainment, Jazz & Blues, Nightlife, Bars\n****\n name: Ved \n categories: Restaurants, Vegetarian, Beer, Wine & Spirits, Vegan, Food\n****\n name: Canton 11 \n categories: Restaurants, Food, Dim Sum, Cantonese, Szechuan, Bars, Cocktail Bars, Nightlife, Karaoke, Food Delivery Services, Chinese, Sushi Bars",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nFederal Donuts \\n\nMong Kok Station",
+            "1. The El Bar\n2. Wishbone\n3. Mad River Manayunk\n4. Tavern On the Hill\n5. Tavern \n6. Olive Garden\n7. Founding Fathers Sports Bar & Grill\n8. Royal Tavern\n9. Lucky's Last Chance\n10. Malbec",
+            "Chinatown 11 \\n\nCanton 11 \\n\nThe Continental Restaurant and Martini Bar \\n\nRoy-Pitz Barrel House \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nLucky's Last Chance",
+            "1. Joe's Waterfront \n2. Paddy's Old City Pub \n3. Valanni \n4. North Bowl \n5. Penn's Landing Caterers \n6. Macaroni's Restaurant \n7. Farmer's Cabinet \n8. Miga Korean BBQ & Sushi \n9. Tavern On the Hill \n10. Chestnut 7"
+        ]
+    }
+}

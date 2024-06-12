@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are there any other types of food you like?",
+                "response": "yes"
+            },
+            {
+                "query": "Is Asian cuisine something you like?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in ordering pizza tonight?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like ethnic food besides Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are Cuban food or Spanish food of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a restaurant that serves Greek food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in South American restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to go to a restaurant serving Mediterranean cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "A Tutti, Ristorante Italiano\nPrimoHoagies\nCastellino's\nTalluto's Authentic Italian Food\nMacaroni's Restaurant\nZazu's Kitchen\nFiorentina Ristorante\nRistorante La Buca\nLacroix Restaurant at The Rittenhouse\nAudrey Claire",
+            "1. A Tutti, Ristorante Italiano\n2. Talluto's Authentic Italian Food\n3. Castellino's\n4. Olive Garden Italian Restaurant\n5. Macaroni's Restaurant\n6. Pizzeria Stella\n7. Ristorante La Buca\n8. Oteri's Italian Bakery | North 5th St\n9. Parc\n10. Gran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano \n2. PrimoHoagies \n3. Castellino's \n4. Talluto's Authentic Italian Food \n5. Macaroni's Restaurant \n6. Ristorante La Buca \n7. Fiore Fine Foods \n8. Blackbird Pizzeria \n9. The QUICK FIXX \n10. Lisa's Kitchen",
+            " Ristorante La Buca \nA Tutti, Ristorante Italiano \nAudrey Claire \nDaleng Restaurant \nFuji Mountain \nGolden Triangle \nIzumi \nMacaroni's Restaurant \nThe QUICK FIXX \nZuzu's Kitchen",
+            "La Buca\nA Tutti, Ristorante Italiano\nPrimoHoagies\nTalluto's Authentic Italian Food\nCastellino's\nOteri's Italian Bakery | North 5th St\nMacaroni's Restaurant\nFiore Fine Foods\nThe QUICK FIXX\nAudrey Claire",
+            "Oteri's Italian Bakery | North 5th St \nA Tutti, Ristorante Italiano \nCastellino's \nTalluto's Authentic Italian Food \nAudrey Claire \nThe Continental Restaurant and Martini Bar \nGran Caffe L'Aquila \nMiga Korean BBQ & Sushi \nRistorante La Buca \nMacaroni's Restaurant",
+            " Castellino's \nA Tutti, Ristorante Italiano \nPrimoHoagies \nDaleng Restaurant \nTalluto's Authentic Italian Food \nVeda - Modern Indian Bistro \nCinCin Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nRistorante La Buca",
+            "Ristorante La Buca \\n\nAudrey Claire \\n\nA Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nThe QUICK FIXX \\n\nMacaroni's Restaurant \\n\nFederal Donuts \\n\nJack's Firehouse",
+            "Castellino's \\n\nLaCroix Restaurant at The Rittenhouse \\n\nRistorante La Buca \\n\nA Tutti, Ristorante Italiano \\n\nPearl's Oyster Bar \\n\nMacaroni's Restaurant \\n\nPrimoHoagies \\n\nThe Continental Restaurant and Martini Bar \\n\nFiore Fine Foods \\n\nDaleng Restaurant",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nPrimoHoagies \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant"
+        ]
+    }
+}

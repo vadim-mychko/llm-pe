@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian, pizza, or specialty food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in American sandwiches or burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer burgers or sandwiches?",
+                "response": "don't know"
+            },
+            {
+                "query": "How about a place that has both burgers and sandwiches on the menu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer American or traditional Irish pubs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars that serve food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to grab a drink and enjoy some live or local music?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grains Exhange\nThe Green Line Cafe\nFederal Donuts\nFederal Donuts\nFederal Donuts\nJake's & Cooper's Wine Bar & Wine Shop\nFuji Mountain\nIzumi\nBaan Thai\nZuzu's Kitchen",
+            "Water Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nZuzu's Kitchen\nThe Milk House\nVeda - Modern Indian Bistro\nCinCin Restaurant\nDaleng Restaurant\nBistro SouthEast\nFederal Donuts",
+            " Zuzu's Kitchen \nWater Works Restaurant & Lounge \nThe Tasty Toast \nPrimoHoagies \nFive Guys \nMisconduct Tavern \nThe QUICK FIXX \nGreen Leafs & Bananas \nSpread Bagelry \nSteve's Prince of Steaks",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Five Guys \n4. The Blue Duck \n5. Lisa's Kitchen \n6. Franklin's \n7. Luhv Vegan Deli \n8. The Green Line Cafe \n9. Spread Bagelry \n10. Love & Honey Fried Chicken",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Five Guys \n4. Wishbone \n5. Franklin's \n6. Founding Fathers Sports Bar & Grill \n7. Chestnut 7 \n8. CJ & Eck's \n9. Betty's Speakeasy \n10. Parc",
+            " Misconduct Tavern\nFederal Donuts\nThe Tavern Restaurant\nJack's Firehouse\nLisa's Kitchen\nFranklin's\nSteve's Prince of Steaks\nChestnut 7\nWishbone\nJD Mcgillicuddy's Manayunk",
+            "Lucky's Last Chance\nMisconduct Tavern\nThe Tavern Restaurant \nMad River Manayunk \nFranklin's \nWishbone \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nJD Mcgillicuddy's Manayunk",
+            "Jack's Firehouse \nFranklin's \nLisa's Kitchen \nSteve's Prince of Steaks \nLuvh Vegan Deli \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nLucky's Last Chance \nWishbone \nMcMenamin's Tavern",
+            "Misconduct Tavern\nLisa's Kitchen\nTrolley Car Diner\nGreen Leafs & Bananas\nSpread Bagelry\nJack's Firehouse\nCJ & Eck's\nPaddy's Old City Pub\nMad River Manayunk\nFederal Donuts",
+            "Misconduct Tavern\nThe QUICK FIXX\nPaddy's Old City Pub\nMad River Manayunk\nMaggiano's Little Italy\nFranklin's\nThe Blue Duck\nFounding Fathers Sports Bar & Grill\nFederal Donuts\nJack's Firehouse"
+        ]
+    }
+}

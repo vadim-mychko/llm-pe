@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian or American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a restaurant that serves salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a venue that serves mainly sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a sandwich shop that offers a vegan menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves various types of sandwiches, including hoagies?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " PrimoHoagies \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe Blue Duck \nThe QUICK FIXX \nRistorante La Buca \nParc \nAudrey Claire",
+            "1. PrimoHoagies\n2. A Tutti, Ristorante Italiano \n3. Castellino's \n4. Talluto's Authentic Italian Food \n5. Monster Vegan \n6. Fiore Fine Foods \n7. The QUICK FIXX \n8. Betty's Speakeasy \n9. Steve's Prince of Steaks \n10. Spread Bagelry",
+            " Ristorante La Buca \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nFiore Fine Foods \\n\nA Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nLemon Hill \\n\nPearl's Oyster Bar",
+            "The Juice Merchant \nGolden Triangle \nValley Green Inn \nZuzu's Kitchen \nDaleng Restaurant \nThe Tasty Toast \nPrimoHoagies \nFuji Mountain \nChinatown Village Inn III \nThe QUICK FIXX",
+            "PrimoHoagies \nZuzu's Kitchen \nCastellino's \nMacaroni's Restaurant \nDaleng Restaurant \nOlive Garden Italian Restaurant \nThe Green Line Cafe \nSpread Bagelry \nLucky's Last Chance \nOlive Garden Italian Restaurant",
+            "1.PrimoHoagies\n2.The Tavern Restaurant \n3.The Blue Duck\n4.The QUICK FIXX \n5.Lisa's Kitchen \n6.Green Leafs & Bananas \n7.The Green Line Cafe \n8.Spread Bagelry \n9.Lucky's Last Chance \n10.CJ & Eck's",
+            " Germantown Garden\n Lacroix Restaurant at The Rittenhouse\n Water Works Restaurant & Lounge\n The Tasty Toast\n PrimoHoagies\n The QUICK FIXX\n Olive Garden Italian Restaurant\n Macaroni's Restaurant\n Mong Kok Station\n  Zufu's Kitchen\n A Tutti, Ristorante Italiano\n CinCin Restaurant\n Evan's Pizza\n Jake's & Cooper's Wine Bar & Wine Shop\n Pearl's Oyster Bar\n Tu's Tea & Banh Mi South Philly\n Chestnut 7\n The Blue Duck\n The Cheesecake Factory\n Spread Bagelry\n The Green Line Cafe\n Trolley Car Diner\n Luhv Vegan Deli\n Founding Fathers Sports Bar & Grill\n Audrey Claire\n Lucky's Last Chance\n Buckminster's\n Parc\n Love & Honey Fried Chicken\n McMenamin's Tavern\n Cafe L'Aube\n CJ & Eck's\n Rival Bros Coffee\n Gran Caffe L'Aquila",
+            " PrimoHoagies \n The Tasty Toast \n The Juice Merchant \n Spread Bagelry \n South Philly Cheesesteaks \n Lisa's Kitchen \n Green Leafs & Bananas \n The Green Line Cafe \n Luhv Vegan Deli \n Wawa",
+            " Zuzu's Kitchen\n PrimoHoagies\n The Tasty Toast\n Wawa\n Spread Bagelry\n The Green Line Cafe\n Lucky's Last Chance\n Love & Honey Fried Chicken\n McMenamin's Tavern\n Rival Bros Coffee",
+            "PrimoHoagies \nWawa \nSpread Bagelry \nThe Green Line Cafe \nDim Sum House \nGreen Leafs & Bananas \nThe QUICK FIXX \nJake's & Cooper's Wine Bar & Wine Shop \nLisa's Kitchen \nLove & Honey Fried Chicken"
+        ]
+    }
+}

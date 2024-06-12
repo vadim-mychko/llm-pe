@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any Sushi places?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for some Moroccan food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want any Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in some Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in some Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in some Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want any Vietnamese food right now?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try some Japanese cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Izumi \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nCanton 11 \\n\nPearl's Oyster Bar \\n\nOishii Pok\u00e9 \\n\nRistorante La Buca \\n\nBlackbird Pizzeria \\n\nBetty's Speakeasy \\n\nAudrey Claire",
+            "Izumi \nFuji Mountain \nCanton 11 \nMiga Korean BBQ & Sushi \nPearl's Oyster Bar \nRistorante La Buca \nOishii Pok\u00e9 \nOteri's Italian Bakery | North 5th St \nParc \nCafe L'Aube",
+            "Izumi \nCanton 11 \nMiga Korean BBQ & Sushi \nFuji Mountain \nSang Kee Peking Duck House \nPearl's Oyster Bar \nAudrey Claire \nRistorante La Buca \nDaleng Restaurant \nBaan Thai",
+            " Izumi \nMiga Korean BBQ & Sushi \nFuji Mountain \nCanton 11 \nBaan Thai \nDim Sum House \nLucky's Last Chance \nPearl's Oyster Bar \nBlackbird Pizzeria \nOishii Pok\u00e9",
+            "Izumi \nCanton 11 \nBaan Thai \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nTrolley Car Diner \nLucky's Last Chance \nMcMenamin's Tavern \nCafe L'Aube \nAudrey Claire",
+            "Zuzu's Kitchen\nGolden Triangle\nIzumi\nVeda - Modern Indian Bistro\nBistro SouthEast\nBaan Thai\nMiga Korean BBQ & Sushi\nDim Sum House\nAudrey Claire\nThe Green Line Cafe",
+            "Izumi\nFuji Mountain \nMiga Korean BBQ & Sushi \nGrain Exchange \nPearl's Oyster Bar \nAudrey Claire \nDaleng Restaurant \nGolden Triangle \nBistro SouthEast \nBaan Thai",
+            " Izumi \\n\nFuji Mountain \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9 \\n\nSang Kee Peking Duck House \\n\nFederal Donuts \\n\nKC's Pastries \\n\nDim Sum House \\n\nTu's Tea & Banh Mi South Philly",
+            "1. Izumi \n2. Fuji Mountain \n3. Canton 11 \n4. Miga Korean BBQ & Sushi \n5. Dim Sum House \n6. Oishii Pok\u00e9 \n7. Pearl's Oyster Bar \n8. Ristorante La Buca \n9. Golden Triangle \n10. Daleng Restaurant",
+            "Izumi\nFuji Mountain\nMiga Korean BBQ & Sushi\nOishii Pok\u00e9\nAudrey Claire\nPearl's Oyster Bar\nRistorante La Buca\nMaison 208\nSang Kee Peking Duck House\nCanton 11"
+        ]
+    }
+}

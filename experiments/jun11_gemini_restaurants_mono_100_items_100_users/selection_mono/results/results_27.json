@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in comfort food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle\nDaleng Restaurant\nFederal Donuts\nHeritage\nKokopelli Restaurant & Tequila Bar\nCinCin Restaurant\nCantonese\nCanton 11\nDim Sum House\nOishii Pok\u00e9",
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nHeritage \nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys \nNorth Bowl \nMalbec Argentine Steakhouse",
+            " Monster Vegan\nVedge\nBenna's Cafe\nHey Hummus\nVegan \nLuvh Vegan Deli \nEssene Market & Caf\u00e9\nThe Juice Merchant\nThe QUICK FIXX\nDaleng Restaurant",
+            "Monster Vegan\nLuhv Vegan Deli\nVedge\nHey Hummus\nBenna's Cafe\nThe Juice Merchant\nThe Green Line Cafe\nEssenene Market & Caf\u00e9\nGreen Leafs & Bananas\nNorth Bowl",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nBlackbird Pizzeria \nBenna's Cafe \nHey Hummus \nThe QUICK FIXX \nNorth Bowl \nEssen Market & Caf\u00e9 \nGreen Leafs & Bananas",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nBlackbird Pizzeria \nThe QUICK FIXX \nHey Hummus \nBenna's Cafe \nNorth Bowl \nGreen Leafs & Bananas \nThe Juice Merchant",
+            "1. Monster Vegan\n2. Luhv Vegan Deli\n3. Vedge\n4. Hey Hummus\n5. Essen Market & Caf\u00e9 \n6. Benna's Cafe \n7. The Juice Merchant\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Betty's Speakeasy",
+            "Monster Vegan \n Luhv Vegan Deli \n Blackbird Pizzeria \n Vedge \n Hey Hummus \n Benna's Cafe \n Green Leafs & Bananas \n Essene Market & Caf\u00e9 \n The QUICK FIXX \n Betty's Speakeasy",
+            "Monster Vegan \nLuhv Vegan Deli \nVedge \nThe Green Line Cafe \nHey Hummus \nBlackbird Pizzeria \nBenna's Cafe \nSpread Bagelry \nCook and Shaker \nMcMenamin's Tavern",
+            "Monster Vegan \nLuhv Vegan Deli \nLove & Honey Fried Chicken \nBlackbird Pizzeria \nThe QUICK FIXX \nVedge \nHey Hummus \nBenna's Cafe \nCook and Shaker \nGreen Leafs & Bananas"
+        ]
+    }
+}

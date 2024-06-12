@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Do you want to go somewhere that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that is open for brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Does the restaurant serve steak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a restaurant that serves Mediterranean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar that also serves food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Tastey Toast \n2. Zuzu's Kitchen \n3. Golden Triangle \n4. Fiore Fine Foods \n5. Water Works Restaurant & Lounge \n6. Le Pain Quotidien \n7. Audrey Claire \n8. Lacroix Restaurant at The Rittenhouse \n9. A Tutti, Ristorante Italiano \n10. The Milk House",
+            "1. Fuji Mountain \\n\n2. Golden Triangle \\n\n3. Water Works Restaurant & Lounge \\n\n4. Lacroix Restaurant at The Rittenhouse \\n\n5. Zuzu's Kitchen \\n\n6. Le Pain Quotidien \\n\n7. Izumi \\n\n8. A Tutti, Ristorante Italiano \\n\n9. Federal Donuts \\n\n10. Mugshots Coffeehouse ",
+            "Zuzu's Kitchen\nThe Tasty Toast\nThe Milk House\nThe Grill  Smuckers\nBenna's Cafe\nPearl's Oyster Bar\nFiore Fine Foods\nBetty's Speakeasy\nGran Caffe L'Aquila\nAudrey Claire",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Continental Restaurant and Martini Bar \n4. The Blue Duck \n5. Franklin's \n6. Founding Fathers Sports Bar & Grill \n7. Chestnut 7 \n8. Parc \n9. McMenamin's Tavern \n10. The Green Line Cafe",
+            "The Blue Duck \nThe Tasty Toast \nThe Grill  Smuckers \nValley Green Inn \nLacroix Restaurant at The Rittenhouse \nThe Continental Restaurant and Martini Bar \nThe Milk House \nAldine \nTavern On the Hill \nPearl's Oyster Bar",
+            "The Continental Restaurant and Martini Bar  \nThe Blue Duck  \nPearl's Oyster Bar  \nThe Milk House  \nThe Grill  Smuckers  \nMacaroni's Restaurant  \nThe Tasty Toast  \nLacroix Restaurant at The Rittenhouse  \nAudrey Claire  \nParc",
+            "Pearl's Oyster Bar \nWater Works Restaurant & Lounge \nThe Tasty Toast \nThe Grill  Smuckers \nThe Milk House \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nParc \nAudrey Claire",
+            "Pearl's Oyster Bar \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Milk House \\n\nThe Grill  Smuckers \\n\nVeda - Modern Indian Bistro \\n\nFederal Donuts \\n\nBloomsday Cafe \\n\nKitchen Consigliere \\n\nA Tutti, Ristorante Italiano\n",
+            "Pearl's Oyster Bar \nWater Works Restaurant & Lounge \nAudrey Claire \nIzumi \nGran Caffe L'Aquila \nFederal Donuts \nThe Grill  Smuckers \nThe Milk House \nThe Continental Restaurant and Martini Bar \nThe Blue Duck",
+            "Pearl's Oyster Bar\nThe Milk House\nRistorante La Buca\nAudrey Claire\nThe Cheesecake Factory\nGreen Leafs & Bananas\nRoy-Pitz Barrel House\nVesper\nBud & Marilyn's\nTrolley Car Diner"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "What about pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are sandwiches something you might consider?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "How about a hamburger?",
+                "response": "no"
+            },
+            {
+                "query": "Would you consider a salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "****\n name: The Grill  Smuckers \n categories: Restaurants, American (New), Breakfast & Brunch, Farmers Market, Food\n****\n name: The Continental Restaurant and Martini Bar \n categories: Restaurants, American (New), Lounges, Nightlife, Bars, Breakfast & Brunch\n****\n name: Zuzu's Kitchen \n categories: Restaurants, Pizza, Salad, Sandwiches, Food Delivery Services, Food\n****\n name: Pearl's Oyster Bar \n categories: Restaurants, Seafood, American (New), Live/Raw Food, Breakfast & Brunch\n****\n name: CO-OP Restaurant & Lounge \n categories: Restaurants, American (New), Bars, Breakfast & Brunch, Coffee & Tea, Food, Cocktail Bars, Nightlife\n****\n name: The Blue Duck \n categories: Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches\n****\n name: Jack's Firehouse \n categories: Restaurants, American (New), Nightlife, Barbeque, Bars\n****\n name: Cook and Shaker \n categories: Restaurants, Nightlife, Comfort Food, Bars, Cocktail Bars, American (New)\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs\n****\n name: Founding Fathers Sports Bar & Grill \n categories: Restaurants, Sports Bars, Bars, Nightlife, American (New)",
+            "The Cheesecake Factory \nThe Green Line Cafe \nGran Caffe L'Aquila \nPearl's Oyster Bar \nRoy-Pitz Barrel House \nParc \nAudrey Claire \nVedge \nLiberte Lounge \nCinCin Restaurant",
+            "Zuzu's Kitchen \\n\nWater Works Restaurant & Lounge \\n\nFederal Donuts \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Tasty Toast \\n\nA Tutti, Ristorante Italiano \\n\nThe Milk House \\n\nCO-OP Restaurant & Lounge \\n\nRoy-Pitz Barrel House \\n\nThe Continental Restaurant and Martini Bar",
+            "1. The Grilled Pizza Company\n2. Sweetgreen\n3. Dig\n4. Chopt Creative Salad Company\n5. The Salad House at Suburban Station\n6. Farm & Fisherman Tavern\n7. honeygrow\n8. Crisp\n9. Liberty Kitchen\n10. Whole Foods Market: Center City",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nLe Pain Quotidien \nCinCin Restaurant \nA Tutti, Ristorante Italiano \nBaan Thai",
+            "The Cheesecake Factory\nCanton 11\nGreen Leafs & Bananas\nTrolley Car Diner\nFederal Donuts\nBenna's Cafe \nThe Continental Restaurant and Martini Bar\nAudubon Cafe\nSpread Bagelry\nWindows on the World\nThe Green Line Cafe\n",
+            "1. Zuzu's Kitchen \n2. Water Works Restaurant & Lounge \n3. Daleng Restaurant \n4. The Cheesecake Factory \n5. Fiore Fine Foods \n6. Green Leafs & Bananas \n7. Oishii Pok\u00e9 \n8. Audrey Claire \n9. Spread Bagelry \n10. Pure Tacos\n",
+            "1. The Green Line Cafe\n2. Saladworks\n3. Sweetgreen\n4. Chopt Creative Salad Co.\n5. Cava\n6. Bibibop Asian Grill\n7. Oishii Pok\u00e9\n8. Green Leafs & Bananas\n9. Wawa\n10. The Fresh Grocer - Progress Plaza",
+            "1. The Cheesecake Factory \n2. Saladworks \n3. Sweetgreen \n4. Just Salads \n5. Chopt Creative Salad Co. \n6. Cava \n7. Roti Mediterranean Grill \n8. Greens & Beans \n9. Honeygrow \n10. Crisp & Green ",
+            "Water Works Restaurant & Lounge \nThe Green Line Cafe \nPearl's Oyster Bar \nAudrey Claire \nVedge \nHey Hummus \nSister Muhammad's Kitchen \nThe QUICK FIXX \nBaan Thai \nGreen Leafs & Bananas"
+        ]
+    }
+}

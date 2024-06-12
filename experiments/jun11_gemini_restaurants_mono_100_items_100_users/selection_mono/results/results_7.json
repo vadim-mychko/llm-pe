@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves wine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Is a gastropub the type of place you're looking for?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to go to a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves cocktails?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with karaoke?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \n*****",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nHeritage \nVeda - Modern Indian Bistro \nMisconduct Tavern \nFuji Mountain \nThe Tavern Restaurant \nMaison 208 \nSteve's Prince of Steaks \nRistorante La Buca",
+            "- Jake's & Cooper's Wine Bar & Wine Shop \n- Pearl's Oyster Bar \n- Roy-Pitz Barrel House \n- Gran Caffe L'Aquila \n- Olive Garden Italian Restaurant \n- Macaroni's Restaurant \n- Ristorante La Buca \n- Malbec Argentine Steakhouse \n- CO-OP Restaurant & Lounge \n- Chestnut 7",
+            "The Tavern Restaurant \nBistro SouthEast \nOlive Garden Italian Restaurant \nCanton 11 \nTavern On the Hill \nMaison 208 \nJake's & Cooper's Wine Bar & Wine Shop \nRistorante La Buca \nAudrey Claire \nParc",
+            "1. Tavern On the Hill \n2. Mad River Manayunk \n3. Lucky's Last Chance \n4. JD Mcgillicuddy's Manayunk \n5. Canton 11 \n6. The El Bar \n7. Founding Fathers Sports Bar & Grill \n8. Roy-Pitz Barrel House \n9. Castillo's \n10. Franklin's",
+            "* Pearl's Oyster Bar\n* Ristorante La Buca\n* Blackbird Pizzeria\n* Mad River Manayunk\n* Chestnut 7\n* Canton 11\n* Olive Garden Italian Restaurant\n* Love & Honey Fried Chicken\n* Jake's & Cooper's Wine Bar & Wine Shop\n* Franklin's",
+            "Macaroni's Restaurant\nPearl's Oyster Bar\nFederal Donuts\nWishbone\nVedge\nThe Continental Restaurant and Martini Bar\nRoy-Pitz Barrel House\nFranklin's\nJake's & Cooper's Wine Bar & Wine Shop\nThe Blue Duck",
+            " Tavern On the Hill\n Jake's & Cooper's Wine Bar & Wine Shop \n Castelino's \n Maison 208 \n Chinatown Beer Garden \n Cooperage Wine & Whiskey Bar \n Happy Rooster Social House \n Red Owl Tavern \n Cantina Dos Segundos \n Angelina's Restaurant & Wine Bar",
+            "1. Tavern On the Hill\n2. Canton 11\n3. Misconduct Tavern\n4. Malbec Argentine Steakhouse\n5. Molly Malloy's\n6. Jake's & Cooper's Wine Bar & Wine Shop\n7. Dim Sum House\n8. Cook and Shaker\n9. Franklin's\n10. Founding Fathers Sports Bar & Grill",
+            "Local Tavern \nWater Works Restaurant & Lounge \nThe Tavern Restaurant \nMacaroni's Restaurant \nChestnut 7 \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nFranklin's \nJD Mcgillicuddy's Manayunk \nRoy-Pitz Barrel House"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a quick bite?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically looking for a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with karaoke?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Five Guys \\n\nFederal Donuts \\n\nWawa \\n\nGreen Leafs & Bananas \\n\nWishbone \\n\nCook and Shaker \\n\nFounding Fathers Sports Bar & Grill \\n\nFranklin's \\n\nMcMenamin's Tavern \\n\nJD Mcgillicuddy's Manayunk",
+            "1. Zuzu's Kitchen\n2. Daleng Restaurant\n3. The Juice Merchant\n4. The Tasty Toast\n5. Bloomsday Cafe\n6. Olive Garden Italian Restaurant\n7. Five Guys\n8. Tu's Tea & Banh Mi South Philly\n9. The QUICK FIXX\n10. Blackbird Pizzeria",
+            "1. Five Guys\n2. Lisa's Kitchen\n3. Lucky's Last Chance\n4. Blackbird Pizzeria\n5. Federal Donuts\n6. Franklin's\n7. Misconduct Tavern\n8. Wishbone\n9. The Blue Duck\n10. Steve's Prince of Steaks",
+            "Misconduct Tavern\nFive Guys\nLisa's Kitchen\nSteve's Prince of Steaks\nLuvh Vegan Deli\nJack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nLucky's Last Chance\nLove & Honey Fried Chicken",
+            "Jack's Firehouse \nLisa's Kitchen \nFranklin's \nThe Blue Duck \nMacaroni's Restaurant \nLucke's Last Chance \nChestnut 7 \nThe Green Line Cafe \nPearl's Oyster Bar \nMisconduct Tavern",
+            "1. Lucky's Last Chance \n2. Franklin's\n3. Macaroni's Restaurant\n4. Ristorante La Buca \n5. Betty's Speakeasy \n6. Founding Fathers Sports Bar & Grill \n7. Misconduct Tavern \n8. Paddy's Old City Pub \n9. Mad River Manayunk \n10. Tavern On the Hill",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nFuji Mountain \nThe Tavern Restaurant \nTavern On the Hill \nMisconduct Tavern \nPaddy's Old City Pub \nMad River Manayunk \nThe Green Line Cafe \nChestnut 7",
+            " Founding Fathers Sports Bar & Grill \nChestnut 7 \nJack's Firehouse \nMad River Manayunk \nThe Tavern Restaurant \nMisconduct Tavern \nFranklin's \nThe El Bar \nWishbone \nJD Mcgillicuddy's Manayunk",
+            "1. McMenamin's Tavern\n2. Founding Fathers Sports Bar & Grill\n3. Chestnut 7\n4. Jack's Firehouse\n5. Franklin's\n6. Wishbone\n7. The El Bar\n8. JD Mcgillicuddy's Manayunk\n9. Paddy's Old City Pub\n10. Mad River Manayunk",
+            "Founding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nLucky's Last Chance \\n\nJack's Firehouse \\n\nMiga Korean BBQ & Sushi \\n\nFranklin's \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe Continental Restaurant and Martini Bar \\n\nThe El Bar \\n\nJD Mcgillicuddy's Manayunk"
+        ]
+    }
+}

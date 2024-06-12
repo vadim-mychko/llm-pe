@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "What about food with a good salad selection?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves dessert?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying some American (New) food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a burger?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Izumi \nFuji Mountain \nGrain Exchange \nCantonese \nSushi Bars \nVedge \nBlackbird Pizzeria \nRistorante La Buca \nAudrey Claire \nMiga Korean BBQ & Sushi",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nValley Green Inn \\n\nThe Grill  Smuckers \\n\nFuji Mountain \\n\nWater Works Restaurant & Lounge \\n\nDim Sum House \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Blue Duck \\n\nRistorante La Buca\n",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "1. Zazu's Kitchen \n2. Water Works Restaurant & Lounge \n3. Grain Exchange \n4. The Tavern Restaurant \n5. Five Guys \n6. The QUICK FIXX \n7. The Green Line Cafe \n8. Spread Bagelry \n9. Cafe L'Aube \n10. Rival Bros Coffee",
+            "Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            " The Milk House \nThe Grill  Smuckers \nThe Blue Duck \nMacaroni's Restaurant \nJack's Firehouse \nFranklin's \nBetty's Speakeasy \nLucky's Last Chance \nLove & Honey Fried Chicken \nParc",
+            "Federal Donuts \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar \nThe El Bar \nJack's Firehouse \nFranklin's \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nAudrey Claire \nMcMenamin's Tavern",
+            " Chestnut 7 \\n\nFounding Fathers Sports Bar & Grill \\n\nThe El Bar \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nLucky's Last Chance \\n\nJack's Firehouse \\n\nThe Tavern Restaurant \\n\nMisconduct Tavern \\n\nThe Blue Duck"
+        ]
+    }
+}

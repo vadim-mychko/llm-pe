@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in delis?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in bars?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast/brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with a lounge atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer burgers or pizza?",
+                "response": "pizza"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "PrimoHoagies\nSteve's Prince of Steaks\nTrolley Car Diner\nLuvh Vegan Deli\nSpread Bagelry\nLisa's Kitchen\nBetty's Speakeasy\nThe QUICK FIXX\nBlackbird Pizzeria\nEvan's Pizza",
+            "1. The Green Line Cafe \n2. Betty's Speakeasy \n3. Izumi \n4. Evan's Pizza \n5. The QUICX FIXX \n6. CinCin Restaurant \n7. Golden Triangle \n8. Daleng Restaurant \n9. Zuzu's Kitchen \n10. The Tasty Toast",
+            "1. Founding Fathers Sports Bar & Grill\n2. The Grill  Smuckers\n3. Love & Honey Fried Chicken\n4. Zuzu's Kitchen\n5. Misconduct Tavern\n6. The Continental Restaurant and Martini Bar\n7. Jake's & Cooper's Wine Bar & Wine Shop\n8. Pearl's Oyster Bar\n9. Jack's Firehouse\n10. The Blue Duck",
+            "1. The Milk House \n2. The Grill  Smuckers \n3. Pearl's Oyster Bar \n4. The Blue Duck \n5. Jack's Firehouse \n6. Lisa's Kitchen \n7. Franklin's \n8. Steve's Prince of Steaks \n9. Trolley Car Diner \n10. Love & Honey Fried Chicken",
+            "1. Five Guys\n2. Franklin's\n3. Founding Fathers Sports Bar & Grill\n4. Mad River Manayunk\n5. Misconduct Tavern\n6. Paddy's Old City Pub\n7. The El Bar\n8. The Tavern Restaurant\n9. The QUICK FIXX\n10. Chestnut 7",
+            "Water Works Restaurant & Lounge\nThe Tavern Restaurant\nGrain Exchange\nThe Continental Restaurant and Martini Bar\nPearl's Oyster Bar\nMad River Manayunk\nJack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nLucky's Last Chance\nFounding Fathers Sports Bar & Grill",
+            "The Tavern Restaurant \nMisconduct Tavern \nJack's Firehouse \nMad River Manayunk \nPaddy's Old City Pub \nGrain Exchange \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nThe El Bar \nFranklin's",
+            " Founding Fathers Sports Bar & Grill \n Chestnut 7 \n The Tavern Restaurant \n Macaroni's Restaurant \n Federal Donuts \n Wawa \n Parc \n Wishbone \n The Cheesecake Factory \n Aldine",
+            "1. Chestnut 7\n2. Local Tavern\n3. Lacroix Restaurant at The Rittenhouse \n4. The Tavern Restaurant \n5. Maison 208 \n6. The Continental Restaurant and Martini Bar \n7. CO-OP Restaurant & Lounge \n8. Tavern On the Hill \n9. Jack's Firehouse \n10. Blackbird Pizzeria",
+            " Water Works Restaurant & Lounge \nMacaroni's Restaurant \nChestnut 7 \nTavern On the Hill \nJake's & Cooper's Wine Bar & Wine Shop \nRistorante La Buca \nParc \nFiore Fine Foods \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano"
+        ]
+    }
+}

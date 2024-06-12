@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bagel shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with a sandwich and salad combo?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- The Blue Duck \n- Water Works Restaurant & Lounge \n- Founding Fathers Sports Bar & Grill \n- The Tavern Restaurant \n- Federal Donuts \n- Five Guys \n- Misconduct Tavern \n- Paddy's Old City Pub \n- Mad River Manayunk \n- The El Bar",
+            "1. The Tavern Restaurant \n2. Heritage \n3. Tavern On the Hill \n4. Paddy's Old City Pub \n5. Misconduct Tavern \n6. Five Guys \n7. North Bowl \n8. Founding Fathers Sports Bar & Grill \n9. CJ & Eck's \n10. Love & Honey Fried Chicken",
+            "Local Tavern \\n\nZuzu's Kitchen \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Tasty Toast \\n\nThe Milk House \\n\nVeda - Modern Indian Bistro \\n\nThe Continental Restaurant and Martini Bar \\n\nThe Blue Duck \\n\nCook and Shaker",
+            "1. The Tasty Toast \n2. Federal Donuts \n3. PrimoHoagies \n4. Monster Vegan \n5. Lisa's Kitchen \n6. The Blue Duck \n7. Green Leafs & Bananas \n8. The Green Line Cafe \n9. Spread Bagelry \n10. CinCin Restaurant",
+            "1. The Green Line Cafe \\n\n2. Lisa's Kitchen \\n\n3. Chestnut 7 \\n\n4. The Blue Duck \\n\n5. Green Leafs & Bananas \\n\n6. PrimoHoagies \\n\n7. The QUICK FIXX \\n\n8. Spread Bagelry \\n\n9. Founding Fathers Sports Bar & Grill \\n\n10. Lucky's Last Chance\n",
+            "Steve's Prince of Steaks \nTrolley Car Diner \nGran Caffe L'Aquila \nRival Bros Coffee \nCJ & Eck's \nMcMenamin's Tavern \nPure Tacos \nOteri's Italian Bakery | North 5th St \nAudrey Claire \nWawa",
+            "1. Steve's Prince of Steaks\n2. Lisa's Kitchen\n3. Franklin's\n4. Betty's Speakeasy\n5. Spread Bagelry\n6. The Green Line Cafe\n7. Evan's Pizza\n8. Fiore Fine Foods\n9. Wishbone\n10. Pure Tacos",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n PrimoHoagies \n The Juice Merchant\n Daleng Restaurant \n Federal Donuts \n Germantown Garden \n Heritage \n The Tasty Toast",
+            "1. Zuzu's Kitchen \n2. PrimoHoagies \n3. The Tasty Toast \n4. The QUICK FIXX \n5. Spread Bagelry \n6. The Green Line Cafe \n7. Green Leafs & Bananas \n8. Steve's Prince of Steaks \n9. Lisa's Kitchen \n10. Trolley Car Diner",
+            "1. The Green Line Cafe\n2. Green Leafs & Bananas\n3. Spread Bagelry\n4. Luhv Vegan Deli\n5. The QUICK FIXX\n6. Monster Vegan\n7. Roy-Pitz Barrel House\n8. Zuzu's Kitchen\n9. PrimoHoagies\n10. Lisa's Kitchen"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cafe or a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that does both pizza and sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station ",
+            " Golden Triangle \nDaleng Restaurant \nCanton 11 \nZuzu's Kitchen \n PrimoHoagies \n Sang Kee Peking Duck House \n Kuan Yin Vegetarian Cafe And Tea Room \n Lucky's Last Chance \n North Bowl \nBaan Thai",
+            "Lacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nGrain Exchange \nFuji Mountain \nCastellino's",
+            "- Grain Exchange \n- SouthGate \n- Franklin Mortgage & Investment Co. \n- Matyson \n- Parc \n- The El Bar \n- Audrey Claire \n- Tequilas \n- 2nd Story Brewing Company \n- The Continental Restaurant and Martini Bar",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "Pearl's Oyster Bar \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFuji Mountain \nSang Kee Peking Duck House \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nRistorante La Buca \nAudrey Claire",
+            "1. The Juice Merchant \n2. Federal Donuts \n3. Mong Kok Station \n4. Fuji Mountain \n5. Misconduct Tavern \n6. Malbec Argentine Steakhouse \n7. Mad River Manayunk \n8. Founding Fathers Sports Bar & Grill \n9. The Green Line Cafe \n10. Parc",
+            "Water Works Restaurant & Lounge\nGrain Exchange\nThe Grill  Smuckers\nThe Tavern Restaurant\nPaddy's Old City Pub\nThe Blue Duck\nThe QUICK FIXX\nThe El Bar\nThe Cheesecake Factory\nGreen Leafs & Bananas",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nThe Tasty Toast \nValley Green Inn \nCO-OP Restaurant & Lounge\nRoy-Pitz Barrel House \nMacaroni's Restaurant \nThe Blue Duck \nTu's Tea & Banh Mi South Philly \nSpread Bagelry",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nHeritage\nGrain Exchange\nA Tutti, Ristorante Italiano\nThe Milk House"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you like American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you into sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying Thai food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nMiga Korean BBQ & Sushi \nBaan Thai \nFuji Mountain \nSang Kee Peking Duck House \nCanton 11 \nOishii Pok\u00e9 \nPearl's Oyster Bar",
+            " Mood Indian Restaurant\nGolden Triangle\nDaleng Restaurant\nCinCin Restaurant\nFuji Mountain\nSang Kee Peking Duck House\nCanton 11\nTu's Tea & Banh Mi South Philly\nNew York Gyro Truck\nRistorante La Buca",
+            "1. Sang Kee Peking Duck House\n2. Kanton 11\n3. Canton 11\n4. Tu's Tea & Banh Mi South Philly\n5. KC's Pastries\n6. Pure Tacos\n7. Dim Sum House\n8. Pearl's Oyster Bar\n9. Ristorante La Buca\n10. Fiore Fine Foods",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nGrain Exchange \\n\nIzumi \\n\nFuji Mountain \\n\nCinCin Restaurant \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nBaan Thai \\n\nFederal Donuts",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n PrimoHoagies \n Daleng Restaurant \n Le Pain Quotidien \n Talluto's Authentic Italian Food \n The Milk House \n Bloomsday Cafe \n Olive Garden Italian Restaurant",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Juice Merchant \n8. Federal Donuts \n9. Mong Kok Station \n10. Le Pain Quotidien",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast",
+            "Golden Triangle \nDaleng Restaurant \nGrain Exchange \nIzumi \nCinCin Restaurant \nHeritage \nSang Kee Peking Duck House \nThe Tasty Toast \n Canton 11 \nBaan Thai",
+            "1. Sang Kee Peking Duck House \n2. Canton 11 \n3. Tu's Tea & Banh Mi South Philly \n4. Daleng Restaurant \n5. Bistro SouthEast \n6. Miga Korean BBQ & Sushi \n7. Federal Donuts \n8. Golden Triangle \n9. Water Works Restaurant & Lounge \n10. Izumi",
+            " Daleng Restaurant \n Golden Triangle \n Canton 11 \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Oishii Pok\u00e9 \n Audrey Claire \n Tavern On the Hill \n Macaroni's Restaurant \n Parc"
+        ]
+    }
+}

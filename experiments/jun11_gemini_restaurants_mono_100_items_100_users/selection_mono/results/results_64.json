@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in anything vegan?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Italian or American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to go to a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that have sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar that serves American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to go to a bar with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a craft beer bar?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a gastropub?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Ristorante La Buca \nJack's Firehouse \nCanton 11 \nMad River Manayunk \nThe El Bar \nJake's & Cooper's Wine Bar & Wine Shop \nVedge \nParc \nRoy-Pitz Barrel House \nFranklin's",
+            "Ristorante La Buca\nWater Works Restaurant & Lounge\nHeritage\nFranklin's\nThe Tavern Restaurant\nJack's Firehouse\nMad River Manayunk\nPaddy's Old City Pub\nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nChestnut 7",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nVeda - Modern Indian Bistro \nCO-OP Restaurant & Lounge \nMisconduct Tavern \nFounding Fathers Sports Bar & Grill \nChestnut 7",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nGolden Triangle \nThe Tasty Toast \nHeritage \nCinCin Restaurant \nVeda - Modern Indian Bistro \nCantina 22 at The Bellevue Hotel \nNorth Bowl \nFederal Donuts (Chestnut St)",
+            "1. Liberty Lounge \n2. Tavon on the Hill \n3. Blackbird Pizzeria \n4. Green Leafs & Bananas \n5. Roy-Pitz Barrel House \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. Chestnut 7 \n8. Cook and Shaker \n9. Parc \n10. The El Bar",
+            "Lost Tavern\nWater Works Restaurant & Lounge\nGermantown Garden\nLacroix at The Rittenhouse\nThe Tavern Restaurant\nMaison 208\nThe Continental Restaurant and Martini Bar\nAldine\nFounding Fathers Sports Bar & Grill\nJack's Firehouse",
+            "1. Jake's & Cooper's Wine Bar & Wine Shop \n2. Maison 208 \n3. Libert\u00e9 Lounge \n4. Pearl's Oyster Bar \n5. Vedge \n6. Cook and Shaker \n7. Founding Fathers Sports Bar & Grill \n8. Gran Caffe L'Aquila \n9. Jack's Firehouse \n10. Malbec Argentine Steakhouse",
+            "1. Tavern On the Hill \n2. Jack's Firehouse \n3. Founding Fathers Sports Bar & Grill \n4. Paddy's Old City Pub \n5. The El Bar\n6. Misconduct Tavern \n7. Franklin's \n8. CJ & Eck's \n9. The Continental Restaurant and Martini Bar \n10. Cook and Shaker",
+            "Franklin's \\n\nRoy-Pitz Barrel House \\n\nGrain Exchange \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nCook and Shaker \\n\nThe El Bar \\n\nThe Continental Restaurant and Martini Bar \\n\nChestnut 7 \\n\nFounding Fathers Sports Bar & Grill \\n\nPaddy's Old City Pub"
+        ]
+    }
+}

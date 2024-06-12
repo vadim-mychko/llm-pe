@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Do you have any interest in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you consider yourself to be interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have interest in international cuisine, such as Brazilian, Chinese, or Mexican?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that offers burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle\nDaleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nRistorante La Buca\nAudrey Claire\nOishii Pok\u00e9\nLove & Honey Fried Chicken\nParc\nMcMenamin's Tavern",
+            " Zuzu's Kitchen \n****\n Golden Triangle \n****\n Water Works Restaurant & Lounge \n****\n Lacroix Restaurant at The Rittenhouse \n****\n Daleng Restaurant \n****\n Federal Donuts \n****\n The Tasty Toast \n****\n Le Pain Quotidien \n****\n Federal Donuts \n****\n Heritage\n****",
+            "Golden Triangle\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Milk House\nBistro SouthEast\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly\nMacaroni's Restaurant\nDim Sum House",
+            " Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n Zuzu's Kitchen \n Le Pain Quotidien \n The Tasty Toast \n A Tutti, Ristorante Italiano \n The Milk House \n Valley Green Inn \n Talluto's Authentic Italian Food",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFederal Donuts \nLacroix Restaurant at The Rittenhouse \nHeritage \nCanton 11 \nFuji Mountain \nThe Juice Merchant \nLe Pain Quotidien",
+            "1. Grain Exchange\n2. Water Works Restaurant & Lounge\n3. CO-OP Restaurant & Lounge\n4. Pearl's Oyster Bar\n5. Malbec Argentine Steakhouse\n6. Fiore Fine Foods\n7. Jake's & Cooper's Wine Bar & Wine Shop\n8. Roy-Pitz Barrel House\n9. Vedge\n10. Parc",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            "Fuji Mountain \nCanton 11 \nTavern On the Hill \nJack's Firehouse \nPearl's Oyster Bar \nDim Sum House \nAudrey Claire \nGran Caffe L'Aquila \nOishii Pok\u00e9 \nThe Blue Duck",
+            "1. Water Works Restaurant & Lounge\n2. Seafood\n3. Mediterranean\n4. American (New)\n5. Breakfast & Brunch\n6. Restaurants",
+            " Mood Indian Restaurant \\n\nLocal Tavern \\n\nDaleng Restaurant \\n\nZuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nFederal Donuts \\n\nLacroix Restaurant at The Rittenhouse"
+        ]
+    }
+}

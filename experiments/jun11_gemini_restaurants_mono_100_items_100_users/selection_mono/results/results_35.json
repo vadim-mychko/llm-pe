@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that sell sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or a restaurant with nightlife?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that have a lounge?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nA Tutti, Ristorante Italiano \nZummo's Brooklyn Pizza \nMacaroni's Restaurant \nParc \nSteve's Prince of Steaks \nThe QUICK FIXX \nLuvh Vegan Deli \nPure Tacos \nRival Bros Coffee",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Tasty Toast \n Le Pain Quotidien \n CinCin Restaurant \n Grain Exchange \n A Tutti, Ristorante Italiano \n Veda - Modern Indian Bistro \n Talluto's Authentic Italian Food",
+            "Lacroix Restaurant at The Rittenhouse \nThe Milk House \nPearl's Oyster Bar \nThe Continental Restaurant and Martini Bar \nVedge \nRoy-Pitz Barrel House \nHey Hummus \nEssene Market & Caf\u00e9 \nJake's & Cooper's Wine Bar & Wine Shop \nTu's Tea & Banh Mi South Philly",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nLacroix Restaurant at The Rittenhouse\n Ristorante La Buca \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nBenna's Cafe \nBetty's Speakeasy \nRival Bros Coffee",
+            "1. Paddy's Old City Pub\n2. Mad River Manayunk\n3. The Tavern Restaurant\n4. Misconduct Tavern\n5. Five Guys\n6. Wishbone\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. CJ & Eck's\n10. Lucky's Last Chance\n",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nHeritage \nKokopelli Restaurant & Tequila Bar \nGrain Exchange \nVeda - Modern Indian Bistro \nThe Tavern Restaurant \nMaison 208 \nBloomsday Cafe",
+            "****\n name: The Tavern Restaurant \n categories: Restaurants, Nightlife, American (Traditional), Bars, Burgers, Cocktail Bars, American (New)\n****\n name: Veda - Modern Indian Bistro \n categories: Restaurants, Tapas/Small Plates, Bars, Nightlife, Cocktail Bars, Indian, Breakfast & Brunch\n****\n name: Maison 208 \n categories: Restaurants, Nightlife, French, American (New), Bars\n****\n name: CO-OP Restaurant & Lounge \n categories: Restaurants, American (New), Bars, Breakfast & Brunch, Coffee & Tea, Food, Cocktail Bars, Nightlife\n****\n name: Tavern On the Hill \n categories: Restaurants, Nightlife, American (New), American (Traditional), Bars, Pubs, Lounges\n****\n name: Paddy's Old City Pub \n categories: Restaurants, American (Traditional), Nightlife, Bars, Pubs\n****\n name: North Bowl \n categories: Restaurants, Vegan, Venues & Event Spaces, Active Life, American (Traditional), Sports Bars, Lounges, Bowling, Bars, Nightlife, Event Planning & Services\n****\n name: Macaroni's Restaurant \n categories: Restaurants, Nightlife, Beer Gardens, Italian, Pizza\n****\n name: The Continental Restaurant and Martini Bar \n categories: Restaurants, American (New), Lounges, Nightlife, Bars, Breakfast & Brunch\n****\n name: Wishbone \n categories: Restaurants, Nightlife, Bars, Chicken Shop, American (New), Fast Food, Cocktail Bars, Comfort Food, Chicken Wings, Sandwiches, Burgers",
+            "1. The Tavern Restaurant \n2. Maison 208 \n3. Veda - Modern Indian Bistro \n4. Misconduct Tavern \n5. Tavern On the Hill \n6. Lucky's Last Chance \n7. The El Bar \n8. Betty's Speakeasy \n9. Lucky's Last Chance \n10. Founding Fathers Sports Bar & Grill",
+            "Federal Donuts \\n\nJack's Firehouse \\n\nGrain Exchange \\n\nThe Tavern Restaurant \\n\nMadison's Cafe \\n\nFederal Donuts \\n\nFederal Donuts \\n\nThe Continental Restaurant and Martini Bar \\n\nCook and Shaker \\n\nAldine",
+            " Maison 208 \n Tavern On the Hill \n Lacroix Restaurant at The Rittenhouse \n Paddy's Old City Pub \n Aldine \n Founding Fathers Sports Bar & Grill \n Tavern on the Square \n The Blue Duck \n Chestnut 7 \n The Continental Restaurant and Martini Bar"
+        ]
+    }
+}

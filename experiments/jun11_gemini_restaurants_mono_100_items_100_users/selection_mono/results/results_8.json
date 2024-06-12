@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place to get Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Jamaican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place for breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with gluten-free food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "A Tutti, Ristorante Italiano \nPrimoHoagies \nTalluto's Authentic Italian Food \nCastellino's \nDiFabio's Bakery \nThe QUICK FIXX \nBaan Thai \nMacaroni's Restaurant \nRistorante La Buca \nOteri's Italian Bakery | North 5th St",
+            "A Tutti, Ristorante Italiano \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nMongo Kok Station \\n\nMacaroni's Restaurant \\n\nPrimoHoagies \\n\nOlive Garden Italian Restaurant \\n\nLaCroix Restaurant at The Rittenhouse \\n\nRistorante La Buca \\n\nPearl's Oyster Bar",
+            "Daleng Restaurant \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nMonster Vegan \nThe QUICK FIXX \nCafe L'Aube \nGran Caffe L'Aquila \nMacaroni's Restaurant \nFiore Fine Foods",
+            "Ristorante La Buca \nDaleng Restaurant \nCanton 11 \nA Tutti, Ristorante Italiano \nMacaroni's Restaurant \nNorth Bowl \nCinCin Restaurant \nMong Kok Station \nTalluto's Authentic Italian Food \nPrimoHoagies",
+            "A Tutti, Ristorante Italiano \nSang Kee Peking Duck House \nOlive Garden Italian Restaurant \nRistorante La Buca \nCastellino's \nTalluto's Authentic Italian Food \nPrimaHoagies \nMacaroni's Restaurant \nDim Sum House \nFiore Fine Foods",
+            "1. A Tutti, Ristorante Italiano \n2. Talluto's Authentic Italian Food \n3. Castellino's \n4. Monster Vegan \n5. Hey Hummus \n6. Fiore Fine Foods \n7. The QUICK FIXX \n8. Ristorante La Buca \n9. CJ & Eck's \n10. Gran Caffe L'Aquila",
+            "1. Zuzu's Kitchen \n2. PrimoHoagies \n3. Castellino's\n4. Rocco's Italian Restaurant \n5. La Famiglia \n6. Sabrina's Cafe \n7. Sabrina's Cafe \n8. A Tutti, Ristorante Italiano \n9. Talula's Garden \n10. Sorellina",
+            "1. A Tutti, Ristorante Italiano\n2. Daleng Restaurant\n3. PrimoHoagies\n4. Macaroni's Restaurant\n5. Tavern On the Hill\n6. Castellino's\n7. Talluto's Authentic Italian Food\n8. Ristorante La Buca \n9. Olive Garden Italian Restaurant\n10. Fiore Fine Foods",
+            "CinCin Restaurant \\n\nRistorante La Buca \\n\nCastellino's \\n\nCaffe L'Aube \\n\nA Tutti, Ristorante Italiano \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nMugshots Coffeehouse \\n\nOlive Garden Italian Restaurant \\n\nThe QUICK FIXX \\n\nThe Blue Duck\n",
+            "1. Castellino's \n2. A Tutti, Ristorante Italiano \n3. Talluto's Authentic Italian Food \n4. Fiore Fine Foods \n5. The QUICK FIXX \n6. Macaroni's Restaurant \n7. Dim Sum House \n8. Banh Mi & Juice \n9. Trolley Car Diner \n10. Ristorante La Buca\n"
+        ]
+    }
+}

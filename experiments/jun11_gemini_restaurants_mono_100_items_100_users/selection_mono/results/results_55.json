@@ -1,0 +1,58 @@
+{
+    "55": {
+        "conv_hist": [
+            {
+                "query": "Do you want anything Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want any breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a beverage?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer coffee or tea?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nThe Tasty Toast \nDaleng Restaurant \nThe Juice Merchant \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nPrimoHoagies \nFederal Donuts \nLe Pain Quotidien \nCinCin Restaurant",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nLe Pain Quotidien\nThe Milk House\nThe Grill  Smuckers\nBistro SouthEast\nBenna's Cafe",
+            "1. PrimoHoagies\n2. Olive Garden Italian Restaurant\n3. Steve's Prince of Steaks\n4. The Green Line Cafe\n5. Betty's Speakeasy\n6. Wawa\n7. Audrey Claire\n8. Love & Honey Fried Chicken\n9. Spread Bagelry\n10. Macaroni's Restaurant",
+            "Breakfast & Brunch\n****\nTrolley Car Diner\n****\nThe Tasty Toast \\n\n****\nThe Milk House \\n\n****\nThe Grill  Smuckers \\n\n****\nBenna's Cafe \\n\n****\nHey Hummus \\n\n****\nFiore Fine Foods \\n\n****\nBetty's Speakeasy \\n\n****\nCafe L'Aube\nSandwiches\n****\nTrolley Car Diner\n****\nPrimoHoagies \\n\n****\nThe Tasty Toast \\n\n****\nThe Juice Merchant \\n\n****\nFederal Donuts \\n\n****\nThe Green Line Cafe \\n\n****\nSpread Bagelry \\n\n\nVegetarian\n****\nThe Juice Merchant \\n\n****\nVedge \\n\n****\nMonster Vegan \\n\n****\nNorth Bowl \\n\n****\nHey Hummus \\n\n****\nLuvh Vegan Deli \\n\nBreakfast & Brunch\n****\nTrolley Car Diner\n****\nThe Tasty Toast \\n\n****\nThe Milk House \\n\n****\nThe Grill  Smuckers \\n\n****\nBenna's Cafe \\n\n****\nHey Hummus \\n\n****\nFiore Fine Foods \\n\n****\nBetty's Speakeasy \\n\n****\nCafe L'Aube\nSandwiches\n****\nTrolley Car Diner\n****\nPrimoHoagies \\n\n****\nThe Tasty Toast \\n\n****\nThe Juice Merchant \\n\n****\nFederal Donuts \\n\n****\nThe Green Line Cafe \\n\n****\nSpread Bagelry \\n\nVegetarian\n****\nThe Juice Merchant \\n\n****\nVedge \\n\n****\nMonster Vegan \\n\n****\nNorth Bowl \\n\n****\nHey Hummus \\n\n****\nLuvh Vegan Deli \\n",
+            "The Green Line Cafe \\n\nSpread Bagelry \\n\nWawa \\n\nWishbone \\n\nJack's Firehouse \\n\nTrolley Car Diner \\n\nSister Muhammad's Kitchen \\n\nFounding Fathers Sports Bar & Grill \\n\nMacaroni's Restaurant \\n\nThe Blue Duck",
+            "The Juice Merchant \nThe Milk House \nThe Grill  Smuckers \nThe Tavern Restaurant \nThe Green Line Cafe \nGreen Leafs & Bananas \nFederal Donuts \nDaleng Restaurant \nCinCin Restaurant \nBenna's Cafe",
+            "1. The Juice Merchant\n2. The Green Line Cafe\n3. Green Leafs & Bananas\n4. The QUICK FIXX\n5. Evan's Pizza\n6. Tu's Tea & Banh Mi South Philly\n7. Castellino's\n8. Spread Bagelry\n9. PrimoHoagies\n10. The Tavern Restaurant",
+            "The Grilled Cheese & Crabcake Co. \nTrolley Car Diner \nSteve's Prince of Steaks \nThe Continental Restaurant and Martini Bar \nThe Tasty Toast \nThe Blue Duck \nMacaroni's Restaurant \nSpread Bagelry \nThe Green Line Cafe \nBagel Express",
+            "1. Betty's Speakeasy\n2. Cafe L'Aube\n3. Green Leafs & Bananas\n4. Rival Bros Coffee\n5. Gran Caffe L'Aquila\n6. Fiore Fine Foods\n7. Jack's Firehouse\n8. Laughing Owl Roasters\n9. Pearl's Oyster Bar\n10. Oishii Pok\u00e9"
+        ]
+    }
+}

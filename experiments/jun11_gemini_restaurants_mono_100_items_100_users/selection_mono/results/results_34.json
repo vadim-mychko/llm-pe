@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in vegetarian-friendly restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer American-style restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer casual dining like cafes or coffee shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sit-down American restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with a formal dining atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with bar seating?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nFederal Donuts\nThe Tasty Toast\nFederal Donuts \nCinCin Restaurant\nIzumi",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n Grain Exchange \n Izumi \n Mong Kok Station \n Bistro SouthEast \n Canton 11 \n Miga Korean BBQ & Sushi",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Tasty Toast \nCinCin Restaurant \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano",
+            " Heritage \n****\n Grain Exchange \n****\n The Grill  Smuckers \n****\n Tavern On the Hill \n****\n Paddy's Old City Pub \n****\n Misconduct Tavern \n****\n Five Guys \n****\n Benna's Cafe \n****\n The Continental Restaurant and Martini Bar \n****\n Roy-Pitz Barrel House",
+            "1. Founding Fathers Sports Bar & Grill\n2. Chestnut 7\n3. The Blue Duck\n4. Jack's Firehouse\n5. Franklin's\n6. JD Mcgillicuddy's Manayunk\n7. Betty's Speakeasy\n8. The El Bar\n9. Macaroni's Restaurant\n10. Benna's Cafe\n",
+            "Water Works Restaurant & Lounge\nThe Tasty Toast\nThe Grill  Smuckers\nThe Blue Duck\nThe Continental Restaurant and Martini Bar\nTavern On the Hill\nAudrey Claire\nFounding Fathers Sports Bar & Grill\nChestnut 7\nThe Cheesecake Factory",
+            "Macaroni's Restaurant \\n\nValley Green Inn \\n\nThe Grill  Smuckers \\n\nLisa's Kitchen \\n\nFranklin's \\n\nChestnut 7 \\n\n Founding Fathers Sports Bar & Grill \\n\nThe Cheesecake Factory \\n\nThe Tavern Restaurant \\n\nPaddy's Old City Pub",
+            "Lacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Tavern Restaurant \nTavern On the Hill \nMad River Manayunk \nJack's Firehouse \nFranklin's \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory",
+            "Tavern On the Hill \\n\nThe Grill  Smuckers \\n\nThe Tasty Toast \\n\nChestnut 7 \\n\nThe Continental Restaurant and Martini Bar \\n\nFive Guys \\n\nSteve's Prince of Steaks \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n\nMisconduct Tavern",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Five Guys \n4. Liberty Lounge \n5. The Continental Restaurant and Martini Bar \n6. The Blue Duck \n7. Franklin's\n8. Lisa's Kitchen \n9. Founding Fathers Sports Bar & Grill \n10. Chestnut 7"
+        ]
+    }
+}

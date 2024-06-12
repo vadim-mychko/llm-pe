@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Do you like coffee and tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see restaurants that also serve coffee or tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in getting vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve breakfast and lunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that deliver?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Rival Bros Coffee\n2. Mugshots Coffeehouse\n3. La Colombe\n4. Betty's Speakeasy\n5. Gran Caffe L'Aquila\n6. Cafe L'Aube\n7. The Green Line Cafe\n8. Benna's Cafe\n9. The Juice Merchant\n10. Oteri's Italian Bakery | North 5th St",
+            "The Juice Merchant \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nMugshots Coffeehouse \nBloomsday Cafe \nThe Continental Restaurant and Martini Bar \nJake's & Cooper's Wine Bar & Wine Shop \nThe Green Line Cafe \nSpread Bagelry",
+            "The Juice Merchant \nThe Green Line Cafe \nSpread Bagelry \nPrimoHoagies \nWawa \nLisa's Kitchen \nBetty's Speakeasy \nBenna's Cafe \nGreen Leafs & Bananas \nMugshots Coffeehouse",
+            "1. Zuzu's Kitchen \n2. The Juice Merchant \n3. Le Pain Quotidien \n4. Mugshots Coffeehouse \n5. Bloomsday Cafe \n6. Olive Garden Italian Restaurant \n7. CO-OP Restaurant & Lounge \n8. Roy-Pitz Barrel House \n9. Fiore Fine Foods \n10. The Green Line Cafe",
+            "The Juice Merchant \nThe Green Line Cafe \nBetty's Speakeasy \nRival Bros Coffee \nMugshots Coffeehouse \nCafe L'Aube \nBloomsday Cafe \nSpread Bagelry \nLe Pain Quotidien \nGran Caffe L'Aquila",
+            "1. The Green Line Cafe \n2. Mugshots Coffeehouse \n3. Bloomsday Cafe \n4. Fiore Fine Foods \n5. Green Leafs & Bananas \n6. CO-OP Restaurant & Lounge \n7. The Cheesecake Factory \n8. Spread Bagelry \n9. Benna's Cafe \n10. Vedge",
+            "1. The Juice Merchant \n2. Green Leafs & Bananas \n3. Wawa \n4. Trolley Car Diner \n5. The Green Line Cafe \n6. Spread Bagelry \n7. Jake's & Cooper's Wine Bar & Wine Shop \n8. Betty's Speakeasy \n9. Rival Bros Coffee \n10. Gran Caffe L'Aquila",
+            "The Juice Merchant \nCafe L'Aube \nMugshots Coffeehouse \nSpread Bagelry \nThe Green Line Cafe \nBloomsday Cafe \nBetty's Speakeasy \nThe QUICK FIXX \nEvan's Pizza \nMacaroni's Restaurant",
+            "1. Mugshots Coffeehouse \n2. Rival Bros Coffee \n3. Betty's Speakeasy \n4. Gran Caffe L'Aquila \n5. Parc \n6. Fiore Fine Foods \n7. The Green Line Cafe \n8. Spread Bagelry \n9. Cafe L'Aube \n10. Jake's & Cooper's Wine Bar & Wine Shop ",
+            "The Juice Merchant \nZuzu's Kitchen \nLe Pain Quotidien \nSpread Bagelry \nThe Green Line Cafe \nBenna's Cafe \nMiga Korean BBQ & Sushi \nRival Bros Coffee \nGran Caffe L'Aquila \nMugshots Coffeehouse"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian restaurants that serve pizza but not sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try a restaurant that also has a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer seafood over American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with Italian pastries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants with a bakery?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like coffee and tea with your pastries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant with desserts?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. A Tutti, Ristorante Italiano\n2. Talluto's Authentic Italian Food\n3. Castellino's\n4. Olive Garden Italian Restaurant\n5. Monster Vegan\n6. Macaroni's Restaurant\n7. Fiore Fine Foods\n8. Ristorante La Buca\n9. Oteri's Italian Bakery | North 5th St\n10. Gran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nThe QUICK FIXX \nFiore Fine Foods \nCastellino's \nTalluto's Authentic Italian Food \nPrimoHoagies \nFederal Donuts \nRistorante La Buca \nCinCin Restaurant \nDim Sum House",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. Olive Garden Italian Restaurant\n5. Castellino's\n6. Talluto's Authentic Italian Food\n7. PrimoHoagies\n8. The QUICK FIXX\n9. Chestnut 7\n10. Roy-Pitz Barrel House\n",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Lacroix Restaurant at The Rittenhouse\n4. A Tutti, Ristorante Italiano\n5. Fiore Fine Foods\n6. Ristorante La Buca\n7. Chestnut 7\n8. Audrey Claire\n9. Parc\n10. Gran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano\nPearl's Oyster Bar\nMacaroni's Restaurant\nOtto Restaurant\nChiara\nZavino\nAudrey Claire\nRistorante La Buca\nRival Bros Coffee\nVedge\nGran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \nFiorentina Craft Pizza + Pints \nLa Famiglia \nCantina Los Caballitos \nBarbuzzo \nCaffe Castagna \nOsteria \nIl Pittore \nSerafina \nRoman Delight",
+            "A Tutti, Ristorante Italiano \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nFiore Fine Foods \\n\nCastellino's \\n\nRistorante La Buca \\n\nOteri's Italian Bakery | North 5th St \\n\nAudrey Claire \\n\nFederal Donuts \\n\nTalluto's Authentic Italian Food",
+            " A Tutti, Ristorante Italiano \n Lacroix Restaurant at The Rittenhouse \n Fiore Fine Foods \n Gran Caffe L'Aquila \n Oteri's Italian Bakery | North 5th St \n Ristorante La Buca \n Parc \n Betty's Speakeasy \n Cantina Los Caballitos \n Audrey Claire",
+            "A Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nFiore Fine Foods \\n\nFederal Donuts \\n\nOteri's Italian Bakery | North 5th St \\n\nGran Caffe L'Aquila \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nChestnut 7 \\n\nThe QUICK FIXX",
+            " A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nChestnut 7 \nFederal Donuts \nFiore Fine Foods \nCafe L'Aube \nGran Caffe L'Aquila \nOteri's Italian Bakery | North 5th St \nEvan's Pizza \nThe QUICK FIXX"
+        ]
+    }
+}

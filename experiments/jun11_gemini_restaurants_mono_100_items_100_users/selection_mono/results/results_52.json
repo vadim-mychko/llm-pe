@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want tea or coffee ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve sandwiches right now?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you want your sandwiches to have Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Prefer locations that prepare burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer places that serve Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in visiting a place that offers Halal cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The QUICK FIXX \n2. Zuzu's Kitchen \n3. A Tutti, Ristorante Italiano \n4. Fiore Fine Foods \n5. Jake's & Cooper's Wine Bar & Wine Shop \n6. Chestnut 7 \n7. Roy-Pitz Barrel House \n8. Evan's Pizza \n9. The Green Line Cafe \n10. Blackbird Pizzeria",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Daleng Restaurant \n4. Lacroix Restaurant at The Rittenhouse \n5. PrimoHoagies \n6. Germantown Garden \n7. The Tasty Toast \n8. Le Pain Quotidien \n9. A Tutti, Ristorante Italiano \n10. Talluto's Authentic Italian Food",
+            "**10 Restaurants with Sandwiches**\n\n Zuzu's Kitchen \\n\n PrimoHoagies \\n\n The Juice Merchant \\n\n Federal Donuts \\n\n The Tasty Toast \\n\n The Green Line Cafe \\n\n Spread Bagelry \\n\n CJ & Eck's \\n\n Love & Honey Fried Chicken \\n\n McMenamin's Tavern \\n",
+            "Golden Triangle \nDaleng Restaurant \nSang Kee Peking Duck House \nCanton 11 \nTu's Tea & Banh Mi South Philly \nJake's & Cooper's Wine Bar & Wine Shop \nBlackbird Pizzeria \nThe QUICK FIXX \nChestnut 7 \nSpread Bagelry",
+            "Green Leafs & Bananas\nMonster Vegan\nLuvh Vegan Deli\nVedge\nHey Hummus\nBlackbird Pizzeria\nThe QUICK FIXX\nTu's Tea & Banh Mi South Philly\nBenna's Cafe\nThe Juice Merchant",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nHey Hummus \nThe QUICK FIXX \nSpread Bagelry \nThe Green Line Cafe \nGreen Leafs & Bananas \nTu's Tea & Banh Mi South Philly \nThe Juice Merchant",
+            "Monster Vegan\nVedge\nHey Hummus\nThe QUICK FIXX\nGreen Leafs & Bananas\nLuvh Vegan Deli\nThe Green Line Cafe\nThe Juice Merchant\nSpread Bagelry\nBenna's Cafe",
+            "The QUICK FIXX \nGreen Leafs & Bananas \nLuvh Vegan Deli \nSpread Bagelry \nThe Green Line Cafe \nMonster Vegan \nVedge \nHey Hummus \nEssen Market & Caf\u00e9 \nBenna's Cafe",
+            "1. Green Leafs & Bananas\n2. Steve's Prince of Steaks\n3. Spread Bagelry\n4. The Green Line Cafe\n5. Rival Bros Coffee\n6. Cafe L'Aube\n7. Jake's & Cooper's Wine Bar & Wine Shop\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Gran Caffe L'Aquila\n",
+            "- PrimoHoagies\n- The Tasty Toast \n- Green Leafs & Bananas \n- The Green Line Cafe \n- Spread Bagelry \n- Lisa's Kitchen \n- Luhv Vegan Deli \n- Lucky's Last Chance \n- The QUICK FIXX \n- Hey Hummus"
+        ]
+    }
+}

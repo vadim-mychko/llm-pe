@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat at an American restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers, pizza, or tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Seafood Restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with a bar and live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves steak?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Germantown Garden \n5. Daleng Restaurant \n6. The Juice Merchant \n7. Federal Donuts \n8. Mong Kok Station \n9. The Tasty Toast \n10. Le Pain Quotidien",
+            "1. The Tasty Toast \n2. Germantown Garden \n3. Founding Fathers Sports Bar & Grill \n4. The Tavern Restaurant \n5. PrimoHoagies \n6. Lisa's Kitchen \n7. Misconduct Tavern \n8. Paddy's Old City Pub \n9. Mad River Manayunk \n10. Jack's Firehouse",
+            "1. The Continental Restaurant and Martini Bar\n2. Pearl's Oyster Bar\n3. The Blue Duck\n4. The Grill  Smuckers\n5. Jack's Firehouse\n6. The QUICK FIXX\n7. Fiore Fine Foods\n8. Founding Fathers Sports Bar & Grill\n9. The Cheesecake Factory\n10. Heritage",
+            " Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nGermantown Garden\nThe Milk House\nThe Grill  Smuckers\nThe Tavern Restaurant\nCanton 11\nPearl's Oyster Bar",
+            "The Continental Restaurant and Martini Bar \nThe Green Line Cafe \nThe Grill  Smuckers \nThe Blue Duck \nThe Juice Merchant \nThe Tavern Restaurant \nTrolley Car Diner \nFranklin's \nFounding Fathers Sports Bar & Grill \nFive Guys",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nLacroix Restaurant at The Rittenhouse \nThe Cheesecake Factory \nRoy-Pitz Barrel House \nNorth Bowl \nGolden Triangle \nAudrey Claire \nBlackbird Pizzeria \nJack's Firehouse",
+            "****\n name: Water Works Restaurant & Lounge \n categories: Restaurants, Seafood, Mediterranean, American (New), Breakfast & Brunch, Event Planning & Services, Caterers\n****\n name: Valley Green Inn \n categories: Restaurants, American (Traditional), Event Planning & Services, American (New), Seafood, Venues & Event Spaces\n****\n name: Bistro SouthEast \n categories: Restaurants, Korean, Seafood, Thai, Asian Fusion, Vietnamese, Sandwiches\n****\n name: Pearl's Oyster Bar \n categories: Restaurants, Seafood, American (New), Live/Raw Food, Breakfast & Brunch\n****\n name: Ristorante La Buca \n categories: Restaurants, Seafood, Bars, Italian, Wine Bars, Nightlife\n****\n name: Audrey Claire \n categories: Restaurants, Greek, Mediterranean, Seafood, American (New)\n****\n name: The Green Line Cafe \n categories: Restaurants, Sandwiches, Coffee & Tea, Cafes, Food\n****\n name: Olive Garden Italian Restaurant \n categories: Restaurants, Salad, Bars, Nightlife, Italian, Wine Bars\n****\n name: Green Leafs & Bananas \n categories: Restaurants, Sandwiches, Salad, Food, Fast Food, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies\n****\n name: Gran Caffe L'Aquila \n categories: Restaurants, Gelato, Coffee & Tea, Food, Italian, Bakeries",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nOishii Pok\u00e9 \nMalbec Argentine Steakhouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nJack's Firehouse",
+            "Water Works Restaurant & Lounge \nThe Grill  Smuckers \nValley Green Inn \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nFederal Donuts \nTrolley Car Diner \nNew York Gyro Truck \nPure Tacos",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Grain Exchange \n4. The Grill  Smuckers \n5. Maison 208 \n6. CO-OP Restaurant & Lounge \n7. The Continental Restaurant and Martini Bar \n8. Pearl's Oyster Bar \n9. Ristorante La Buca \n10. Audrey Claire"
+        ]
+    }
+}

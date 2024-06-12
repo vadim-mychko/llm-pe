@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Korean BBQ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food that's fast and convenient?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in eating at a Japanese sushi bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a breakfast place?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Veda - Modern Indian Bistro\n2. Heritage \n3. Grain Exchange \n4. Kokopelli Restaurant & Tequila Bar \n5. The Milk House \n6. The Juice Merchant \n7. Talluto's Authentic Italian Food \n8. A Tutti, Ristorante Italiano \n9. Zuzu's Kitchen \n10. PrimoHoagies",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nZuzu's Kitchen \nThe Continental Restaurant and Martini Bar \nBloomsday Cafe \nThe Fresh Grocer - Progress Plaza \nThe MILK House \nBenna's Cafe \nVedge \nCinCin Restaurant",
+            "The Juice Merchant \nZuzu's Kitchen \nThe Tasty Toast \nLe Pain Quotidien \nBloomsday Cafe \nNorth Bowl \nBenna's Cafe \nMonster Vegan \nHey Hummus \nVedge",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nGermantown Garden\nThe Juice Merchant\nPrimoHoagies\nFederal Donuts\nFederal Donuts",
+            " Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nGolden Triangle \nDaleng Restaurant \nFederal Donuts \nThe Tasty Toast \nChinatown Garden \nThe Milk House \nIzumi",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Federal Donuts \nThe Milk House \nThe Juice Merchant \nTrolley Car Diner \nWawa \nGreen Leafs & Bananas \nAudrey Claire \nLis&Atilde;&copy;s Kitchen \n Founding Fathers Sports Bar & Grill \nThe Tavern Restaurant",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nLe Pain Quotidien \\n\nFederal Donuts \\n\nHeritage \\n\nGrain Exchange \\n\nIzumi",
+            "1. Water Works Restaurant & Lounge\n2. Ved\n3. The Juice Merchant\n4. Daleng Restaurant\n5. The Fresh Grocer - Progress Plaza\n6. Izumi\n7. Bloomsday Cafe\n8. Benna's Cafe\n9. Fiore Fine Foods\n10. Liberty Lounge",
+            "1. Water Works Restaurant & Lounge\n2. Lacroix Restaurant at The Rittenhouse\n3. Golden Triangle\n4. Grain Exchange\n5. Ristorante La Buca\n6. Malbec Argentine Steakhouse\n7. A Tutti, Ristorante Italiano\n8. The Cheesecake Factory\n9. Audrey Claire\n10. Macaroni's Restaurant"
+        ]
+    }
+}

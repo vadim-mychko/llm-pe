@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Is Italian food something you're interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar to go with your burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you also interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that has beer available?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a place with sports on TV?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to go to a tavern or do you prefer a more upscale place?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant\n2. Golden Triangle\n3. Sang Kee Peking Duck House\n4. Canton 11\n5. Miga Korean BBQ & Sushi\n6. Tu's Tea & Banh Mi South Philly\n7. Dim Sum House\n8. Oishii Pok\u00e9\n9. Boba Tea \n10. Tamarind\n11. Dim Sum Garden\n12. Sabrina's Cafe\n13. A Taste of Thai\n14. Thai Singha House\n15. Szechuan Delight\n16. Han Dynasty\n17. Wok to Walk\n18. Simply Thai\n19. Noodle House\n20. Pho 75",
+            " The Fresh Grocer - Progress Plaza \nLucky's Last Chance \nMise en Place \nNew York Gyro Truck \nThe QUICK FIXX \nChhaya \nFusion Cafe \nUbunto Coffee Roastery \nTaproom on 19th \nGreco's Italian Grill",
+            "Five Guys \\n\nMisconduct Tavern \\n\nLisa's Kitchen \\n\nFederal Donuts \\n\nFranklin's \\n\nJack's Firehouse \\n\nThe Blue Duck \\n\nLucky's Last Chance \\n\nChestnut 7 \\n\nWishbone",
+            "Macaroni's Restaurant\nThe Tavern Restaurant \nFounding Fathers Sports Bar & Grill \nMisconduct Tavern \nJack's Firehouse \nChestnut 7 \nMad River Manayunk \nFederal Donuts \nFranklin's \nThe Blue Duck",
+            "1. Founding Fathers Sports Bar & Grill\n2. Lucky's Last Chance\n3. Jack's Firehouse\n4. Lisa's Kitchen\n5. Misconduct Tavern\n6. Wishbone\n7. Franklin's\n8. The Blue Duck\n9. CinCin Restaurant\n10. The Tavern Restaurant",
+            " Misconduct Tavern \nFive Guys \nWishbone \nFederal Donuts \nThe Blue Duck \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nChestnut 7",
+            "1. Franklin's\n2. Lisa's Kitchen\n3. Five Guys\n4. Misconduct Tavern\n5. The Tavern Restaurant\n6. Macaroni's Restaurant\n7. Chestnut 7\n8. Founding Fathers Sports Bar & Grill\n9. Jack's Firehouse\n10. JD Mcgillicuddy's Manayunk",
+            "Wishbone, Franklin's, Founding Fathers Sports Bar & Grill, McMenamin's Tavern, CJ & Eck's, Tavern On the Hill, Mad River Manayunk, Blackbird Pizzeria, The El Bar, Lucky's Last Chance",
+            "1. McMenamin's Tavern\n2. Franklin's \n3. Chestnut 7 \n4. Mad River Manayunk \n5. JD Mcgillicuddy's Manayunk \n6. Founding Fathers Sports Bar & Grill \n7. CJ & Eck's \n8. Paddy's Old City Pub \n9. Misconduct Tavern \n10. Tavern On the Hill",
+            "Founding Fathers Sports Bar & Grill\nMad River Manayunk\nWishbone\nPaddy's Old City Pub\nFranklin's\nMisconduct Tavern\nThe Tavern Restaurant\nJack's Firehouse\nJD Mcgillicuddy's Manayunk\nMcMenamin's Tavern"
+        ]
+    }
+}

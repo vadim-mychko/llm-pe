@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that serves Korean BBQ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in steaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with fast food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien",
+            "1. Mad River Manayunk\n2. The El Bar\n3. Lucky's Last Chance\n4. JD Mcgillicuddy's Manayunk\n5. Franklin's \n6. CJ & Eck's \n7. Tavern On the Hill \n8. Paddy's Old City Pub \n9. Misconduct Tavern \n10. The Blue Duck",
+            "The Tavern Restaurant \nGermantown Garden \nGrain Exchange \nVeda - Modern Indian Bistro \nMisconduct Tavern \nPaddy's Old City Pub \nMad River Manayunk \nJack's Firehouse \nFranklin's \nFounding Fathers Sports Bar & Grill",
+            "Royal-T \nThe Tavern Restaurant \nBistro SouthEast \nFuji Mountain \nPaddy's Old City Pub \nNorth Bowl \nMad River Manayunk \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk",
+            "Fuji Mountain \nLucky's Last Chance \nJack's Firehouse \nCanton 11 \nMcMenamin's Tavern \nPaddy's Old City Pub \nCook and Shaker \nThe Continental Restaurant and Martini Bar \nAldine \nMaison 208",
+            "Jack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nLuvh Vegan Deli \\n\nLisa's Kitchen \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nWishbone \\n\nFederal Donuts \\n\nThe Continental Restaurant and Martini Bar",
+            "Jack's Firehouse \\n\nThe Tavern Restaurant \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nWishbone \\n\nMisconduct Tavern \\n\nThe El Bar \\n\nBetty's Speakeasy",
+            "Founding Fathers Sports Bar & Grill \\n\nPearl's Oyster Bar \\n\nPaddy's Old City Pub \\n\nLibart\u00e9 Lounge \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nSang Kee Peking Duck House \\n\nBistro SouthEast \\n\nTavern On the Hill",
+            "1. Franklin's\n2. Jack's Firehouse\n3. Misconduct Tavern\n4. Paddy's Old City Pub\n5. JD Mcgillicuddy's Manayunk\n6. Chestnut 7\n7. Founding Fathers Sports Bar & Grill\n8. Mad River Manayunk\n9. CJ & Eck's\n10. Lucky's Last Chance",
+            "Paddy's Old City Pub \nMad River Manayunk \nFranklin's \nJD Mcgillicuddy's Manayunk \nChestnut 7 \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nCJ & Eck's \nLucky's Last Chance \nJack's Firehouse"
+        ]
+    }
+}

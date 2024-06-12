@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places to have a drink?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for bars that serve Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars that serve American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bars that serve vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bars that serve burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar that serves cocktails?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar that serves beer?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nHeritage\nKokopelli Restaurant & Tequila Bar\nFuji Mountain\nCanton 11\nTavern On the Hill\nJake's & Cooper's Wine Bar & Wine Shop",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nZuzu's Kitchen \\n\nGrain Exchange \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Tasty Toast \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nThe Continental Restaurant and Martini Bar \\n\nFiore Fine Foods",
+            "1. Water Works Restaurant & Lounge \n2. Golden Triangle \n3. Bistro SouthEast \n4. Veda - Modern Indian Bistro \n5. Maison 208 \n6. Tavern On the Hill \n7. Malbec Argentine Steakhouse \n8. The Blue Duck \n9. The Grilled Cheese & Co. \n10. Betty's Speakeasy",
+            "Paddy's Old City Pub \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nThe El Bar \\n\nMad River Manayunk \\n\nThe Tavern Restaurant \\n\nFuji Mountain \\n\nCantina Laredo",
+            "The Green Line Cafe \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nThe El Bar \nMisconduct Tavern \nThe Tavern Restaurant \nPaddy's Old City Pub",
+            "Founding Fathers Sports Bar & Grill \nThe Green Line Cafe \nJack's Firehouse \nThe Milk House \nThe El Bar \nHeritage \nGrain Exchange \nFederal Donuts \nFranklin's \nJD Mcgillicuddy's Manayunk",
+            "1. Jack's Firehouse \n2. JD Mcgillicuddy's Manayunk \n3. Franklin's \n4. Chestnut 7 \n5. Lucky's Last Chance \n6. Paddy's Old City Pub \n7. The El Bar \n8. Mad River Manayunk \n9. Misconduct Tavern \n10. The Tavern Restaurant",
+            "1. Tavern On the Hill\n2. Paddy's Old City Pub\n3. Mad River Manayunk\n4. Franklin's\n5. JD Mcgillicuddy's Manayunk\n6. Founding Fathers Sports Bar & Grill\n7. Chestnut 7\n8. Lucky's Last Chance\n9. CJ & Eck's\n10. McMenamin's Tavern",
+            "1. Tavern On the Hill \n2. Mad River Manayunk \n3. Founding Fathers Sports Bar & Grill \n4. Franklin's \n5. JD Mcgillicuddy's Manayunk \n6. Jack's Firehouse \n7. Lucky's Last Chance \n8. McMenamin's Tavern \n9. Paddy's Old City Pub \n10. CJ & Eck's"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a restaurant that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want something that serves sandwiches as well?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a classy dining experience?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dessert pizzas?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for dessert with pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Is breakfast brunch also of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salad as well?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nFederal Donuts \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nThe Milk House \\n\nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen \nGolden Triangle \nDaleng Restaurant \nA Tutti, Ristorante Italiano \nMonster Vegan \nThe Tavern Restaurant \nTu's Tea & Banh Mi South Philly \nThe Blue Duck \nBlackbird Pizzeria \nThe QUICK FIXX",
+            " Lacroix Restaurant at The Rittenhouse \\n\nThe Milk House \\n\nThe Tasty Toast \\n\nA Tutti, Ristorante Italiano \\n\nGran Caffe L'Aquila \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe Green Line Cafe \\n\nOishii Pok\u00e9 \\n\nZazu's Kitchen \\n\nBetty's Speakeasy",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nPrimoHoagies \\n\nThe Juice Merchant \\n\nDaleng Restaurant \\n\nA Tutti, Ristorante Italiano \\n\nFuji Mountain \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n",
+            "1. The QUICK FIXX \n2. Fiore Fine Foods \n3. Evan's Pizza \n4. Blackbird Pizzeria \n5. Ristorante La Buca \n6. Audrey Claire \n7. Chestnut 7 \n8. Parc \n9. Gran Caffe L'Aquila \n10. A Tutti, Ristorante Italiano",
+            "A Tutti, Ristorante Italiano \\n\nRoy-Pitz Barrel House \\n\nThe Blue Duck \\n\nEvan's Pizza \\n\nBlackbird Pizzeria \\n\nBetty's Speakeasy \\n\nChestnut 7 \\n\nGran Caffe L'Aquila \\n\nKC's Pastries \\n\nLove & Honey Fried Chicken",
+            "1. Chestnut 7\n2. Blackbird Pizzeria\n3. Gran Caffe L'Aquila\n4. Fiore Fine Foods\n5. Evan's Pizza\n6. Benna's Cafe\n7. Betty's Speakeasy\n8. Cafe L'Aube\n9. A Tutti, Ristorante Italiano\n10. The Blue Duck",
+            "CinCin Restaurant \nZuzu's Kitchen \nBlackbird Pizzeria \nThe QUICK FIXX \nJake's & Cooper's Wine Bar & Wine Shop \nEvan's Pizza \nA Tutti, Ristorante Italiano \nThe Cheesecake Factory \nRoy-Pitz Barrel House \nFiore Fine Foods",
+            "Zazu's Kitchen\nA Tutti, Ristorante Italiano\nBlackbird Pizzeria\nThe QUICK FIXX\nRoy-Pitz Barrel House\nParc\nChestnut 7\nEvan's Pizza\nGran Caffe L'Aquila\nJack's Firehouse\nRistorante La Buca",
+            "1. Fiore Fine Foods\n2. Blackbird Pizzeria\n3. Gran Caffe L'Aquila\n4. Rival Bros Coffee\n5. Fiore Fine Foods\n6. Parc\n7. The Cheesecake Factory\n8. Olive Garden Italian Restaurant\n9. A Tutti, Ristorante Italiano\n10. Ristorante La Buca"
+        ]
+    }
+}

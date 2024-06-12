@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast places?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dinners?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sit down dinner?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves alcohol?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Ristorante La Buca \\n\nA Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nPrimoHoagies \\n\nLaCroix Restaurant at The Rittenhouse \\n\nCinCin Restaurant \\n\nFederal Donuts \\n\nMiga Korean BBQ & Sushi",
+            " Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nPrimoHoagies \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nBlackbird Pizzeria \\n\nEvan's Pizza \\n\nFiore Fine Foods \\n\nThe QUICK FIXX\n",
+            "A Tutti, Ristorante Italiano\nZuzu's Kitchen\nThe QUICK FIXX\nMacaroni's Restaurant\nChestnut 7\nFiore Fine Foods\nEvan's Pizza\nBlackbird Pizzeria\nOlive Garden Italian Restaurant\nMama Nina",
+            "A Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nZuzu's Kitchen \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nChestnut 7 \\n\nPrimoHoagies \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nLisa's Kitchen",
+            " Daleng Restaurant \\n\nGolden Triangle \\n\nA Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nLa Buca \\n\nPrimoHoagies \\n\nThe Juice Merchant \\n\nZuzu's Kitchen \\n\nThe Green Line Cafe",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. CinCin Restaurant \n3. Daleng Restaurant \n4. Golden Triangle  \n5. Zuzu's Kitchen  \n6. Water Works Restaurant & Lounge \n7. A Tutti, Ristorante Italiano \n8. The QUICK FIXX \n9. Fiore Fine Foods \n10. Chestnut 7",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nBlackbird Pizzeria \nPizza Shackamaxon \nMacaroni's Restaurant \nSabrina's Cafe \nChestnut 7 \nThe QUICK FIXX \nEvan's Pizza \nFiore Fine Foods",
+            "1. A Tutti, Ristorante Italiano \\n\n2. Fiore Fine Foods \\n\n3. Chestnut 7 \\n\n4. Audrey Claire \\n\n5. Le Pain Quotidien \\n\n6. PrimoHoagies \\n\n7. The Cheesecake Factory \\n\n8. Macaroni's Restaurant \\n\n9. Zuzu's Kitchen \\n\n10. The QUICK FIXX",
+            "1. Zuzu's Kitchen\n2. A Tutti, Ristorante Italiano\n3. Fiore Fine Foods\n4. The QUICK FIXX\n5. Chestnut 7\n6. Olive Garden Italian Restaurant\n7. PrimoHoagies\n8. Macaroni's Restaurant\n9. Betty's Speakeasy\n10. The Cheesecake Factory",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nFiore Fine Foods\nThe QUICK FIXX\nThe Blue Duck\nSpread Bagelry\nThe Green Line Cafe\nMacaroni's Restaurant\nChestnut 7\nLisa's Kitchen"
+        ]
+    }
+}

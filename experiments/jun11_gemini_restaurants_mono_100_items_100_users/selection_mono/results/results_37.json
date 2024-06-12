@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for barbeque?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in juice bars and smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nVeda - Modern Indian Bistro \nTalluto's Authentic Italian Food \nCastellino's \nBaan Thai \nCanton 11 \nRoy-Pitz Barrel House \nHey Hummus \nJake's & Cooper's Wine Bar & Wine Shop \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nThe Blue Duck \nThe El Bar \nLibert\u00e9 Lounge \nFiore Fine Foods \nEvan's Pizza \nBlackbird Pizzeria \nThe QUICK FIXX \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nNew York Gyro Truck \nRistorante La Buca \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nSister Muhammad's Kitchen \nTrolley Car Diner \nLuhv Vegan Deli \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory \nOishii Pok\u00e9 \nThe Green Line Cafe \nKC's Pastries \nSpread Bagelry \nWawa \nAudrey Claire \nOteri's Italian Bakery | North 5th St \nPure Tacos \nLucky's Last Chance \nParc \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nCafe L'Aube \nCJ & Eck's \nRival Bros Coffee \nGran Caffe L'Aquila",
+            "1. Water Works Restaurant & Lounge \n2. Daleng Restaurant \n3. Heritage \n4. Federal Donuts \n5. Tavern On the Hill \n6. Olive Garden Italian Restaurant \n7. The Cheesecake Factory \n8. Canton 11 \n9. Malbec Argentine Steakhouse \n10. The Blue Duck",
+            "1. The Continental Restaurant and Martini Bar\n2. Audrey Claire\n3. Chez Benneton\n4. Tavola\n5. White Dog Cafe\n6. Jake's & Cooper's Wine Bar & Wine Shop\n7. Parc\n8. The Dandelion\n9. Amis\n10. Talula's Garden",
+            "Water Works Restaurant & Lounge \\n\nThe Cheesecake Factory \\n\nVedge \\n\nRistorante La Buca \\n\nParc \\n\nAudrey Claire \\n\nMacaroni's Restaurant \\n\nMiga Korean BBQ & Sushi \\n\nFederal Donuts \\n\nMisconduct Tavern",
+            " The Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Milk House \nCO-OP Restaurant & Lounge \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nAudrey Claire",
+            "The Blue Duck \\n\nThe Toasty Toast \\n\nThe Green Line Cafe \\n\nThe Milk House \\n\nThe Cheesecake Factory\nThe Fresh Grocer - Progress Plaza \\n\nThe Continental Restaurant and Martini Bar \\n\nFiore Fine Foods \\n\nTrolley Car Diner \\n\nEssene Market & Caf\u00e9",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Bloomsday Cafe \n5. Benna's Cafe \n6. Hey Hummus \n7. The Blue Duck \n8. Fiore Fine Foods \n9. Lisa's Kitchen \n10. Green Leafs & Bananas",
+            "The Continental Restaurant and Martini Bar \\n\nThe Grill  Smuckers \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nZuzu's Kitchen \\n\nFiore Fine Foods \\n\nBetty's Speakeasy \\n\nNord Bowl \\n\nThe Milk House",
+            "The Tasty Toast \\n\nThe Grill  Smuckers \\n\nBetty's Speakeasy \\n\nGreen Leafs & Bananas \\n\nJack's Firehouse \\n\nThe QUICK FIXX \\n\nEvan's Pizza \\n\nMcMenamin's Tavern \\n\nTrattoria Stella \\n\nTio Pepe Restaurant",
+            "1. The Tasty Toast\n2. The Grill  Smuckers\n3. Bloomsday Cafe\n4. Pearl's Oyster Bar\n5. Benna's Cafe\n6. Hey Hummus\n7. Fiore Fine Foods\n8. Betty's Speakeasy\n9. Trolley Car Diner\n10. The Green Line Cafe"
+        ]
+    }
+}

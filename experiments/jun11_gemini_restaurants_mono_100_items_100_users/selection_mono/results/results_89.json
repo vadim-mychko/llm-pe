@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a coffee shop or cafe?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something vegan or vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a bar or lounge?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nFederal Donuts\nThe Juice Merchant\nFederal Donuts\nThe Tasty Toast",
+            "1. Tavern On the Hill\n2. Paddy's Old City Pub\n3. Mad River Manayunk\n4. Founding Fathers Sports Bar & Grill\n5. CJ & Eck's\n6. Steve's Prince of Steaks\n7. Sister Muhammad's Kitchen\n8. Misconduct Tavern\n9. Lisa's Kitchen\n10. Franklin's",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nChinChin Restaurant \nFederal Donuts \nIzumi \nA Tutti, Ristorante Italiano",
+            " PrimoHoagies\nZuzu's Kitchen\nThe Juice Merchant\nBaan Thai\nMiga Korean BBQ & Sushi\nLisa's Kitchen\nThe Green Line Cafe\nSpread Bagelry\nGreen Leafs & Bananas\nThe QUICK FIXX",
+            "The Green Line Cafe\nLuvh Vegan Deli\nMonster Vegan\nSpread Bagelry\nDim Sum House\nEvan's Pizza\nThe QUICK FIXX\nLisa's Kitchen\nGreen Leafs & Bananas\nSibling Sister Muhammad's Kitchen",
+            "1. The Green Line Cafe\n2. Lisa's Kitchen\n3. Green Leafs & Bananas\n4. Spread Bagelry\n5. PrimoHoagies\n6. Federal Donuts\n7. Love & Honey Fried Chicken\n8. Roy-Pitz Barrel House\n9. Evan's Pizza\n10. The QUICK FIXX",
+            "Dim Sum House \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nMiga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nPure Tacos \\n\nNew York Gyro Truck \\n\nOishii Pok\u00e9",
+            "Bistro SouthEast\nMiga Korean BBQ & Sushi\nCinCin Restaurant\nGolden Triangle\nDaleng Restaurant\nCanton 11\nBloomsday Cafe\nNorth Bowl\nFederal Donuts\nWishbone",
+            "Bistro SouthEast\nMiga Korean BBQ & Sushi\nDaleng Restaurant\nSang Kee Peking Duck House\nGolden Triangle\nTu's Tea & Banh Mi South Philly\nFuji Mountain\nThe Juice Merchant\nThe QUICK FIXX\nCanton 11",
+            "Bistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nGrain Exchange \\n\nIzumi \\n\nCanton 11 \\n\nOishii Pok\u00e9 \\n\nVeda - Modern Indian Bistro \\n\nDaleng Restaurant \\n\nBaan Thai \\n\nTu's Tea & Banh Mi South Philly"
+        ]
+    }
+}

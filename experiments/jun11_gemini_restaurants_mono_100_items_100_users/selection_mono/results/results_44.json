@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for something Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a wine bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Germantown Garden \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "Grain Exchange \nHeritage \nSouth Bowl \n Founding Fathers Sports Bar & Grill \nJD Mcgillicuddy's Manayunk \nThe Continental Restaurant and Martini Bar \nThe El Bar \nMacaroni's Restaurant \nFranklin's \nWawa",
+            "1. Baan Thai \n2. Canton 11 \n3. Sang Kee Peking Duck House \n4. Dim Sum House \n5. Golden Triangle \n6. Bistro SouthEast \n7. Daleng Restaurant \n8. Green Leafs & Bananas \n9. Tu's Tea & Banh Mi South Philly \n10. Oishii Pok\u00e9",
+            "The Tavern Restaurant \nVeda - Modern Indian Bistro \nFreddy's Frozen Custard & Steakburgers \nFive Guys \nDic Ann's Bar \nMax's Steaks \nChickie's & Pete's \nChuck E. Cheese's \nRoy-Pitz Barrel House \nSang Kee Peking Duck House \nPearl's Oyster Bar \nThe Blue Duck",
+            "The Milk House \\n\nThe Grill  Smuckers \\n\nFounding Fathers Sports Bar & Grill \\n\nLucky's Last Chance \\n\nParc \\n\nThe Cheesecake Factory \\n\nOlive Garden Italian Restaurant \\n\nBlackbird Pizzeria \\n\nMacaroni's Restaurant \\n\nLisa's Kitchen",
+            "1. The Grill  Smuckers\n2. Five Guys\n3. Pearl's Oyster Bar\n4. The Blue Duck\n5. Jack's Firehouse\n6. Franklin's\n7. Founding Fathers Sports Bar & Grill\n8. Chestnut 7\n9. The Cheesecake Factory\n10. Lucky's Last Chance",
+            " Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nHeritage \nThe Continental Restaurant and Martini Bar \nPearl's Oyster Bar \nThe Tavern Restaurant \nMaison 208 \nTavern On the Hill \nPaddy's Old City Pub \nMisconduct Tavern",
+            "1. The Tavern Restaurant\n2. Grain Exchange\n3. Misconduct Tavern\n4. Paddy's Old City Pub\n5. Mad River Manayunk\n6. The El Bar\n7. Founding Fathers Sports Bar & Grill\n8. CJ & Eck's\n9. Lucky's Last Chance\n10. McMenamin's Tavern",
+            "1) Founding Fathers Sports Bar & Grill\n2) JD Mcgillicuddy's Manayunk\n3) Mad River Manayunk\n4) Franklin's\n5) Jack's Firehouse\n6) McMenamin's Tavern\n7) Chestnut 7\n8) Tavern On the Hill\n9) Lucky's Last Chance\n10) The Tavern Restaurant ",
+            "Local Tavern\nPearl's Oyster Bar\nAudrey Claire \nParc\nJack's Firehouse \nGrain Exchange \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nFranklin's \nChestnut 7"
+        ]
+    }
+}
