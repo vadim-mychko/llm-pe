@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any movies about children?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie from the '80s?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie with elements of fantasy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Is something animated okay?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a comedy or drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a crime comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a mockumentary?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about a movie about music?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Dark Knight (2008)\n4. The Lord of the Rings: The Return of the King (2003)\n5. Inception (2010)\n6. The Matrix (1999)\n7. Star Wars: Episode V - The Empire Strikes Back (1980)\n8. The Terminator (1984)\n9. Aliens (1986)\n10. Predator (1987)",
+            "1. Monsters, Inc. (2001) \n2. Terminator 3: Rise of the Machines (2003)\n3. Laura (1944) \n4. The Last Temptation of Christ (1988) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. August Rush (2007) \n7. The Proposition (2005) \n8. Bernie (2011) \n9. Cocoon (1985) \n10. Amadeus (1984) \n''''",
+            "1. Last Temptation of Christ, The (1988) \n2. A.I. Artificial Intelligence (2001) \n3. Big Red One, The (1980) \n4. Real Genius (1985) \n5. Jane Eyre (1996) \n6. Eragon (2006) \n7. Tenacious D in The Pick of Destiny (2006) \n8. Terminator 3: Rise of the Machines (2003) \n9. King Kong (2005) \n10. Hanuman (1998)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Monsters, Inc. (2001)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. August Rush (2007)\n5. The Blair Witch Project (1999)\n6. Proposition, The (2005)\n7. Lost World: Jurassic Park, The (1997)\n8. Man on Fire (2004)\n9. Before the Devil Knows You're Dead (2007)\n10. A.I. Artificial Intelligence (2001)\n",
+            "1. The Departed (2006) \n2. Ready Player One \n3. American Graffiti (1973) \n4. The Big Lebowski (1998) \n5. Terminator 3: Rise of the Machines (2003) \n6. A.I. Artificial Intelligence (2001) \n7. Lost in Translation (2003) \n8. Searching (2018) \n9. Von Ryan's Express (1965) \n10. Darkman (1990)",
+            "1. Terms of Endearment (1983) \n2. American Graffiti (1973) \n3. The Big Lebowski (1998) \n4. Brewster's Millions (1985) \n5. Stranger than Fiction (2006) \n6. Bruce Almighty (2003) \n7. Intolerable Cruelty (2003) \n8. Meet John Doe (1941) \n9. Real Genius (1985) \n10. What's Up, Doc? (1972)",
+            "1. The Big Lebowski (1998)\n2. American Graffiti (1973)\n3. Mr. Holmes (2015)\n4. What's Up, Doc? (1972)\n5. Meet John Doe (1941)\n6. Real Genius (1985)\n7. Brewster's Millions (1985)\n8. The Sure Thing (1985)\n9. Stranger than Fiction (2006)\n10. Intolerable Cruelty (2003)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Brewster's Millions (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Arsenic and Old Lace (1944)\n3. What's Up, Doc? (1972)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. Stranger than Fiction (2006)\n8. Face/Off (1997)\n9. Meet John Doe (1941)\n10. Big Lebowski, The (1998)",
+            "1. The Sure Thing (1985)\n2. What's Up, Doc? (1972)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. Intolerable Cruelty (2003)\n6. Real Genius (1985)\n7. Big Lebowski, The (1998)\n8. Burn After Reading (2008)\n9. Stranger Than Fiction (2006)\n10. Nightcrawler (2014)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a scary movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about crime?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie about a haunted house?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about drugs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a virus?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about the Holocaust?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Prisoners of the Ghostland (2021)\n2. The Last Dragon (1985)\n3. King Richard (2021)\n4. Shaolin Soccer (2001)\n5. The Harder They Fall (2021)\n6. Raya and the Last Dragon (2021)\n7. Turning Red (2022)\n8. The Mitchells vs. the Machines (2021)\n9. Luca (2021)\n10. Encanto (2021)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. August Rush (2007) \n3. The Proposition, The (2005) \n4. The Naked Gun: From the Files of Police Squad!, The (1988) \n5. Cocoon (1985) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. Arsenic and Old Lace (1944) \n8. Mis\u00e9rables, Les (1998) \n9. Europa (Zentropa) (1991) \n10. Timeline (2003)",
+            "1. The Last Exorcism (2010) \\n\nGenres: Horror, Thriller \\n\nTags: exorcism, possession, found footage, terrifying, intense, supernatural, scary, disturbing, based on a true story, demonic, demonic possession, evil, haunted\n****\n2. The Conjuring (2013) \\n\nGenres: Horror, Thriller \\n\nTags: haunted house, possession, paranormal, exorcism, supernatural, based on a true story, terrifying, scary, ghosts, creepy, jump scares, evil, suspenseful, suspense, paranormal activity, jumpy\n****\n3. Insidious (2010) \\n\nGenres: Horror, Mystery, Thriller \\n\nTags: supernatural, haunted house, possession, exorcism, demonic possession, jump scares, terrifying, scary, ghosts, paranormal, evil, creepy, creepy kid, suspenseful, suspense\n****\n4. Sinister (2012) \\n\nGenres: Horror, Mystery, Thriller \\n\nTags: found footage, supernatural, true crime, creepy kid, scary, terrifying, evil, disturbing, home video, murder, paranormal, suspenseful, suspense, possession, ritual, rituals\n****\n5. The Babadook (2014) \\n\nGenres: Drama, Horror, Mystery, Thriller \\n\nTags: psychological horror, supernatural, monster, haunting, creepy, scary, terrifying, mental illness, mother, possession, grief, single mother, depression, divorced parent, parent child relationship\n****\n6. Hereditary (2018) \\n\nGenres: Drama, Horror, Mystery, Thriller \\n\nTags: supernatural, family, possession, dark, disturbing, scary, terrifying, evil, creepy, mental illness, grief, hereditary, family relationships, family secrets, family drama, generational trauma\n****\n7. The Witch (2015) \\n\nGenres: Drama, Horror \\n\nTags: supernatural, period piece, witch, witchcraft, scary, atmospheric, creepy, terrifying, evil, historical, puritans, religion, religious extremism, religious persecution, New England\n****\n8. It Follows (2014) \\n\nGenres: Horror, Sci-Fi, Thriller \\n\nTags: supernatural, horror, killer, monster, scary, terrifying, evil, atmospheric, suspenseful, suspense, tension, nightmarish, nightmare, running, entity\n****\n9. The Texas Chain Saw Massacre (1974) \\n\nGenres: Horror, Thriller \\n\nTags: slasher, horror, exploitation, gore, violence, terrifying, scary, classic, suspenseful, suspense, disturbing, cult favorite, low budget, grindhouse, chain saw, cannibal, cannibalism, meat, road trip\n****\n10. Cabin Fever (2002) \\n\nGenres: Horror \\n\nTags: gore, body horror, disease, virus, flesh eating, gross, scary, terrifying, evil, contagious, cabin, friends, friendship, quarantine, isolation, infection",
+            "1. Enter the Void (2009)\n2. Nightcrawler (2014)\n3. The Departed (2006)\n4. Terminator 3: Rise of the Machines (2003)\n5. Face/Off (1997)\n6. The Mothman Prophecies (2002)\n7. Gremlins 2: The New Batch (1990)\n8. Darkman (1990)\n9. Cronos (1993)\n10. Trapped (2002)",
+            "1. Mothman Prophecies, The (2002)\n2. Darkman (1990)\n3. Cronos (1993)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Last Temptation of Christ, The (1988)\n6. Nightcrawler (2014)\n7. Saw (2004)\n8. Enter the Void (2009)\n9. Martyrs (2008)\n10. Strangers, The (2008)\n",
+            "1. Nightcrawler (2014)\n2. Enter the Void (2009)\n3. Terminator 3: Rise of the Machines (2003)\n4. Darkman (1990)\n5. The Mothman Prophecies (2002)\n6. Cabin Fever (2002)\n7. Gremlins 2: The New Batch (1990)\n8. Evil Dead II (1987)\n9. An American Werewolf in London (1981)\n10. The Hills Have Eyes (1977)",
+            "1. Darkman (1990)\n2. Delicatessen (1991)\n3. RoboCop (1987)\n4. Terminator 2: Judgment Day\n5. The Babadook (2014)\n6. Sinister (2012)\n7. The Exorcist (1973)\n8. The Conjuring (2013)\n9. Insidious (2010)\n10. Hereditary (2018)",
+            "1. The Last Supper, The (1995) \\n\n2. Cronos (1993) \\n\n3. The Mothman Prophecies (2002) \\n\n4. Darkman (1990) \\n\n5. Trapped (2002) \\n\n6. Enter the Void (2009) \\n\n7. Nightcrawler (2014) \\n\n8. The Big Red One (1980) \\n\n9. Face/Off (1997) \\n\n10. Black Robe (1991)",
+            "1. Mothman Prophecies, The (2002)\n2. Nightcrawler (2014)\n3. The Dark Knight (2008)\n4. Face/Off (1997)\n5. Cronos (1993)\n6. Darkman (1990)\n7. Cabin Fever (2002)\n8. Gremlins 2: The New Batch (1990)\n9. Enter the Void (2009)\n10. The Blair Witch Project (1999)",
+            "1. Cronos (1993) \n2. Enter the Void (2009) \n3. Martyrs (2008) \n4. The Thing (1982) \n5. The Silence of the Lambs (1991) \n6. Hereditary (2018) \n7. Sinister (2012) \n8. The Babadook (2014) \n9. It Follows (2014) \n10. The Conjuring (2013) "
+        ]
+    }
+}

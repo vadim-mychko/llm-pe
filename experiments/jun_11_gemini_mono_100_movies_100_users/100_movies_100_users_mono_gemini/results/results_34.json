@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about Buddhism?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for action movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a heartwarming movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with political themes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a non-fiction film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Lost in Translation (2003) \n2. Cronos (1993) \n3. Robot & Frank (2012) \n4. Stranger than Fiction (2006) \n5. Real Steel (2011) \n6. The Big Lebowski (1998) \n7. American Graffiti (1973) \n8. Brewster's Millions (1985) \n9. Real Genius (1985) \n10. Grapes of Wrath, The (1940)",
+            "1. Lost in Translation (2003)\n2. Tomb Raider (2018)\n3. The Proposition (2005)\n4. Crash (2004)\n5. Brokeback Mountain (2005) \n6. The Last Temptation of Christ (1988)\n7. Love Me If You Dare (Jeux d'enfants) (2003)\n8. Stranger than Fiction (2006)\n9. Delicatessen (1991)\n10. American Graffiti (1973)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Runaway Train (1985)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Secret of Kells, The (2009)\n6. Thomas Crown Affair, The (1968)\n7. Cage aux Folles, La (1978)\n8. La grande vadrouille (1966)\n9. Wild Tales (2014)\n10. Black Robe (1991)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Clash of the Titans (1981)\n5. Real Genius (1985)\n6. The Big Red One (1980)\n7. Black Robe (1991)\n8. Von Ryan's Express (1965)\n9. Brewster's Millions (1985)\n10. The Land Before Time (1988)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. The Naked Gun: From the Files of Police Squad!, The (1988)\n9. Drugstore Cowboy (1989)\n10. What's Up, Doc? (1972)",
+            "1. Children's movie? no\n2. 80's movie? no\n3. Buddhism movie? no\n4. Action movie? no\n5. Heartwarming movie? no\n6. Adventure movie? no\n7. Movie with robots? no\n8. Movie with a lot of action? no\n9. Movies based on a book? yes\n10. Movie with a strong female lead? yes\n\nHere is a list of 10 movies that match your preferences:\n**\n1. Tomb Raider (2018)\n2. Laura (1944)\n3. August Rush (2007)\n4. The Piano (1993)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. Autumn Sonata (H\u00f6stsonaten) (1978)\n7. Bad Education (La mala educaci\u00f3n) (2004)\n8. The Secret of Kells (2009)\n9. Dangerous Liaisons (1988)\n10. What's Up, Doc? (1972)**",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. Ant-Man (2015)\n6. Real Genius (1985)\n7. Ready Player One\n8. Abraham Lincoln: Vampire Hunter (2012)\n9. Starship Troopers (1997)\n10. Alita: Battle Angel (2019)",
+            "1. The Grapes of Wrath (1940)\n2. The Intolerable Cruelty (2003)\n3. The Delicatessen (1991)\n4. The American Graffiti (1973)\n5. The Real Genius (1985)\n6. The Black Robe (1991)\n7. Umberto D. (1952)\n8. The Bruce Almighty (2003)\n9. The Eragon (2006)\n10. The Brewster's Millions (1985)",
+            "1. August Rush (2007)\n2. The Proposition (2005)\n3. The Man from Earth (2007)\n4. Magnolia (1999)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Robot & Frank (2012)\n7. Control (2007)\n8. The Secret of Kells (2009)\n9. Last Temptation of Christ, The (1988)\n10. Europa (Zentropa) (1991)",
+            "1. The Proposition (2005) \n2. Lost in Translation (2003) \n3. Stranger than Fiction (2006) \n4. The Grapes of Wrath (1940) \n5. Umberto D. (1952) \n6. Bruce Almighty (2003) \n7. Corpse Honeymoon (2001) \n8. The Big Lebowski (1998) \n9. Nightcrawler (2014) \n10. Betty Blue (1986)"
+        ]
+    }
+}

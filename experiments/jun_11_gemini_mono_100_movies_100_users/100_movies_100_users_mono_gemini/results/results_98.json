@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a movie featuring fantasy elements?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a graphic novel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a historical movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about the 1960's?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Laura (1944)\n3. Pirates of the Caribbean: At World's End (2007)\n4. August Rush (2007)\n5. The Land Before Time (1988)\n6. Fantasy, Romance (2009)\n7. Secret of Kells, The (2009)\n8. The Proposition (2005)\n9. Last Temptation of Christ, The (1988)\n10. Abraham Lincoln: Vampire Hunter (2012)",
+            "Pirates of the Caribbean: At World's End (2007)\nTomb Raider (2018)\nSt. Elmo's Fire (1985)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nBig Red One, The (1980)\nMr. Holmes (2015)\nRobot & Frank (2012)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nEragon (2006)",
+            "1. Tomb Raider (2018) \n2. Abraham Lincoln: Vampire Hunter (2012) \n3. Last Action Hero (1993) \n4. Ant-Man (2015)\n5. The Fifth Element (1997)\n6. Blade (1998)\n7. The Matrix (1999)\n8. Star Wars: Episode IV - A New Hope (1977)\n9. The Lord of the Rings: The Fellowship of the Ring (2001)\n10. Harry Potter and the Sorcerer's Stone (2001)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007) \n3. The Lord of the Rings: The Fellowship of the Ring (2001) \n4. The Princess Bride (1987) \n5. Harry Potter and the Sorcerer's Stone (2001) \n6. The NeverEnding Story (1984) \n7. Stardust (2007) \n8. Pan's Labyrinth (2006) \n9. Spirited Away (2001) \n10. The Secret of Kells (2009) \n''''",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Santa Sangre (1989)\n6. August Rush (2007)\n7. Martyrs (2008)\n8. Dracula (Bram Stoker's Dracula) (1992)\n9. Autumn Sonata (H\u00f6stsonaten) (1978)\n10. Cocoon (1985)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Tomb Raider (2018)\n3. The Lost World: Jurassic Park (1997)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Clash of the Titans (1981)\n6. The Last Action Hero (1993)\n7. Terminator 3: Rise of the Machines (2003)\n8. Alita: Battle Angel (2019)\n9. Ant-Man (2015)\n10. Ready Player One",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Last Temptation of Christ (1988)\n3. Tomb Raider (2018)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. The Proposition (2005)\n6. The Man from Earth (2007)\n7. Metropolis (2001)\n8. Alita: Battle Angel (2019)\n9. A.I. Artificial Intelligence (2001)\n10. Real Steel (2011)",
+            "Monsters, Inc. (2001) \nPirates of the Caribbean: At World's End (2007) \nSanta Sangre (1989) \nThe Proposition (2005) \nBernie (2011) \nThe Naked Gun: From the Files of Police Squad!, The (1988) \nWhat's Up, Doc? (1972) \nBig Lebowski, The (1998) \nBrewster's Millions (1985) \nReal Genius (1985)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nMr. Holmes (2015)\nIntolerable Cruelty (2003)\nThe Big Lebowski (1998)\nReal Genius (1985)\nDelicatessen (1991)\nUHF (1989)\nThe Man from Earth (2007)\nStranger than Fiction (2006)\nControl (2007)",
+            "1. Brewster's Millions (1985)\n2. Bruce Almighty (2003)\n3. Big Lebowski, The (1998)\n4. Big Red One, The (1980)\n5. Clockwork Orange, A (1971)\n6. Gremlins 2: The New Batch (1990)\n7. Real Genius (1985)\n8. The Breakfast Club (1985)\n9. Airplane! (1980)\n10. Monty Python and the Holy Grail (1975)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in animated children's films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy set in the 1960s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy with crime?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy about lawyers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy including murder?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy with a dark twist?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a murder comedy about a plot gone wrong?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Coco (2001)\n5. We Bought a Zoo (2011)\n6. The Secret of Kells (2009)\n7. Magnolia (1999)\n8. American Graffiti (1973)\n9. Lost in Translation (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Pirates of the Caribbean: At World's End (2007)\n4. The Last Supper (1995)\n5. Thomas Crown Affair, The (1968)\n6. Once Upon a Time in the West (C'era una volta il West) (1968)\n7. Trainspotting (1996)\n8. The Big Lebowski (1998)\n9. The Adventures of Priscilla, Queen of the Desert (1994)\n10. The Fifth Element (Cinqui\u00e8me \u00c9l\u00e9ment, The) (1997)\n'''",
+            "1. Brewster's Millions (1985) \n2. UHF (1989) \n3. The Naked Gun: From the Files of Police Squad! (1988) \n4. Real Genius (1985) \n5. What's Up, Doc? (1972) \n6. American Graffiti (1973) \n7. The Big Lebowski (1998) \n8. Stranger than Fiction (2006) \n9. Intolerable Cruelty (2003) \n10. Bruce Almighty (2003)",
+            "1. The Big Lebowski (1998) \\n\n2. What's Up, Doc? (1972) \\n\n3. American Graffiti (1973) \\n\n4. The Sure Thing (1985) \\n\n5. Real Genius (1985) \\n\n6. UHF (1989) \\n\n7. Meet John Doe (1941) \\n\n8. The Naked Gun: From the Files of Police Squad! (1988) \\n\n9. Brewster's Millions (1985) \\n\n10. Face/Off (1997) \\n",
+            "1. Intolerable Cruelty (2003)\n2. The Big Lebowski (1998)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. Strange than Fiction (2006)\n6. What's Up, Doc? (1972)\n7. UHF (1989)\n8. La Cage aux Folles (1978)\n9. Black Robe (1991)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. What's Up, Doc? (1972)\n3. Real Genius (1985)\n4. The Big Lebowski (1998)\n5. Brewster's Millions (1985)\n6. American Graffiti (1973)\n7. Intolerable Cruelty (2003)\n8. Bruce Almighty (2003)\n9. Delicatessen (1991)\n10. Enter the Void (2009)",
+            "1. Brewster's Millions (1985) \n2. The Big Lebowski (1998) \n3. Real Genius (1985) \n4. What's Up, Doc? (1972) \n5. Delicatessen (1991) \n6. American Graffiti (1973) \n7. Face/Off (1997) \n8. The Last Supper (1995) \n9. Cronos (1993) \n10. Black Robe (1991)",
+            "1. The Big Lebowski, The (1998)\n2. What's Up, Doc? (1972)\n3. Arsencic and Old Lace (1944)\n4. Delicatessen (1991)\n5. Murder by Death (1976)\n6. Brewster's Millions (1985)\n7. Fargo (1996)\n8. Intolerable Cruelty (2003)\n9. Brewster's Millions (1985)\n10. Very Bad Things (1998)\n",
+            "****\n Movie Title: No Man's Land (2001) \n Genres: Drama, War\n\nMovie Title: Hot Fuzz (2007) \n Genres: Action, Comedy, Crime, Mystery, Thriller \n\nMovie Title: Day of the Jackal, The (1973) \n Genres: Action, Crime, Drama, Thriller\n\nMovie Title: Seven Psychopaths (2012) \n Genres: Comedy, Crime, Thriller\n\nMovie Title: The Nice Guys (2016) \n Genres: Action, Comedy, Crime, Thriller \n\nMovie Title: The Grand Budapest Hotel (2014) \n Genres: Adventure, Comedy, Crime, Drama \n\nMovie Title: The Man Who Wasn't There (2001) \n Genres: Crime, Drama, Mystery \n\nMovie Title: The Death of Stalin (2017) \n Genres: Biography, Comedy, Crime, Drama, History \n\nMovie Title: In Bruges (2008) \n Genres: Comedy, Crime, Drama, Thriller \n\nMovie Title: Fargo (1996) \n Genres: Comedy, Crime, Drama, Thriller",
+            "1. Intolerable Cruelty (2003) \n2. Delicatessen (1991) \n3. The Big Lebowski (1998)  \n4. Stranger than Fiction (2006)\n5. Brewster's Millions (1985) \n6. What's Up, Doc? (1972)  \n7. Face/Off (1997) \n8. Real Genius (1985) \n9. Brewster's Millions (1985) \n10. The Last Supper (1995)"
+        ]
+    }
+}

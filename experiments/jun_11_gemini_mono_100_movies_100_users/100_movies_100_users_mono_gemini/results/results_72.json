@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy or a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action or a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a dark atmosphere?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. The Corporation (2003)\n3. Enter the Void (2009)\n4. Nightcrawler (2014)\n5. Stranger than Fiction (2006)\n6. Robot & Frank (2012)\n7. Bruce Almighty (2003)\n8. Cronos (1993)\n9. Lost in Translation (2003)\n10. Black Robe (1991)",
+            "1. The Big Lebowski (1998)\n2. Brewster's Millions (1985)\n3. Intolerable Cruelty (2003)\n4. Real Genius (1985)\n5. What's Up, Doc? (1972)\n6. Arsenic and Old Lace (1944)\n7. American Graffiti (1973)\n8. Meet John Doe (1941)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. 50 First Dates (2004)",
+            "1. Children of Men (2006)\n2. Midnight in Paris (2011)\n3. The Grand Budapest Hotel (2014)\n4. Moonrise Kingdom (2012)\n5. Fantastic Mr. Fox (2009)\n6. The Darjeeling Limited (2007)\n7. Marie Antoinette (2006)\n8. The Life Aquatic with Steve Zissou (2004)\n9. Rushmore (1998)\n10. The Royal Tenenbaums (2001)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. Terms of Endearment (1983)\n4. Bernie (2011)\n5. The Naked Gun: From the Files of Police Squad!, The (1988)\n6. 50 First Dates (2004)\n7. What's Up, Doc? (1972)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n9. The Big Red One (1980)\n10. The Big Lebowski (1998)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Magnolia (1999)\n3. Sure Thing, The (1985)\n4. No Man's Land (2001)\n5. Meet John Doe (1941)\n6. Lost in Translation (2003)\n7. Dangerous Liaisons (1988)\n8. American Graffiti (1973)\n9. Brewster's Millions (1985)\n10. What's Up, Doc? (1972)",
+            "1. Real Genius (1985)\n2. St. Elmo's Fire (1985)\n3. Runaway Train (1985)\n4. Brewster's Millions (1985)\n5. Sure Thing, The (1985)\n6. Cocoon (1985)\n7. Big Red One, The (1980)\n8. American Graffiti (1973)\n9. What's Up, Doc? (1972)\n10. Thomas Crown Affair, The (1968)",
+            "1. The Sure Thing (1985)\n2. Real Genius (1985)\n3. Brewster's Millions (1985)\n4. Runaway Train (1985)\n5. St. Elmo's Fire (1985)\n6. Cocoon (1985)\n7. American Graffiti (1973)\n8. What's Up, Doc? (1972)\n9. The Big Lebowski (1998)\n10. The Naked Gun: From the Files of Police Squad! (1988)",
+            "1. What's Up, Doc? (1972)\n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. Sure Thing, The (1985)\n5. St. Elmo's Fire (1985)\n6. Runaway Train (1985)\n7. Goonies, The (1985)\n8. Cocoon (1985)\n9. American Graffiti (1973)\n10. Big Red One, The (1980)",
+            "1. The Big Lebowski (1998)\n2. American Graffiti (1973)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. The Sure Thing (1985)\n6. St. Elmo's Fire (1985)\n7. Runaway Train (1985)\n8. Cocoon (1985)\n9. What's Up, Doc? (1972)\n10. Enter the Void (2009)",
+            "1. Big Trouble in Little China (1986)\n2. The Big Lebowski (1998)\n3. Big Red One, The (1980)\n4. Brewster's Millions (1985)\n5. Cocoon (1985)\n6. Dark Crystal, The (1982)\n7. Darkman (1990)\n8. Gremlins 2: The New Batch (1990)\n9. Labyrinth (1986)\n10. National Lampoon's Vacation (1983)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fantasy film?",
+                "response": "no"
+            },
+            {
+                "query": "Is this movie about crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a movie about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch an astronomy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about politics?",
+                "response": "no"
+            },
+            {
+                "query": "Is this movie about science?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's over 2 hours long?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that you can watch with friends?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Big Red One, The (1980)\n3. Brewster's Millions (1985)\n4. Intolerable Cruelty (2003)\n5. Bruce Almighty (2003)\n6. Real Steel (2011)\n7. Cronos (1993)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Eragon (2006)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. Departed, The (2006)\n2. Enter the Void (2009)\n3. Big Lebowski, The (1998)\n4. Intolerable Cruelty (2003)\n5. The Last Supper (1995)\n6. Darkman (1990)\n7. King Kong (2005)\n8. Abraham Lincoln: Vampire Hunter (2012)\n9. The Boy in the Striped Pajamas (2008)\n10. 5 Centimeters per Second (2007)\n",
+            "1. Searching (2018) \n2. What's Up, Doc? (1972) \n3. Stranger than Fiction (2006) \n4. The Sure Thing (1985) \n5. The Departed (2006) \n6. Big Lebowski, The (1998) \n7. Meet John Doe (1941) \n8. Into the Void (2009) \n9. Cronos (1993) \n10. The Boy in the Striped Pajamas (2008) \n",
+            "1. The Big Lebowski (1998)\n2. The Departed (2006)\n3. Shutter Island (2010)\n4. The Dark Knight (2008)\n5. The Prestige (2006)\n6. Inception (2010)\n7. The Matrix (1999)\n8. Memento (2000)\n9. Fight Club (1999)\n10. The Usual Suspects (1995)",
+            "1. Nightcrawler (2014)\n2. Control (2007)\n3. Enter the Void (2009)\n4. Strange than Fiction (2006)\n5. Big Lebowski, The (1998)\n6. Stranger than Fiction (2006)\n7. Lost in Translation (2003)\n8. Grapes of Wrath, The (1940)\n9. Black Robe (1991)\n10. The Last Supper (1995)",
+            "1. Intolerable Cruelty (2003) \n2. Real Genius (1985) \n3. Tenacious D in The Pick of Destiny (2006) \n4. The Last Supper (1995) \n5. Brewster's Millions (1985) \n6. Delicatessen (1991) \n7. Robot & Frank (2012) \n8. Mr. Holmes (2015) \n9. Trapped (2002) \n10. American Graffiti (1973)",
+            "Tomb Raider (2018) \\n\nPirates of the Caribbean: At World's End (2007) \\n\nThe Naked Gun: From the Files of Police Squad! (1988) \\n\nLast Action Hero (1993) \\n\nDracula (Bram Stoker's Dracula) (1992) \\n\nBad Education (La mala educaci\u00f3n) (2004) \\n\nSecret of Kells, The (2009) \\n\nThe Big Lebowski (1998) \\n\nAmerican Graffiti (1973) \\n\nGrapes of Wrath, The (1940)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. What's Up, Doc? (1972)\n3. Sure Thing, The (1985)\n4. Brewster's Millions (1985)\n5. Big Red One, The (1980)\n6. Real Genius (1985)\n7. Trapped (2002)\n8. Miss Sloane (2016)\n9. Nightcrawler (2014)\n10. Art School Confidential (2006)",
+            "Sure Thing, The (1985) \nAmerican Graffiti (1973) \nTerminator 3: Rise of the Machines (2003) \nThe Big Lebowski (1998) \nThomas Crown Affair, The (1968) \nET: The Extraterrestrial (1982) \nMr. Holmes (2015) \nThe Aristocats (1970) \nHead Over Heels (2001) \nS. Darko (2009) ",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. What's Up, Doc? (1972)\n3. American Graffiti (1973)\n4. Enter the Void (2009)\n5. Stranger than Fiction (2006)\n6. The Big Lebowski (1998)\n7. Delicatessen (1991)\n8. Bruce Almighty (2003)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Lost in Translation (2003)\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy with a happy ending?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that came out in the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about college?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that is set in the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a black comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a screwball comedy?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Big Lebowski (1998) \n2. American Graffiti (1973) \n3. Airplane! (1980) \n4. Brewster's Millions (1985) \n5. Sure Thing, The (1985) \n6. UHF (1989) \n7. Clerks. (1994) \n8. Jackie Brown (1997) \n9. Napoleon Dynamite (2004) \n10. Scott Pilgrim vs. the World (2010)",
+            "1. Runaway Train (1985)\n2. The Proposition (2005)\n3. Harold & Kumar Go to White Castle (2004)\n4. Love Me If You Dare (Jeux d'enfants) (2003)\n5. Stranger than Fiction (2006)\n6. Brewster's Millions (1985)\n7. Mr. Holmes (2015)\n8. The Big Lebowski (1998)\n9. Real Genius (1985)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. The Big Lebowski (1998)\n2. Austin Powers International Man of Mystery (1997)\n3. Airplane! (1980)\n4. 21 Jump Street (2012)\n5. Shaun of the Dead (2004)\n6. The Hangover (2009)\n7. Bridesmaids (2011)\n8. Anchorman: The Legend of Ron Burgundy (2004)\n9. Borat (2006)\n10. Hot Fuzz (2007)",
+            "1. Brewster's Millions (1985)\n2. Sure Thing, The (1985)\n3. Runaway Train (1985)\n4. St. Elmo's Fire (1985)\n5. Cocoon (1985)\n6. Real Genius (1985)\n7. Trapped (2002)\n8. Intolerable Cruelty (2003)\n9. Bruce Almighty (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. The Sure Thing (1985)\n4. St. Elmo's Fire (1985)\n5. Runaway Train (1985)\n6. The Naked Gun: From the Files of Police Squad! (1988)\n7. UHF (1989)\n8. How High (2001)\n9. What's Up, Doc? (1972)\n10. American Graffiti (1973)",
+            "1. Labrynth (1986)\n2. Airplane! (1980)\n3. Ghostbusters (1984)\n4. The Blues Brothers (1980)\n5. Monty Python and the Holy Grail (1975)\n6. The Big Lebowski (1998)\n7. Caddyshack (1980)\n8. Animal House (1978)\n9. The Jerk (1979)\n10. Dirty Rotten Scoundrels (1988)",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. American Graffiti (1973)\n4. The Big Lebowski (1998)\n5. Stranger Than Fiction (2006)\n6. The Sure Thing (1985)\n7. What's Up, Doc? (1972)\n8. Meet John Doe (1941)\n9. The Naked Gun: From the Files of Police Squad!, (1988) \n10. Purple Rose of Cairo, The (1985)\n''''",
+            "Real Genius (1985) \nSt. Elmo's Fire (1985) \nBrewster's Millions (1985) \nRunaway Train (1985) \nWeird Science (1985) \nCocoon (1985) \nThe Breakfast Club (1985) \nFright Night (1985) \nFerris Bueller's Day Off (1986) \nRaising Arizona (1987) \nSpaceballs (1987) \nPlanes, Trains & Automobiles (1987) \nBig (1988) \nBeetlejuice (1988) \nA Fish Called Wanda (1988) \nComing to America (1988) \nWho Framed Roger Rabbit (1988) \nScrooged (1988) \nHeathers (1988) \nDie Hard (1988) \nRain Man (1988) \nDangerous Liaisons (1988) \nMississippi Burning (1988) \nThe Accidental Tourist (1988) \nTequila Sunrise (1988) \nTwins (1988) \nWorking Girl (1988) \nThe Dead Pool (1988) \nThe Thin Blue Line (1988) \nGorillas in the Mist (1988) \nBird (1988) \nTucker: The Man and His Dream (1988) \nThe Last Temptation of Christ (1988) \nThe Naked Gun: From the Files of Police Squad! (1988) \nMy Neighbor Totoro (1988) \nKiki's Delivery Service (1989) \nBatman (1989) \nIndiana Jones and the Last Crusade (1989) \nLicence to Kill (1989) \nDo the Right Thing (1989) \nField of Dreams (1989) \nParenthood (1989) \nGlory (1989) \nDead Poets Society (1989) \nCrimes and Misdemeanors (1989) \nDrugstore Cowboy (1989) \nSanta Sangre (1989) \nsex, lies, and videotape (1989) \nWhen Harry Met Sally... (1989) \nBorn on the Fourth of July (1989) \nDriving Miss Daisy (1989) \nMy Left Foot (1989) \nCinema Paradiso (1989) \nHenry V (1989) \nIndiana Jones and the Last Crusade (1989) \nLicence to Kill (1989) \nDo the Right Thing (1989) \nField of Dreams (1989) \nParenthood (1989) \nGlory (1989) \nDead Poets Society (1989) \nCrimes and Misdemeanors (1989) \nDrugstore Cowboy (1989) \nSanta Sangre (1989) \nsex, lies, and videotape (1989) \nWhen Harry Met Sally... (1989) \nBorn on the Fourth of July (1989) \nDriving Miss Daisy (1989) \nMy Left Foot (1989) \nCinema Paradiso (1989) \nHenry V (1989) \nThe Little Mermaid (1989) \nRoger & Me (1989) \nBatman (1989) \nThe Abyss (1989) \nHeart of Dixie (1989) \nDie Hard 2 (1990) \nGremlins 2: The New Batch (1990) \nTeenage Mutant Ninja Turtles (1990) \nQuick Change (1990) \nGhost (1990) \nPretty Woman (1990) \nGoodfellas (1990) \nDances with Wolves (1990) \nHome Alone (1990) \nThe Godfather Part III (1990) \nHenry & June (1990) \nHamlet (1990) \nCyrano de Bergerac (1990) \nEdward Scissorhands (1990) \nThe Grifters (1990) \nMiller's Crossing (1990) \nReversal of Fortune (1990) \nTotal Recall (1990) \nKindergarten Cop (1990) \nFlatliners (1990) \nVital Signs (1990) \nMr. Destiny (1990) \nThe Freshman (1990) \nArachnophobia (1990) \nAwakenings (1990) \nDays of Thunder (1990) \nDriving Miss Daisy (1989) \nCrimes and Misdemeanors (1989) \nMy Left Foot (1989) \nCinema Paradiso (1989) \nHenry V (1989) \nThe Little Mermaid (1989) \nRoger & Me (1989)",
+            "1. National Lampoon's Vacation (1983) \n2. Sixteen Candles (1984) \n3. The Breakfast Club (1985) \n4. Ferris Bueller's Day Off (1986) \n5. Planes, Trains & Automobiles (1987) \n6. Big (1988) \n7. Coming to America (1988) \n8. Rain Man (1988) \n9. Honey, I Shrunk the Kids (1989) \n10. Parenthood (1989)",
+            "1. What's Up, Doc? (1972)\n2. Real Genius (1985)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. St. Elmo's Fire (1985)\n6. The Sure Thing (1985)\n7. Fletch (1985)\n8. Back to School (1986)\n9. Planes, Trains & Automobiles (1987)\n10. The Naked Gun: From the Files of Police Squad! (1988)"
+        ]
+    }
+}

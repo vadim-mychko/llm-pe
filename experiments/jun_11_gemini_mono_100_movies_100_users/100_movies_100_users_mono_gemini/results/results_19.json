@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with elements of adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about science fiction?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with some action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie about robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching an animated science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about future dystopia?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about space exploration?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. The Last Temptation of Christ (1988)\n3. The Piano (1993)\n4. Crimes and Misdemeanors (1989)\n5. Chungking Express (Chung Hing sam lam) (1994)\n6. Arsenic and Old Lace (1944)\n7. The Sure Thing (1985)\n8. Europa (Zentropa) (1991)\n9. What's Up, Doc? (1972)\n10. Breach (2007)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Timeline (2003)\n3. Ready Player One\n4. Robot & Frank (2012)\n5. Real Steel (2011) \n6. Metropolis (2001)\n7. Ant-Man (2015)\n8. The Corporation (2003)\n9. Cronos (1993)\n10. Eragon (2006)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Timeline (2003) \n3. Ready Player One\n4. The Man from Earth (2007) \n5. Metropolis (2001) \n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n7. Real Steel (2011) \n8. Robot & Frank (2012) \n9. Ant-Man (2015) \n10. Control (2007)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. A.I. Artificial Intelligence (2001) \n3. Timeline (2003) \n4. Real Steel (2011) \n5. Trapped (2002) \n6. Robot & Frank (2012) \n7. Bruce Almighty (2003) \n8. Metropolis (2001) \n9. Matrix, The (1999) \n10. Pandorum (2009) \n'''",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. A.I. Artificial Intelligence (2001) \n3. Ant-Man (2015) \n4. Timeline (2003) \n5. Ready Player One \n6. Real Steel (2011) \n7. The Matrix (1999) \n8. I, Robot (2004) \n9. Aliens (1986) \n10. Blade Runner (1982)\n",
+            "1. Ant-Man (2015) \n2. Terminator 3: Rise of the Machines (2003) \n3. A.I. Artificial Intelligence (2001) \n4. Real Steel (2011) \n5. Robot & Frank (2012) \n6. Metropolis (2001) \n7. Alita: Battle Angel (2019) \n8. The Matrix (1999)\n9. The Terminator (1984)\n10. Blade Runner (1982)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Darkman (1990) \n3. Real Steel (2011) \n4. A.I. Artificial Intelligence (2001) \n5. Robot & Frank (2012) \n6. Bicentennial Man (1999) \n7. I, Robot (2004) \n8. The Iron Giant (1999) \n9. Flight of the Navigator (1986) \n10. Blade Runner (1982)",
+            "1. Metropolis (2001) \n2. A.I. Artificial Intelligence (2001) \n3. Ant-Man (2015) \n4. Real Steel (2011) \n5. Robot & Frank (2012) \n6. Kronos (1993) \n7. Terminator 3: Rise of the Machines (2003) \n8. Darkman (1990) \n9. Iron Man (2008) \n10. Matrix, The (1999)\n",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. Ant-Man (2015) \\n\n3. Metropolis (2001) \\n\n4. Ready Player One \\n\n5. Robot & Frank (2012) \\n\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\n7. Eragon (2006) \\n\n8. Secret of Kells, The (2009) \\n\n9. Real Steel (2011) \\n\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Metropolis (2001) \n4. Ready Player One \n5. The Land Before Time, The (1988)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Secret of Kells, The (2009) \n8. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998) \n9. Terminator 3: Rise of the Machines (2003) \n10. Real Steel (2011) "
+        ]
+    }
+}

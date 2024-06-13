@@ -1,0 +1,58 @@
+{
+    "33": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a film about terrorism?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie where someone is kidnapped?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a film that explores a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film about business or technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that is slow-paced?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a person with a disability?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film that is visually appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Autumn Sonata (H\u00f6stsonaten) (1978)\n3. Grapes of Wrath, The (1940)\n4. Matilda (1996)\n5. Man on Fire (2004)\n6. Hotel Rwanda (2004)\n7. Crash (2004)\n8. The Kite Runner (2007)\n9. 12 Years a Slave (2013)\n10. Selma (2014)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. Lost World: Jurassic Park, The (1997)\n6. How High (2001)\n7. We Bought a Zoo (2011)\n8. The Sure Thing (1985)\n9. Searching (2018)\n10. Hachiko: A Dog's Story (2009)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. The Proposition (2005)\n6. The Land Before Time (1988)\n7. Meet John Doe (1941)\n8. What's Up, Doc? (1972)\n9. The Big Red One (1980)\n10. American Graffiti (1973)\n",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. The Piano (1993)\n8. The Naked Gun: From the Files of Police Squad!, The (1988)\n9. Cocoon (1985)\n10. The Secret of Kells (2009)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007)\n3. A.I. Artificial Intelligence (2001) \n4. Terminator 3: Rise of the Machines (2003) \n5. American Graffiti (1973) \n6. Real Genius (1985) \n7. Tenacious D in The Pick of Destiny (2006) \n8. Bruce Almighty (2003) \n9. Face/Off (1997) \n10. Thomas Crown Affair, The (1968) ",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Last Temptation of Christ, The (1988)\n3. Terminator 3: Rise of the Machines (2003)\n4. Nightcrawler (2014)\n5. Big Lebowski, The (1998)\n6. Grapes of Wrath, The (1940)\n7. Umberto D. (1952)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Eragon (2006)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n",
+            "1. Ant-Man (2015)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ready Player One\n4. Control (2007)\n5. Transporter 2 (2005)\n6. Nightcrawler (2014)\n7. Stranger than Fiction (2006)\n8. Real Steel (2011)\n9. Big Lebowski, The (1998)\n10. American Graffiti (1973)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Blair Witch Project, The (1999) \n5. Term of Endearment\n6. Proposition, The (2005) \n7. Naked Gun: From the Files of Police Squad!, The (1988) \n8. Last Action Hero (1993) \n9. One Hour Photo (2002) \n10. Dracula (Bram Stoker's Dracula) (1992)",
+            "1. City of God (2002)\n2. Requiem for a Dream (2000)\n3. Black Swan (2010)\n4. The Tree of Life (2011)\n5. Life of Pi (2012)\n6. The Grand Budapest Hotel (2014)\n7. Mad Max: Fury Road (2015)\n8. Blade Runner 2049 (2017)\n9. Roma (2018)\n10. Parasite (2019)",
+            "1. The Matrix (1999) \n2. Metropolis (2001) \n3. Spirited Away (2001) \n4. Blade Runner 2049 (2017) \n5. Annihilation (2018) \n6. Arrival (2016) \n7. Cloud Atlas (2012) \n8. Gravity (2013) \n9. The Tree of Life (2011) \n10. Interstellar (2014)"
+        ]
+    }
+}

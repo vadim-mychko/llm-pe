@@ -1,0 +1,58 @@
+{
+    "22": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with talking animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is over 2 hours long?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie based on a book or a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a focus on technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with a strong male protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that deals with discrimination or social issues?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a thought-provoking or philosophical movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in space?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985) \\n\n3. Tomb Raider (2018) \\n\n4. Pirates of the Caribbean: At World's End (2007) \\n\n5. Last Temptation of Christ, The (1988) \\n\n6. August Rush (2007) \\n\n7. Terms of Endearment (1983) \\n\n8. Breach (2007) \\n\n9. All Quiet on the Western Front (1930) \\n\n10. Lost in Translation (2003) \\n",
+            "Monsters, Inc. (2001)\nPirates of the Caribbean: At World's End (2007)\nTomb Raider (2018)\nLast Temptation of Christ, The (1988)\nAugust Rush (2007)\nAbraham Lincoln: Vampire Hunter (2012)\nThe Proposition (2005)\nBernie (2011)\nThe Naked Gun: From the Files of Police Squad!, (1988)\nLast Action Hero (1993)",
+            "1. Metropolis (2001)\n2. Ant-Man (2015)\n3. Real Steel (2011)\n4. A.I. Artificial Intelligence (2001)\n5. Terminator 3: Rise of the Machines (2003)\n6. Alita: Battle Angel (2019)\n7. Ready Player One\n8. Robot & Frank (2012)\n9. Mission Impossible - Fallout (2018)\n10. Nightcrawler (2014)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Avatar (2009)\n4. The Lord of the Rings: The Return of the King (2003)\n5. Titanic (1997)\n6. The Lord of the Rings: The Two Towers (2002)\n7. King Kong (2005)\n8. The Lord of the Rings: The Fellowship of the Ring (2001)\n9. Pirates of the Caribbean: Dead Man's Chest (2006)\n10. Forrest Gump (1994)\n''''",
+            "1. Pirates of the Caribbean: At World's End (2007) \\n\n2. August Rush (2007) \\n\n3. The Proposition, The (2005) \n4. Man from Earth, The (2007) \\n\n5. Terminator 3: Rise of the Machines (2003) \n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \\n\n7. A.I. Artificial Intelligence (2001) \\n\n8. The Departed (2006) \\n\n9. Nightcrawler (2014) \\n\n10. Stranger than Fiction (2006)",
+            "1. Alita: Battle Angel (2019)\n2. The Big Red One (1980)\n3. Face/Off (1997)\n4. King Kong (2005)\n5. Last Action Hero (1993)\n6. Lost in Translation (2003)\n7. Mr. Holmes (2015)\n8. Out of Sight (1998)\n9. Searching (2018)\n10. Stranger than Fiction (2006)",
+            "1. Big Red One, The (1980)\n2. Intolerable Cruelty (2003)\n3. Real Genius (1985)\n4. Grapes of Wrath, The (1940)\n5. Umberto D. (1952)\n6. Tenacious D in The Pick of Destiny (2006)\n7. Eragon (2006)\n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Terminator 3: Rise of the Machines (2003)\n10. A.I. Artificial Intelligence (2001)",
+            "1. Man on Fire (2004)\n2. Meet John Doe (1941)\n3. Terminator 3: Rise of the Machines (2003)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Timeline (2003)\n6. The Big Red One (1980)\n7. American Graffiti (1973)\n8. Black Robe (1991)\n9. Brewster's Millions (1985)\n10. Grapes of Wrath, The (1940)",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. The Thing (1982) \\n\n3. Adaptation. (2002) \\n\n4. Donnie Darko (2001) \\n\n5. Enter the Void (2009) \\n\n6. Ex Machina (2014) \\n\n7. The Matrix (1999) \\n\n8. Mr. Nobody (2009) \\n\n9. Primer (2004) \\n\n10. Solaris (2002) \\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. Crimes and Misdemeanors (1989)\n3. Darkman (1990)\n4. Europa (Zentropa) (1991)\n5. Harold and Maude (1971)\n6. Nightcrawler (2014)\n7. Pi (1998)\n8. The Man from Earth (2007)\n9. The Mothman Prophecies (2002)\n10. Von Ryan's Express (1965)\n"
+        ]
+    }
+}

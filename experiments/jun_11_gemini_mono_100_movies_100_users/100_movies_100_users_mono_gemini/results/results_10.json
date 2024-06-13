@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to a movie about Nazis?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about Nazi Germany?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a Nazi concentration camp?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the British?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Terminator 3: Rise of the Machines (2003)\n3. Pale Rider (1985)\n4. Thor (2011)\n5. Real Genius (1985)\n6. Brewster's Millions (1985)\n7. The Bank Job (2008)\n8. Predators (2010)\n9. The Expendables (2010)\n10. The Pacifier (2005)",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. Runaway Train (1985)\n3. Clash of the Titans (1981)\n4. Big Red One, The (1980)\n5. Von Ryan's Express (1965)\n6. The Grapes of Wrath (1940)\n7. Black Robe (1991)\n8. The Last Supper (1995)\n9. The Real Genius (1985)\n10. American Graffiti (1973)\n",
+            "1. All Quiet on the Western Front (1930) \n2. Von Ryan's Express (1965) \n3. The Big Red One (1980) \n4. Dunkirk (2017) \n5. 1917 (2019) \n6. The Bridge on the River Kwai (1957) \n7. Tora! Tora! Tora! (1970) \n8. The Longest Day (1962) \n9. Patton (1970) \n10. Saving Private Ryan (1998)",
+            "1. Saving Private Ryan (1998)\n2. Hacksaw Ridge (2016)\n3. Dunkirk (2017)\n4. 1917 (2019)\n5. The Thin Red Line (1998)\n6. The Pianist (2002)\n7. Life Is Beautiful (1997)\n8. Schindler's List (1993)\n9. The Great Escape (1963)\n10. The Bridge on the River Kwai (1957)",
+            "1. All Quiet on the Western Front (1930)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Man from Earth (2007)\n4. Von Ryan's Express (1965)\n5. The Big Red One (1980)\n6. Patton (1970)\n7. The Dirty Dozen (1967)\n8. Saving Private Ryan (1998)\n9. Das Boot (1981)\n10. Apocalypse Now (1979)",
+            "1. The Boy in the Striped Pajamas (2008)\n2. Black Robe (1991)\n3. The Grapes of Wrath (1940)\n4. Von Ryan's Express (1965)\n5. A.I. Artificial Intelligence (2001)\n6. The Hurricane (1999)\n7. Come and See (1985)\n8. Europa (1991)\n9. The Big Red One (1980)\n10. The Last Supper (1995)",
+            "1. The Boy in the Striped Pajamas (2008)\n2. All Quiet on the Western Front (1930)\n3. Europa (Zentropa) (1991)\n4. A.I. Artificial Intelligence (2001)\n5. The Big Red One (1980)\n6. Saving Private Ryan (1998)\n7. Von Ryan's Express (1965)\n8. The Hiding Place (1975)\n9. Patton (1970)\n10. The Thin Red Line (1998)",
+            "1. The Boy in the Striped Pajamas (2008)\n2. All Quiet on the Western Front (1930)\n3. Von Ryan's Express (1965)\n4. The Big Red One (1980)\n5. Europa (Zentropa) (1991)\n6. Black Robe (1991)\n7. Come and See (1985)\n8. Life Is Beautiful (1997)\n9. The Pianist (2002)\n10. Inglourious Basterds (2009)",
+            "1. The Boy in the Striped Pajamas (2008) \n2. Von Ryan's Express (1965) \n3. All Quiet on the Western Front (1930) \n4. Europa (Zentropa) (1991) \n5. Come and See (1985) \n6. The Great Dictator (1940) \n7. Schindler's List (1993) \n8. The Pianist (2002) \n9. Life Is Beautiful (1997) \n10. Inglourious Basterds (2009)",
+            "1. Tomb Raider (2018)\n2. The Proposition (2005)\n3. All Quiet on the Western Front (1930)\n4. Dangerous Liaisons (1988)\n5. Von Ryan's Express (1965)\n6. Timeline (2003)\n7. Black Robe (1991)\n8. Eragon (2006)\n9. Boy in the Striped Pajamas, The (2008)\n10. Tenacious D in The Pick of Destiny (2006)"
+        ]
+    }
+}

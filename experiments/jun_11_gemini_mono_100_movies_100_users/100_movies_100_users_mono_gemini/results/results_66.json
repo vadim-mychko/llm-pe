@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a 19th-century movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is a crime movie okay?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a music video?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Enter the Void (2009)\n2. Terminator 3: Rise of the Machines (2003)\n3. Van Ryan's Express (1965)\n4. Clash of the Titans (1981)\n5. Face/Off (1997)\n6. King Kong (2005)\n7. Alita: Battle Angel (2019)\n8. Ant-Man (2015)\n9. A.I. Artificial Intelligence (2001)\n10. TimeLine (2003)",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985) \\n\n3. Laura (1944) \\n\n4. Last Temptation of Christ, The (1988) \\n\n5. Abraham Lincoln: Vampire Hunter (2012) \\n\n6. Santa Sangre (1989) \\n\n7. The Blair Witch Project (1999) \\n\n8. Martyrs (2008) \\n\n9. The Piano (1993) \\n\n10. Terms of Endearment (1983)\n",
+            "1. Enter the Void (2009)\n2. Control (2007)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Crimes and Misdemeanors (1989)\n5. Stranger than Fiction (2006)\n6. Searching (2018)\n7. Bernard and Doris (2007)\n8. The Man from Earth (2007)\n9. Lost in Translation (2003)\n10. The Corporation (2003)\n",
+            "1. How High (2001)\n2. Gremlins 2: The New Batch (1990)\n3. American Graffiti (1973)\n4. What's Up, Doc? (1972)\n5. Big Red One, The (1980)\n6. St. Elmo's Fire (1985)\n7. Real Genius (1985)\n8. UHF (1989)\n9. Brewster's Millions (1985)\n10. Trapped (2002)",
+            "1. Terms of Endearment (1983)\n2. Big Lebowski, The (1998)\n3. American Graffiti (1973)\n4. Runaway Train (1985)\n5. Real Steel (2011)\n6. Terminator 3: Rise of the Machines (2003)\n7. Brewster's Millions (1985)\n8. Lost in Translation (2003)\n9. Face/Off (1997)\n10. Grapes of Wrath, The (1940)",
+            "1. American Graffiti (1973) \n2. What's Up, Doc? (1972) \n3. Von Ryan's Express (1965) \n4. The Big Red One (1980) \n5. The Grapes of Wrath (1940) \n6. Meet John Doe (1941) \n7. Laura (1944) \n8. The Terminator (1984)\n9. Darkman (1990) \n10. Real Steel (2011)",
+            "1. Searching (2018)\n2. Meet John Doe (1941)\n3. The Corporation (2003)\n4. Control (2007)\n5. Stranger than Fiction (2006)\n6. Mr. Holmes (2015)\n7. Robot & Frank (2012)\n8. The Grapes of Wrath (1940)\n9. Umberto D. (1952)\n10. Black Robe (1991)",
+            "1. Lost in Translation (2003)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Cronos (1993)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. Jane Eyre (1996)\n7. Grapes of Wrath, The (1940)\n8. Real Genius (1985)\n9. King Kong (2005)\n10. Bruce Almighty (2003)",
+            "1. August Rush (2007) \n2. Sure Thing, The (1985)\n3. Big Red One, The (1980)\n4. American Graffiti (1973) \n5. The Grapes of Wrath (1940) \n6. The Dark Knight (2008)\n7. American Beauty (1999)\n8. The Godfather (1972) \n9. The Godfather Part II (1974) \n10. Taxi Driver (1976)",
+            "1. Searching (2018)\n2. A.I. Artificial Intelligence (2001)\n3. Stranger than Fiction (2006)\n4. Enter the Void (2009)\n5. Control (2007)\n6. The Big Red One (1980)\n7. Nightcrawler (2014)\n8. The Grapes of Wrath (1940)\n9. Umberto D. (1952)\n10. Tenacious D in The Pick of Destiny (2006)"
+        ]
+    }
+}

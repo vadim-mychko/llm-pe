@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie set in the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie with talking animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie in black and white?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a dark comedy or satire?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Runaway Train (1985)\n2. Brewster's Millions (1985)\n3. St. Elmo's Fire (1985)\n4. Cocoon (1985)\n5. Real Genius (1985)\n6. Sure Thing, The (1985)\n7. Big Red One, The (1980)\n8. American Graffiti (1973)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. The Land Before Time (1988)\n2. St. Elmo's Fire (1985)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. Runaway Train (1985)\n6. Sure Thing, The (1985)\n7. Lost in Translation (2003)\n8. Terminator 3: Rise of the Machines (2003)\n9. The Lost World: Jurassic Park (1997)\n10. Nightcrawler (2014)",
+            "1. Runaway Train (1985)\n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. St. Elmo's Fire (1985)\n5. Cocoon (1985)\n6. Sure Thing, The (1985)\n7. Trapped (2002)\n8. Punch-Drunk Love (2002)\n9. Mothman Prophecies, The (2002)\n10. One Hour Photo (2002)",
+            "1. American Graffiti (1973) \n2. Runaway Train (1985) \n3. No Man's Land (2001) \n4. Sure Thing, The (1985)\n5. Terminator 3: Rise of the Machines (2003) \n6. Big Trouble in Little China (1986)\n7. The Breakfast Club (1985)\n8. The Goonies (1985)\n9. Back to the Future (1985)\n10. Aliens (1986)",
+            "1. The Last Temptation of Christ (1988) \n2. Cocoon (1985)\n3. Sure Thing, The (1985) \n4. The Big Red One (1980)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Runaway Train (1985)\n8. American Graffiti (1973)\n9. St. Elmo's Fire (1985)\n10. Von Ryan's Express (1965)",
+            "Runaway Train (1985)\nThe Proposition (2005)\nGentlemen of Fortune (1972)\nCrash of the Titans (1981)\nSure Thing, The (1985)\nBrewster's Millions (1985)\nReal Genius (1985)\nSt. Elmo's Fire (1985)\nThe Last Dragon (1985)\nCocoon (1985)",
+            "1. Intolerable Cruelty (2003)\n2. Stranger than Fiction (2006)\n3. The Last Supper (1995)\n4. The Big Lebowski (1998)\n5. The King of Comedy (1982)\n6. Brewster's Millions (1985)\n7. Delicatessen (1991)\n8. Lost in Translation (2003)\n9. The Grapes of Wrath (1940)\n10. Umberto D. (1952)",
+            "1. Runaway Train (1985)\n2. What's Up, Doc? (1972)\n3. The Big Lebowski (1998)\n4. American Graffiti (1973)\n5. Intolerable Cruelty (2003)\n6. Real Genius (1985)\n7. The Grapes of Wrath (1940)\n8. Umberto D. (1952)\n9. Eragon (2006)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n",
+            "1. What's Up, Doc? (1972) \n2. Big Lebowski, The (1998) \n3. American Graffiti (1973) \n4. Intolerable Cruelty (2003) \n5. Brewster's Millions (1985) \n6. Real Genius (1985) \n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n8. Tenacious D in The Pick of Destiny (2006) \n9. Delicatessen (1991) \n10. Bruce Almighty (2003)\n",
+            "Big Lebowski, The (1998) \nDr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) \nZazie dans le m\u00e9tro (1960)\nParis, Texas (1984) \nDuck Soup (1933) \nThe Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie) (1972) \nThe King of Comedy (1982) \nWhat We Do in the Shadows (2014) \nIn Bruges (2008) \nAirplane! (1980)"
+        ]
+    }
+}

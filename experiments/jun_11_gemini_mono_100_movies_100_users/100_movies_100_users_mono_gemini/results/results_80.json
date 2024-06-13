@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the main character has amnesia?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that will make you feel happy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Mr. Holmes (2015)\n8. Grapes of Wrath, The (1940)\n9. Jane Eyre (1996)\n10. Umberto D. (1952)\n''''",
+            "1. A.I. Artificial Intelligence (2001) \n2. Stranger than Fiction (2006) \n3. The Departed (2006) \n4. Nightcrawler (2014) \n5. The Big Lebowski (1998) \n6. The Grapes of Wrath (1940) \n7. Umberto D. (1952) \n8. Lost in Translation (2003) \n9. Cronos (1993) \n10. The Black Robe (1991) \n",
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Last Temptation of Christ, The (1988)\n5. August Rush (2007)\n6. Bernie (2011)\n7. The Proposition (2005)\n8. Terms of Endearment (1983)\n9. All Quiet on the Western Front (1930)\n10. Blair Witch Project, The (1999)",
+            "1. Dracula (Bram Stoker's Dracula) (1992)\n2. Alita: Battle Angel (2019)\n3. Aliens (1986)\n4. The Godfather (1972)\n5. Raiders of the Lost Ark (1981)\n6. Pulp Fiction (1994)\n7. The Dark Knight (2008)\n8. Inception (2010)\n9. The Lord of the Rings: The Fellowship of the Ring (2001)\n10. The Silence of the Lambs (1991)",
+            "1. Last Temptation of Christ, The (1988)\n2. Secret of Kells, The (2009)\n3. Europa (Zentropa) (1991)\n4. Dogma (1999)\n5. Millennium Mambo (2001)\n6. Monsoon Wedding (2001)\n7. Whale Rider (2002)\n8. City of God (2002)\n9. Osama (2003)\n10. Control (2007)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. What's Up, Doc? (1972)\n3. Stranger than Fiction (2006)\n4. American Graffiti (1973)\n5. Real Genius (1985)\n6. The Big Lebowski (1998)\n7. Grapes of Wrath, The (1940)\n8. Jane Eyre (1996)\n9. Umberto D. (1952)\n10. Black Robe (1991)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. Intolerable Cruelty (2003)\n4. The Departed (2006)\n5. Stranger than Fiction (2006)\n6. Nightcrawler (2014)\n7. Big Lebowski, The (1998)\n8. Bruce Almighty (2003)\n9. Face/Off (1997)\n10. Control (2007)",
+            "1. Dracula (Bram Stoker's Dracula) (1992) \n2. No Country for Old Men (2007) \n3. The Lord of the Rings: The Fellowship of the Ring (2001) \n4. Fargo (1996) \n5. The Godfather (1972) \n6. The Shawshank Redemption (1994) \n7. Pulp Fiction (1994) \n8. The Dark Knight (2008) \n9. The Silence of the Lambs (1991) \n10. Schindler's List (1993)",
+            "1. Strangers By Night (1944)\n2. Dracula (Bram Stoker's Dracula) (1992)\n3. Taxi Driver (1976)\n4. The Silence of the Lambs (1991)\n5. Terminator 2: Judgment Day (1991)\n6. Die Hard (1988)\n7. The Dark Knight (2008)\n8. The Godfather (1972)\n9. The Godfather Part II (1974)\n10. Pulp Fiction (1994)",
+            "Monsters, Inc. (2001) \\n\nLand Before Time, The (1988) \\n\nHomeward Bound: The Incredible Journey (1993) \\n\nSecret of Kells, The (2009) \\n\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\nAugust Rush (2007) \\n\nSpirited Away (2001) \\n\nMy Neighbor Totoro (1988) \\n\nPrincess Mononoke (1997) \\n\nKiki's Delivery Service (1989)\n"
+        ]
+    }
+}

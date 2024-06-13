@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Do you have any interest in movies about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a period piece from the 19th century?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like animated movies?",
+                "response": "no"
+            },
+            {
+                "query": "Is this an interesting-looking movie about violence and revenge?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like modern movies from the 21st century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a feel-good atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about the mafia?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about bowling?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. A.I. Artificial Intelligence (2001)\n4. Timeline (2003)\n5. Ready Player One\n6. Nightcrawler (2014)\n7. Real Steel (2011)\n8. Robot & Frank (2012)\n9. Bruce Almighty (2003)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Terms of Endearment (1983)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. Cocoon (1985)\n7. St. Elmo's Fire (1985)\n8. The Land Before Time (1988)\n9. What's Up, Doc? (1972)\n10. Hachiko: A Dog's Story (2009)",
+            "1) The Proposition (2005) \n2) Breach (2007) \n3) Enter the Void (2009) \n4) Darkman (1990) \n5) Terminator 3: Rise of the Machines (2003) \n6) The Departed (2006) \n7) Nightcrawler (2014) \n8) Stranger than Fiction (2006) \n9) Intolerable Cruelty (2003) \n10) Delicatessen (1991)",
+            "1. Hell or High Water (2016) \n2. The Proposition, The (2005)\n3. The Last Supper, The (1995) \n4. Brewster's Millions (1985)\n5. Bronson (2008)\n6. Dangerous Liaisons (1988) \n7. Von Ryan's Express (1965)\n8. Ronin (1998)\n9. Patriot Games (1992)\n10. Domino (2005)",
+            "1. Jane Eyre (1996)\n2. Umberto D. (1952)\n3. Black Robe (1991)\n4. Tenacious D in The Pick of Destiny (2006)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Eragon (2006)\n7. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n2. Intolerable Cruelty (2003)\n3. What's Up, Doc? (1972)\n4. Delicatessen (1991)\n5. Last Supper, The (1995)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. Grapes of Wrath, The (1940)\n9. Black Robe (1991)\n10. Umberto D. (1952)",
+            "1. UHF (1989) \n2. What's Up, Doc? (1972) \n3. Intolerable Cruelty (2003) \n4. The Big Lebowski (1998) \n5. Brewster's Millions (1985) \n6. Real Genius (1985) \n7. American Graffiti (1973) \n8. Control (2007)\n9. Nightcrawler (2014) \n10. Delicatessen (1991)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. UHF (1989)\n3. What's Up, Doc? (1972)\n4. The Big Lebowski, The (1998)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Intolerable Cruelty (2003)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Bruce Almighty (2003)\n10. Control (2007)",
+            "1. Tomb Raider (2018)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. UHF (1989)\n4. What's Up, Doc? (1972)\n5. Big Lebowski, The (1998)\n6. American Graffiti (1973)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Intolerable Cruelty (2003)",
+            "1. Big Lebowski, The (1998) \n2. What's Up, Doc? (1972) \n3. Sure Thing, The (1985) \n4. Brewster's Millions (1985) \n5. Real Genius (1985) \n6. American Graffiti (1973) \n7. Intolerable Cruelty (2003) \n8. Meet John Doe (1941) \n9. Delicatessen (1991) \n10. Tenacious D in The Pick of Destiny (2006)\n"
+        ]
+    }
+}

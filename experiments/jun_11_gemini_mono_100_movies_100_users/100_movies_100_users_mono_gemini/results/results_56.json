@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that's action-packed, with lots of special effects?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for something set in the future that's a little more sci-fi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for something with robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in the movie \"Terminator 3: Rise of the Machines\"?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in the movie \"A.I. Artificial Intelligence\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in the movie \"Real Steel\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the future with time travel?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in the movie \"Terminator 3: Rise of the Machines\"?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about robots in the future?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Lost World: Jurassic Park, The (1997)\n3. Darkman (1990)\n4. Ant-Man (2015)\n5. Big Red One, The (1980)\n6. Action, Adventure, Drama, War\n7. Face/Off (1997)\n8. King Kong (2005)\n9. Eragon (2006)\n10. Clash of the Titans (1981)",
+            "1. Alita: Battle Angel (2019)\n2. Ready Player One (2018)\n3. Terminator 3: Rise of the Machines (2003)\n4. Searching (2018)\n5. Ant-Man (2015)\n6. Matrix, The (1999)\n7. Inception (2010)\n8. Pacific Rim (2013)\n9. Mad Max: Fury Road (2015)\n10. Guardians of the Galaxy (2014)",
+            "1. Alita: Battle Angel (2019) \n2. The Matrix (1999) \n3. Terminator 3: Rise of the Machines (2003) \n4. I, Robot (2004) \n5. Real Steel (2011) \n6. WALL-E (2008) \n7. Chappie (2015) \n8. Ex Machina (2014) \n9. Blade Runner 2049 (2017) \n10. Annihilation (2018)",
+            "Terminator 3: Rise of the Machines (2003) \n\n\n Lost in Translation (2003) \n\n\n Departed, The (2006) \n\n\n Pirates of the Caribbean: At World's End (2007) \n\n\n Out of Sight (1998) \n\n\n Ready Player One \n\n\n Black Robe (1991) \n\n\n Face/Off (1997) \n\n\n Terminator 3: Rise of the Machines (2003) \n\n\n A.I. Artificial Intelligence (2001)",
+            "1. Terminator 3: Rise of the Machines\n2. A.I. Artificial Intelligence\n3. Alita: Battle Angel\n4. Ant-Man\n5. Ready Player One\n6. Transcendence\n7. Ex Machina\n8. The Terminator\n9. RoboCop\n10. Blade Runner",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ready Player One (2018)\n3. Real Steel (2011)\n4. Matrix, The (1999)\n5. Ant-Man (2015)\n6. RoboCop (1987)\n7. Total Recall (1990)\n8. Blade Runner (1982)\n9. Transformers (2007)\n10. Pacific Rim (2013)",
+            "Terminator 3: Rise of the Machines (2003) \nDarkman (1990) \nRobot & Frank (2012) \nReal Steel (2011) \nBicentennial Man (1999) \nI, Robot (2004) \nWall-E (2008) \nIron Giant, The (1999) \nChappie (2015) \nEx Machina (2014)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ready Player One\n3. Ant-Man (2015)\n4. Timeline (2003)\n5. Matrix, The (1999)\n6. Looper (2012)\n7. Primer (2004)\n8. Predestination (2014)\n9. Edge of Tomorrow (2014)\n10. Source Code (2011)",
+            "Terminator 3: Rise of the Machines (2003)\nAnt-Man (2015)\nReady Player One (2018)\nReal Steel (2011)\nTimeline (2003)\nAlita: Battle Angel (2019)\nA.I. Artificial Intelligence (2001)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nRobot & Frank (2012)\nThe Matrix (1999)",
+            "Terminator 3: Rise of the Machines (2003) \nReady Player One \nReal Steel (2011)\nA.I. Artificial Intelligence (2001)\nAnt-Man (2015) \nAlita: Battle Angel (2019)\nI, Robot (2004) \nBlade Runner (1982) \nTotal Recall (1990) \nMinority Report (2002)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a classic movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a boy's friendship with a Jewish boy in Nazi Germany?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a happy ending?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a musical genius?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a black and white movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about social commentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 40's?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. A.I. Artificial Intelligence (2001) \n2. Meet John Doe (1941) \n3. All Quiet on the Western Front (1930) \n4. The Grapes of Wrath (1940) \n5. Laura (1944) \n6. Umberto D. (1952) \n7. American Graffiti (1973) \n8. What's Up, Doc? (1972) \n9. Arsenic and Old Lace (1944) \n10. The Big Red One (1980) \n",
+            "****\n1. Grapes of Wrath, The (1940) \n2. Umberto D. (1952) \n3. American Graffiti (1973) \n4. What's Up, Doc? (1972) \n5. Meet John Doe (1941) \n6. Arsenic and Old Lace (1944) \n7. Real Genius (1985) \n8. Sure Thing, The (1985) \n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n10. Homeward Bound: The Incredible Journey (1993) \n****",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Big Lebowski, The (1998)\n4. American Graffiti (1973)\n5. Meet John Doe (1941)\n6. Bruce Almighty (2003)\n7. Lost in Translation (2003)\n8. The Departed (2006)\n9. The Big Red One (1980)\n10. Nightcrawler (2014)\n",
+            "* A.I. Artificial Intelligence (2001)\n* Black Robe (1991)\n* Bruce Almighty (2003)\n* Cronos (1993)\n* Enter the Void (2009)\n* Grapes of Wrath, The (1940)\n* Intolerable Cruelty (2003)\n* Lost in Translation (2003)\n* Mis\u00e9rables, Les (1998)\n* Stranger than Fiction (2006)",
+            "1. Grapes of Wrath, The (1940)\n2. American Graffiti (1973)\n3. Umberto D. (1952)\n4. The Big Red One (1980)\n5. Drugstore Cowboy (1989)\n6. Crimes and Misdemeanors (1989)\n7. Magnolia (1999)\n8. American Beauty (1999)\n9. The Departed (2006)\n10. No Country for Old Men (2007)",
+            "1. The Grapes of Wrath (1940) \n2. All Quiet on the Western Front (1930) \n3. Umberto D. (1952) \n4. The Departed (2006) \n5. Nightcrawler (2014) \n6. Magnolia (1999) \n7. Control (2007) \n8. The Darkman (1990) \n9. Cronos (1993) \n10. Enter the Void (2009)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Meet John Doe (1941)\n4. Von Ryan's Express (1965)\n5. American Graffiti (1973)\n6. Norma Rae (1979)\n7. The Big Red One (1980)\n8. Amadeus (1984)\n9. Terms of Endearment (1983)\n10. Crimes and Misdemeanors (1989)\n",
+            "1. Umberto D. (1952)\n2. The Grapes of Wrath (1940)\n3. Laura (1944)\n4. Mr. Holmes (2015)\n5. Jane Eyre (1996)\n6. Black Robe (1991)\n7. Moby Dick (1956)\n8. All Quiet on the Western Front (1930)\n9. The Last Supper (1995)\n10. Cronos (1993)",
+            "1. Laura (1944)\n2. Last Temptation of Christ, The (1988)\n3. Piano, The (1993)\n4. Drugstore Cowboy (1989)\n5. Crimes and Misdemeanors (1989)\n6. Arsenic and Old Lace (1944)\n7. Terminator 3: Rise of the Machines (2003)\n8. Big Red One, The (1980)\n9. Grapes of Wrath, The (1940)\n10. Umberto D. (1952)",
+            "****\n Movie Title: Grapes of Wrath, The (1940) \n Genres: Drama \n Tags: Great Depression, adapted from:book, Social Drama, based on a book, imdb top 250, Oscar (Best Directing), Oscar (Best Supporting Actress), depressing, poverty, John Ford, struggle, 100 Greatest Movies, Henry Fonda, John Steinbeck, Charley Grapewin, Jane Darwell, National Film Registry, author:John Steinbeck, AFI 100, americana\n****\n Movie Title: Umberto D. (1952) \n Genres: Drama \n Tags: Vittorio De Sica, Criterion, imdb top 250, meditative, BD-R, DVD-Video, Italian neorealism, Janus 50, bleak, despair, dog, dogs, downbeat, drab, economic depression, elderly, holes50s, hospital, human condition, hunger\n****\n Movie Title: Cronos (1993) \n Genres: Drama, Horror \n Tags: Guillermo del Toro, slow, Criterion, atmospheric, clockwork devices, vampires, Ron Perlman, Claudio Brook, Frederico Luppi, immortality, moody, stylized, Margarita Isabel, Tumey's DVDs, aging, antique dealer, automata, dark, directorial debut, dreamlike\n****\n Movie Title: Laura (1944) \n Genres: Crime, Film-Noir, Mystery \n Tags: film noir, black and white, Vincent Price, murder, Oscar (Best Cinematography), murder mystery, noir, Dana Andrews, Gene Tierney, 1940s, Clifton Webb, adapted from:book, plot twist, romance, AFI 100 (Thrills), National Film Registry, Otto Preminger, author:Vera Caspary, famous theme song, investigation\n****\n Movie Title: Last Temptation of Christ, The (1988) \n Genres: Drama \n Tags: jesus, christian, Martin Scorsese, based on a book, christianity, controversial, Criterion, good soundtrack, religion, violence, Biblical, Nudity (Topless), blasphemy, edgy, god, soundtrack, storytelling, 70mm, A \u00daltima Tenta\u00e7\u00e3o de Cristo, Bible\n****\n Movie Title: Big Red One, The (1980) \n Genres: Action, Adventure, Drama, War \n Tags: World War II, tense, bleak, forceful, Classic, disturbing, sicily, sergeant, rousing, omaha beach, gritty, d-day, DVD-Video, concentration camp, africa, Samuel Fuller, Mark Hamill, Lee Marvin, History, world war ii\n****\n Movie Title: Von Ryan's Express (1965) \n Genres: Action, Adventure, Drama, War \n Tags: World War II, trains, Frank Sinatra, Trevor Howard, based on a book, 1940s, Betamax, Italy, Mark Robson, Prisoner of war, Raffaella Carr\u00e0, Railway, Unreal fighting, VHS, escape, frontier, german, hulu, italian, mvlc\n****\n Movie Title: Black Robe (1991) \n Genres: Adventure, Drama \n Tags: 17th century, Bruce Beresford, colonialism, Canada, Catholicism, History, Native Americans, CLV, Christianity, Quebec, adapted from:book, algonquin indian, author:Brian Moore, based on a book, culture clash, jesuit, journey, native american, nudity (topless), quebec\n****\n Movie Title: Control (2007) \n Genres: Drama \n Tags: music, joy division, black and white, suicide, biography, epilepsy, rock and roll, cinematography, true story, Anton Corbijn, EXTRAMARITAL AFFAIRS, Ian Curtis, beautiful, early punk, great acting, great music, hanging, heartwrenching, manchester, marriage\n****\n Movie Title: Stranger than Fiction (2006) \n Genres: Comedy, Drama, Fantasy, Romance \n Tags: surreal, Will Ferrell, Maggie Gyllenhaal, quirky, modern fantasy, narrated, touching, quirky romantic, metaphysics, writing, fantasy, existentialism, heartwarming, storytelling, humorous, Dustin Hoffman, love, heartbreaking, writers, Emma Thompson"
+        ]
+    }
+}

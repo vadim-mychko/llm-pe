@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with visually appealing graphics?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about the future?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is a movie with a heartwarming theme something you would like to watch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with visually stunning graphics, but no science fiction, music, or animation?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie about the Vietnam War?",
+                "response": "no"
+            },
+            {
+                "query": "How about a movie about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Avatar (2009)\n2. Life of Pi (2012)\n3. The Matrix (1999)\n4. The Lord of the Rings: The Fellowship of the Ring (2001)\n5. The Lion King (1994)\n6. Toy Story (1995)\n7. Finding Nemo (2003)\n8. The Incredibles (2004)\n9. Up (2009)\n10. Inside Out (2015)",
+            "1. Metropolis (2001)\n2. Secret of Kells, The (2009)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Alita: Battle Angel (2019)\n5. Blade Runner 2049 (2017)\n6. Tron: Legacy (2010)\n7. Cloud Atlas (2012)\n8. Ex Machina (2014)\n9. Annihilation (2018)\n10. Arrival (2016)",
+            "1. Metropolis (2001)\n2. The Secret of Kells (2009)\n3. Enter the Void (2009)\n4. Alita: Battle Angel (2019)\n5. Darkman (1990)\n6. Control (2007)\n7. Delicatessen (1991)\n8. Lost in Translation (2003)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Jane Eyre (1996)",
+            "1. Metropolis (2001)\n2. Secret of Kells, The (2009)\n3. Enter the Void (2009)\n4. Mr. Holmes (2015)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Robot & Frank (2012)\n8. Delicatessen (1991)\n9. Jane Eyre (1996)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Metropolis (2001)\n3. The Secret of Kells (2009)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. Alita: Battle Angel (2019)\n6. Darkman (1990)\n7. Europa (Zentropa) (1991)\n8. A.I. Artificial Intelligence (2001)\n9. Enter the Void (2009)\n10. Delicatessen (1991)",
+            "1. Metropolis (2001)\n2. The Secret of Kells (2009)\n3. The Big Lebowski (1998)\n4. American Graffiti (1973)\n5. Nightcrawler (2014)\n6. Grapes of Wrath, The (1940)\n7. Cronos (1993)\n8. Jane Eyre (1996)\n9. Umberto D. (1952)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. The Piano (1993) \n2. Secret of Kells, The (2009) \n3. Gremlins 2: The New Batch (1990) \n4. Europa (Zentropa) (1991) \n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n6. Timeline (2003) \n7. August Rush (2007) \n8. Real Steel (2011) \n9. American Graffiti (1973) \n10. Mr. Holmes (2015)",
+            "1. Lost in Translation (2003)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Enter the Void (2009)\n4. Beautiful (2000)\n5. Cronos (1993)\n6. Europa (Zentropa) (1991)\n7. Delicatessen (1991)\n8. Secret of Kells, The (2009)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. The Land Before Time (1988)",
+            "1. Last Temptation of Christ, The (1988) \n2. August Rush (2007) \n3. The Piano (1993) \n4. Enter the Void (2009) \n5. Delicatessen (1991) \n6. Jane Eyre (1996) \n7. Umberto D. (1952) \n8. The Secret of Kells (2009) \n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n10. Persepolis (2007)",
+            "1. Metropolis (2001)\n2. The Secret of Kells (2009)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. What's Up, Doc? (1972)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Enter the Void (2009)\n7. Ready Player One \n8. The Big Red One (1980)\n9. Mr. Holmes (2015)\n10. Robot & Frank (2012)\n"
+        ]
+    }
+}

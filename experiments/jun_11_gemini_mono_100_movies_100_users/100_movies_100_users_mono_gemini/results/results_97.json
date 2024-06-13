@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that is beautiful?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thrilling movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies with a lot of violence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a lot of action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about crime?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with murder?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a heist?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Tomb Raider (2018)\n5. Laura (1944)\n6. Abraham Lincoln: Vampire Hunter (2012)\n7. Last Temptation of Christ, The (1988)\n8. August Rush (2007)\n9. Santa Sangre (1989)\n10. Blair Witch Project, The (1999)",
+            "1. The Last Temptation of Christ (1988)\n2. Laura (1944)\n3. Santa Sangre (1989)\n4. Martyrs (2008)\n5. The Piano (1993)\n6. Autumn Sonata (H\u00f6stsonaten) (1978)\n7. Bad Education (La mala educaci\u00f3n) (2004)\n8. The Secret of Kells (2009)\n9. Arsenic and Old Lace (1944)\n10. Dangerous Liaisons (1988)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Last Temptation of Christ, The (1988)\n3. Von Ryan's Express (1965)\n4. August Rush (2007)\n5. Aliens (1986)\n6. Pitch Black (2000)\n7. Fury (2014)\n8. Once Upon a Time ... in Hollywood (2019)\n9. Stargate (1994)\n10. Lost in Translation (2003)",
+            "1. Man on Fire (2004) \\n\n2. Terminator 3: Rise of the Machines (2003) \\n\n3. The Departed (2006) \\n\n4. Nightcrawler (2014) \\n\n5. Face/Off (1997) \\n\n6. Runaway Train (1985) \\n\n7. Last Action Hero (1993) \\n\n8. Darkman (1990) \\n\n9. Breach (2007) \\n\n10. Von Ryan's Express (1965)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Man on Fire (2004) \n3. Enter the Void (2009) \n4. Nightcrawler (2014) \n5. Departed, The (2006) \n6. Big Red One, The (1980) \n7. Face/Off (1997) \n8. Martyrs (2008)\n9. Darkman (1990)\n10. The Last House on the Left (1972)",
+            "1. Man on Fire (2004) \n2. Terminator 3: Rise of the Machines (2003) \n3. The Departed (2006) \n4. Nightcrawler (2014) \n5. Trapped (2002) \n6. Face/Off (1997) \n7. King Kong (2005) \n8. Eragon (2006) \n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n10. Enter the Void (2009) \n",
+            "1. Man on Fire (2004)\n2. The Departed (2006)\n3. Nightcrawler (2014)\n4. Terminator 3: Rise of the Machines (2003)\n5. Enter the Void (2009)\n6. Trapped (2002)\n7. Face/Off (1997)\n8. King Kong (2005)\n9. Cronos (1993)\n10. Eragon (2006)",
+            "Departed, The (2006)\nMan on Fire (2004)\nNightcrawler (2014)\nReservoir Dogs (1992)\nRunaway Train (1985)\nThe Raid: Redemption (2011)\nThe Terminator (1984)\nTerminator 2: Judgment Day (1991)\nTraining Day (2001)\nUnforgiven (1992)",
+            "1. Departed, The (2006)\n2. Man on Fire (2004)\n3. Nightcrawler (2014)\n4. Before the Devil Knows You're Dead (2007)\n5. Breach (2007)\n6. No Man's Land (2001)\n7. Terminator 3: Rise of the Machines (2003)\n8. Bad Education (La mala educaci\u00f3n) (2004)\n9. Crimes and Misdemeanors (1989)\n10. Darkman (1990)",
+            "1. Departed, The (2006) \\n\nGenres: Crime, Drama, Thriller \\n\nTags: Leonardo DiCaprio, Martin Scorsese, Jack Nicholson, organized crime, Matt Damon, twist ending, undercover cop, atmospheric, psychology, suspense, gangsters, police corruption, Mafia, complicated plot, corruption, violence, Crime, gangster, ensemble cast, tense\n2. Nightcrawler (2014) \\n\nGenres: Crime, Drama, Thriller \\n\nTags: dark, sociopath, Jake Gyllenhaal, psychothriller, gripping, thriller, satire, journalism, Character Development, creepy, Disturbing, lack of morals, transformative performance, criminal mind, los angeles, crime reporter, media madness, Crime, news, thrilling\n3. Face/Off (1997) \\n\nGenres: Action, Crime, Drama, Thriller \\n\nTags: Nicolas Cage, John Travolta, action, John Woo, ridiculous, switching places, revenge, stupid, Nicholas Cage, Nudity (Nic Cage), action packed, corny, identity, Romance, undercover, Drama, Gina Gershon, arch villain, deep, explosion\n4. Man on Fire (2004) \\n\nGenres: Action, Crime, Drama, Mystery, Thriller \\n\nTags: Denzel Washington, revenge, Christopher Walken, kidnapping, action, redemption, bodyguard, Dakota Fanning, great cinematography, twists & turns, vengeance, friendship, Torture, ending, faith, mexico, Suicide, makes you cry, Tony Scott, alcoholism\n5. Transporter 2 (2005) \\n\nGenres: Action, Crime, Thriller \\n\nTags: Jason Statham, cars, Kate Nauta, Good action, action, car chase, violence, kidnapping, Louis Leterrier, Miami, fetish clothes, plot point:bio-medical danger, shooting, Alessandro Gassman, Amber Valletta, France, Fran\u00e7ois Berl\u00e9and, Luc Besson, Netflix Finland, a sequel better without\n6. Terminator 3: Rise of the Machines (2003) \\n\nGenres: Action, Adventure, Sci-Fi \\n\nTags: franchise, time travel, Arnold Schwarzenegger, action, artificial intelligence, apocalypse, androids, car chase, android(s)/cyborg(s), Nudity (Topless), nuclear war, murder, sci-fi, big budget, Nudity (Rear), Nudity (Topless - Brief), alternate universe, assassin, end of the world, fighting\n7. Gremlins 2: The New Batch (1990) \\n\nGenres: Comedy, Horror \\n\nTags: Joe Dante, monster, Steven Spielberg, Wacky, sequel, 70mm, BD-Video, CLV, DVD-Video, Gizmo, Spherical Blow-Up, Zach Galligan, bat, cleverness, cowardliness, creatures, current, dying and death, electric shock, family horror\n8. Darkman (1990) \\n\nGenres: Action, Crime, Fantasy, Sci-Fi, Thriller \\n\nTags: Sam Raimi, dark comedy, black comedy, superhero, disfigurement, horror, violence, Frances McDormand, impersonation, parody, prosthetics, revenge, sci-fi, superheros, CLV, Can't remember, DVD-RAM, Jenny Agutter, Liam Neeson, artificial skin\n9. RoboCop (1987) \\n\nGenres: Action, Crime, Sci-Fi \\n\nTags: Paul Verhoeven, classic, dystopia, futuristic, action, robots, satire, androids, android(s)/cyborg(s), cops, murder, police, punk, superheros, violence, american, atm, bad language, Blu, CLV, Communism, crime, cult film, Director: Paul Verhoeven, ED-209, Ernest Dickerson, futuristic society, gangsters, gore\n10. Die Hard (1988) \\n\nGenres: Action, Thriller \\n\nTags: Bruce Willis, action, John McTiernan, terrorists, Alan Rickman, Nakatomi Plaza, Hans Gruber, action hero, 80s, crime, death, hostage, hostages, hostage situation, police, revenge, skyscraper, studio-quality, stylized, violence, well-made, Alan Rickman, Alexander Godunov, BD-R, Clarence Gilyard Jr., dead body\n'''"
+        ]
+    }
+}
