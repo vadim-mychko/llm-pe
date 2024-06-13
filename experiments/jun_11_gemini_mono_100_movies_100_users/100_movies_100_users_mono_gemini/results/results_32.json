@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a funny family movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with good music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to watching a film set in an office environment?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a science fiction movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about spies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about cancer?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. American Graffiti (1973)\n5. Brewster's Millions (1985)\n6. Intolerable Cruelty (2003)\n7. Face/Off (1997)\n8. Real Genius (1985)\n9. The Big Lebowski (1998)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Lost in Translation (2003) \n2. Chungking Express (Chung Hing sam lam) (1994) \n3. Magnolia (1999) \n4. Mr. Holmes (2015) \n5. Cach\u00e9 (Hidden) (Cach\u00e9) (2005) \n6. Before the Devil Knows You're Dead (2007) \n7. Repulsion (1965) \n8. Europa (Zentropa) (1991) \n9. Stalker (Stalker) (1979) \n10.Persona (1966)",
+            "1. Ready Player One\n2. Intolerable Cruelty\n3. Nightcrawler\n4. Ex Machina\n5. The Big Lebowski\n6. Children of Men\n7. Fargo\n8. The Departed\n9. Reservoir Dogs\n10. Stranger than Fiction",
+            "1. Prisoners of the Ghostland (2021)\n2. King Richard (2021)\n3. The Last Duel (2021)\n4. Dune (2021)\n5. House of Gucci (2021)\n6. The Power of the Dog (2021)\n7. Belfast (2021)\n8. Nightmare Alley (2021)\n9. The Tragedy of Macbeth (2021)\n10. Licorice Pizza (2021)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Steel (2011)\n3. Big Lebowski, The (1998)\n4. Face/Off (1997)\n5. Brewster's Millions (1985)\n6. King Kong (2005)\n7. Real Genius (1985)\n8. Nightcrawler (2014)\n9. Eragon (2006)\n10. Grapes of Wrath, The (1940)",
+            "1. The Last Supper (1995)\n2. Corporation, The (2003)\n3. Control (2007)\n4. A.I. Artificial Intelligence (2001)\n5. Alita: Battle Angel (2019)\n6. 50 First Dates (2004)\n7. Gremlins 2: The New Batch (1990)\n8. Robot & Frank (2012)\n9. Bruce Almighty (2003)\n10. Lost in Translation (2003)",
+            "Tomb Raider (2018)\nLaura (1944)\nThe Piano (1993)\nThe Last Action Hero (1993)\nSaving Private Ryan (1998)\nDarkman (1990)\nRoboCop 2 (1990)\nTerminator 2: Judgment Day (1991)\nThe Dark Knight (2008)\nThe Bourne Ultimatum (2007)",
+            "1. October Sky \n2. Baby Mama  \n3. The Conjuring \n4. Teenage Mutant Ninja Turtles \n5. Fantastic Four \n6. Logan \n7. American Assassin \n8. Blade Runner 2049  \n9. The Lost City of Z \n10. The Disaster Artist",
+            "- The Naked Gun: From the Files of Police Squad! (1988)\n- Meet John Doe (1941)\n- The Big Lebowski (1998)\n- Departed, The (2006)\n- Lost in Translation (2003)\n- What's Up, Doc? (1972)\n- Brewster's Millions (1985)\n- Intolerable Cruelty (2003)\n- Stranger than Fiction (2006)\n- Control (2007)",
+            "1. Tomb Raider (2018) \\n\n2. Bad Education (La mala educaci\u00f3n) (2004) \\n\n3. Cloverfield (2008) \\n\n4. Gremlins 2: The New Batch (1990) \\n\n5. Angst (1983) \\n\n6. Darkman (1990) \\n\n7. Nightcrawler (2014) \\n\n8. Enter the Void (2009) \\n\n9. Trapped (2002) \\n\n10. Circus of Horrors (1960) \\n"
+        ]
+    }
+}

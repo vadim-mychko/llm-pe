@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Is the movie taking place in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about someone with a disease or disability?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the film industry?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film adaptation of a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in the 19th century?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is based on a novel or book that has been adapted into a film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that is a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a female protagonist?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a strong female character?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a woman in the 19th century whose strength is tested?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. Terminator 3: Rise of the Machines (2003)\n5. King Kong (2005)\n6. Ant-Man (2015)\n7. The Big Red One (1980)\n8. Abraham Lincoln: Vampire Hunter (2012)\n9. Real Steel (2011)\n10. Delicatessen (1991)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Naked Gun: From the Files of Police Squad! (1988)\n4. Last Action Hero (1993)\n5. The Man from Earth (2007)\n6. The Secret of Kells (2009)\n7. Searching (2018)\n8. The Thomas Crown Affair (1968)\n9. The Big Red One (1980)\n10. Stranger than Fiction (2006)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. The Big Red One (1980)\n4. The Dark Crystal (1982)\n5. Real Steel (2011)\n6. The Terminator (1984)\n7. The Thing (1982)\n8. Alien (1979)\n9. Blade Runner (1982)\n10. Predator (1987)",
+            "1. **The Last Song of Manuel Sendero** (2018) - A film adaptation of the novel of the same name by Jos\u00e9 Saramago, which tells the story of a blind musician who travels through Spain with his young daughter.\n2. **The Professor and the Madman** (2019) - A film adaptation of the book of the same name by Simon Winchester, which tells the story of the creation of the Oxford English Dictionary.\n3. **The Goldfinch** (2019) - A film adaptation of the novel of the same name by Donna Tartt, which tells the story of a young man who becomes obsessed with a painting after his mother is killed in a terrorist attack.\n4. **The Nightingale** (2018) - A film adaptation of the novel of the same name by Kristin Hannah, which tells the story of two sisters who are separated during the French Revolution.\n5. **The Hate U Give** (2018) - A film adaptation of the young adult novel of the same name by Angie Thomas, which tells the story of a 16-year-old girl who witnesses the fatal shooting of her unarmed friend by a police officer.\n6. **The Woman in the Window** (2021) - A film adaptation of the novel of the same name by A.J. Finn, which tells the story of an agoraphobic woman who witnesses a crime from her window.\n7. **The Power of the Dog** (2021) - A film adaptation of the novel of the same name by Thomas Savage, which tells the story of a wealthy rancher who becomes obsessed with his new brother-in-law.\n8. **Dune** (2021) - A film adaptation of the novel of the same name by Frank Herbert, which tells the story of a young man who must travel to a dangerous planet to fulfill his destiny.\n9. **The Eyes of Tammy Faye** (2021) - A film adaptation of the documentary of the same name, which tells the story of Tammy Faye Bakker, a televangelist who was known for her flamboyant style and her support of LGBTQ rights.\n10. **Belfast** (2021) - A film adaptation of the novel of the same name by Kenneth Branagh, which tells the story of a young boy growing up in Belfast during the Troubles.",
+            "1. Laura (1944)\n2. Pitch Perfect (2012)\n3. The Piano (1993)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Dangerous Liaisons (1988)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Moby Dick (1956)\n8. Jane Eyre (1996)\n9. Umberto D. (1952)\n10. Black Robe (1991)",
+            "1. The Grapes of Wrath (1940)\n2. Jane Eyre (1996)\n3. The Piano (1993)\n4. Dangerous Liaisons (1988)\n5. Les Mis\u00e9rables (1998)\n6. Moby Dick (1956)\n7. The Hurricane (1999)\n8. The Thomas Crown Affair (1968)\n9. Mr. Holmes (2015)\n10. The Last Supper (1995)",
+            "1. Lost in Translation (2003) \n2. The Grapes of Wrath (1940) \n3. Jane Eyre (1996) \n4. The Piano (1993) \n5. Autumn Sonata (H\u00f6stsonaten) (1978) \n6. Dangerous Liaisons (1988) \n7. Mis\u00e9rables, Les (1998) \n8. Moby Dick (1956) \n9. Von Ryan's Express (1965) \n10. Thomas Crown Affair, The (1968)\n",
+            "1. Piano, The (1993)\n2. Jane Eyre (1996)\n3. Grapes of Wrath, The (1940)\n4. Secrets of Kells, The (2009)\n5. Moby Dick (1956)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Beautiful Girls (1996)\n8. Delicatessen (1991)\n9. Chungking Express (Chung Hing sam lam) (1994)\n10. Adaptation (2002)",
+            "1. The Piano (1993)\n2. Jane Eyre (1996)\n3. Laura (1944)\n4. Autumn Sonata (H\u00f6stsonaten) (1978)\n5. Dangerous Liaisons (1988)\n6. Mis\u00e9rables, Les (1998)\n7. Grapes of Wrath, The (1940)\n8. Moby Dick (1956)\n9. Thomas Crown Affair, The (1968)\n10. Little Women (1994)",
+            "1. The Piano (1993) \n2. Laura (1944) \n3. Jane Eyre (1996) \n4. Moby Dick (1956) \n5. Autumn Sonata (H\u00f6stsonaten) (1978) \n6. Grapes of Wrath, The (1940) \n7. Homeward Bound: The Incredible Journey (1993) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Dangerous Liaisons (1988) \n10. The Portrait of a Lady (1996)\n"
+        ]
+    }
+}

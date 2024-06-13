@@ -1,0 +1,58 @@
+{
+    "62": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in an action movie with a man who can't be stopped?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a scary movie about computers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a childrens movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a movie about animals going on an adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about friendship?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie about a boy who becomes friends with a boy from a concentration camp?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for watching a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama movie about a dog going on an adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie that was made before the 1990's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie that is also a comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. August Rush (2007)\n7. Last Action Hero (1993)\n8. The Naked Gun: From the Files of Police Squad! (1988)\n9. Terminator 3: Rise of the Machines (2003)\n10. Meet John Doe (1941)",
+            "1. Lost in Translation (2003) \n2. Stranger than Fiction (2006) \n3. The Secret of Kells (2009) \n4. Pan's Labyrinth (El laberinto del fauno) (2006) \n5. Control (2007) \n6. The Man from Earth (2007) \n7. August Rush (2007) \n8. Before the Devil Knows You're Dead (2007) \n9. The Proposition (2005) \n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Tomb Raider (2018) \n4. Pirates of the Caribbean: At World's End (2007) \n5. August Rush (2007) \n6. The Blair Witch Project (1999) \n7. Madagascar (2005) \n8. Curious George (2006) \n9. Happy Feet (2006) \n10. Charlotte's Web (2006)\n",
+            "Monsters, Inc. (2001)\nAugust Rush (2007)\nThe Land Before Time (1988)\nHomeward Bound: The Incredible Journey (1993)\nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\nSecret of Kells, The (2009)\nHow High (2001)\nWe Bought a Zoo (2011)\nReal Steel (2011)\nRobot & Frank (2012)\n",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Homeward Bound: The Incredible Journey (1993)\n5. The Land Before Time (1988)\n6. Ant-Man (2015)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. American Graffiti (1973)\n10. Eragon (2006)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Homeward Bound: The Incredible Journey (1993) \n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n5. The Land Before Time (1988)\n6. Ant-Man (2015) \n7. Real Steel (2011)\n8. Robot & Frank (2012) \n9. How to Train Your Dragon (2010)\n10. My Neighbor Totoro (1988)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Homeward Bound: The Incredible Journey (1993)\n6. Real Steel (2011)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Robot & Frank (2012)\n10. The Grapes of Wrath (1940)",
+            "****\n Movie Title: Monsters, Inc. (2001) \\n Genres: Adventure, Animation, Children, Comedy, Fantasy \\n Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy\n****\n Movie Title: Laura (1944) \\n Genres: Crime, Film-Noir, Mystery \\n Tags: film noir, black and white, Vincent Price, murder, Oscar (Best Cinematography), murder mystery, noir, Dana Andrews, Gene Tierney, 1940s, Clifton Webb, adapted from:book, plot twist, romance, AFI 100 (Thrills), National Film Registry, Otto Preminger, author:Vera Caspary, famous theme song, investigation\n****\n Movie Title: August Rush (2007) \\n Genres: Drama, Musical \\n Tags: inspirational, power of music, music, love of music, thought-provoking, uplifting and compelling, unique, Freddie Highmore, Jonathan Rhys Meyers, Musical, KAF, Kaki King, Kirsten Sheridan, Robin Williams, builds up, children, different but very good, forbidden love, guitar, holes in the plot\n****\n Movie Title: August Rush (2007) \\n Genres: Drama, Musical \\n Tags: inspirational, power of music, music, love of music, thought-provoking, uplifting and compelling, unique, Freddie Highmore, Jonathan Rhys Meyers, Musical, KAF, Kaki King, Kirsten Sheridan, Robin Williams, builds up, children, different but very good, forbidden love, guitar, holes in the plot\n****\n Movie Title: Blair Witch Project, The (1999) \\n Genres: Drama, Horror, Thriller \\n Tags: low budget, creepy, scary, found footage, forest, atmospheric, original, Handycam, horror, suspense, mimics documentary-style, mockumentary, witch, boring, disturbing, \"found footage\", overrated, unsteady-cam, wilderness, Golden Raspberry (Worst Actress)\n****\n Movie Title: Martyrs (2008) \\n Genres: Horror \\n Tags: torture, disturbing, extremely violent, shocking, martyrdom, psychological, New French Extremity, bloody, ending, plot twist, horror, violent, lesbian subtext, unusual, atmospheric, probably hardest gore ever, revenge, New French Extremism, ambiguous ending, child abuse\n****\n Movie Title: Piano, The (1993) \\n Genres: Drama, Romance \\n Tags: atmospheric, New Zealand, beautiful, 19th century, adultery, Oscar (Best Actress), erotic, melancholy, sexuality, Holly Hunter, Oscar (Best Supporting Actress), great acting, intense, lyrical, Harvey Keitel, Jane Campion, Nudity (Full Frontal - Notable), good soundtrack, great soundtrack, stylized\n****\n Movie Title: Bernie (2011) \\n Genres: Comedy, Crime, Drama \\n Tags: black comedy, Richard Linklater, Jack Black, mockumentary, funeral home, true story, mathew mcconaughey, Gay Character, Texas, amateur theater, confession of crime, corpse in freezer, duringcreditsstinger, embezzlement, estranged family member, funeral director, hick, hidden corpse, jury trial, missing persons case\n****\n Movie Title: Naked Gun: From the Files of Police Squad!, The (1988) \\n Genres: Action, Comedy, Crime, Romance \\n Tags: parody, Leslie Nielsen, Funny as hell, slapstick, spoof, comedy, Leslie Neilsen, ZAZ, farce, fart jokes, police, David Zucker, hilarious, screwball, 1980s, BD-R, Betamax, CLV, Can't remember, Jim's list\n****\n Movie Title: Autumn Sonata (H\u00f6stsonaten) (1978) \\n Genres: Drama \\n Tags: bleak, Criterion, Ingmar Bergman, autumnal, deliberate, reflective, 100 Essential Female Performances, claustrophobic, pianist, siblings, sincerity, BD-R, CLV, New World Pictures, Tumey's DVDs, a list, caretaker, dvd, independent woman, invalid",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. One Hour Photo (2002)\n4. We Bought a Zoo (2011)\n5. Searching (2018)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Stranger than Fiction (2006)\n8. Real Steel (2011)\n9. Mr. Holmes (2015)\n10. Robot & Frank (2012)",
+            "1. August Rush (2007)\n2. A.I. Artificial Intelligence (2001)\n3. The Big Red One (1980)\n4. Breach (2007)\n5. Man from Earth, The (2007)\n6. Real Genius (1985)\n7. Real Steel (2011)\n8. Robot & Frank (2012)\n9. Searching (2018)\n10. Terminator 3: Rise of the Machines (2003)"
+        ]
+    }
+}

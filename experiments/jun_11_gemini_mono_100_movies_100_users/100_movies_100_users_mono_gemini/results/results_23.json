@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Do you like documentaries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about Artificial Intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies adapted from books?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a drama or a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you thinking of watching a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with religion as a major theme?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. Spider-Man: Homecoming (2017)\n5. The Greatest Showman (2017)\n6. Jumanji: Welcome to the Jungle (2017)\n7. Coco (2017)\n8. Wonder Woman (2017)\n9. Thor: Ragnarok (2017)\n10. Guardians of the Galaxy Vol. 2 (2017)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Tomb Raider (2018) \n4. Pirates of the Caribbean: At World's End (2007) \n5. August Rush (2007) \n6. The Blair Witch Project (1999) \n7. Laura (1944) \n8. Santa Sangre (1989) \n9. The Naked Gun: From the Files of Police Squad!, The (1988) \n10. One Hour Photo (2002) \n",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007) \n4. Laura (1944) \n5. Tomb Raider (2018) \n6. Abraham Lincoln: Vampire Hunter (2012)\n7. August Rush (2007) \n8. Blair Witch Project, The (1999) \n9. Santa Sangre (1989) \n10. The Proposition (2005)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Last Action Hero (1993)\n3. Dracula (Bram Stoker's Dracula) (1992)\n4. Cars (2006)\n5. No Man's Land (2001)\n6. Clash of the Titans (1981)\n7. The Land Before Time (1988)\n8. Les Mis\u00e9rables (1998)\n9. The Dark Crystal (1982)\n10. Spirited Away (2001)",
+            "1. Drugstore Cowboy (1989)  \n2. Secret of Kells, The (2009)  \n3. Europa (Zentropa) (1991)  \n4. Darkman (1990)  \n5. The Big Lebowski (1998)  \n6. American Graffiti (1973)  \n7. Cronos (1993)  \n8. Black Robe (1991)  \n9. Delicatessen (1991)  \n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)  ",
+            "1. The Proposition (2005)\n2. Drugstore Cowboy (1989)\n3. Crimes and Misdemeanors (1989)\n4. Maybe (2002)\n5. Darkman (1990)\n6. Delicatessen (1991)\n7. Last Supper, The (1995) \n8. Bruce Almighty (2003) \n9. Lost in Translation (2003)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. What's Up, Doc? (1972)\n2. Big Red One, The (1980)\n3. Grapes of Wrath, The (1940)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. Stranger than Fiction (2006)\n7. American Graffiti (1973)\n8. The Last Supper (1995)\n9. Brewster's Millions (1985)\n10. Real Genius (1985)",
+            "1. Bruce Almighty (2003)\n2. The Apostle (1997)\n3. Dogma (1999)\n4. O Brother, Where Art Thou? (2000)\n5. The Prince of Egypt (1998)\n6. The Passion of the Christ (2004)\n7. Ben-Hur (1959)\n8. The Ten Commandments (1956)\n9. Jesus Christ Superstar (1973)\n10. The Life of Brian (1979)",
+            "1. The Proposition (2005)\n2. Man from Earth, The (2007)\n3. Crimes and Misdemeanors (1989)\n4. Meet John Doe (1941)\n5. The Hurricane (1999)\n6. The Departed (2006)\n7. Bruce Almighty (2003)\n8. The Grapes of Wrath (1940)\n9. Umberto D. (1952)\n10. Black Robe (1991)",
+            "1. Bruce Almighty (2003) \n2. Thomas Crown Affair, The (1968) \n3. Jesus Christ Superstar (1973) \n4. Ben-Hur (1959) \n5. Prince of Egypt, The (1998) \n6. Exodus: Gods and Kings (2014) \n7. Noah (2014) \n8. De-Lovely (2004) \n9. Meet John Doe (1941) \n10. Alice in Wonderland (1951)"
+        ]
+    }
+}

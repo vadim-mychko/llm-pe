@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie from the 80s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with elements of science fiction?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that has to do with computers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sci-fi movie about a future where robots are household objects?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a film that follows a young boy in the future finding a robot in the woods?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a robot movie with lots of action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that depicts what it might be like to live in a future where people have android companions?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the future of technology?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. August Rush (2007)\n5. Terminator 3: Rise of the Machines (2003)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. The Big Red One (1980)\n8. Nightcrawler (2014)\n9. Trapped (2002)\n10. Mr. Holmes (2015)\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. Last Temptation of Christ, The (1988)\n3. Man from Earth, The (2007)\n4. Metropolis (2001)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ant-Man (2015)\n7. Timeline (2003)\n8. Ready Player One \n9. Robot & Frank (2012)\n10. Real Steel (2011)",
+            "1. The Matrix (1999)\n2. The Terminator (1984)\n3. Blade Runner (1982)\n4. Alien (1979)\n5. Star Wars: A New Hope (1977)\n6. Close Encounters of the Third Kind (1977)\n7. 2001: A Space Odyssey (1968)\n8. Metropolis (1927)\n9. The Cabinet of Dr. Caligari (1920)\n10. Nosferatu (1922)",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. The Matrix (1999) \\n\n3. Blade Runner (1982) \\n\n4. 2001: A Space Odyssey (1968) \\n\n5. Terminator 2: Judgment Day (1991) \\n\n6. Alien (1979) \\n\n7. Star Wars: Episode IV - A New Hope (1977) \\n\n8. The Terminator (1984) \\n\n9. Back to the Future (1985) \\n\n10. RoboCop (1987) \\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. Blade Runner 2049 (2017)\n3. The Terminator (1984)\n4. Ex Machina (2014)\n5. Her (2013)\n6. I, Robot (2004)\n7. Moon (2009)\n8. Minority Report (2002)\n9. The Matrix (1999)\n10. Robot & Frank (2012)",
+            "A.I. Artificial Intelligence (2001) \nReal Steel (2011) \nRobot & Frank (2012) \nMetropolis (2001) \nAnt-Man (2015) \nTerminator 3: Rise of the Machines (2003) \nI, Robot (2004) \nBlade Runner (1982) \nRoboCop (1987) \nEx Machina (2014)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Metropolis (2001) \n4. Terminator 3: Rise of the Machines (2003) \n5. Real Steel (2011) \n6. The Man from Earth (2007) \n7. Robot & Frank (2012) \n8. Timeline (2003) \n9. Ready Player One \n10. Matrix, The (1999)\n",
+            "1. I Am Mother (2019)\n2. Blade Runner (1982)\n3. Blade Runner 2049 (2017)\n4. Chappie (2015)\n5. Ex Machina (2014)\n6. Interstellar (2014)\n7. Moon (2009)\n8. Mr. Nobody (2009)\n9. Oblivion (2013)\n10. 2001: A Space Odyssey (1968)",
+            "1. A.I. Artificial Intelligence (2001)\n2. I, Robot (2004)\n3. Real Steel (2011)\n4. Terminator 3: Rise of the Machines (2003)\n5. Robot & Frank (2012)\n6. Bicentennial Man (1999)\n7. Ex Machina (2014)\n8. Chappie (2015)\n9. Transcendence (2014)\n10. Automata (2014)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \n3. Ant-Man (2015) \n4. The Terminator (1984) \n5. Metropolis (2001) \n6. Matrix, The (1999) \n7. Ghost in the Shell (1995) \n8. Blade Runner (1982) \n9. District 9 (2009) \n10. Avatar (2009)"
+        ]
+    }
+}

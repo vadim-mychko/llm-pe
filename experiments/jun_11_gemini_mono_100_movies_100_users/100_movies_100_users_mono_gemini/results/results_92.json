@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that takes place on a ship at sea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a family movie about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a film with a science fiction theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about dogs?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a dog that is based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a dog that is set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a dog during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to watch a movie about a dog that is set during a different historical time period?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a dog that is set in the 18th century?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. The Piano (1993)\n6. Man on Fire (2004)\n7. The Secret of Kells (2009)\n8. Love Me If You Dare (Jeux d'enfants) (2003)\n9. The Sure Thing (1985)\n10. What's Up, Doc? (1972)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. The Proposition (2005)\n6. The Land Before Time (1988)\n7. Alita: Battle Angel (2019)\n8. Searching (2018)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Homeward Bound: The Incredible Journey (1993)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Titanic (1997)\n3. Life of Pi (2012)\n4. Cast Away (2000)\n5. The Perfect Storm (2000)\n6. Adrift (2018)\n7. Dunkirk (2017)\n8. Greyhound (2020)\n9. Master and Commander: The Far Side of the World (2003)\n10. In the Heart of the Sea (2015)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. American Graffiti (1973)\n3. Homeward Bound: The Incredible Journey (1993)\n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n5. The Land Before Time (1988)\n6. Marley & Me (2008)\n7. Turner & Hooch (1989)\n8. Eight Below (2006)\n9. White Fang (1991)\n10. Because of Winn-Dixie (2005)\n",
+            "1. Hachiko: A Dog's Story (2009) \n2. Homeward Bound: The Incredible Journey (1993) \n3. My Life as a Dog (Mitt liv som hund) (1985) \n4. Where the Red Fern Grows (1974) \n5. 101 Dalmatians (1996) \n6. Old Yeller (1957) \n7. The Shaggy Dog (1959) \n8. Turner & Hooch (1989) \n9. K-9 (1989) \n10. The Littlest Hobo (1958)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Homeward Bound: The Incredible Journey (1993)\n3. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n4. Grapes of Wrath, The (1940)\n5. Jane Eyre (1996)\n6. Mr. Holmes (2015)\n7. Robot & Frank (2012)\n8. Terminator 3: Rise of the Machines (2003)\n9. The Land Before Time (1988)\n10. Europa (Zentropa) (1991)",
+            "1. Lassie Come Home (1943)\n2. Old Yeller (1957)\n3. Hachiko: A Dog's Story (2009)\n4. The Adventures of Milo and Otis (1986)\n5. Homeward Bound: The Incredible Journey (1993)\n6. The Call of the Wild (1935)\n7. Benji (1974)\n8. Sounder (1972)\n9. Where the Red Fern Grows (1974)\n10. My Dog Skip (2000)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Homeward Bound: The Incredible Journey (1993) \n3. What's Up, Doc? (1972) \n4. Citizen Kane (1941) \n5. The Last Picture Show (1971) \n6. Amadeus (1984) \n7. American Graffiti (1973) \n8. Barry Lyndon (1975) \n9. E.T. the Extra-Terrestrial (1982) \n10. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+            " ****\n Movie Title: Homeward Bound: The Incredible Journey (1993) \n Genres: Adventure, Children, Drama \n Tags: family, adventure, nostalgic, animals, feel-good, talking animals, dogs, Michael J. Fox, heartwarming, journey, loyalty, nature, Courage, Duwayne Dunham, Forest, HBO, Journey, Mountain, Seen 2019, animal movie\n****\n Movie Title: Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n Genres: Drama \n Tags: dogs, Loyalty, based on a true story, Richard Gere, touching, simple plot, remake, tearjerker, dog, loyalty, not enough dramatic, real story, sad, family dog, grief, loyal_friend, overrated, 03/10, 08/10, Hachiko\n****\n Movie Title: Lassie Come Home (1943) \n Genres: Adventure, Children, Drama \n Tags: dogs, adventure, heartwarming, classic, juvenile fiction, childhood, nature, Prequel, coming of age, Don Chaffey, heartwarming classic, animal hero, based on a book, famous theme song, full of heart, maternal, uplift, wonderful\n****\n Movie Title: Sounder (1972) \n Genres: Drama \n Tags: dogs, racism, based on a book, touching, poverty, racism, sharecropper, violence, family, friendship, heartwarming, honest, powerful, Samuel L. Jackson, African-American, Childhood, good, kids movie\n****\n Movie Title: Black Beauty (1994) \n Genres: Adventure, Drama \n Tags: animals, adventure, book, british, old, Based on Classic Book, great soundtrack, historic, amazingly beautiful horse, animal, countryside, epic, friendship, horse lovers, journey, nature, old fashioned, truimph, veterinarians, animal movie\n****\n Movie Title: The Yearling (1946) \n Genres: Adventure, Drama, Western \n Tags: animals, nature, dogs, powerful, coming-of-age, moving, powerful performance, forbidden love, hunting dogs, human nature, liar, manipulative, mutual desire for love, orphan, revenge, sad but beautiful, animal movie\n****\n Movie Title: Where the Red Fern Grows (1974) \n Genres: Adventure, Children, Drama \n Tags: dogs, dog, touching, coming of age, hound dogs, based on a book, classic, Author: Wilson Rawls, Buddy Foster, coming-of-age story, Dogs, journey, friendship, hunting, hunting dogs, loss, mourning, relationship between boys  and hunting dogs\n****\n Movie Title: Turner and Hooch (1989) \n Genres: Action, Comedy, Crime \n Tags: dog, crime, comedy, Tom Hanks, buddy cop, 80s, action comedy, dead cop, drugs, great buddy relationship, humorous, Kevin Costner, police, quirky, seen more than once, themes\n****\n Movie Title: Benji (1974) \n Genres: Adventure, Children, Comedy, Drama \n Tags: dog, feel-good, adventure, kidnapped, feel good, Joe Camp, PG-rated, Billy Curtis, Bruce Kimmel, dogs, kidnapping, children, christmas, family, friendship, homeless, looking-for-home, lost child\n****\n Movie Title: Old Yeller (1957) \n Genres: Adventure, Children, Drama, Western \n Tags: dogs, family, friendship, coming of age, classic, touching, boys, childhood, hunting, loss, nature, nostalgic, old fashioned, coming-of-age story, deep, enriching, powerful\n****",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Homeward Bound: The Incredible Journey (1993) \n3. Big Red One, The (1980) \n4. Grapes of Wrath, The (1940) \n5. Black Robe (1991) \n6. Ulysses' Gaze (To vlemma tou Odyssea) (1995) \n7. The Constant Gardener (2005) \n8. A River Runs Through It (1992) \n9. Django Unchained (2012) \n10. The Tree of Life (2011)"
+        ]
+    }
+}

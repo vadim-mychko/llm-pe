@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Do you want to watch an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in crime thrillers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a comedy about teenagers or college students?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that deal with religion and spirituality?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie based on a book or novel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about or starring animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a film with a lot of action?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. American Graffiti (1973)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Last Action Hero (1993)\n4. Cocoon (1985)\n5. The Proposition (2005)\n6. Secret of Kells, The (2009)\n7. Lost in Translation (2003)\n8. What's Up, Doc? (1972)\n9. Bruce Almighty (2003)\n10. Real Genius (1985)",
+            "1. Big Red One, The (1980) \n2. Von Ryan's Express (1965) \n3. Timeline (2003) \n4. Enter the Void (2009) \n5. Runaway Train (1985) \n6. Tomb Raider (2018) \n7. Sure Thing, The (1985) \n8. Trapped (2002) \n9. Brewster's Millions (1985) \n10. Real Genius (1985)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Drugstore Cowboy (1989) \n3. Man on Fire (2004) \n4. Enter the Void (2009) \n5. Nightcrawler (2014) \n6. Stranger than Fiction (2006) \n7. The Big Lebowski (1998) \n8. American Graffiti (1973) \n9. Bruce Almighty (2003) \n10. Cronos (1993)\n",
+            "1. The Last Temptation of Christ (1988)\n2. The Man from Earth (2007)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. Thomas Crown Affair, The (1968)\n5. Control (2007)\n6. Stranger than Fiction (2006)\n7. Mr. Holmes (2015)\n8. Jane Eyre (1996)\n9. Lost in Translation (2003)\n10. Umberto D. (1952)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Tomb Raider (2018)\n3. Laura (1944)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Proposition, The (2005)\n6. Martyrs (2008)\n7. Breach (2007)\n8. Sure Thing, The (1985)\n9. Face/Off (1997)\n10. Delicatessen (1991)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ant-Man (2015) \n3. Starship Troopers (1997) \n4. Ready Player One \n5. Alita: Battle Angel (2019) \n6. King Kong (2005) \n7. The Big Red One (1980) \n8. American Graffiti (1973) \n9. The Big Lebowski (1998) \n10. Real Genius (1985)",
+            "1. The Proposition (2005)\n2. Crimes and Misdemeanors (1989)\n3. Alita: Battle Angel (2019)\n4. Gremlins 2: The New Batch (1990)\n5. The Sure Thing (1985)\n6. Dangerous Liaisons (1988)\n7. Europa (Zentropa) (1991)\n8. Darkman (1990)\n9. Timeline (2003)\n10. Ready Player One (2018)",
+            "1. Laura (1944)\n2. Terms of Endearment (1983)\n3. What's Up, Doc? (1972)\n4. The Sure Thing (1985)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Von Ryan's Express (1965)\n8. The Big Red One (1980)\n9. Umberto D. (1952)\n10. Grapes of Wrath, The (1940)",
+            "1. Shutter Island (2010) \n2. Matchstick Men (2003) \n3. Argo (2012) \n4. The Departed (2006) \n5. Donnie Brasco (1997) \n6. Silver Linings Playbook (2012) \n7. No Country for Old Men (2007) \n8. The Social Network (2010) \n9. American Beauty (1999) \n10. Pulp Fiction (1994)",
+            "1. What's Up, Doc? (1972) \n2. Big Lebowski, The (1998)\n3. Real Genius (1985)\n4. Intolerable Cruelty (2003) \n5. A.I. Artificial Intelligence (2001) \n6. Control (2007) \n7. Terminator 3: Rise of the Machines (2003) \n8. Last Action Hero (1993) \n9. Face/Off (1997) \n10. King Kong (2005) "
+        ]
+    }
+}

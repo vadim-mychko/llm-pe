@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a family movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a sci-fi film?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see a modern movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you feel like watching a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy from the last ten years?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about a comedy that is not family friendly?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a screwball comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy with a romantic subplot?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Laura (1944) \n3. August Rush (2007) \n4. Piano, The (1993) \n5. Proposition, The (2005) \n6. Naked Gun: From the Files of Police Squad!, The (1988) \n7. One Hour Photo (2002) \n8. Dracula (Bram Stoker's Dracula) (1992) \n9. All Quiet on the Western Front (1930) \n10. Terminator 3: Rise of the Machines (2003) \n11. What's Up, Doc? (1972) \n12. Thomas Crown Affair, The (1968) \n13. Big Red One, The (1980) \n14. Nightcrawler (2014) \n15. Strangers than Fiction (2006) \n16. The Big Lebowski (1998) \n17. Brewster's Millions (1985) \n18. Face/Off (1997) \n19. Bruce Almighty (2003) \n20. Grapes of Wrath, The (1940)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. Ready Player One (2018)\n5. A.I. Artificial Intelligence (2001)\n6. Timeline (2003)\n7. Real Steel (2011)\n8. Robot & Frank (2012)\n9. Bruce Almighty (2003)\n10. King Kong (2005)",
+            "1. Children of Men (2006) \n2. Blade Runner 2049 (2017) \n3. Miami Vice (2006) \n4. Inception (2010) \n5. Arrival (2016) \n6. Ex Machina (2014) \n7. Sicario (2015) \n8. Prisoners (2013) \n9. The Martian (2015) \n10. Mad Max: Fury Road (2015)",
+            "1. Brazil (1985) \n2. Children of Men (2006) \n3. Blade Runner (1982) \n4. Gattaca (1997) \n5. The Matrix (1999) \n6. Minority Report (2002) \n7. Her (2013) \n8. Ex Machina (2014) \n9. Arrival (2016) \n10. Annihilation (2018)",
+            "1. Brewster's Millions (1985)\n2. Stranger than Fiction (2006)\n3. Delicatessen (1991)\n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n5. Ladyhawke (1985)\n6. Movie 43 (2013)\n7. The Princess Bride (1987)\n8. About Time (2013)\n9. Moonrise Kingdom (2012)\n10. Monty Python and the Holy Grail (1975)",
+            "1. Airplane! (1980) \n2. The Big Lebowski (1998)\n3. What's Up, Doc? (1972)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. American Graffiti (1973)\n7. Intolerable Cruelty (2003)\n8. Delicatessen (1991)\n9. Face/Off (1997)\n10. Bruce Almighty (2003)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988) \n2. UHF (1989) \n3. What's Up, Doc? (1972) \n4. Brewster's Millions (1985) \n5. Real Genius (1985) \n6. Intolerable Cruelty (2003) \n7. Delicatessen (1991) \n8. The Big Lebowski (1998) \n9. American Graffiti (1973) \n10. Bruce Almighty (2003)\n",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988)\n2. What's Up, Doc? (1972)\n3. The Big Lebowski (1998)\n4. Intolerable Cruelty (2003)\n5. Meet John Doe (1941)\n6. Stranger than Fiction (2006)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Delicatessen (1991)",
+            "1. What's Up, Doc? (1972)\n2. Intolerable Cruelty (2003)\n3. Brewster's Millions (1985)\n4. The Big Lebowski (1998)\n5. Stranger than Fiction (2006)\n6. American Graffiti (1973)\n7. Delicatessen (1991)\n8. Real Genius (1985)\n9. UHF (1989)\n10. What's Up, Doc? (1972)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988) \n2. What's Up, Doc? (1972) \n3. The Big Lebowski, The (1998) \n4. American Graffiti (1973) \n5. Brewster's Millions (1985) \n6. Real Genius (1985) \n7. Intolerable Cruelty (2003) \n8. Bruce Almighty (2003) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Robot & Frank (2012)"
+        ]
+    }
+}

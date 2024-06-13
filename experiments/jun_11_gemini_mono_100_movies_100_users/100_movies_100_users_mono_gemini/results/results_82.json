@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Is the movie in color?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a male lead?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a modern comedy?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy with a male lead that takes place in the present?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy with a female lead?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007)\n5. The Blair Witch Project (1999)\n6. August Rush (2007)\n7. The Naked Gun: From the Files of Police Squad!, The (1988)\n8. Last Action Hero (1993)\n9. One Hour Photo (2002)\n10. Dracula (Bram Stoker's Dracula) (1992)\n'''",
+            "1. Monsters, Inc. (2001)\n2. Secret of Kells, The (2009)\n3. Searching (2018)\n4. Meet John Doe (1941)\n5. What's Up, Doc? (1972)\n6. Von Ryan's Express (1965)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Bruce Almighty (2003)\n10. Lost in Translation (2003)",
+            "Tomb Raider (2018) \\n\nSarah Sangre (1989) \\n\nThe Piano (1993) \\n\nTerms of Endearment (1983) \\n\nThe Naked Gun: From the Files of Police Squad (1988) \\n\nDracula (Bram Stoker's Dracula) (1992) \\n\nBefore the Devil Knows You're Dead (2007) \\n\nUHF (1989) \\n\nThe Sure Thing (1985) \\n\nWhat's Up, Doc? (1973)\n",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Rush (2013)\n3. Terms of Endearment (1983)\n4. Man on Fire (2004)\n5. The Departed (2006)\n6. Nightcrawler (2014)\n7. The Big Lebowski (1998)\n8. American Graffiti (1973)\n9. Bruce Almighty (2003)\n10. Umberto D. (1952)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. Robots (2005)\n4. Big Hero 6 (2014)\n5. Wall-E (2008)\n6. Astro Boy (2009)\n7. Real Steel (2011)\n8. Transformers: Dark of the Moon (2011)\n9. Pacific Rim (2013)\n10. Chappie (2015)",
+            "1. Face/Off (1997)\n2. Intolerable Cruelty (2003)\n3. Transporter 2 (2005)\n4. The Big Lebowski (1998)\n5. Real Genius (1985)\n6. What's Up, Doc? (1972)\n7. Brewster's Millions (1985)\n8. Nightcrawler (2014)\n9. Bruce Almighty (2003)\n10. How High (2001)\n",
+            "- What's Up, Doc? (1972)\n- Airplane! (1980)\n- The Big Lebowski (1998)\n- Intolerable Cruelty (2003)\n- Bruce Almighty (2003)\n- The 40-Year-Old Virgin (2005)\n- Talladega Nights: The Ballad of Ricky Bobby (2006)\n- Step Brothers (2008)\n- The Hangover (2009)\n- 21 Jump Street (2012)\n- 22 Jump Street (2014)",
+            "1. What's Up, Doc? (1972)\n2. American Graffiti (1973)\n3. The Big Lebowski (1998)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. The Sure Thing (1985)\n8. UHF (1989)\n9. Hot Fuzz (2007)\n10. Billy Madison (1995)",
+            "1. Lost in Translation (2003)\n2. Intolerable Cruelty (2003) \n3. The Big Lebowski (1998) \n4. Brewster's Millions (1985) \n5. Control (2007) \n6. Jack Black (2006) \n7. Stranger than Fiction (2006) \n8. Delicatessen (1991) \n9. Real Genius (1985) \n10. American Graffiti (1973) ",
+            "****\n Movie Title: How High (2001) \n Genres: Comedy \n Tags: drugs, Weed, college, marijuana, weed, Comedy Need to See, Harvard, Jesse Dylan, Jokes, baby powder, cannabis, canon, carpet, corpse in coffin, cult film, dean, dove, doves, drug deal, grave robbing\n****\n Movie Title: American Graffiti (1973) \n Genres: Comedy, Drama \n Tags: coming of age, George Lucas, rock and roll, friendship, teen, cars, 1960s, nocturnal, great soundtrack, AFI 100, Feel Good, california, classic, love, low budget, radio, wired 50 greatest soundtracks, 1950's, 20th Century, AFI #77\n****\n Movie Title: What's Up, Doc? (1972) \n Genres: Comedy \n Tags: Screwball Comedy, Madeline Kahn, Barbara Striesand, San Francisco, great chase scenes, Barbra Streisand, Peter Bogdanovich, espionage, heist, car chase, chase, hotel, related:Bringing Up Baby (1938), rocks, screwball comedy, subgenre:screwball, AFI 100 (Laughs), BD-R, Bibliothek, VHS\n****\n Movie Title: Office Space (1999) \n Genres: Comedy \n Tags: cult classic, Mike Judge, 90's, real life, software, Tgi fridays, Dilbert, Idiocracy, very few good laughs, nerds, good cast, boring, fire, humilliation, office job, office workers, PCs, terrible job, terrible workplace, workplace hell\n****\n Movie Title: The Big Lebowski (1998) \n Genres: Comedy, Crime \n Tags: dark comedy, cult film, great dialogue, black comedy, satirical, Coen Brothers, coen brothers, quirky, Jeff Bridges, comedy, bowling, off-beat comedy, Steve Buscemi, Philip Seymour Hoffman, drugs, John Goodman, Cult classic, great soundtrack, marijuana, sarcasm\n****\n Movie Title: Shaun of the Dead (2004) \n Genres: Comedy, Horror \n Tags: allegory, zombies, dark comedy, Edgar Wright, Simon Pegg, black comedy, cult film, british zombie romcom, cynical, british humor, British Zombies, cornetto trilogy, dead, geeks, horror, horror comedy, obvious, post-apocalypse, romantic comedy, satire, zom com, zombie apocalypse, zombie comedy\n****\n Movie Title: Parasite (\uae30\uc0dd\ucda9) (2019) \n Genres: Comedy, Drama, Thriller \n Tags: black comedy, capitalism, Korean, modern, class difference, Oscar (Best Picture), awards, best foreign language 2020, Bong Joon-ho, Bong Joonho, Cries and Laughs at the same time, family, inequality, infrastructure, inequality of income, oscar winner, Oscar 2020, original, poor people, rich people, satire, semi basement, social inequality, son kang-ho, stairwell\n****\n Movie Title: The Princess Bride (1987) \n Genres: Adventure, Comedy, Fantasy, Romance \n Tags: fantasy, classic, Rob Reiner, Cary Elwes, Mandy Patinkin, Robin Wright, fairy tale, adventure, romance, swashbuckler, Billy Crystal, swordplay, wheelchair, Andr\u00e9 the Giant, funny, magic, princess, satire, storytelling, true love, whimsical\n****\n Movie Title: Monthy Python and the Holy Grail (1975) \n Genres: Adventure, Comedy, Fantasy \n Tags: comedy, Monty Python, british, great, medieval, Black Comedy, Holy Grail, religious, english, funny, knights, slapstick, politically incorrect, abstract, arthouse, based on a book, british film, camelot, classic rock, comedy, comedy classic, convent, crudeness, dreamlike, english comedy, knights templar, legend, magic, nudity, quip, quotation, religious allegory, religious satire, religious symbolism, surreal, quote\n****\n Movie Title: Airplane! (1980) \n Genres: Comedy \n Tags: slapstick, Leslie Nielsen, Airplane, parody, comedy, Airplane 2: The Sequel, Zucker Brothers, Kareem Abdul-Jabbar, disaster film, 1970s, 70mm, BD-Video, Beverly Hills Cop, Bruce Davison, Classic, Comedy Classic, disaster movie, lampoon\n****\n Movie Title: Austin Powers: International Man of Mystery (1997) \n Genres: Comedy \n Tags: Mike Myers, comedy, 60s, costumes, superagent, Can't remember, parody, shagadelic, FEMBOT, Dr Evil, Michael York, spies, 70's, British comedy, Spy, groovy, shag, austin\n****\n Movie Title: Naked Gun: From the Files of Police Squad!, The (1988) \n Genres: Action, Comedy, Crime, Romance \n Tags: parody, Leslie Nielsen, Funny as hell, slapstick, spoof, comedy, Leslie Neilsen, ZAZ, farce, fart jokes, police, David Zucker, hilarious, screwball, 1980s, BD-R, Betamax, CLV, Can't remember, Jim's list"
+        ]
+    }
+}

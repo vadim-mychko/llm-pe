@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a 1980s movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie from before the 1960s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie from before the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018) \n2. The Corporation (2003) \n3. Ready Player One \n4. Real Steel (2011) \n5. Nightcrawler (2014) \n6. Stranger than Fiction (2006) \n7. Trapped (2002) \n8. Brewster's Millions (1985) \n9. The Real Genius (1985) \n10. Eragon (2006)\n'''",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Real Genius (1985)\n5. Brewster's Millions (1985)\n6. St. Elmo's Fire (1985)\n7. Cocoon (1985)\n8. Sure Thing, The (1985)\n9. Von Ryan's Express (1965)\n10. Big Red One, The (1980)\n",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Proposition (2005)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. Out of Sight (1998)\n7. Alita: Battle Angel (2019)\n8. The Sure Thing (1985)\n9. What's Up, Doc? (1972)\n10. The Corporation (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. War of the Worlds (2005)\n3. The Matrix (1999)\n4. Dunkirk (2017)\n5. Captain Phillips (2013)\n6. Hidden Figures (2016)\n7. Sully (2016)\n8. A Beautiful Day in the Neighborhood (2019)\n9. The Social Network (2010)\n10. Apollo 13 (1995)",
+            "1. Cabin Fever (2002) \n2. Blade (1998)  \n3. Mission: Impossible (1996) \n4. Fight Club (1999)  \n5. Fantastic Four: Rise of the Silver Surfer (2007) \n6. Chronicle (2012) \n7. Birdman or (The Unexpected Virtue of Ignorance) (2014)  \n8. The Martian (2015)  \n9. John Wick (2014) \n10. Pacific Rim (2013)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. Umberto D. (1952)\n3. What's Up, Doc? (1972)\n4. August Rush (2007)\n5. Secret of Kells, The (2009)\n6. Terms of Endearment (1983)\n7. Love Me If You Dare (Jeux d'enfants) (2003)\n8. Blades of Glory (2007)\n9. Face/Off (1997)\n10. Last Temptation of Christ, The (1988)\n",
+            "1. Search\n2. Europa (Zentropa) (1991) \\n\n3. Terms of Endearment (1983) \\n\n4. Laura (1944) \\n\n5. Magnolia (1999) \\n\n6. Man from Earth, The (2007) \\n\n7. Control (2007) \\n\n8. Extraordinary Measures (2010) \\n\n9. Enter the Void (2009) \\n\n10. August Rush (2007) \\n",
+            "1. Departed, The (2006) \n2. Control (2007) \n3. Stranger than Fiction (2006) \n4. Nightcrawler (2014) \n5. Enter the Void (2009) \n6. Magnolia (1999) \n7. Searching (2018) \n8. The Hurricane (1999) \n9. Mr. Holmes (2015) \n10. Lost in Translation (2003) \n",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Searching (2018) \n3. Enter the Void (2009) \n4. Stranger than Fiction (2006) \n5. Departed, The (2006) \n6. Nightcrawler (2014) \n7. Robot & Frank (2012) \n8. Mr. Holmes (2015) \n9. Jane Eyre (1996) \n10. Lost in Translation (2003)\n",
+            "1. Before the Devil Knows You're Dead (2007) \n2. Magnolia (1999) \n3. Searching (2018) \n4. Departed, The (2006) \n5. Nightcrawler (2014) \n6. Stranger than Fiction (2006) \n7. Mr. Holmes (2015) \n8. Robot & Frank (2012) \n9. Grapes of Wrath, The (1940) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n"
+        ]
+    }
+}

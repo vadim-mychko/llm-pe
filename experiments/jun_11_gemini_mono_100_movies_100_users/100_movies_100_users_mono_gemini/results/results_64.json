@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie, a documentary, or a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in something from the 70's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a foreign film?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies that are visually appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fantasy film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a science fiction movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Proposition (2005)\n5. Terminator 3: Rise of the Machines (2003)\n6. The Big Lebowski (1998)\n7. Terminator 2: Judgment Day (1991)\n8. Face/Off (1997)\n9. American Graffiti (1973)\n10. Real Genius (1985)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. The Blair Witch Project (1999)\n4. Martyrs (2008)\n5. The Proposition (2005)\n6. The Lost World: Jurassic Park (1997)\n7. The Man from Earth (2007)\n8. Out of Sight (1998)\n9. The Mothman Prophecies (2002)\n10. The Darkman (1990)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Darkman (1990)\n3. The Big Red One (1980)\n4. Nightcrawler (2014)\n5. Trapped (2002)\n6. Face/Off (1997)\n7. Bruce Almighty (2003)\n8. Cronos (1993)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Eragon (2006)",
+            "1. Resident Evil (2002)\n2. Resident Evil: Apocalypse (2004)\n3. House of the Dead (2003)\n4. 28 Days Later (2002)\n5. Cabin Fever (2002)\n6. The Texas Chainsaw Massacre (1974)\n7. Hellraiser (1987)\n8. Event Horizon (1997)\n9. The Ring (2002)\n10. The Grudge (2004)",
+            "1. Last Temptation of Christ, The (1988) \n2. Metropolis (2001) \n3. The Secret of Kells (2009)\n4. Chungking Express (Chung Hing sam lam) (1994) \n5. Alita: Battle Angel (2019) \n6. Europa (Zentropa) (1991) \n7. Enter the Void (2009) \n8. Lost in Translation (2003) \n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n'''",
+            "1. Metropolis (2001)\n2. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n3. Ant-Man (2015)\n4. Ready Player One \n5. Mr. Holmes (2015)\n6. Lost in Translation (2003)\n7. Black Robe (1991)\n8. Lost in Translation (2003)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. King Kong (2005)\n",
+            "1. The Secret of Kells (2009)\n2. Metropolis (2001)\n3. Alita: Battle Angel (2019)\n4. Corporation, The (2003)\n5. Control (2007)\n6. Enter the Void (2009)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Robot & Frank (2012)\n10. Cronos (1993)",
+            "1. The Piano (1993)\n2. August Rush (2007)\n3. The Secret of Kells (2009)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. Alita: Battle Angel (2019)\n6. Europa (Zentropa) (1991)\n7. What's Up, Doc? (1972)\n8. Moby Dick (1956)\n9. Enter the Void (2009)\n10. Cronos (1993)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Piano (1993)\n3. The Proposition (2005)\n4. Last Action Hero (1993)\n5. Drugstore Cowboy (1989)\n6. The Secret of Kells (2009)\n7. The Mothman Prophecies (2002)\n8. Delicatessen (1991)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Tomb Raider (2018) \n2. Terminator 3: Rise of the Machines (2003) \n3. King Kong (2005) \n4. Clash of the Titans (1981) \n5. Eragon (2006) \n6. Ant-Man (2015) \n7. A.I. Artificial Intelligence (2001) \n8. The Big Red One (1980) \n9. Timeline (2003) \n10. The Last Supper (1995) \n11. Laura (1944) \n12. The Piano (1993) \n13. Love Me If You Dare (Jeux d'enfants) (2003) \n14. Strange than Fiction (2006) \n15. The Big Lebowski (1998)\n16. Robot & Frank (2012) \n17. Real Genius (1985) \n18. The Grapes of Wrath (1940) \n19. Tenacious D in The Pick of Destiny (2006) \n20. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) "
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie that has animals talking in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that show the dark side of human nature?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dramas with historical settings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a robot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in heist movies?",
+                "response": "no"
+            },
+            {
+                "query": "Is there a movie with a twist ending that you would like to watch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy with music and dancing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a black comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy with a dark or satirical sense of humor?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy that's also set in a historical setting?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Tomb Raider (2018) \n4. Pirates of the Caribbean: At World's End (2007) \n5. Laura (1944) \n6. Last Temptation of Christ, The (1988) \n7. Abraham Lincoln: Vampire Hunter (2012) \n8. Santa Sangre (1989) \n9. August Rush (2007) \n10. Blair Witch Project, The (1999) ",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Martyrs (2008)\n6. Piano, The (1993)\n7. Last Action Hero (1993)\n8. Drugstore Cowboy (1989)\n9. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n10. Lost in Translation (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Terminator 3: Rise of the Machines (2003)\n3. Transporter 2 (2005)\n4. Darkman (1990)\n5. Enter the Void (2009)\n6. Bruce Almighty (2003)\n7. Face/Off (1997)\n8. Cronos (1993)\n9. The Mothman Prophecies (2002)\n10. Trapped (2002)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. The Last Airbender (2010)\n4. The Secret of Moonacre (2008)\n5. Bridge to Terabithia (2007)\n6. The Spiderwick Chronicles (2008)\n7. Stardust (2007)\n8. Inkheart (2008)\n9. The Golden Compass (2007)\n10. Eragon (2006)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Tomb Raider (2018)\n4. August Rush (2007) \n5. The Blair Witch Project (1999) \n6. Drugstore Cowboy (1989) \n7. Out of Sight (1998) \n8. The Mothman Prophecies (2002) \n9. The Sure Thing (1985)\n10. Magnolia (1999) \n",
+            "1. Lost in Translation (2003)\n2. Magnolia (1999)\n3. Laura (1944)\n4. Cocoon (1985)\n5. Stranger than Fiction (2006)\n6. Control (2007)\n7. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n8. Intolerable Cruelty (2003)\n9. The Proposition (2005)\n10. What's Up, Doc? (1972)",
+            "1. What's Up, Doc? (1972)\n2. The Sure Thing (1985)\n3. UHF (1989)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. The Big Lebowski (1998)\n7. Intolerable Cruelty (2003)\n8. Bruce Almighty (2003)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Meet John Doe (1941)",
+            "The Big Lebowski, The (1998)\nIntolerable Cruelty (2003)\nDelicatessen (1991)\nThe Last Supper (1995)\nFace/Off (1997)\nReal Genius (1985)\nThe Grapes of Wrath (1940)\nBlack Robe (1991)\nTenacious D in The Pick of Destiny (2006)\nEragon (2006)",
+            "Stranger than Fiction (2006) \nDelicatessen (1991) \nIntolerable Cruelty (2003) \nBig Lebowski, The (1998) \nBurn After Reading (2008) \nThe Death of Stalin (2017) \nClue (1985) \nWhat We Do in the Shadows (2014) \nShaun of the Dead (2004) \nThe Lobster (2015) ",
+            "1. Inside Llewyn Davis (2013) \n2. Delicatessen (1991) \n3. The Big Lebowski (1998) \n4. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) \n5. Burn After Reading (2008) \n6. What We Do in the Shadows (2014) \n7. In Bruges (2008) \n8. The Death of Stalin (2017) \n9. Seven Psychopaths (2012) \n10. Fargo (1996)"
+        ]
+    }
+}

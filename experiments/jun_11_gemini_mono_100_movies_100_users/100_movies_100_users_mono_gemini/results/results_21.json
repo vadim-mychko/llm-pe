@@ -1,0 +1,58 @@
+{
+    "21": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie, adventure movie, or a drama?",
+                "response": "drama"
+            },
+            {
+                "query": "Are you interested in a drama with a sci-fi element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about memories?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama that's also a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama about war?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a war drama that's set during World War 1 or World War 2?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama that's also a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about the Vietnam war?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Last Temptation of Christ, The (1988)\n2. August Rush (2007)\n3. Piano, The (1993)\n4. Magnolia (1999)\n5. Searching (2018)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. The Hurricane (1999)\n8. Control (2007)\n9. Stranger than Fiction (2006)\n10. Grapes of Wrath, The (1940)\n",
+            "1. Crimes and Misdemeanors (1989)\n2. Europa (Zentropa) (1991)\n3. Magnolia (1999)\n4. Meet John Doe (1941)\n5. The Hurricane (1999)\n6. Control (2007)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Bruce Almighty (2003)\n10. Umberto D. (1952)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Meet John Doe (1941)\n4. American Graffiti (1973)\n5. The Big Lebowski (1998)\n6. Stranger than Fiction (2006)\n7. Control (2007)\n8. Bruce Almighty (2003)\n9. Nightcrawler (2014)\n10. The Departed (2006)",
+            "1. Grapes of Wrath, The (1940)\n2. Umberto D. (1952)\n3. Black Robe (1991)\n4. Control (2007)\n5. Big Red One, The (1980)\n6. Stranger than Fiction (2006)\n7. Departed, The (2006)\n8. Mr. Holmes (2015)\n9. Robot & Frank (2012)\n10. Bruce Almighty (2003)",
+            "1. August Rush (2007)\n2. Terms of Endearment (1983)\n3. Magnolia (1999)\n4. Searching (2018)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. The Departed (2006)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Grapes of Wrath, The (1940)\n10. Umberto D. (1952)",
+            "1. The Big Lebowski (1998)\n2. American Graffiti (1973)\n3. Grapes of Wrath, The (1940)\n4. Umberto D. (1952)\n5. Meet John Doe (1941)\n6. The Hurricane (1999)\n7. Bruce Almighty (2003)\n8. Nightcrawler (2014)\n9. Real Steel (2011)\n10. The Departed (2006)\n",
+            "1. All Quiet on the Western Front (1930)\n2. The Land Before Time (1988)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Black Robe (1991)\n5. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n6. Von Ryan's Express (1965)\n7. The Hurricane (1999)\n8. Big Red One, The (1980)\n9. The Grapes of Wrath (1940)\n10. Umberto D. (1952)",
+            "1. Black Robe (1991)\n2. Von Ryan's Express (1965)\n3. All Quiet on the Western Front (1930)\n4. The Big Red One (1980)\n5. Battle of the Bulge (1965)\n6. Khartoum (1966)\n7. The Bridge on the River Kwai (1957) \n8. Zulu (1964)\n9. The Guns of Navarone (1961)\n10. A Bridge Too Far (1977)",
+            "1. The Man from Earth (2007)\n2. The Big Red One (1980)\n3. Terminator 3: Rise of the Machines (2003)\n4. Von Ryan's Express (1965)\n5. Timeline (2003)\n6. Stranger than Fiction (2006)\n7. Trapped (2002)\n8. Mr. Holmes (2015)\n9. The Last Supper (1995)\n10. Black Robe (1991)",
+            "1. All Quiet on the Western Front (1930)\n2. Von Ryan's Express (1965)\n3. The Big Red One (1980)\n4. Black Robe (1991)\n5. Europa (Zentropa) (1991)\n6. The Departed (2006)\n7. The Hurricane (1999)\n8. No Man's Land (2001)\n9. Hurricane, The (1999)\n10. Out of Sight (1998)"
+        ]
+    }
+}

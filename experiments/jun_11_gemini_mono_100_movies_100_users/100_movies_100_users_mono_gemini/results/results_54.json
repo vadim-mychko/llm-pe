@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie set in the 1960's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie set in the 1940's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about war?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about corporations?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "are you looking for a movie related to music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a medical condition?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is a romance?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- Monsters, Inc. (2001)\n- Pirates of the Caribbean: At World's End (2007)\n- Last Temptation of Christ, The (1988)\n- Laura (1944)\n- Santa Sangre (1989)\n- August Rush (2007)\n- The Blair Witch Project (1999)\n- Martyrs (2008)\n- The Piano (1993)\n- Terms of Endearment (1983)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. August Rush (2007)\n5. The Proposition (2005)\n6. Terms of Endearment (1983)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Cocoon (1985)\n9. What's Up, Doc? (1972)\n10. The Thomas Crown Affair (1968)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Abraham Lincoln: Vampire Hunter (2012) \n4. Last Action Hero (1993) \n5. One Hour Photo (2002) \n6. Man on Fire (2004) \n7. St. Elmo's Fire (1985) \n8. No Man's Land (2001) \n9. Clash of the Titans (1981) \n10. The Big Red One (1980)",
+            "1. Thomas Crown Affair, The (1968)\n2. Brewster's Millions (1985)\n3. St. Elmo's Fire (1985)\n4. Sure Thing, The (1985)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. What's Up, Doc? (1972)\n8. American Graffiti (1973)\n9. The Big Lebowski (1998)\n10. Runner up: American Graffiti (1973)",
+            "1. Lost in Translation (2003) \n2. Burning Bush, The (2003) \n3. Terminator 3: Rise of the Machines (2003) \n4. Burning, The (2004) \n5. 50 First Dates (2004) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. Transporter 2 (2005) \n8. Proposition, The (2005) \n9. King Kong (2005) \n10. Breach (2007)",
+            "1. Time (2003) \\n\n2. Strangers than Fiction (2006) \\n\n3. The Big Lebowski (1998) \\n\n4. The Big Red One (1980) \\n\n5. Magnolia (1999) \\n\n6. Drugstore Cowboy (1989) \\n\n7. Chungking Express (Chung Hing sam lam) (1994) \\n\n8. Robot & Frank (2012) \\n\n9. Mr. Holmes (2015) \\n\n10. Bruce Almighty (2003) \\n",
+            "1. Tomb Raider (2018) \\n\n2. Pirates of the Caribbean: At World's End (2007) \\n\n3. Laura (1944) \\n\n4. Abraham Lincoln: Vampire Hunter (2012) \\n\n5. August Rush (2007) \\n\n6. The Naked Gun: From the Files of Police Squad! (1988) \\n\n7. Last Action Hero (1993) \\n\n8. One Hour Photo (2002) \\n\n9. Dracula (Bram Stoker's Dracula) (1992) \\n\n10. No Man's Land (2001)\n",
+            "The Hurricane (1999)\nUmberto D. (1952)\nBlack Robe (1991)\nJane Eyre (1996)\nAmerican Graffiti (1973)\nVon Ryan's Express (1965)\nGrapes of Wrath, The (1940)\nArsenic and Old Lace (1944)\nLaura (1944)\nThe Last Supper (1995)",
+            "1. The Piano (1993)\n2. Lost in Translation (2003)\n3. Strangers than Fiction (2006)\n4. A.I. Artificial Intelligence (2001)\n5. Thomas Crown Affair, The (1968)\n6. Sure Thing, The (1985)\n7. Remote Control (1988)\n8. Dangerous Liaisons (1988)\n9. Laura (1944)\n10. Runaway Train (1985)",
+            "1. The Last Supper, The (1995)\n2. King Kong (2005)\n3. The Grapes of Wrath (1940)\n4. Bruce Almighty (2003)\n5. Big Red One, The (1980)\n6. Cronos (1993)\n7. Cronos (1993)\n8. Jane Eyre (1996)\n9. The Proposition, The (2005)\n10. Thomas Crown Affair, The (1968)"
+        ]
+    }
+}

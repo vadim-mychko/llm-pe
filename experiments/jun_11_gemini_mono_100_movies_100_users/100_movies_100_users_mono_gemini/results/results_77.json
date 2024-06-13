@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for an animated or children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a drama or action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a slapstick comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy with a lot of action or physical gags?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for an action comedy, something like Jackie Chan's Rush Hour?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about a workplace?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about a group of friends?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. The Last Action Hero (1993)\n4. One Hour Photo (2002)\n5. Man on Fire (2004)\n6. Alita: Battle Angel (2019)\n7. Terminator 3: Rise of the Machines (2003)\n8. Ant-Man (2015)\n9. Meet John Doe (1941)\n10. Ready Player One",
+            "1. Prisoners (2013) \n2. The Dark Knight (2008) \n3. The Silence of the Lambs (1991) \n4. No Country for Old Men (2007) \n5. Se7en (1995) \n6. The Departed (2006) \n7. The Godfather (1972) \n8. The Godfather: Part II (1974) \n9. The Shawshank Redemption (1994) \n10. The Dark Knight Rises (2012)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Tomb Raider (2018) \n4. Runaway Train (1985)\n5. Laura (1944) \n6. The Last Temptation of Christ (1988)\n7. August Rush (2007) \n8. The Blair Witch Project (1999) \n9. Martyrs (2008)\n10. The Piano (1993) \n",
+            "1. Tomb Raider (2018) \\n\n2. Bad Education (La mala educaci\u00f3n) (2004) \\n\n3. Brotherhood of the Wolf (Le pacte des loups) (2001) \\n\n4. Terminator 3: Rise of the Machines (2003) \\n\n5. King Kong (2005) \\n\n6. Face/Off (1997) \\n\n7. Transporter 2 (2005) \\n\n8. Darkman (1990) \\n\n9. Intolerable Cruelty (2003) \\n\n10. The Big Red One (1980)\n",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988) \n2. Airplane! (1980) \n3. What's Up, Doc? (1972) \n4. American Graffiti (1973) \n5. Real Genius (1985) \n6. Brewster's Millions (1985) \n7. Face/Off (1997) \n8. Intolerable Cruelty (2003) \n9. What We Do in the Shadows (2014) \n10. Monty Python and the Holy Grail (1975)",
+            "1. Naked Gun: From the Files of Police Squad!, The (1988) \n2. What's Up, Doc? (1972) \n3. Sure Thing, The (1985) \n4. American Graffiti (1973) \n5. Real Genius (1985) \n6. Brewster's Millions (1985) \n7. Intolerable Cruelty (2003) \n8. UHF (1989) \n9. Strange than Fiction (2006) \n10. Face/Off (1997)",
+            "Naked Gun: From the Files of Police Squad!, The (1988)\nReal Steel (2011)\nBruce Almighty (2003)\nHot Shots! Part Deux (1993)\nThe Three Amigos (1986)\nThe Blues Brothers (1980)\nBaseketball (1998)\nDumb and Dumber (1994)\nZoolander (2001)\nAustin Powers in Goldmember (2002)\n",
+            "1. Naked Gun: From the Files of Police Squad!, The (1988)\n2. There's Something About Mary (1998)\n3. Austin Powers: International Man of Mystery (1997)\n4. Airplane! (1980)\n5. The Hangover (2009)\n6. Bridesmaids (2011)\n7. Superbad (2007)\n8. Monty Python and the Holy Grail (1975)\n9. Shaun of the Dead (2004)\n10. Hot Fuzz (2007)",
+            "1. What's Up, Doc? (1972)\n2. Airplane! (1980)\n3. The Naked Gun: From the Files of Police Squad! (1988)\n4. UHF (1989)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Big Lebowski, The (1998)\n8. Delicatessen (1991)\n9. Intolerable Cruelty (2003)\n10. Bruce Almighty (2003)",
+            "1. UHF (1989)\n2. Real Genius (1985)\n3. Brewster's Millions (1985)\n4. The Sure Thing (1985)\n5. What's Up, Doc? (1972)\n6. American Graffiti (1973)\n7. The Big Lebowski (1998)\n8. Intolerable Cruelty (2003)\n9. Strange than Fiction (2006)\n10. The Departed (2006)"
+        ]
+    }
+}

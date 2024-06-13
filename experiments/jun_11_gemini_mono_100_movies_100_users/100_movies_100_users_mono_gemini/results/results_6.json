@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a children's movie, or an adult's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about history?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a female protagonist?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about women's issues?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the female character is a scientist, or one where the female character is a criminal?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that features a strong female character?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a woman in law enforcement?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about women in power?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Naked Gun: From the Files of Police Squad! (1988)\n5. The Proposition (2005)\n6. Terminator 3: Rise of the Machines (2003)\n7. The Big Lebowski (1998)\n8. Intolerable Cruelty (2003)\n9. Real Genius (1985)\n10. Tenacious D in The Pick of Destiny (2006)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Matrix, The (1999)\n3. Fifth Element, The (1997)\n4. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n5. Eragon (2006)\n6. Mask, The (1994)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Big Lebowski, The (1998)\n9. Bruce Almighty (2003)\n10. King Kong (2005)",
+            "1. Tomb Raider (2018)\n2. Monsters, Inc. (2001)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007)\n5. Terminator 3: Rise of the Machines (2003)\n6. Love Me If You Dare (Jeux d'enfants) (2003)\n7. Searching (2018)\n8. A.I. Artificial Intelligence (2001)\n9. Stranger than Fiction (2006)\n10. Big Lebowski, The (1998)",
+            "Lost in Translation (2003) \\n\nMoonlight (2016) \\n\nA Clockwork Orange (1971) \\n\nThe Piano (1993) \\n\nTerms of Endearment (1983) \\n\nThe Silence of the Lambs (1991) \\n\nThe Girl with the Dragon Tattoo (2011) \\n\nWonder Woman (2017) \\n\nArrival (2016) \\n\nHidden Figures (2017)",
+            "1. Tomb Raider (2018) \n2. August Rush (2007) \n3. Piano, The (1993) \n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Love Me If You Dare (Jeux d'enfants) (2003)\n6. Mis\u00e9rables, Les (1998)\n7. What's Up, Doc? (1972)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Thomas Crown Affair, The (1968) \n10. Real Steel (2011)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Steel (2011)\n3. Tomb Raider (2018)\n4. Ant-Man (2015)\n5. Ready Player One\n6. Lost in Translation (2003)\n7. The Big Lebowski (1998)\n8. Bruce Almighty (2003)\n9. Nightcrawler (2014)\n10. Entrer the Void (2009)",
+            "1. August Rush (2007) \n2. The Piano (1993) \n3. Terms of Endearment (1983) \n4. Autumn Sonata (H\u00f6stsonaten) (1978) \n5. Out of Sight (1998) \n6. Love Me If You Dare (Jeux d'enfants) (2003) \n7. 50 First Dates (2004) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Homeward Bound: The Incredible Journey (1993) \n10. Stranger than Fiction (2006)",
+            "1. Last Supper, The (1995) \n2. The Proposition (2005) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Departed (2006) \n5. The Thomas Crown Affair (1968) \n6. Jane Eyre (1996) \n7. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n8. The Man from Earth (2007) \n9. Mr. Holmes (2015) \n10. Out of Sight (1998)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Departed (2006)\n3. Control (2007)\n4. Stranger than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. Bruce Almighty (2003)\n7. Lost in Translation (2003)\n8. Eragon (2006)\n9. The Boy in the Striped Pajamas (2008)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Proposition (2005)\n3. Terminator 2 (1991)\n4. Laura (1944)\n5. Ant-Man (2015)\n6. Out of Sight (1998)\n7. Women in Prison (2015)\n8. Stranger than Fiction (2006)\n9. The Matrix (1999)\n10. The Nice Guys (2016)"
+        ]
+    }
+}

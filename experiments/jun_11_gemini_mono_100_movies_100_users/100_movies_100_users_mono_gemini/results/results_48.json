@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Are you specifically looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war film set during World War I?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about criminals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about the difficulties of old age?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about a group of friends who share an apartment in the city?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a musical comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a musical?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. No Country for Old Men (2007) \n2. There Will Be Blood (2007) \n3. The Dark Knight (2008) \n4. No Country for Old Men (2007) \n5. There Will Be Blood (2007) \n6. The Dark Knight (2008) \n7. The Departed (2006) \n8. No Country for Old Men (2007) \n9. There Will Be Blood (2007) \n10. The Dark Knight (2008)",
+            "1. The Man from Earth (2007) \\n\n2. Moonrise Kingdom (2012) \\n\n3. Nightcrawler (2014)\n4. A Separation (2011)\n5. Stranger than Fiction (2006) \\n\n6. The King's Speech (2010)\n7. The Social Network (2010)\n8. The Tree of Life (2011)\n9. 12 Years a Slave (2013)\n10. Spotlight (2015)",
+            "1. Runaway Train (1985)\n2. Laura (1944)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007)\n5. Blair Witch Project, The (1999)\n6. Martyrs (2008)\n7. Piano, The (1993)\n8. Terms of Endearment (1983)\n9. Naked Gun: From the Files of Police Squad!, The (1988)\n10. One Hour Photo (2002)",
+            "Monsters, Inc. (2001) \\n\nPirates of the Caribbean: At World's End (2007) \\n\nThe Naked Gun: From the Files of Police Squad! (1988) \\n\nBernie (2011) \\n\nSt. Elmo's Fire (1985) \\n\nUHF (1989) \\n\nWhat's Up, Doc? (1972) \\n\nThe Big Lebowski (1998) \\n\nAmerican Graffiti (1973) \\n\nReal Genius (1985)\n",
+            "****\n Movie Title: Tomb Raider (2018) \n Genres: Action, Adventure, Fantasy \n****\n Movie Title: August Rush (2007) \n Genres: Drama, Musical \n****\n Movie Title: Bernie (2011) \n Genres: Comedy, Crime, Drama \n****\n Movie Title: The Naked Gun: From the Files of Police Squad!, The (1988) \n Genres: Action, Comedy, Crime, Romance \n****\n Movie Title: UHF (1989) \n Genres: Comedy \n****\n Movie Title: What's Up, Doc? (1972) \n Genres: Comedy \n****\n Movie Title: The Big Lebowski, The (1998) \n Genres: Comedy, Crime \n****\n Movie Title: American Graffiti (1973) \n Genres: Comedy, Drama \n****\n Movie Title: Brewster's Millions (1985) \n Genres: Comedy \n****\n Movie Title: Real Genius (1985) \n Genres: Comedy \n****",
+            "1. The Sure Thing (1985)\n2. What's Up, Doc? (1972)\n3. The Big Lebowski (1998)\n4. American Graffiti (1973)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Intolerable Cruelty (2003)\n8. The Naked Gun: From the Files of Police Squad! (1988)\n9. UHF (1989)\n10. How High (2001)",
+            "Tomb Raider (2018)\nAll Quiet on the Western Front (1930)\nMeet John Doe (1941)\nWhat's Up, Doc? (1972)\nThe Big Lebowski (1998)\nAmerican Graffiti (1973)\nBruce Almighty (2003)\nReal Genius (1985)\nTenacious D in The Pick of Destiny (2006)\nEragon (2006)\n",
+            "1. Real Genius (1985)\n2. Brewster's Millions (1985)\n3. Big Lebowski, The (1998)\n4. American Graffiti (1973)\n5. UHF (1989)\n6. The Sure Thing (1985)\n7. What's Up, Doc? (1972)\n8. Airplane! (1980)\n9. Weird Science (1985)\n10. Stripes (1981)",
+            "1. Tenacious D in The Pick of Destiny (2006)\n2. The Sting (1973)\n3. What's Up, Doc? (1972)\n4. The Big Lebowski (1998)\n5. Annie (1982)\n6. Real Genius (1985)\n7. The Full Monty (1997)\n8. Monty Python and the Holy Grail (1975)\n9. The Apartment (1960)\n10. Brewster's Millions (1985)",
+            "1. American Graffiti (1973)\n2. Real Genius (1985)\n3. Stranger than Fiction (2006)\n4. The Naked Gun: From the Files of Police Squad! (1988)\n5. Brewster's Millions (1985)\n6. What's Up, Doc? (1972)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Big Lebowski, The (1998)\n9. UHF (1989)\n10. How High (2001)"
+        ]
+    }
+}
