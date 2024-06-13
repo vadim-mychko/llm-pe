@@ -286,6 +286,17 @@ class EvalManager:
                     for row in qrel_rows:
                         out_file.write(row)
 
+    def strip_list_formatting(self, words):
+        cleaned_words = []
+        pattern = r'^\s*(\d+\)|\d+\.\s*|\d+\.\s*|\d+\)|-\s*|\*\s*|\w+:\s*)'
+
+
+        for word in words:
+            cleaned_word = re.sub(pattern, '', word).strip().lower()
+            cleaned_words.append(cleaned_word)
+
+        return cleaned_words
+
     def json_to_trec_results_monollm(self, folder_path):
         # Load in json results data
         with open(folder_path + "/results.json") as json_data:
@@ -304,7 +315,8 @@ class EvalManager:
             for user_id, user_data in results.items():
 
                 # Clean text into individual entries
-                results_list = re.split(r'\n\*{4}\n|\n|\\n\n', user_data['rec_items'][turn_num])
+                pre_clean_results_list = re.split(r'\n\*{4}\n|\n|\\n\n', user_data['rec_items'][turn_num])
+                results_list = self.strip_list_formatting(pre_clean_results_list)
                 item_rankings = []
                 item_rank = 0
                 user_turn_duplicates = 0 # To avoid double counting duplicates as missing
@@ -357,6 +369,7 @@ class EvalManager:
         errors = {'hallucinations' : hallucinations,
                   'duplicates': duplicates,
                   'missing': missing} #TODO: Could also handle 
+        print(errors)
         with open(folder_path + "/errors.json", "w") as out_file:
             json.dump(errors, out_file)
                 

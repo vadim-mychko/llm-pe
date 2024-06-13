@@ -2,9 +2,9 @@ ci:
   confidence_level: 0.95
 data:
   data_loader_name: JSONLoader
-  data_path: data/yelp_cat_100.json
+  data_path: data/ml25M_100_movie_sample.json
   user_loader_name: UserTsvLoader
-  user_path: data/users/users_100_100.tsv
+  user_path: data/users/users_100_10.tsv
 debug_mode: false
 dialogue_sim:
   num_turns: 10
@@ -14,8 +14,9 @@ item_scoring:
   history_preprocessor_name: AspectValuePreprocessor
   item_scorer_name: MNLIScorer
   mnli_model: facebook/bart-large-mnli
-  mnli_temp: 1
+  mnli_temp: 100
   preprocess_query: true
+  batch_size: 1
 llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   like_probs_template: pref_query.jinja2
@@ -23,27 +24,27 @@ llm:
   model: gemini-pro
   temperature: 0
   template_dir: ./templates
-  user_sim_template_file: user_simulation_restaurants.jinja2
+  user_sim_template_file: user_simulation_movie.jinja2
 logging:
   disabled: false
   level: DEBUG
-  log_file: experiments/jun11_gemini_restaurants_100_items_100_users/selection_entropy_reduction/output.log
+  log_file: 
 metrics:
   metrics: supported_measures
   to_avg:
     map: null
 mono_llm:
-  query_gen_template: mono_llm_query_gen_restaurants.jinja2
-  top_items_template: mono_llm_top_items_restaurants.jinja2
+  query_gen_template: mono_llm_query_gen_movies.jinja2
+  top_items_template: mono_llm_top_items_movies.jinja2
 paths:
-  eval_results_master_path: experiments/david_test_1/eval_results.csv
-  experiment_dir: experiments/david_test_1
+  eval_results_master_path: experiments/jun_11_gemini_ucb_ts_100_movies_10_users/eval_results.csv
+  experiment_dir: experiments/jun_11_gemini_ucb_ts_100_movies_10_users
 pe:
   num_recs: 10
   pe_module_name: DT
   response_update: individual
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_restaurants_3FS_3words.jinja2
-  item_selection: entropy_reduction
+  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
+  item_selection: thompson
   query_gen_template: pointwise_query_generation_v.jinja2
