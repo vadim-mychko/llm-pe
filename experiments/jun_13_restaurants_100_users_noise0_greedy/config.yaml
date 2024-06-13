@@ -4,7 +4,7 @@ data:
   data_loader_name: JSONLoader
   data_path: data/yelp_cat_100.json
   user_loader_name: UserTsvLoader
-  user_path: data/users/users_100_10.tsv
+  user_path: data/users/users_100_100_10subset.tsv
 debug_mode: false
 dialogue_sim:
   num_turns: 10
