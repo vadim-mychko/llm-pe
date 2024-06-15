@@ -17,7 +17,7 @@ class Gemini(LLMBase):
         self.GEMINI_API_KEY = os.environ['GEMINI_API_KEY']
         genai.configure(api_key = self.GEMINI_API_KEY)
 
-        self.model_name = config["llm"]["model"]
+        self.model_name = config["llm"]["gemini_model"]
         self.model = genai.GenerativeModel(self.model_name)
         self.safety_settings = {HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
                                 HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,

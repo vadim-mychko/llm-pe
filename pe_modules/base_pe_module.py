@@ -12,7 +12,7 @@ Declared attributes:
 
 class BasePEModule(abc.ABC):
 
-    def __init__(self, config, dataloader,llm):
+    def __init__(self, config, dataloader):
         self.logger: logging.Logger = setup_logging(self.__class__.__name__, config)
         self.config = config
         self.interactions = [] 
@@ -20,8 +20,8 @@ class BasePEModule(abc.ABC):
         self.items = dataloader.get_data()
 
         llm_module = llms.LLM_CLASSES[self.config['llm']['llm_name']]
-        # self.llm = llm_module(config)
-        self.llm = llm
+        self.llm = llm_module(config)
+        # self.llm = llm
         self.recs = []
 
     '''

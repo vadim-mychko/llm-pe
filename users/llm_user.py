@@ -2,6 +2,7 @@ from users.base_user import UserSim
 from utils.setup_logging import setup_logging
 import jinja2
 import numpy as np
+import llms
 import timeit
 '''
 The User class represents a user. 
@@ -13,10 +14,12 @@ user_desc - String with a natural language description of the user
 '''
 
 class LLMUserSim(UserSim):
-    def __init__(self, config, top_item_desc, llm):
+    def __init__(self, config, top_item_desc):
         super().__init__()
         self.config = config
-        self.llm = llm
+        llm_module = llms.LLM_CLASSES[config['llm']['user_llm_name']]
+        self.llm = llm_module(config)
+        # self.llm = llm
         self.jinja_env = jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath='./templates'))
         self.top_item_desc = top_item_desc
         self.logger = setup_logging(self.__class__.__name__, self.config)

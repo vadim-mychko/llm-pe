@@ -80,15 +80,13 @@ class ExperimentManager():
         user_data = user_dataloader.get_data()
         # llm setup
         #ANTON: TODO: move LLM setup back to the class that uses it (e.g. a user simulator, pe module) to allow multiple LLMs
-        llm_module = llms.LLM_CLASSES[config['llm']['llm_name']]
-        llm = llm_module(config)
 
         # Dialogue Sim
         dial_sim = DialogueSimulator(config)
 
         # PE Module
         pe_module_class = pe_modules.PE_MODULE_CLASSES[config['pe']['pe_module_name']]
-        pe_module = pe_module_class(config, item_dataloader, llm)
+        pe_module = pe_module_class(config, item_dataloader)
 
         # Create a results directory if it doesn't already exist
         Path(os.path.join(dir_path, "results")).mkdir(parents=True, exist_ok=True)
@@ -119,7 +117,7 @@ class ExperimentManager():
             for item_id in user_item_ids:
                 item_descs.append(items[item_id]['description'])
             # Create user simulator and dialogue simulator
-            user_sim = LLMUserSim(config, item_descs, llm)
+            user_sim = LLMUserSim(config, item_descs)
 
             # Reset pe_module
             pe_module.reset()

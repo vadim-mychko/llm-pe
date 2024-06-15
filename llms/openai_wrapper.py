@@ -26,7 +26,7 @@ class GPTCompletion(LLMBase):
             str: The generated text response.
         """
         response = openai.Completion.create(
-            model=self.config["llm"]["model"],
+            model=self.config["llm"]["gpt_model"],
             temperature=temperature,
             prompt=prompt,
             logprobs=logprobs
@@ -36,7 +36,7 @@ class GPTCompletion(LLMBase):
         while attempts < 3:
             try:
                 response = openai.Completion.create(
-                    model=self.config["llm"]["model"],
+                    model=self.config["llm"]["gpt_model"],
                     temperature=temperature,
                     prompt=prompt,
                     logprobs=logprobs
@@ -84,7 +84,7 @@ class GPTChatCompletion(LLMBase):
         Returns:
             str: The generated text response.
         """
-        model_name = self.config["llm"]["model"]
+        model_name = self.config["llm"]["gpt_model"]
 
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
