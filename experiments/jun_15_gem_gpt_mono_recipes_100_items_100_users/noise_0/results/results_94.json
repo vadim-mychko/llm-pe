@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer a dish with high protein?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with a gravy sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes with potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Queso made from melted cheese and chili peppers\n7. Homemade soup with chicken, noodles, and spices\n8. Chicken cooked and flavored with lemon sauce\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Classic salad with creamy caesar dressing and croutons",
+            "1. High protein skillet with rice and vegetables\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Beef meatballs made with ground beef and ground pork\n4. Chicken and sausage gumbo made with okra and bell peppers\n5. Chicken cooked and flavored with lemon sauce\n6. Parmesan crusted tilapia with orzo and tomato\n7. Roasted almonds\n8. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Mozzarella dip recipe",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChicken breasts stuffed with bacon and mozzarella\nBeef stew made with beef, carrots and potatoes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nVery low-fat assortment of shredded vegetables with seasoning\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nKale salad with pomegranate and chickpeas\nMushrooms, carrots, and celery stalks, and topped with chow mein noodles\nBaked spinach quiche containing bacon\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nGrilled salmon seasoned with salt and pepper\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            " High protein skillet with rice and vegetables\n****\n2-ingredient yogurt from scratch\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nDigestion-friendly waffles\n****\nBaked spinach quiche containing bacon",
+            " High protein skillet with rice and vegetables\n****\nGrilled salmon seasoned with salt and pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBaked breakfast bars made with nuts and seeds\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nShredded barbecued pork shoulder",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. High protein skillet with rice and vegetables\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Shredded barbecued pork shoulder\n7. Pork chops glazed with milk and cooked without nuts\n8. Spicy chili recipe\n9. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n10. Hot pot that is not spicy",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Spicy chicken recipe\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. High protein skillet with rice and vegetables\n6. Mildly spicy chili recipe\n7. Pork chops glazed with milk and cooked without nuts\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Pepper steak\n10. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nRamen noodles made from scratch made with: wheat flour, baking soda, and water",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Mildly spicy chili recipe\n4. Meatballs made with ground beef and ground pork\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Grilled salmon seasoned with salt and pepper\n8. Salmon fillets grilled in a pan with herbs and spices\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Mildly spicy chili recipe\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Meatballs made with ground beef and ground pork\n6. Chicken cooked and flavored with lemon sauce\n7. Beef stew made with beef, carrots and potatoes\n8. High protein skillet with rice and vegetables\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Pork chops glazed with milk and cooked without nuts"
+        ]
+    }
+}

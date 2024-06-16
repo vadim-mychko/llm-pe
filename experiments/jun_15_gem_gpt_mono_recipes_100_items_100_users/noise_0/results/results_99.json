@@ -1,0 +1,58 @@
+{
+    "99": {
+        "conv_hist": [
+            {
+                "query": "Do you like salty foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer pork or beef?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like oranges?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like eggs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Cheese with crackers\n2. Meatballs made with ground beef and ground pork\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Assorted cheese soup with chicken\n8. Cheese and vegetable soup with a beer broth\n9. Queso made from melted cheese and chili peppers\n10. Grilled salmon seasoned with salt and pepper",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n4. Meatballs made with ground beef and ground pork\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Pepperoni pizza with mozzarella cheese\n7. Lasagna with ground beef, ricotta cheese, and mozzarella cheese\n8. Baked ziti with ricotta cheese and mozzarella cheese\n9. Beef stew made with beef, carrots and potatoes\n10. Pulled pork with barbecue sauce\n11. Grilled salmon seasoned with salt and pepper\n12. Salmon roasted with olive oil, chives, and tarragon leaves\n13. Creamy tomato soup\n14. Chicken noodle soup\n15. Vegetable soup\n16. Homemade soup with chicken, noodles, and spices\n17. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n18. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n19. Calcium-rich soup made with broccoli and beans\n20. Cheesy potatoes\n21. Roasted almonds\n22. Vegetarian chili\n23. Baked beans\n24. Black-eyed peas\n25. Coleslaw\n26. Potato salad\n27. Macaroni salad\n28. Fruit salad\n29. Gelatin salad\n30. Tiramisu\n31. Chocolate mousse\n32. Apple pie\n33. Peach cobbler\n34. Blueberry pie\n35. Cheesecake\n36. Pumpkin pie\n37. Lemon meringue pie\n38. Key lime pie\n39. Chocolate chip cookies\n40. Oatmeal cookies\n41. Sugar cookies\n42. Peanut butter cookies\n43. Brownies\n44. Blondies\n45. Doughnuts\n46. Muffins\n47. Cupcakes\n48. Bread\n49. Rolls\n50. Pizza\n51. Pasta\n52. Rice\n53. Potatoes\n54. Vegetables\n55. Fruit\n56. Beverages\n57. Desserts\n58. Drinks\n59. Appetizers\n60. Main courses\n61. Side dishes\n62. Snacks\n63. Other\n",
+            "Baked spinach quiche containing bacon\nSalmon roasted with olive oil, chives, and tarragon leaves\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nChicken breasts stuffed with bacon and mozzarella\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nGrilled salmon seasoned with salt and pepper\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nPork chops glazed with milk and cooked without nuts\nBaked mozzarella cheese sticks with marinara sauce\nLarge portion fries with gravy and bacon",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. High protein skillet with rice and vegetables\n2. Large portion fries with gravy and bacon\n3. Beef stew made with beef, carrots and potatoes\n4. Grilled salmon seasoned with salt and pepper\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Mildly spicy chili recipe\n10. Salmon fillets grilled in a pan with herbs and spices\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nVery low-fat assortment of shredded vegetables with seasoning\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nPork chops glazed with milk and cooked without nuts\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nCalcium-rich soup made with broccoli and beans\nSteak with porcini mushrooms and blue cheese\n****\n",
+            "1. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Large portion fries with gravy and bacon\n6. Pepperoni pizza\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Cheese and crackers\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork\n''''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Vegetable curry flavoured with curry powder and ground tumeric\n****\n Stuffed bell peppers\n****\n Low fat diced baked or fried potatoes\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Roasted almonds\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Assorted cheese soup with chicken\n****\n Soup made with vegetables and chicken\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Sandwich made with: grilled / broiled marinated chicken\n****\n Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Roast turkey with plum sauce\n****\n Calcium-rich soup made with broccoli and beans\n****\n Almonds coated with butter and salt\n****\n Low fat assorted fruit dessert\n****\n Banana bread made with whole wheat flour and walnuts\n****\n Baked mozzarella cheese sticks with marinara sauce\n****\n Mozzarella dip recipe\n****\n Meatballs made with ground beef and ground pork\n****",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein skillet with rice and vegetables\n****\n Chopped French duck confit preserved by duck oil\n****\n Salt and pepper seasoned grilled salmon\n****\n Roasted vegetables with balsamic vinegar and herbs\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nHigh protein skillet with rice and vegetables\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSoup made with shrimp, onions, and scallops\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHomemade soup with chicken, noodles, and spices\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nCalcium-rich soup made with broccoli and beans\n****"
+        ]
+    }
+}

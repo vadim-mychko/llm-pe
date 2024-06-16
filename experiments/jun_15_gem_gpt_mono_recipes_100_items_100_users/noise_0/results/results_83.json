@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like snacks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in dairy products?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. Grilled salmon seasoned with salt and pepper\n3. Beef stew made with beef, carrots and potatoes\n4. Chopped French duck confit preserved by duck oil\n5. Salmon fillets grilled in a pan with herbs and spices\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked salmon dessert pie filled with a sweet pumpkin spice based custard\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Mildly spicy chili recipe\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n'''",
+            "Baked breakfast bars made with nuts and seeds\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\n2-ingredient yogurt from scratch\nBaked spinach quiche containing bacon\nSoup made with ground turkey that is low fat, high carb\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. High protein skillet with rice and vegetables\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Large portion fries with gravy and bacon\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n8. Roast pork chops glazed with milk and cooked without nuts\n9. Taiwanese deep fried crispy chicken cutlets\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Beef stew made with beef, carrots and potatoes\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Roasted almonds\n****\n Low fat coconut alcohol-free cocktail\n****\n Pepperoni pizza with whole grain wraps as crust\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Meatballs made with ground beef and ground pork\n****",
+            "Beef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\n",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " Beef stew made with beef, carrots and potatoes\n****\n High protein skillet with rice and vegetables\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Mildly spicy chili recipe\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Calcium-rich soup made with broccoli and beans\n****",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Beef stew made with beef, carrots and potatoes\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Assorted cheese soup with chicken\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Salmon fillets grilled in a pan with herbs and spices\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Soup made with shrimp, onions, and scallops\n''''",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nRoasted beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSalmon fillets grilled in a pan with herbs and spices\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBeef stew made with beef, carrots and potatoes\nLow fat diced baked or fried potatoes\nChicken breasts stuffed with bacon and mozzarella\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Poke of tofu, mushroom and tomatoes\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Baked spinach quiche containing bacon\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Spanish rice with chicken breast\n"
+        ]
+    }
+}

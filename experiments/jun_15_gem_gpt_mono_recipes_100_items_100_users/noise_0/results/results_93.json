@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Do you like low-carb dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Low sugar applesauce cupcakes\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Norwegian cake with lingonberry and whipped cream layers\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Shredded barbecued pork shoulder\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n",
+            "1. 2-ingredient yogurt from scratch\n2. Queso made from melted cheese and chili peppers\n3. Meatballs made with ground beef and ground pork\n4. Roasted almonds\n5. Mozzarella dip recipe\n6. Fried shrimp and scallops\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Almonds coated with butter and salt\n9. Fried shrimp and scallops\n10. Pepperment chocolate bonbon\n",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nGrilled salmon seasoned with salt and pepper\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBeef stew made with beef, carrots and potatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLarge portion fries with gravy and bacon\n****",
+            "1. Large portion fries with gravy and bacon\n2. Queso made from melted cheese and chili peppers\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Dog food made from pork, green beans, cheddar cheese and brown rice\n5. Cheese and olive appetizer made to look like an eyeball\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Peppermint chocolate bonbon\n9. Polish sausage with fermented cabbage\n10. Mozzarella dip recipe",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nQueso made from melted cheese and chili peppers\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nJam made from blackberries, lemon juice, and sugar\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPork chops glazed with milk and cooked without nuts",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nFried shrimp and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves\nNorway cake with lingonberry and whipped cream layers\nSpaghetti noodles with mussels, anchovy fillets, and capers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSimple creamy oyster soup",
+            "Queso made from melted cheese and chili peppers\nCheese and olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBacon and cheese quiche\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked spinach quiche containing bacon\nLow fat diced baked or fried potatoes\n'''",
+            "1. Queso made from melted cheese and chili peppers\n2. Stuffed Portobello Mushrooms with Cream Cheese and Goat Cheese\n3. No-Bake Cheesecake with Graham Cracker Crust\n4. Cheese Fondue with Bread for Dipping\n5. Baked Mac and Cheese with Creamy Cheese Sauce\n6. Mozzarella Dip Recipe\n7. Beef Lasagna with Whole Wheat Noodles, Low-Fat Cottage Cheese, and Part-Skim Mozzarella Cheese\n8. Grilled Cheese Sandwich with Tomato Soup\n9. Easy 3-Ingredient Cheese Ball\n10. Spinach Artichoke Dip with Tortilla Chips\n''''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled salmon roasted with olive oil, chives, and tarragon leaves\n3. Baked spinach quiche containing bacon\n4. Low fat diced baked or fried potatoes\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Queso made from melted cheese and chili peppers\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Calcium-rich soup made with broccoli and beans\n9. Assorted cheese soup with chicken\n10. Cheese with crackers",
+            " Queso made from melted cheese and chili peppers\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Garlic bread with cheddar, green onions, and mayonnaise\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Baked breakfast bars made with nuts and seeds\n****\n Assorted cheese soup with chicken\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Cheese and olive appetizer made to look like an eyeball\n****\n Bread made swiss style with swiss cheese\n****\n Baked spinach quiche containing bacon"
+        ]
+    }
+}

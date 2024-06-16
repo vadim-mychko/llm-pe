@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fish or chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meals that are made with potatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like eggs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef or pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nQueso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nDigestion-friendly waffles",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Roasted almonds\n7. Fried shrimp and scallops\n8. Pepperoni pizza\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Pulled pork sandwiches\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein skillet with rice and vegetables\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Grilled salmon seasoned with salt and pepper\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Vegetables soup\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Spicy chili recipe\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Roasted almonds\n3. High protein skillet with rice and vegetables\n4. Low sugar applesauce cupcakes\n5. Mildly spicy chili recipe\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Soup made with ground turkey that is low fat, high carb\n8. Grilled salmon seasoned with salt and pepper\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Baked spinach quiche containing bacon",
+            "Beef stew made with beef, carrots and potatoes\n****\nHigh protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nGrilled salmon seasoned with salt and pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "High protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nVegetable curry flavoured with curry powder and ground tumeric\n****\nSweet salad made with corn and three types of beans",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Low fat sweet potato fries made with cajun seasoning\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "High protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nSpaghetti noodles with mussels, anchovy fillets, and capers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nGrilled salmon seasoned with salt and pepper\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSweet salad made with corn and three types of beans\nFried shrimp and scallops\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nStir-fried tofu, noodles and vegetables Bento\nSpicy chili recipe\nShredded barbecued pork shoulder\n2-ingredient yogurt from scratch\nLow fat sweet potato fries made with cajun seasoning\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n'''",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. High protein skillet with rice and vegetables\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Spanish rice with chicken breast\n7. Mildly spicy chili recipe\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Fried shrimp and scallops"
+        ]
+    }
+}

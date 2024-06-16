@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like healthy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Meatballs made with ground beef and ground pork\n4. Mozzarella dip recipe\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Queso made from melted cheese and chili peppers\n9. Baked spinach quiche containing bacon\n10. Chicken cooked and flavored with lemon sauce",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Shrimp and scallops\n5. Fried shrimp and scallops\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Soup made with shrimp, onions, and scallops\n****\n Fried shrimp and scallops\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Poke of tofu, mushroom and tomatoes\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCheese and crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Fried shrimp and scallops\n8. Soup made with shrimp, onions, and scallops\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Poke of tofu, mushroom and tomatoes",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Norway cake with lingonberry and whipped cream layers\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Hot pot that is not spicy\n****\n Fried shrimp and scallops",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nShrimp, onions, and scallops soup\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n'''",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. High protein skillet with rice and vegetables\n4. Grilled salmon seasoned with salt and pepper\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Simple creamy oyster soup\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Baked spinach quiche containing bacon",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Simple creamy oyster soup\n****\n Mildly spicy chili recipe\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with vegetables and chicken\n****\n Soup made with low fat, high carb ground turkey\n****\n Soup made with shrimp, onions, and scallops\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Low fat assorted fruit dessert\n****\n Calcium-rich soup made with broccoli and beans\n****\n Low sugar applesauce cupcakes\n****\n Roasted almonds\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Diggestion-friendly waffles\n****\n Smoothie made from banana puree with milk\n****\n Hot pot that is not spicy\n****\n Homemade soup with chicken, noodles, and spices\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Low fat diced baked or fried potatoes\n****\n Low-fat coconut alcohol-free cocktail\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Cheese and vegetable soup with a beer broth\n****\n Polish sausage with fermented cabbage\n****\n Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\n Spanish rice with chicken breast\n****\n Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\n Stir-fried tofu, noodles and vegetables Bento\n****\n Roasted almonds\n****\n Mushy peas that are soft\n****\n Smoothie made from banana puree with milk\n****\n Low fat assorted fruit dessert\n****\n Eggless sauerkraut cake\n****\n Banana bread made with whole wheat flour and walnuts\n****\n Baked mozzarella cheese sticks with marinara sauce\n****\n Mozzarella dip recipe\n****\n Meatballs made with ground beef and ground pork\n****",
+            " Grilled salmon seasoned with salt and pepper \\n\nSalmon fillets grilled in a pan with herbs and spices \\n\nSalmon roasted with olive oil, chives, and tarragon leaves \\n\n2-ingredient yogurt from scratch \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nLow fat sweet potato fries made with cajun seasoning \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nLow fat assorted fruit dessert \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nLow fat diced baked or fried potatoes\n''''"
+        ]
+    }
+}

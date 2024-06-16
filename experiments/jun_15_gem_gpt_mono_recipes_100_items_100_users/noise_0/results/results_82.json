@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Do you like sweet things?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Mildly spicy chili recipe\nSoup made with ground turkey that is low fat, high carb\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPasta with marinara sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHigh protein skillet with rice and vegetables\n****",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nKorean soup containing beef brisket and flavoured with red pepper powder\nPork chops glazed with milk and cooked without nuts\nBaked chicken breasts stuffed with bacon and mozzarella\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n''''",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Queso made from melted cheese and chili peppers\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Mildly spicy chili recipe\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Pork chops glazed with milk and cooked without nuts\n10. Shredded barbecued pork shoulder",
+            " Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Mildly spicy chili recipe\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Beef stew made with beef, carrots and potatoes\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Roasted almonds\n****",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSpicy chili recipe\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\nMildly spicy chili recipe\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nJam made from blackberries, lemon juice, and sugar\nItalian salad made from romain lettuce, artichokes, and tomatoes",
+            "Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti noodles with mussels, anchovy fillets, and capers\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nThai-style chicken curry\n'''",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Mildly spicy chili recipe\n3. Soup made with ground turkey that is low fat, high carb\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Beef stew made with beef, carrots and potatoes\n10. Meatballs made with ground beef and ground pork\n",
+            " Baked mozzarella cheese sticks with marinara sauce\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Pepperment chocolate bonbon\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Roasted almonds",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nCreamy base with dill flavoring, eggs, and noodles\nQueso made from melted cheese and chili peppers\nMildly spicy chili recipe\nVery low-fat assortment of shredded vegetables with seasoning\nCabbage, carrot, potato, onion soup\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShrimp and scallop soup",
+            "Beef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nMildly spicy chili recipe\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nHot pot that is not spicy\n****\nMushy peas that are soft\n****\nMeatballs made with ground beef and ground pork\n****"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbecue?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like comfort foods?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Cheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nSoup made from ground turkey that is low fat, high carb\nSoup made with vegetables and chicken\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nHomemade soup with chicken, noodles, and spices",
+            " Pork chops glazed with milk and cooked without nuts\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Shredded barbecued pork shoulder\n****\n Taiwan deep fried crispy chicken cutlets\n****\n Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Low fat diced baked or fried potatoes\n****\n Polish sausage with fermented cabbage\n****\n Meatballs made with ground beef and ground pork\n****\n Chopped French duck confit preserved by duck oil",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n3. Shredded barbecued pork shoulder\n4. Pork chops glazed with milk and cooked without nuts\n5. Meatballs made with ground beef and ground pork\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Roasted almonds\n8. Mozzarella dip recipe\n9. Almonds coated with butter and salt\n10. Sausage (pork) and apples low fat baked breakfast pie\n'''",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Pepperoni pizza made with whole wheat pizza crusts, tons of shredded mozzarella cheese, lots of pepperoni, and extra sauce\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Pepperoni pizza made with whole wheat pizza crusts, tons of shredded mozzarella cheese, lots of pepperoni, and extra sauce\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Cheese and olive appetizer made to look like an eyeball\n****\n Slow roasted pulled pork shoulder\n****\n Grilled pork tenderloin\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Large portion fries with gravy and bacon",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow sugar applesauce cupcakes\n****\nSugar-free peanut butter cookies\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCreamy base with dill flavoring, eggs, and noodles\n****",
+            "Pork chops glazed with milk and cooked without nuts\n****\nBaked apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nLow sugar applesauce cupcakes\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nLow fat diced baked or fried potatoes\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nChocolate and orange-flavoured smoothie\n****\nLow fat coconut alcohol-free cocktail",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nLow sugar applesauce cupcakes\nChocolate and orange-flavoured smoothie\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nSmoothie made from fruit juice and bananas\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSugar-free peanut butter cookies\nShredded barbecued pork shoulder\nLow fat sweet potato fries made with cajun seasoning\nMozzarella dip recipe\nBacon and banana stuffed chicken breast\nAlmonds coated with butter and salt\nRoasted almonds\nBaked mozzarella cheese sticks with marinara sauce\nPork chops glazed with milk and cooked without nuts",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nBaked pork chops glazed with milk and cooked without nuts\n****\nPork chops glazed with milk and cooked without nuts\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSoup made with ground turkey that is low fat, high carb\n****\nAssorted cheese soup with chicken\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****",
+            "Pork chops glazed with milk and cooked without nuts\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nDog food made from pork, green beans, cheddar cheese and brown rice\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBreakfast egg, bean, and cheese burrito with jalapeno peppers"
+        ]
+    }
+}

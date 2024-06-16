@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Do you like grilled or fried food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups or salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit or vegetables?",
+                "response": "fruit"
+            },
+            {
+                "query": "Are you interested in smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bananas?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked spinach quiche containing bacon\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein skillet with rice and vegetables\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Pork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChicken breasts stuffed with bacon and mozzarella\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''",
+            "1. High protein skillet with rice and vegetables\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Vegetable curry flavoured with curry powder and ground tumeric\n4. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n5. Stir-fried tofu, noodles and vegetables Bento\n6. 2-ingredient yogurt from scratch\n7. Veggie soup\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Oatmeal",
+            "1. Smoothie made from fruit juice and bananas\n2. Low sugar applesauce cupcakes\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Chocolate and orange-flavoured smoothie\n5. Slushie drink made from orange juice blended with ice\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Berry cobbler that uses frozen mixed berries\n8. Sweet salad made with corn and three types of beans\n9. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n10. Low fat assorted fruit dessert",
+            "1. Smoothie made from fruit juice and bananas\n2. Low sugar applesauce cupcakes\n3. Mildly spicy chili recipe\n4. Chocolate and orange-flavoured smoothie\n5. Slushie drink made from orange juice blended with ice\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Smoothies made from fruit juice and bananas\n8. Smoothies made from banana puree with milk\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n''''",
+            " Smoothies made with fruit juice and bananas\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nBanana bread made with whole wheat flour and walnuts\nLow fat assorted fruit dessert\nFruit or vegetable soup\nBaked applesauce cupcakes\n'''",
+            "1. Smoothie made from fruit juice and bananas\n2. Chocolate and orange-flavoured smoothie\n3. Slushie drink made from orange juice blended with ice\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Smoothie made from banana puree with milk\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Low sugar applesauce cupcakes\n8. Assorted cheese soup with chicken\n9. Baked breakfast bars made with nuts and seeds\n10. South African vegetable curry flavoured with curry powder and ground tumeric\n",
+            "Smoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nSmoothie made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nVery low-fat assortment of shredded vegetables with seasoning\nLow-fat coconut alcohol-free cocktail\nLow sugar applesauce cupcakes\nJam made from blackberries, lemon juice, and sugar\nBanana bread made with whole wheat flour and walnuts\nSlushie drink made from orange juice blended with ice\n",
+            "1. Smoothie made from fruit juice and bananas\n2. Smoothie made from banana puree with milk\n3. Banana bread made with whole wheat flour and walnuts\n4. Chocolate and orange-flavoured smoothie\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low-fat fruit mixed dessert\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Peach cobbler dessert containing whole wheat flour\n9. Berry cobbler that uses frozen mixed berries\n10. Low sugar applesauce cupcakes",
+            " Chocolate and orange-flavoured smoothie\nBanana bread made with whole wheat flour and walnuts\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nLow sugar applesauce cupcakes\nLow fat smoothies made with greek yogurt, and pineapple\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked breakfast bars made with nuts and seeds\n"
+        ]
+    }
+}

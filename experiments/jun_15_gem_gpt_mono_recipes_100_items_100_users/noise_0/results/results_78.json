@@ -1,0 +1,58 @@
+{
+    "78": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "System: Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer creamy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for soups with vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for soups with meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpanish rice with chicken breast\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nRoasted almonds\n****\nHot pot that is not spicy\n****\nSmoothie made from banana puree with milk\n****\nLow fat assorted fruit dessert",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Chopped French duck confit preserved by duck oil\n7. Taiwanese deep fried crispy chicken cutlets\n8. Spanish rice with chicken breast\n9. Simple creamy oyster soup\n10. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n''''",
+            "1.  Grilled salmon seasoned with salt and pepper\n2.  Baked spinach quiche containing bacon\n3.  Grilled salmon seasoned with herbs and spices\n4.  Salmon roasted with olive oil, chives, and tarragon leaves\n5.  Pork chops glazed with milk and cooked without nuts\n6.  Chicken cooked and flavored with lemon sauce\n7.  Roasted almonds\n8.  Chicken breasts stuffed with bacon and mozzarella\n9.  Mushy peas that are soft\n10. Spaghetti noodles with mussels, anchovy fillets, and capers",
+            " 1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Large portion fries with gravy and bacon\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella\n''''",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low fat sweet potato fries made with cajun seasoning\n3. Low-fat coconut alcohol-free cocktail\n4. Low fat diced baked or fried potatoes\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Low fat assorted fruit dessert\n8. Garlic bread with cheddar, green onions, and mayonnaise\n9. Grilled salmon seasoned with salt and pepper\n10. Salmon fillets grilled in a pan with herbs and spices",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with shrimp, onions, and scallops\n****\nSoup made from onions, carrots, and celery ribs\n****\nSimple creamy oyster soup\n****\nSoup made with vegetables and chicken\n****\nCalcium-rich soup made with broccoli and beans\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nCheese and vegetable soup with a beer broth\n****\nHomemade soup with chicken, noodles, and spices\n****",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with ground turkey that is low fat, high carb\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHot pot that is not spicy\nHomemade soup with chicken, noodles, and spices",
+            "Soup made with ground turkey that is low fat, high carb\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with vegetables and chicken\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nVegetable curry flavoured with curry powder and ground tumeric\nAssorted cheese soup with chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Simple creamy oyster soup\n3. Calcium-rich soup made with broccoli and beans\n4. Cheese and vegetable soup with a beer broth\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Homemade soup with chicken, noodles, and spices\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Soup made with shrimp, onions, and scallops",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nCalcium-rich soup made with broccoli and beans\nSoup made with vegetables and chicken\nKorean soup containing beef brisket and flavoured with red pepper powder"
+        ]
+    }
+}

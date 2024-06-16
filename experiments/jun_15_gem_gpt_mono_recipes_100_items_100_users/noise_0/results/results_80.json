@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in fruit smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like bread?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like low-fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like ground beef meat as an ingredient?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nChocolate and orange-flavoured smoothie\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nSlushie drink made from orange juice blended with ice\n****\nBaked applesauce cupcakes\n****\nSmoothie made from fruit juice and bananas\n****\nLow-fat assortment of shredded vegetables with seasoning\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nBerry cobbler that uses frozen mixed berries\n****",
+            " Chicken breasts stuffed with bacon and mozzarella\n****\n Shredded barbecued pork shoulder\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Cheeseburger made with ground beef, onions, peppers, and cheese\n****\n Grilled salmon seasoned with salt and pepper\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Eggs made with pork sausage and spices\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Salmon grilled with olive oil, chives, and seasoned with lemon\n****\n Sandwich made with grilled / broiled marinated chicken",
+            "1. Roasted almonds\n2. Almonds coated with butter and salt\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Low fat diced baked or fried potatoes\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Mildly spicy chili recipe\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n10. Low sugar applesauce cupcakes",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nQueso made from melted cheese and chili peppers\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nAssorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nBaked breakfast bars made with nuts and seeds\nPeppermint chocolate bonbon\nLow fat diced baked or fried potatoes",
+            " Cheese and vegetable soup with a beer broth\n****\n Cheese with crackers\n****\n Baked mozzarella cheese sticks with marinara sauce\n****\n Mozzarella dip recipe\n****\n Garlic bread with cheddar, green onions, and mayonnaise\n****\n Bread made swiss style with swiss cheese\n****\n Assorted cheese soup with chicken\n****\n Grilled cheese sandwich\n****\n Chicken cordon bleu\n****\n Cheese and olive appetizer made to look like an eyeball\n****",
+            "Cheese and vegetable soup with a beer broth\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nCheese with crackers\nGrilled cheese with cheddar, green onions, and mayonnaise\nLow fat diced baked or fried potatoes\nAssorted cheese soup with chicken\nChopped French duck confit preserved by duck oil\nQueso made from melted cheese and chili peppers\nBread made swiss style with swiss cheese\n'''",
+            " Cheese and olive appetizer made to look like an eyeball\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nQueso made from melted cheese and chili peppers\nCheese with crackers\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\nGarlic bread with cheddar, green onions, and mayonnaise\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBread made swiss style with swiss cheese\n",
+            "1. Garlic bread with cheddar, green onions, and mayonnaise\n2. Baked spinach quiche containing bacon\n3. Cheese and vegetable soup with a beer broth\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Cheese with crackers\n6. Mozzarella dip recipe\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Norwegian cake with lingonberry and whipped cream layers\n",
+            "1. Grilled cheese bread with cheddar, green onions, and mayonnaise\n2. Mozzarella cheese dip\n3. Swiss cheese bread\n4. Cheese with crackers\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Queso with melted cheese and chili peppers\n7. Roast beef sandwich with mozzarella, banana pepper rings, and romaine lettuce\n8. Cheese and olive appetizer made to look like an eyeball\n9. Assorted cheese soup with chicken\n10. Cheese and vegetable soup with a beer broth",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChicken breasts stuffed with bacon and mozzarella\nAssorted cheese soup with chicken\nGarlic bread with cheddar, green onions, and mayonnaise\nCheese with crackers\nBread made swiss style with swiss cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nMozzarella dip recipe\n'''"
+        ]
+    }
+}

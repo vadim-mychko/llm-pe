@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Have you tried Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer savoury or sweet dishes?",
+                "response": "sweet"
+            },
+            {
+                "query": "Do you prefer fruits or vegetables?",
+                "response": "fruits"
+            },
+            {
+                "query": "Do you like berries?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer apples or bananas?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you like mangoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer citrus fruits like oranges or lemons?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer bananas or oranges?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pineapples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grapes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Mildly spicy chili recipe\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Pork chops glazed with milk and cooked without nuts\n6. Sweet salad made with corn and three types of beans\n7. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Polish sausage with fermented cabbage\n10. Spanish rice with chicken breast",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nChocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow sugar applesauce cupcakes\nLow fat assorted fruit dessert\nMilkshake made with fresh strawberries and ice cream\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nStrawberry pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            " Chocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSlushie drink made from orange juice blended with ice\nPeach cobbler dessert containing whole wheat flour\nLow fat smoothies made with greek yogurt, and pineapple\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBerry cobbler that uses frozen mixed berries\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            " Low sugar applesauce cupcakes\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked spinach quiche containing bacon\nPork chops glazed with milk and cooked without nuts\nClassic salad with creamy caesar dressing and croutons\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSmoothie made from fruit juice and bananas\nAssorted cheese soup with chicken\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nPork shoulder glazed with milk and cooked without nuts",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert\nLow sugar applesauce cupcakes\nSweet salad made with corn and three types of beans\nItalian salad made from romain lettuce, artichokes, and tomatoes\nAssorted cheese soup with chicken\nSpaghetti noodles with mussels, anchovy fillets, and capers\nChicken cooked and flavored with lemon sauce\nAlmonds coated with butter and salt",
+            "1. Low fat assorted fruit dessert\n2. Smoothie made from banana puree with milk\n3. Low-fat coconut alcohol-free cocktail\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Banana bread made with whole wheat flour and walnuts\n6. Applesauce cupcakes\n7. Low sugar applesauce cupcakes\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Peach cobbler dessert containing whole wheat flour\n10. Berry cobbler that uses frozen mixed berries",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\n Peach cobbler dessert containing whole wheat flour \\n\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\n Low sugar applesauce cupcakes \\n\n Norwegian cake with lingonberry and whipped cream layers \\n\n Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, and milk \\n\n Chocolate and orange-flavoured smoothie \\n\n Citrus slushie drink made from orange juice blended with ice \\n\n Creamy base with dill flavoring, eggs, and noodles \\n\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. 5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\n3. Salad made from mixed greens, citrus fruits, and vegetables\n4. Low sugar applesauce cupcakes\n5. Low fat sweet potato fries made with cajun seasoning\n6. Assortment of citrus fruit smoothies\n7. Banana bread made with whole wheat flour and walnuts\n8. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n9. Low fat diced baked or fried potatoes\n10. Assorted citrus fruit soup",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Orange juice blended with ice\n3. Smoothies made with fruit juice and bananas\n4. Italian salad made from romaine lettuce, artichokes, and tomatoes\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Blueberry smoothie with vanilla custard filling\n8. Sweet salad made with corn and three types of beans\n9. Smoothies made from fruit juice and bananas\n10. Low fat assorted fruit dessert\n'''",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nClassic salad with creamy caesar dressing and croutons\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nCheese and crackers\n****\nFruit juice and banana smoothie\n****"
+        ]
+    }
+}

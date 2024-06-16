@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savoury food to sweet food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any dishes that are grilled?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in beverages?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeach cobbler dessert containing whole wheat flour\nGluten-free, egg-free, dairy-free, nut-free fudge\nBanana bread made with whole wheat flour and walnuts\n'''",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n'''",
+            "1. Chocolate and orange-flavoured smoothie\n2. Slushie drink made from orange juice blended with ice\n3. Cheesecake made with cream cheese\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Mint chocolate bonbon\n7. Peach cobbler dessert containing whole wheat flour\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low-fat coconut alcohol-free cocktail\n10. Korean soup containing beef brisket and flavoured with red pepper powder",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2-ingredient yogurt from scratch\nLow sugar applesauce cupcakes\nBaked breakfast bars made with nuts and seeds\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2-ingredient yogurt from scratch\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nNorway cake with lingonberry and whipped cream layers\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow fat assorted fruit dessert",
+            "1. Smoothie made from fruit juice and bananas\n2. Low sugar applesauce cupcakes\n3. Smooth chocolate and orange-flavoured smoothie\n4. Slushie drink made from orange juice blended with ice\n5. Norwegian cake with lingonberry and whipped cream layers\n6. Chocolate and orange-flavoured smoothie\n7. Assorted cheese soup with chicken\n8. Low fat smoothies made with greek yogurt, and pineapple\n9. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n10. Low fat assorted fruit dessert",
+            "1. Low sugar applesauce cupcakes\n2. Jam made from blackberries, lemon juice, and sugar\n3. Fruit juice and banana smoothie\n4. Low fat assorted fruit dessert\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Peach cobbler dessert containing whole wheat flour\n7. Berry cobbler that uses frozen mixed berries\n8. Chocolate and orange-flavoured smoothie\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Strawberry and ice cream milkshake",
+            " Smoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nFruit salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nLow fat smoothies made with greek yogurt, and pineapple\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nJam made from blackberries, lemon juice, and sugar",
+            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Assorted cheese soup with chicken\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Chocolate and orange-flavoured smoothie\n7. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n8. Smoothie made from banana puree with milk\n9. Smoothie made from fruit juice and bananas\n10. Low fat smoothies made with greek yogurt, and pineapple",
+            "Fruit juice and banana smoothie\nPeach cobbler dessert containing whole wheat flour\nChocolate and orange-flavoured smoothie\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBanana bread made with whole wheat flour and walnuts\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nSlushie drink made from orange juice blended with ice\nLow fat assorted fruit dessert\nStrawberry and ice cream milkshake\nLow-sugar applesauce cupcakes"
+        ]
+    }
+}
