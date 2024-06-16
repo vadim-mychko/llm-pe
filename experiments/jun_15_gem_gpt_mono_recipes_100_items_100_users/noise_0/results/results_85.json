@@ -2,57 +2,57 @@
     "85": {
         "conv_hist": [
             {
+                "query": "Do you like to eat fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
                 "query": "Do you like soups?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Do you like sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Are you interested in vegetarian options?",
-                "response": "yes"
+                "query": "Do you like mayonnaise?",
+                "response": "no"
             },
             {
                 "query": "Do you like spicy food?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Do you like salads?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruits?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like sweet dishes?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like baked goods?",
+                "query": "Do you like baked desserts?",
                 "response": "no"
-            },
-            {
-                "query": "Do you like berries?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like mangoes?",
-                "response": "yes"
             }
         ],
         "rec_items": [
-            "****\n 2-ingredient yogurt from scratch\n****\n High protein skillet with rice and vegetables\n****\n Low sugar applesauce cupcakes\n****\n Queso made from melted cheese and chili peppers\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Garlic bread with cheddar, green onions, and mayonnaise\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Low fat sweet potato fries made with cajun seasoning\n****",
-            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nAssorted cheese soup with chicken\n****\nLow fat diced baked or fried potatoes\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpanish rice with chicken breast\n****",
-            " 1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked breakfast bars made with nuts and seeds\n8. Vegetarian option spaghetti noodles with mussels, anchovy fillets, and capers\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Stir-fried tofu, noodles and vegetables Bento\n''''",
-            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Assorted cheese soup with chicken\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Low fat sweet potato fries made with cajun seasoning\n8. Low fat coconut alcohol-free cocktail\n9. Grilled salmon seasoned with salt and pepper\n10. Stir-fried tofu, noodles and vegetables Bento\n",
-            "Baked spinach quiche containing bacon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nVery low-fat assortment of shredded vegetables with seasoning\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeppermint chocolate bonbon\nDigestion-friendly waffles\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nMushy peas that are soft",
-            "* Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n* Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n* Low fat baked breakfast pie made with sausage (pork) and apples\n* Mildly spicy chili recipe\n* Baked breakfast bars made with nuts and seeds\n* Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n* Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n* Stir-fried tofu, noodles and vegetables Bento\n* Banana bread made with whole wheat flour and walnuts\n* Mozzarella dip recipe",
-            " 1. Chocolate and orange-flavoured smoothie\n 2. Sugar-free peanut butter cookies\n 3. Smoothie made from banana puree with milk\n 4. Low fat assorted fruit dessert\n 5. Low sugar applesauce cupcakes\n 6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n 7. Smoothies made from fruit juice and bananas\n 8. Milkshake made with fresh strawberries and ice cream\n 9. Norway cake with lingonberry and whipped cream layers\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n''''",
-            " Low sugar applesauce cupcakes\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nSmoothie made from fruit juice and bananas\nSugar-free peanut butter cookies\nLow fat sweet potato fries made with cajun seasoning\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat smoothies made with greek yogurt, and pineapple\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon",
-            "1. Mango smoothie\n2. Mango cobbler\n3. Mango salsa\n4. Mango sorbet\n5. Mango ice cream\n6. Mango salad\n7. Mango chutney\n8. Mango smoothie bowl\n9. Mango lassi\n10. Mango pie"
+            " Fruit juice and banana smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nLow sugar applesauce cupcakes\n****\nSmoothie made from fruit juice and bananas\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nChocolate and orange-flavoured smoothie\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBerry cobbler that uses frozen mixed berries\n****\nLow fat assorted fruit dessert",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nFruit-flavored assorted fruit dessert\nSmoothie made from banana puree with milk\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nLow-sugar applesauce cupcakes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n'''",
+            "Peach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert\nBerry cobbler that uses frozen mixed berries\n5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\nLow sugar applesauce cupcakes\nSmoothie made from fruit juice and bananas\nBanana bread made with whole wheat flour and walnuts\nSalad made from romaine lettuce, artichokes, and tomatoes\nChocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk",
+            " 1. Vietnamese Pho (noodles with Vietnamese broth)\n2. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Chicken cooked and flavored with lemon sauce\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Steak with broccoli and asparagus\n9. Baked apples with cinnamon and brown sugar\n10. Nachos with seasoned ground beef, cheddar cheese, sour cream, salsa, and guacamole \n'''",
+            "Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nLow fat assorted fruit dessert\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow sugar applesauce cupcakes\nJam made from blackberries, lemon juice, and sugar\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie",
+            "1. Low fat assorted fruit dessert\n2. 5-fruit salad (oranges, strawberries, blackberries, grapes, pears)\n3. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Berry cobbler that uses frozen mixed berries\n6. Low sugar applesauce cupcakes\n7. Sugar-free peanut butter cookies\n8. Jam made from blackberries, lemon juice, and sugar\n9. Peach cobbler dessert containing whole wheat flour\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Smoothies made with fruit juice and bananas\n4. Assorted cheese soup with chicken\n5. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n6. Almonds coated with butter and salt\n7. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n8. Low fat coconut alcohol-free cocktail\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Low fat diced baked or fried potatoes\n",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat assorted fruit dessert\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSimple creamy oyster soup\nBerry cobbler that uses frozen mixed berries\nPeach cobbler dessert containing whole wheat flour\nChocolate and orange-flavoured smoothie",
+            "Berry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n5-fruit salad made with oranges, strawberries, blackberries, grapes, and pears\nLow sugar applesauce cupcakes\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nLow-fat coconut alcohol-free cocktail",
+            "Very low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nLow fat diced baked or fried potatoes\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nLow fat assorted fruit dessert\nSoup made with vegetables and chicken\n'''"
         ]
     }
 }

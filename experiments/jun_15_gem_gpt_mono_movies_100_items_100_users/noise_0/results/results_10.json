@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a drama about a difficult journey?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an action movie where the hero is a programmer?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie set in the 17th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about someone who suddenly has super powers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an adventure movie about a dog?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about a senior citizen?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie where celebrities are being hunted?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated drama about a lonely young man?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama about a difficult journey that is set in the 17th century?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Grapes of Wrath (1940) \n2. Black Robe (1991) \n3. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n4. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008) \n5. The Secret of Kells (2009) \n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n7. Enter the Void (2009) \n8. Searching (2018) \n9. Mister Holmes (2015) \n10. Boyhood (2014)\n",
+            "1. The Last Temptation of Christ (1988) \n2. The Piano (1993) \n3. August Rush (2007) \n4. One Hour Photo (2002) \n5. The Last Supper (1995) \n6. Grapes of Wrath, The (1940) \n7. Black Robe (1991) \n8. Umberto D. (1952) \n9. Boy in the Striped Pajamas, The (2008) \n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Grapes of Wrath, The (1940)\n2. Black Robe (1991)\n3. Umberto D. (1952)\n4. Cronos (1993)\n5. Jane Eyre (1996)\n6. Five Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Lost in Translation (2003)\n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Bruce Almighty (2003)\n10. Real Steel (2011)",
+            "1. The Grapes of Wrath (1940)\n2. Cronos (1993)\n3. Jane Eyre (1996)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n8. Homeward Bound: The Incredible Journey (1993)\n9. 50 First Dates (2004)\n10. Love Me If You Dare (Jeux d'enfants) (2003)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. The Grapes of Wrath (1940)\n3. Umberto D. (1952)\n4. Black Robe (1991)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n8. The Big Red One (1980)\n9. Von Ryan's Express (1965)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Homeward Bound: The Incredible Journey (1993) \n3. The Grapes of Wrath (1940) \n4. Lost in Translation (2003) \n5. Black Robe (1991) \n6. The Last Supper (1995) \n7. Face/Off (1997) \n8. Brewster's Millions (1985) \n9. Real Genius (1985) \n10. Umberto D. (1952)\n",
+            "1. The Grapes of Wrath (1940) \n2. Lost in Translation (2003) \n3. Black Robe (1991) \n4. Umberto D. (1952) \n5. The Boy in the Striped Pajamas (2008) \n6. Cronos (1993) \n7. The Secret of Kells (2009) \n8. Hachiko: A Dog's Story (2009) \n9. The Land Before Time (1988) \n10. American Graffiti (1973)",
+            "1. Lost in Translation (2003)\n2. Umberto D. (1952)\n3. Hachiko: A Dog's Story (2009)\n4. The Grapes of Wrath (1940)\n5. Black Robe (1991)\n6. Mr. Holmes (2015)\n7. The Last Supper (1995)\n8. Cronos (1993)\n9. Jane Eyre (1996)\n10. Bruce Almighty (2003)",
+            "1. A.I. Artificial Intelligence (2001)\n2. August Rush (2007)\n3. Lost in Translation (2003)\n4. The Grapes of Wrath (1940)\n5. Umberto D. (1952)\n6. Magnolia (1999)\n7. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n8. Black Robe (1991)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Black Robe (1991)\n3. Von Ryan's Express (1965)\n4. The Grapes of Wrath (1940)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Timeline (2003)\n7. The Last Supper (1995)\n8. The Hurricane (1999)\n9. Real Genius (1985)\n10. Stranger than Fiction (2006)"
+        ]
+    }
+}

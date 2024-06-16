@@ -1,0 +1,58 @@
+{
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is dark and unsettling?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is funny?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a video game adaptation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that features artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a real-life event?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a comic book?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Piano, The (1993)\n5. Terms of Endearment (1983)\n6. One Hour Photo (2002)\n7. Cocoon (1985)\n8. St. Elmo's Fire (1985)\n9. How High (2001)\n10. Out of Sight (1998)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Hercules (1997)\n4. Real Steel (2011)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Real Genius (1985)\n8. Brewster's Millions (1985)\n9. What's Up, Doc? (1972)\n10. UHF (1989)",
+            "1. Monsters, Inc. (2001)\n2. The Terminator (1984)\n3. The Proposition (2005)\n4. The Departed (2006)\n5. The Big Lebowski (1998)\n6. No Country for Old Men (2007)\n7. There Will Be Blood (2007)\n8. The Master (2012)\n9. The Dark Knight (2008)\n10. Prisoners (2013)",
+            "1. Laura (1944)\n\n2. Europa (Zentropa) (1991)\n\n3. Stranger than Fiction (2006)\n\n4. Terminator 3: Rise of the Machines (2003)\n\n5. Love Me If You Dare (Jeux d'enfants) (2003)\n\n6. What's Up, Doc? (1972)\n\n7. American Graffiti (1973)\n\n8. von Ryan's Express (1965)\n\n9. American Graffiti (1973)\n\n10. Black Robe (1991)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Thomas Crown Affair, The (1968)\n4. Nightcrawler (2014)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Face/Off (1997)\n8. Bruce Almighty (2003)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Eragon (2006)",
+            "1. The Last King of Scotland (2006)\n2. Capote (2005)\n3. Brokeback Mountain (2005)\n4. The Queen (2006)\n5. United 93 (2006)\n6. Argo (2012)\n7. 12 Years a Slave (2013)\n8. Moonlight (2016)\n9. Green Book (2018)\n10. Parasite (2019)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Real Steel (2011) \n3. A.I. Artificial Intelligence (2001) \n4. Control (2007) \n5. Robot & Frank (2012) \n6. Bruce Almighty (2003) \n7. Brewster's Millions (1985) \n8. Real Genius (1985) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Eragon (2006)",
+            "1. The Man from Earth (2007) \n2. Ikiru (1952) \n3. Man on Wire (2008) \n4. Drugstore Cowboy (1989) \n5. Enter the Void (2009) \n6. Delicatessen (1991) \n7. Cronos (1993) \n8. Corporation, The (2003) \n9. Europa (Zentropa) (1991) \n10. The Big Red One (1980)",
+            "1. September 30, 1955 (Steamboat Willie) \\n\n2. Banana Splits Movie, The (2019) \\n\n3. Bride of Frankenstein (1935) \\n\n4. Bye Bye Birdie (1963) \\n\n5. Cartoon Country (1988) \\n\n6. Daydream for Andy Hardy, A (1945) \\n\n7. Disney Halloween Treat, The (1982) \\n\n8. Greatest Muppet Movie Musicals, The (1979) \\n\n9. Here We Go 'Round the Mulberry Bush (1967) \\n\n10. I Love Lucy: The Movie (1972)",
+            "1. Cocoon (1985) \n2. Crazy Rich Asians (2018) \n3. Pirates of the Caribbean: At World's End (2007) \n4. A.I. Artificial Intelligence (2001)\n5. Love Me If You Dare (Jeux d'enfants) (2003) \n6. Les Mis\u00e9rables (1998) \n7. Meet John Doe (1941) \n8. The Land Before Time (1988) \n9. The Thomas Crown Affair (1968) \n10. Rush Hour (1998) \n\n"
+        ]
+    }
+}

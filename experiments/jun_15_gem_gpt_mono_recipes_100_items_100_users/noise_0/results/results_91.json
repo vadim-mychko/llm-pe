@@ -2,57 +2,57 @@
     "91": {
         "conv_hist": [
             {
-                "query": "Do you like desserts?",
+                "query": "Do you prefer meat-based meals?",
                 "response": "no"
             },
             {
-                "query": "Do you like soups?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like chicken?",
-                "response": "no"
-            },
-            {
-                "query": "Are you interested in vegetarian dishes?",
+                "query": "Do you prefer dishes that are vegetarian?",
                 "response": "yes"
             },
             {
-                "query": "Are you interested in tofu?",
+                "query": "Do you like fish?",
                 "response": "no"
             },
             {
-                "query": "Do you like low-fat dishes?",
+                "query": "Do you prefer hot meals?",
                 "response": "no"
             },
             {
-                "query": "Do you like carbohydrates?",
+                "query": "Do you like salty dishes?",
                 "response": "yes"
             },
             {
-                "query": "Are you interested in fruit?",
+                "query": "Do you prefer creamy dishes?",
                 "response": "no"
+            },
+            {
+                "query": "Do you prefer low-fat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sauces or dips?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are salty and crispy?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Low fat assorted fruit dessert\n2. Smoothies made from fruit juice and bananas\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. High protein skillet with rice and vegetables\n7. Grilled salmon seasoned with salt and pepper\n8. Soup made with ground turkey that is low fat, high carb\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Grilled salmon seasoned with salt and pepper",
-            "1. Large portion fries with gravy and bacon\n2. High protein skillet with rice and vegetables\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Mildly spicy chili recipe\n8. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Ore pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n'''",
-            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Fried shrimp and scallops\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Mozzarella cheese sticks with marinara sauce\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chopped French duck confit preserved by duck oil\n10. Baked breakfast bars made with nuts and seeds",
-            " ****\n Chopped French duck confit preserved by duck oil\n****\nHigh protein skillet with rice and vegetables\n****\n Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nGrilled salmon seasoned with salt and pepper\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nMozzarella dip recipe\n****\n Roasted almonds\n****\nStir-fried tofu, noodles and vegetables Bento\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
-            "1. 2-ingredient yogurt from scratch \n2. High protein skillet with rice and vegetables \n3. Large portion fries with gravy and bacon \n4. Low fat baked breakfast pie made with sausage (pork) and apples \n5. Queso made from melted cheese and chili peppers \n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \n7. Garlic bread with cheddar, green onions, and mayonnaise \n8. Low fat sweet potato fries made with cajun seasoning \n9. Dog food made from pork, green beans, cheddar cheese and brown rice \n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
-            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Chopped French duck confit preserved by duck oil\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Tofu, mushroom and tomatoes poke\n9. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n",
-            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeach cobbler dessert containing whole wheat flour\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
-            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water",
-            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Simple creamy oyster soup\n6. Baked spinach quiche containing bacon\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Chopped French duck confit preserved by duck oil\n",
-            "High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSweet salad made with corn and three types of beans\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****"
+            "1.\tSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2.\tGrilled salmon seasoned with salt and pepper\n3.\tSalmon fillets grilled in a pan with herbs and spices\n4.\tSalmon roasted with olive oil, chives, and tarragon leaves\n5.\tVery low-fat assortment of shredded vegetables with seasoning\n6.\tLow sugar applesauce cupcakes\n7.\tLow fat baked breakfast pie made with sausage (pork) and apples\n8.\tLow fat diced baked or fried potatoes\n9.\tLow fat smoothies made with greek yogurt, and pineapple\n10.\tLow fat coconut alcohol-free cocktail\n",
+            "Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nBaked spinach quiche containing bacon\nSpicy chili recipe\nAlmonds coated with butter and salt\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n'''",
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBaked breakfast bars made with nuts and seeds\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Large portion fries with gravy and bacon\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Queso made from melted cheese and chili peppers\n6. Chopped French duck confit preserved by duck oil\n7. Low sugar applesauce cupcakes\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n'''",
+            "1.  Soup made with cabbage, carrots, potatoes, and onions\n2.  2-ingredient yogurt from scratch\n3.  High protein skillet with rice and vegetables\n4.  Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5.  Low fat baked breakfast pie made with sausage (pork) and apples\n6.  Very low-fat assortment of shredded vegetables with seasoning\n7.  South African vegetable curry flavoured with curry powder and ground tumeric\n8.  Baked breakfast bars made with nuts and seeds\n9.  Assorted cheese soup with chicken\n10.  High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Vegetable soup with chicken\n****\n Oatmeal chocolate chip cookies\n****\n Carrot soup with tomatoes and onions\n****\n Roasted almonds\n****\n Soy-braised tofu with coconut milk and lime\n****\n Cold blueberry spinach smoothie\n****\nAssorted cheese soup with chicken\n****\n Kale apple smoothie\n****",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked spinach quiche containing bacon\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers",
+            "Soup made with cabbage, carrots, potatoes, and onions\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nAssorted cheese soup with chicken\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSweet salad made with corn and three types of beans\nBerry cobbler that uses frozen mixed berries\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow-fat coconut alcohol-free cocktail\n''''",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Taiwanese deep fried crispy chicken cutlets\n5. Italian salad made from romain lettuce, artichokes, and tomatoes\n6. Peach cobbler dessert containing whole wheat flour\n7. Grilled salmon seasoned with salt and pepper\n8. Polish sausage with fermented cabbage\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with ground turkey that is low fat, high carb",
+            "Grilled zucchini, tomatoes, and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpicy chili recipe\nChopped French duck confit preserved by duck oil\nLarge portion fries with gravy and bacon\nKorean soup containing beef brisket and flavoured with red pepper powder\nFried shrimp and scallops\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\n****"
         ]
     }
 }

@@ -2,19 +2,19 @@
     "79": {
         "conv_hist": [
             {
-                "query": "Do you like savory dishes?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like grilling?",
+                "query": "Do you hate vegetable soup?",
                 "response": "no"
             },
             {
-                "query": "Do you like sauces with your food?",
+                "query": "Are you a vegetarian?",
                 "response": "no"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit juice?",
                 "response": "no"
             },
             {
@@ -22,37 +22,37 @@
                 "response": "no"
             },
             {
-                "query": "Do you prefer salmon?",
+                "query": "Do you like fish?",
                 "response": "no"
             },
             {
-                "query": "Do you like chicken?",
+                "query": "Do you like bread?",
                 "response": "no"
             },
             {
-                "query": "Do you like beef?",
+                "query": "Do you like alcohol?",
                 "response": "no"
             },
             {
-                "query": "Do you like soup?",
+                "query": "Do you like shrimp?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetarian food?",
+                "query": "Do you like chips?",
                 "response": "yes"
             }
         ],
         "rec_items": [
-            "High protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nQueso made from melted cheese and chili peppers\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMildly spicy chili recipe\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****",
-            "1. Pork chops glazed with milk and cooked without nuts\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Shredded barbecued pork shoulder\n6. High protein skillet with rice and vegetables\n7. Grilled salmon seasoned with salt and pepper\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Low fat diced baked or fried potatoes",
-            "1. ****Potof tofu, mushroom and tomatoes****\n2. ****Very low-fat assortment of shredded vegetables with seasoning****\n3. ****Mildly spicy chili recipe****\n4. ****Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce****\n5. ****Soupmade with ground turkey that is low fat, high carb****\n6. ****Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard****\n7. ****South African vegetable curry flavoured with curry powder and ground tumeric****\n8. ****Low fat diced baked or fried potatoes****\n9. ****Simple creamy oyster soup****\n10. ****Calcium-rich soup made with broccoli and beans****",
-            "1. Shredded barbecued pork shoulder\n2. Meatballs made with ground beef and ground pork\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Baked spinach quiche containing bacon\n6. High protein skillet with rice and vegetables\n7. Chicken cooked and flavored with lemon sauce\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Taiwanese deep fried crispy chicken cutlets\n10. Roasted almonds",
-            "- Salmon roasted with olive oil, chives, and tarragon leaves\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n- Pork chops glazed with milk and cooked without nuts\n- Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n- Soup made with cabbage, carrots, potatoes, and onions\n- Soup made with ground turkey that is low fat, high carb\n- Soup made with onions, carrots, and celery ribs\n- Soup made with shrimp, onions, and scallops\n- Soup made with vegetables and chicken",
-            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Queso made from melted cheese and chili peppers\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella\n'''",
-            "1. 2-ingredient yogurt from scratch\n2. Taiwanese deep fried crispy chicken cutlets\n3. Assorted cheese soup with chicken\n4. High protein skillet with rice and vegetables\n5. Large portion fries with gravy and bacon\n6. Dog food made from pork, green beans, cheddar cheese and brown rice\n7. Shredded barbecued pork shoulder\n8. Baked spinach quiche containing bacon\n9. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
-            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nCheese and olive appetizer made to look like an eyeball\nBaked spinach quiche containing bacon\nFried shrimp and scallops\nCheese with crackers\nLow fat diced baked or fried potatoes\nChicken cooked and flavored with lemon sauce\nBerry cobbler that uses frozen mixed berries\n",
-            "1. Low fat diced baked or fried potatoes\n2. Assorted cheese soup with chicken\n3. Mildly spicy chili recipe\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Classic salad with creamy caesar dressing and croutons\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Scandinavian baked goods: Alva cake\n9. Grilled salmon seasoned with salt and pepper\n10. Noodle soup with chicken, noodles, and vegetables",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Stir-fried tofu, noodles and vegetables Bento\n4. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Low sugar applesauce cupcakes\n7. Sweet salad made with corn and three types of beans\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n'''"
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with onions, carrots, and celery ribs\n****\n Simple creamy oyster soup\n****\n Soup made from vegetables and chicken\n****\n Calcium-rich soup made with broccoli and beans\n****\n Cheese and vegetable soup with a beer broth\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Homemade soup with chicken, noodles, and spices",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Low fat sweet potato fries made with cajun seasoning\n8. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n9. Bread made swiss style with swiss cheese\n10. Baked mozzarella cheese sticks with marinara sauce\n'''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Pork chops glazed with milk and cooked without nuts\n4. Chicken cooked and flavored with lemon sauce\n5. Swiss style bread with swiss cheese\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Mozzarella dip recipe\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Oatmeal chocolate chip cookies\n10. Roasted almonds\n'''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Beef stew made with beef, carrots and potatoes\n6. High protein skillet with rice and vegetables\n7. Baked spinach quiche containing bacon\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            " \nSoup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nBeef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nJam made from blackberries, lemon juice, and sugar\nSashami (lightly marinated raw fish)\nBaked breakfast bars made with nuts and seeds",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled zucchini and tomatoes seasoned with balsamic vinegar and herbs\n3. Roasted almonds\n4. Assorted cheese soup with chicken\n5. Peach cobbler dessert containing whole wheat flour\n6. Low fat baked sweet potato fries made with cajun seasoning\n7. Low fat assorted fruit dessert\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with ground turkey that is low fat, high carb",
+            "[Soup made with cabbage, carrots, potatoes, and onions\nGrilled salmon seasoned with salt and pepper\nHigh protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nLow fat sweet potato fries made with cajun seasoning\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nAssorted cheese soup with chicken\nLow fat smoothies made with greek yogurt, and pineapple]",
+            "Peppermint chocolate bonbon\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nPeach cobbler dessert containing whole wheat flour\n2-ingredient yogurt from scratch\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nDigestion-friendly waffles\nAlmond coated with butter and salt\nKorean soup containing beef brisket and flavoured with red pepper powder\nSmoothie made from banana puree with milk\nCheesy and vegetable soup with a beer broth",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow fat shredded vegetables with seasoning\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nPeach cobbler dessert containing whole wheat flour\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSoup made with cabbage, carrots, potatoes, and onions\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Large portion fries with gravy and bacon\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat diced baked or fried potatoes\nChips and salsa\nHomemade veggie chips\nPotato wedges\nThai-style chips made with rice flour and water\nVegetable chips made with corn flour and coconut oil\nRosemary chips\n'''"
         ]
     }
 }

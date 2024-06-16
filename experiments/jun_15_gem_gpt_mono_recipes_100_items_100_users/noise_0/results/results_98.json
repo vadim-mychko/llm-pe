@@ -2,15 +2,31 @@
     "98": {
         "conv_hist": [
             {
-                "query": "Do you like pasta from Italy?",
+                "query": "Do you like soup?",
                 "response": "no"
             },
             {
-                "query": "Do you like fish?",
+                "query": "Do you like spicy food?",
                 "response": "no"
             },
             {
-                "query": "Do you like fried items?",
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
                 "response": "no"
             },
             {
@@ -18,41 +34,25 @@
                 "response": "no"
             },
             {
-                "query": "Do you like sweets?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like low fat items?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like fruit?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like drinks?",
+                "query": "Do you like meat?",
                 "response": "no"
             },
             {
-                "query": "Do you like pies?",
+                "query": "Do you like vegetables?",
                 "response": "no"
-            },
-            {
-                "query": "Do you like smoothies?",
-                "response": "yes"
             }
         ],
         "rec_items": [
-            " Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nPeppermint chocolate bonbon\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nPasta with frozen peas, olive oil, nutritional yeast, and seasoning\nAlmonds coated with butter and salt\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPork chops glazed with milk and cooked without nuts",
-            " 1. Large portion fries with gravy and bacon\n****\n2. Grilled salmon seasoned with salt and pepper\n****\n3. High protein skillet with rice and vegetables\n****\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n5. Queso made from melted cheese and chili peppers\n****\n6. Cheese and olive appetizer made to look like an eyeball\n****\n7. Fried shrimp and scallops\n****\n8. Mozzarella dip recipe\n****\n9. Baked mozzarella cheese sticks with marinara sauce\n****\n10. Meatballs made with ground beef and ground pork\n****",
-            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. Poke of tofu, mushroom and tomatoes\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Low sugar applesauce cupcakes\n6. Soup made with ground turkey that is low fat, high carb\n7. Low fat sweet potato fries made with cajun seasoning\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Soup made with shrimp, onions, and scallops",
-            "1. 2-ingredient yogurt from scratch\n2. Smoothie made from fruit juice and bananas\n3. Low sugar applesauce cupcakes\n4. Sugar-free peanut butter cookies\n5. Jam made from blackberries, lemon juice, and sugar\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n8. Low fat diced baked or fried potatoes\n9. Simply creamy oyster soup\n10. Smoothie made from banana puree with milk\n",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nPeach cobbler dessert containing whole wheat flour\nGluten-free, egg-free, dairy-free, nut-free fudge\nAlmonds coated with butter and salt\nNorwegian cake with lingonberry and whipped cream layers\nLow fat assorted fruit dessert\nEggless sauerkraut cake",
-            "Gluten-free, egg-free, dairy-free, nut-free fudge\nLow fat smoothies made with greek yogurt, and pineapple\nLow sugar applesauce cupcakes\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nNorway cake with lingonberry and whipped cream layers\nLow fat baked breakfast pie made with sausage (pork) and apples",
-            " Low fat assorted fruit dessert\nLow fat diced baked or fried potatoes\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nSugar-free peanut butter cookies\nFresh fruit smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nPeach cobbler dessert containing whole wheat flour",
-            "Low fat sweet potato fries made with cajun seasoning\nLow-fat coconut alcohol-free cocktail\nLow fat assorted fruit dessert\nLow sugar applesauce cupcakes\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from fruit juice and bananas\nLow fat diced baked or fried potatoes\nSmoothie made from banana puree with milk\nChocolate and orange-flavoured smoothie",
-            "Low sugar applesauce cupcakes\nSugar-free peanut butter cookies\nLow fat sweet potato fries made with cajun seasoning\nLow fat assorted fruit dessert\nLow fat smoothies made with greek yogurt, and pineapple\nFruit juice and banana smoothie\nLow fat diced baked or fried potatoes\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSmoothie made from banana puree with milk\n'''",
-            " 1. Low fat smoothies made with greek yogurt, and pineapple\n2. Chocolate and orange-flavoured smoothie\n3. Smoothie made from banana puree with milk\n4. Smoothies made from fruit juice and bananas\n5. Low sugar applesauce cupcakes\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Sugar-free peanut butter cookies\n8. Low fat assorted fruit dessert\n9. Jam made from blackberries, lemon juice, and sugar\n10. Very low-fat assortment of shredded vegetables with seasoning"
+            " Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made from onions, carrots, and celery ribs\n",
+            " Roasted almonds\nVery low-fat assortment of shredded vegetables with seasoning\nMilkshake made with fresh strawberries and ice cream\nCheese with crackers\nSmoothie made from fruit juice and bananas\n2-ingredient yogurt from scratch\nLow fat oatmeal\nLow fat sweet potato fries made with cajun seasoning\nPasta with tomato sauce\nLow fat diced baked or fried potatoes\n'''",
+            "Fried shrimp and scallops\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nLarge portion fries with gravy and bacon\nVery low-fat assortment of shredded vegetables with seasoning\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
+            "1. High protein skillet with rice and vegetables\n2. 2-ingredient yogurt from scratch\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Low sugar applesauce cupcakes\n7. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n8. Baked breakfast bars made with nuts and seeds\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Low fat smoothies made with greek yogurt, and pineapple",
+            "- 2-ingredient yogurt from scratch\n- Low fat baked breakfast pie made with sausage (pork) and apples\n- Very low-fat assortment of shredded vegetables with seasoning\n- Low fat sweet potato fries made with cajun seasoning\n- Sugar-free peanut butter cookies\n- Low fat smoothies made with greek yogurt, and pineapple\n- Peach cobbler dessert containing whole wheat flour\n- Low fat diced baked or fried potatoes\n- Low-fat coconut alcohol-free cocktail\n- Low fat assorted fruit dessert",
+            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Calcium-rich soup made with broccoli and beans\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Low fat assorted fruit dessert\n8. Mushy peas that are soft\n9. Smoothies made from bananas, frozen fruit, and ice cream\n10. Mozzarella dip recipe",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat sweet potato fries made with cajun seasoning\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked spinach quiche containing bacon\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            "Grilled zucchini, squash, tomatoes, and mushrooms seasoned with balsamic vinegar and herbs\nMildly spicy chili recipe\nChicken and vegetable soup\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nLow fat sweet potato fries made with cajun seasoning\nLow sugar applesauce cupcakes\nHomemade soup with chicken, noodles, and spices\nLow fat smoothies made with greek yogurt, and pineapple\nMildly spicy chili recipe\nGrilled zucchini, squash, tomatoes, and mushrooms seasoned with balsamic vinegar and herbs\nLow fat baked breakfast pie made with sausage (pork) and apples\n'''",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nBaked spinach quiche containing bacon\nGrilled vegetables\nVery low-fat assortment of shredded vegetables with seasoning\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nFried shrimp and scallops",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Mushy peas that are soft\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Low-fat coconut alcohol-free cocktail\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Roasted almonds\n8. Almonds coated with butter and salt\n9. Low fat diced baked or fried potatoes\n10. Low fat assorted fruit dessert"
         ]
     }
 }
