@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Do you like Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dairy products?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bread or pasta?",
+                "response": "pasta"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying something from another cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPepperoni, sausage, onion, green pepper, and mushroom pizza\nCreamy base with dill flavoring, eggs, and noodles\nGarlic bread with cheddar, green onions, and mayonnaise\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nItalian salad made from romain lettuce, artichokes, and tomatoes\nAssorted cheese soup with chicken\nItalian spinach and tortellini soup\nBaked lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n''''",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nAssorted cheese soup with chicken\nCheese and olive appetizer made to look like an eyeball\nMozzarella dip recipe\nCheese with crackers\nCreamy base with dill flavoring, eggs, and noodles\nHomemade soup with chicken, noodles, and spices\nBaked breakfast bars made with nuts and seeds",
+            "Cheese and vegetable soup with a beer broth\nLasagna with whole wheat noodles, low fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nPeppermint chocolate bonbon\nCalcium-rich soup with broccoli and beans\nItalian salad made from romaine lettuce, artichokes, and tomatoes\nGrilled salmon seasoned with salt and pepper\nGarlic bread with cheddar, green onions, and mayonnaise\nVery low-fat assortment of shredded vegetables with seasoning",
+            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Assorted cheese soup with chicken\n9. Italian salad made from romain lettuce, artichokes, and tomatoes\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nPeppermint chocolate bonbon\nBaked spinach quiche containing bacon\nCheese and vegetable soup with a beer broth\nCheese and olive appetizer made to look like an eyeball\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n''''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nChicken cooked and flavored with lemon sauce\n****\nPeppermint chocolate bonbon\n****\nCheese and crackers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nMozzarella dip recipe\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****",
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Baked breakfast bars made with nuts and seeds\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Turkey, bacon, chicken broth, and seasoned\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Assorted cheese soup with chicken\n****\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBaked breakfast bars made with nuts and seeds\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBaked spinach quiche containing bacon\n****\nBroccoli cheddar chowder\n****\nEasy homemade lasagna recipe\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCheese and vegetable soup with a beer broth\n****\nSpanish rice with chicken breast\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nRoasted almonds\n****\nHot pot that is not spicy\n****\nMozzarella dip recipe\n****\nMushy peas that are soft\n****\nEggless sauerkraut cake\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Assorted cheese soup with chicken\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves",
+            " Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nAssorted cheese soup with chicken\nCheese and olive appetizer made to look like an eyeball\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nBread made swiss style with swiss cheese\nItalian salad made from romain lettuce, artichokes, and tomatoes"
+        ]
+    }
+}

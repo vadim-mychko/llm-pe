@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Do you eat pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fruit-flavoured desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fish that is grilled or pan seared?",
+                "response": "grilled"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like foods with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Cheesecake made with cream cheese\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with shrimp, onions, and scallops\n8. Fried shrimp and scallops\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Roasted almonds",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n2. Low fat sweet potato fries made with cajun seasoning\n****\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n4. Creamy base with dill flavoring, eggs, and noodles\n****\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n6. Peach cobbler dessert containing whole wheat flour\n****\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\n8. Baked spinach quiche containing bacon\n****\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n****\n10. Hot pot that is not spicy\n****",
+            "1. Baked spinach quiche containing bacon\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Diggestion-friendly waffles\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Peppermint chocolate bonbon\n8. Roasted almonds\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Mozzarella dip recipe",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nNorway cake with lingonberry and whipped cream layers\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nFried shrimp and scallops\n****\nSimple creamy oyster soup\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Poke of tofu, mushroom and tomatoes\n6. Fish and seafood soup\n7. Fried shrimp and scallops\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Shrimp, onions, and scallops soup\n10. Salmon cooked with lemon sauce",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFish and Shrimp bisque\nShrimp with noodles, peppers, onions, and zucchini\nFish pie with haddock, carrots, and peas\nBaked Orange Cod with Lemon Butter\nFish with coconut milk\nGrilled Tuna\nPan-fried halibut fillet with lemon and herbs\n''''",
+            " Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nShrimp, onions, and scallops soup\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti with mussels, anchovy fillets, and capers\nSpaghetti noodles with mussels, anchovy fillets, and capers\nTuna with capers, olives, and lemon wedges\nSwordfish grilled with herbs and spices\nPoached tilapia with lemon wedges\nDeep fried crispy calamari\nLobster bisque",
+            " Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nCreamy base with dill flavoring, eggs, and noodles\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBread made swiss style with swiss cheese\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nCheese and vegetable soup with a beer broth\n",
+            "Salmon fillets grilled in a pan with herbs and spices\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nPork chops glazed with milk and cooked without nuts\nAlmonds coated with butter and salt\nRoasted almonds\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nHomemade soup with chicken, noodles, and spices"
+        ]
+    }
+}

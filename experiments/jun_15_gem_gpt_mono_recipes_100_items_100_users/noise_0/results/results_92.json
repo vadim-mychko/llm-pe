@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "What kind of meat do you prefer?\n(Beef, chicken, fish, pork, turkey)",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try the salmon fillets grilled in a pan with herbs and spices?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try the soup made with ground turkey that is low fat, high carb?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try the 2-ingredient yogurt from scratch?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try the shredded barbecued pork shoulder?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fries?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetable stew?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try cheese and crackers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try the vegetable soup with a beer broth?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Large portion fries with gravy and bacon\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Queso made from melted cheese and chili peppers\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nGrilled salmon seasoned with salt and pepper\nChicken cooked and flavored with lemon sauce\nPeppermint chocolate bonbon\nBaked spinach quiche containing bacon\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Roasted almonds\n6. Grilled salmon seasoned with salt and pepper\n7. Low fat sweet potato fries made with cajun seasoning\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Taiwanese deep fried crispy chicken cutlets\n10. Chicken cooked and flavored with lemon sauce",
+            " 2-ingredient yogurt from scratch\nSoup made with ground turkey that is low fat, high carb\nGrilled salmon fillets seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked spinach quiche containing bacon",
+            "1. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n2. Soup made with vegetables and chicken\n3. Sandwich made with: grilled / broiled marinated chicken\n4. Grilled salmon seasoned with salt and pepper\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Baked mozzarella cheese sticks with marinara sauce\n7. Roasted almonds\n8. Classic salad with creamy caesar dressing and croutons\n9. Fried shrimp and scallops\n10. Simple creamy oyster soup",
+            "2-ingredient yogurt from scratch\nSoup made with ground turkey that is low fat, high carb\nSalmon fillets grilled in a pan with herbs and spices\nShredded barbecued pork shoulder\nBaked goods\nSoup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes",
+            "****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMildly spicy chili recipe\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBaked spinach quiche containing bacon\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****",
+            "Cheese with crackers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoasted almonds\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nPeach cobbler dessert containing whole wheat flour\nSpaghetti noodles with mussels, anchovy fillets, and capers\nMozzarella dip recipe\nPeppermint chocolate bonbon\nCheese and olive appetizer made to look like an eyeball",
+            "1. Cheese and crackers\n2. Mozzarella dip recipe\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Assorted cheese soup with chicken\n5. Cheese with crackers\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Queso made from melted cheese and chili peppers\n8. Almonds coated with butter and salt\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "1. **Grilled salmon seasoned with salt and pepper**\n2. **Roasted almonds**\n3. **Very low-fat assortment of shredded vegetables with seasoning**\n4. **Mushroom peas that are soft**\n5. **Low fat diced baked or fried potatoes**\n6. **Low sugar applesauce cupcakes**\n7. **Smoothie made from banana puree with milk**\n8. **Low fat breakfast pie made with sausage (pork) and apples**\n9. **Stuffed baked potato with cheese sauce**\n10. **Banana bread made with whole wheat flour and walnuts**"
+        ]
+    }
+}

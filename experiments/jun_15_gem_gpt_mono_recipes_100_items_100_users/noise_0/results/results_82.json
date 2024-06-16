@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low-fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soy-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPeppermint chocolate bonbon\n****\nLow fat diced baked or fried potatoes\n****\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Fried shrimp and scallops\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nCheese and olive appetizer made to look like an eyeball\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nPeppermint chocolate bonbon\nSugar-free peanut butter cookies\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\n''''",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Poke of tofu, mushroom and tomatoes\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Chopped French duck confit preserved by duck oil\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "1. Baked squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. 2-ingredient yogurt from scratch\n3. Roasted almonds\n4. Cheesecake made with cream cheese\n5. Milkshake made with fresh strawberries and ice cream\n6. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n7. Eggs cooked with lemon sauce\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. Muffins made from whole wheat flour\n10. Berry cobbler that uses frozen mixed berries",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \nItalian salad made from romain lettuce, artichokes, and tomatoes.\nChicken breasts stuffed with bacon and mozzarella\nPork chops glazed with milk and cooked without nuts\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked spinach quiche containing bacon\nClassic salad with creamy caesar dressing and croutons\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPeach cobbler dessert containing whole wheat flour",
+            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nLow fat sweet potato fries made with cajun seasoning\nPeppermint chocolate bonbon\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow fat diced baked or fried potatoes\nMeatballs made with ground beef and ground pork",
+            "Beef stew made with beef, carrots and potatoes\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nKorean soup containing beef brisket and flavoured with red pepper powder\nPeppermint chocolate bonbon\nMozzarella cheese sticks with marinara sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "****\nBeef stew made with beef, carrots and potatoes\n****\nHigh protein skillet with rice and vegetables\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nMildly spicy chili recipe\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSpanish rice with chicken breast\n****",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat sweet potato fries made with cajun seasoning\nGrilled salmon seasoned with salt and pepper\nPeppermint chocolate bonbon\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "99": {
+        "conv_hist": [
+            {
+                "query": "Do you have a preference for vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stir-fries?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like squash?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "High protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Baked spinach quiche containing bacon\n3. Pulled pork shoulder for Chinese dragon boat festival\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Pork chops glazed with milk and cooked without nuts\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Grilled salmon seasoned with salt and pepper",
+            "1) High protein skillet with rice and vegetables\n2) Grilled salmon seasoned with salt and pepper\n3) Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4) Beef stew made with beef, carrots and potatoes\n5) Very low-fat assortment of shredded vegetables with seasoning\n6) South African vegetable curry flavoured with curry powder and ground tumeric\n7) Spaghetti noodles with mussels, anchovy fillets, and capers\n8) Italian salad made from romain lettuce, artichokes, and tomatoes\n9) Sweet salad made with corn and three types of beans\n10) Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. High protein skillet with rice and vegetables\n2. Grilled salmon seasoned with salt and pepper\n3. Beef stew made with beef, carrots and potatoes\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with vegetables and chicken\n8. Soup made with shrimp, onions, and scallops\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Grilled salmon seasoned with salt and pepper\n5. Beef stew made with beef, carrots and potatoes\n6. Chopped French duck confit preserved by duck oil\n7. Queso made from melted cheese and chili peppers\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n10. Grilled salmon roasted with olive oil, chives, and tarragon leaves\n'''",
+            "****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nGrilled salmon seasoned with salt and pepper\n****\nQueso made from melted cheese and chili peppers\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMildly spicy chili recipe\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nRoasted almonds\n****\nHot pot that is not spicy\n****\nSpanish rice with chicken breast",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Vegetable soup made with cabbage, carrots, potatoes and onions\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Chopped French duck confit preserved by duck oil\n****\n High protein skillet with rice and vegetables\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Grilled salmon seasoned with salt and pepper\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Cabbage, carrots, potatoes, and onions soup\n3. Chinese eggplant and zucchini salad flavoured with soy sauce\n4. High protein skillet with rice and vegetables\n5. Soup made with ground turkey that is low fat, high carb\n6. Low sugar applesauce cupcakes\n7. Cream of dill soup\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Soup made with onions, carrots, and celery ribs\n10. South African vegetable curry flavoured with curry powder and ground tumeric",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            " Grilled vegetables (zucchini, tomatoes, and mushrooms) seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nChopped French duck confit preserved by duck oil\nSmoked turkey and cheese sandwich\nVery low-fat assortment of shredded vegetables with seasoning\nMildly spicy chili recipe\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce"
+        ]
+    }
+}

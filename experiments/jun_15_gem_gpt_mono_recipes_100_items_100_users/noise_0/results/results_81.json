@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Do you like hot food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbecue food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "fish"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a grilled salmon dish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like shrimp?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like scallops?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mussels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. 2-ingredient yogurt from scratch\n3. Grilled salmon seasoned with salt and pepper\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Garlic bread with cheddar, green onions, and mayonnaise\n6. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n7. Baked breakfast bars made with nuts and seeds\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n10. Smoothie made from banana puree with milk\n'''",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Queso made from melted cheese and chili peppers\n4. Veggie stirfry with tofu (and your choice of protein)\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n7. Vegetable stir fry\n8. Peach cobbler dessert containing whole wheat flour\n9. Applesauce\n10. Assorted cheese soup with chicken\n",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nShrimp, onions, and scallops soup\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nChicken breasts stuffed with bacon and mozzarella\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpanish rice with chicken breast\n",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHomemade soup with chicken, noodles, and spices\nHot pot that is not spicy",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\n",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSoup made with shrimp, onions, and scallops\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nShrimp and scallops fried\nSoup made with shrimp, onions, and scallops\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nPoke of tofu, mushroom and tomatoes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSoup made with shrimp, onions, and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nSalmon roasted with olive oil, chives, and tarragon leaves\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\n'''"
+        ]
+    }
+}
