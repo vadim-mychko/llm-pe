@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to grab a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi or Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do salads sound appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for French cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Moroccan cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Green Line Cafe \nParc \nSpread Bagelry \nOteri's Italian Bakery | North 5th St \nGran Caffe L'Aquila \nRival Bros Coffee \nCJ & Eck's \nLove & Honey Fried Chicken \nCafe L'Aube \nMcMenamin's Tavern",
+            "1. Daleng Restaurant \n2. Federal Donuts \n3. Five Guys \n4. Fiore Fine Foods \n5. Green Leafs & Bananas \n6. Luhv Vegan Deli \n7. Oishii Pok\u00e9 \n8. Spread Bagelry \n9. CJ & Eck's \n10. Rival Bros Coffee",
+            " Mood Indian Restaurant\nLocal Tavern\nDaleng Restaurant\nGolden Triangle\nThe Juice Merchant\nWater Works Restaurant & Lounge\nFuji Mountain\nIzumi\nKanok\nLacroix Restaurant at The Rittenhouse",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Zuzu's Kitchen \n4. Daleng Restaurant \n5. Germantown Garden \n6. CO-OP Restaurant & Lounge \n7. Grain Exchange\n8. The Grill  Smuckers \n9. The Blue Duck \n10. Pearl's Oyster Bar\n",
+            "Water Works Restaurant & Lounge \nZuzu's Kitchen \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nGrain Exchange \nThe Juice Merchant \nThe Milk House \nThe Grill  Smuckers \nCO-OP Restaurant & Lounge \nThe Blue Duck",
+            "Golden Triangle \\n\nThe Continental Restaurant and Martini Bar \\n\nChinatown 11 \\n\nThe Blue Duck \\n\nTrolley Car Cafe \\n\nGreen Leafs & Bananas \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nDim Sum House \\n\nSteve's Prince of Steaks \\n\nThe Cheesecake Factory",
+            "1. Lacroix Restaurant at The Rittenhouse\n2. Bistrot SouthEast\n3. Gran Caffe L'Aquila\n4. Le Pain Quotidien\n5. Parc\n6. Cafe L'Aube\n7. CinCin Restaurant\n8. Audrey Claire\n9. Maison 208\n10. Vedge",
+            "1. Parc \n2. Cafe L'Aube \n3. Brasserie Perrier \n4. Gran Caffe L'Aquila \n5. Le Pain Quotidien \n6. A Toute, Ristorante Italiano \n7. Racines \n8. Libert\u00e9 Lounge \n9. Maison 208 \n10. Lacroix Restaurant at The Rittenhouse",
+            " Lacroix Restaurant at The Rittenhouse \nParc \nCafe L'Aube \nLe Pain Quotidien \nLibert\u00e9 Lounge \nGran Caffe L'Aquila \nChez Ben   **discontinued**\nCr\u00eaperie  **discontinued**\nLa Cr\u00eaperie  **discontinued**\nCreperie Beau Monde  **discontinued**"
+        ]
+    }
+}

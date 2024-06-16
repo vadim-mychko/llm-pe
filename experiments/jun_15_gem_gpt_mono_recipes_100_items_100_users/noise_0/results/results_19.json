@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer meals with fish or meat?",
+                "response": "meat"
+            },
+            {
+                "query": "Do you prefer pork or beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer chicken or turkey?",
+                "response": "chicken"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer grilled or baked chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fried chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nChicken cooked and flavored with lemon sauce\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBeef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHigh protein skillet with rice and vegetables",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Spanish rice with chicken breast\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Pulled pork shoulder\n10. Chicken breasts stuffed with bacon and mozzarella",
+            " Baked breakfast bars made with nuts and seeds\nBaked mozzarella cheese sticks with marinara sauce\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nGrilled salmon seasoned with salt and pepper\nLow fat sweet potato fries made with cajun seasoning\nMeatballs made with ground beef and ground pork\nPeach cobbler dessert containing whole wheat flour\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSimple creamy oyster soup\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpanish rice with chicken breast\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nVery low-fat assortment of shredded vegetables with seasoning\n",
+            "Chicken breasts stuffed with bacon and mozzarella\nBaked breakfast bars made with nuts and seeds\nChicken cooked and flavored with lemon sauce\nChicken breasts grilled / broiled marinated\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast turkey with plum sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow fat diced baked or fried potatoes",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken seasoned with salt and pepper\n3. High protein skillet with rice and vegetables\n4. Chicken cooked and flavored with lemon sauce\n5. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n6. Roasted almonds\n7. Turkey cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Low fat diced baked or fried potatoes\n9. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n'''",
+            "****\nChicken cooked and flavored with lemon sauce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nChicken cooked and flavored with lemon sauce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "Chicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nBaked breakfast pie made with sausage (pork) and apples\nShredded barbecued pork shoulder\nRoast chicken with plum sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nChicken cooked and seasoned over a fire\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpanish rice with chicken breast\nGrilled chicken marinated in balsamic vinegar\nChicken stir fry with vegetables and brown rice\nChicken with a slow-cooked sauce made with tomatoes, garlic, and onions\nChicken tacos with cheese, sour cream, and salsa\nChicken and vegetable soup",
+            "1. High protein skillet with rice and vegetables\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Soup made with ground turkey that is low fat, high carb\n5. Low fat, high carb soup made with ground turkey\n6. Hearty soup made with cabbage, carrots, potatoes, and onions\n7. Assorted cheese soup with chicken\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "1. Chicken cooked and flavored with lemon sauce\n2. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Soup made with ground turkey that is low fat, high carb\n5. Assorted cheese soup with chicken\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Sandwich made with: grilled / broiled marinated chicken\n9. Baked spinach quiche containing bacon\n10. Chicken soup flavoured with dill, mustard, salt, and pepper",
+            " Soup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices"
+        ]
+    }
+}

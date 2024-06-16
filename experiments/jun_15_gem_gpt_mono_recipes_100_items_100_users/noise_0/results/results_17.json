@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Do you like fried food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish over meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer poultry over pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer healthy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like food with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like food with nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHomemade soup with chicken, noodles, and spices\nSalmon fillets grilled in a pan with herbs and spices\nSpicy hot pot\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\nSpinach quiche containing bacon\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nHigh protein skillet with rice and vegetables\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nFried shrimp and scallops",
+            " Chicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nChicken cooked and flavored with lemon sauce\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nRoast turkey with plum sauce\n****\nBaked spinach quiche containing bacon\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpanish rice with chicken breast\n****\nStir-fried tofu, noodles and vegetables Bento\n****",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken breasts\n3. Low fat shredded vegetables with seasoning\n4. Chicken and vegetable soup\n5. Turkey noodle soup\n6. Baked breakfast bars made with nuts and seeds\n7. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Soup made with shrimp, onions, and scallops\n10. Peach cobbler dessert containing whole wheat flour",
+            "High protein skillet with rice and vegetables\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRoasted almonds\n",
+            " High protein skillet with rice and vegetables\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nSimple creamy oyster soup\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nClassic salad with creamy caesar dressing and croutons\n****\nChicken cooked and flavored with lemon sauce\n****",
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat smoothies made with greek yogurt, and pineapple\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****",
+            "1. High protein skillet with rice and vegetables\n2. Low fat sweet potato fries made with cajun seasoning\n3. Low sugar applesauce cupcakes\n4. Soup made with ground turkey that is low fat, high carb\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Low fat shredded barbecued pork shoulder\n7. Simple creamy oyster soup\n8. Calcium-rich soup made with broccoli and beans\n9. Low fat diced baked or fried potatoes\n10. Homemade soup with chicken, noodles, and spices",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Chicken cooked and flavored with lemon sauce\n****\n Beef stew made with beef, carrots and potatoes\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Tuna salad made with tuna, mayonnaise, onion, and celery\n****\n Grilled salmon seasoned with salt and pepper\n****\n Homemade soup with chicken, noodles, and spices\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Low fat diced baked or fried potatoes",
+            "High protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nBaked spinach quiche containing bacon\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nPork chops glazed with milk and cooked without nuts\n'''"
+        ]
+    }
+}

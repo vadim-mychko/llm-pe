@@ -1,0 +1,58 @@
+{
+    "53": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy poultry?",
+                "response": "no"
+            },
+            {
+                "query": "Would you rather have a fruit-based or vegetable-based soup?",
+                "response": "fruit-based"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like green salads?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer savory meat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dishes with rice or noodles?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Very low-fat assortment of shredded vegetables with seasoning\nPork chops glazed with milk and cooked without nuts\nLow fat sweet potato fries made with cajun seasoning\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCreamy base with dill flavoring, eggs, and noodles\nNorwegian cake with lingonberry and whipped cream layers\nBerry cobbler that uses frozen mixed berries\nRoasted almonds\nSpaghetti noodles with mussels, anchovy fillets, and capers\nLow fat diced baked or fried potatoes\n",
+            "Grilled salmon seasoned with salt and pepper \\n\nSalmon roasted with olive oil, chives, and tarragon leaves \\n\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime \\n\nSimple creamy oyster soup \\n\nSoup made with onions, carrots, and celery ribs \\n\nAssorted cheese soup with chicken \\n\nBaked spinach quiche containing bacon \\n\nShredded barbecued pork shoulder \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nVeggie fries",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Low sugar applesauce cupcakes\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Low-fat coconut alcohol-free cocktail\n9. Cheese and vegetable soup with a beer broth\n10. Assorted cheese soup with chicken\n'''",
+            " High protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nQueso made from melted cheese and chili peppers\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nChopped French duck confit preserved by duck oil\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nLow sugar applesauce cupcakes",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Soup made from onions, carrots, and celery ribs\n4. Sandwich made with: grilled / broiled marinated chicken\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Soup made with vegetables and chicken\n7. Low fat assorted fruit dessert\n8. Peach cobbler dessert containing whole wheat flour\n9. Sweet salad made with corn and three types of beans\n10. 5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears",
+            "Soup made with cabbage, carrots, potatoes, and onions\nBerry cobbler that uses frozen mixed berries\nLow fat assorted fruit dessert\nSoup made with ground turkey that is low fat, high carb\nFruit smoothie with milk and banana base\nSmoothie made from fruit juice and bananas\nPotassium soup\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with vegetables and chicken\nLow fat smoothies made with greek yogurt, and pineapple\nLow-fat coconut alcohol-free cocktail\nBaked spinach quiche containing bacon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nJam made from blackberries, lemon juice, and sugar\nSweet salad made with corn and three types of beans\nCalcium-rich soup made with broccoli and beans\nLow sugar applesauce cupcakes\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSmoothie made from banana puree with milk\nSoup made with onions, carrots, and celery ribs\n",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Soup made with ground turkey that is low fat, high carb\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Low sugar applesauce cupcakes\n8. Soup made with onions, carrots, and celery ribs\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Classic salad with creamy caesar dressing and croutons\n",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nFruit-Based Soup\nSpaghetti noodles with mussels, anchovy fillets, and capers\nVery low-fat assortment of shredded vegetables with seasoning",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \n2. Peach cobbler dessert containing whole wheat flour\n3. Low sugar applesauce cupcakes\n4. Baked apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Assorted cheese soup with chicken\n6. Cheesecake made with cream cheese\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Queso made from melted cheese and chili peppers\n9. Bread made swiss style with swiss cheese\n10. Grilled salmon seasoned with salt and pepper\n",
+            "Low fat assorted fruit dessert\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nNorway cake with lingonberry and whipped cream layers\nPeach cobbler dessert containing whole wheat flour\nSweet salad made with corn and three types of beans\nCheesecake made with cream cheese\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you care about being able to have coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see options offering delivery services?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants serving dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see restaurants that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to view restaurants offering American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that offer desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see options serving bagels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station\nThe Tasty Toast",
+            "Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFederal Donuts \nHeritage \nThe Grilled  Smuckers \nThe Milk House \nOlive Garden Italian Restaurant \nBaan Thai",
+            " Daleng Restaurant \\n\nFederal Donuts \\n\nSang Kee Peking Duck House \\n\nTu's Tea & Banh Mi South Philly \\n\nDim Sum House \\n\nOishii Pok\u00e9 \\n\nMalbec Argentine Steakhouse \\n\nFederal Donuts \\n\nFederal Donuts \\n\nFederal Donuts",
+            "- Canton 11\n- Daleng Restaurant\n- Dim Sum House\n- Federal Donuts\n- Golden Triangle\n- KC's Pastries\n- Malbec Argentine Steakhouse\n- Sang Kee Peking Duck House\n- Sister Muhammad's Kitchen\n- Tu's Tea & Banh Mi South Philly",
+            "Sang Kee Peking Duck House \nCanton 11 \nDim Sum House \nDaleng Restaurant \nGolden Triangle \nFederal Donuts \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nCinCin Restaurant \nMalbec Argentine Steakhouse",
+            "Daleng Restaurant \nChinatown 11 \nCantonese \nThe QUICK FIXX \nEvan's Pizza\nBlackbird Pizzeria \nJack's Firehouse\nCrawdaddy's \nParc\nLucky's Last Chance",
+            "Daleng Restaurant\nFuji Mountain\nSang Kee Peking Duck House\nCanton 11\nTu's Tea & Banh Mi South Philly\nDim Sum House\nBlackbird Pizzeria\nThe QUICK FIXX\nNew York Gyro Truck\nSister Muhammad's Kitchen",
+            "Daleng Restaurant \nGrain Exchange \nFederal Donuts \nSang Kee Peking Duck House \nCanton 11 \nVedge \nThe Continental Restaurant and Martini Bar \nEssene Market & Caf\u00e9 \nDim Sum House \nChestnut 7",
+            "1. The Juice Merchant \n2. Golden Triangle \n3. Valley Green Inn \n4. Cantin 11 \n5. Zuzu's Kitchen \n6. Evan's Pizza \n7. The QUICK FIXX \n8. Blackbird Pizzeria \n9. The Cheesecake Factory \n10. Parc",
+            "Canton 11 \nSang Kee Peking Duck House \nDim Sum House \nVeda - Modern Indian Bistro \nMood Indian Restaurant \nDaleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nSisiter Muhammad's Kitchen \nTu's Tea & Banh Mi South Philly"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in getting coffee or tea with your meal?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have a preference towards vegetarian or vegan places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you specifically looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to have a sandwich or bagel with your beverage?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a sandwich in a bakery setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sandwich in a cafe setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to have bagles with your beverage?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Mugshots Coffeehouse \nJake's & Cooper's Wine Bar & Wine Shop \nPaddy's Old City Pub \nBloomsday Cafe \nOlive Garden Italian Restaurant \nMisconduct Tavern \nThe Continental Restaurant and Martini Bar \nSpread Bagelry \nThe Green Line Cafe \nRival Bros Coffee",
+            "1. The Juice Merchant \n2. Le Pain Quotidien \n3. Mugshots Coffeehouse \n4. Bloomsday Cafe \n5. Benna's Cafe \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. The Green Line Cafe \n9. Spread Bagelry \n10. Rival Bros Coffee",
+            "1. CO-OP Restaurant & Lounge \n2. Mugshots Coffeehouse \n3. Bloomsday Cafe \n4. Benna's Cafe\n5. The Continental Restaurant and Martini Bar \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. Macaroni's Restaurant \n8. The El Bar \n9. Cook and Shaker \n10. Betty's Speakeasy",
+            "Zuzu's Kitchen \nThe Juice Merchant \nBenna's Cafe \nBetty's Speakeasy \nThe Green Line Cafe \nThe QUICK FIXX \nGreen Leafs & Bananas \nSpread Bagelry \nTu's Tea & Banh Mi South Philly \nKC's Pastries",
+            "Grain Exchange \nFederal Donuts \nThe Juice Merchant \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nCafe L'Aube \nRival Bros Coffee \nGran Caffe L'Aquila \nBetty's Speakeasy",
+            "1. Oteri's Italian Bakery | North 5th St \n2. Tu's Tea & Banh Mi South Philly \n3. The Juice Merchant \n4. Green Leafs & Bananas \n5. The Green Line Cafe \n6. Spread Bagelry \n7. Rival Bros Coffee \n8. Betty's Speakeasy \n9. Fiore Fine Foods \n10. KC's Pastries",
+            "The Green Line Cafe\nSpread Bagelry\nWawa\nBloomsday Cafe\nBetty's Speakeasy\nRival Bros Coffee\nFederal Donuts\nCafe L'Aube\nGran Caffe L'Aquila\nChestnut 7",
+            "1. Spread Bagelry\n2. The Green Line Cafe\n3. Rival Bros Coffee\n4. Bloomsday Cafe\n5. Mugshots Coffeehouse\n6. Betty's Speakeasy\n7. Fiore Fine Foods\n8. Le Pain Quotidien\n9. Parc \n10. Cafe L'Aube",
+            "Tu's Tea & Banh Mi South Philly \nBetty's Speakeasy \nThe Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods \nKC's Pastries \nEvan's Pizza \nThe Juice Merchant",
+            "The Juice Merchant \nBetty's Speakeasy \nThe Green Line Cafe \nSpread Bagelry \nWawa \nKC's Pastries \nThe QUICK FIXX \nLisa's Kitchen \nGreen Leafs & Bananas \nRival Bros Coffee \nGran Caffe L'Aquila"
+        ]
+    }
+}

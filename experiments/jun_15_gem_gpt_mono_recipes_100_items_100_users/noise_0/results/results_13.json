@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty snacks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nBacon cheeseburger containing grilled / broiled hamburger with bacon\nStir-fried tofu, noodles and vegetables Bento\nHomemade soup with chicken, noodles, and spices\nBaked mozzarella cheese sticks with marinara sauce\n'''",
+            "****\nChicken breasts stuffed with bacon and mozzarella\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast turkey with plum sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpanish rice with chicken breast\n****\nChicken cooked and flavored with lemon sauce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Cheese with crackers\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Pork chops glazed with milk and cooked without nuts\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Fried shrimp and scallops",
+            "Sweet salad made with corn and three types of beans\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPork chops glazed with milk and cooked without nuts\nClassic salad with creamy caesar dressing and croutons\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat diced baked or fried potatoes\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nSpanish rice with chicken breast\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Baked spinach quiche containing bacon\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nMilkshake made with fresh strawberries and ice cream\nSmoothie made from banana puree with milk\n\u4f4e\u8102\u5207\u788e\u70d8\u70e4\u6216\u6cb9\u70b8\u571f\u8c46",
+            "Chocolate and orange-flavoured smoothie\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nLow fat assorted fruit dessert\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked breakfast bars made with nuts and seeds",
+            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow fat baked breakfast pie made with sausage (pork) and apples\nBaked spinach quiche containing bacon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''",
+            "Baked spinach quiche containing bacon\nChicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "Low sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeach cobbler dessert containing whole wheat flour\nPeppermint chocolate bonbon\nAlmonds coated with butter and salt",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nPeppermint chocolate bonbon\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nLow fat diced baked or fried potatoes\nMilkshake made with fresh strawberries and ice cream\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get ethnic food with a Korean menu?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a restaurant with Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with a Thai menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with an Italian menu?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for American food with an Italian menu?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nDaleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nDim Sum House\nOishii Pok\u00e9\nKC's Pastries\nSang Kee Peking Duck House\nCanton 11",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nAudrey Claire\nGran Caffe L'Aquila\nFederal Donuts\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly\nVedge\nHey Hummus\nEssene Market & Caf\u00e9",
+            "- Monsoon Indian Restaurant\n- Sang Kee Peking Duck House\n- New York Gyro Truck\n- Audrey Claire\n- Pure Tacos\n- Fiore Fine Foods\n- Talluto's Authentic Italian Food\n- Castellino's\n- The QUICK FIXX\n- KC's Pastries",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nSang Kee Peking Duck House \\n\nDim Sum House \\n\nKC's Pastries \\n\nMiga Korean BBQ & Sushi \\n\nNew York Gyro Truck \\n\nPure Tacos",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nFederal Donuts",
+            "1. Dim Sum House\n2. Fiore Fine Foods\n3. New York Gyro Truck\n4. KC's Pastries\n5. Lucky's Last Chance\n6. Oishii Pok\u00e9\n7. Pure Tacos\n8. Castellino's\n9. Talluto's Authentic Italian Food\n10. The Fresh Grocer - Progress Plaza",
+            "Daleng Restaurant \nGolden Triangle \nCanton 11 \nDim Sum House \nOishii Pok\u00e9 \nKC's Pastries \nNew York Gyro Truck \nPure Tacos \nAudrey Claire \nSang Kee Peking Duck House",
+            "1. Sang Kee Peking Duck House \n2. Dim Sum House \n3. KC's Pastries \n4. Betty's Speakeasy \n5. Spread Bagelry \n6. Lisa's Kitchen \n7. Fiore Fine Foods \n8. Oteri's Italian Bakery | North 5th St \n9. The El Bar \n10. Benna's Cafe",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nPrimoHoagies \nMacaroni's Restaurant \nThe QUICK FIXX \nFiorentina Pizzeria & Restaurant \nRistorante La Buca \nVedge \nMonster Vegan \nDaleng Restaurant",
+            "A Tutti, Ristorante Italiano\nTalluto's Authentic Italian Food\nCastelino's\nOlive Garden Italian Restaurant\nMacaroni's Restaurant\nRistorante La Buca \nCinCin Restaurant\nOteri's Italian Bakery | North 5th St \n Fiore Fine Foods\nGran Caffe L'Aquila"
+        ]
+    }
+}

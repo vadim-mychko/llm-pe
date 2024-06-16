@@ -1,0 +1,58 @@
+{
+    "22": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy baking desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Pork chops glazed with milk and cooked without nuts\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n7. Shredded barbecued pork shoulder\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Roasted almonds\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n",
+            "Skillet with rice and vegetables\nSmoothie made from fruit juice and bananas\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBeef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPeppermint chocolate bonbon\nStrawberry milkshake\nAlmonds coated with butter and salt",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n 2-ingredient yogurt from scratch\n****\n High protein skillet with rice and vegetables\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Low fat smoothies made with greek yogurt, and pineapple\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage\n****\nCheese and vegetable soup with a beer broth\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nLow fat shredded vegetables with seasoning\n****\nPeppermint chocolate bonbon",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Low fat diced baked or fried potatoes\n5. Pork chops glazed with milk and cooked without nuts\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Roasted almonds\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "1. Low fat baked breakfast pie made with sausage (pork) and apples\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Grilled salmon seasoned with salt and pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Pork chops glazed with milk and cooked without nuts\n6. Low fat diced baked or fried potatoes\n7. Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Fried shrimp and scallops\n9. Shredded barbecued pork shoulder\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nLow fat diced baked or fried potatoes\n****\nShredded barbecued pork shoulder\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nLow-fat coconut alcohol-free cocktail\n****\nPolish sausage with fermented cabbage\n****\nMeatballs made with ground beef and ground pork\n****\nLarge portion fries with gravy and bacon",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Shredded barbecued pork shoulder\n****\n Low fat diced baked or fried potatoes\n****\n Baked breakfast bars made with nuts and seeds\n****\n Hot pot that is not spicy\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nShredded barbecued pork shoulder \\n\nPork chops glazed with milk and cooked without nuts \\n\nSticky rice wrapped pork shoulder for Chinese dragon boat festival \\n\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce \\n\nKorean soup containing beef brisket and flavoured with red pepper powder \\n\nPolish sausage with fermented cabbage \\n\nLow fat diced baked or fried potatoes \\n\nSpanish rice with chicken breast \\n\nBaked mozzarella cheese sticks with marinara sauce",
+            "1. High protein skillet with rice and vegetables\n2. Chopped French duck confit preserved by duck oil\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Low fat sweet potato fries made with cajun seasoning\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Dog food made from pork, green beans, cheddar cheese and brown rice\n8. Shredded barbecued pork shoulder\n9. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n10. Low fat diced baked or fried potatoes"
+        ]
+    }
+}

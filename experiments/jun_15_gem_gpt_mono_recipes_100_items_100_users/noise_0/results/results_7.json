@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSpaghetti noodles with mussels, anchovy fillets, and capers\nChocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPork chops glazed with milk and cooked without nuts\nSweet salad made with corn and three types of beans\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCalcium-rich soup made with broccoli and beans\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n'''",
+            "1. Low fat diced baked or fried potatoes\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Low sugar applesauce cupcakes\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Grilled salmon seasoned with salt and pepper\n8. Low fat sweet potato fries made with cajun seasoning\n9. Baked spinach quiche containing bacon\n10. Simple creamy oyster soup\n'''",
+            "1. Low fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Soup made with ground turkey that is low fat, high carb\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Low fat diced baked or fried potatoes\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. 2-ingredient yogurt from scratch\n8. Low sugar applesauce cupcakes\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Calcium-rich soup made with broccoli and beans",
+            "**1. 2-ingredient yogurt from scratch**\n**2. Garlic bread with cheddar, green onions, and mayonnaise**\n**3. Cheese with crackers**\n**4. Low fat diced baked or fried potatoes**\n**5. Roasted almonds**\n**6. 2-ingredient yogurt from scratch**\n**7. Almonds coated with butter and salt**\n**8. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk**\n**9. Breakfast egg, bean, and cheese burrito with jalapeno peppers**\n**10. Homemade soup with chicken, noodles, and spices**",
+            " Pork chops glazed with milk and cooked without nuts\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nGrilled salmon seasoned with salt and pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRoasted almonds\nSpanish rice with chicken breast\nLow fat sweet potato fries made with cajun seasoning",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBerry cobbler that uses frozen mixed berries\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nMozzarella dip recipe",
+            "High protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpanish rice with chicken breast\nStir-fried tofu, noodles and vegetables Bento\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nCreamy base with dill flavoring, eggs, and noodles",
+            "High protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpanish rice with chicken breast\nStir-fried tofu, noodles and vegetables Bento\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            "High protein skillet with rice and vegetables\nRice with chicken breast\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nBaked spinach quiche containing bacon\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeach cobbler dessert containing whole wheat flour",
+            "High protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpanish rice with chicken breast\nPork chops glazed with milk and cooked without nuts\nRoast chicken sandwich with mozzarella, banana pepper rings and romaine lettuce\nChicken breasts stuffed with bacon and mozzarella\nSandwich made with: grilled / broiled marinated chicken\nBaked spinach quiche containing bacon\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\nLow fat sweet potato fries made with cajun seasoning"
+        ]
+    }
+}

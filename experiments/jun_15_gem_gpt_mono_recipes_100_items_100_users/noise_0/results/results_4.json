@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pastries?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets that are low-fat?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Large portion fries with gravy and bacon\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Low fat sweet potato fries made with cajun seasoning\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Queso made from melted cheese and chili peppers\n6. Pulled pork in barbecue sauce containing onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Shredded barbecued pork shoulder\n9. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n10. Chicken breasts stuffed with bacon and mozzarella",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled salmon seasoned with salt and pepper\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBeef stew made with beef, carrots and potatoes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low-sugar applesauce cupcakes\n3. Baked spinach quiche containing bacon\n4. Pepperoni pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled salmon roasted with olive oil, chives, and tarragon leaves\n9. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n10. Shredded barbecued pork shoulder\n''''",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Baked spinach quiche containing bacon\n3. Peach cobbler dessert containing whole wheat flour\n4. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Low fat sweet potato fries made with cajun seasoning\n9. Norway cake with lingonberry and whipped cream layers\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n'''",
+            "1. Large portion fries with gravy and bacon\n2. Sweet salad made with corn and three types of beans\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Classic salad with creamy caesar dressing and croutons\n5. Peach cobbler dessert containing whole wheat flour\n6. Grilled salmon seasoned with salt and pepper\n7. Mildly spicy chili recipe\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Garlic bread with cheddar, green onions, and mayonnaise\n10. Queso made from melted cheese and chili peppers",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nNorway cake with lingonberry and whipped cream layers\nPeppermint chocolate bonbon\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked spinach quiche containing bacon\nPeach cobbler dessert containing whole wheat flour\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nBaked mozzarella cheese sticks with marinara sauce",
+            "Chocolate and orange-flavoured smoothie \\n\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nBaked spinach quiche containing bacon \\n\nLow sugar applesauce cupcakes \\n\nSugar-free peanut butter cookies \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nNorway cake with lingonberry and whipped cream layers \\n\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip \\n\nPeach cobbler dessert containing whole wheat flour",
+            "****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nChocolate and orange-flavoured smoothie\n****\nLow sugar applesauce cupcakes\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nBaked spinach quiche containing bacon\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nNorway cake with lingonberry and whipped cream layers\n****\nPeppermint chocolate bonbon\n****\nPeach cobbler dessert containing whole wheat flour\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nLow-fat coconut alcohol-free cocktail\n****\nMozzarella dip recipe\n****\nSlushie drink made from orange juice blended with ice\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nOatmeal made with milk\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow fat diced baked or fried potatoes\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nAlmond milk spiced smoothie\n****\nBanana muffins flavoured with toasted walnuts\n****\nStrawberry shortcake made with angel food cake\n****\nPeanut butter sweet potato dip",
+            " Chocolate and orange-flavoured smoothie\n****\n Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\n Low sugar applesauce cupcakes\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Norway cake with lingonberry and whipped cream layers\n****\n Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n Peppermint chocolate bonbon\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Berry cobbler that uses frozen mixed berries\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n"
+        ]
+    }
+}

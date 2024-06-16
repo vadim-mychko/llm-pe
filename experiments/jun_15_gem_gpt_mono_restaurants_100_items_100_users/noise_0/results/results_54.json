@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in coffee shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places serving Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place for breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve dessert?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Vietnamese cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Jack's Firehouse \nSouth Square Pizza \nThe Blue Duck \nGran Caffe L'Aquila \nBardot \nThe Mill at the Pier \nIHOP \nHigh Street on Market \nEl Rey \nParc",
+            " Golden Triangle \n Daleng Restaurant \nFederal Donuts \nFederal Donuts \nCanton 11 \nMiga Korean BBQ & Sushi \nNorth Bowl \nTu's Tea & Banh Mi South Philly \nJD Mcgillicuddy's Manayunk \nPure Tacos",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nZuzu's Kitchen \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Tasty Toast \nIzumi",
+            "Monkok Station \\n\nCanton 11 \\n\nNew York Gyro Truck \\n\nOishii Poke \\n\nGreen Leafs & Bananas \\n\nGran Caffe L'Aquila \\n\nCafe L'Aube \\n\nRival Bros Coffee \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGran Caffe L'Aquila \nRoy-Pitz Barrel House \nDim Sum House \nVedge \nJake's & Cooper's Wine Bar & Wine Shop \nRistorante La Buca \nFiore Fine Foods",
+            " Daleng Restaurant\nGolden Triangle\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nSang Kee Peking Duck House\nCanton 11\nFederal Donuts\nOishii Pok\u00e9\nAudrey Claire",
+            " Golden Triangle \n Daleng Restaurant \n CinCin Restaurant \n Bistro SouthEast \n Canton 11 \n Miga Korean BBQ & Sushi \n Tu's Tea & Banh Mi South Philly \n Evan's Pizza \n Ristorante La Buca \n Oishii Pok\u00e9",
+            " Golden Triangle \n****\n Daleng Restaurant \n****\n CinCin Restaurant \n****\n Heritage \n****\n Bistro SouthEast \n****\n Canton 11 \n****\n Miga Korean BBQ & Sushi \n****\n Tu's Tea & Banh Mi South Philly \n****\n Dim Sum House \n****\n Oishii Pok\u00e9 \n****",
+            "Golden Triangle\nDaleng Restaurant\nCanton 11\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nBistro SouthEast\nBaan Thai\nDim Sum House\nSang Kee Peking Duck House\nVeda - Modern Indian Bistro"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizzerias?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants that serve pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian restaurants that serve seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that serve Italian seafood pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer restaurants that serve Italian seafood pasta dishes for lunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian seafood pasta for dinner?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nDaleng Restaurant \nThe Tasty Toast \nCinCin Restaurant \nHeritage \nVeda - Modern Indian Bistro \nFederal Donuts",
+            "1. Izumi\n2. Malbec Argentine Steakhouse\n3. Audrey Claire\n4. Parc\n5. Ristorante La Buca\n6. Sang Kee Peking Duck House\n7. Bistro SouthEast\n8. Miga Korean BBQ & Sushi\n9. Olive Garden Italian Restaurant\n10. Pearl's Oyster Bar",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nVedge \nMonster Vegan \nPrimoHoagies \nThe QUICK FIXX \nCaffe L'Aube \nGran Caffe L'Aquila \nOteri's Italian Bakery | North 5th St \nCastellino's",
+            "1. Ristorante La Buca \\n\n2. Fiore Fine Foods \\n\n3. Castellino's \\n\n4. PrimoHoagies \\n\n5. A Tutti, Ristorante Italiano \\n\n6. Macaroni's Restaurant \\n\n7. Talluto's Authentic Italian Food \\n\n8. CinCin Restaurant \\n\n9. The QUICK FIXX \\n\n10. Gran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano \n2. Castellino's \n3. Talluto's Authentic Italian Food \n4. Olive Garden Italian Restaurant \n5. Macaroni's Restaurant \n6. The QUICK FIXX \n7. Ristorante La Buca \n8. Oteri's Italian Bakery | North 5th St \n9. Fiore Fine Foods \n10. Gran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano \\n\n2. Castellino's \\n\n3. Talluto's Authentic Italian Food \\n\n4. CinCin Restaurant \\n\n5. Mugshots Coffeehouse \\n\n6. PrimoHoagies \\n\n7. The QUICK FIXX \\n\n8. Macaroni's Restaurant \\n\n9. Ristorante La Buca \\n\n10. Oteri's Italian Bakery | North 5th St",
+            "Ristorante La Buca \nCaffe L'Aube \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nCastellino's \nVedge \nLucapa \nMacaroni's Restaurant \nAudrey Claire \nZezamora \nLa Viola Ovest",
+            "1. Ristorante La Buca\n2. Audrey Claire\n3. Lacroix \n4. A Tutti, Ristorante Italiano\n5. Gran Caffe L'Aquila\n6. Fiore Fine Foods\n7. Talluto's Authentic Italian Food\n8. Castellino's\n9. PrimoHoagies \n10. Olive Garden Italian Restaurant",
+            " Ristorante La Buca \nDaleng Restaurant \nPrimoHoagies \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nMacaroni's Restaurant \nThe QUICK FIXX \nOlive Garden Italian Restaurant \nLuigi Italian Restaurant",
+            "Lacroix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nSang Kee Peking Duck House \nVeda - Modern Indian Bistro \nBaan Thai \nMacaroni's Restaurant \nRistorante La Buca \nPearl's Oyster Bar"
+        ]
+    }
+}

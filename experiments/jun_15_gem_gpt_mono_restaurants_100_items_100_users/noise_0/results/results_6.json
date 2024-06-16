@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for places that serve breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places with vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian, French or Greek food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian pizza places with vegetarian options and burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nGermantown Garden\nLacroix Restaurant at The Rittenhouse\nThe Juice Merchant\nLe Pain Quotidien\nFederal Donuts\nThe Tasty Toast",
+            "1. Water Works Restaurant & Lounge\n2. Zuzu's Kitchen \n3. Golden Triangle \n4. Federal Donuts \n5. Lacroix Restaurant at The Rittenhouse \n6. Roy-Pitz Barrel House \n7. Cook and Shaker \n8. The Continental Restaurant and Martini Bar \n9. Aldine \n10. Fiore Fine Foods",
+            "Grain Exchange \nWater Works Restaurant & Lounge \nRoy-Pitz Barrel House \nCO-OP Restaurant & Lounge \nJake's & Cooper's Wine Bar & Wine Shop \nThe Continental Restaurant and Martini Bar \nFederal Donuts \nFranklin's \nMcMenamin's Tavern \nFounding Fathers Sports Bar & Grill",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Heritage \n4. Federal Donuts \n5. Tavern On the Hill \n6. Canton 11 \n7. Benna's Cafe \n8. Roy-Pitz Barrel House \n9. Dim Sum House \n10. Fiore Fine Foods",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nA Tutti, Ristorante Italiano\nJake's & Cooper's Wine Bar & Wine Shop\nRoy-Pitz Barrel House\nFiore Fine Foods\nEvan's Pizza\nThe QUICK FIXX",
+            " Zuzu's Kitchen\n Chestnut 7\n Blackbird Pizzeria \n The Blue Duck \n Grain Exchange\n Roy-Pitz Barrel House \n Misconduct Tavern \n Founding Fathers Sports Bar & Grill \n Franklin's \n Chickie's & Pete's \n Cook and Shaker \n Lisa's Kitchen \n Jack's Firehouse \n JD Mcgillicuddy's Manayunk",
+            "Zuzu's Kitchen\nBlackbird Pizzeria\n Fiore Fine Foods\n Chestnut 7\n The QUICK FIXX\n Parc\nFranklin's\n The Blue Duck\n Lucky's Last Chance\n Jack's Firehouse",
+            "Roy-Pitz Barrel House \\n\nThe Green Line Cafe \\n\nFederal Donuts \\n\nLucky's Last Chance \\n\nThe QUICK FIXX \\n\nA Tutti, Ristorante Italiano \\n\nChestnut 7 \\n\nLove & Honey Fried Chicken \\n\nRival Bros Coffee \\n\nSpread Bagelry",
+            "1. Blackbird Pizzeria\n2. Lisa's Kitchen\n3. Steve's Prince of Steaks\n4. Luhv Vegan Deli\n5. Pure Tacos\n6. Lucky's Last Chance\n7. Love & Honey Fried Chicken\n8. CJ & Eck's\n9. Rival Bros Coffee\n10. Gran Caffe L'Aquila",
+            " Zuzu's Kitchen \\n\nChinatown 11 \\n\nThe QUICK FIXX \\n\nRoy-Pitz Barrel House \\n\nFederal Donuts \\n\nBlackbird Pizzeria \\n\nChestnut 7 \\n\nPearl's Oyster Bar \\n\nAlemar \\n\nThe Continental Restaurant and Martini Bar"
+        ]
+    }
+}

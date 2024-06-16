@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Do you want to get a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for something sweet?",
+                "response": "no"
+            },
+            {
+                "query": "What about a juicy burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are there any specific toppings that you would like on your burger?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer chicken or beef burgers?",
+                "response": "i cannot answer that question as it is not a yes or no query."
+            },
+            {
+                "query": "Are you looking for something to drink?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want some fries with that?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Federal Donuts \n2. PrimeHoagies \n3. Zuzu's Kitchen \n4. The Juice Merchant \n5. Spread Bagelry \n6. Green Leafs & Bananas \n7. Monster Vegan \n8. Benna's Cafe \n9. Vedge \n10. The QUICK FIXX",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nFederal Donuts\nHeritage\nKokopelli Restaurant & Tequila Bar\nGrain Exchange",
+            "1. Blackbird Pizzeria \n2. Five Guys \n3. Lisa's Kitchen \n4. Lucky's Last Chance \n5. Misconduct Tavern \n6. Paddy's Old City Pub \n7. Steve's Prince of Steaks \n8. The Blue Duck \n9. The El Bar \n10. The Green Line Cafe",
+            "Federal Donuts \\n\nJack's Firehouse \\n\nMisconduct Tavern \\n\nFranklin's \\n\nWishbone \\n\nFive Guys \\n\nLisa's Kitchen \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nThe Blue Duck",
+            "1. Five Guys\n2. Lisa's Kitchen\n3. Blackbird Pizzeria\n4. Lucky's Last Chance\n5. Franklin's\n6. Miss Rachel's Pantry\n7. The Blue Duck\n8. The Green Line Cafe\n9. Chestnut 7\n10. Founding Fathers Sports Bar & Grill",
+            "Wishbone \nFive Guys \nLisa's Kitchen \nFranklin's \nMisconduct Tavern \nThe Blue Duck \nSteve's Prince of Steaks \nLucky's Last Chance \nLove & Honey Fried Chicken \nJD Mcgillicuddy's Manayunk",
+            "Five Guys\nMisconduct Tavern\nShake Shack\nBurger King\nWendy's\nThe Blue Duck\nRoy-Pitz Barrel House\nFiore Fine Foods\nFranklin's\nThe Tavern Restaurant",
+            "Five Guys \\n\nMisconduct Tavern \\n\nRoy-Pitz Barrel House \\n\nFranklin's \\n\nBlackbird Pizzeria \\n\nLisa's Kitchen \\n\nThe Blue Duck \\n\nLove & Honey Fried Chicken \\n\nJack's Firehouse \\n\nThe Green Line Cafe",
+            " Five Guys\nMisconduct Tavern\nThe Tavern Restaurant\nJack's Firehouse\nLucky's Last Chance\nFranklin's\nLisa's Kitchen\nBlackbird Pizzeria\nThe Blue Duck\nWishbone",
+            "1. The Blue Duck \n2. Lisa's Kitchen \n3. Lucky's Last Chance \n4. Franklin's \n5. Chestnut 7 \n6. McMenamin's Tavern \n7. CJ & Eck's \n8. Green Leafs & Bananas \n9. Trolley Car Diner \n10. Spread Bagelry"
+        ]
+    }
+}

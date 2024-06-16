@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer fruit or vegetables?",
+                "response": "vegetables"
+            },
+            {
+                "query": "Do you prefer grilled or fried fish?",
+                "response": "i don't have a preference."
+            },
+            {
+                "query": "Do you prefer fish or pork?",
+                "response": "fish"
+            },
+            {
+                "query": "Do you prefer fish that is baked or grilled?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables that are fried?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stir-fried food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like steamed vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables cooked with vinegar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables that are boiled?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables that are roasted?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with onions, carrots, and celery ribs\n****\n Soup made from ground turkey that is low fat, high carb\n****\n Soup made with shrimp, onions, and scallops\n****\n Assorted cheese soup with chicken\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Soup made with vegetables and chicken\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Chicken breasts stuffed with bacon and mozzarella\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Baked breakfast bars made with nuts and seeds\n",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSpicy mild chili recipe\n****\nRoasted almonds\n****\nFried shrimp and scallops",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nHigh protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat assorted fruit dessert\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\n'''",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon fillets in a pan with herbs and spices\nSalmon fillets grilled in a pan with herbs and spices\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nSoup made with cabbage, carrots, potatoes, and onions\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSoup made with onions, carrots, and celery ribs",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFish cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Grilled salmon fillets in a pan with herbs and spices\n5. Eggless sauerkraut cake\n6. Roasted almonds\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n9. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n10. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n'''",
+            " Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Grilled salmon seasoned with salt and pepper\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Beef stew made with beef, carrots and potatoes\n****\n Soup made with onions, carrots, and celery ribs\n****\n Vegetable soup made with chicken\n****",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked spinach quiche containing bacon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow fat baked breakfast pie made with sausage (pork) and apples\n'''"
+        ]
+    }
+}

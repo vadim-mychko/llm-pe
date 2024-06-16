@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a breakfast and brunch spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to go to a Korean restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a place that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a pizzeria?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to go to a bar?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n Daleng Restaurant \n Zuzu's Kitchen \n Germantown Garden \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "Water Works Restaurant & Lounge\nZuzu's Kitchen \nGolden Triangle \n Lacroix Restaurant at The Rittenhouse\nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \n Mong Kok Station \nGran Caffe L'Aquila\nLe Pain Quotidien",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Le Pain Quotidien",
+            "Water Works Restaurant & Lounge\nPearl's Oyster Bar\nVeda - Modern Indian Bistro\nRistorante La Buca\nLacroix Restaurant at The Rittenhouse\nAudrey Claire\nSang Kee Peking Duck House\nBistro SouthEast\nZuzus Kitchen\nCinCin Restaurant",
+            " Germantown Garden \\n\nHeritage \\n\nGolden Triangle \\n\nMisconduct Tavern \\n\nJack's Firehouse \\n\nCO-OP Restaurant & Lounge \\n\nFranklin's \\n\nGran Caffe L'Aquila \\n\nFounder's Sport Bar & Grill \\n\nCinCin Restaurant",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "The Green Line Cafe \nChestnut 7 \nThe El Bar \nFiore Fine Foods \nTrolley Car Diner \nLisa's Kitchen \nThe Continental Restaurant and Martini Bar \nVedge \nGreen Leafs & Bananas \nBlue Duck",
+            "Taco Mac\nThe Tavern Restaurant \nMacaroni's Restaurant\nBistro SouthEast\nThe Continental Restaurant and Martini Bar\nPearl's Oyster Bar\nWishbone\nFranklins\nMad River Manayunk\nFounding Fathers Sports Bar & Grill",
+            "1. The Tasty Toast\n2. Valley Green Inn\n3. The Grill  Smuckers\n4. Tavern On the Hill\n5. Paddy's Old City Pub\n6. Misconduct Tavern\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. Love & Honey Fried Chicken\n10. Lisa's Kitchen",
+            "1. The Grill  Smuckers \n2. Federal Donuts \n3. Heritage \n4. Jack's Firehouse \n5. The Blue Duck \n6. Lucky's Last Chance \n7. Love & Honey Fried Chicken \n8. CJ & Eck's \n9. Sister Muhammad's Kitchen \n10. The Tavern Restaurant"
+        ]
+    }
+}

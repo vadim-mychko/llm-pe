@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Do you like dishes that include chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are made with vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit-based desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like apple-based desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like banana-based desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apple pie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like peach cobbler?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cupcakes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Low fat assorted fruit dessert\nLow fat baked breakfast pie made with sausage (pork) and apples\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBaked spinach quiche containing bacon\nChicken cooked and flavored with lemon sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRoasted almonds\nBerry cobbler that uses frozen mixed berries\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti noodles with mussels, anchovy fillets, and capers\n'''",
+            "****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nMeatballs made with ground beef and ground pork\n****\nCheese with crackers\n****\nEasy spaghetti & meat sauce spaghetti and meat sauce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nMushy peas that are soft\n****\nLow fat assorted fruit dessert\n****\nSimple creamy oyster soup\n****\nGrilled salmon seasoned with salt and pepper\n****\nLow fat coconut alcohol-free cocktail\n****\nCheese with crackers",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nGluten-free, egg-free, dairy-free, nut-free fudge\nAlmonds coated with butter and salt\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Norway cake with lingonberry and whipped cream layers\n6. Peppermint chocolate bonbon\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert\nApple-based smoothies\nBaked apples\nLow sugar applesauce cupcakes\nApplesauce jam\nApple and cinnamon dessert\nApple crisp\nApple turnover",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nApple-based breakfast bars made with nuts and seeds\nVery low-fat assortment of shredded vegetables with seasoning\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nMilkshake made with fresh strawberries and ice cream\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n3. Peach cobbler dessert containing whole wheat flour\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Chocolate and orange-flavoured smoothie\n6. Low sugar applesauce cupcakes\n7. Smoothies made from fruit juice and bananas\n8. Smoothie made from banana puree with milk\n9. Low fat assorted fruit dessert\n10. Strawberry and ice cream milkshake",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBerry cobbler that uses frozen mixed berries\nPeach cobbler dessert containing whole wheat flour\nStrawberry banana smoothie\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nBanana bread made with whole wheat flour and walnuts",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nLow fat assorted fruit dessert\nMozzarella dip recipe"
+        ]
+    }
+}

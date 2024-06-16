@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in restaurants that serve sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a deli that serves vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian deli that serves cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegetarian deli that serves bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegetarian deli that serves salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegetarian deli that also serves soups?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Daleng Restaurant\n6. Mong Kok Station\n7. Le Pain Quotidien\n8. CinCin Restaurant\n9. A Tutti, Ristorante Italiano\n10. Mugshots Coffeehouse",
+            "1. PrimoHoagies \n2. The Juice Merchant \n3. The Tasty Toast \n4. Le Pain Quotidien \n5. Spread Bagelry \n6. Monster Vegan \n7. Green Leafs & Bananas \n8. Luhv Vegan Deli \n9. The Green Line Cafe \n10. Love & Honey Fried Chicken",
+            "Monster Vegan\nThe Juice Merchant\nThe QUICK FIXX\nGreen Leafs & Bananas\nThe Tasty Toast\nBenna's Cafe\nHey Hummus\nLove & Honey Fried Chicken\nVedge\nLuvh Vegan Deli",
+            "Monster Vegan \\n\nThe Juice Merchant \\n\nLuvh Vegan Deli \\n\nVedge \\n\nThe QUICK FIXX \\n\nEssen\u00e9 Market & Caf\u00e9 \\n\nHey Hummus \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nGran Caffe L'Aquila",
+            "1. The Green Line Cafe \n2. Green Leafs & Bananas \n3. Betty's Speakeasy \n4. Love & Honey Fried Chicken \n5. Spread Bagelry \n6. Wawa \n7. Jack's Firehouse \n8. PrimoHoagies \n9. Monster Vegan \n10. Lisa's Kitchen",
+            "Luvh Vegan Deli \nSpread Bagelry \nThe Green Line Cafe \nJack's Firehouse \nThe QUICK FIXX \nGreen Leafs & Bananas \nLisa's Kitchen \nMonster Vegan \nHey Hummus \nBenna's Cafe",
+            "1. Luhv Vegan Deli\n2. The QUICK FIXX\n3. Monster Vegan \n4. The Green Line Cafe \n5. Green Leafs & Bananas \n6. Spread Bagelry \n7. PrimoHoagies \n8. The Juice Merchant \n9. Betty's Speakeasy \n10. Wawa",
+            "Luvh Vegan Deli \nGreen Leafs & Bananas \nTrolley Car Diner \nSpread Bagelry \nVedge \nHey Hummus \nThe Green Line Cafe \nMonster Vegan \nBenna's Cafe \nEssene Market & Caf\u00e9",
+            "Green Leafs & Bananas\nTrolley Car Diner\nThe Green Line Cafe\nSpread Bagelry\nMunster Vegan\nLuvh Vegan Deli\nWawa\nThe QUICK FIXX\nThe Juice Merchant\nVedge",
+            "Green Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nWawa \nRoy-Pitz Barrel House \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nTrolley Car Diner"
+        ]
+    }
+}

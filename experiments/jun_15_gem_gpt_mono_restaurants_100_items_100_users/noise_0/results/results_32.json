@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Would you like to see any burger places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food delivery services?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to see any pizza places?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer salads as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Asian food like Thai or Vietnamese?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer Italian or American food?",
+                "response": "italian"
+            },
+            {
+                "query": "Do you want to see any vegetarian pizza places?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically looking for pizza places that serve vegetarian pizzas?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a pizza place that serves both regular and vegetarian pizzas?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Mood Indian Restaurant \nLocal Tavern \nZuzu's Kitchen\nDaleng Restaurant \nVeda - Modern Indian Bistro\nThe Tasty Toast \nFuji Mountain \nCanton 11 \nThe QUICK FIXX \nBaan Thai",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nMiga Korean BBQ & Sushi \\n\nFederal Donuts \\n\nIzumi \\n\nSteve's Prince of Steaks \\n\nMcMenamin's Tavern",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "Olive Garden Italian Restaurant\nMacaroni's Restaurant\nLove & Honey Fried Chicken\nBlackbird Pizzeria\nA Tutti, Ristorante Italiano\nChestnut 7\nEvan's Pizza\nThe Blue Duck\nThe QUICK FIXX\nZuzu's Kitchen",
+            "1. Zuzu's Kitchen \n2. A Tutti, Ristorante Italiano \n3. The QUICK FIXX \n4. Chestnut 7 \n5. Green Leafs & Bananas \n6. Fiore Fine Foods \n7. Spread Bagelry \n8. The Green Line Cafe \n9. Jake's & Cooper's Wine Bar & Wine Shop \n10. The Blue Duck",
+            " Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nRoy-Pitz Barrel House \\n\nMacaroni's Restaurant \\n\nFederal Donuts \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nChestnut 7 \\n\nThe Green Line Cafe",
+            "1. A Tutti, Ristorante Italiano \n2. Zuzu's Kitchen \n3. The QUICK FIXX \n4. Fiore Fine Foods \n5. PrimoHoagies \n6. The Continental Restaurant and Martini Bar \n7. Jake's & Cooper's Wine Bar & Wine Shop \n8. Evan's Pizza \n9. La Buca Restaurant \n10. Le Pain Quotidien",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nThe QUICK FIXX\nRistorante La Buca\nCaffe L'Aube\nGran Caffe L'Aquila\nLaCroix Restaurant at The Rittenhouse\nPearl's Oyster Bar\nVedge\nRoy-Pitz Barrel House",
+            "1. A Tutti, Ristorante Italiano\n2. The QUICK FIXX\n3. Fiore Fine Foods\n4. Zuzu's Kitchen\n5. Castellino's\n6. Olive Garden Italian Restaurant\n7. PrimoHoagies\n8. Macaroni's Restaurant\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "A Tutti, Ristorante Italiano \\n\nThe Blue Duck \\n\nChestnut 7 \\n\nFederal Donuts \\n\nFiore Fine Foods \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe QUICK FIXX \\n\nRoy-Pitz Barrel House \\n\nSteve's Prince of Steaks \\n\nZazu's Kitchen"
+        ]
+    }
+}

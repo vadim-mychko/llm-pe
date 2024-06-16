@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Do you like eating breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pancakes or waffles?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for lunch or dinner food places?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in places with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Is Italian food of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with chicken dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Bistro SouthEast \n5. Benna's Cafe \n6. The Blue Duck \n7. Pearl's Oyster Bar \n8. The Fresh Grocer - Progress Plaza \n9. Fiore Fine Foods \n10. Betty's Speakeasy",
+            "The Continental Restaurant and Martini Bar \nThe Blue Duck \nThe Tasty Toast \nThe Milk House \nThe Grill  Smuckers \nVeda - Modern Indian Bistro \nBloomsday Cafe \nAudrey Claire \nCO-OP Restaurant & Lounge \nBenna's Cafe",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. Pearl's Oyster Bar \n6. The Blue Duck \n7. Fiore Fine Foods \n8. Lisa's Kitchen \n9. Green Leafs & Bananas \n10. Trolley Car Diner",
+            " Bennie's Cafe\nThe Tasty Toast\nTu's Tea & Banh Mi South Philly \nSpread Bagelry \nThe QUICK FIXX \nThe Green Line Cafe \nLisa's Kitchen \n PrimoHoagies \nGreen Leafs & Bananas \nSister Muhammad's Kitchen",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. PrimoHoagies \n4. The Juice Merchant \n5. The Tasty Toast \n6. Dim Sum House \n7. Jack's Firehouse \n8. Lisa's Kitchen \n9. Parc \n10. Capogiro Gelato Artisans",
+            "1. Trolley Car Diner\n2. Steve's Prince of Steaks\n3. Green Leafs & Bananas\n4. The Green Line Cafe\n5. Spread Bagelry\n6. Lisa's Kitchen\n7. PrimoHoagies \n8. The QUICK FIXX \n9. Luhv Vegan Deli \n10. Love & Honey Fried Chicken",
+            "1. Lisa's Kitchen \n2. Green Leafs & Bananas \n3. Luhv Vegan Deli \n4. Founding Fathers Sports Bar & Grill \n5. Spread Bagelry \n6. The Green Line Cafe \n7. CJ & Eck's \n8. Rival Bros Coffee \n9. Gran Caffe L'Aquila \n10. Cafe L'Aube",
+            "- The Green Line Cafe\n- Betty's Speakeasy\n- Steve's Prince of Steaks\n- Green Leafs & Bananas\n- Trolly Car Diner\n- Luhv Vegan Deli\n- Spread Bagelry\n- KC's Pastries\n- PrimoHoagies\n- Lisa's Kitchen",
+            "Vedge \nMonster Vegan \nHey Hummus \nThe QUICK FIXX \nGreen Leafs & Bananas \nLuhv Vegan Deli \nThe Green Line Cafe \nCafe L'Aube \nRival Bros Coffee \nGran Caffe L'Aquila",
+            "1. Monster Vegan \n2. Benna's Cafe \n3. The QUICK FIXX \n4. Luhv Vegan Deli \n5. Vedge \n6. Hey Hummus \n7. Green Leafs & Bananas \n8. The Green Line Cafe \n9. Essene Market & Caf\u00e9 \n10. Betty's Speakeasy"
+        ]
+    }
+}

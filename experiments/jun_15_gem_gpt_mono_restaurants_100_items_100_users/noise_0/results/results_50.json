@@ -1,0 +1,58 @@
+{
+    "50": {
+        "conv_hist": [
+            {
+                "query": "Would you be interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering Japanese restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to eat pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in Korean restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nFuji Mountain \nFuji Mountain \nIzumi \nSang Kee Peking Duck House \nBistro SouthEast \nCanton 11 \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9",
+            "1. A Tutti, Ristorante Italiano\n2. PrimoHoagies\n3. Macaroni's Restaurant\n4. Fiore Fine Foods\n5. Ristorante La Buca\n6. Castellino's\n7. Talluto's Authentic Italian Food\n8. Olive Garden Italian Restaurant\n9. The QUICK FIXX\n10. Betty's Speakeasy",
+            "Ristorante La Buca \\n\nA Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nVeda - Modern Indian Bistro \\n\nCinCin Restaurant \\n\nPearl's Oyster Bar \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nFiore Fine Foods",
+            " Ristorante La Buca \n A Tutti, Ristorante Italiano \n Fiore Fine Foods \n Mama Palma's \n Gran Caffe L'Aquila \n Talutto's Authentic Italian Food \n Castellino's \n The QUICK FIXX \n PrimoHoagies \n Trattoria Stella \n Zahav",
+            "1. Castellino's \n2. Fiore Fine Foods \n3. A Tutti, Ristorante Italiano \n4. Lisa's Kitchen \n5. Oteri's Italian Bakery | North 5th St \n6. Macaroni's Restaurant \n7. Ristorante La Buca \n8. Talluto's Authentic Italian Food \n9. PrimoHoagies \n10. Spread Bagelry",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Ristorante La Buca\n5. Macaroni's Restaurant\n6. Olive Garden Italian Restaurant\n7. PrimoHoagies\n8. Talluto's Authentic Italian Food\n9. Cafe L'Aube\n10. Gran Caffe L'Aquila\n",
+            "1. Ristorante La Buca \\n\n2. A Tutti, Ristorante Italiano \\n\n3. Talluto's Authentic Italian Food \\n\n4. Castellino's \\n\n5. Gran Caffe L'Aquila \\n\n6. Fiore Fine Foods \\n\n7. Oteri's Italian Bakery | North 5th St \\n\n8. CinCin Restaurant \\n\n9. Macaroni's Restaurant \\n\n10. PrimoHoagies \n",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Ristorante La Buca\n4. Castellino's\n5. Macaroni's Restaurant\n6. Talluto's Authentic Italian Food\n7. Daleng Restaurant\n8. PrimoHoagies\n9. Otto\n10. Betty's Speakeasy",
+            "A Tutti, Ristorante Italiano \nCastellino's \nPrimoHoagies \nTalluto's Authentic Italian Food \nThe Continental Restaurant and Martini Bar \nVedge \nFiore Fine Foods \nThe QUICK FIXX \nMacaroni's Restaurant \nOteri's Italian Bakery | North 5th St",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nPrimoHoagies \nCastellino's \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nParc \nGran Caffe L'Aquila \nCinCin Restaurant \nFiore Fine Foods"
+        ]
+    }
+}

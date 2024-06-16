@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Do you like bananas?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "meat"
+            },
+            {
+                "query": "Do you prefer pork or beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy foods?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Very low-fat assortment of shredded vegetables with seasoning \\n\nLow fat assorted fruit dessert \\n\nPeppermint chocolate bonbon \\n\nMozzarella dip recipe \\n\nEggless sauerkraut cake \\n\nMozzarella cheese sticks with marinara sauce \\n\nSweet salad made with corn and three types of beans \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nHomemade soup with chicken, noodles, and spices \\n\nMeatballs made with ground beef and ground pork",
+            "1. Veggie noodles made with zucchini and carrots\n2. Low-fat coconut alcohol-free cocktail\n3. Low-fat diced baked or fried potatoes\n4. Low fat assorted fruit dessert\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low sugar applesauce cupcakes\n7. Oven baked potato wedges with olive oil, paprika, salt, and pepper\n8. Classic salad with creamy caesar dressing and croutons\n9. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n10. Vegetable soup with ham and potato\n'''",
+            "Soup made with vegetables and chicken\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nChicken breasts stuffed with bacon and mozzarella\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMozzarella dip recipe\nBaked spinach quiche containing bacon\nLow fat sweet potato fries made with cajun seasoning\nBaked breakfast bars made with nuts and seeds\nAlmonds coated with butter and salt\nRoasted almonds",
+            " Cheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\n Mildly spicy chili recipe\n Vegetarian meatballs made with ground beef and ground pork\nVery low-fat assortment of shredded vegetables with seasoning\nCalcium-rich soup made with broccoli and beans\n Spanish rice with chicken breast\n Polish sausage with fermented cabbage\nAlmonds coated with butter and salt\nRoasted almonds",
+            "Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nBaked breakfast bars made with nuts and seeds\nBeef stew made with beef, carrots and potatoes\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "High protein skillet with rice and vegetables\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBaked breakfast bars made with nuts and seeds\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            " Grilled chicken breasts\n ****\n Grilled salmon seasoned with salt and pepper\n ****\n Chicken breasts stuffed with bacon and mozzarella\n ****\n Chicken cooked and flavored with lemon sauce\n ****\n Roast chicken with plum sauce\n ****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n ****\n Chicken ramen noodles made from scratch made with: wheat flour, baking soda, and water\n ****\n Chicken salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n ****\n Spanish rice with chicken breast\n ****\n Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            " Chicken breasts stuffed with bacon and mozzarella\n****\nGrilled salmon seasoned with salt and pepper\n****\nChicken cooked and flavored with lemon sauce\n****\nBaked chicken with spinach, tomato, and lemon\n****\nChicken and vegetable soup\n****\nLow fat breakfast pie made with sausage (pork) and apples\n****\nBaked breakfast bars made with nuts and seeds\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nRoast turkey with plum sauce\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "Chicken cooked and flavored with lemon sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast turkey with plum sauce\nCalcium-rich soup made with broccoli and beans\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBaked spinach quiche containing bacon\nSoup made with vegetables and chicken\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast\nHomemade soup with chicken, noodles, and spices\n'''",
+            "1. Chicken cooked and flavored with lemon sauce\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n4. Homemade soup with chicken, noodles, and spices\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Mozzarella dip recipe\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Meatballs made with ground beef and ground pork\n10. Low fat sweet potato fries made with cajun seasoning"
+        ]
+    }
+}

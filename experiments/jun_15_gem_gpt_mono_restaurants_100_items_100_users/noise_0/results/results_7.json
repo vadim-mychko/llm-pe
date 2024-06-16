@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for traditional American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for comfort food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Grain Exchange \n2. Federal Donuts \n3. The Tavern Restaurant \n4. Olive Garden Italian Restaurant \n5. Canton 11 \n6. Five Guys \n7. PrimoHoagies \n8. The Cheesecake Factory \n9. The Blue Duck \n10. Roy-Pitz Barrel House",
+            "The Continental Restaurant and Martini Bar \\n\nDi Bruno Bros \\n\nFederal Donuts \\n\nThe Blue Duck \\n\nEssene Market & Caf\u00e9 \\n\nFiore Fine Foods \\n\nGRAN CAF\u00c9 L'AQUILA \\n\nLucky's Last Chance \\n\nParc \\n\nRistorante La Buca",
+            "Veda - Modern Indian Bistro\nGrain Exchange\nDim Sum House\nFuji Mountain\nPearl's Oyster Bar\nDaleng Restaurant\nMcMenamin's Tavern\nMalbec Argentine Steakhouse\nJake's & Cooper's Wine Bar & Wine Shop\nBloomsday Cafe",
+            "Zuzu's Kitchen \n****\nGolden Triangle \n****\nWater Works Restaurant & Lounge \n****\nLacroix Restaurant at The Rittenhouse \n****\nGermantown Garden \n****\nPrimoHoagies \n****\nDaleng Restaurant \n****\nThe Juice Merchant \n****\nFederal Donuts \n****\nMong Kok Station \n****",
+            " Daleng Restaurant \\n\nGrain Exchange \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nFuji Mountain \\n\nThe Cheesecake Factory \\n\nThe Juice Merchant \\n\nGolden Triangle \\n\nZuzu's Kitchen \\n\nRoy-Pitz Barrel House",
+            " Steve's Prince of Steaks \\n\nThe Tavern Restaurant \\n\nMacaroni's Restaurant \\n\nMiss Saigon \\n\nPrimoHoagies \\n\nMisconduct Tavern \\n\nTrolley Car Diner \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nGermantown Garden",
+            "Daleng Restaurant \nGolden Triangle \nWater Works Restaurant & Lounge \nThe Tasty Toast \nAmerican Sardine Bar \nThe Milk House \nThe Grill  Smuckers \nTrolley Car Diner \nTiki Taco \nJack's Firehouse",
+            " The Tavern Restaurant \n Misconduct Tavern \n Mad River Manayunk \n Trolley Car Diner \n Steve's Prince of Steaks \n Paddy's Old City Pub \n Lisa's Kitchen \n Founding Fathers Sports Bar & Grill \n CJ & Eck's \n Love & Honey Fried Chicken",
+            "* Heritage \n* The Tasty Toast \n* Germantown Garden \n* Mad River Manayunk \n* The Tavern Restaurant \n* JD Mcgillicuddy's Manayunk \n* Franklin's \n* Lisa's Kitchen \n* Steve's Prince of Steaks \n* Founding Fathers Sports Bar & Grill",
+            "1) The Blue Duck\n2) The QUICK FIXX\n3) Spread Bagelry\n4) Love & Honey Fried Chicken\n5) Trolly Car Diner\n6) Founding Fathers Sports Bar & Grill\n7) Five Guys\n8) Lisa's Kitchen\n9) Mad River Manayunk\n10) Green Leafs & Bananas"
+        ]
+    }
+}

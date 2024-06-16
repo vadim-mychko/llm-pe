@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fast food restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer cocktail bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a lively nightlife scene?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nThe Tasty Toast \nFederal Donuts \nHeritage \nGrain Exchange \nThe Milk House \nValley Green Inn",
+            "1. Zuzu's Kitchen\n2. Heritage\n3. Lacroix Restaurant at The Rittenhouse\n4. Water Works Restaurant & Lounge\n5. Federal Donuts\n6. The Cheesecake Factory\n7. Pearl's Oyster Bar\n8. Chestnut 7\n9. The Green Line Cafe\n10. Audrey Claire",
+            "1. Tavern On the Hill\n2. The Continental Restaurant and Martini Bar\n3. Fiore Fine Foods\n4. Jack's Firehouse\n5. Founding Fathers Sports Bar & Grill\n6. McMenamin's Tavern\n7. Pearl's Oyster Bar\n8. Chestnut 7\n9. Audrey Claire\n10. Green Leafs & Bananas",
+            " The Cheesecake Factory\n Olive Garden Italian Restaurant\n Five Guys\n Tavern On the Hill\n Roy-Pitz Barrel House\n The Blue Duck\n Pearl's Oyster Bar\n The QUICK FIXX\n Blackbird Pizzeria\n Founding Fathers Sports Bar & Grill",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nThe Tasty Toast\nLe Pain Quotidien\nThe Grill  Smuckers\nThe Tavern Restaurant",
+            "1. Local Tavern\n2. Germantown Garden\n3. The Tasty Toast\n4. PrimoHoagies\n5. The Juice Merchant\n6. Zuzu's Kitchen\n7. Heritage\n8. The Milk House\n9. The Grill  Smuckers\n10. CO-OP Restaurant & Lounge",
+            "Jack's Firehouse \nThe Tavern Restaurant \nMisconduct Tavern \nFounding Fathers Sports Bar & Grill \nPaddy's Old City Pub \nMad River Manayunk \nFranklin's \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance \nFederal Donuts",
+            "1. The Tavern Restaurant \n2. Tavern On the Hill \n3. The El Bar \n4. Jack's Firehouse \n5. Franklin's \n6. JD Mcgillicuddy's Manayunk \n7. Betty's Speakeasy \n8. Founding Fathers Sports Bar & Grill \n9. CJ & Eck's \n10. McMenamin's Tavern ",
+            "Jack's Firehouse \nWishbone \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nGrain Exchange \nMcMenamin's Tavern \nPaddy's Old City Pub \nTavern On the Hill \nThe El Bar \nThe Tavern Restaurant ",
+            "- Misconduct Tavern\n- The Tavern Restaurant \n- Founding Fathers Sports Bar & Grill \n- Wishbone \n- The Blue Duck \n- The El Bar \n- Mad River Manayunk \n- Chestnut 7 \n- Liberty Lounge \n- Lucky's Last Chance"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in burgers and fries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that also has beer and wine?",
+                "response": "yes"
+            },
+            {
+                "query": "How do you feel about pizza?",
+                "response": "i cannot answer that query as it does not provide a clear preference for pizza."
+            },
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a place that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American sandwiches that include fries and a beer selection?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you seeking a cheesesteak?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nFuji Mountain \nMonster Vegan \nNorth Bowl \nVedge \nEssene Market & Caf\u00e9 \nHey Hummus \nLuvh Vegan Deli \nPure Tacos \nSister Muhammad's Kitchen",
+            "Five Guys \nShake Shack \nMisconduct Tavern \nThe Blue Duck \nLisa's Kitchen \nFranklin's \nLucky's Last Chance \nLove & Honey Fried Chicken \nJack's Firehouse \nFounding Fathers Sports Bar & Grill",
+            "1. Five Guys\n2. Blackbird Pizzeria\n3. Lisa's Kitchen\n4. McMenamin's Tavern\n5. Love & Honey Fried Chicken\n6. Founding Fathers Sports Bar & Grill\n7. Franklin's\n8. Chestnut 7\n9. Jack's Firehouse\n10. Misconduct Tavern",
+            "Misconduct Tavern\nFranklin's\nJD Mcgillicuddy's Manayunk\nMacaroni's Restaurant\nWishbone\nThe Blue Duck\nBlackbird Pizzeria\nLove & Honey Fried Chicken\nFive Guys\nLucky's Last Chance",
+            "Franklin's \\n\nFive Guys \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nThe Tavern Restaurant \\n\nWishbone \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nRoy-Pitz Barrel House \\n\nLucky's Last Chance \\n\nLuhv Vegan Deli",
+            "Five Guys \nMisconduct Tavern \nThe Blue Duck \nFederal Donuts \nFranklin's \nWishbone \nBlackbird Pizzeria \nLisa's Kitchen \nJack's Firehouse \nTrolley Car Diner",
+            "Five Guys \nMisconduct Tavern\nFranklin's\nFederal Donuts\nLucky's Last Chance\nLisa's Kitchen\nBlackbird Pizzeria\nWishbone\nThe Blue Duck\nRoy-Pitz Barrel House",
+            "Five Guys \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nMisconduct Tavern \\n\nFranklin's \\n\nJack's Firehouse \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nThe Cheesecake Factory \\n\nLove & Honey Fried Chicken",
+            "1. Wishbone \n2. JD Mcgillicuddy's Manayunk \n3. Franklin's \n4. The Blue Duck \n5. Founding Fathers Sports Bar & Grill \n6. Chestnut 7 \n7. Lucky's Last Chance \n8. The Green Line Cafe \n9. Spread Bagelry \n10. Lisa's Kitchen",
+            "The Blue Duck \nFranklin's \nMisconduct Tavern \nLisa's Kitchen \nTrolley Car Diner \nSpead Bagelry \nThe Green Line Cafe \nFive Guys \nThe El Bar \nThe Tavern Restaurant"
+        ]
+    }
+}

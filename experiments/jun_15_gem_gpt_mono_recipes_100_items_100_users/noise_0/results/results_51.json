@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer meat or fish?",
+                "response": "meat"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sauces made with tomatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer foods that are fried or baked?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer foods that are sweet or savoury?",
+                "response": "savoury"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer noodles or rice?",
+                "response": "noodles"
+            },
+            {
+                "query": "Do you like spaghetti?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Pork chops glazed with milk and cooked without nuts\n****\n Shredded barbecued pork shoulder\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n High protein skillet with rice and vegetables\n****\n Beef stew made with beef, carrots and potatoes\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Chicken cooked and flavored with lemon sauce\n****",
+            "Chicken breasts stuffed with bacon and mozzarella\nGrilled chicken, lettuce, tomatoes, croutons, and cheese\nChicken cooked and flavored with lemon sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nRoast chicken with plum sauce\nChicken cooked and flavored with lemon sauce\nSpanish rice with chicken breast\nChicken noodle soup\nHomemade soup with chicken, noodles, and spices\nChicken and vegetable soup with a beer broth",
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken cooked and flavored with lemon sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nChicken cooked with lemon sauce\nShredded barbecued pork shoulder\nBaked spinach quiche containing bacon\nRoast chicken with plum sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSpanish rice with chicken breast",
+            " Chicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatballs made with ground beef and ground pork\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef stew made with beef, carrots and potatoes\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nChicken cooked in an air fryer\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nRoast chicken with plum sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nSpanish rice with chicken breast",
+            "Chicken breasts stuffed with bacon and mozzarella\nPork chops glazed with milk and cooked without nuts\nHigh protein skillet with rice and vegetables\nChicken cooked and flavored with lemon sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nMildly spicy chili recipe\nBaked mozzarella cheese sticks with marinara sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast",
+            " Grilled chicken breast topped with tomato sauce\n****\nMeatballs made with ground beef and ground pork\n****\nChicken cooked and flavored with lemon sauce\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nPork chops glazed with milk and cooked without nuts\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBaked breakfast bars made with nuts and seeds\n****\nSpicy chili recipe\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken breasts stuffed with bacon and mozzarella\nGrilled chicken with lemon sauce\nBaked spinach quiche containing bacon\nStir-fried tofu, noodles and vegetables Bento\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nSpanish rice with chicken breast\nChicken cooked and flavored with lemon sauce\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChicken noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nStir-fried tofu, noodles and vegetables Bento\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat sweet potato fries made with cajun seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken cooked and flavored with lemon sauce",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChicken breasts stuffed with bacon and mozzarella\nGrilled chicken sandwich made with: grilled / broiled marinated chicken\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeppermint chocolate bonbon\nLow-fat coconut alcohol-free cocktail"
+        ]
+    }
+}

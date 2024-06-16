@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants serving seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you more interested in pizza than sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian restaurants that serve pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants serving both pizza and salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that offer both sandwiches and pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve both salads and sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants serving beer and wine along with pizza and salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants serving both pizza and Italian food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n The Juice Merchant \n Federal Donuts \n Daleng Restaurant \n The Tasty Toast \n Le Pain Quotidien",
+            " A Tutti, Ristorante Italiano\nPrimoHoagies\nTalluto's Authentic Italian Food \nCastelino's \nMacaroni's Restaurant \nThe QUICK FIXX \nLisa's Kitchen \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nGran Caffe L'Aquila",
+            " Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nPrimoHoagies\nCinCin Restaurant\nTalluto's Authentic Italian Food\nOlive Garden Italian Restaurant\nMacaroni's Restaurant\nBlackbird Pizzeria\nThe QUICK FIXX\nEvan's Pizza",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nMacaroni's Restaurant \nBlackbird Pizzeria \nThe Blue Duck \nJake's & Cooper's Wine Bar & Wine Shop \nTalutto's Authentic Italian Food \nFiore Fine Foods \nThe QUICK FIXX \nSabrina's Cafe",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nDolce Italian \nMacaroni's Restaurant \nChestnut 7 \nThe QUICK FIXX \nFiore Fine Foods \nGran Caffe L'Aquila \nIl Pittore \nLa Fontana della Citta",
+            " Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n Macaroni's Restaurant \n Chestnut 7 \n Roy-Pitz Barrel House \n Jake's & Cooper's Wine Bar & Wine Shop \n The Continental Restaurant and Martini Bar \n Blackbird Pizzeria",
+            "1. A Tutti, Ristorante Italiano\n2. Zuzu's Kitchen\n3. Fiore Fine Foods\n4. Evan's Pizza\n5. The QUICK FIXX\n6. Blackbird Pizzeria\n7. Chestnut 7\n8. The Green Line Cafe\n9. Spread Bagelry\n10. Macaroni's Restaurant",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nChestnut 7 \nRoy-Pitz Barrel House \nFiorentino \nIzumi \nFederal Donuts \nJake's & Cooper's Wine Bar & Wine Shop \nBetty's Speakeasy \nGran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \\n\nChestnut 7 \\n\nFiore Fine Foods \\n\nGran Caffe L'Aquila \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nThe Blue Duck \\n\nThe Green Line Cafe \\n\nZazu's Kitchen"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat at a place that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to eat at a place that serves pizza too?",
+                "response": "no"
+            },
+            {
+                "query": "Are you okay with ordering some burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in hotdogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves salads?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nFederal Donuts \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nBaan Thai \\n\nDim Sum House",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nDim Sum House \\n\nEvan's Pizza \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nRistorante La Buca",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Germantown Garden\n5. PrimoHoagies\n6. Daleng Restaurant\n7. Federal Donuts\n8. Heritage\n9. Grain Exchange\n10. Izumi",
+            " PrimoHoagies\nFederal Donuts\nFive Guys\nWawa\nBaan Thai\nPaddy's Old City Pub\nMonster Vegan\nLisa's Kitchen\nJack's Firehouse\nThe Cheesecake Factory\nGreen Leafs & Bananas",
+            "1. Green Leafs & Bananas\n2. The Juice Merchant\n3. PrimoHoagies\n4. Spread Bagelry\n5. The Green Line Cafe\n6. Wawa\n7. Luhv Vegan Deli\n8. The QUICK FIXX\n9. Evan's Pizza\n10. Lisa's Kitchen",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n The Juice Merchant \n Daleng Restaurant \n PrimoHoagies \n Federal Donuts \n Sang Kee Peking Duck House \n Canton 11 \n The QUICK FIXX",
+            "The Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nDaleng Restaurant \nMonster Vegan \nLisa's Kitchen \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nLuvh Vegan Deli \nFive Guys ",
+            "Daleng Restaurant\nCanton 11\nBaan Thai\nThe QUICK FIXX\nThe Juice Merchant\nPrimoHoagies\nFive Guys\nLisa's Kitchen\nGreen Leafs & Bananas\nThe Green Line Cafe",
+            "1. Dim Sum House\n2. Fiore Fine Foods\n3. Gran Caffe L'Aquila\n4. Federal Donuts\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Luhv Vegan Deli\n7. Olive Garden Italian Restaurant\n8. Canton 11\n9. The Cheesecake Factory\n10. Green Leafs & Bananas",
+            "Federal Donuts\nEvan's Pizza\nA Tutti, Ristorante Italiano\nThe QUICK FIXX\nSteve's Prince of Steaks\nGreen Leafs & Bananas\nSpread Bagelry\nWawa\nThe Green Line Cafe\nKC's Pastries"
+        ]
+    }
+}

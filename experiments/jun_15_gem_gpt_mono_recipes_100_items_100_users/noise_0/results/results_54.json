@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in meals with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in cakes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in drinks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meat or vegetarian dishes?",
+                "response": "vegetarian dishes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low-fat desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a low-fat dessert that is made with fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like coconut?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Queso made from melted cheese and chili peppers\n4. Assorted cheese soup with chicken\n5. Italian salad made from romain lettuce, artichokes, and tomatoes\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Grilled salmon seasoned with salt and pepper\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Chowder made with cod, milk, and bacon\n10. Baked mozzarella cheese sticks with marinara sauce\n''''",
+            "1. Chocolate and orange-flavoured smoothie\n2. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n3. Sugar-free peanut butter cookies\n4. Low sugar applesauce cupcakes\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norway cake with lingonberry and whipped cream layers\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n9. Baked spinach quiche containing bacon\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "- Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n- Low sugar applesauce cupcakes\n- Sugar-free peanut butter cookies\n- Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n- Norway cake with lingonberry and whipped cream layers\n- Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n- French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n- Peppermint chocolate bonbon\n- Peach cobbler dessert containing whole wheat flour\n- Gluten-free, egg-free, dairy-free, nut-free fudge",
+            "1. Low sugar applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Norway cake with lingonberry and whipped cream layers\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n6. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n7. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n9. Baked spinach quiche containing bacon\n10. Milkshake made with fresh strawberries and ice cream\n",
+            "1. 2-ingredient yogurt from scratch\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norway cake with lingonberry and whipped cream layers\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n9. Peppermint chocolate bonbon\n10. Peach cobbler dessert containing whole wheat flour\n'''",
+            "1. Low sugar applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Low fat sweet potato fries made with cajun seasoning\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Baked breakfast bars made with nuts and seeds\n6. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Low fat diced baked or fried potatoes\n10. Mozzarella dip recipe",
+            "Baked mozzarella cheese sticks with marinara sauce\nLow sugar applesauce cupcakes\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat smoothies made with greek yogurt, and pineapple\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSweet salad made with corn and three types of beans\nHomemade soup with chicken, noodles, and spices\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento",
+            "  Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat assorted fruit dessert\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk\n''''",
+            "1. Low sugar applesauce cupcakes\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat assorted fruit dessert\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Low-fat smoothies made with greek yogurt, and pineapple\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Cream soup made with ground beef and cheese\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Assorted cheese soup with chicken\n4. Baked apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Baked spinach quiche containing bacon\n6. Baked breakfast bars made with nuts and seeds\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Berry cobbler that uses frozen mixed berries\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Homemade soup with chicken, noodles, and spices"
+        ]
+    }
+}

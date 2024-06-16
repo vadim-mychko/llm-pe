@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer sweet or savoury dishes?",
+                "response": "sweet"
+            },
+            {
+                "query": "Are you interested in drinks?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer cold drinks or warm drinks?",
+                "response": "cold drinks"
+            },
+            {
+                "query": "Are you interested in pies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Low sugar applesauce cupcakes\n2. Chocolate and orange-flavoured smoothie\n3. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n4. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n5. Blueberry muffins with apple sauce and cinnamon sugar\n6. Grilled tomatoes with fresh mozzarella cheese and basil leaves\n7. Strawberry banana milkshake\n8. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n9. Oatmeal cookies with chocolate chips and walnuts\n10. Strawberry pie\n",
+            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n'''",
+            "- Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n- Low sugar applesauce cupcakes\n- Sugar-free peanut butter cookies\n- Jam made from blackberries, lemon juice, and sugar\n- Chocolate and orange-flavoured smoothie\n- Slushie drink made from orange juice blended with ice\n- Cheesecake made with cream cheese\n- Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n- Milkshake made with fresh strawberries and ice cream\n- Smoothies made from fruit juice and bananas\n''''",
+            " Chocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nStrawberry milkshake\nLow fat smoothies made with greek yogurt, and pineapple\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked mozzarella cheese sticks with marinara sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\n",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Smoothie made from fruit juice and bananas\n3. Low sugar applesauce cupcakes\n4. Chocolate and orange-flavoured smoothie\n5. Slushie drink made from orange juice blended with ice\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Milkshake made with fresh strawberries and ice cream\n8. Banana smoothie made with milk\n9. Smoothie made from banana puree with milk\n10. Low fat assorted fruit dessert",
+            "Chocolate and orange-flavoured smoothie\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nLow fat assorted fruit dessert\nLow fat smoothies made with greek yogurt, and pineapple\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n'''",
+            "1. Chocolate and orange-flavoured smoothie\n2. Slushie drink made from orange juice blended with ice\n3. Smoothie made from banana puree with milk\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Low fat assorted fruit dessert\n8. Milkshake made with fresh strawberries and ice cream\n9. Smoothies made with fruit juice and bananas\n10. Low sugar applesauce cupcakes",
+            "Chocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nMilkshake made with fresh strawberries and ice cream\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nBanana bread made with whole wheat flour and walnuts\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nSmoothie made from fruit juice and bananas\nStrawberry milkshake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nLow fat smoothies made with greek yogurt, and pineapple\n",
+            "Chocolate and orange-flavoured smoothie \\n\nSmoothie made from fruit juice and bananas \\n\nSlushie drink made from orange juice blended with ice \\n\nSmoothie made from banana puree with milk \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nSmoothies made from fruit juice and bananas \\n\nLow-fat coconut alcohol-free cocktail \\n\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nStrawberry banana smoothie \\n\nAssorted cheese soup with chicken\n''''"
+        ]
+    }
+}

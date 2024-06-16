@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in main courses?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like a lot of different types of cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sweet treats?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in baked desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chocolate desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fruity desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in savory desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\n Low sugar applesauce cupcakes\n****\n Sugar-free peanut butter cookies\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Norway cake with lingonberry and whipped cream layers\n****\n Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n Peppermint chocolate bonbon\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n\n****",
+            "1. Chocolate and orange-flavoured smoothie\n2. Slushie drink made from orange juice blended with ice\n3. Cheesecake made with cream cheese\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat coconut alcohol-free cocktail\n6. Smoothie made from banana puree with milk\n7. Low fat assorted fruit dessert\n8. Jam made from blackberries, lemon juice, and sugar\n9. Sugar-free peanut butter cookies\n10. Low sugar applesauce cupcakes",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nVery low-fat assortment of shredded vegetables with seasoning\nSugar-free peanut butter cookies\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSlushie drink made from orange juice blended with ice\nShredded barbecued pork shoulder\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nMilkshake made with fresh strawberries and ice cream\nCheese with crackers\nLow-fat coconut alcohol-free cocktail\nLow fat assorted fruit dessert",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from banana puree with milk\nMilkshake made with fresh strawberries and ice cream\nSmoothie made from fruit juice and bananas\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked spinach quiche containing bacon\nQueso made from melted cheese and chili peppers\nGarlic bread with cheddar, green onions, and mayonnaise",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nLow sugar applesauce cupcakes\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Norway cake with lingonberry and whipped cream layers\n6. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n7. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n8. Peach cobbler dessert containing whole wheat flour\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Banana bread made with whole wheat flour and walnuts",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nPeppermint chocolate bonbon\nGluten-free, egg-free, dairy-free, nut-free fudge\nPeach cobbler dessert containing whole wheat flour\n'''",
+            " Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nGluten-free, egg-free, dairy-free, nut-free fudge\nPeanut butter cookies\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour"
+        ]
+    }
+}

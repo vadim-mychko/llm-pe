@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are you open to trying sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer chicken sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bagel shop?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegan sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with salads?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Valley Green Inn \\n\nWater Works Restaurant & Lounge \\n\nFuji Mountain \\n\nMong Kok Station \\n\nCanton 11 \\n\nIzumi \\n\nPearl's Oyster Bar \\n\nMiga Korean BBQ & Sushi \\n\nSang Kee Peking Duck House \\n\nOishii Pok\u00e9",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nVeda - Modern Indian Bistro \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nFuji Mountain \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi \\n\nPearl's Oyster Bar \\n\nTu's Tea & Banh Mi South Philly",
+            " PrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nSang Kee Peking Duck House \nFive Guys \nMonster Vegan \nBetty's Speakeasy \nSubway",
+            "Steve's Prince of Steaks \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly \nPrimoHoagies \nLisa's Kitchen \nFive Guys \nWawa",
+            "1. Spread Bagelry\n2. The Green Line Cafe\n3. Green Leafs & Bananas\n4. Lisa's Kitchen\n5. Betty's Speakeasy\n6. The QUICK FIXX\n7. Blackbird Pizzeria\n8. Evans' Pizza\n9. Cook and Shaker\n10. Royal Izakaya\n",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts \nFederal Donuts \nThe Tasty Toast\nPrimoHoagies \nThe QUICK FIXX",
+            " PrimoHoagies \n The Tavern Restaurant \n Tavern On the Hill \n Steve's Prince of Steaks \n Misconduct Tavern \n Macaroni's Restaurant \n Green Leafs & Bananas \n Spread Bagelry \n Sister Muhammad's Kitchen \n Chestnut 7\n",
+            "Green Leafs & Bananas \\n\nThe Juice Merchant \\n\nSubway \\n\nWawa \\n\nEvan's Pizza \\n\nRoy-Pitz Barrel House \\n\nFederal Donuts \\n\nluhv Vegan Deli \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "1. PrimoHoagies\n2. The Tasty Toast\n3. Green Leafs & Bananas\n4. The Green Line Cafe\n5. Spread Bagelry\n6. Love & Honey Fried Chicken\n7. Steve's Prince of Steaks\n8. Luhv Vegan Deli\n9. Lisa's Kitchen\n10. The QUICK FIXX\n",
+            "The Green Line Cafe \\n\nSpread Bagelry \\n\nLuvh Vegan Deli \\n\nSister Muhammad's Kitchen \\n\nTrolley Car Diner \\n\nGreen Leafs & Bananas \\n\nLisa's Kitchen \\n\nBetty's Speakeasy \\n\nSteve's Prince of Steaks \\n\nJack's Firehouse"
+        ]
+    }
+}

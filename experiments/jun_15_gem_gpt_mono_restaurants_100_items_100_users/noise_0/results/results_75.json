@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere to get a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you also want a pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves shakes or malts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you specifically looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere to watch a game?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in craft beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a traditional American bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Tu's Tea & Banh Mi South Philly \n Miga Korean BBQ & Sushi \n Canton 11 \n Dim Sum House \n Sang Kee Peking Duck House \n Wawa \n KC's Pastries",
+            "Misconduct Tavern \nLucky's Last Chance \nLove & Honey Fried Chicken \nRoy-Pitz Barrel House \nThe Blue Duck \nThe QUICK FIXX \nFive Guys \nFranklin's \nLisa's Kitchen \nJack's Firehouse",
+            "Jack's Firehouse \nFranklin's \nLisa's Kitchen \nThe Blue Duck \nWishbone \nBlackbird Pizzeria \nThe QUICK FIXX \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nLucky's Last Chance",
+            "Federal Donuts \nRoy-Pitz Barrel House \nThe Blue Duck \nMisconduct Tavern \nFederal Donuts \nThe Tavern Restaurant \nWishbone \nFranklin's \nLisa's Kitchen \nJack's Firehouse",
+            "1. Misconduct Tavern\n2. Paddy's Old City Pub\n3. Tavern On the Hill\n4. Mad River Manayunk\n5. The El Bar\n6. Jack's Firehouse\n7. Franklin's\n8. Founding Fathers Sports Bar & Grill\n9. The Blue Duck\n10. Blackbird Pizzeria",
+            "The Tavern Restaurant \\n\nPaddy's Old City Pub \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nMisconduct Tavern \\n\nWishbone \\n\nMcMenamin's Tavern \\n\nFounding Fathers Sports Bar & Grill \\n\nLucky's Last Chance",
+            "Misconduct Tavern \nFranklin's \nWishbone \nChestnut 7 \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nJD Mcgillicuddy's Manayunk \nMad River Manayunk \nCinCin Restaurant \nLucky's Last Chance",
+            "Misconduct Tavern \nFive Guys \nChickie's & Pete's \nFranklin's \nFederal Donuts \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nMad River Manayunk",
+            "Founding Fathers Sports Bar & Grill\nMad River Manayunk\nFranklin's\nJD Mcgillicuddy's Manayunk\nWawa\nChestnut 7\nLucky's Last Chance\nRoy-Pitz Barrel House\nCinCin Restaurant\nCantina Dos Segundos\n",
+            "Misconduct Tavern \nPaddy's Old City Pub \nMad River Manayunk \nWishbone \nJD Mcgillicuddy's Manayunk \nFranklin's \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nLucky's Last Chance"
+        ]
+    }
+}

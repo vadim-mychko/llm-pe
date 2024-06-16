@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dining spot with a cozy atmosphere?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Water Works Restaurant & Lounge \nGrain Exchange \nLacroix Restaurant at The Rittenhouse \nHeritage \nThe Continental Restaurant and Martini Bar \nSouthEast Bistro \nCO-OP Restaurant & Lounge \nJake's & Cooper's Wine Bar & Wine Shop \nParc \nMcMenamin's Tavern",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "1. Izumi\n2. Sang Kee Peking Duck House\n3. Baan Thai\n4. canton 11\n5. Dim Sum House\n6. Jake's & Cooper's Wine Bar & Wine Shop\n7. Pearl's Oyster Bar\n8. Macaroni's Restaurant\n9. Mad River Manayunk\n10. Chestnut 7",
+            "Zuzu's Kitchen\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nLe Pain Quotidien\nGrain Exchange\nIzumi\nA Tutti, Ristorante Italiano\nThe Milk House\nFuji Mountain",
+            "1. Zuzu's Kitchen\n2. Golden Triangle \n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Daleng Restaurant \n5. Sang Kee Peking Duck House \n6. Miga Korean BBQ & Sushi \n7. Mad River Manayunk \n8. Sister Muhammad's Kitchen \n9. Founding Fathers Sports Bar & Grill \n10. KC's Pastries",
+            "Nothing matches your preferences exactly. Based on your previous responses, here are the top 10 most relevant restaurants for you:\n****\nname: Golden Triangle \ncategories: Restaurants, Malaysian, Burmese, Asian Fusion, Thai\n****\nname: Water Works Restaurant & Lounge \ncategories: Restaurants, Seafood, Mediterranean, American (New), Breakfast & Brunch, Event Planning & Services, Caterers\n****\nname: Daleng Restaurant \ncategories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\nname: The Tasty Toast \ncategories: Restaurants, Breakfast & Brunch, American (Traditional), Cheesesteaks, Cafes\n****\nname: The Milk House \ncategories: Restaurants, American (New), Food, Breakfast & Brunch, Ice Cream & Frozen Yogurt\n****\nname: Grain Exchange \ncategories: Restaurants, American (New), Nightlife, American (Traditional), Pubs, Southern, Bars, Gastropubs\n****\nname: Talluto's Authentic Italian Food \ncategories: Restaurants, Specialty Food, Italian, Food, Cheese Shops, Grocery, Ethnic Food\n****\nname: Bistrol SouthEast \ncategories: Restaurants, Korean, Seafood, Thai, Asian Fusion, Vietnamese, Sandwiches\n****\nname: Canton 11 \ncategories: Restaurants, Food, Dim Sum, Cantonese, Szechuan, Bars, Cocktail Bars, Nightlife, Karaoke, Food Delivery Services, Chinese, Sushi Bars\n****\nname: Pearl's Oyster Bar \ncategories: Restaurants, Seafood, American (New), Live/Raw Food, Breakfast & Brunch",
+            "Federal Donuts\nJack's Firehouse\nFounding Fathers Sports Bar & Grill\nLucky's Last Chance\nFranklin's\nMcMenamin's Tavern\nPaddy's Old City Pub\nCJ & Eck's\nMad River Manayunk\nThe El Bar",
+            "Roy-Pitz Barrel House \nThe Continental Restaurant and Martini Bar \nMad River Manayunk \nParc \nAudrey Claire \nJake's & Cooper's Wine Bar & Wine Shop \nVedge \nGran Caffe L'Aquila \nBlackbird Pizzeria \nBloomsday Cafe"
+        ]
+    }
+}

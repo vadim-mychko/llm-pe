@@ -1,0 +1,58 @@
+{
+    "33": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an Italian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in restaurants that have a dinner menu?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that serve American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that serve breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve seafood?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Water Works Restaurant & Lounge\n3. Lacroix Restaurant at The Rittenhouse\n4. Golden Triangle\n5. The Tasty Toast\n6. Federal Donuts\n7. Heritage\n8. Kokopelli Restaurant & Tequila Bar\n9. Grain Exchange\n10. Veda - Modern Indian Bistro",
+            "The Continental Restaurant and Martini Bar \nTu's Tea & Banh Mi South Philly \nPearl's Oyster Bar \nGrain Exchange \nVedge \nMalbec Argentine Steakhouse \nOishii Pok\u00e9 \nOlive Garden Italian Restaurant \nBistro SouthEast \nSang Kee Peking Duck House ",
+            "1. The Union League Caf\u00e9\n2. Ristorante Panorama \n3. Lacroix Restaurant at The Rittenhouse \n4. 215 Chophouse \n5. Amada \n6. Buddakan \n7. Zahav \n8. The Olde Bar \n9. The Dandelion \n10. Fork",
+            "1. The Tavern Restaurant\n2. The Bar\n3. Founding Fathers Sports Bar & Grill\n4. Misconduct Tavern\n5. Paddy's Old City Pub\n6. Tavern On The Hill\n7. Chestnut 7\n8. CinCin Restaurant\n9. Jake's & Cooper's Wine Bar & Wine Shop\n10. Federal Donuts",
+            "1. Water Works Restaurant & Lounge\n2. The Tasty Toast\n3. The Milk House\n4. Mugshots Coffeehouse\n5. The Green Line Cafe\n6. Fiore Fine Foods\n7. Franklin's\n8. Trolley Car Diner\n9. Spread Bagelry\n10. Love & Honey Fried Chicken",
+            "1. Tavern On the Hill  \n2. The Milk House  \n3. The Blue Duck  \n4. The Grill  Smuckers  \n5. Heritage  \n6. The Tavourn Restaurant  \n7. The Continental Restaurant and Martini Bar  \n8. Lacroix Restaurant at The Rittenhouse  \n9. CO-OP Restaurant & Lounge  \n10. Chestnut 7 ",
+            " Lacroix Restaurant at The Rittenhouse \nThe Continental Restaurant and Martini Bar \nPearl's Oyster Bar \nWater Works Restaurant & Lounge \nHeritage \nParc \nCook and Shaker \nAudrey Claire \nJack's Firehouse \nThe Green Line Cafe ",
+            "1. Pearl's Oyster Bar \\n\n2. Izumi \\n\n3. Water Works Restaurant & Lounge \\n\n4. Lacroix Restaurant at The Rittenhouse \\n\n5. The Milk House \\n\n6. The Continental Restaurant and Martini Bar \\n\n7. Audrey Claire \\n\n8. Parc \\n\n9. Gran Caffe L'Aquila \\n\n10. Cafe L'Aube",
+            "1. The Continental Restaurant and Martini Bar \n2. Pearl's Oyster Bar \n3. CO-OP Restaurant & Lounge \n4. The Grill  Smuckers \n5. The Milk House \n6. The Cheesecake Factory \n7. Olive Garden Italian Restaurant \n8. Macaroni's Restaurant \n9. Grain Exchange \n10. Hash House A Go Go\n",
+            "1. Water Works Restaurant & Lounge \n2. Pearl's Oyster Bar \n3. Ristorante La Buca \n4. Audrey Claire \n5. Local Tavern \n6. Lacroix Restaurant at The Rittenhouse \n7. Grain Exchange \n8. Cook and Shaker \n9. Jack's Firehouse \n10. Founding Fathers Sports Bar & Grill"
+        ]
+    }
+}

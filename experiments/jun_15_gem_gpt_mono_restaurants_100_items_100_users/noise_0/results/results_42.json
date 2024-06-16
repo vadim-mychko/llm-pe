@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for any type of sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any type of seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any type of chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any type of pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see any results for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a brunch spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for lunch or dinner?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Green Line Cafe \nSpread Bagelry \nBlackbird Pizzeria \nThe QUICK FIXX \nLisa's Kitchen \nThe Juice Merchant \nPrimoHoagies \nBloomsday Cafe \nFive Guys \nTu's Tea & Banh Mi South Philly",
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nThe Juice Merchant \nDaleng Restaurant \nFederal Donuts \nHeritage \nGrain Exchange \nCantonese, Food\nThe Grill  Smuckers \nBistro SouthEast",
+            "1. Golden Triangle \n2. Daleng Restaurant \n3. Lacroix Restaurant at The Rittenhouse \n4. Water Works Restaurant & Lounge \n5. CO-OP Restaurant & Lounge \n6. Heritage \n7. CinCin Restaurant \n8. Grain Exchange \n9. Tavern On the Hill \n10. Ristorante La Buca",
+            "****\n name: The Blue Duck \n categories: Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches\n****\n name: Mad River Manayunk \n categories: Restaurants, Bars, American (Traditional), Sports Bars, Nightlife\n****\n name: Tavern On the Hill \n categories: Restaurants, Nightlife, American (New), American (Traditional), Bars, Pubs, Lounges\n****\n name: Founding Fathers Sports Bar & Grill \n categories: Restaurants, Sports Bars, Bars, Nightlife, American (New)\n****\n name: Five Guys \n categories: Restaurants, Sandwiches, Fast Food, American (New), Burgers\n****\n name: Grain Exchange \n categories: Restaurants, American (New), Nightlife, American (Traditional), Pubs, Southern, Bars, Gastropubs\n****\n name: Green Leafs & Bananas \n categories: Restaurants, Sandwiches, Salad, Food, Fast Food, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies\n****\n name: CO-OP Restaurant & Lounge \n categories: Restaurants, American (New), Bars, Breakfast & Brunch, Coffee & Tea, Food, Cocktail Bars, Nightlife\n****\n name: Spread Bagelry \n categories: Restaurants, Sandwiches, Coffee & Tea, Food, Bagels\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nLe Pain Quotidien \nHeritage \nFederal Donuts \nFederal Donuts \nWawa ",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "1. Federal Donuts\n2. Franklin's\n3. Founding Fathers Sports Bar & Grill\n4. Five Guys\n5. Founding Fathers Sports Bar & Grill\n6. Jack's Firehouse\n7. JD Mcgillicuddy's Manayunk\n8. Lucky's Last Chance\n9. Mad River Manayunk\n10. Misconduct Tavern",
+            "1. The Tasty Toast \\n\n2. The Milk House \\n\n3. The Grill  Smuckers \\n\n4. Bistro SouthEast \\n\n5. Benna's Cafe \\n\n6. Hey Hummus \\n\n7. Fiore Fine Foods \\n\n8. Jack's Firehouse \\n\n9. Trolley Car Diner \\n\n10. Parc",
+            " The Juice Merchant \nThe Tasty Toast \nThe Grill  Smuckers\nBistro SouthEast\nBaan Thai\nThe Blue Duck\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly\nMad River Manayunk\nGreen Leafs & Bananas",
+            " The Juice Merchant \nThe Tasty Toast \nThe Milk House \nThe Grill  Smuckers \nBenna's Cafe \nHey Hummus \nEssene Market & Caf\u00e9 \nFio Fiore Fine Foods \nBetty's Speakeasy \nThe Green Line Cafe"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Do you like to eat fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to eat meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to eat cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to drink smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like orange-flavoured dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1.  Fruit juice and banana smoothie\n2.  Low sugar applesauce cupcakes\n3.  Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4.  Assorted cheese soup with chicken\n5.  Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n6.  Peach cobbler dessert containing whole wheat flour\n7.  Sweet salad made with corn and three types of beans\n8.  Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9.  Low fat assorted fruit dessert\n10. Soup made with cabbage, carrots, potatoes, and onions\n",
+            "Chocolate and orange-flavoured smoothie \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nFruit juice and bananas smoothie \\n\nLow sugar applesauce cupcakes \\n\nLow-fat coconut alcohol-free cocktail \\n\nSmoothie made from banana puree with milk \\n\nBerry cobbler that uses frozen mixed berries \\n\nSmoothie made from fruit juice and bananas \\n\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears \\n\nLow fat assorted fruit dessert",
+            "1. Low fat assorted fruit dessert\n2. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n3. Low sugar applesauce cupcakes\n4. Smoothie made from fruit juice and bananas\n5. Chocolate and orange-flavoured smoothie\n6. Slushie drink made from orange juice blended with ice\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Banana bread made with whole wheat flour and walnuts\n9. Berry cobbler that uses frozen mixed berries\n10. Sweet salad made with corn and three types of beans",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked spinach quiche containing bacon",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Cheesecake made with cream cheese\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n10. Banana bread made with whole wheat flour and walnuts",
+            "Chocolate and orange-flavoured smoothie \nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \nSlushie drink made from orange juice blended with ice \nCheesecake made with cream cheese \nLow sugar applesauce cupcakes \nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \nBanana bread made with whole wheat flour and walnuts \nSmoothie made from banana puree with milk \nNorway cake with lingonberry and whipped cream layers \nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \n",
+            "Chocolate and orange-flavoured smoothie\nLow fat assorted fruit dessert\nOrange juice blended with ice\nSlushie drink made from orange\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nPeach cobbler dessert containing whole wheat flour\n",
+            "1. Banana bread made with whole wheat flour and walnuts\n2. Chocolate and orange-flavoured smoothie\n3. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n4. Low sugar applesauce cupcakes\n5. Sugar-free peanut butter cookies\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Strawberry milkshake\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Cheesecake made with cream cheese\n10. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n'''",
+            " Chocolate and orange-flavoured smoothie \\n\nSlushie drink made from orange juice blended with ice \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nSmoothie made from fruit juice and bananas \\n\nSmoothie made from banana puree with milk \\n\nNorway cake with lingonberry and whipped cream layers \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nLow sugar applesauce cupcakes \\n\nSugar-free peanut butter cookies",
+            "Chocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat coconut alcohol-free cocktail\nSlushie drink made from orange juice blended with ice\nMilkshake made with fresh strawberries and ice cream\nSpaghetti made from year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow fat assorted fruit dessert\nBaked breakfast bars made with nuts and seeds\n'''"
+        ]
+    }
+}

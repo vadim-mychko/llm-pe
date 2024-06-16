@@ -1,0 +1,58 @@
+{
+    "74": {
+        "conv_hist": [
+            {
+                "query": "Do you like ramen?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you currently in the mood for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches from a bagel shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want conventional sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in chicken sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nThe Juice Merchant \nDaleng Restaurant \nFederal Donuts \nMong Kok Station ",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Mong Kok Station \n The Tasty Toast",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Benna's Cafe \n4. Vedge \n5. Hey Hummus \n6. Sister Muhammad's Kitchen \n7. Luhv Vegan Deli \n8. The Cheesecake Factory \n9. Pure Tacos \n10. Love & Honey Fried Chicken",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Grain Exchange\nPrimoHoagies\nLisa's Kitchen\nSpread Bagelry\nThe Green Line Cafe\nThe Juice Merchant\nThe QUICK FIXX\nZuzus Kitchen\nDim Sum House\nSteve's Prince of Steaks",
+            "Lisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nFive Guys \nPrimoHoagies \nEvan's Pizza \nThe QUICK FIXX \nLuvh Vegan Deli \nGreen Leafs & Bananas \nJack's Firehouse",
+            "PrimoHoagies \\n\nThe Green Line Cafe \\n\nThe Blue Duck \\n\nLuhv Vegan Deli \\n\nMisconduct Tavern \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nRoy-Pitz Barrel House \\n\nFranklin's \\n\nSpread Bagelry \\n\nLisa's Kitchen",
+            " PrimoHoagies \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nThe Milk House \\n\nFive Guys \\n\nWawa \\n\nFederal Donuts \\n\nThe QUICK FIXX",
+            "The QUICK FIXX \nSister Muhammad's Kitchen \nJD Mcgillicuddy's Manayunk \nFranklin's \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nLuhv Vegan Deli \nSpread Bagelry \nThe Green Line Cafe \nKC's Pastries",
+            "Federal Donuts \nChickie's & Pete's \nPrimoHoagies \nSteve's Prince of Steaks \nLisa's Kitchen \nSpread Bagelry \nGreen Leafs & Bananas \nThe Green Line Cafe \nThe QUICK FIXX \nLuhv Vegan Deli"
+        ]
+    }
+}

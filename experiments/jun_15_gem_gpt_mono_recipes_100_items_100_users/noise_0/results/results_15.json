@@ -1,0 +1,58 @@
+{
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pork dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken or turkey dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in beef dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pasta dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPork chops glazed with milk and cooked without nuts\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\nTaiwanese deep fried crispy chicken cutlets\nKorean soup containing beef brisket and flavoured with red pepper powder\nPolish sausage with fermented cabbage\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatballs made with ground beef and ground pork\n'''",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Polish sausage with fermented cabbage\n7. Mozzarella dip recipe\n8. Meatballs made with ground beef and ground pork\n9. Chopped French duck confit preserved by duck oil\n10. Low fat diced baked or fried potatoes\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nLow fat diced baked or fried potatoes\n****\nBaked spinach quiche containing bacon\n****\nPork chops glazed with milk and cooked without nuts\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Roast pork chops glazed with milk and cooked without nuts\n****\n Chopped French duck confit preserved by duck oil\n****\n Low fat diced baked or fried potatoes\n****\n Pork sausage with fermented cabbage\n****\n Meatballs made with ground beef and ground pork\n****\n Dog food made from pork, green beans, cheddar cheese and brown rice\n****\n Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Polish sausage with fermented cabbage\n****\n Almonds coated with butter and salt\n****\n Roasted almonds\n****\n Baked mozzarella cheese sticks with marinara sauce\n****\n Meatballs made with ground beef and ground pork\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Roast pork chops glazed with milk and cooked without nuts\n5. Polish sausage with fermented cabbage\n6. Meatballs made with ground beef and ground pork\n7. Soup made with ground turkey that is low fat, high carb\n8. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n9. High protein skillet with rice and vegetables\n10. Baked breakfast bars made with nuts and seeds\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChopped French duck confit preserved by duck oil\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nShredded barbecued pork shoulder\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nPork chops glazed with milk and cooked without nuts\n****\nAlmonds coated with butter and salt\n****\nRoasted almonds\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Chopped French duck confit preserved by duck oil\n5. Dog food made from pork, green beans, cheddar cheese and brown rice\n6. Roast pork chops glazed with milk and cooked without nuts\n7. Polish sausage with fermented cabbage\n8. Mozzarella cheese sticks with marinara sauce\n9. Meatballs made with ground beef and ground pork\n10. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nAlmonds coated with butter and salt\n****\nRoasted almonds\n****\nMeatballs made with ground beef and ground pork\n****\nPolish sausage with fermented cabbage\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nChopped French duck confit preserved by duck oil\nRoast pork chops glazed with milk and cooked without nuts\nDog food made from pork, green beans, cheddar cheese, and brown rice\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nLow fat sweet potato fries made with cajun seasoning\n'''"
+        ]
+    }
+}

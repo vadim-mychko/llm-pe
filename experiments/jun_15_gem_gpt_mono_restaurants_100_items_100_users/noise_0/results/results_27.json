@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nGolden Triangle \\n\nMong Kok Station \\n\nWater Works Restaurant & Lounge \\n\nLaCroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n",
+            " Mood Indian Restaurant\nWater Works Restaurant & Lounge\nIzumi\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nVed\nBloomsday Cafe\nJake's & Cooper's Wine Bar & Wine Shop\nRoy-Pitz Barrel House\nVedge",
+            "The Green Line Cafe \nKC's Pastries \nGran Caffe L'Aquila \nSpread Bagelry \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nBistro SouthEast \nDaleng Restaurant \nBaan Thai \nIzumi",
+            "Mood Indian Restaurant\nDaleng Restaurant\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nPrimoHoagies\nFederal Donuts\nCO-OP Restaurant & Lounge\nThe Milk House\nRoy-Pitz Barrel House",
+            "1. Water Works Restaurant & Lounge \n2. Green Leafs & Bananas \n3. The Blue Duck \n4. The Green Line Cafe \n5. The Milk House \n6. Pearl's Oyster Bar \n7. Sang Kee Peking Duck House \n8. Green Leafs & Bananas \n9. The Grilled Pizza Co \n10. Izumi",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nPrimoHoagies\nThe Tasty Toast\nFederal Donuts\nThe Juice Merchant\nGreen Leafs & Bananas\nThe QUICK FIXX\nMonster Vegan\nLuhv Vegan Deli\nSpread Bagelry",
+            "Monster Vegan \n Luhv Vegan Deli \n Vedge \n Hey Hummus \n The QUICK FIXX \n The Juice Merchant \n Green Leafs & Bananas \n The Green Line Cafe \n Spread Bagelry \n Wawa",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nVedge \\n\nHey Hummus \\n\nThe Green Line Cafe \\n\nThe Juice Merchant \\n\nThe Fresh Grocer - Progress Plaza \\n\nEssene Market & Caf\u00e9 \\n\nBetty's Speakeasy",
+            "Monster Vegan \nLuvh Vegan Deli \nThe QUICK FIXX \nBlackbird Pizzeria \nHey Hummus \nBenna's Cafe \nVedge \nSpread Bagelry \nGreen Leafs & Bananas \nThe Juice Merchant"
+        ]
+    }
+}

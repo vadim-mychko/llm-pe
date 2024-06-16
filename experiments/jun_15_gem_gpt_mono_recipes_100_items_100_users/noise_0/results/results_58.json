@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in savoury dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like European cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups with meaty flavours?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\n",
+            "**1** Stuffed French duck confit preserved by duck oil\n**2** Garlic bread with cheddar, green onions, and mayonnaise\n**3** Norwegian cake with lingonberry and whipped cream layers\n**4** Spaghetti noodles with mussels, anchovy fillets, and capers\n**5** Mozzarella dip recipe\n**6** Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n**7** Italian salad made from romain lettuce, artichokes, and tomatoes\n**8** Pork chops glazed with milk and cooked without nuts\n**9** Baked mozarella cheese sticks with marinara sauce\n**10** Mozzarella cheese with crackers",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Pulled pork with tangy barbecue sauce \n5. Salmon roasted with olive oil, chives, and tarragon leaves \n6. Soup made with ground turkey that is low fat, high carb\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \n9. Soup made with vegetables and chicken\n10. Chicken cooked and flavored with lemon sauce\n",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nItalian salad made from romain lettuce, artichokes, and tomatoes \\n\nQueso made from melted cheese and chili peppers \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nGrilled salmon seasoned with salt and pepper \\n\nBaked spinach quiche containing bacon \\n\nMixed assortment pizza with pork sausage, ground beef, chicken, and bacon \\n\nRoasted almonds\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices\nMushy peas that are soft\n''''",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n High protein skillet with rice and vegetables\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Large portion fries with gravy and bacon\n****\n Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n Poke of tofu, mushroom and tomatoes\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Chopped French duck confit preserved by duck oil\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Homemade soup with chicken, noodles, and spices\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth\n''''",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Homemade soup with chicken, noodles, and spices\n****\n Mildly spicy chili recipe\n****\n Soup made with vegetables and chicken\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Assorted cheese soup with chicken\n****\n Cheese and vegetable soup with a beer broth\n****",
+            "Soup made with cabbage, carrots, potatoes, and onions \\n\nCreamy base with dill flavoring, eggs, and noodles \\n\nSoup made with ground turkey that is low fat, high carb \\n\nAssorted cheese soup with chicken \\n\nCheese and olive appetizer made to look like an eyeball \\n\nCheese with crackers \\n\nCheese and vegetable soup with a beer broth \\n\nSoup made with vegetables and chicken \\n\nSoup made with shrimp, onions, and scallops \\n\nSoup made with onions, carrots, and celery ribs\n''''",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with vegetables and chicken\nSoup made with ground turkey that is low fat, high carb\nCalcium-rich soup made with broccoli and beans\nAssorted cheese soup with chicken\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nHomemade soup with chicken, noodles, and spices\nSoup made with cabbage, carrots, potatoes, and onions\nVery low-fat assortment of shredded vegetables with seasoning"
+        ]
+    }
+}

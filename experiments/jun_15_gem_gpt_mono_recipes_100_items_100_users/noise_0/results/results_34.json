@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish or beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meat-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Roasted almonds\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Roasted salmon fillets with herbs and spices\n****\n Salmon fillets cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Spanish rice with chicken breast\n****\n Grilled salmon seasoned with lemon sauce\n****\n Baked mozzarella cheese sticks with marinara sauce",
+            "****\nLow fat diced baked or fried potatoes\n****\nRoasted almonds\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nSimple creamy oyster soup\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nPeppermint chocolate bonbon\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef stew made with beef, carrots and potatoes\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****",
+            " 1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n 2. Low-fat assorted fruit dessert\n 3. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n 4. Smoothies made from fruit juice and bananas\n 5. Smoothie made from banana puree with milk\n 6. Low fat smoothies made with greek yogurt, and pineapple\n 7. Mozzarella dip recipe\n 8. Peach cobbler dessert containing whole wheat flour\n 9. Grilled salmon seasoned with salt and pepper\n10. Baked salmon dessert pie filled with a sweet pumpkin spice based custard\n",
+            " Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            " Low fat diced baked or fried potatoes \\n\nOrange slushie drink made from orange juice blended with ice \\n\nSmoothie made from fruit juice and bananas \\n\nSimple creamy oyster soup \\n\nLow sugar applesauce cupcakes \\n\nEggs, bananas, and smoothie \\n \nLow fat smoothies made with greek yogurt, and pineapple \\n\nCreamy base with dill flavoring, eggs, and noodles \\n\nSmoothie made from banana puree with milk \\n\nSoup made with ground turkey that is low fat, high carb \n",
+            "- Grilled salmon seasoned with salt and pepper\n- Salmon fillets grilled in a pan with herbs and spices\n- Salmon roasted with olive oil, chives, and tarragon leaves\n- Berry cobbler that uses frozen mixed berries\n- Milkshake made with fresh strawberries and ice cream\n- Smoothie made from banana puree with milk\n- Smoothie made from fruit juice and bananas\n- Chocolate and orange-flavoured smoothie\n- Slushie drink made from orange juice blended with ice\n- Low fat assorted fruit dessert",
+            "10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Pork chops glazed with milk and cooked without nuts\n8. Sausage with fermented cabbage\n7. German potato dumplings\n6. Polish sausage with fermented cabbage\n5. Grilled salmon seasoned with salt and pepper\n4. Mozzarella dip recipe\n3. Eggless sauerkraut cake\n2. Meatballs made with ground beef and ground pork\n1. Baked mozzarella cheese sticks with marinara sauce",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nPeach cobbler dessert containing whole wheat flour\nStrawberry milkshake\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nChocolate baking squares cake",
+            "1. Dog food made from pork, green beans, cheddar cheese and brown rice\n2. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Smoothie made from fruit juice and bananas\n5. Jam made from blackberries, lemon juice, and sugar\n6. Sugar-free peanut butter cookies\n7. Slushie drink made from orange juice blended with ice\n8. Almonds coated with butter and salt\n9. Roasted almonds",
+            "- Very low-fat assortment of shredded vegetables with seasoning\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- Spaghetti noodles with mussels, anchovy fillets, and capers\n- South African vegetable curry flavoured with curry powder and ground tumeric\n- Italian salad made from romain lettuce, artichokes, and tomatoes\n- 2-ingredient yogurt from scratch\n- Soup made with cabbage, carrots, potatoes, and onions\n- Soup made with ground turkey that is low fat, high carb\n- Assorted cheese soup with chicken\n- Diggestion-friendly waffles"
+        ]
+    }
+}

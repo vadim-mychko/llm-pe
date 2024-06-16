@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in food delivery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in having a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sports bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nFuji Mountain \nZuzu's Kitchen \nCanton 11 \nMiga Korean BBQ & Sushi \nFederal Donuts \nBaan Thai \nRistorante La Buca \nMood Indian Restaurant",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nVeda - Modern Indian Bistro \nZuzu's Kitchen \nIzumi \nBloomsday Cafe \nBaan Thai \nRoy-Pitz Barrel House \nMacaroni's Restaurant \nTu's Tea & Banh Mi South Philly",
+            "The Tavern Restaurant \nTavern On the Hill \nThe Grill  Smuckers \nThe Tasty Toast \nPearl's Oyster Bar \nMacaroni's Restaurant \nThe QUICK FIXX \nJack's Firehouse \nSteve's Prince of Steaks \nTrolley Car Diner\n Founding Fathers Sports Bar & Grill",
+            "1. Founding Fathers Sports Bar & Grill\n2. Founding Fathers Sports Bar & Grill\n3. Tavern On the Hill\n4. Macaroni's Restaurant\n5. Olive Garden Italian Restaurant\n6. The Blue Duck\n7. Franklin's\n8. Jack's Firehouse\n9. Love & Honey Fried Chicken\n10. Founding Fathers Sports Bar & Grill",
+            "Five Guys \nMisconduct Tavern \nThe Blue Duck \nRoy-Pitz Barrel House \nMad River Manayunk \nFranklin's \nLisa's Kitchen \nJack's Firehouse \nSteve's Prince of Steaks \nLuvh Vegan Deli \nChestnut 7",
+            "Misconduct Tavern\nThe Tavern Restaurant\nJack's Firehouse\nWishbone\nFounding Fathers Sports Bar & Grill\nLucky's Last Chance\nFranklin's\nChestnut 7\nMad River Manayunk\nMacaroni's Restaurant",
+            "The Tavern Restaurant \nMacaroni's Restaurant \nMad River Manayunk \nJD Mcgillicuddy's Manayunk \nFranklin's \n Founding Fathers Sports Bar & Grill \nChestnut 7 \nJack's Firehouse \nMisconduct Tavern \nLucky's Last Chance",
+            "Misconduct Tavern \nPearl's Oyster Bar \nThe Blue Duck \nThe El Bar \nFranklin's \nJD Mcgillicuddy's Manayunk \nThe Tavern Restaurant \nThe Green Line Cafe \nJack's Firehouse \nFederal Donuts",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Five Guys \n4. Founding Fathers Sports Bar & Grill \n5. Mad River Manayunk \n6. JD Mcgillicuddy's Manayunk \n7. Franklin's \n8. Blackbird Pizzeria \n9. Lisa's Kitchen \n10. Jack's Firehouse"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "How about somewhere that has burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to go to a restaurant that offers Asian Fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Is a steakhouse of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "How about a place that serves pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nFederal Donuts \nHeritage \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nValley Green Inn",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Juice Merchant\nCinCin Restaurant\nFederal Donuts\nIzumi\nA Tutti, Ristorante Italiano\nOlive Garden Italian Restaurant\nMacaroni's Restaurant",
+            " Tavern On the Hill \\n\nMacaroni's Restaurant \\n\nMiga Korean BBQ & Sushi \\n\nPearl's Oyster Bar \\n\nRistorante La Buca \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nSteve's Prince of Steaks \\n\nBetty's Speakeasy \\n\nAudrey Claire",
+            "Grain Exchange \nMcMenamin's Tavern \nPaddy's Old City Pub \nJack's Firehouse \nChestnut 7 \nVedge \nRoy-Pitz Barrel House \nFranklin's \nLibert\u00e9 Lounge \nFounding Fathers Sports Bar & Grill",
+            "Water Works Restaurant & Lounge \nGolden Triangle \nDaleng Restaurant \nVeda - Modern Indian Bistro \nCanton 11 \nFederal Donuts \nBistro SouthEast \nNorth Bowl \nMonster Vegan \nFederals Donuts \nDim Sum House",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nMong Kok Station\nFuji Mountain\nSang Kee Peking Duck House\nBistro SouthEast\nCanton 11\nTavern On the Hill",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Tasty Toast\nLe Pain Quotidien\nA Tutti, Ristorante Italiano",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "Wawa \\n\nJD Mcgillicuddy's Manayunk \\n\nMiga Korean BBQ & Sushi \\n\nLaurel \\n\nGreen Leafs & Bananas \\n\nFederal Donuts \\n\nFuji Mountain \\n\nThe Tasty Toast \\n\nThe QUICK FIXX \\n\nMonster Vegan",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant"
+        ]
+    }
+}

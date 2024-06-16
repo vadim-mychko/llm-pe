@@ -1,0 +1,58 @@
+{
+    "41": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like ice cream?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet things?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like baked oatmeal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chocolate?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like eggs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. Vegetarian Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n5. Simple creamy oyster soup\n6. Low fat shredded vegetables with seasoning\n7. Stuffed poblanos with cheese, corn, black beans, tomatoes and rice\n8. Sweet salad made with corn and three types of beans\n9. Peanut butter and jelly sandwich on 100% whole wheat bread\n10. Broccoli and cheddar cheese soup\n'''",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Assorted cheese soup with chicken\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Vegetable and chickpea curry stir fry\n7. Baked spinach quiche containing bacon\n8. Tofu, mushroom and tomatoes Poke\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Sweet salad made with corn and three types of beans\n",
+            "1. Gluten-free, egg-free, dairy-free, nut-free fudge\n2. Sugar-free peanut butter cookies\n3. Low sugar applesauce cupcakes\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n6. Fruit juice and banana smoothie\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Baked breakfast bars made with nuts and seeds\n9. Peach cobbler dessert containing whole wheat flour\n10. Jam made from blackberries, lemon juice, and sugar\n'''",
+            "Chocolate and orange-flavoured smoothie\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSmoothie made from fruit juice and bananas\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nNorway cake with lingonberry and whipped cream layers\nBaked breakfast bars made with nuts and seeds\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\n",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nChocolate and orange-flavoured smoothie\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow fat sweet potato fries made with cajun seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nPeach cobbler dessert containing whole wheat flour\nSmoothie made from fruit juice and bananas\nLow fat smoothies made with greek yogurt, and pineapple",
+            "1. Baked oatmeal recipe\n2. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n3. Chocolate and orange-flavoured smoothie\n4. Blueberry pancakes\n5. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Sugar-free peanut butter cookies\n8. Low sugar applesauce cupcakes\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Peach cobbler dessert containing whole wheat flour",
+            "Chocolate and orange-flavoured smoothie\nLow sugar applesauce cupcakes\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nLow fat sweet potato fries made with cajun seasoning\nJam made from blackberries, lemon juice, and sugar\nBaked breakfast bars made with nuts and seeds\nPeach cobbler dessert containing whole wheat flour\nVery low-fat assortment of shredded vegetables with seasoning\nMildly spicy chili recipe",
+            "1. Low sugar applesauce cupcakes\n2. Baked breakfast bars made with nuts and seeds\n3. Sugar-free peanut butter cookies\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n7. Norway cake with lingonberry and whipped cream layers\n8. Peach cobbler dessert containing whole wheat flour\n9. Classic salad with creamy caesar dressing and croutons\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "Low fat diced baked or fried potatoes \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nLow-fat coconut alcohol-free cocktail \\n\nAlmonds coated with butter and salt \\n\nRoasted almonds \\n\nLow fat assorted fruit dessert \\n\nBanana bread made with whole wheat flour and walnuts \\n\nLow sugar applesauce cupcakes \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\n2-ingredient yogurt from scratch\n''''",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Baked oatmeal\n5. Low sugar applesauce cupcakes\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. Banana bread made with whole wheat flour and walnuts\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Strawberry and Banana Smoothie\n"
+        ]
+    }
+}

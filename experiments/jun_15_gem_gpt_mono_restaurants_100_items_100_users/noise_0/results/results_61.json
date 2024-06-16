@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salad?",
+                "response": "no"
+            },
+            {
+                "query": "Is vegetarian cuisine of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge\nThe Juice Merchant\nZuzu's Kitchen\nThe Tasty Toast\nGermantown Garden\nGrain Exchange\nCO-OP Restaurant & Lounge\nNorth Bowl\nThe Continental Restaurant and Martini Bar\nThe Blue Duck",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            "Zuzu's Kitchen \\n\nFederal Donuts \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nFederal Donuts \\n\nFuji Mountain \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nCanto 11 \\n\nNew York Gyro Truck",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nWater Works Restaurant & Lounge \nFederal Donuts \nThe Juice Merchant \nZuzu's Kitchen \nPrimoHoagies \nGrain Exchange \nIzumi",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nFederal Donuts \nSang Kee Peking Duck House \nFuji Mountain \nCanton 11 \nMiga Korean BBQ & Sushi",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Grain Exchange\n6. Misconduct Tavern\n7. Tavern On the Hill\n8. The Milk House\n9. Pearl's Oyster Bar\n10. Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Federal Donuts\n4. Heritage\n5. Fuji Mountain\n6. Monster Vegan\n7. Gran Caffe L'Aquila\n8. The Grill  Smuckers\n9. South Bowl\n10. The Blue Duck",
+            "1. Mugshots Coffeehouse \n2. Lacroix Restaurant at The Rittenhouse \n3. Heritage \n4. Jake's & Cooper's Wine Bar & Wine Shop \n5. Tavern On the Hill \n6. The Green Line Cafe \n7. Ristorante La Buca \n8. Vedge \n9. The Grill  Smuckers \n10. Maison 208",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nHeritage \nKokopelli Restaurant & Tequila Bar \nVeda - Modern Indian Bistro \nCanton 11 \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano",
+            "Germantwon Garden \\n\nLocal Tavern \\n\nLacroix Restaurant at The Rittenhouse \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nZuzu's Kitchen \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nThe Juice Merchant \\n\nPrimoHoagies"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place that does pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that has burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any breakfast or brunch places?",
+                "response": "yes"
+            },
+            {
+                "query": "Is seafood something you'd be interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to eat at a place that serves tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that has American food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to eat at a place that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n name: Mood Indian Restaurant \n categories: Restaurants, Halal, Vegetarian, Pakistani, Indian\n****\n name: Local Tavern \n categories: Restaurants, Bars, Nightlife, American (New), Italian, American (Traditional)\n****\n name: Water Works Restaurant & Lounge \n categories: Restaurants, Seafood, Mediterranean, American (New), Breakfast & Brunch, Event Planning & Services, Caterers\n****\n name: Le Pain Quotidien \n categories: Restaurants, Bakeries, Breakfast & Brunch, Coffee & Tea, Food, Belgian, French\n****\n name: The Juice Merchant \n categories: Restaurants, Juice Bars & Smoothies, Vegan, Salad, Food, Sandwiches\n****\n name: Zuzu's Kitchen \n categories: Restaurants, Pizza, Salad, Sandwiches, Food Delivery Services, Food\n****\n name: The Tasty Toast \n categories: Restaurants, Breakfast & Brunch, American (Traditional), Cheesesteaks, Cafes\n****\n name: Germantown Garden \n categories: Restaurants, Bars, Breakfast & Brunch, Cocktail Bars, Nightlife, Lounges, American (Traditional)\n****\n name: Daleng Restaurant \n categories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\n name: PrimoHoagies \n categories: Restaurants, Specialty Food, Food, Sandwiches, Italian",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Heritage \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nThe Milk House \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe Fresh Grocer - Progress Plaza \nAldine \nBetty's Speakeasy \nThe Green Line Cafe",
+            " The Tasty Toast \\n\nThe Grill  Smuckers \\n\nBenna's Cafe \\n\nThe Fresh Grocer - Progress Plaza \\n\nPearl's Oyster Bar \\n\n Fiore Fine Foods \\n\nLisa's Kitchen \\n\nBetty's Speakeasy \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "The Green Line Cafe\nThe Grill  Smuckers\nThe Cheesecake Factory\nThe QUICK FIXX\nThe Milk House\nThe Tavern Restaurant\nThe Tasty Toast\nThe Blue Duck\nThe Continental Restaurant and Martini Bar\nThe Fresh Grocer - Progress Plaza",
+            " Zuzu's Kitchen\nGolden Triangle\nThe Cheesecake Factory\nLe Pain Quotidien\nLacroix Restaurant at The Rittenhouse\nGran Caffe L'Aquila\nThe Green Line Cafe\nOishii Pok\u00e9\nA Tutti, Ristorante Italiano\nIzumi",
+            "Founding Fathers Sports Bar & Grill\nThe El Bar\nMad River Manayunk\nPaddy's Old City Pub\nThe Tavern Restaurant\nWishbone\nCook and Shaker\nFederal Donuts\nJack's Firehouse\nFranklin's",
+            "- The QUICK FIXX \n- Parc \n- Gran Caffe L'Aquila \n- Federal Donuts \n- Evan's Pizza \n- Fiore Fine Foods \n- The Cheesecake Factory \n- Dim Sum House \n- Cook and Shaker \n- Olive Garden Italian Restaurant",
+            "Oishii Pok\u00e9 \\n\nAudrey Claire \\n\nGran Caffe L'Aquila \\n\nFederal Donuts \\n\nParc \\n\nCafe L'Aube \\n\nMcMenamin's Tavern \\n\nFuji Mountain \\n\nCantina Los Caballitos \\n\nCantina Dos Segundos",
+            "1. Golden Triangle \\n\n2. The Juice Merchant \\n\n3. Kokopelli Restaurant & Tequila Bar \\n\n4. Bistro SouthEast \\n\n5. Mugshots Coffeehouse \\n\n6. Fuji Mountain \\n\n7. Baan Thai \\n\n8. Canton 11 \\n\n9. North Bowl \\n\n10. Izumi"
+        ]
+    }
+}

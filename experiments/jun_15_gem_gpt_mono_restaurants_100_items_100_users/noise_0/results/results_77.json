@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for anything Asian?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in something Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Would you consider American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like a place with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sports bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast",
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nMonga Kok Station \\n\nCinCin Restaurant \\n\nGrain Exchange \\n\nFuji Mountain \\n\nFederal Donuts \\n\nTavern On the Hill \\n\nPaddy's Old City Pub \\n\nCanton 11",
+            " Zuzu's Kitchen \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nGolden Triangle \nWater Works Restaurant & Lounge \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            " Germantown Garden\n The Tasty Toast\n The Tavern Restaurant\n Founding Fathers Sports Bar & Grill\n Chestnut 7\n McMenamin's Tavern\n CJ & Eck's\n Jack's Firehouse\n Franklin's\n Founding Fathers Sports Bar & Grill",
+            "1. The Tasty Toast \n2. Lisa's Kitchen\n3. The Blue Duck \n4. Local Tavern\n5. Germantown Garden\n6. Heritage \n7. The Grill  Smuckers\n8. Founding Fathers Sports Bar & Grill\n9. Misconduct Tavern \n10. Steve's Prince of Steaks",
+            "The Grill  Smuckers \nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys \nPaddy's Old City Pub \nThe Blue Duck \nMad River Manayunk \nLisa's Kitchen \nFranklin's \nFounding Fathers Sports Bar & Grill",
+            "- Heritage \n- Grain Exchange \n- Tavern On the Hill \n- Paddy's Old City Pub \n- Misconduct Tavern \n- Five Guys \n- Malbec Argentine Steakhouse \n- Jake's & Cooper's Wine Bar & Wine Shop \n- Mad River Manayunk \n- Founding Fathers Sports Bar & Grill",
+            "Local Tavern\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nThe Milk House\nThe Tavern Restaurant\nFederal Donuts\nThe Blue Duck\nMad River Manayunk\nFranklin's",
+            " Jack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nMad River Manayunk \\n\nMisconduct Tavern \\n\nFive Guys \\n\nChestnut 7 \\n\nThe El Bar \\n\nPaddy's Old City Pub"
+        ]
+    }
+}

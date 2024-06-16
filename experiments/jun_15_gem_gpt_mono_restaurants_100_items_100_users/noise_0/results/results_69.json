@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer pizzas or bagels?",
+                "response": "bagels"
+            },
+            {
+                "query": "Do you like sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves coffee as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with freshly baked goods?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a casual spot what you're looking for?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place where you can also grab some sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a bakery what you're looking for?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that has desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Lacroix Restaurant at The Rittenhouse \nGrain Exchange \nHeritage \nPaddy's Old City Pub \nCinCin Restaurant \nFederal Donuts \nBaan Thai \nRoy-Pitz Barrel House \nCO-OP Restaurant & Lounge \nMisconduct Tavern",
+            " Zuzu's Kitchen \n Daleng Restaurant \n Sang Kee Peking Duck House \n Bistro SouthEast \n Five Guys \n Monster Vegan \n Lisa's Kitchen \n Steve's Prince of Steaks \n Green Leafs & Bananas \n The Green Line Cafe",
+            "The QUICK FIXX \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nLuhv Vegan Deli \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nEinstein Bros. Bagels \\n\nTim Hortons \\n\nStarbucks \\n\nDunkin'",
+            "The Cheesecake Factory \\n\nSteve's Prince of Steaks \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nLisa's Kitchen \\n\nWawa \\n\nThe Green Line Cafe \\n\nEvan's Pizza \\n\nTrolley Car Diner \\n\nThe QUICK FIXX",
+            "The Bagel Place\nSpread Bagelry\nThe Green Line Cafe\nLe Pain Quotidien\nBetty's Speakeasy\nPrimoHoagies\nLisa's Kitchen\nWawa\nFederal Donuts\nThe Cheesecake Factory",
+            "Bagel Level \\n\nLa Colombe Coffee Roasters \\n\nThe Reanimator \\n\nSpread Bagelry \\n\nBryn and Dane's \\n\nMetropolitan Bakery \\n\nThe Millcreek Tavern \\n\nGreen Eggs Cafe \\n\nThe Bagel Place \\n\nHot Bagels & More",
+            "1. Fiore Fine Foods\n2. The QUICK FIXX\n3. Luhv Vegan Deli\n4. Spread Bagelry\n5. Green Leafs & Bananas\n6. The Green Line Cafe\n7. Betty's Speakeasy\n8. Trolley Car Diner\n9. Wawa\n10. KC's Pastries",
+            "Spread Bagelry\nThe Green Line Cafe\nBetty's Speakeasy\nTu's Tea & Banh Mi South Philly\nGreen Leafs & Bananas\nBagel & Co.\nEinstein Bros. Bagels\nWawa\nThe Cheesecake Factory\nTrolley Car Diner",
+            "1. Spread Bagelry\n2. The QUICK FIXX\n3. Fiore Fine Foods\n4. Betty's Speakeasy\n5. Oteri's Italian Bakery | North 5th St\n6. Gran Caffe L'Aquila\n7. KC's Pastries\n8. Cafe L'Aube\n9. The Green Line Cafe\n10. Rival Bros Coffee",
+            "Tu's Tea & Banh Mi South Philly \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nWawa \\n\nGreen Leafs & Bananas \\n\nLisa's Kitchen \\n\nThe Blue Duck \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nFiore Fine Foods"
+        ]
+    }
+}

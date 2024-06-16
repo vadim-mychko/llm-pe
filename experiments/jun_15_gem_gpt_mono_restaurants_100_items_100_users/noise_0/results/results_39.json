@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Southern style cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a vegetarian meal?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food delivery services?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien",
+            "1. Federal Donuts \n2. The Tasty Toast \n3. Izumi \n4. CO-OP Restaurant & Lounge \n5. Green Leafs & Bananas \n6. The Continental Restaurant and Martini Bar \n7. CJ & Eck's \n8. Rival Bros Coffee \n9. Cafe L'Aube \n10. Lucky's Last Chance",
+            "1. Grain Exchange\n2. Federal Donuts\n3. Mong Kok Station\n4. Zuzu's Kitchen\n5. Federal Donuts\n6. Water Works Restaurant & Lounge\n7. Golden Triangle\n8. The Juice Merchant\n9. Zuzu's Kitchen\n10. Daleng Restaurant",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Grain Exchange \n Heritage \n Kokopelli Restaurant & Tequila Bar \n Izumi \n The Milk House \n Misconduct Tavern",
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Tasty Toast \nFederal Donuts \nCO-OP Restaurant & Lounge \nPearl's Oyster Bar \nAudrey Claire \n Parc \nCafe L'Aube",
+            "1. Veda - Modern Indian Bistro\n2. Liberty Lounge\n3. Jack's Firehouse\n4. The El Bar\n5. Fiore Fine Foods\n6. The QUICK FIXX \n7. Ristorante La Buca\n8. New York Gyro Truck\n9. Founding Fathers Sports Bar & Grill \n10. Oishii Pok\u00e9",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nLe Pain Quotidien",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien",
+            "Water Works Restaurant & Lounge\nDaleng Restaurant\nZuzu's Kitchen\nGolden Triangle\nFederal Donuts\nLacroix Restaurant at The Rittenhouse\nBloomsday Cafe\nGrain Exchange\nJack's Firehouse\nThe QUICK FIXX\n",
+            "1. Sang Kee Peking Duck House \n2. Daleng Restaurant \n3. Dim Sum House \n4. Sang Kee Peking Duck House \n5. Canton 11 \n6. Izumi \n7. Miga Korean BBQ & Sushi \n8. Federal Donuts \n9. The Green Line Cafe \n10. Green Leafs & Bananas"
+        ]
+    }
+}

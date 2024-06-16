@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for traditional American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast items?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a diner?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a breakfast buffet?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " The Blue Duck \n The Juice Merchant \n The Tasty Toast \n The Cheesecake Factory \n The Tavern Restaurant \n The QUICK FIXX \n The Green Line Cafe \n The Grill  Smuckers \n The Milk House \n The Fresh Grocer - Progress Plaza",
+            "1. The Cheesecake Factory\n2. Chestnut 7\n3. Founding Fathers Sports Bar & Grill\n4. Green Leafs & Bananas\n5. Granny's House\n6. Lucky's Last Chance\n7. Lisa's Kitchen\n8. Macaroni's Restaurant\n9. Pearl's Oyster Bar\n10. Franklin's",
+            "- Germantown Garden \n- Lacroix Restaurant at The Rittenhouse \n- Water Works Restaurant & Lounge \n- Heritage \n- The Blue Duck \n- Misconduct Tavern \n- Pearl's Oyster Bar \n- The Continental Restaurant and Martini Bar \n- Macaroni's Restaurant \n- Tavern On the Hill",
+            " The Tavern Restaurant \nMisconduct Tavern \nFive Guys \nMacaroni's Restaurant \nThe Blue Duck \nWishbone \nLisa's Kitchen \nGreen Leafs & Bananas \nFounding Fathers Sports Bar & Grill \nChestnut 7",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nThe Tasty Toast\nThe Milk House\nA Tutti, Ristorante Italiano\nThe Grill  Smuckers",
+            "Pearl's Oyster Bar \\n\nThe Blue Duck \\n\nThe Grill  Smuckers \\n\nThe Milk House \\n\nThe Tasty Toast \\n\nVeda - Modern Indian Bistro \\n\nLacroix Restaurant at The Rittenhouse \\n\nGrain Exchange \\n\nLe Pain Quotidien \\n\nThe Continental Restaurant and Martini Bar",
+            "Trolley Car Diner\nJack's Firehouse\nThe El Bar\nThe Tavern Restaurant\nMad River Manayunk\nPaddy's Old City Pub\nMisconduct Tavern\nSteve's Prince of Steaks\nJD Mcgillicuddy's Manayunk\nFranklin's",
+            "****\n name: The Tasty Toast \n categories: Restaurants, Breakfast & Brunch, American (Traditional), Cheesesteaks, Cafes\n****\n name: The Grill  Smuckers \n categories: Restaurants, American (New), Breakfast & Brunch, Farmers Market, Food\n****\n name: Macaroni's Restaurant \n categories: Restaurants, Nightlife, Beer Gardens, Italian, Pizza\n****\n name: The Blue Duck \n categories: Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches\n****\n name: Vedge \n categories: Restaurants, Vegetarian, Beer, Wine & Spirits, Vegan, Food\n****\n name: Luhv Vegan Deli \n categories: Restaurants, Vegan, Burgers, Delis, Sandwiches\n****\n name: Steve's Prince of Steaks \n categories: Restaurants, Sandwiches, Cheesesteaks, Steakhouses, American (Traditional)\n****\n name: Trolley Car Diner \n categories: Restaurants, Delis, Breakfast & Brunch, American (Traditional), Diners, Bagels, Food\n****\n name: Love & Honey Fried Chicken \n categories: Restaurants, Chicken Shop, Chicken Wings, Sandwiches, Comfort Food, American (Traditional), Soul Food\n****\n name: Sister Muhammad's Kitchen \n categories: Restaurants, Halal, American (Traditional), Bakeries, Food, Soul Food",
+            "The Tasty Toast \nThe Grill  Smuckers \nThe Milk House \nGermantown Garden \nThe Tavern Restaurant \nPaddy's Old City Pub \nValley Green Inn \nMad River Manayunk \nJD Mcgillicuddy's Manayunk \nMisconduct Tavern",
+            "The Green Line Cafe \nTrolley Car Diner \nThe Tavern Restaurant \nThe Blue Duck \nTrolley Car Diner \nRoy-Pitz Barrel House \nPaddy's Old City Pub \nThe Cheesecake Factory \nLisa's Kitchen \nSteve's Prince of Steaks"
+        ]
+    }
+}

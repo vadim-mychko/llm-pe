@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering a restaurant in the American category?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place for breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering a place that has seafood?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Canton 11 \n Sang Kee Peking Duck House \n Tu's Tea & Banh Mi South Philly \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Dim Sum House \n KC's Pastries \n Oteri's Italian Bakery | North 5th St",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "The Tavern Restaurant \nThe Blue Duck \nGrain Exchange \nMisconduct Tavern \nFranklin's \nThe Cheesecake Factory \nSpread Bagelry \nTalluto's Authentic Italian Food \nSteve's Prince of Steaks \nCinCin Restaurant",
+            "Germantown Garden \nThe Tasty Toast \nThe Grill  Smuckers \nTavern On the Hill \nPaddy's Old City Pub \nThe Blue Duck \nMacaroni's Restaurant \nWishbone \nJack's Firehouse \nAudubon [closed]",
+            " Jack's Firehouse \nFederal Donuts \nThe Blue Duck \nPearl's Oyster Bar \nMiga Korean BBQ & Sushi \nEvan's Pizza \nAudrey Claire \nCook and Shaker \nMcMenamin's Tavern \nParc",
+            "1. The Blue Duck \n2. The Cheesesteak Factory \n3. Steve's Prince of Steaks \n4. Sister Muhammad's Kitchen \n5. Founding Fathers Sports Bar & Grill \n6. The Tavern Restaurant \n7. Franklin's \n8. The Cheesecake Factory \n9. Misconduct Tavern \n10. Paddy's Old City Pub",
+            "Water Works Restaurant & Lounge \nThe Juice Merchant \nThe Tasty Toast \nThe Milk House \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nLisa's Kitchen \nMcMenamin's Tavern",
+            "1. The Green Line Cafe\n2. Lucky's Last Chance\n3. CJ & Eck's\n4. McMenamin's Tavern\n5. Cafe L'Aube\n6. Rival Bros Coffee\n7. Gran Caffe L'Aquila\n8. Audrey Claire\n9. Pure Tacos\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. Water Works Restaurant & Lounge \n3. The Tasty Toast \n4. The Grill  Smuckers \n5. Tavern On the Hill \n6. Paddy's Old City Pub \n7. North Bowl \n8. The El Bar \n9. Founding Fathers Sports Bar & Grill \n10. Chestnut 7",
+            "Pearl's Oyster Bar \nRistorante La Buca \nWater Works Restaurant & Lounge \nAudrey Claire \nValley Green Inn \nBistro SouthEast \nIzumi \nFuji Mountain \nThe Cheesecake Factory \nOishii Pok\u00e9"
+        ]
+    }
+}

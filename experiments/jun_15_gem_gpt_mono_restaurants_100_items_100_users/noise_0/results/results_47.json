@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer American or Italian sandwiches?",
+                "response": "american"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fast food restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a grocery store that also has a restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Daleng Restaurant\nThe Juice Merchant\nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nHeritage \nKokopelli Restaurant & Tequila Bar \nGrain Exchange",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Germantown Garden\n5. PrimoHoagies\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "- Zuzu's Kitchen\n- Golden Triangle\n- Water Works Restaurant & Lounge\n- Lacroix Restaurant at The Rittenhouse\n- Germantown Garden\n- The Juice Merchant\n- Federal Donuts\n- Daleng Restaurant\n- Le Pain Quotidien\n- CinCin Restaurant",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nFuji Mountain \\n\nCanton 11 \\n\nRoy-Pitz Barrel House \\n\nTu's Tea & Banh Mi South Philly",
+            "PrimoHoagies\nThe Tasty Toast\nThe Juice Merchant\nZuzu's Kitchen\nFive Guys\nMisconduct Tavern\nWawa\nGreen Leafs & Bananas\nLisa's Kitchen\nSpread Bagelry",
+            " Dim Sum House\nCanton 11\nThe Tasty Toast\nBaan Thai\nGreen Leafs & Bananas\nSpread Bagelry\nTu's Tea & Banh Mi South Philly\nMacaroni's Restaurant\nThe QUICK FIXX\nBetty's Speakeasy",
+            " Daleng Restaurant \nThe Juice Merchant \nThe Tasty Toast \nLe Pain Quotidien \nPrimoHoagies \nThe QUICK FIXX \nGreen Leafs & Bananas \nSteve's Prince of Steaks \nThe Green Line Cafe \nSpread Bagelry",
+            "1. PrimoHoagies\n2. The Tasty Toast\n3. Misconduct Tavern\n4. Five Guys\n5. Lisa's Kitchen\n6. Steve's Prince of Steaks\n7. Green Leafs & Bananas\n8. Luhv Vegan Deli\n9. Spread Bagelry\n10. The Green Line Cafe",
+            " PrimoHoagies \\n\nFive Guys \\n\nWawa \\n\nLisa's Kitchen \\n\nLuvh Vegan Deli \\n\nGreen Leafs & Bananas \\n\nSteve's Prince of Steaks \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nMcMenamin's Tavern",
+            " Five Guys\n Lisa's Kitchen\n PrimoHoagies\n Macaroni's Restaurant\n Misconduct Tavern\n Blackbird Pizzeria\n The QUICK FIXX\n Luhv Vegan Deli\n Green Leafs & Bananas\n Spread Bagelry"
+        ]
+    }
+}

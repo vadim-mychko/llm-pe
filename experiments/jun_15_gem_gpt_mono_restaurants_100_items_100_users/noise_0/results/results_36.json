@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for places with sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "May I suggest a place that offers pizza or salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you consider Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "How about a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want sandwiches with soups and salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Is pasta something you are interested in?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " 1. Zuzu's Kitchen \n 2. Golden Triangle \n 3. Water Works Restaurant & Lounge \n 4. Germantown Garden \n 5. PrimoHoagies \n 6. The Juice Merchant \n 7. Mong Kok Station \n 8. The Tasty Toast \n 9. Le Pain Quotidien \n 10. The Milk House",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nZuzu's Kitchen \nPrimoHoagies\nWater Works Restaurant & Lounge",
+            " Zuzu's Kitchen \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nBlackbird Pizzeria \n Chestnut 7 \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nGreen Leafs & Bananas \nThe Cheesecake Factory \nSpread Bagelry",
+            "Zuzu's Kitchen \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nBlackbird Pizzeria \nOteri's Italian Bakery | North 5th St \nMacaroni's Restaurant \nGran Caffe L'Aquila \nFiore Fine Foods \nEvan's Pizza \nChestnut 7",
+            " A Tutti, Ristorante Italiano \\n\nThe QUICK FIXX \\n\nZuzu's Kitchen \\n\nTrolley Car Diner \\n\nBetti's Speakeasy \\n\nCaffe L'Aube \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nKC's Pastries \\n\nGran Caffe L'Aquila",
+            "Zuzu's Kitchen \nGolden Triangle \nA Tutti, Ristorante Italiano \nPrimoHoagies \nThe Tasty Toast \nFederal Donuts \nThe QUICK FIXX \nBlackbird Pizzeria \nChestnut 7 \nMacaroni's Restaurant",
+            " Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nThe QUICK FIXX\nBlackbird Pizzeria\nChestnut 7\nGran Caffe L'Aquila\nPrimoHoagies\nFreddy & Jimmie's Pizzas\nSteve's Prince of Steaks\nPagano's Italian Deli",
+            "1. Castellino's \n2. The Juice Merchant \n3. Daleng Restaurant \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. Olive Garden Italian Restaurant \n7. Macaroni's Restaurant \n8. The QUICK FIXX \n9. Pizzeria Beddia \n10. Spread Bagelry",
+            "1. A Tutti, Ristorante Italiano\n2. Macaroni's Restaurant\n3. PrimoHoagies\n4. The QUICK FIXX\n5. Castellino's\n6. Blackbird Pizzeria\n7. Heritage \n8. Lucky's Last Chance\n9. Founding Fathers Sports Bar & Grill\n10. Parc",
+            " Zuzu's Kitchen \nThe QUICK FIXX \nPrimoHoagies \nMacaroni's Restaurant \nA Tutti, Ristorante Italiano \nCastellino's \nBlackbird Pizzeria \nTrolley Car Diner \nLuvh Vegan Deli \nSpread Bagelry"
+        ]
+    }
+}

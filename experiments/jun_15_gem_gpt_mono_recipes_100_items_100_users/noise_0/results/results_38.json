@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like alcohol-free cocktails?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta and noodles?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\n****",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nLarge portion fries with gravy and bacon\nSpaghetti noodles with mussels, anchovy fillets, and capers\nTaiwanese deep fried crispy chicken cutlets\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSoup made with shrimp, onions, and scallops\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nRoasted almonds",
+            "1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Grilled salmon seasoned with salt and pepper\n3. Pork chops glazed with milk and cooked without nuts\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Mustard glazed smoked ham with crushed pineapple and brown sugar\n9. Shredded barbecued pork shoulder\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n",
+            "****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSimple creamy oyster soup\n****\nFried shrimp and scallops\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMeatballs made with ground beef and ground pork\n****\nChicken cooked and flavored with lemon sauce\n****\nRoast turkey with plum sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked spinach quiche containing bacon\nChicken breasts stuffed with bacon and mozzarella\nMozzarella dip recipe\nPeppermint chocolate bonbon\nRoasted almonds\nMeatballs made with ground beef and ground pork\nItalian salad made from romain lettuce, artichokes, and tomatoes\nCheese and olive appetizer made to look like an eyeball\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nPeppermint chocolate bonbon\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBaked spinach quiche containing bacon\n****\nGarlic bread with cheddar, green onions, and mayonnaise\n****\nBaked breakfast bars made with nuts and seeds\n****",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBaked spinach quiche containing bacon\n****\nPeppermint chocolate bonbon\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese and vegetable soup with a beer broth\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****",
+            "1. Spinach quiche containing bacon\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n6. Stir-fried tofu, noodles and vegetables Bento\n7. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n8. Cheese and vegetable soup with a beer broth\n9. Mildly spicy chili recipe\n10. Assorted vegetable soup with chicken",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Assorted cheese soup with chicken\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Low-fat coconut alcohol-free cocktail\n8. Bread made swiss style with swiss cheese\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Spinach and bacon quiche",
+            "1)Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2)Spaghetti noodles with mussels, anchovy fillets, and capers\n3)Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4)Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5)Low fat baked breakfast pie made with sausage (pork) and apples\n6)High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7)Cheese and olive appetizer made to look like an eyeball\n8)Very low-fat assortment of shredded vegetables with seasoning\n9)Bread made swiss style with swiss cheese \n10)Italian salad made from romain lettuce, artichokes, and tomatoes"
+        ]
+    }
+}

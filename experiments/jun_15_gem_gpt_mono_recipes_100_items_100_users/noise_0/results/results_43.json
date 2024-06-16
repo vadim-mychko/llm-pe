@@ -1,0 +1,58 @@
+{
+    "43": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef or turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer soup or salad?",
+                "response": "soup"
+            }
+        ],
+        "rec_items": [
+            "1.  Baked spinach quiche containing bacon\n2.  Shredded barbecued pork shoulder\n3.  Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4.  Pork chops glazed with milk and cooked without nuts\n5.  Taiwanese deep fried crispy chicken cutlets\n6.  Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7.  Korean soup containing beef brisket and flavoured with red pepper powder\n8.  Polish sausage with fermented cabbage\n9.  Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork\n''''",
+            " Smoked salmon fillets grilled in a pan with herbs and spices\n****\nGrilled salmon seasoned with salt and pepper\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nChicken cooked and flavored with lemon sauce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nBroccoli-based soup with calcium\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nStrawberry milkshake\n****\nVery low-fat assortment of shredded vegetables with seasoning",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. Grilled salmon seasoned with salt and pepper\n5. Poke of tofu, mushroom and tomatoes\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Low fat sweet potato fries made with cajun seasoning\n9. Dog food made from pork, green beans, cheddar cheese and brown rice\n10. Assorted cheese soup with chicken",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nQueso made from melted cheese and chili peppers\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nLow sugar applesauce cupcakes\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCheesecake made with cream cheese\n****\n Fried shrimp and scallops",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Sweet salad made with corn and three types of beans\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Italian salad made from romain lettuce, artichokes, and tomatoes\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            " Very low-fat assortment of shredded vegetables with seasoning\n****\n Chopped French duck confit preserved by duck oil\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\n Soup made with vegetables and chicken\n****\n High protein skillet with rice and vegetables\n****\n Simple creamy oyster soup\n****\n Homemade soup with chicken, noodles, and spices\n****\n Assorted cheese soup with chicken\n****\n South African vegetable curry flavoured with curry powder and ground tumeric****",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. High protein skillet with rice and vegetables\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. 2-ingredient yogurt from scratch\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Soup made with ground turkey that is low fat, high carb\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Vegetable soup with chicken\n7. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n8. Assorted cheese soup with chicken\n9. Baked Mozzarella cheese sticks with marinara sauce\n10. Soup made with shrimp, onions, and scallops",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Grilled vegetables with balsamic vinegar and herbs\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Large portion fries with gravy and bacon\n6. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Assorted cheese soup with chicken\n10. Simple creamy oyster soup\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made from onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Polish sausage with fermented cabbage"
+        ]
+    }
+}

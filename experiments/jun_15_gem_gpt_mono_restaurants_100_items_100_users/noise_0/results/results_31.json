@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Do you like Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that serve a variety of sandwiches, including specialty options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves deli sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast\n",
+            "1. The QUICK FIXX\n2. Green Leafs & Bananas \n3. Spread Bagelry \n4. The Green Line Cafe \n5. Betty's Speakeasy\n6. Lisa's Kitchen \n7. Five Guys \n8. Wawa \n9. Monster Vegan \n10. Tu's Tea & Banh Mi South Philly",
+            "PrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nFederal Donuts \nFive Guys \nWawa \nMonster Vegan \nMacaroni's Restaurant \nWishbone \nLisa's Kitchen",
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nBloomsday Cafe \nMonster Vegan \nThe QUICK FIXX \nGreen Leafs & Bananas",
+            "- PrimoHoagies\n- Lisas Kitchen\n- The Green Line Cafe\n- Spread Bagelry\n- Trolley Car Diner\n- Founding Fathers Sports Bar & Grill\n- CJ & Eks\n- Betty's Speakeasy\n- The QUICK FIXX \n- Macaroni's Restaurant",
+            "1. The Green Line Cafe \n2. Spread Bagelry \n3. Trolley Car Diner \n4. Lisa's Kitchen \n5. Steve's Prince of Steaks \n6. Franklin's \n7. Blackbird Pizzeria \n8. Chestnut 7 \n9. CJ & Eck's \n10. Founding Fathers Sports Bar & Grill",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Mong Kok Station\n6. A Tutti, Ristorante Italiano\n7. Olive Garden Italian Restaurant\n8. Five Guys\n9. Wawa\n10. Macaroni's Restaurant",
+            "****\n name: PrimoHoagies \n categories: Restaurants, Specialty Food, Food, Sandwiches, Italian\n****\n name: The Green Line Cafe \n categories: Restaurants, Sandwiches, Coffee & Tea, Cafes, Food\n****\n name: Spread Bagelry \n categories: Restaurants, Sandwiches, Coffee & Tea, Food, Bagels\n****\n name: The QUICK FIXX \n categories: Restaurants, Pizza, Vegetarian, Salad, Italian\n****\n name: Lisa's Kitchen \n categories: Restaurants, Sandwiches, Breakfast & Brunch, Steakhouses, Comfort Food, Burgers\n****\n name: The Blue Duck \n categories: Restaurants, American (New), Burgers, Breakfast & Brunch, Sandwiches\n****\n name: Steve's Prince of Steaks \n categories: Restaurants, Sandwiches, Cheesesteaks, Steakhouses, American (Traditional)\n****\n name: Green Leafs & Bananas \n categories: Restaurants, Sandwiches, Salad, Food, Fast Food, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies\n****\n name: Luhv Vegan Deli \n categories: Restaurants, Vegan, Burgers, Delis, Sandwiches\n****\n name: Founding Fathers Sports Bar & Grill \n categories: Restaurants, Sports Bars, Bars, Nightlife, American (New)",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast",
+            "The Green Line Cafe\nLisa's Kitchen\nSpread Bagelry\nLuvh Vegan Deli\nThe Cheesecake Factory\nOlive Garden Italian Restaurant\nSteve's Prince of Steaks\nGreen Leafs & Bananas\nTrolley Car Diner\nWawa"
+        ]
+    }
+}

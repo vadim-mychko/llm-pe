@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for food that is fast and easy to order?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan or vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in neighborhood bars with good sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a beer bar with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sports bar sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar with a more upscale atmosphere and serves sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Blue Duck \n2. Roy-Pitz Barrel House \n3. Ristorante La Buca \n4. Parc \n5. Pearl's Oyster Bar \n6. The Continental Restaurant and Martini Bar \n7. Chestnut 7 \n8. The Green Line Cafe \n9. Jake's & Cooper's Wine Bar & Wine Shop \n10. Riva",
+            " Zuzu's Kitchen \n PrimoHoagies \n The Tasty Toast \n The Juice Merchant \n Misconduct Tavern \n Five Guys \n Green Leafs & Bananas \n The Green Line Cafe \n Spread Bagelry \n McMenamin's Tavern",
+            " PrimoHoagies \\n\nFive Guys \\n\nRoy-Pitz Barrel House \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nSteve's Prince of Steaks \\n\nLuhv Vegan Deli \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nLucky's Last Chance",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFederal Donuts \nSang Kee Peking Duck House \nBistro SouthEast \nBaan Thai \nCanton 11 \nThe Fresh Grocer - Progress Plaza",
+            "Misconduct Tavern \nPaddy's Old City Pub \nThe Tavern Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nThe Continental Restaurant and Martini Bar \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nChestnut 7",
+            "The Tavern Restaurant \\n\nMad River Manayunk \\n\nMisconduct Tavern \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nTrolley Car Diner \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nLucky's Last Chance \\n\nCJ & Eck's",
+            "Macaroni's Restaurant \\n\nThe Blue Duck \\n\nMisconduct Tavern \\n\nMad River Manayunk \\n\nThe El Bar \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nMcMenamin's Tavern",
+            "Misconduct Tavern\nPaddy's Old City Pub\nJD Mcgillicuddy's Manayunk\nFranklin's\nFounding Fathers Sports Bar & Grill\nLucky's Last Chance\nCJ & Eck's\nMad River Manayunk\nJack's Firehouse\nThe El Bar",
+            "Misconduct Tavern \nJD Mcgillicuddy's Manayunk \nFranklin's \nFounding Fathers Sports Bar & Grill \nPaddy's Old City Pub \nMad River Manayunk \nJack's Firehouse \nCJ & Eck's \nLucky's Last Chance \nThe Tavern Restaurant",
+            "Paddy's Old City Pub\nMisconduct Tavern\nFederal Donuts\n Founding Fathers Sports Bar & Grill\nChestnut 7\nFranklin's\nJD Mcgillicuddy's Manayunk\nLiberte Lounge\nMacaroni's Restaurant\nMad River Manayunk"
+        ]
+    }
+}

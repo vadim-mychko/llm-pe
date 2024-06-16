@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for any American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Blue Duck \nPearl's Oyster Bar \nFive Guys \nThe Cheesecake Factory \nA Tutti, Ristorante Italiano \nChickie's & Pete's \nJake's & Cooper's Wine Bar & Wine Shop \nRistorante Pesto \nBistro Romano Center City \nLokal Artisan Foods\n",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nThe Tasty Toast \\n\nFederal Donuts \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nPrimoHoagies \\n\nLacroix Restaurant at The Rittenhouse",
+            "The Blue Duck \nThe Cheesecake Factory \nFive Guys \nFounding Fathers Sports Bar & Grill \nThe Grill  Smuckers \nJack's Firehouse \nLove & Honey Fried Chicken \nMad River Manayunk \nMisconduct Tavern \nPaddy's Old City Pub",
+            " Pearl's Oyster Bar\nFederal Donuts\nBlackbird Pizzeria\nThe Blue Duck\nWawa\nLucky's Last Chance\nLove & Honey Fried Chicken\nFederal Donuts\nJack's Firehouse\nFounding Fathers Sports Bar & Grill",
+            "The Grill  Smuckers \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nThe Tavern Restaurant \nMisconduct Tavern \nThe Blue Duck \nRoy-Pitz Barrel House \nBlackbird Pizzeria \nVedge \nFranklin's",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nThe Tasty Toast \nThe Grill  Smuckers \nPaddy's Old City Pub \nMcMenamin's Tavern \nLove & Honey Fried Chicken \nPure Tacos \nParc",
+            "Jack's Firehouse \nFounding Fathers Sports Bar & Grill \nGolden Triangle \nZuzu's Kitchen \nJake's & Cooper's Wine Bar & Wine Shop \nPearl's Oyster Bar \nThe Blue Duck \nThe Tavern Restaurant \nLacroix Restaurant at The Rittenhouse \nThe Continental Restaurant and Martini Bar",
+            "1. Grain Exchange\n2. Founding Fathers Sports Bar & Grill\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Mad River Manayunk\n6. Paddy's Old City Pub\n7. Parc\n8. Heritage\n9. Founding Fathers Sports Bar & Grill\n10. Sister Muhammad's Kitchen",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nThe Grill  Smuckers\nThe Tavern Restaurant\nMiga Korean BBQ & Sushi\nMagellan's Table at the Cape May Ferry Terminal\nPearl's Oyster Bar\nThe Continental Restaurant and Martini Bar"
+        ]
+    }
+}

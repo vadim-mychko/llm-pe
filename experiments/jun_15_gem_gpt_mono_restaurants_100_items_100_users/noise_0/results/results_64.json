@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a restaurant that serves breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve brunch?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nGrain Exchange \\n\nHeritage \\n\nThe Grill  Smuckers \\n\nThe Milk House \\n\nTalluto's Authentic Italian Food \\n\nVeda - Modern Indian Bistro \\n\nCO-OP Restaurant & Lounge \\n\nThe Continental Restaurant and Martini Bar \\n\nCook and Shaker",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nFederal Donuts \nHeritage \nKokopelli Restaurant & Tequila Bar \nFuji Mountain",
+            "1. The Juice Merchant \\n\n2. Zuzu's Kitchen \\n\n3. The Tasty Toast \\n\n4. Mugshots Coffeehouse \\n\n5. Green Leafs & Bananas \\n\n6. Trolley Car Diner \\n\n7. Benna's Cafe \\n\n8. Hey Hummus \\n\n9. Betty's Speakeasy \\n\n10. The Green Line Cafe \\n",
+            "1. Daleng Restaurant \n2. Fuji Mountain \n3. Bistro SouthEast \n4. Paddy's Old City Pub \n5. Macaroni's Restaurant \n6. Evan's Pizza \n7. Liberty Lounge \n8. Lisa's Kitchen \n9. Trolley Car Diner \n10. Chestnut 7",
+            "The Grill  Smuckers\nThe Tasty Toast\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nPearl's Oyster Bar\nThe Milk House\nValley Green Inn\nThe Blue Duck\nThe Continental Restaurant and Martini Bar\nFederal Donuts",
+            "1. The Grill  Smuckers\n2. The Tavern Restaurant \n3. Lacroix Restaurant at The Rittenhouse\n4. Heritage \n5. CO-OP Restaurant & Lounge\n6. Paddy's Old City Pub \n7. Continental Restaurant and Martini Bar \n8. Audrey Claire \n9. Cafe L'Aube \n10. Green Leafs & Bananas",
+            " The Green Line Cafe \\n\nThe Tasty Toast \\n\nValley Green Inn \\n\nFranklin's \\n\n Founding Fathers Sports Bar & Grill \\n\nHeritage \\n\nJack's Firehouse \\n\nThe Grill  Smuckers \\n\nEvan's Pizza \\n\nThe Cheesecake Factory",
+            "1. The Grill  Smuckers \n2. The Tasty Toast \n3. The Milk House \n4. Heritage \n5. The Continental Restaurant and Martini Bar \n6. The Blue Duck \n7. The Tavern Restaurant \n8. Macaroni's Restaurant \n9. Pearl's Oyster Bar \n10. The El Bar",
+            "1. The Blue Duck \n2. The Tasty Toast \n3. The Grill  Smuckers \n4. Trolley Car Diner \n5. Jack's Firehouse \n6. Green Leafs & Bananas \n7. Gran Caffe L'Aquila \n8. Mugshots Coffeehouse \n9. Spread Bagelry \n10. Rival Bros Coffee ",
+            "1. The Tasty Toast\n2. The Blue Duck\n3. Grain Exchange\n4. The El Bar\n5. Jack's Firehouse\n6. Founding Fathers Sports Bar & Grill\n7. Franklin's\n8. Chestnut 7\n9. The Cheesecake Factory\n10. Oishii Pok\u00e9"
+        ]
+    }
+}

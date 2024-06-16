@@ -1,0 +1,58 @@
+{
+    "30": {
+        "conv_hist": [
+            {
+                "query": "Are looking for anything that serves dinner?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a more upscale dining experience?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that makes burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a bar atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try a place that offers chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n Pearl's Oyster Bar \n Ristorante La Buca \n The Cheesecake Factory \n Founding Fathers Sports Bar & Grill \n Parc \n The Green Line Cafe \n Love & Honey Fried Chicken \n Oishii Pok\u00e9",
+            "The Blue Duck \nPearl's Oyster Bar \nThe Green Line Cafe \nJake's & Cooper's Wine Bar & Wine Shop \nAudrey Claire \nThe Continental Restaurant and Martini Bar \nParc \nLove & Honey Fried Chicken \nGran Caffe L'Aquila \nRival Bros Coffee",
+            " Founding Fathers Sports Bar & Grill\nChestnut 7\nThe Cheesecake Factory\nCook and Shaker\nFranklin's \nJack's Firehouse \nJD Mcgillicuddy's Manayunk \nParc \nJack's Firehouse \nFranklin's \nThe Blue Duck",
+            "1. The Continental Restaurant and Martini Bar\n2. Tavern On the Hill\n3. Founding Fathers Sports Bar & Grill\n4. Macaroni's Restaurant\n5. The Blue Duck\n6. Aldine\n7. Jack's Firehouse\n8. Chestnut 7\n9. Benna's Cafe\n10. Cook and Shaker",
+            "Founding Fathers Sports Bar & Grill\nMisconduct Tavern \nFive Guys\nThe Blue Duck\nPearl's Oyster Bar \nThe Tavern Restaurant \nLisa's Kitchen \nFranklin's \nThe Cheesecake Factory \nMad River Manayunk",
+            "Federal Donuts \\n\nJack's Firehouse \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nBlackbird Pizzeria \\n\nFranklin's \\n\nChestnut 7 \\n\nThe Tavern Restaurant \\n\nLucky's Last Chance \\n\nLisa's Kitchen",
+            "The Tavern Restaurant \nMisconduct Tavern \nFive Guys \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nSteve's Prince of Steaks \nLuhv Vegan Deli \nThe Green Line Cafe",
+            "1. The Blue Duck \n2. Macaroni's Restaurant \n3. Paddy's Old City Pub \n4. Mugshots Coffeehouse \n5. Five Guys \n6. Lisa's Kitchen \n7. Mad River Manayunk \n8. Green Leafs & Bananas \n9. Love & Honey Fried Chicken \n10. Lucky's Last Chance ",
+            "Five Guys \\n\nLisa's Kitchen \\n\nThe Blue Duck \\n\nMisconduct Tavern \\n\nFranklin's \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nSteve's Prince of Steaks \\n\nChestnut 7 \\n\nTrolley Car Diner",
+            "1. Five Guys\n2. Lisa's Kitchen\n3. Misconduct Tavern\n4. Wishbone\n5. The Blue Duck\n6. Franklin's\n7. JD Mcgillicuddy's Manayunk\n8. Founding Fathers Sports Bar & Grill\n9. Lucky's Last Chance\n10. CJ & Eck's"
+        ]
+    }
+}

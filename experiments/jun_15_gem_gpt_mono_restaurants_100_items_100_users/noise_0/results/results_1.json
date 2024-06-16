@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying Korean barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in finding a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you vegetarian or vegan?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves healthy or organic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying a restaurant that serves breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves vegetarian breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves vegan breakfast or brunch?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n The Milk House \n Bistrol SouthEast \n Olive Garden Italian Restaurant \n Fuji Mountain \n The Continental Restaurant and Martini Bar \n The Blue Duck \n Perla's Oyster Bar \n Dim Sum House \nNew York Gyro Truck\nThe Cheesecake Factory\nTu's Tea & Banh Mi South Philly\nJake's & Cooper's Wine Bar & Wine Shop\n",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "Freddy's Frozen Custard & Steakburgers\nGoodBurger\nYellow Cab Philly\nNava Yoga Cafe\nThe Passyunk Avenue Cheesesteak Company\nThe Burger Groupe Philadelphia\nCook & Shaker\nLandmark Americana Tap & Grill\nFat Jack's BBQ, Fish & Chicken\nThe Dandelion",
+            "Vedge \nMonster Vegan \nBenna's Cafe \nThe Juice Merchant \nHey Hummus \nLuvh Vegan Deli \nGreen Leafs & Bananas \nThe QUICK FIXX \nBlackbird Pizzeria \nNorth Bowl",
+            "1. Vedge \n2. Hey Hummus \n3. Essene Market & Caf\u00e9 \n4. Benna's Cafe \n5. Monster Vegan \n6. Blackbird Pizzeria \n7. The QUICK FIXX \n8. Luhv Vegan Deli \n9. Gran Caffe L'Aquila \n10. Cafe L'Aube",
+            "Vedge \nMonster Vegan \nBenna's Cafe \nHey Hummus \nEssene Market & Caf\u00e9 \nGreen Leafs & Bananas \nLuhv Vegan Deli \nCafe L'Aube \nRival Bros Coffee \nGran Caffe L'Aquila",
+            "Vedge\nMonster Vegan\nHey Hummus\nBenna's Cafe\nEssene Market & Caf\u00e9\nThe QUICK FIXX\nGreen Leafs & Bananas\nLuhv Vegan Deli\nRival Bros Coffee\nCafe L'Aube",
+            "1. The Grill  Smuckers\n2. The Juice Merchant \n3. Misconduct Tavern \n4. Bistro SouthEast \n5. Heritage \n6. Vedge \n7. Hey Hummus \n8. Essene Market & Caf\u00e9 \n9. Mad River Manayunk \n10. Fiore Fine Foods",
+            "1. Benna's Cafe\n2. Vedge\n3. The Fresh Grocer - Progress Plaza\n4. Essene Market & Caf\u00e9\n5. Green Leafs & Bananas\n6. Hey Hummus\n7. Sister Muhammad's Kitchen\n8. The Green Line Cafe\n9. Fiore Fine Foods\n10. Betty's Speakeasy",
+            "Vedge \\n\nMonster Vegan \\n\nBenna's Cafe \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nGreen Leafs & Bananas \\n\nLuhv Vegan Deli \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nCafe L'Aube"
+        ]
+    }
+}

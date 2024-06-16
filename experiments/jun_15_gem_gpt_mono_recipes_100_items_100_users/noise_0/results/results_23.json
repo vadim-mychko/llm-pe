@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Do you like international cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy seafood-based meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference towards vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like savory appetizers?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meat-based dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Shredded barbecued pork shoulder\n5. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n6. Taiwanese deep fried crispy chicken cutlets\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Polish sausage with fermented cabbage\n9. Spanish rice with chicken breast\n10. Mozzarella dip recipe",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nNorway cake with lingonberry and whipped cream layers\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage\nStir-fried tofu, noodles and vegetables Bento\nHomemade soup with chicken, noodles, and spices\n```",
+            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChopped French duck confit preserved by duck oil\n'''",
+            "1. Chopped French duck confit preserved by duck oil\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Queso made from melted cheese and chili peppers\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese with crackers\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nQueso made from melted cheese and chili peppers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nMeatballs made with ground beef and ground pork",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Queso made from melted cheese and chili peppers\n3. Cheese and olive appetizer made to look like an eyeball\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Bread made swiss style with swiss cheese\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Sweet salad made with corn and three types of beans\n10. Milkshake made with fresh strawberries and ice cream",
+            "Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein skillet with rice and vegetables\nCreamy base with dill flavoring, eggs, and noodles\nGrilled salmon seasoned with salt and pepper\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nShredded barbecued pork shoulder\nAssorted cheese soup with chicken\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert",
+            "High protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked spinach quiche containing bacon\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked spinach quiche containing bacon\nBaked mozzarella cheese sticks with marinara sauce\nChicken breasts stuffed with bacon and mozzarella\nMozzarella dip recipe\nLarge portion fries with gravy and bacon\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Chicken cooked and flavored with lemon sauce\n3. Roast turkey with plum sauce\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spanish rice with chicken breast\n7. Meatballs made with ground beef and ground pork\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer classic, preferred dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads or soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with a lot of sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fried dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stews or roasts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Oatmeal cookies with raisins and walnuts\nChopped French duck confit preserved by duck oil\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nHomemade soup with chicken, noodles, and spices\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nGrilled salmon seasoned with salt and pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nLow sugar applesauce cupcakes\nSoup made with ground turkey that is low fat, high carb\nSpaghetti noodles with mussels, anchovy fillets, and capers\n",
+            "1. Large portion fries with gravy and bacon\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Roasted almonds\n5. Roasted pork chops glazed with milk and cooked without nuts\n6. Classic salad with creamy caesar dressing and croutons\n7. Baked spinach quiche containing bacon\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Cheese and vegetable soup with a beer broth",
+            "Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nClassic salad with creamy caesar dressing and croutons\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCreamy base with dill flavoring, eggs, and noodles\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBroccoli soup made with broccoli and cauliflower\nBaked spinach quiche containing bacon\nCheese and vegetable soup with a beer broth\nBaked breakfast bars made with nuts and seeds\nLow fat sweet potato fries made with cajun seasoning",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Peach cobbler dessert containing whole wheat flour\n5. Low sugar applesauce cupcakes\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with vegetables and chicken",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Steak cooked in a pan, seasoned with garlic, onion, and herbs\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Pulled pork BBQ\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Chicken cooked and flavored with lemon sauce",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nLow fat baked or fried potatoes\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nSalmon fillets grilled in a pan with herbs and spices\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked mozzarella cheese sticks with marinara sauce\nBaked spinach quiche containing bacon",
+            " Beef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nBaked mozzarella cheese sticks with marinara sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLow fat diced baked or fried potatoes\nCheese with crackers\nRoast turkey with plum sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Beef stew made with beef, carrots and potatoes\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with onions, carrots, and celery ribs\n****",
+            " Chocolate and orange-flavored smoothie\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nOatmeal raisin cookies\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nLow-fat coconut alcohol-free cocktail\nBerry cobbler that uses frozen mixed berries\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\n'''",
+            "1. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n2. Sugar-free peanut butter cookies\n3. Low sugar applesauce cupcakes\n4. Slushie drink made from orange juice blended with ice\n5. Almonds coated with butter and salt\n6. Roasted almonds\n7. Low fat sweet potato fries made with cajun seasoning\n8. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n9. Yogurt from scratch\n10. Low fat assorted fruit dessert"
+        ]
+    }
+}

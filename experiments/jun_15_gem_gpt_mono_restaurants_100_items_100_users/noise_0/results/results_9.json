@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer chicken dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to try out Asian cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Castellino's \nSang Kee Peking Duck House \nDim Sum House \nRistorante La Buca \nSteve's Prince of Steaks \nSister Muhammad's Kitchen \nLucky's Last Chance \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nCJ & Eck's",
+            "Water Works Restaurant & Lounge\nZuzu's Kitchen\nThe Tasty Toast\nA Tutti, Ristorante Italiano\nIzumi\nBloomsday Cafe\nBistro SouthEast\nMonster Vegan\nVedge\nEssen Market & Caf\u00e9",
+            "1. Heritage\n2. The Grill  Smuckers\n3. Tavern On the Hill\n4. The Continental Restaurant and Martini Bar\n5. The Blue Duck\n6. Benna's Cafe\n7. Roy-Pitz Barrel House\n8. Cook and Shaker\n9. Aldine\n10. Jack's Firehouse",
+            "Local Tavern\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nThe Tavern Restaurant\nThe Tasty Toast\nThe Blue Duck\nThe Grill  Smuckers\nFounding Fathers Sports Bar & Grill\nThe Green Line Cafe",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. The Tasty Toast \n4. The Milk House \n5. The Grill  Smuckers \n6. The Tavern Restaurant \n7. Tavern On the Hill \n8. The Continental Restaurant and Martini Bar \n9. The Blue Duck \n10. Pearl's Oyster Bar\n",
+            "1. The Grill  Smuckers\n2. The Blue Duck\n3. The Blackbird Pizzeria\n4. The QUICK FIXX\n5. Founding Fathers Sports Bar & Grill\n6. The Tavern Restaurant \n7. Grain Exchange \n8. CO-OP Restaurant & Lounge \n9. The Cheesecake Factory \n10. Love & Honey Fried Chicken",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nThe Continental Restaurant and Martini Bar\nPearl's Oyster Bar\nJack's Firehouse\nFranklin's\nChestnut 7\nThe Cheesecake Factory",
+            "Pearl's Oyster Bar \\n\nWater Works Restaurant & Lounge \\n\nValley Green Inn \\n\nMacaroni's Restaurant \\n\nRistorante La Buca \\n\nIzumi \\n\nSang Kee Peking Duck House \\n\nOishii Pok\u00e9 \\n\nAudrey Claire \\n\nBistro SouthEast",
+            "Pearl's Oyster Bar \\n\nWater Works Restaurant & Lounge \\n\nMalbec Argentine Steakhouse \\n\nThe Continental Restaurant and Martini Bar \\n\nRistorante La Buca \\n\nThe Blue Duck \\n\nFounding Fathers Sports Bar & Grill \\n\nSang Kee Peking Duck House \\n\nAudrey Claire \\n\nFederal Donuts",
+            "Water Works Restaurant & Lounge \\n\nPearl's Oyster Bar \\n\nThe El Bar \\n\nSteve's Prince of Steaks \\n\nJack's Firehouse \\n\nAudrey Claire \\n\nRistorante La Buca \\n\nMalbec Argentine Steakhouse \\n\nVeda - Modern Indian Bistro \\n\nBistro SouthEast"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for quick bites like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast or brunch places?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that offer both breakfast and lunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a cafe that serves coffee and tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants closer to fine dining rather than a casual breakfast spot?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "1. Sang Kee Peking Duck House \n2. Canton 11 \n3. Dim Sum House \n4. Federal Donuts \n5. Lucky's Last Chance \n6. Golden Triangle \n7. Bistro SouthEast \n8. Miga Korean BBQ & Sushi \n9. Tu's Tea & Banh Mi South Philly \n10. Oishii Pok\u00e9",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Juice Merchant \n8. Federal Donuts \n9. Mong Kok Station \n10. Le Pain Quotidien",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nLe Pain Quotidien \nGrain Exchange \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            " 1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            " Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Tasty Toast \nLe Pain Quotidien \nFederal Donuts \nHeritage \nKokopelli Restaurant & Tequila Bar",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nLe Pain Quotidien\nThe Milk House\nThe Grill  Smuckers\nThe Blue Duck\nPearl's Oyster Bar",
+            "1. The Cheesecake Factory\n2. Green Leafs & Bananas\n3. Steve's Prince of Steaks\n4. Trolley Car Diner\n5. The Green Line Cafe\n6.Spread Bagelry\n7. Betty's Speakeasy\n8. Fiore Fine Foods\n9. Benna's Cafe\n10. The Continental Restaurant and Martini Bar",
+            "****\nThe Tavern Restaurant\n****\nPaddy's Old City Pub\n****\nPearl's Oyster Bar\n****\nThe Tasty Toast\n****\nThe Grill  Smuckers\n****\nThe Blue Duck\n****\nSteve's Prince of Steaks\n****\nLisa's Kitchen\n****\nGreen Leafs & Bananas\n****\nTrolley Car Diner",
+            "Lacroix Restaurant at The Rittenhouse \\n\nThe Continental Restaurant and Martini Bar \\n\nAldine \\n\nAudrey Claire \\n\nRistorante La Buca \\n\nParc \\n\nThe Milk House \\n\nEvan's Pizza \\n\nPearl's Oyster Bar \\n\nFiore Fine Foods"
+        ]
+    }
+}

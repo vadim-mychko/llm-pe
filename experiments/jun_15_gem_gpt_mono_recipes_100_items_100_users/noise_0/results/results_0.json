@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Do you like salty snacks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like food seasoned with herbs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like bread?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n2. Baked spinach quiche containing bacon\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n5. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n6. High protein skillet with rice and vegetables\n7. Shredded barbecued pork shoulder\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Vegetable curry flavoured with curry powder and ground tumeric\n4. Roasted almonds\n5. Mushrooms included in a bento\n6. Grilled salmon seasoned with salt and pepper\n7. Vegetable and chicken soup\n8. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast and seasoning\n9. Stir-fried tofu, noodles and vegetables Bento\n10. Roasted almonds\n11. Hot pot that is not spicy\n",
+            " ****\n1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Stuffed bell peppers\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Fried shrimp and scallops\n5. Pork chops glazed with milk and cooked without nuts\n6. Classic salad with creamy caesar dressing and croutons\n7. Low fat diced baked or fried potatoes\n8. Polish sausage with fermented cabbage\n9. Low fat assorted fruit dessert\n10. Grilled salmon seasoned with salt and pepper\n****",
+            "Oatmeal chocolate chip cookie dough\nHomemade soup with chicken, noodles, and spices\nCreamy base with dill flavoring, eggs, and noodles\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSweet salad made with corn and three types of beans\nSoup made with cabbage, carrots, potatoes, and onions\nGrilled salmon seasoned with salt and pepper\nRoasted almonds",
+            "1. Sugar-free peanut butter cookies\n2. Low sugar applesauce cupcakes\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Sweet salad made with corn and three types of beans\n5. Mildly spicy chili recipe\n6. Blackberry jam\n7. Slushie drink made from orange juice blended with ice\n8. Low-fat diced baked or fried potatoes\n9. Roasted almonds\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "Soup made with vegetables and chicken\n****\nLow fat assorted fruit dessert\n****\nLow sugar applesauce cupcakes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChicken cooked and flavored with lemon sauce\n****\nFried shrimp and scallops\n****\nSmoothie made from fruit juice and bananas\n****\nQueso made from melted cheese and chili peppers\n****\nSoup made with shrimp, onions, and scallops\n****\nPork chops glazed with milk and cooked without nuts",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nQueso made from melted cheese and chili peppers\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBaked spinach quiche containing bacon\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nCheese with crackers\n****\nPeppermint chocolate bonbon\n****\nRoast turkey with plum sauce\n****\nBaked breakfast bars made with nuts and seeds\n****",
+            " High protein skillet with rice and vegetables\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Vegetable curry flavoured with curry powder and ground tumeric\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Soup made with vegetables and chicken\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Low sugar applesauce cupcakes\n****\n Sweet salad made with corn and three types of beans\n****\n Oatmeal made with whole rolled oats, water, and flax seed\n****\n Large portion fries with gravy and bacon\n****",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nAssorted cheese soup with chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSweet salad made with corn and three types of beans",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Low sugar applesauce cupcakes\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Oatmeal cookies made with oatmeal\n****\n Grilled salmon seasoned with salt and pepper\n****\n Roasted salmon with olive oil, chives, and tarragon leaves\n****\n Pork chops glazed with milk and cooked without nuts"
+        ]
+    }
+}

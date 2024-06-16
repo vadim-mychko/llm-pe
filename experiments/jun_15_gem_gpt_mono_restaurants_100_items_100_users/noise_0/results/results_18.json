@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a deli?",
+                "response": "no"
+            },
+            {
+                "query": "How about Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee or tea with your sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try a sports bar for your sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian options at your sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a food truck for your sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a cheesesteak?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Founding Fathers Sports Bar & Grill \nThe Cheesecake Factory \nThe Blue Duck \nPearl's Oyster Bar \nThe Continental Restaurant and Martini Bar \nMacaroni's Restaurant \nJack's Firehouse \nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys\n",
+            "The Blue Duck \\n\nThe Tasty Toast \\n\nJack's Firehouse \\n\nWishbone \\n\nFederal Donuts \\n\nPearl's Oyster Bar \\n\nThe Continental Restaurant and Martini Bar \\n\nZuzus Kitchen \\n\nGrain Exchange \\n\nFranklin's",
+            " CinCin Restaurant\nLacroix Restaurant at The Rittenhouse\nThe Tavern Restaurant\nWater Works Restaurant & Lounge\nVedge\nSister Muhammad's Kitchen\nPennsylvania 6\nThe Milk House\nFederal Donuts\nFounding Fathers Sports Bar & Grill\nHeritage",
+            "1. The Blue Duck\n2. The QUICK FIXX\n3. Founding Fathers Sports Bar & Grill \n4. Lisa's Kitchen\n5. Jack's Firehouse\n6. Franklin's \n7. JD Mcgillicuddy's Manayunk \n8. Sister Muhammad's Kitchen \n9. Trolley Car Diner \n10. Luhv Vegan Deli",
+            " PrimoHoagies \nDaleng Restaurant \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nFederal Donuts \nSang Kee Peking Duck House \nCanton 11 \nLisa's Kitchen \nSpread Bagelry",
+            " Zuzu's Kitchen \n PrimoHoagies \n Green Leafs & Bananas \n The Green Line Cafe \n Spread Bagelry \n Monster Vegan \n The QUICK FIXX \n Lisa's Kitchen \n Steve's Prince of Steaks \n Luhv Vegan Deli",
+            "Daleng Restaurant \nCanton 11 \nCanton 11 \nMisconduct Tavern \nFederal Donuts \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nFederal Donuts \nPearl's Oyster Bar \nThe Green Line Cafe",
+            "Steve's Prince of Steaks \nGreen Leafs & Bananas \nTrolley Car Diner \nLuvh Vegan Deli \nSpread Bagelry \nLisa's Kitchen \nThe QUICK FIXX \nThe Blue Duck \nMacaroni's Restaurant \nTu's Tea & Banh Mi South Philly",
+            "1. PrimoHoagies \n2. The Tasty Toast \n3. Misconduct Tavern \n4. Five Guys \n5. Lisa's Kitchen \n6. Green Leafs & Bananas \n7. Spread Bagelry \n8. The Green Line Cafe \n9. CJ & Eck's \n10. Luhv Vegan Deli",
+            "Steve's Prince of Steaks \\n\nThe Tasty Toast \\n\nLisa's Kitchen \\n\nMisconduct Tavern \\n\nGreen Leafs & Bananas \\n\nTrolley Car Diner \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nWawa \\n\nJack's Firehouse"
+        ]
+    }
+}

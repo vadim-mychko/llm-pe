@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a Chinese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Is Indian food something you like?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "System: Do you want to go somewhere that serves sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "are you looking for a mexican restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nKokopelli Restaurant & Tequila Bar \\n\nIzumi \\n\nA Tutti, Ristorante Italiano \\n\nThe Milk House",
+            "- Water Works Restaurant & Lounge \n- Veda - Modern Indian Bistro \n- The Milk House \n- Pearl's Oyster Bar \n- Macaroni's Restaurant \n- Parc \n- Pearl's Oyster Bar \n- Fiore Fine Foods \n- Cook and Shaker \n- Love & Honey Fried Chicken",
+            "Golden Triangle \nDaleng Restaurant \nCantonese \nCanton 11 \nSang Kee Peking Duck House \nKC's Pastries \nTu's Tea & Banh Mi South Philly\nDim Sum House \nMiga Korean BBQ & Sushi \nFederal Donuts",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n The Tasty Toast \n Le Pain Quotidien \n A Tutti, Ristorante Italiano \n The Milk House \n Valley Green Inn",
+            "Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nGrain Exchange \nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nHeritage\nKokopelli Restaurant & Tequila Bar\nGrain Exchange\nIzumi\nA Tutti, Ristorante Italiano\nThe Milk House",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Mong Kok Station \n The Tasty Toast",
+            "Tavern On the Hill\nDaleng Restaurant\nCanton 11\nThe Juice Merchant\nMacaroni's Restaurant\nChestnut 7\nZuzu's Kitchen \nFederal Donuts \nSang Kee Peking Duck House\nDim Sum House",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n The Tasty Toast \n Federal Donuts \n Grain Exchange \n Fuji Mountain \n Tavern On the Hill",
+            " Heritage \nKokopelli Restaurant & Tequila Bar \nLacroix Restaurant at The Rittenhouse \nLe Pain Quotidien \nSouthEast Bistro \nGrain Exchange \nIzumi \nMaison 208 \nThe Tavern Restaurant \nVeda - Modern Indian Bistro"
+        ]
+    }
+}

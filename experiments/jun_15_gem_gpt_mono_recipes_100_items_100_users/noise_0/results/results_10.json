@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer meals containing meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low-fat meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Baked breakfast bars made with nuts and seeds\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Simple creamy oyster soup\n6. Baked spinach quiche containing bacon\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n9. Banana bread made with whole wheat flour and walnuts\n10. Creamy base with dill flavoring, eggs, and noodles\n''''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat diced baked or fried potatoes\nChicken breasts stuffed with bacon and mozzarella",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nMilkshake made with fresh strawberries and ice cream\nLow-fat coconut alcohol-free cocktail\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nNorwegian cake with lingonberry and whipped cream layers\n''''",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n3. Classic salad with creamy caesar dressing and croutons\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Mildly spicy chili recipe\n7. Sweet salad made with corn and three types of beans\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Peach cobbler dessert containing whole wheat flour",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nMildly spicy chili recipe\nClassic salad with creamy caesar dressing and croutons\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSweet salad made with corn and three types of beans\n5-fruits salad made from oranges, strawberries, blackberries, grapes, and pears\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with vegetables and chicken\nChicken cooked and flavored with lemon sauce\nAlmond coated with butter and salt",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Sweet salad made with corn and three types of beans\n****\n Low sugar applesauce cupcakes\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Assorted cheese soup with chicken\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. High protein skillet with rice and vegetables\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Italian salad made from romain lettuce, artichokes, and tomatoes\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Classic salad with creamy caesar dressing and croutons\n10. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSweet salad made with corn and three types of beans\nVery low-fat assortment of shredded vegetables with seasoning\nVegetable soup made with cabbage, carrots, potatoes, and onions\nSoup made from onions, carrots, and celery ribs\nHomemade soup with chicken, noodles, and spices\nAssorted cheese soup with chicken",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Large portion fries with gravy and bacon\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Assorted cheese soup with chicken\n7. High protein skillet with rice and vegetables\n8. Berries and cream smoothie\n9. Classic salad with creamy caesar dressing and croutons\n10. Queso made from melted cheese and chili peppers\n",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nCheese and vegetable soup with a beer broth\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu"
+        ]
+    }
+}

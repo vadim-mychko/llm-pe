@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Does your group want to have Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Is somewhere with sushi appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go somewhere that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Is trying American food appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Does somewhere lively, like a bar, sound good?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about burgers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant \\n\n2. Golden Triangle \\n\n3. Lacroix Restaurant at The Rittenhouse \\n\n4. Sang Kee Peking Duck House \\n\n5. Canton 11 \\n\n6. Ristorante La Buca \\n\n7. Fuji Mountain \\n\n8. Dim Sum House \\n\n9. Buddhist Thai Cuisine & Vegetarian House \\n\n10. Dim Sum Garden \\n",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nGermantown Garden\nIzumi\nFuji Mountain\nCanton 11",
+            "Golden Triangle \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nFederal Donuts \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies",
+            "Tu's Tea & Banh Mi South Philly \\n\nEvan's Pizza \\n\nPrimoHoagies \\n\nThe Green Line Cafe \\n\nThe QUICK FIXX \\n\nSpread Bagelry \\n\nSubway \\n\nLisa's Kitchen \\n\nJack McShea's \\n\nGreen Leafs & Bananas",
+            "PrimoHoagies \nThe QUICK FIXX \nThe Green Line Cafe \nLisa's Kitchen \nGreen Leafs & Bananas \nSpread Bagelry \nFive Guys \nMacaroni's Restaurant \nPasta Plus Fresh Italian Food \nWawa",
+            "The Green Line Cafe\nGreen Leafs & Bananas\nThe Blue Duck\nPearl's Oyster Bar\nThe QUICK FIXX\nMushroom Pizza\nSteve's Prince of Steaks\nThe Milk House\nSnap Custom Pizza\nTrolley Car Diner",
+            " Zuzu's Kitchen \n PrimoHoagies \n The Tasty Toast \n The Juice Merchant \n Misconduct Tavern \n Five Guys \n Green Leafs & Bananas \n The Green Line Cafe \n Spread Bagelry \n Rival Bros Coffee \n Parc",
+            "The Blue Duck\nZuzu's Kitchen\nThe Tavern Restaurant\nThe QUICK FIXX\nLisa's Kitchen\nPaddy's Old City Pub\nMad River Manayunk\nMisconduct Tavern\nWishbone\nFounding Fathers Sports Bar & Grill",
+            "1. Paddy's Old City Pub\n2. The Tavern Restaurant \n3. Misconduct Tavern \n4. Mad River Manayunk \n5. The El Bar \n6. Franklin's \n7. Jack's Firehouse \n8. Lucky's Last Chance \n9. CJ & Eck's \n10. McMenamin's Tavern",
+            "1. Paddy's Old City Pub\n2. The Tavern Restaurant\n3. Mad River Manayunk\n4. JD Mcgillicuddy's Manayunk\n5. Jack's Firehouse\n6. Franklin's\n7. Lisa's Kitchen\n8. Betty's Speakeasy\n9. Love & Honey Fried Chicken\n10. The Blue Duck"
+        ]
+    }
+}

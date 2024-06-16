@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places that serve breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to eat at a place that has sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a full bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to eat near you?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to eat near you that serves American cuisine and has breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to eat near you that serves American cuisine, has breakfast and brunch, and is not a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to eat near you that serves American cuisine, has breakfast and brunch, is not a bar, and does not serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to eat near you that serves American cuisine, has breakfast and brunch, is not a bar, does not serve sandwiches, and has a good selection of desserts?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Local Tavern\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nThe Milk House\nValley Green Inn\nThe Grill  Smuckers\nThe Tavern Restaurant\nMaison 208\nCO-OP Restaurant & Lounge",
+            " The Tasty Toast \nThe Grill  Smuckers \nThe Milk House \nPearl's Oyster Bar \nThe Blue Duck \nAudrey Claire \nThe Green Line Cafe \nParc \nFiore Fine Foods \nJake's & Cooper's Wine Bar & Wine Shop",
+            " The Milk House\n The Grill  Smuckers\n The Tasty Toast\n Talluto's Authentic Italian Food\n The Continental Restaurant and Martini Bar\n The El Bar\n Pearl's Oyster Bar\n The Blue Duck\n Fiore Fine Foods\n Jack's Firehouse",
+            " The Green Line Cafe \\n\nFounding Fathers Sports Bar & Grill \\n\nPearl's Oyster Bar \\n\nThe Blue Duck \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMad River Manayunk \\n\nBuddakan \\n\nThe Milk House \\n\nThe Continental Restaurant and Martini Bar",
+            "1. The Grill  Smuckers \n2. The Tasty Toast \n3. The Blue Duck \n4. The Milk House \n5. Federal Donuts \n6. Zuzu's Kitchen \n7. The Continental Restaurant and Martini Bar \n8. Pearl's Oyster Bar \n9. Fiore Fine Foods \n10. Roy-Pitz Barrel House",
+            "The Grill  Smuckers\nThe Tasty Toast\nThe Milk House\nThe Blue Duck\nTrolley Car Diner\nJack's Firehouse\nBenna's Cafe\nPearl's Oyster Bar\nThe Cheesecake Factory\nAldine",
+            "1. The Tasty Toast\n2. Heritage\n3. The Milk House\n4. The Grill  Smuckers \n5. Bloomsday Cafe\n6. The Continental Restaurant and Martini Bar \n7. Pearl's Oyster Bar \n8. The Blue Duck \n9. Mad River Manayunk \n10. Franklin's",
+            "1. The Tasty Toast \n2. The Blue Duck \n3. The Grill  Smuckers \n4. Trolley Car Diner \n5. Chestnut 7 \n6. Pearl's Oyster Bar \n7. Aldine \n8. Fiore Fine Foods \n9. Gran Caffe L'Aquila \n10. Audrey Claire",
+            "The Blue Duck\nPearl's Oyster Bar\nThe Green Line Cafe\nThe Continental Restaurant and Martini Bar\nThe Grill  Smuckers\nThe Tasty Toast\nThe Fresh Grocer - Progress Plaza\nThe Milk House\nFiore Fine Foods\nAudrey Claire",
+            "1. The Tasty Toast\n2. The Milk House\n3. The Grill  Smuckers\n4. Zuzu's Kitchen\n5. The Continental Restaurant and Martini Bar\n6. The Blue Duck\n7. Fiore Fine Foods\n8. Blackbird Pizzeria\n9. Parc\n10. Gran Caffe L'Aquila"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "78": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Germantown Garden \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n Daleng Restaurant \n Federal Donuts \n The Tasty Toast \n Le Pain Quotidien",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden\nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            " Zuzu's Kitchen\n Golden Triangle\n Daleng Restaurant\n The Tasty Toast\n Le Pain Quotidien\n PrimoHoagies\n A Tutti, Ristorante Italiano\n Baan Thai\n Macaroni's Restaurant\n The Blue Duck",
+            "1. North Bowl \n2. Monster Vegan \n3. Vedge \n4. Hey Hummus \n5. Green Leafs & Bananas \n6. Luhv Vegan Deli \n7. Blackbird Pizzeria \n8. The QUICK FIXX \n9. Benna's Cafe \n10. Founding Fathers Sports Bar & Grill",
+            "Vedge\nThe QUICK FIXX\nMonster Vegan\nBenna's Cafe\nGreen Leafs & Bananas\nThe Green Line Cafe\nHey Hummus\nLuvh Vegan Deli\nSpread Bagelry\nJack's Firehouse",
+            "Vedge \nBenna's Cafe \nMonster Vegan \nThe QUICK FIXX \nGreen Leafs & Bananas \nLuvh Vegan Deli \nHey Hummus \nEssene Market & Caf\u00e9 \nSpread Bagelry \nThe Green Line Cafe",
+            "Vedge \\n\nMonster Vegan \\n\nNorth Bowl \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nLuhv Vegan Deli \\n\nFounding Fathers Sports Bar & Grill",
+            "Monster Vegan \nVedge \nBenna's Cafe \nHey Hummus \nKitchen Kettle Village \nSabrina's Cafe \nLittle Nonna's \nPure Tacos \nLuhv Vegan Deli \nWawa",
+            "1. Monster Vegan\n2. Vedge\n3. Hey Hummus\n4. Luhv Vegan Deli\n5. Benna's Cafe\n6. Blackbird Pizzeria\n7. The QUICK FIXX\n8. Pure Tacos\n9. Love & Honey Fried Chicken\n10. Green Leafs & Bananas",
+            "Veda - Modern Indian Bistro \\n\nMonster Vegan \\n\nNorth Bowl \\n\nBenna's Cafe \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nVedge \\n\nThe QUICK FIXX \\n\nLuhv Vegan Deli \\n\nPure Tacos"
+        ]
+    }
+}

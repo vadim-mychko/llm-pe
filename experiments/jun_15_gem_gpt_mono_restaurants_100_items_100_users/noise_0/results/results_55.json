@@ -1,0 +1,58 @@
+{
+    "55": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a restaurant that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegan/vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food, such as Chinese, Greek, or Mexican?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves deli food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves steakhouses?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in finding a place that has sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that offers a wide range of sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \nDaleng Restaurant \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nDim Sum House \nNew York Gyro Truck \nKC's Pastries \nCJ & Eck's \nRival Bros Coffee ",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nHeritage \nKokopelli Restaurant & Tequila Bar \nCinCin Restaurant \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nLe Pain Quotidien\nCinCin Restaurant\nWater Works Restaurant & Lounge",
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nChinatown Square \nThe Tasty Toast \nLe Pain Quotidien \nGermantown Garden \nFederal Donuts",
+            "1. The QUICK FIXX\n2. Betty's Speakeasy\n3. Monster Vegan\n4. Essene Market & Caf\u00e9\n5. Benna's Cafe\n6. Hey Hummus\n7. Vedge\n8. Daleng Restaurant\n9. Tu's Tea & Banh Mi South Philly\n10. Green Leafs & Bananas",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station ",
+            "DiNic's Roast Pork \nSteve's Prince of Steaks \nTrolley Car Diner \nLuvh Vegan Deli \nLiscio's Italian Bakery \nAnthony's Italian Coffee House \nSarcone's Deli \nSalumeria \nFront Street Cafe \nFederal Donuts \nBellini Prime",
+            "Wawa \\n\nTrolley Car Diner \\n\nLuhv Vegan Deli \\n\nFederal Donuts \\n\nWishbone \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nSister Muhammad's Kitchen \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas",
+            "PrimoHoagies \\n\nThe Green Line Cafe \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nTrolley Car Diner \\n\nThe QUICK FIXX \\n\nWawa \\n\nJack's Firehouse",
+            "1. The QUICK FIXX\n2. Green Leafs & Bananas\n3. Trolley Car Diner\n4. The Green Line Cafe\n5. Spread Bagelry\n6. Luhv Vegan Deli\n7. Steve's Prince of Steaks\n8. Lisa's Kitchen\n9. Jack's Firehouse\n10. Franklin's"
+        ]
+    }
+}

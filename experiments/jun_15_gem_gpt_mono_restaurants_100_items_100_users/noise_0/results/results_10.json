@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in food that features vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a breakfast brunch spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soul food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place known for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place known for cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want an American restaurant?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "The Blue Duck\nLisa's Kitchen\nJack's Firehouse\nFranklin's\nLuvh Vegan Deli\nMisconduct Tavern\nLucky's Last Chance\nLove & Honey Fried Chicken\nSteve's Prince of Steaks\nFive Guys",
+            "Misconduct Tavern\nFive Guys\nThe Tavern Restaurant\nThe Blue Duck\nFranklin's\nLisa's Kitchen\nChestnut 7\nLucky's Last Chance\nLove & Honey Fried Chicken\nMcMenamin's Tavern",
+            "Five Guys \n Misconduct Tavern \n The Blue Duck \n Franklin's \n Lisa's Kitchen \n Jack's Firehouse \n Chestnut 7 \n Luhv Vegan Deli \n Lucky's Last Chance \n Love & Honey Fried Chicken ",
+            "Five Guys \\n\nFederal Donuts \\n\nJack's Firehouse \\n\nFranklin's \\n\nCheesecake Factory \\n\nSteve's Prince of Steaks \\n\nLuhv Vegan Deli \\n\nPure Tacos \\n\nLove & Honey Fried Chicken \\n\nMcMenamin's Tavern",
+            "Wishbone \\n\nFederal Donuts \\n\nRoy-Pitz Barrel House \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nFranklin's \\n\nMad River Manayunk \\n\nMise en Place \\n\nLisa's Kitchen",
+            "McMenamin's Tavern\nChickie's & Pete's\nWingstop\nWishbone\nJack's Firehouse\nFranklin's\nFederal Donuts\nLucky's Last Chance\nFive Guys\nLove & Honey Fried Chicken",
+            "1. Wishbone \\n\n2. Jack's Firehouse \\n\n3. Franklin's \\n\n4. JD Mcgillicuddy's Manayunk \\n\n5. Betty's Speakeasy \\n\n6. The QUICK FIXX \\n\n7. Lisa's Kitchen \\n\n8. Sister Muhammad's Kitchen \\n\n9. Lucky's Last Chance \\n\n10. Love & Honey Fried Chicken",
+            "Wishbone \\n\nLisa's Kitchen \\n\nRoy-Pitz Barrel House \\n\nFederal Donuts \\n\nMonkey Vegan \\n\nLuvh Vegan Deli \\n\nLove & Honey Fried Chicken \\n\nJack's Firehouse \\n\nFranklin's \\n\nSteve's Prince of Steaks",
+            "Love & Honey Fried Chicken\nWishbone\nJack's Firehouse\nLisa's Kitchen\nFederal Donuts\nChinatown 11\nJD Mcgillicuddy's Manayunk\nFranklin's\nLuvh Vegan Deli\nLucky's Last Chance",
+            "Wishbone \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nMcMenamin's Tavern \\n\nSister Muhammad's Kitchen \\n\nLuvh Vegan Deli \\n\nLove & Honey Fried Chicken \\n\nGreen Leafs & Bananas"
+        ]
+    }
+}

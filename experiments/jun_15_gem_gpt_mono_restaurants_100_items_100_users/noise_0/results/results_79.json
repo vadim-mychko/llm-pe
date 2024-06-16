@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in having some sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some Mediterranean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying German cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves steaks?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nCanton 11 \\n\nPearl's Oyster Bar \\n\nIzumi \\n\nRistorante La Buca \\n\nSang Kee Peking Duck House \\n\nSteve's Prince of Steaks",
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nWater Works Restaurant & Lounge \\n\nZuzu's Kitchen \\n\nPrimoHoagies \\n\nA Tutti, Ristorante Italiano \\n\nVeda - Modern Indian Bistro \\n\nMalbec Argentine Steakhouse \\n\nMiga Korean BBQ & Sushi \\n\nBloomsday Cafe",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nFederal Donuts \nThe Tasty Toast \nThe Milk House \nVeda - Modern Indian Bistro \nMugshots Coffeehouse \nFuji Mountain",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nGrain Exchange\nLacroix Restaurant at The Rittenhouse\nFederal Donuts\nThe Juice Merchant\nThe Tasty Toast\nLe Pain Quotidien",
+            "1. Water Works Restaurant & Lounge \n2. Veda - Modern Indian Bistro \n3. Heritage \n4. Lacroix Restaurant at The Rittenhouse \n5. Izumi \n6. Bloomsday Cafe \n7. Blackbird Pizzeria \n8. Pearl's Oyster Bar \n9. Northern Liberties \n10. Hungry Pigeon ",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGolden Triangle \nLe Pain Quotidien \nZuzu's Kitchen \nA Tutti, Ristorante Italiano \nGran Caffe L'Aquila \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nOlive Garden Italian Restaurant",
+            " The Tavern Restaurant \n Misconduct Tavern \n Five Guys \n Paddy's Old City Pub \n Mad River Manayunk \n Lisa's Kitchen \n Jack's Firehouse \n Franklin's \n Founding Fathers Sports Bar & Grill \n Lucky's Last Chance",
+            "Heritage \nThe Milk House \nThe Grill  Smuckers\nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys \nWawa \nPaddy's Old City Pub \nRoy-Pitz Barrel House \nThe Blue Duck",
+            " The Grill  Smuckers \\n\nThe Blue Duck \\n\nThe Tavern Restaurant \\n\nMacaroni's Restaurant \\n\nFederal Donuts \\n\nRoy-Pitz Barrel House \\n\nJack's Firehouse \\n\nFranklin's \\n\nTrolley Car Diner \\n\nFive Guys"
+        ]
+    }
+}

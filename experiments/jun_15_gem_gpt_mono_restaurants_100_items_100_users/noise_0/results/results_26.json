@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer to eat your meals in a casual or formal setting?",
+                "response": "casual"
+            },
+            {
+                "query": "Do you want a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food with Asian influences?",
+                "response": "no"
+            },
+            {
+                "query": "Are you primarily looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant\n2. CinCin Restaurant \n3. The Tavern Restaurant \n4. Misconduct Tavern \n5. Baan Thai \n6. Benna's Cafe \n7. Miga Korean BBQ & Sushi \n8. Monster Vegan \n9. Vedge \n10. Hey Hummus",
+            " Zuzu's Kitchen\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nCinCin Restaurant\nFederal Donuts\nMong Kok Station\nHeritage\n Kokopelli Restaurant & Tequila Bar",
+            "Izumi \nJapanica \nBaan Thai \nFuji Mountain \nKorean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nM2O Taphouse \nOishii Pok\u00e9 \nHinoki Sushi \nKabuki Sushi",
+            "PrimoHoagies\nLisa's Kitchen\nThe Green Line Cafe\nLuvh Vegan Deli\nMonster Vegan\nFive Guys\nGreen Leafs & Bananas\nSpread Bagelry\nWawa\nFederal Donuts",
+            "1. The Green Line Cafe \n2. Green Leafs & Bananas \n3. Spread Bagelry \n4. PrimoHoagies \n5. Castellino's \n6. Monster Vegan \n7. Daleng Restaurant \n8. Betty's Speakeasy \n9. Luhv Vegan Deli \n10. Fiore Fine Foods",
+            "1. Green Leafs & Bananas\n2. Lisa\u2019s Kitchen\n3. Spread Bagelry\n4. The Blue Duck\n5. Steve's Prince of Steaks\n6. The El Bar\n7. Roy-Pitz Barrel House\n8. Founding Fathers Sports Bar & Grill\n9. Betties Speakeasy\n10. North Bowl",
+            "1. The Juice Merchant \n2. Zuzu's Kitchen \n3. Green Leafs & Bananas \n4. Spread Bagelry \n5. Luhv Vegan Deli \n6. Lisa's Kitchen \n7. Betty's Speakeasy \n8. Steve's Prince of Steaks \n9. Jack's Firehouse \n10. Dim Sum House",
+            "The Tavern Restaurant \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nThe Cheesecake Factory",
+            "Misconduct Tavern\nValley Green Inn\nThe Tavern Restaurant\nFive Guys\nLisa's Kitchen\nSteve's Prince of Steaks\nPaddy's Old City Pub\nTrolley Car Diner\nLove & Honey Fried Chicken\nFranklin's",
+            "Five Guys \nMisconduct Tavern \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nThe Blue Duck \nChestnut 7 \nLuvh Vegan Deli \nFounding Fathers Sports Bar & Grill"
+        ]
+    }
+}

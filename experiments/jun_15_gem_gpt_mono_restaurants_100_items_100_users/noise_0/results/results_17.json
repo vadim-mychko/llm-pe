@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer something with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer places that serve desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegan restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve alcohol?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant\n2. The Tasty Toast\n3. Germantown Garden\n4. Castellino's\n5. PrimoHoagies\n6. Lisa's Kitchen\n7. The Green Line Cafe\n8. Green Leafs & Bananas\n9. Luhv Vegan Deli\n10. Spread Bagelry",
+            "Water Works Restaurant & Lounge\nRacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nValley Green Inn\nThe Juice Merchant\nA Tutti, Ristorante Italiano\nDaleng Restaurant\nGermantown Garden\nLe Pain Quotidien\nFederal Donuts",
+            " Water Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nThe Juice Merchant\nThe Tasty Toast\nLe Pain Quotidien\nThe Milk House\nVeda - Modern Indian Bistro\nTalluto's Authentic Italian Food\nThe Grill  Smuckers\nBistro SouthEast\nMisconduct Tavern\nFive Guys\nCanton 11\nThe Continental Restaurant and Martini Bar\nRoy-Pitz Barrel House\nThe El Bar\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly\nThe QUICK FIXX\nJack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nChestnut 7\nThe Cheesecake Factory\nSpread Bagelry\nParc\nLove & Honey Fried Chicken\nCafe L'Aube",
+            "1. Water Works Restaurant & Lounge \n2. Grain Exchange \n3. Jack's Firehouse \n4. Founding Fathers Sports Bar & Grill \n5. CJ & Eck's \n6. Mad River Manayunk \n7. Trolley Car Diner \n8. Sister Muhammad's Kitchen \n9. Betty's Speakeasy \n10. Love & Honey Fried Chicken",
+            "The Water Works Restaurant & Lounge\nIzumi\nLe Pain Quotidien\nFuji Mountain\nJake's & Cooper's Wine Bar & Wine Shop\nBistro SouthEast\nMacaroni's Restaurant\nTrolley Car Diner\nRistorante La Buca\nFounding Fathers Sports Bar & Grill",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nThe Tasty Toast\nThe Milk House\nThe Grill  Smuckers\nBistro SouthEast\nThe Tavern Restaurant",
+            "Heritage \nThe Grill  Smuckers \nLacroix Restaurant at The Rittenhouse \nPearl's Oyster Bar \nThe Blue Duck \nThe Tasty Toast \nFounding Fathers Sports Bar & Grill \nCinCin Restaurant \nThe Continental Restaurant and Martini Bar \nJake's & Cooper's Wine Bar & Wine Shop",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. Federal Donuts\n9. The Tasty Toast\n10. Le Pain Quotidien",
+            "The Tavern Restaurant \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nWater Works Restaurant & Lounge \nGolden Triangle \nZuzu's Kitchen \nThe Tasty Toast \nValley Green Inn \nThe Grill  Smuckers \nFederal Donuts",
+            "1. Water Works Restaurant & Lounge\n2. The Tavern Restaurant\n3. Tavern On the Hill\n4. Paddy's Old City Pub\n5. Mad River Manayunk\n6. Franklin's\n7. JD Mcgillicuddy's Manayunk\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. McMenamin's Tavern"
+        ]
+    }
+}

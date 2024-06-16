@@ -1,0 +1,58 @@
+{
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sweet food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meat over fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy vegetable soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like shrimp?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy beef dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " grilled salmon seasoned with salt and pepper\n****\nroasted almonds\n****\nsalmon fillets grilled in a pan with herbs and spices\n****\nlow fat assorted fruit dessert\n****\npork chops glazed with milk and cooked without nuts\n****\nlow fat diced baked or fried potatoes\n****\nhigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nitalian salad made from romain lettuce, artichokes, and tomatoes\n****\nmeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nchicken breasts stuffed with bacon and mozzarella\n****",
+            "1. Beef stew made with beef, carrots and potatoes\n2. High protein skillet with rice and vegetables\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Roast turkey with plum sauce",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Steak seasoned with salt, pepper, and a light dusting of paprika\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Chicken cooked and flavored with lemon sauce\n6. Roast turkey with plum sauce\n7. Grilled squash, zucchinis, tomatoes, and mushrooms seasoned with balsamic vinegar and herbs\n8. Roast beef sandwich with mozzarella, banana pepper rings, and romaine lettuce\n9. Korean soup containing beef brisket and flavored with red pepper powder\n10. Polish sausage with fermented cabbage\n",
+            "**Beef stew made with beef, carrots and potatoes**\n**Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa**\n**Chicken breasts stuffed with bacon and mozzarella**\n**Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.**\n**High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu**\n**Low fat baked breakfast pie made with sausage (pork) and apples**\n**Pork chops glazed with milk and cooked without nuts**\n**Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese**\n**Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce**\n**Grilled salmon seasoned with salt and pepper**\n",
+            "Beef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti noodles with mussels, anchovy fillets, and capers\nShredded barbecued pork shoulder\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella chees\nKorean soup containing beef brisket and flavoured with red pepper powder\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nPork chops glazed with milk and cooked without nuts\nRoast turkey with plum sauce\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nChicken cooked and flavored with lemon sauce\nHomemade soup with chicken, noodles, and spices\nSoup made with ground turkey that is low fat, high carb\nSoup made with chicken and noodles\nHot pot that is not spicy\nChicken cooked and flavored with lemon sauce\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nChicken breasts stuffed with bacon and mozzarella\nBaked breakfast bars made with nuts and seeds\nSmoothie made from fruit juice and bananas\nBroccoli, cheese soup and chicken\n",
+            " Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nBeef stew made with beef, carrots and potatoes\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nLow-fat shredded vegetables with seasoning",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Pulled pork shoulder\n5. Baked spinach quiche containing bacon\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n'''",
+            " Grilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nHigh protein skillet with rice and vegetables\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef stew made with beef, carrots and potatoes\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nTacos\n****\nQueso made from melted cheese and chili peppers",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Chicken cooked and flavored with lemon sauce\n****\n Beef stew made with beef, carrots and potatoes\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Pepper steak\n****\n High protein skillet with rice and vegetables\n****\n Creamy base with dill flavoring, eggs, and noodles",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPork chops glazed with milk and cooked without nuts\n****\nLarge portion fries with gravy and bacon\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMozzarella dip recipe"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in ethnic food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Does American cuisine sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer comfort food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1.  Fuji Mountain\n2.  Sang Kee Peking Duck House\n3.  Canton 11 \n4.  Miga Korean BBQ & Sushi \n5.  Tu's Tea & Banh Mi South Philly \n6.  Dim Sum House \n7.  New York Gyro Truck \n8.  KC's Pastries \n9.  Audrey Claire\n10. Pure Tacos",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGolden Triangle \nZuzu's Kitchen \nDaleng Restaurant \nThe Tasty Toast \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House \nVeda - Modern Indian Bistro",
+            "1. Izumi\n2. Federal Donuts\n3. A Tutti, Ristorante Italiano\n4. Vedge\n5. Roy-Pitz Barrel House\n6. Cook and Shaker\n7. Fiore Fine Foods\n8. Evan's Pizza\n9. Jack's Firehouse\n10. The QUICK FIXX",
+            "Mood Indian Restaurant\nWater Works Restaurant & Lounge\nThe Tasty Toast\nThe Milk House\nThe Continental Restaurant and Martini Bar\nThe Blue Duck\nPearl's Oyster Bar\nSabrina's Cafe\nParc\nCafe L'Aube",
+            "1. The Juice Merchant \\n\n2. The Tasty Toast \\n\n3. Veda - Modern Indian Bistro \\n\n4. Bloomsday Cafe \\n\n5. Benna's Cafe \\n\n6. Hey Hummus \\n\n7. The QUICK FIXX \\n\n8. Betty's Speakeasy \\n\n9. The Green Line Cafe \\n\n10. Cafe L'Aube \\n",
+            "Grain Exchange \nThe Grill  Smuckers \nThe Tasty Toast \nBenna's Cafe \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nFranklin's \nSister Muhammad's Kitchen \nFounding Fathers Sports Bar & Grill \nAudrey Claire",
+            "The Grill  Smuckers \nThe Tasty Toast \nThe Blue Duck \nThe Milk House \nGreen Leafs & Bananas \nTrolley Car Diner \nThe Cheesecake Factory \nSpread Bagelry \nBetty's Speakeasy \nAldine",
+            "1. The Tasty Toast \\n\n2. Pearl's Oyster Bar \\n\n3. The Milk House \\n\n4. The Grill  Smuckers \\n\n5. The Continental Restaurant and Martini Bar \\n\n6. Benna's Cafe \\n\n7. Fiore Fine Foods \\n\n8. Green Leafs & Bananas \\n\n9. Trolley Car Diner \\n\n10. Audrey Claire",
+            "Pearl's Oyster Bar \nAudrey Claire \nThe Green Line Cafe \nGran Caffe L'Aquila \nWawa \nThe Blue Duck \nMad River Manayunk \nRistorante La Buca \nFederal Donuts \nJack's Firehouse",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nBenna's Cafe \nAudrey Claire \nThe Milk House \nThe Green Line Cafe \nBistro SouthEast \nEssene Market & Caf\u00e9 \nJake's & Cooper's Wine Bar & Wine Shop \nThe Grill  Smuckers"
+        ]
+    }
+}

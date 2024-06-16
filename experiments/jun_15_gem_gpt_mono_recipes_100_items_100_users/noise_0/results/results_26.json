@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Would you prefer pork or chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like very low-fat food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty soups?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n7. Roast pork chops glazed with milk and cooked without nuts\n8. Sweet salad made with corn and three types of beans\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Soup made with ground turkey that is low fat, high carb\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. High protein skillet with rice and vegetables\n9. Baked spinach quiche containing bacon\n10. Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Cheese and vegetable soup with a beer broth\n****\n Assortment of shredded vegetables with seasoning\n****\n Roasted almonds\n****\n Nuts and seeds baked breakfast bars\n****\n Carrot, celery and onion soup\n****\n Cream cheese cheesecake\n****\n Simple creamy oyster soup\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Very low-fat shredded vegetables with seasoning\n****\n Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n Chopped French duck confit preserved by duck oil\n****\n Spaghetti made with year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "Soup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat diced baked or fried potatoes\nLow fat assorted fruit dessert\nLow fat sweet potato fries made with cajun seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with vegetables and chicken\nHomemade soup with chicken, noodles, and spices\nSimple creamy oyster soup",
+            "Soup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nLow fat diced baked or fried potatoes\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nCreamy base with dill flavoring, eggs, and noodles\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nHomemade soup with chicken, noodles, and spices\n****\n</code>",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat shredded barbecued pork shoulder\nCalcium-rich soup made with broccoli and beans\nLow fat smoothies made with greek yogurt, and pineapple\nVery low-fat diced baked or fried potatoes\nLow fat assorted fruit dessert\nLow sugar applesauce cupcakes\nLow fat coconut alcohol-free cocktail\n'''",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made with ground turkey that is low fat, high carb\n4. Low fat sweet potato fries made with cajun seasoning\n5. Soup made with onions, carrots, and celery ribs\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with vegetables and chicken\n8. Soup made with shrimp, onions, and scallops\n9. Simple creamy oyster soup\n10. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nLow fat soup made with chicken\n'''"
+        ]
+    }
+}

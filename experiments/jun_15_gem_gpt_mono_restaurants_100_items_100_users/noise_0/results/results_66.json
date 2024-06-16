@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying a vegan menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a bar or food joint that also plays music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a place with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sushi or sashimi?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try some sushi that combines Korean flavors and ingredients?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at a place that serves Asian fusion cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nFederal Donuts\nDaleng Restaurant\nThe Tasty Toast\nPrimoHoagies\nThe Juice Merchant\nMong Kok Station\nGrain Exchange\nLacroix Restaurant at The Rittenhouse",
+            "1. The Tasty Toast \n2. Le Pain Quotidien \n3. PrimoHoagies \n4. A Tutti, Ristorante Italiano \n5. Italian Market \n6. Talluto's Authentic Italian Food \n7. Castellino's \n8. Macaroni's Restaurant \n9. The QUICK FIXX \n10. Betty's Speakeasy",
+            "Malbec Argentine Steakhouse \nCanton 11 \nFuji Mountain \nJack's Firehouse \nOteri's Italian Bakery | North 5th St \nBlackbird Pizzeria \nLaCroix Restaurant at The Rittenhouse \nGrain Exchange \nFranklin's \nBistro SouthEast \nBenna's Cafe",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "Zuzu's Kitchen \nGolden Triangle \nMong Kok Station \nDaleng Restaurant \nCinCin Restaurant \nBistro SouthEast \nBaan Thai \nCanton 11 \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9",
+            " Izumi \n Fuji Mountain \n Canton 11 \n Miga Korean BBQ & Sushi \n Oishii Pok\u00e9 \n Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Baan Thai \n CinCin Restaurant",
+            "Miga Korean BBQ & Sushi \nIzumi \nGrain Exchange \nChinatown 11 \nThe Continental Restaurant and Martini Bar \nNorth Bowl \nKokopelli Restaurant & Tequila Bar \nVeda - Modern Indian Bistro \nHeritage \nKokopelli Restaurant & Tequila Bar",
+            "Miga Korean BBQ & Sushi \\n\nGolden Triangle \\n\nGrain Exchange \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nBistro SouthEast \\n\nPearl's Oyster Bar \\n\nIzumi \\n\nSushi Zone \\n\nSang Kee Peking Duck House",
+            "Miga Korean BBQ & Sushi\nCanton 11\nFuji Mountain\nBistro SouthEast\nIzumi\nDaleng Restaurant\nGolden Triangle\nGrain Exchange\nThe Green Line Cafe\nNorth Bowl"
+        ]
+    }
+}

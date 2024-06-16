@@ -1,0 +1,58 @@
+{
+    "62": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like breakfast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Chinese food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nZuzu's Kitchen\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "1. Izumi \\n\n2. Golden Triangle \\n\n3. Water Works Restaurant & Lounge \\n\n4. Fuji Mountain \\n\n5. La Buca \\n\n6. Steve's Prince of Steaks \\n\n7. Trolley Car Diner \\n\n8. Canton 11 \\n\n9. Baik Thai \\n\n10. Oishii Pok\u00e9  \\n",
+            "1. Veda - Modern Indian Bistro\n2. Daleng Restaurant\n3. Bistro SouthEast\n4. Sang Kee Peking Duck House\n5. Canton 11\n6. Tu's Tea & Banh Mi South Philly\n7. Miga Korean BBQ & Sushi\n8. Dim Sum House\n9. Pure Tacos\n10. Oishii Pok\u00e9",
+            "Golden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nFederal Donuts\nPrimoHoagies\nDaleng Restaurant\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant",
+            "Daleng Restaurant \nGolden Triangle \nCinCin Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nGrain Exchange \nBaan Thai \nCanton 11 \nIzumi \nFuji Mountain",
+            " Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nBaan Thai \nCanton 11 \nTu's Tea & Banh Mi South Philly \nRoyal Sushi & Izakaya \nOishii Pok\u00e9 \nIzumi",
+            " Daleng Restaurant \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nBaan Thai \\n\nKC's Pastries \\n\nOishii Pok\u00e9 \\n\nSang Kee Peking Duck House",
+            " Daleng Restaurant\nBistro SouthEast\nSang Kee Peking Duck House\nCanton 11\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nOishii Pok\u00e9\nGreen Leafs & Bananas\n KC's Pastries\nPure Tacos",
+            " Daleng Restaurant \nBistro SouthEast \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nBaan Thai \nGolden Triangle \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nIzumi \nA Tutti, Ristorante Italiano"
+        ]
+    }
+}

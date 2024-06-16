@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "What is your current mood?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you like to grill your food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in appetizers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you a vegetarian?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Spanish rice with chicken breast\nMeatballs made with ground beef and ground pork\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nBanana bread made with whole wheat flour and walnuts\nEggless sauerkraut cake\nSmoothie made from banana puree with milk\nMushy peas that are soft\nHomemade soup with chicken, noodles, and spices\nHot pot that is not spicy",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Queso made from melted cheese and chili peppers\n4. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n6. Baked spinach quiche containing bacon\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Meatballs made with ground beef and ground pork\n10. Cheese with crackers",
+            " 1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. High protein skillet with rice and vegetables\n5. Poke of tofu, mushroom and tomatoes\n6. Vegetable curry flavoured with curry powder and ground tumeric\n7. Fried shrimp and scallops\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Soup made from ground turkey that is low fat, high carb",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5. Soup made with vegetables and chicken\n6. 2-ingredient yogurt from scratch\n7. Grilled salmon seasoned with salt and pepper\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n'''",
+            " - Very low-fat assortment of shredded vegetables with seasoning\n - Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n - Stir-fried tofu, noodles and vegetables Bento\n - Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n - Roasted almonds \n - South African vegetable curry flavoured with curry powder and ground tumeric\n - Soup made with vegetables and chicken\n - Hot pot that is not spicy\n - Spanish rice with chicken breast \n - Vegetable soup with chicken",
+            "Poke of tofu, mushroom and tomatoes\nHigh protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow fat baked breakfast pie made with sausage (pork) and apples\nCreamy base with dill flavoring, eggs, and noodles\nVery low-fat assortment of shredded vegetables with seasoning\nBaked breakfast bars made with nuts and seeds\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nBaked spinach quiche containing bacon",
+            "1. 2-ingredient yogurt from scratch\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Oatmeal with mashed banana\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with vegetables and chicken\n8. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n9. High protein skillet with rice and vegetables\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Simple creamy oyster soup\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Soup made with ground turkey that is low fat, high carb\n7. Vegetable soup with chicken\n8. Soup made with vegetables and chicken\n9. Shredded barbecued pork shoulder\n10. Ramen noodles made from scratch made with: wheat flour, baking soda, and water",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Tofu, mushroom and tomato poke\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat, high carb soup made with ground turkey\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with shrimp, onions, and scallops\n8. Assorted cheese soup with chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Homemade soup with chicken, noodles, and spices\n",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Vegetable soup made with vegetables and chicken\n6. Soup made with ground turkey that is low fat, high carb\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Low fat diced baked or fried potatoes\n9. Assorted cheese soup with chicken\n10. Low-fat coconut alcohol-free cocktail"
+        ]
+    }
+}

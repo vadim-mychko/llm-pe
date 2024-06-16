@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you also like sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food or Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that also serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Is the atmosphere of the place important to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that offers breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has a juice bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "PrimoHoagies \nLisa's Kitchen \nFederal Donuts \nThe QUICK FIXX \nThe Tavern Restaurant \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nMacaroni's Restaurant \nMonster Vegan",
+            " PrimoHoagies \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nLisa's Kitchen \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nMonster Vegan \\n\nLuvh Vegan Deli \\n\nRoy-Pitz Barrel House \\n\nFive Guys",
+            "The Green Line Cafe \nSpread Bagelry \nFive Guys \nMisconduct Tavern \nLisa's Kitchen \nThe Blue Duck \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nPrimoHoagies \nMonster Vegan",
+            "The Juice Merchant \nGrain Exchange \nPrimoHoagies \nDaleng Restaurant \nBistro SouthEast \nMonster Vegan \nFive Guys \nWawa \nMacaroni's Restaurant \nThe Blue Duck\nDim Sum House",
+            "Monster Vegan\nVedge\nHey Hummus\nThe QUICK FIXX\nTu's Tea & Banh Mi South Philly\nBenna's Cafe\nLuhv Vegan Deli\nSpread Bagelry\nGreen Leafs & Bananas\nThe Green Line Cafe",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nHey Hummus \nThe Juice Merchant \nThe QUICK FIXX \nThe Green Line Cafe \nSpread Bagelry \nBenna's Cafe \nGreen Leafs & Bananas",
+            "Monster Vegan \\n\nVedge \\n\nThe Juice Merchant \\n\nHey Hummus \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nBenna's Cafe \\n\nThe Green Line Cafe \\n\nRival Bros Coffee",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nHey Hummus \nGreen Leafs & Bananas \nThe QUICK FIXX \nBenna's Cafe \nEssene Market & Caf\u00e9 \nThe Juice Merchant \nTrolley Car Diner",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nLuhv Vegan Deli \\n\nVedge \\n\nHey Hummus \\n\nBenna's Cafe \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nThe Juice Merchant \\n",
+            "Monster Vegan \nLuvh Vegan Deli \nHey Hummus \nThe Juice Merchant \nBenna's Cafe \nVedge \nThe QUICK FIXX \nGreen Leafs & Bananas \nEssene Market & Caf\u00e9 \nGran Caffe L'Aquila"
+        ]
+    }
+}

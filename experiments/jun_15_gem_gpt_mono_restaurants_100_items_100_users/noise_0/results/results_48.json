@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any type of Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see seafood options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an American restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you want to try Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Is a dive bar with burgers interesting?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Sang Kee Peking Duck House\n2. Dim Sum House\n3. Chinatown Kitchen\n4. Ristorante La Buca\n5. Malbec Argentine Steakhouse\n6. Parc\n7. Golden Triangle\n8. The Continental Restaurant and Martini Bar\n9. Audrey Claire\n10. CinCin Restaurant",
+            " Mood Indian Restaurant\nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFederal Donuts \nThe Tasty Toast \nLe Pain Quotidien \nHeritage \nCinCin Restaurant",
+            "Zuzu's Kitchen \\n\nGrain Exchange \\n\nVeda - Modern Indian Bistro \\n\nFederal Donuts \\n\nBloomsday Cafe \\n\nCanton 11 \\n\nThe Green Line Cafe \\n\nWawa \\n\nParc \\n\nCafe L'Aube",
+            "Five Guys \\n\nMisconduct Tavern \\n\nThe Tavern Restaurant \\n\nBlackbird Pizzeria \\n\nLisa's Kitchen \\n\nFranklin's \\n\nChestnut 7 \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nJack's Firehouse",
+            "The Blue Duck \nFranklin's \nLisa's Kitchen \nFederal Donuts \nFive Guys \nMisconduct Tavern \nWishbone \nJack's Firehouse \nLuvh Vegan Deli \nLove & Honey Fried Chicken",
+            "Lisa's Kitchen \\n\nFive Guys \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nFranklin's \\n\nWishbone \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nJD Mcgillicuddy's Manayunk",
+            "The Blue Duck \nFranklin's \nWishbone \nLisa's Kitchen \nThe Tavern Restaurant \nFive Guys \nSpread Bagelry \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance",
+            "Lisa's Kitchen \\n\nFive Guys \\n\nRoy-Pitz Barrel House \\n\nMisconduct Tavern \\n\nFranklin's \\n\nWawa \\n\nMacaroni's Restaurant \\n\nFounding Fathers Sports Bar & Grill \\n\nWishbone \\n\nLucky's Last Chance",
+            "Five Guys \\n\nWishbone \\n\nThe Blue Duck \\n\nFranklin's \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nMcMenamin's Tavern \\n\nCJ & Eck's",
+            "The El Bar \nLisa's Kitchen \nFranklin's \nJack's Firehouse \nWishbone \nMisconduct Tavern \nFive Guys \nFederal Donuts \nThe Blue Duck \nThe Tavern Restaurant"
+        ]
+    }
+}

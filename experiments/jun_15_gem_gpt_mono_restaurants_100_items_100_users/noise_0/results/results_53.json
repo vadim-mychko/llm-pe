@@ -1,0 +1,58 @@
+{
+    "53": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves traditional American breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in bagels or sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bagel place or a sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves sandwiches too?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a coffee shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves food in addition to sandwiches and coffee?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves coffee and sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that also serves bagels?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "The Tasty Toast \nBenna's Cafe \nThe Fresh Grocer - Progress Plaza \nBloomsday Cafe \nGran Caffe L'Aquila \nSpread Bagelry \nTrolley Car Diner \nBetty's Speakeasy \nParc \nPearl's Oyster Bar",
+            "- The Tasty Toast \n- The Milk House \n- The Grill  Smuckers \n- Bloomsday Cafe \n- Benna's Cafe \n- The Blue Duck \n- Pearl's Oyster Bar \n- Trolley Car Diner \n- The Green Line Cafe \n- Spread Bagelry",
+            " The Blue Duck \nThe Tasty Toast \nThe Green Line Cafe \nFederal Donuts \nSpread Bagelry \nGreen Leafs & Bananas \nBetty's Speakeasy \nTrolley Car Diner \nLisa's Kitchen \nJack's Firehouse",
+            "The Tasty Toast \\n\nTrolley Car Diner \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nZuzu's Kitchen \\n\nThe Juice Merchant \\n\nThe QUICK FIXX \\n\nFederal Donuts \\n\nPrimoHoagies",
+            "The Juice Merchant \nThe Tasty Toast \nThe Green Line Cafe \nBetty's Speakeasy \nGreen Leafs & Bananas \nSpread Bagelry \nWawa \nTrolley Car Diner \nPrimoHoagies \nLisa's Kitchen",
+            " Zuzu's Kitchen \nThe Blue Duck \nThe Tasty Toast \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nTrolley Car Diner \nThe Fresh Grocer - Progress Plaza \nBloomsday Cafe \nRival Bros Coffee",
+            "The Tasty Toast \\n\nThe Grill  Smuckers \\n\nTrolley Car Diner \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nRival Bros Coffee \\n\nBetty's Speakeasy \\n\nMugshots Coffeehouse \\n\nBloomsday Cafe \\n\nThe Fresh Grocer - Progress Plaza",
+            " The Green Line Cafe \n Spread Bagelry \n Betty's Speakeasy \n Trolley Car Diner \n The Cheesecake Factory \n Audrey Claire \n Parc \n Rival Bros Coffee \n Bloomsday Cafe \n Mugshots Coffeehouse",
+            "The Green Line Cafe\nSpread Bagelry\nThe FIXX\nTrolley Car Diner\nGreen Leafs & Bananas\nBetty's Speakeasy\nJD Mcgillicuddy's Manayunk\nFranklin's\nJack's Firehouse\nLisa's Kitchen",
+            "The Green Line Cafe \\n\nThe QUICK FIXX \\n\nBistro SouthEast \\n\nPrimoHoagies \\n\nTrolley Car Diner \\n\nGreen Leafs & Bananas \\n\nThe Cheesecake Factory \\n\nSpread Bagelry \\n\nCafe L'Aube \\n\nWawa"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Do you like salty snacks?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef or fish?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you prefer pork or chicken?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like deep-fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cottage cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like savory soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Fries with gravy and bacon\n Very low-fat assortment of shredded vegetables with seasoning\n Low fat baked breakfast pie made with sausage (pork) and apples\n Low fat diced baked or fried potatoes\n Low fat sweet potato fries made with cajun seasoning\n Low fat smoothies made with greek yogurt, and pineapple\n Creamy base with dill flavoring, eggs, and noodles\n Low sugar applesauce cupcakes\n Low-fat coconut alcohol-free cocktail\n Sugar-free peanut butter cookies\n'''",
+            " Large portion fries with gravy and bacon\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat sweet potato fries made with cajun seasoning\nFried shrimp and scallops\nCheese and olive appetizer made to look like an eyeball\nAlmonds coated with butter and salt\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nItalian salad made from romain lettuce, artichokes, and tomatoes",
+            "Large portion fries with gravy and bacon \\n\nCheese with crackers \\n\nLow fat diced baked or fried potatoes \\n\nMozzarella cheese sticks with marinara sauce \\n\nMeatballs made with ground beef and ground pork \\n\nBacon bits \\n\nLow fat vegetarian chili \\n\nCalcium-rich soup made with broccoli and beans \\n\nSandwich made with: grilled / broiled marinated chicken \\n\nThai salad made with carrots, daikon, and red onion",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Cheese and crackers\n3. Almonds coated with butter and salt\n4. Soup made with ground turkey that is low fat, high carb\n5. Mozzarella dip recipe\n6. Soup made with shrimp, onions, and scallops\n7. Chicken breasts stuffed with bacon and mozzarella\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar",
+            "1. Large portion fries with gravy and bacon\n2. Low fat diced baked or fried potatoes\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Mozzarella dip recipe\n5. Cheese and crackers\n6. Roasted almonds\n7. Almonds coated with butter and salt\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Low fat breakfast pie made with sausage (pork) and apples",
+            "Large portion fries with gravy and bacon\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nLow sugar applesauce cupcakes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBaked breakfast bars made with nuts and seeds\n****\nCheese and olive appetizer made to look like an eyeball\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Poke of tofu, mushroom and tomatoes\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Assorted cheese soup with chicken\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Spaghetti noodles with mussels, anchovy fillets, and capers",
+            "1. Large portion fries with gravy and bacon\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Cheese with crackers\n5. Roasted almonds\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Low fat assorted fruit dessert\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Soup made with ground turkey that is low fat, high carb\n10. Soup made with onions, carrots, and celery ribs\n'''",
+            "1. **Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs**\n2. **Very low-fat assortment of shredded vegetables with seasoning**\n3. **South African vegetable curry flavoured with curry powder and ground tumeric**\n4. **Lightly spicy chili recipe**\n5. **Soup made with cabbage, carrots, potatoes, and onions**\n6. **Creamy base with dill flavoring, eggs, and noodles**\n7. **Soup made with ground turkey that is low fat, high carb**\n8. **Assorted cheese soup with chicken**\n9. **Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce**\n10. **Homemade soup with chicken, noodles, and spices**",
+            "1. Taiwanese deep fried crispy chicken cutlets\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Vegetable curry flavoured with curry powder and ground tumeric\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Roasted almonds\n6. Veggie stir-fry\n7. Cheese with crackers\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Low-fat diced baked or fried potatoes\n10. No-spicy hot pot"
+        ]
+    }
+}

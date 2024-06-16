@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you searching for a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you searching for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any type of Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for something Korean?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Thai restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Japanese restaurant?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Tasty Toast \n Le Pain Quotidien \n A Tutti, Ristorante Italiano \n Castellino's \n canton 11 \n Macaroni's Restaurant",
+            "1. Daleng Restaurant \\n\n2. Zuzu's Kitchen \\n\n3. The Juice Merchant \\n\n4. Golden Triangle \\n\n5. PrimoHoagies \\n\n6. CinCin Restaurant \\n\n7. The Tasty Toast \\n\n8. Federal Donuts \\n\n9. Sang Kee Peking Duck House \\n\n10. Green Leafs & Bananas\n",
+            "1. Daleng Restaurant\n2. Golden Triangle\n3. Izumi\n4. PrimoHoagies\n5. Evan's Pizza\n6. Blackbird Pizzeria\n7. Lisa's Kitchen\n8. Chestnut 7\n9. Green Leafs & Bananas\n10. The Green Line Cafe",
+            "Golden Triangle \nFuji Mountain \nLacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nKokopelli Restaurant & Tequila Bar \nMiga Korean BBQ & Sushi \nRistorante La Buca \nBaan Thai \nCanton 11 \nSang Kee Peking Duck House",
+            "1. Golden Triangle\n2. Daleng Restaurant\n3. Lacroix Restaurant at The Rittenhouse\n4. CinCin Restaurant\n5. Bistro SouthEast\n6. Fuji Mountain\n7. Canton 11\n8. Miga Korean BBQ & Sushi\n9. Tu's Tea & Banh Mi South Philly\n10. Oishii Pok\u00e9",
+            " Daleng Restaurant \\n\nGolden Triangle \\n\nBistro SouthEast \\n\nIzumi \\n\nA Tutti, Ristorante Italiano \\n\nBaan Thai \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nOishii Pok\u00e9",
+            " Golden Triangle \nDaleng Restaurant \nCinCin Restaurant \nBistro SouthEast \nBaan Thai \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nEvan's Pizza \nBlackbird Pizzeria",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nBaan Thai \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nTu's Tea & Banh Mi South Philly \\n\nNew York Gyro Truck \\n\nOishii Pok\u00e9",
+            "Golden Triangle \nDaleng Restaurant \nCanton 11 \nMiga Korean BBQ & Sushi \nBistro SouthEast \nTu's Tea & Banh Mi South Philly \nBaan Thai \nDim Sum House \nOishii Pok\u00e9 \nAudrey Claire",
+            "Izumi \nMiga Korean BBQ & Sushi \nFuji Mountain \nCanton 11 \nOishii Pok\u00e9 \nJake's & Cooper's Wine Bar & Wine Shop \nGran Caffe L'Aquila \nNorth Bowl \nLucky's Last Chance \nKissaki Sushi Bar & Restaurant"
+        ]
+    }
+}

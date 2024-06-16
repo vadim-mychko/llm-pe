@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Homemade soup with chicken, noodles, and spices\n2. Soup made with ground turkey that is low fat, high carb\n3. Simple creamy oyster soup\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Soup made with onions, carrots, and celery ribs\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with vegetables and chicken\n8. Soup made with shrimp, onions, and scallops\n9. Low fat sweet potato fries made with cajun seasoning\n10. Low-fat coconut alcohol-free cocktail",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nPeppermint chocolate bonbon\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPeppermint chocolate bonbon\nPork chops glazed with milk and cooked without nuts\nMozzarella dip recipe\nAlmonds coated with butter and salt\nMeatballs made with ground beef and ground pork\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "****\nSoup made with cabbage, carrots, potatoes, and onions\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            " Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow sugar applesauce cupcakes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nBaked mozzarella cheese sticks with marinara sauce",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeach cobbler dessert containing whole wheat flour\nGluten-free, egg-free, dairy-free, nut-free fudge\nBanana bread made with whole wheat flour and walnuts\nStrawberry and ice cream milkshake\nLow fat assorted fruit dessert",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Peppermint chocolate bonbon\n8. Peach cobbler dessert containing whole wheat flour\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nPork chops glazed with milk and cooked without nuts\nPeppermint chocolate bonbon\nAlmonds coated with butter and salt\nRoasted almonds\n****",
+            "1. Low sugar applesauce cupcakes\n2. Chocolate and orange-flavoured smoothie\n3. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n4. Norway cake with lingonberry and whipped cream layers\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n8. Sugar-free peanut butter cookies\n9. Fruit juice and banana smoothie\n10. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n'''",
+            " Chocolate and orange-flavoured smoothie\nLow sugar applesauce cupcakes\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nNorwegian cake with lingonberry and whipped cream layers\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nFruit juice and banana smoothie"
+        ]
+    }
+}

@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=1kmovies
+#SBATCH --job-name=david2
 #SBATCH --gres=gpu:1
 #SBATCH -c 2
 #SBATCH --mem=10G
@@ -13,7 +13,8 @@ module load pytorch2.0-cuda11.8-python3.9
 module load cuda-11.8
 source activate llm-pe
 
+export GEMINI_API_KEY='AIzaSyCof5Div6ZHdUcUnwNEet8mbFW28hVhUgQ'
+
 # (while true; do nvidia-smi; top -b -n 1 | head -20; sleep 10; done) &
 # srun accelerate launch /h/davaus80/McIntoshLab-MedBind/david_efficiency_test.py
-srun /h/davaus80/.conda/envs/llm-pe/bin/python3 /h/davaus80/llm-pe/experiment_manager.py -exp_dir=/h/davaus80/llm-pe/experiments/apr_17_movies_1000_items_10_users
-# wait
+srun /h/davaus80/.conda/envs/llm-pe/bin/python3 /h/davaus80/llm-pe/experiment_manager.py -exp_dir=/h/davaus80/llm-pe/experiments/jun_15_gem_gpt_mono_recipes_100_items_100_users

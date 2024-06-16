@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for any kind of Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want something with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for Italian pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a casual pizza place?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in anything vegetarian?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try a vegan pizza place?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you had monster vegan before?",
+                "response": "no"
+            },
+            {
+                "query": "Is Monster Vegan suitable for you?",
+                "response": "yes"
+            },
+            {
+                "query": "Is Monster Vegan in Northern Liberties okay for you?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. PrimoHoagies\n6. Daleng Restaurant\n7. Federal Donuts\n8. Mong Kok Station\n9. Le Pain Quotidien\n10. A Tutti, Ristorante Italiano",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Germantown Garden \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Mong Kok Station \n7. Le Pain Quotidien \n8. Golden Triangle \n9. Zuzu's Kitchen \n10. PrimoHoagies",
+            "1. Zuzu's Kitchen \n2. A Tutti, Ristorante Italiano \n3. Fiore Fine Foods \n4. Evan's Pizza \n5. Blackbird Pizzeria \n6. The QUICK FIXX \n7. Green Leafs & Bananas \n8. Sabrina's Cafe \n9. Betty's Speakeasy \n10. Chestnut 7",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nFederal Donuts \nThe Blue Duck \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nEvan's Pizza \nThe QUICK FIXX \nBlackbird Pizzeria \nChestnut 7",
+            "A Tutti, Ristorante Italiano\nZuzu's Kitchen\nRoy-Pitz Barrel House\nThe Blue Duck\nJake's & Cooper's Wine Bar & Wine Shop\nFiore Fine Foods\nThe QUICK FIXX\nEvan's Pizza\nBlackbird Pizzeria\nPizza Shacka\nChestnut 7",
+            " The QUICK FIXX \\n\nA Tutti, Ristorante Italiano \\n\nRoy-Pitz Barrel House \\n\nMystic Pizza \\n\nPizzeria Stella \\n\nDelco Steaks & Pizza \\n\nPizza D'Oro \\n\nSlice Pizzeria \\n\nThe Crust Pizzeria \\n\nZio's Wood Fired Pizza & Sports Bar",
+            "- The QUICK FIXX\n- Blackbird Pizzeria\n- A Tutti, Ristorante Italiano\n- Fiore Fine Foods\n- The Green Line Cafe\n- Evan's Pizza\n- Macaroni's Restaurant\n- Zuzu's Kitchen\n- Chestnut 7\n- Roy-Pitz Barrel House",
+            "Monster Vegan \nThe QUICK FIXX \nBlackbird Pizzeria \nRoy-Pitz Barrel House \nZuzu's Kitchen \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nThe Tasty Toast \nPrimaHoagies \nFiore Fine Foods\n",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nBlackbird Pizzeria \\n\nZuzu's Kitchen \\n\nPrimoHoagies \\n\nA Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nRoy-Pitz Barrel House \\n\nChestnut 7 \\n\nFiore Fine Foods",
+            "Monster Vegan\nThe QUICK FIXX\nBlackbird Pizzeria \nThe Green Line Cafe \nSpread Bagelry \nBetty's Speakeasy \nRival Bros Coffee \nGran Caffe L'Aquila \nLove & Honey Fried Chicken \nOteri's Italian Bakery | North 5th St \nAudrey Claire"
+        ]
+    }
+}

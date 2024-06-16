@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Do you like American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you consider potato dishes to be a part of your daily diet?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit juices?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy products?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet food items?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Creamy oyster soup\n****\n Chowder soup made by a chef\n****\n Fried shrimp and scallops\n****\n Cheese and crackers\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Very low-fat assortment of shredded vegetables with seasoning",
+            "****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSpicy chili recipe\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nFried shrimp and scallops\n****\nShredded barbecued pork shoulder\n****\nPeppermint chocolate bonbon\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            " Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBaked spinach quiche containing bacon\nChicken cooked and flavored with lemon sauce\nShredded barbecued pork shoulder\nGrilled salmon seasoned with salt and pepper\nPork chops glazed with milk and cooked without nuts\nCalcium-rich soup made with broccoli and beans\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Smoked pork chops\n4. Beijing duck with steamed buns\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Spicy pepper sauce\n7. Roasted almonds\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n10. Fried shrimp and scallops\n''''",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Spicy tofu, mushroom and tomatoes poke\n4. Grilled salmon seasoned with salt and pepper\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Mildly spicy chili recipe\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Korea soup containing beef brisket and flavoured with red pepper powder\n9. Hot pot that is not spicy\n10. Baked salmon dessert pie filled with a sweet pumpkin spice based custard",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nChopped French duck confit preserved by duck oil\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMildly spicy chili recipe\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nNorwegian cake with lingonberry and whipped cream layers",
+            "1. Queso made from melted cheese and chili peppers\n2. Mildly spicy chili recipe\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n9. Norwegian cake with lingonberry and whipped cream layers\n10. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "1. Mildly spicy chili recipe\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Peach cobbler dessert containing whole wheat flour\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with onions, carrots, and celery ribs",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Mildly spicy chili recipe\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Digestions-friendly waffles\n6. Pulled pork shoulder for Chinese dragon boat festival\n7. Spicy Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Chocolate and orange-flavoured smoothie\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Soup made with cabbage, carrots, potatoes, and onions",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Soup made with shrimp, onions, and scallops\n5. Fried shrimp and scallops\n6. Polish sausage with fermented cabbage\n7. Meatballs made with ground beef and ground pork\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar"
+        ]
+    }
+}

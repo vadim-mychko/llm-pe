@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with a dance floor?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dive bars?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to visit a place that's perfect for watching sports?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere with live music?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Daleng Restaurant \nBistro SouthEast \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nVeda - Modern Indian Bistro \nMiga Korean BBQ & Sushi \nJack's Firehouse \nOishii Pok\u00e9 \nThe Blue Duck \nPearl's Oyster Bar",
+            "Golden Triangle \nDaleng Restaurant \nBloomsday Cafe \nRoy-Pitz Barrel House \nVedge \nVegan Monster \nGreen Leafs & Bananas \nNorth Bowl \nMad River Manayunk \nBlackbird Pizzeria",
+            "- Pearl's Oyster Bar\n- Federal Donuts\n- Yard House\n- Wishbone\n- Parc\n- Ristorante La Buca\n- Misconduct Tavern\n- The Tavern Restaurant\n- The El Bar\n- Mad River Manayunk",
+            "Paddy's Old City Pub \\n\nFederal Donuts \\n\nMisconduct Tavern \\n\nThe Tavern Restaurant \\n\nWishbone \\n\nMad River Manayunk \\n\nGrain Exchange \\n\nJD Mcgillicuddy's Manayunk \\n\nJack's Firehouse \\n\nFranklin's",
+            "Fuji Mountain \nLucky's Last Chance \nFranklin's \nThe El Bar \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk \nMad River Manayunk \nThe Tavern Restaurant \nGermantown Garden \nPaddy's Old City Pub",
+            "1. Lucky's Last Chance\n2. The El Bar\n3. Paddy's Old City Pub\n4. Mad River Manayunk\n5. Franklin's\n6. CJ & Eck's\n7. JD Mcgillicuddy's Manayunk\n8. Founding Fathers Sports Bar & Grill\n9. Tavern On the Hill\n10. Misconduct Tavern",
+            "Paddy's Old City Pub\nMad River Manayunk\nThe El Bar\nBratwurst \nJD Mcgillicuddy's Manayunk\nFranklin's\nWishbone\nJack's Firehouse\nThe Tavern Restaurant\nMisconduct Tavern",
+            "Misconduct Tavern \nJack's Firehouse \nFranklin's \nWishbone \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nChestnut 7 \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nMad River Manayunk",
+            "1. The El Bar\n2. Jack's Firehouse \n3. Franklin's \n4. JD Mcgillicuddy's Manayunk \n5. Founding Fathers Sports Bar & Grill \n6. CJ & Eck's \n7. Chestnut 7\n8. Paddy's Old City Pub \n9. Mad River Manayunk \n10. Misconduct Tavern",
+            "McMenamin's Tavern \nCJ & Eck's \nJack's Firehouse \nThe El Bar \nFranklin's \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nPaddy's Old City Pub \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk"
+        ]
+    }
+}

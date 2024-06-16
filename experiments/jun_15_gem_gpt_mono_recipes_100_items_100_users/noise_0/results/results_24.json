@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetable salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy or tangy dressings on your salads?",
+                "response": "i cannot answer the query as it is not related to the item description."
+            }
+        ],
+        "rec_items": [
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nBaked breakfast bars made with nuts and seeds\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nLow fat smoothies made with greek yogurt, and pineapple\nPeach cobbler dessert containing whole wheat flour\nBanana bread made with whole wheat flour and walnuts\n'''",
+            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat diced baked or fried potatoes\n4. Low fat assorted fruit dessert\n5. Smoothies made from fruit juice and bananas\n6. Low-sugar applesauce cupcakes\n7. Sandwich made with: grilled / broiled marinated chicken\n8. Strawberry milkshake made with fresh strawberries and ice cream\n9. Sugar-free peanut butter cookies\n10. Oatmeal cookie flavoured with apple and cinnamon",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nRoasted almonds\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSimple creamy oyster soup\n****\nSoup made with vegetables and chicken\n****\nCalcium-rich soup made with broccoli and beans\n****\nSoup made with onions, carrots, and celery ribs\n****\nLarge portion fries with gravy and bacon\n****\nFried shrimp and scallops\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nBaked spinach quiche containing bacon\n****\nSpinach and cheese lasagna\n****\nChicken cooked and flavored with lemon sauce\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nPeppermint chocolate bonbon\n****\nPork chops glazed with milk and cooked without nuts\n****\nMushy peas that are soft\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nBaked breakfast bars made with nuts and seeds\n****\nSmoked ham steak\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nMildly spicy chili recipe\n****\nHomestyle falafel with garlic tahini sauce\n****\nPork shoulder steak\n****\nLow fat diced baked or fried potatoes\n****\nHot pot that is not spicy\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nOatmeal cookies\n****\nBeef and potato stew\n****\nBanana bread made with whole wheat flour and walnuts\n****\nChicken noodle soup with vegetables\n****\nPork and bean soup\n****\nHomemade low fat veggie burger with bun and toppings\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nCream cheese spread\n****\nVegetarian sushi\n****\nSalmon and tuna stuffed bell peppers\n****\nVery low fat vegetable wrap recipe\n****\nBaked tilapia with lemon and dill\n****\nAssorted cheese soup with chicken\n****\nLow fat coconut alcohol-free cocktail\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled pork chops\n****\nJam made from blackberries, lemon juice, and sugar\n****\nHomemade hummus\n****\nStrawberry banana smoothie\n****\nVegetarian shish kebabs\n****\nEggless sauerkraut cake\n****\nMushrooms in garlic and olive oil\n****\nGarlic bread\n****\nGluten-free breakfast casserole\n****",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Roasted almonds\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Grilled salmon seasoned with salt and pepper\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Vegetable soup with a beer broth\n10. Mozzarella dip recipe",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nHigh protein skillet with rice and vegetables \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nLarge portion fries with gravy and bacon \\n\nSpicy fried tofu \\n\nCreamy base with dill flavoring, eggs, and noodles \\n\nChopped French duck confit preserved by duck oil \\n\nLow sugar applesauce cupcakes",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Sweet salad made with corn and three types of beans\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Classic salad with creamy caesar dressing and croutons\n8. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n9. Chopped French duck confit preserved by duck oil\n10. Roasted almonds\n'''",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSweet salad made with corn and three types of beans\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nClassic salad with creamy caesar dressing and croutons\nMildly spicy chili recipe\nAssorted cheese soup with chicken\n'''",
+            "1. Sweet salad made with corn and three types of beans\n2. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Classic salad with creamy caesar dressing and croutons\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Assorted cheese soup with chicken",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVegetable salads\nVery low-fat assortment of shredded vegetables with seasoning\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSweet salad made with corn and three types of beans\nMildly spicy chili recipe\nClassic salad with creamy caesar dressing and croutons",
+            "Vegetable salad made from assorted shredded vegetables with seasoning\nSweet salad using corn and three types of beans\nChinese vegetable curry flavoured with curry powder and ground tumeric\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVegetable salad made from romaine lettuce, artichokes, and tomatoes\nItalian salad made from romain lettuce, artichokes, and tomatoes\nMixed salad using oranges, strawberries, blackberries, grapes, and pears\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made from vegetables and chicken\nSoup made from ground turkey that is low fat, high carb"
+        ]
+    }
+}

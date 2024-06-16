@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in juice bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant\n2. The Juice Merchant\n3. Golden Triangle\n4. Water Works Restaurant & Lounge\n5. Lacroix Restaurant at The Rittenhouse\n6. Heritage\n7. Veda - Modern Indian Bistro\n8. Bistro SouthEast\n9. Baan Thai\n10. Canton 11",
+            "Fuji Mountain \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nHeritage \nKokopelli Restaurant & Tequila Bar \nVeda - Modern Indian Bistro \nPearl's Oyster Bar \nAudrey Claire \nThe Continental Restaurant and Martini Bar \nOteri's Italian Bakery | North 5th St",
+            "Daleng Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nMong Kok Station \\n\nGrain Exchange \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nMiga Korean BBQ & Sushi \\n\nDim Sum House \\n\nBistro SouthEast",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Lacroix Restaurant at The Rittenhouse\n4. Water Works Restaurant & Lounge\n5. The Tasty Toast\n6. Le Pain Quotidien\n7. Federal Donuts\n8. Heritage\n9. Mong Kok Station\n10. The Milk House",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Lacroix Restaurant at The Rittenhouse\n4. Grain Exchange\n5. Daleng Restaurant\n6. Misconduct Tavern\n7. The QUICK FIXX\n8. Green Leafs & Bananas\n9. Betty's Speakeasy\n10. Chestnut 7",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Germantown Garden \n4. The Juice Merchant \n5. Daleng Restaurant \n6. Heritage \n7. The Tasty Toast \n8. Bistro SouthEast \n9. Canton 11 \n10. Tavern On the Hill",
+            "Water Works Restaurant & Lounge \nGolden Triangle \nThe Juice Merchant \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nFederal Donuts \nGrain Exchange \nMong Kok Station \nPearl's Oyster Bar \nThe Green Line Cafe",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast"
+        ]
+    }
+}

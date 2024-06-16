@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like eating eggs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- High protein skillet with rice and vegetables\n- Grilled salmon seasoned with salt and pepper\n- Poke of tofu, mushroom and tomatoes\n- Low fat baked breakfast pie made with sausage (pork) and apples\n- Chicken breasts stuffed with bacon and mozzarella\n- Low fat sweet potato fries made with cajun seasoning\n- Very low-fat assortment of shredded vegetables with seasoning\n- Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Oatmeal",
+            "Chicken breasts stuffed with bacon and mozzarella \\n\n Grilled salmon seasoned with salt and pepper \\n\n Salmon fillets grilled in a pan with herbs and spices \\n\n Salmon roasted with olive oil, chives, and tarragon leaves \\n\n Turkey meatballs \\n\n Chicken cooked and flavored with lemon sauce \\n\n Turkey, bacon, chicken broth, seasoned noodles \\n\n Spaghetti noodles with mussels, anchovy fillets, and capers \\n\n Chicken sandwich made with: grilled / broiled marinated chicken \\n\n Spanish rice with chicken breast",
+            " Grilled salmon seasoned with salt and pepper \\n\nSalmon fillets grilled in a pan with herbs and spices \\n\nChicken breasts stuffed with bacon and mozzarella \\n\nLow sugar applesauce cupcakes \\n\nChicken cooked and flavored with lemon sauce \\n\nRoasted almonds \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nBerry cobbler that uses frozen mixed berries \\n\nPeach cobbler dessert containing whole wheat flour \\n\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nChicken\nBaked breakfast bars made with nuts and seeds\nPoke of tofu, mushroom and tomatoes\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. Rotisserie chicken\n7. Baked breakfast bars made with nuts and seeds\n8. Chicken cooked and flavored with lemon sauce\n9. Peach cobbler dessert containing whole wheat flour\n10. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n''''",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Chicken cooked and flavored with lemon sauce\n3. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Baked spinach quiche containing bacon\n8. Mozzarella dip recipe\n9. Spanish rice with chicken breast\n10. Pepperoni pizza made with slices of pepperoni, pizza dough, tomato sauce, whole wheat dough, cheddar cheese, mozzarella cheese\n'''",
+            "1. Chicken cooked and flavored with lemon sauce\n2. Queso made from melted cheese and chili peppers\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Baked breakfast pie made with sausage (pork) and apples\n5. Baked breakfast bars made with nuts and seeds\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Shredded barbecued pork shoulder\n8. Chicken cooked and flavored with lemon sauce\n9. Grilled salmon seasoned with salt and pepper\n10. Salmon fillets grilled in a pan with herbs and spices",
+            "1. Low fat assorted fruit dessert\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Chicken cooked and flavored with lemon sauce\n4. Baked egg, bean, and cheese burrito with jalapeno peppers\n5. Eggless sauerkraut cake\n6. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n7. Chicken breasts stuffed with bacon and mozzarella\n8. Chopped French duck confit preserved by duck oil\n9. Stuffed egg\n10. Low fat sweet potato fries made with cajun seasoning",
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nBaked breakfast bars made with nuts and seeds\nPork chops glazed with milk and cooked without nuts\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork",
+            " Grilled salmon seasoned with salt and pepper \nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nBaked spinach quiche containing bacon\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nChicken cooked and flavored with lemon sauce\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nBanana bread made with whole wheat flour and walnuts"
+        ]
+    }
+}

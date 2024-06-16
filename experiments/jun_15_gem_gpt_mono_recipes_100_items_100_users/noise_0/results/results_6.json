@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer broiled or fried dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you dishes with noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meats?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Roasted almonds\n7. Queso made from melted cheese and chili peppers\n8. Cheese and crackers\n9. Mozzarella dip recipe\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein skillet with rice and vegetables\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat sweet potato fries made with cajun seasoning\n****",
+            " Grilled salmon seasoned with salt and pepper \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nChicken cooked and flavored with lemon sauce \\n\nStir-fried tofu, noodles and vegetables Bento \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nHomemade soup with chicken, noodles, and spices \\n\nSpicy spaghetti with ground beef, bacon, and cheddar cheese \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese \\n\nHigh protein skillet with rice and vegetables",
+            " Spaghetti noodles with mussels, anchovy fillets, and capers\n****\nCheese and vegetable soup with a beer broth\n****\nSoup made with shrimp, onions, and scallops\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nFried shrimp and scallops\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCheese and olive appetizer made to look like an eyeball\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nBaked spinach quiche containing bacon",
+            "****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n High protein skillet with rice and vegetables\n****\n Large portion fries with gravy and bacon\n****\n Beef stew made with beef, carrots and potatoes\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Chopped French duck confit preserved by duck oil\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Low fat shredded vegetables with seasoning\n****",
+            "Shredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nMeatballs made with ground beef and ground pork\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nHigh protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n''''",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Beef stew made with beef, carrots and potatoes\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Shredded barbecued pork shoulder\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Pork chops glazed with milk and cooked without nuts\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Roast turkey with plum sauce\n9. Polish sausage with fermented cabbage\n10. Meatballs made with ground beef and ground pork",
+            "Beef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Pepperment chocolate bonbon\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Chili recipe\n9. Barbecue beef tips\n10. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\n'''",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Spanish rice with chicken breast\n9. Roasted almonds\n10. Hot pot that is not spicy"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a bar with your Italian meal?",
+                "response": "yes"
+            },
+            {
+                "query": "How about a place that serves pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in delivery?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves sandwiches as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves salads as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a cocktail bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves desserts as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves pasta as well?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nHeritage \nKokopelli Restaurant & Tequila Bar \nVeda - Modern Indian Bistro \nCanton 11 \nMiga Korean BBQ & Sushi \nThe Fresh Grocer - Progress Plaza \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9",
+            "A Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nOlive Garden Italian Restaurant \\n\nThe QUICK FIXX \\n\nPrimoHoagies \\n\nFiore Fine Foods \\n\nRistorante La Buca \\n\nLaCroix Restaurant at The Rittenhouse",
+            "Ristorante La Buca \\n\nMacaroni's Restaurant \\n\nA Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nTalutto's Authentic Italian Food \\n\nCastellino's \\n\nOlive Garden Italian Restaurant \\n\nThe QUICK FIXX \\n\nThe Green Line Cafe \\n\nOteri's Italian Bakery | North 5th St",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods \nCinCin Restaurant \nTalluto's Authentic Italian Food \nRistorante La Buca \nMacaroni's Restaurant \nPrimoHoagies \nThe QUICK FIXX",
+            "1. A Tutti, Ristorante Italiano \n2. Olive Garden Italian Restaurant \n3. Macaroni's Restaurant \n4. Fiore Fine Foods \n5. Ristorante La Buca \n6. Parc \n7. Gran Caffe L'Aquila \n8. Blackbird Pizzeria \n9. Lucky's Last Chance \n10. Sabrina's Cafe \n11. Audrey Claire",
+            "A Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nOlive Garden Italian Restaurant \\n\nPrimoHoagies \\n\nThe QUICK FIXX \\n\nChestnut 7 \\n\nSpread Bagelry \\n\nFiore Fine Foods \\n\nEvan's Pizza \\n\nRival Bros Coffee",
+            "CinCin Restaurant \nRistorante La Buca \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nCastellino's \nPrimoHoagies \nThe QUICK FIXX \nThe Green Line Cafe \nGran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nZuzu's Kitchen \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nChestnut 7 \\n\nSpread Bagelry \\n\nFederal Donuts \\n\nFiore Fine Foods \\n\nEvan's Pizza",
+            "1. A Tutti, Ristorante Italiano \n2. Chestnut 7 \n3. Fiore Fine Foods \n4. Macaroni's Restaurant \n5. Evan's Pizza \n6. The QUICK FIXX \n7. Betty's Speakeasy \n8. Castellino's \n9. Pronto Pizza \n10. Il Pittore",
+            "A Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nFederal Donuts \\n\nZazu's Kitchen \\n\nThe QUICK FIXX \\n\nGran Caffe L'Aquila \\n\nJack's Firehouse \\n\nTrolley Car Diner"
+        ]
+    }
+}

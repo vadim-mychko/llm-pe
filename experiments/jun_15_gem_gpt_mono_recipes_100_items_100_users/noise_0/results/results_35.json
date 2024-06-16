@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meat-based soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetable soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like low fat soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups with carrots?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups with potatoes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\n****",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHot pot that is not spicy\nHomemade soup with chicken, noodles, and spices",
+            "****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n 2-ingredient yogurt from scratch\n****\n High protein skillet with rice and vegetables\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Soup made with onions, carrots, and celery ribs\n****\n Simple creamy oyster soup\n****\n Vegetable and chicken soup\n****\n Soup made with broccoli and beans\n****\n Calcium-rich soup made with broccoli and beans)",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Low fat soup made with ground turkey that is low fat, high carb\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Low fat sweet potato fries made with cajun seasoning\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Soup made with onions, carrots, and celery ribs\n8. Assorted cheese soup with chicken\n9. Simple creamy oyster soup\n10. Soup made with vegetables and chicken\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Soup made with ground turkey that is low fat, high carb\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Soup made with shrimp, onions, and scallops\n6. Soup made from onions, carrots, and celery ribs\n7. Simple creamy oyster soup\n8. Soup made with vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with ground turkey that is low fat, high carb\n4. Soup made with shrimp, onions, and scallops\n5. Vegetable curry flavoured with curry powder and ground tumeric\n6. Assorted cheese soup with chicken\n7. Soup made from onions, carrots, and celery ribs\n8. Simple creamy oyster soup\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Soup made with onions, carrots, and celery ribs\n7. Simple creamy oyster soup\n8. Soup made with vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSoup made from onions, carrots, and celery ribs\n****\nCalcium-rich soup made with broccoli and beans\n****\nCheese and vegetable soup with a beer broth\n****\nHomemade soup with chicken, noodles, and spices\n****\nSmoothie made from banana puree with milk\n****\nLow fat assorted fruit dessert\n****\nMushy peas that are soft\n****",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made from onions, carrots, and celery ribs\n4. Vegetarian Option: Very low-fat assortment of shredded vegetables with seasoning\n5. Healthy Option: Soup made with vegetables and chicken\n6. Soup made with shrimp, onions, and scallops\n7. Calcium-rich soup made with broccoli and beans\n8. Cheese and vegetable soup with a beer broth\n9. Vegetarian Option: Creamy base with dill flavoring, eggs, and noodles\n10. Vegetarian Option: Assorted cheese soup with chicken",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Soup made with onions, carrots, and celery ribs\n5. Low fat assorted fruit dessert\n6. Low fat diced baked or fried potatoes\n7. Veggie stir fry\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Soup made with vegetables and chicken\n10. Veggie burger\n"
+        ]
+    }
+}

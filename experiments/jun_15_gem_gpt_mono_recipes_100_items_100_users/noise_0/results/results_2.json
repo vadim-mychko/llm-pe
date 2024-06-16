@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer fruits or vegetables?",
+                "response": "vegetables"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer baked or fried food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy textures?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. High protein skillet with rice and vegetables\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Soup made with vegetables and chicken\n7. Soup made with shrimp, onions, and scallops\n8. Soup made with ground turkey that is low fat, high carb\n9. Assorted cheese soup with chicken\n10. South African vegetable curry flavoured with curry powder and ground tumeric\n''''",
+            "1. Assorted cheese soup with chicken\n2. Italian salad made from romaine lettuce, artichokes, and tomatoes\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Soup made with onions, carrots, and celery ribs\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Soup made with shrimp, onions, and scallops\n8. Soup made with vegetables and chicken\n9. Soup made with ground turkey that is low fat, high carb\n10. Mildly spicy chili recipe\n",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Eggless sauerkraut cake\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Roasted almonds\n5. High protein skillet with rice and vegetables\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Simple creamy oyster soup\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Soup made with ground turkey that is low fat, high carb\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n",
+            " Vegetable curry flavoured with curry powder and ground tumeric\nSoup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Beef stew made with beef, carrots and potatoes\n4. Grilled salmon seasoned with salt and pepper\n5. Chopped French duck confit preserved by duck oil\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Low fat sweet potato fries made with cajun seasoning\n9. Mildly spicy chili recipe\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n",
+            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nChicken cooked and flavored with lemon sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nGrilled salmon seasoned with salt and pepper\nSpaghetti noodles with mussels, anchovy fillets, and capers\nCreamy base with dill flavoring, eggs, and noodles",
+            "1.  Beef stew made with beef, carrots and potatoes\n2. Chopped French duck confit preserved by duck oil\n3. Mildly spicy chili recipe\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. High protein skillet with rice and vegetables\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Baked mozzarella cheese sticks with marinara sauce",
+            "1) Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2) Beef stew made with beef, carrots and potatoes\n3) Soup made with ground turkey that is low fat, high carb\n4) Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5) Mildly spicy chili recipe\n6) Shredded barbecued pork shoulder\n7) Fried shrimp and scallops\n8) Pork chops glazed with milk and cooked without nuts\n9) Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10) Korean soup containing beef brisket and flavoured with red pepper powder",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Spicy Tofu and Noodle Stir-fry\n6. Soup made with ground turkey that is low fat, high carb\n7. Grilled salmon seasoned with salt and pepper\n8. Salmon fillets grilled in a pan with herbs and spices\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Beef stew made with beef, carrots and potatoes"
+        ]
+    }
+}
