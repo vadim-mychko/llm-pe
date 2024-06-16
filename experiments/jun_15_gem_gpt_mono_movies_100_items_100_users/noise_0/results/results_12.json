@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is considered a classic?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that includes a fantasy element?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that includes robots or technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie that could be considered a cult film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a horror movie with a supernatural twist?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Vertigo (1958) \n2. The Godfather (1972) \n3. The Dark Knight (2008) \n4. Goodfellas (1990) \n5. Schindler's List (1993) \n6. The Shawshank Redemption (1994) \n7. Forrest Gump (1994) \n8. The Matrix (1999) \n9. The Lord of the Rings: The Return of the King (2003) \n10. Inception (2010)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. The Piano (1993) \n5. The Last Unicorn (1982) \n6. Labyrinth (1986) \n7. The Princess Bride (1987) \n8. Willow (1988) \n9. The NeverEnding Story (1984) \n10. The Dark Crystal (1982)",
+            "1. Labyrinth (1986)\n2. Pan's Labyrinth (El laberinto del fauno) (2006)\n3. The Princess Bride (1987)\n4. The NeverEnding Story (Die unendliche Geschichte) (1984)\n5. Willow (1988)\n6. The Dark Crystal (1982)\n7. Stardust (2007)\n8. Princess Mononoke (Mononoke-hime) (1997)\n9. Spirited Away (Sen to Chihiro no kamikakushi) (2001)\n10. Howl's Moving Castle (Hauru no ugoku shiro) (2004)",
+            "1. The Princess Bride (1987)\n2. Labyrinth (1986)\n3. The Dark Crystal (1982)\n4. The NeverEnding Story (1984)\n5. Willow (1988)\n6. Legend (1985)\n7. Excalibur (1981)\n8. Dragonslayer (1981)\n9. Conan the Barbarian (1982)\n10. Krull (1983)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Piano (1993)\n3. Alita: Battle Angel (2019)\n4. Terminator 3: Rise of the Machines (2003)\n5. Big Red One, The (1980)\n6. The Big Lebowski (1998)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Laura (1944) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. Santa Sangre (1989) \n7. The Piano (1993) \n8. The Proposition (2005) \n9. Bernie (2011) \n10. One Hour Photo (2002)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Starship Troopers (1997)\n3. King Kong (2005)\n4. The Lord of the Rings: The Fellowship of the Ring (2001)\n5. The Matrix (1999)\n6. Die Hard (1988)\n7. Star Wars: Episode IV - A New Hope (1977)\n8. Aliens (1986)\n9. Predator (1987)\n10. Terminator 2: Judgment Day (1991)",
+            "1. Cronos (1993) \n2. Mothman Prophecies, The (2002) \n3. Darkman (1990) \n4. Nightcrawler (2014) \n5. Land Before Time, The (1988) \n6. Enter the Void (2009) \n7. Trapped (2002) \n8. Face/Off (1997) \n9. Gremlins 2: The New Batch (1990) \n10. The Last Supper (1995)\n'''",
+            "Many thanks for confirming some more details about your horror movie preferences.  Loading.....\n\n1. Suspiria (1977) - An American ballet student studies at a prestigious dance academy in Europe, and soon realizes that the school is a front for something sinister amid a series of grisly murders.\n\n2. The Texas Chainsaw Massacre (1974) - Five friends on a road trip fall victim to a family of cannibalistic killers in this classic and influential slasher film.\n\n3. The Thing (1982) - A group of American researchers in Antarctica are hunted by a shape-shifting alien that assimilates and imitates other living organisms.\n\n4. Night of the Living Dead (1968) - A group of strangers are trapped in a farmhouse and must fight off a horde of flesh-eating zombies in this groundbreaking horror classic.\n\n5. The Shining (1980) - A family takes up residence in an isolated hotel for the winter, where the father becomes influenced by a sinister presence and turns against his wife and son.\n\n6. A Nightmare on Elm Street (1984) - A group of teenagers are stalked and murdered in their dreams by Freddy Krueger, a disfigured child killer who was burned alive by the parents of his victims.\n\n7. Dawn of the Dead (1978) - A group of survivors take refuge in a shopping mall during a zombie apocalypse in this sequel to Night of the Living Dead.\n\n8. The Evil Dead (1981) - A group of college students go on a weekend trip to a remote cabin in the woods, where they accidentally unleash a horde of flesh-possessing demons.\n\n9. Hellraiser (1987) - A group of friends accidentally summon a group of sadistic supernatural beings known as Cenobites, who offer them unimaginable pain and pleasure.\n\n10. Candyman (1992) - A graduate student researching urban legends about a hook-handed killer inadvertently summons him, and he begins terrorizing the residents of a housing project.",
+            "1. The Mothman Prophecies (2002)\n2. Darkman (1990)\n3. Gremlins 2: The New Batch (1990)\n4. Enter the Void (2009)\n5. The Thing (1982)\n6. Cronos (1993)\n7. Delicatessen (1991)\n8. Nightcrawler (2014)\n9. Trapped (2002)\n10. Bruce Almighty (2003)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a mostly black and white movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is mostly in color?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with strong female roles?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dark movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about mental illness?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. Laura (1944)\n6. The Naked Gun: From the Files of Police Squad! (1988)\n7. All Quiet on the Western Front (1930)\n8. St. Elmo's Fire (1985)\n9. Drugstore Cowboy (1989)\n10. The Man from Earth (2007)\n''''",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. Last Temptation of Christ, The (1988)\n6. Abraham Lincoln: Vampire Hunter (2012)\n7. Santa Sangre (1989)\n8. August Rush (2007)\n9. Blair Witch Project, The (1999)\n10. Martyrs (2008)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Magnolia (1999)\n4. The Departed (2006)\n5. Lost in Translation (2003)\n6. Searching (2018)\n7. Stranger than Fiction (2006)\n8. Terminator 3: Rise of the Machines (2003)\n9. Control (2007)\n10. Mr. Holmes (2015)",
+            "1. The Piano (1993)\n2. August Rush (2007)\n3. Magnolia (1999)\n4. Secret of Kells, The (2009)\n5. Strange than Fiction (2006)\n6. Meet John Doe (1941)\n7. What's Up, Doc? (1972)\n8. Last Supper, The (1995)\n9. The Grapes of Wrath (1940)\n10. Umberto D. (1952)",
+            "1. Stranger than Fiction (2006)\n2. Enter the Void (2009)\n3. Searching (2018)\n4. Control (2007)\n5. Lost in Translation (2003)\n6. Nightcrawler (2014)\n7. Bruce Almighty (2003)\n8. Departed, The (2006)\n9. Corpse Bride (2005)\n10. Corpse Bride (2005)",
+            "1. August Rush (2007) \n2. The Piano (1993) \n3. Before the Devil Knows You're Dead (2007) \n4. Man on Earth, The (2007) \n5. Magnolia (1999) \n6. Searching (2018) \n7. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n8. Control (2007) \n9. Stranger than Fiction (2006) \n10. Robot & Frank (2012) ",
+            "1. Searching (2018) \n2. Hurricane, The (1999) \n3. The Departed (2006) \n4. Nightcrawler (2014) \n5. Control (2007)\n6. Man on Fire (2004) \n7. Big Lebowski, The (1998) \n8. Real Genius (1985) \n9. Stranger than Fiction (2006) \n10. Robot & Frank (2012)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Terms of Endearment (1983)\n6. August Rush (2007)\n7. Piano, The (1993)\n8. Man on Fire (2004)\n9. Searching (2018)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Big Lebowski, The (1998)\n3. Before the Devil Knows You're Dead (2007)\n4. No Man's Land (2001)\n5. Lost in Translation (2003)\n6. Control (2007)\n7. Enter the Void (2009)\n8. Departed, The (2006)\n9. Nightcrawler (2014)\n10. Stranger than Fiction (2006)",
+            "1. Enter the Void (2009) \n2. Control (2007) \n3. Darkman (1990) \n4. Big Lebowski, The (1998) \n5. Stranger than Fiction (2006) \n6. The Departed (2006) \n7. Face/Off (1997) \n8. Nightcrawler (2014) \n9. Cronos (1993) \n10. Black Swan (2010)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies about comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Would you watch a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a heartwarming movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a movie featuring Arnold Schwarzenegger?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Proposition (2005)\n5. Alita: Battle Angel (2019)\n6. Transporter 2 (2005)\n7. Ready Player One\n8. The Big Red One (1980)\n9. King Kong (2005)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. The Last Supper (1995)\n2. The Grapes of Wrath (1940)\n3. Cronos (1993)\n4. Jane Eyre (1996)\n5. Lost in Translation (2003)\n6. Umberto D. (1952)\n7. Black Robe (1991)\n8. Tenacious D in The Pick of Destiny (2006)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Eragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. The Departed (2006) \n3. Nightcrawler (2014) \n4. Big Lebowski, The (1998) \n5. American Graffiti (1973) \n6. Face/Off (1997) \n7. Brewster's Millions (1985) \n8. Real Genius (1985) \n9. The Grapes of Wrath (1940) \n10. Umberto D. (1952)",
+            "1. The Terminator (1985)\n2. Children of Men (2006)\n3. Ex Machina (2014)\n4. 2001: A Space Odyssey (1968)\n5. Moon (2009)\n6. Arrival (2016)\n7. Blade Runner (1982)\n8. The Martian (2015)\n9. Interstellar (2014)\n10. Her (2013)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Terminator 3: Rise of the Machines (2003)\n3. Terminator 3: Rise of the Machines (2003)\n4. Terminator 3: Rise of the Machines (2003)\n5. Terminator 3: Rise of the Machines (2003)\n6. Terminator 3: Rise of the Machines (2003)\n7. Terminator 3: Rise of the Machines (2003)\n8. Terminator 3: Rise of the Machines (2003)\n9. Terminator 3: Rise of the Machines (2003)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Nightcrawler (2014)\n3. Departed, The (2006)\n4. The Big Lebowski (1998)\n5. Face/Off (1997)\n6. Intolerable Cruelty (2003)\n7. Real Steel (2011)\n8. King Kong (2005)\n9. Bruce Almighty (2003)\n10. American Graffiti (1973)",
+            "1. Darkman (1990)\n2. Control (2007)\n3. The Dark Knight (2008)\n4. The Big Lebowski (1998)\n5. The Stranger than Fiction (2006)\n6. Batman Begins (2005)\n7. The Departed (2006)\n8. Nightcrawler (2014)\n9. There Will Be Blood (2007)\n10. Zodiac (2007)",
+            "1. Departed, The (2006) \n2. Intolerable Cruelty (2003) \n3. Breach (2007) \n4. Bad Education (La mala educaci\u00f3n) (2004) \n5. Crimes and Misdemeanors (1989) \n6. Before the Devil Knows You're Dead (2007) \n7. Man on Fire (2004) \n8. Last Action Hero (1993) \n9. Out of Sight (1998) \n10. Gentlemen of Fortune (Dzhentlmeny udachi) (1972) ",
+            "1. Crimes and Misdemeanors (1989)\n2. The Departed (2006)\n3. Nightcrawler (2014)\n4. Trapped (2002)\n5. Brewster's Millions (1985)\n6. Bad Education (La mala educaci\u00f3n) (2004)\n7. Face/Off (1997)\n8. Intolerable Cruelty (2003)\n9. Delicatessen (1991)\n10. Bruce Almighty (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Departed (2006)\n3. Face/Off (1997)\n4. Before the Devil Knows You're Dead (2007)\n5. Intolerable Cruelty (2003)\n6. Bruce Almighty (2003)\n7. Darkman (1990)\n8. Breach (2007)\n9. The Proposition (2005)\n10. Bernie (2011)"
+        ]
+    }
+}

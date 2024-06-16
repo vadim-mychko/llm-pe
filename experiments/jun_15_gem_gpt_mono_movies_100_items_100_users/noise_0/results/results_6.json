@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about a person's struggle with mental illness?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about nature?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about cars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about art?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie in black and white?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about a person's journey?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about sports?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Proposition (2005)\n5. We Bought a Zoo (2011)\n6. The Secret of Kells (2009)\n7. The Sure Thing (1985)\n8. Dangerous Liaisons (1988)\n9. What's Up, Doc? (1972)\n10. The Big Lebowski (1998)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Terminator 3: Rise of the Machines (2003)\n4. Clash of the Titans (1981)\n5. King Kong (2005)\n6. The Big Lebowski (1998)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. The Last Supper (1995)\n10. Bruce Almighty (2003)",
+            "1. The Dark Knight (2008)\n2. The Lord of the Rings: The Fellowship of the Ring (2001)\n3. Pulp Fiction (1994)\n4. The Matrix (1999)\n5. Fight Club (1999)\n6. The Silence of the Lambs (1991)\n7. Saving Private Ryan (1998)\n8. The Godfather (1972)\n9. The Shawshank Redemption (1994)\n10. The Godfather Part II (1974)",
+            "1. Alita: Battle Angel (2019)\n2. Ant-Man (2015)\n3. Big Red One, The (1980)\n4. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n5. Bruce Almighty (2003)\n6. Clash of the Titans (1981)\n7. Darkman (1990)\n8. Dracula (Bram Stoker's Dracula) (1992)\n9. Eragon (2006)\n10. Face/Off (1997)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Big Red One, The (1980)\n3. Last Supper, The (1995)\n4. RoboCop (1987)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Thomas Crown Affair, The (1968)\n8. Control (2007)\n9. Big Lebowski, The (1998)\n10. Stranger than Fiction (2006)",
+            "1. The Man on Fire (2004)\n2. The Secret of Kells (2009)\n3. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n4. The Grapes of Wrath (1940)\n5. Black Robe (1991)\n6. August Rush (2007)\n7. The Piano (1993)\n8. American Graffiti (1973)\n9. How High (2001)\n10. The Hurricane (1999)",
+            "1. The Passion of Joan of Arc (1928) \n2. The Bicycle Thief (1948) \n3. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) \n4. The Conversation (1974) \n5. Taxi Driver (1976) \n6. Stalker (1979) \n7. The Shining (1980) \n8. Raging Bull (1980) \n9. Blue Velvet (1986) \n10. Schindler's List (1993)",
+            "1. The Proposition (2005) \n2. Last Temptation of Christ, The (1988) \n3. Man from Earth, The (2007) \n4. Chungking Express (Chung Hing sam lam) (1994) \n5. Breach (2007) \n6. Gremlins 2: The New Batch (1990) \n7. Europa (Zentropa) (1991) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Terminator 3: Rise of the Machines (2003) \n10. Enter the Void (2009)",
+            "1. Searching (2018) \n2. The Man from Earth (2007) \n3. The Secret of Kells (2009) \n4. Dog Day Afternoon (1975)\n5. A beautiful Mind (2001)\n6. The Theory of Everything (2014)\n7. Into the Wild (2007)\n8. The Motorcycle Diaries (2004)\n9. Captain Phillips (2013)\n10. Wild (2014)",
+            "1. The Departed (2006)\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. Stranger than Fiction (2006)\n5. What's Up, Doc? (1972)\n6. Enter the Void (2009)\n7. Terminator 3: Rise of the Machines (2003)\n8. Bruce Almighty (2003)\n9. The Man from Earth (2007)\n10. Alita: Battle Angel (2019)"
+        ]
+    }
+}

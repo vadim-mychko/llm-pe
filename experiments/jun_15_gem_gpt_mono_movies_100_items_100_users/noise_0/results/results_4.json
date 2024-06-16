@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie from the 80s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where characters live in a dystopia?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with talking animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. The Proposition (2005)\n4. The Man on Fire (2004)\n5. 12 Angry Men (1957)\n6. The Last Temptation of Christ (1988)\n7. Terminator 3: Rise of the Machines (2003)\n8. Bronson (2008)\n9. Burning (2018)\n10. The Princess Bride (1987)",
+            "1. Monsters, Inc. (2001) \n2. August Rush (2007)\n3. The Proposition (2005) \n4. Bernie (2011) \n5. The Man from Earth (2007) \n6. Punch-Drunk Love (2002) \n7. Breach (2007) \n8. The Sure Thing (1985)\n9. Terminator 3: Rise of the Machines (2003) \n10. Control (2007)",
+            "1. Children of Men (2006) \n2. Metropolis (1927) \n3. A Clockwork Orange (1971) \n4. Fahrenheit 451 (1966) \n5. The Road (2009) \n6. Blade Runner (1982) \n7. Minority Report (2002) \n8. The Matrix (1999) \n9. V for Vendetta (2005) \n10. Equilibrium (2002)",
+            "1. Last Supper, The (1995) \n2. Eragon (2006) \n3. Superman (2013) \n4. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008) \n5. Tenacious D in The Pick of Destiny (2006) \n6. Lost in Translation (2003) \n7. Umberto D. (1952) \n8. Jane Eyre (1996) \n9. Cronos (1993) \n10. Grapes of Wrath, The (1940)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Timeline (2003)\n3. Terminator 3: Rise of the Machines (2003)\n4. Gremlins 2: The New Batch (1990)\n5. Von Ryan's Express (1965)\n6. Sure Thing, The (1985)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Cocoon (1985)\n10. St. Elmo's Fire (1985)",
+            "1. The Proposition (2005) \n2. Man on Fire (2004) \n3. The Man from Earth (2007) \n4. Metropolis (2001) \n5. Breach (2007) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. The Mothman Prophecies (2002) \n8. Alita: Battle Angel (2019) \n9. The Sure Thing (1985) \n10. Ant-Man (2015)",
+            "1. Land Before Time, The (1988)\n2. Ultimate Story\n3. Lost in Translation (2003)\n4. American Graffiti (1973)\n5. Homeward Bound: The Incredible Journey (1993)\n6. Control (2007)\n7. Last Supper, The (1995)\n8. Robot & Frank (2012)\n9. Searching (2018)\n10. Cronos (1993)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Big Lebowski, The (1998)\n3. Nightcrawler (2014)\n4. Robot & Frank (2012)\n5. American Graffiti (1973)\n6. The Face/Off (1997)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Grapes of Wrath, The (1940)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Land Before Time, The (1988)\n2. Homeward Bound: The Incredible Journey (1993)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Eight Below (2006)\n5. Marmaduke (2010)\n6. Beverly Hills Chihuahua (2008)\n7. Cats & Dogs (2001)\n8. All Dogs Go to Heaven (1989)\n9. Turner & Hooch (1989)\n10. Beethoven (1992)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Land Before Time, The (1988)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Enter the Void (2009)\n5. Madagascar (2005)\n6. Napoleon Dynamite (2004)\n7. Grizzly Man (2005)\n8. Fast Food Nation (2006)\n9. Miss Congeniality (2000)\n10. The Corpse Bride (2005)"
+        ]
+    }
+}
