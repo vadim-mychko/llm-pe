@@ -1,0 +1,58 @@
+{
+    "91": {
+        "conv_hist": [
+            {
+                "query": "Are you considering vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for American food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a restaurant that serves Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering a restaurant with Italian pasta or dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nZuzu's Kitchen \nThe Juice Merchant \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nFederal Donuts \nBloomsday Cafe \nThe Tavern Restaurant \nJack's Firehouse",
+            " Golden Triangle \nDaleng Restaurant \nGrain Exchange \nFederal Donuts \nMisconduct Tavern \nCanton 11 \nJack's Firehouse \nDim Sum House \nOishii Pok\u00e9 \nAudrey Claire",
+            "PrimoHoagies \\n\nA Tutti, Ristorante Italiano \\n\nDaleng Restaurant \\n\nZuzu's Kitchen \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nRistorante La Buca \\n\nSang Kee Peking Duck House \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX",
+            " Ristorante La Buca \nA Tutti, Ristorante Italiano \nCastellino's \nTalluto's Authentic Italian Food \nPrimoHoagies \nMacaroni's Restaurant \nThe QUICK FIXX \nFiore Fine Foods \nOteri's Italian Bakery | North 5th St \nEvan's Pizza",
+            "Daleng Restaurant\nCastellino's\nTalluto's Authentic Italian Food\nA Tutti, Ristorante Italiano\nPrimoHoagies\nMacaroni's Restaurant\nRistorante La Buca\nOteri's Italian Bakery | North 5th St\nGran Caffe L'Aquila\nThe QUICK FIXX",
+            "1. Not specified\n2. Not specified\n3. Not specified\n4. Not specified\n5. Not specified\n6. Not specified\n7. Not specified\n8. Not specified\n9. Not specified\n10. Not specified",
+            " Local Tavern \\n\nZuzu's Kitchen \\n\nGolden Triangle \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nA Tutti, Ristorante Italiano \\n\nCastellino's \\n\nTalluto's Authentic Italian Food",
+            "1. A Tutti, Ristorante Italiano \n2. Daleng Restaurant \n3. PrimoHoagies \n4. Talluto's Authentic Italian Food \n5. Castellino's \n6. Fiore Fine Foods \n7. Macaroni's Restaurant \n8. Ristorante La Buca \n9. Steve's Prince of Steaks \n10. Oteri's Italian Bakery | North 5th St",
+            "Castellino's\nRistorante La Buca\nAudrey Claire\nTalluto's Authentic Italian Food\nA Tutti, Ristorante Italiano\nVedge\nGran Caffe L'Aquila\nDi Fara Pizza\nParc\nLa Fontana Della Citta",
+            "A Tutti, Ristorante Italiano \\n\nCastellino's \\n\nDaleng Restaurant \\n\nGrain Exchange \\n\nLaCroix Restaurant at The Rittenhouse \\n\nMacaroni's Restaurant \\n\nPrimoHoagies \\n\nTalluto's Authentic Italian Food \\n\nThe Continental Restaurant and Martini Bar \\n\nThe QUICK FIXX"
+        ]
+    }
+}

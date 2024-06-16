@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place to drink?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a dance floor?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a cocktail bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar with a large selection of beers on tap?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar with food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Daleng Restaurant \n Zuzu's Kitchen \n The Juice Merchant \n Federal Donuts \nFederal Donuts \n Mong Kok Station",
+            "Federal Donuts \nThe Tavern Restaurant \nMisconduct Tavern \nVedge \nJack's Firehouse \nLucky's Last Chance \nCantina Dos Segundos \nMacaroni's Restaurant \nFranklin's \nJD Mcgillicuddy's Manayunk",
+            "The Tavern Restaurant \nThe Blue Duck \nChestnut 7 \nFederal Donuts \nPaddy's Old City Pub \nMisconduct Tavern \nNorth Bowl \nMacaroni's Restaurant \nFranklin's \nMad River Manayunk",
+            "The Tavern Restaurant \\n\nGrain Exchange \\n\nMisconduct Tavern \\n\nTavern On the Hill \\n\nVeda - Modern Indian Bistro \\n\nPaddy's Old City Pub \\n\nCanton 11 \\n\nMad River Manayunk \\n\nThe El Bar \\n\nJack's Firehouse",
+            "Jake's & Cooper's Wine Bar & Wine Shop \nVedge \nPearl's Oyster Bar \nRoy-Pitz Barrel House \nMisconduct Tavern \nCantina Los Caballitos \nLa Colombe Restaurant \nLokal Artisan Food + Drink \nCraft Hall \nThe Continental Restaurant and Martini Bar",
+            "Jake's & Cooper's Wine Bar & Wine Shop \nMaison 208 \nMisconduct Tavern \nThe El Bar \nCinCin Restaurant \nFederal Donuts \nWishbone \nAldine \nCO-OP Restaurant & Lounge \nCook and Shaker",
+            "1. Cantina Dos Segundos \n2. Trestle Inn \n3. Moriarty's Pub \n4. Fergie's Pub \n5. Dawson Street Pub \n6. The Black Sheep Pub \n7. McGillin's Old Ale House \n8. The Plough & The Stars \n9. Brauhaus Schmitz \n10. The Blarney Stone",
+            "1) Tavern On the Hill\n2) Paddy's Old City Pub\n3) Misconduct Tavern\n4) The Tavern Restaurant\n5) Canton 11\n6) Lucky's Last Chance\n7) Franklin's\n8) Founding Fathers Sports Bar & Grill\n9) JD Mcgillicuddy's Manayunk\n10) Mad River Manayunk",
+            "1. Mad River Manayunk\n2. Founding Fathers Sports Bar & Grill\n3. Lucky's Last Chance\n4. McMenamin's Tavern\n5. CJ & Eck's\n6. The El Bar\n7. Castellino's\n8. Rival Bros Coffee\n9. Sang Kee Peking Duck House\n10. Le Pain Quotidien"
+        ]
+    }
+}

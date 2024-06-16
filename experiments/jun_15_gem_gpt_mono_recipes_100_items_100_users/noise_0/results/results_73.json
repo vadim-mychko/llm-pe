@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodle dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat baked breakfast pie made with sausage (pork) and apples\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nHigh protein skillet with rice and vegetables\nShredded barbecued pork shoulder\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nFried shrimp and scallops\nBeef stew made with beef, carrots and potatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n ****",
+            "Pork chops glazed with milk and cooked without nuts\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nChicken cooked and flavored with lemon sauce\n****\n2-ingredient yogurt from scratch\n****\nHigh protein skillet with rice and vegetables\n****\nPeach cobbler dessert containing whole wheat flour\n****\nLow fat diced baked or fried potatoes\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\n****\n****\n****\n****\n****",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Stuffed chicken breasts with bacon and mozzarella\n****\n Grilled salmon seasoned with salt and pepper\n****\n Fried shrimp and scallops\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Baked spinach quiche containing bacon\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Beef stew made with beef, carrots and potatoes\n4. Soup made with ground turkey that is low fat, high carb\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Soup made with shrimp, onions, and scallops\n7. Soup made with onions, carrots, and celery ribs\n8. Soup made from vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Homemade soup with chicken, noodles, and spices",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made from onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Homemade soup with chicken, noodles, and spices\n10. Mushy peas that are soft",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made from onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Polish sausage with fermented cabbage\nSoup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made from onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Polish sausage with fermented cabbage",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Soup made with shrimp, onions, and scallops\n7. Soup made with onions, carrots, and celery ribs\n8. Soup made with vegetables and chicken\n9. Soup made with ground turkey that is low fat, high carb\n10. Homemade soup with chicken, noodles, and spices",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon roasted with olive oil, chives, and tarragon leaves\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSimple creamy oyster soup\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nKorean soup containing beef brisket and flavoured with red pepper powder\n****"
+        ]
+    }
+}

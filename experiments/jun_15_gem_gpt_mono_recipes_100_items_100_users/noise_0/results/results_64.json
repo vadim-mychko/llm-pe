@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet things?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Queso made from melted cheese and chili peppers\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. 2-ingredient yogurt from scratch\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Low sugar applesauce cupcakes\n7. Sugar-free peanut butter cookies\n8. Jam made from blackberries, lemon juice, and sugar\n9. Baked breakfast bars made with nuts and seeds\n10. Cheese and olive appetizer made to look like an eyeball",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nShredded barbecued pork shoulder\nMeatballs made with ground beef and ground pork\nBacon and sausage fried using oil\nChicken breasts stuffed with bacon and mozzarella\nMozzarella dip recipe\nPork chops glazed with milk and cooked without nuts\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "Pork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nChopped French duck confit preserved by duck oil\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\nDog food made from pork, green beans, cheddar cheese and brown rice\nPeppermint chocolate bonbon\nSausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBaked breakfast bars made with nuts and seeds\n****\nBacon and cheese appetizer made to look like an eyeball\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nSouthern-style gravy made with pork parts\n****\nPork chops glazed with milk and cooked without nuts\n****\nCheese and olive appetizer made to look like an eyeball",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nPork chops glazed with milk and cooked without nuts \\n\nShredded barbecued pork shoulder \\n\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce \\n\nLarge portion fries with gravy and bacon \\n\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \\n\nBeef stew made with beef, carrots and potatoes \\n\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \\n\nMeatballs made with ground beef and ground pork",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Beef stew made with beef, carrots and potatoes\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Baked breakfast bars made with nuts and seeds\n8. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n9. Bread made swiss style with swiss cheese\n10. Sausage (pork) and apples low fat baked breakfast pie",
+            "Beef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nPork chops glazed with milk and cooked without nuts\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow fat baked breakfast pie made with sausage (pork) and apples\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBurger with ground beef, grated pepperoni, mozzarella, topped with onion\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****\n****",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Stir-fried tofu, noodles and vegetables Bento\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Meatballs made with ground beef and ground pork\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nPeppermint chocolate bonbon\nMozzarella dip recipe"
+        ]
+    }
+}

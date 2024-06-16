@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savory or sweet foods?",
+                "response": "savory"
+            },
+            {
+                "query": "Are you interested in fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer creamy or brothy soups?",
+                "response": "brothy"
+            },
+            {
+                "query": "Are you interested in vegetarian soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups with beef?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups with pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups with chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Korean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSoup made with ground turkey that is low fat, high carb\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat sweet potato fries made with cajun seasoning\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMildly spicy chili recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n```",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. High protein skillet with rice and vegetables\n6. Soup made with ground turkey that is low fat, high carb\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Mildly spicy chili recipe\n9. Low fat diced baked or fried potatoes\n10. Grilled salmon seasoned with salt and pepper",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. High protein skillet with rice and vegetables\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Chicken cooked and flavored with lemon sauce\n8. Roasted almonds\n9. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n10. Low fat diced baked or fried potatoes\n",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with shrimp, onions, and scallops\n****\nSoup made from onions, carrots, and celery ribs\n****\nSoup made from vegetables and chicken\n****\nSimple creamy oyster soup\n****\nCalcium-rich soup made with broccoli and beans\n****\nCheese and vegetable soup with a beer broth\n****\nHomemade soup with chicken, noodles, and spices\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n ****",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nBeef soup made with beef, carrots and potatoes\nAssorted cheese soup with chicken\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with onions, carrots, and celery ribs\n3. Soup made with ground turkey that is low fat, high carb\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Assorted cheese soup with chicken\n6. Soup made with shrimp, onions, and scallops\n7. Soup made with chicken, noodles, and spices\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Calcium-rich soup made with broccoli and beans\n",
+            "\u2022 Soup made with shrimp, onions, and scallops\n\u2022 Soup made with ground turkey that is low fat, high carb\n\u2022 Soup made from onions, carrots, and celery ribs\n\u2022 Simple creamy oyster soup\n\u2022 Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n\u2022 Roasted almonds\n\u2022 Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n\u2022 Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n\u2022 Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n\u2022 Cheese and vegetable soup with a beer broth",
+            "Soup made with ground turkey that is low fat, high carb\nSoup made with vegetables and chicken\nHomemade soup with chicken, noodles, and spices\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nLow fat assorted fruit dessert\nCreamy base with dill flavoring, eggs, and noodles\nPeppermint chocolate bonbon\nSpicy chili recipe\n'''",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSoup made from shrimp, onions, and scallops\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\nHomemade soup with chicken, noodles, and spices\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nPeppermint chocolate bonbon\nRoasted almonds"
+        ]
+    }
+}

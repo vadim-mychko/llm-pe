@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy fish and seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer desserts that are low in fat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like protein-rich desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts with a creamy texture?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " 2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLarge portion fries with gravy and bacon\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nJam made from blackberries, lemon juice, and sugar\nLow fat smoothies made with greek yogurt, and pineapple\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Poke of tofu, mushroom and tomatoes\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. High protein skillet with rice and vegetables\n8. Mildly spicy chili recipe\n9. Fried shrimp and scallops\n10. Roasted almonds",
+            "1. High protein skillet with rice and vegetables\n2. Grilled salmon seasoned with salt and pepper\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Mildly spicy chili recipe\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Shredded barbecued pork shoulder\n10. Pork chops glazed with milk and cooked without nuts",
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLarge portion fries with gravy and bacon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat baked breakfast pie made with sausage (pork) and apples\nPork chops glazed with milk and cooked without nuts\nVery low-fat assortment of shredded vegetables with seasoning\nQueso made from melted cheese and chili peppers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nClassic salad with creamy caesar dressing and croutons\nTaiwanese deep fried crispy chicken cutlets\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSpanish rice with chicken breast\nRoast turkey with plum sauce\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nAlmonds coated with butter and salt\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSweet salad made with corn and three types of beans\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRoasted almonds\n",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Mozzarella dip recipe\n6. Taiwanese deep fried crispy chicken cutlets\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Homemade soup with chicken, noodles, and spices\n9. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n10. Meatballs made with ground beef and ground pork",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nQueso made from melted cheese and chili peppers \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\nLow sugar applesauce cupcakes \\n\nDog food made from pork, green beans, cheddar cheese and brown rice \\n\nJam made from blackberries, lemon juice, and sugar \\n\nSugar-free peanut butter cookies \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nBaked breakfast bars made with nuts and seeds",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nLow sugar applesauce cupcakes \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nNorway cake with lingonberry and whipped cream layers \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\nPeach cobbler dessert containing whole wheat flour \\n\nPeppermint chocolate bonbon \\n\nSugar-free peanut butter cookies \\n\nGluten-free, egg-free, dairy-free, nut-free fudge\n''''",
+            "1. Chocolate and orange-flavoured smoothie\n2. Blueberry flavored low sugar applesauce cupcakes \n3. Smoothies made from fruit juice and bananas\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Sugar-free peanut butter cookies\n6. Jam made from blackberries, lemon juice, and sugar\n7. Norway cake with lingonberry and whipped cream layers\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peppermint chocolate bonbon",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeach cobbler dessert containing whole wheat flour\nAlmonds coated with butter and salt\nPeppermint chocolate bonbon\nRoast turkey with plum sauce\nJam made from blackberries, lemon juice, and sugar\n''''",
+            "Chocolate and orange-flavoured smoothie\nLow sugar applesauce cupcakes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow fat baked breakfast pie made with sausage (pork) and apples\nSugar-free peanut butter cookies\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBlueberry pie made with blueberries, flour, sugar, butter, and a premade shell and crust\nBaked spinach quiche containing bacon\n'''"
+        ]
+    }
+}

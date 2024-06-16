@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place serving Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant serving Chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Szechuan cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Cantonese restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \\n\nFuji Mountain \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nWishbone \\n\n Dim Sum House \\n\n Betty's Speakeasy \\n\n New York Gyro Truck \\n\nSister Muhammad's Kitchen \\n",
+            " Golden Triangle \n Daleng Restaurant \n Canton 11 \n Tu's Tea & Banh Mi South Philly \n Evan's Pizza \n The QUICK FIXX \n Betty's Speakeasy \n Dim Sum House \n Ristorante La Buca \n KC's Pastries",
+            "1. Zuzu's Kitchen \\n\n2. Golden Triangle \\n\n3. The Juice Merchant \\n\n4. Federal Donuts \\n\n5. The Tasty Toast \\n\n6. Heritage \\n\n7. Kokopelli Restaurant & Tequila Bar \\n\n8. Grain Exchange \\n\n9. Fuji Mountain \\n\n10. CO-OP Restaurant & Lounge",
+            "Water Works Restaurant & Lounge\nVeda - Modern Indian Bistro\nCantonese\nThe Tasty Toast\nLacroix Restaurant at The Rittenhouse\nNorth Bowl\nGolden Triangle\nDaleng Restaurant\nThe Blue Duck\nMacaroni's Restaurant\nThe Grill at The Rittenhouse\nCanton 11",
+            "1. Veda - Modern Indian Bistro\n2. Fuji Mountain\n3. Heritage\n4. Germantown Garden\n5. Paddy's Old City Pub\n6. Sang Kee Peking Duck House\n7. Malbec Argentine Steakhouse\n8. Tavern On the Hill\n9. The Continental Restaurant and Martini Bar\n10. Pearl's Oyster Bar",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Sang Kee Peking Duck House\nDim Sum House\nCanton 11\nKC's Pastries\nLucky's Last Chance\nFederal Donuts\nMiga Korean BBQ & Sushi\nNew York Gyro Truck\nChinatown Garden\nGolden Triangle",
+            "Canton 11\nSang Kee Peking Duck House\nDim Sum House\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nKC's Pastries\nCinCin Restaurant\nPearl's Oyster Bar\nJake's & Cooper's Wine Bar & Wine Shop\nVeda - Modern Indian Bistro",
+            "Chinatown 11\nPearl's Oyster Bar\nDim Sum House\nOishii Pok\u00e9\nSang Kee Peking Duck House\nFederal Donuts\nNew York Gyro Truck\nKC's Pastries \nAudrey Claire \nSister Muhammad's Kitchen",
+            " Canton 11\nDim Sum House\nSang Kee Peking Duck House\nGolden Triangle\nDaleng Restaurant\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nKC's Pastries\nOishii Pok\u00e9\nPearl's Oyster Bar"
+        ]
+    }
+}

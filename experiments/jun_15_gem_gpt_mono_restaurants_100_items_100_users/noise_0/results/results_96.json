@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something with sandwiches or salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for coffee, tea, or bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or nightlife?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dim sum place?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with both dim sum and nightlife?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Karaoke?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with both karaoke and dim sum?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. Le Pain Quotidien\n9. Federal Donuts\n10. Mong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Lacroix Restaurant at The Rittenhouse \nBarclay Prime \nRistorante La Buca \nThe Continental Restaurant and Martini Bar \nThe El Bar \nLibert\u00e9 Lounge \nCook and Shaker \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk",
+            "1. Paddy's Old City Pub \n2. Federal Donuts \n3. Ladder 15 \n4. Franklin's \n5. The El Bar \n6. Heritage \n7. Founding Fathers Sports Bar & Grill \n8. Misconduct Tavern \n9. Mad River Manayunk \n10. CJ & Eck's",
+            " Oishii Pok\u00e9 \\n\nPure Tacos \\n\nSang Kee Peking Duck House \\n\nNew York Gyro Truck \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nBaan Thai \\n\nLucky's Last Chance",
+            "Sang Kee Peking Duck House \nCanton 11 \nTu's Tea & Banh Mi South Philly \nNew York Gyro Truck \nOishii Pok\u00e9 \nChinatown Commissary \nPure Tacos \nKC's Pastries \nAudrey Claire \nOteri's Italian Bakery | North 5th St",
+            "Dim Sum House \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nVeda - Modern Indian Bistro \\n\nThe Tasty Toast \\n\nDaleng Restaurant \\n\nOriental Star Restaurant \\n\nFederal Donuts \\n\nFuji Mountain",
+            "Canton 11 \nDim Sum House \nGolden Triangle \nDaleng Restaurant \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nBaan Thai \nPure Tacos \nKC's Pastries \nSang Kee Peking Duck House",
+            "Canton 11 \nDim Sum House \nSang Kee Peking Duck House \nGolden Triangle \nDaleng Restaurant \nFederal Donuts \nBistro SouthEast \nMiga Korean BBQ & Sushi \nBaan Thai \nPure Tacos",
+            " Dim Sum House \n Canton 11 \n Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n KC's Pastries \n Sang Kee Peking Duck House \n CinCin Restaurant \n Veda - Modern Indian Bistro"
+        ]
+    }
+}

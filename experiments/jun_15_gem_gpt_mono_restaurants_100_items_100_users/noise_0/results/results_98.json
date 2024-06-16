@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Mediterranean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for live music somewhere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves both Thai and Korean food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Grain Exchange \n3. CO-OP Restaurant & Lounge \n4. The Continental Restaurant and Martini Bar \n5. Fiore Fine Foods \n6. Macaroni's Restaurant \n7. Audrey Claire \n8. Oteri's Italian Bakery | North 5th St \n9. McMenamin's Tavern \n10. Gran Caffe L'Aquila",
+            "Water Works Restaurant & Lounge \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Milk House \nThe Grill  Smuckers \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nAldine",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Federal Donuts \n10. Mong Kok Station",
+            " Golden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nDaleng Restaurant \nZuzu's Kitchen \nThe Juice Merchant \nThe Tasty Toast \nA Tutti, Ristorante Italiano \nFederal Donuts \nMong Kok Station",
+            "1. Water Works Restaurant & Lounge\n2. Fuji Mountain\n3. Castellino's\n4. Roy-Pitz Barrel House\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Vedge\n7. Cook and Shaker\n8. Mad River Manayunk\n9. Chestnut 7\n10. The Cheesecake Factory",
+            " Golden Triangle \n Daleng Restaurant \n CinCin Restaurant \n Lacroix Restaurant at The Rittenhouse \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Baan Thai \nCanton 11 \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9",
+            "Miga Korean BBQ & Sushi \nDaleng Restaurant \nGolden Triangle \nBistro SouthEast \nChinatown Restaurant Co. \nCanton 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nBaan Thai \nDim Sum House",
+            "Daleng Restaurant \nBistro SouthEast \nTonino \nTalula's Garden \nBuddakan \nBaan Thai \nHibiscus Cafe & Catering \nSarongs Thai & Indian Restaurant \nBangkok Bistro \nThai Diner",
+            "1. Sang Kee Peking Duck House \n2. Baan Thai \n3. Bistro SouthEast \n4. Fuji Mountain \n5. Kanton 11 \n6. Miga Korean BBQ & Sushi \n7. Tu's Tea & Banh Mi South Philly \n8. Federal Donuts \n9. Daleng Restaurant \n10. Golden Triangle",
+            " Daleng Restaurant \\n\nBistro SouthEast \\n\nGolden Triangle \\n\nBaan Thai \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nKC's Pastries \\n\nOishii Pok\u00e9 \\n\nGreen Leafs & Bananas"
+        ]
+    }
+}

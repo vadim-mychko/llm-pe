@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Can I recommend a salad for you?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a vegetarian salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer an Italian sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a chicken sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Vietnamese sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer a cheesesteak?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n Daleng Restaurant \n The Juice Merchant \n Le Pain Quotidien \n CinCin Restaurant \n Heritage",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            " Baan Thai \\n\nDaleng Restaurant \\n\nTu's Tea & Banh Mi South Philly \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nSalad Works \\n\nThe QUICK FIXX \\n\nMiss Rachel's Pantry \\n\nsweetgreen \\n\nSeasons 52",
+            "Local Tavern\nPrimoHoagies\nMong Kok Station\nLaCroix Restaurant at The Rittenhouse\nDaleng Restaurant\nLe Pain Quotidien\nA Tutti, Ristorante Italiano\nWater Works Restaurant & Lounge\nDim Sum House\nThe QUICK FIXX\nOlive Garden Italian Restaurant",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nThe Tasty Toast \nThe Juice Merchant \nDaleng Restaurant \nFederal Donuts \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House",
+            "Oishii Pok\u00e9 \\n\nChestnut 7 \\n\nTu's Tea & Banh Mi South Philly \\n\nSpread Bagelry \\n\nThe Blue Duck \\n\nThe Juice Merchant \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nJD Mcgillicuddy's Manayunk \\n\nThe Green Line Cafe",
+            "The Green Line Cafe \\n\nSpread Bagelry \\n\nThe Juice Merchant \\n\nGreen Leafs & Bananas \\n\nFive Guys \\n\nWawa \\n\nLisa's Kitchen \\n\nPrimoHoagies \\n\nMonster Vegan \\n\nLuvh Vegan Deli",
+            "1. The Green Line Cafe\n2. Green Leafs & Bananas\n3.Spread Bagelry\n4. Luhv Vegan Deli\n5. The QUICK FIXX\n6. Blackbird Pizzeria\n7. Evan's Pizza\n8. Fiore Fine Foods\n9. Cook and Shaker\n10. Aldine",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nLe Pain Quotidien\nCinCin Restaurant\nFederal Donuts",
+            "1. The Green Line Cafe \n2. Green Leafs & Bananas \n3. Spread Bagelry \n4. Founding Fathers Sports Bar & Grill \n5. Trolley Car Diner \n6. Franklin's \n7. JD Mcgillicuddy's Manayunk \n8. Founding Fathers Sports Bar & Grill \n9. Mad River Manayunk \n10. Chestnut 7"
+        ]
+    }
+}

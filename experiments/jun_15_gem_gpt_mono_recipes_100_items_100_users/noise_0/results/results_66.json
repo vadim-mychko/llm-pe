@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Do you like poultry or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian or vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups or stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Queso made from melted cheese and chili peppers\n2. Chopped French duck confit preserved by duck oil\n3. Large portion fries with gravy and bacon\n4. Mildly spicy chili recipe\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. High protein skillet with rice and vegetables\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Cheesy sloppy Joe\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Gluten-free, egg-free, dairy-free, nut-free fudge",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nGrilled salmon seasoned with herbs and spices\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nSpanish rice with chicken breast\n****\nHomemade soup with chicken, noodles, and spices\n****\nVegetable soup made with ground turkey\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat assorted fruit dessert",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSoup made with ground turkey that is low fat, high carb\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nMildly spicy chili recipe\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSoup made with onions, carrots, and celery ribs\n****\nPeppermint chocolate bonbon\n****\nPeach cobbler dessert containing whole wheat flour\n****\nClassic salad with creamy caesar dressing and croutons\n****\nChicken cooked and flavored with lemon sauce\n****\nBerry cobbler that uses frozen mixed berries\n****\nSweet salad made with corn and three types of beans\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Roasted almonds\n3. Almonds coated with butter and salt\n4. Low sugar applesauce cupcakes\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Mozzarella dip recipe\n7. Eggless sauerkraut cake\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Cheesecake made with cream cheese\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nBaked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\n2-ingredient yogurt from scratch\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nQueso made from melted cheese and chili peppers",
+            "1. Assorted cheese soup with chicken\n2. Cheese and olive appetizer made to look like an eyeball\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Bread made swiss style with swiss cheese\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Baked spinach quiche containing bacon\n9. Mildly spicy chili recipe\n10. Low fat coconut alcohol-free cocktail",
+            "1. Sweet salad made with corn and three types of beans\n2. Berry cobbler that uses frozen mixed berries\n3. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n4. Trondheim cake with lingonberry and whipped cream layers\n5. Pork chops glazed with milk and cooked without nuts\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Classic salad with creamy caesar dressing and croutons\n8. Roasted almonds\n9. Chocolate and orange-flavoured smoothie\n10. Banana bread made with whole wheat flour and walnuts",
+            " Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nBerry cobbler that uses frozen mixed berries\n****\nLow fat assorted fruit dessert\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow sugar applesauce cupcakes\n****\nPeach cobbler dessert containing whole wheat flour\n****\nSweet salad made with corn and three types of beans\n****\nJam made from blackberries, lemon juice, and sugar\n****\nFruit juice and banana smoothie\n****\nChocolate and orange-flavoured smoothie",
+            "Chopped French duck confit preserved by duck oil\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nJam made from blackberries, lemon juice, and sugar\nLow-fat coconut alcohol-free cocktail\nFruit salad\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked spinach quiche containing bacon\nBanana bread made with whole wheat flour and walnuts\nLow fat assorted fruit dessert",
+            "1. Low sugar applesauce cupcakes\n2. Blueberry muffins (blueberry banana muffins, blueberry chocolate chip muffins, blueberry cream cheese muffins)\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Sugar-free peanut butter cookies\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n10. Banana bread made with whole wheat flour and walnuts"
+        ]
+    }
+}

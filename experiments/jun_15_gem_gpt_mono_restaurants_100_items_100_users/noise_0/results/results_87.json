@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegan sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegetarian sandwich or a fish sandwich?",
+                "response": "vegetarian sandwich"
+            },
+            {
+                "query": "Does the sandwich need to be gluten free?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich with a Mediterranean or Italian influence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an Italian sandwich shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in the vegetarian Monster Vegan sandwich?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nCinCin Restaurant \\n\nFuji Mountain \\n\nOlive Garden Italian Restaurant \\n\nBloomsday Cafe",
+            "PrimoHoagies \nThe Juice Merchant \nFederal Donuts \nFive Guys \nWawa \nCanton 11 \nBlackbird Pizzeria \nLisa's Kitchen \nGreen Leafs & Bananas \nThe Green Line Cafe",
+            "1. Monster Vegan\n2. Luhv Vegan Deli\n3. Blackbird Pizzeria\n4. The QUICK FIXX\n5. Vedge\n6. Hey Hummus\n7. Benna's Cafe\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "1. Monster Vegan \n2. Hey Hummus \n3. The QUICK FIXX \n4. Luhv Vegan Deli \n5. Vedge \n6. Green Leafs & Bananas \n7. Spread Bagelry \n8. The Green Line Cafe \n9. Betty's Speakeasy \n10. Rival Bros Coffee",
+            "Monster Vegan \nThe QUICK FIXX \nLuvh Vegan Deli \nVedge \nThe Juice Merchant \nHey Hummus \nBenna's Cafe \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry",
+            "The QUICK FIXX\nPrimoHoagies\nMonster Vegan\nBlackbird Pizzeria\nVedge\nThe Green Line Cafe\nSpread Bagelry\nGreen Leafs & Bananas\nWawa\nLuvh Vegan Deli",
+            "1. Monster Vegan \\n\n2. The QUICK FIXX \\n\n3. PrimoHoagies \\n\n4. The Green Line Cafe \\n\n5. Luhv Vegan Deli \\n\n6. Spread Bagelry \\n\n7. Fiore Fine Foods \\n\n8. Lisa's Kitchen \\n\n9. The Blue Duck \\n\n10. Green Leafs & Bananas \n",
+            " Monster Vegan \nThe QUICK FIXX \nZuzu's Kitchen \nPrimoHoagies \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nCastellino's \nA Tutti, Ristorante Italiano \nMacaroni's Restaurant",
+            "1. The QUICK FIXX\n2. Monster Vegan\n3. Fiore Fine Foods\n4. Castellino's\n5. PrimoHoagies\n6. A Tutti, Ristorante Italiano\n7. The Green Line Cafe\n8. Spread Bagelry\n9. Tu's Tea & Banh Mi South Philly\n10. Betty's Speakeasy",
+            "Monster Vegan \nThe QUICK FIXX \nPrimoHoagies \nLisboa Restaurant & Bar \nVedge \nHey Hummus \nThe Juice Merchant \nThe Green Line Cafe \nZizzi - Fairmount Ave \nCapogiro Gelato Artisans and Cafe"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for comfort food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Bistro SouthEast \\n\n2. Golden Triangle \\n\n3. Daleng Restaurant \\n\n4. Sang Kee Peking Duck House \\n\n5. Canton 11 \\n\n6. Miga Korean BBQ & Sushi \\n\n7. Tu's Tea & Banh Mi South Philly \\n\n8. Dim Sum House \\n\n9. KC's Pastries \\n\n10. Oteri's Italian Bakery | North 5th St \\n",
+            "Daleng Restaurant\nBistro SouthEast\nBaan Thai\nCanton 11\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nOishii Pok\u00e9\nPearl's Oyster Bar\nGolden Triangle\nSang Kee Peking Duck House",
+            "- Cook and Shaker\n- Founding Fathers Sports Bar & Grill\n- Jack's Firehouse\n- Love & Honey Fried Chicken\n- Lucky's Last Chance\n- Misconduct Tavern\n- Sister Muhammad's Kitchen\n- The El Bar\n- The Green Line Cafe\n- The QUICK FIXX",
+            "Five Guys\nLove & Honey Fried Chicken\nRoy-Pitz Barrel House\nSang Kee Peking Duck House\nThe El Bar\nThe Juice Merchant\nThe Tavern Restaurant\nWishbone\nCook and Shaker\nTrolley Car Diner",
+            "Federal Donuts \nThe Blue Duck \nCook and Shaker \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory",
+            "1. Olive Garden Italian Restaurant\n2. Macaroni's Restaurant\n3. Lisa's Kitchen\n4. Blackbird Pizzeria\n5. The Blue Duck\n6. Chestnut 7\n7. Steve's Prince of Steaks\n8. Green Leafs & Bananas\n9. Luhv Vegan Deli\n10. Spread Bagelry",
+            "Water Works Restaurant & Lounge \\n\nThe Cheesecake Factory \\n\nBread Street Kitchen & Bar \\n\nSabrina's Cafe \\n\nOsteria Philly \\n\nZahav \\n\nSampan \\n\nKanella Grill \\n\nMike's Cheesesteaks \\n\nAmada",
+            "1. PrimoHoagies\n2. Lisa's Kitchen \n3. Luhv Vegan Deli \n4. The QUICK FIXX \n5. Green Leafs & Bananas \n6. The Green Line Cafe \n7. Spread Bagelry \n8. Wawa \n9. Love & Honey Fried Chicken\n10. Rival Bros Coffee\n",
+            "Zuzu's Kitchen\nThe QUICK FIXX\nEvan's Pizza\nBlackbird Pizzeria\nBetty's Speakeasy\nThe Green Line Cafe\nSpread Bagelry\nAudrey Claire\nThe Blue Duck\nMacaroni's Restaurant",
+            "Federal Donuts \nWawa \nThe Green Line Cafe \nSpread Bagelry \nGreen Leafs & Bananas \nLisa's Kitchen \nSteve's Prince of Steaks \nTrolley Car Diner \nLove & Honey Fried Chicken \nBetty's Speakeasy"
+        ]
+    }
+}

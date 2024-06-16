@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are tacos something you'd be interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Are salads something you like?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "How about Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to Middle Eastern sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for savory vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Mood Indian Restaurant\nWater Works Restaurant & Lounge\nDaleng Restaurant\nFederal Donuts\nGolden Triangle\nZuzu's Kitchen\nThe Juice Merchant\nLacroix Restaurant at The Rittenhouse\nIzumi\nCanton 11",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nCinCin Restaurant",
+            "Federal Donuts \nTu's Tea & Banh Mi South Philly \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nJack's Firehouse \nThe Blue Duck \nThe QUICK FIXX \nWishbone \nBenna's Cafe",
+            "Zuzu's Kitchen \nGrain Exchange \nThe Tasty Toast \nPrimoHoagies \nThe Blue Duck \nThe QUICK FIXX \nThe Green Line Cafe \nSpread Bagelry \nLisa's Kitchen \nGreen Leafs & Bananas",
+            "1. Misconduct Tavern \\n\n2. PrimoHoagies \\n\n3. Green Leafs & Bananas \\n\n4. Spread Bagelry \\n\n5. Steve's Prince of Steaks \\n\n6. Luhv Vegan Deli \\n\n7. The QUICK FIXX \\n\n8. Betty's Speakeasy \\n\n9. Lisa's Kitchen \\n\n10. The Blue Duck",
+            "Luhv Vegan Deli\nGreen Leafs & Bananas\nThe Green Line Cafe\nSpread Bagelry\nThe QUICK FIXX\nDaleng Restaurant\nMonster Vegan\nEssene Market & Caf\u00e9\nHey Hummus\nBenna's Cafe",
+            "1. Monster Vegan \\n\n2. The QUICK FIXX \\n\n3. Green Leafs & Bananas \\n\n4. Spread Bagelry \\n\n5. Lisa's Kitchen \\n\n6. Luhv Vegan Deli \\n\n7. The Green Line Cafe \\n\n8. Betty's Speakeasy \\n\n9. Trolley Car Diner \\n\n10. PrimoHoagies",
+            "1. Blackbird Pizzeria\n2. Monster Vegan\n3. The QUICK FIXX\n4. Luhv Vegan Deli\n5. Hey Hummus\n6. Vedge\n7. Green Leafs & Bananas\n8. The Green Line Cafe\n9. Spread Bagelry\n10. Cafe L'Aube\n",
+            "Monster Vegan \nLuvh Vegan Deli \nVedge \nThe QUICK FIXX \nHey Hummus \nGreen Leafs & Bananas \nBlackbird Pizzeria \nSpread Bagelry \nThe Green Line Cafe \nThe Juice Merchant",
+            "1. The QUICK FIXX \\n\n2. Betty's Speakeasy \\n\n3. Blackbird Pizzeria \\n\n4. Green Leafs & Bananas \\n\n5. Luhv Vegan Deli \\n\n6. The Green Line Cafe \\n\n7. Spread Bagelry \\n\n8. The Blue Duck \\n\n9. Lisa's Kitchen \\n\n10. Trolley Car Diner\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for fried chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a chicken wing restaurant that serve American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American traditional chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a fried chicken restaurant that serves American traditional chicken wings and is not a sandwich shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a fried chicken restaurant that serves American traditional chicken wings and is not a sandwich shop?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nZuzu's Kitchen \nCastellino's \nMiga Korean BBQ & Sushi \nFederal Donuts \nChinChin Restaurant \nDim Sum House \nLaCroix Restaurant at The Rittenhouse \nHeritage",
+            "1. Dim Sum House \n2. Golden Triangle \n3. Grain Exchange \n4. Izumi \n5. North Bowl \n6. Roy-Pitz Barrel House \n7. Blackbird Pizzeria \n8. Fiore Fine Foods \n9. The QUICK FIXX \n10. Jack's Firehouse",
+            "- Love & Honey Fried Chicken\n- Wishbone\n- Lisa's Kitchen\n- Jack's Firehouse\n- Franklin's\n- JD Mcgillicuddy's Manayunk\n- Blackbird Pizzeria\n- Luhv Vegan Deli\n- Founding Fathers Sports Bar & Grill\n- Chestnut 7",
+            "1. Wishbone \\n\n2. Love & Honey Fried Chicken \\n\n3. Lucky's Last Chance \\n\n4. Blackbird Pizzeria \\n\n5. Federal Donuts \\n\n6. Lisa's Kitchen \\n\n7. Roy-Pitz Barrel House \\n\n8. Jack's Firehouse \\n\n9. Mad River Manayunk \\n\n10. Franklin's",
+            "Wishbone \nFederal Donuts \nMiga Korean BBQ & Sushi \nJack's Firehouse \nFranklin's \nLove & Honey Fried Chicken \nJD Mcgillicuddy's Manayunk \nPure Tacos \nBetty's Speakeasy \nThe QUICK FIXX",
+            "Love & Honey Fried Chicken \\n\nWishbone \\n\nFederal Donuts \\n\nJack's Firehouse \\n\nLisa's Kitchen \\n\nThe Blue Duck \\n\nBlackbird Pizzeria \\n\nLucky's Last Chance \\n\nJD Mcgillicuddy's Manayunk \\n\nFranklin's",
+            "1. Love & Honey Fried Chicken \\n\n2. Wishbone \\n\n3. Blackbird Pizzeria \\n\n4. Lisa's Kitchen \\n\n5. JD Mcgillicuddy's Manayunk \\n\n6. Franklin's \\n\n7. Betty's Speakeasy \\n\n8. Luhv Vegan Deli \\n\n9. Steve's Prince of Steaks \\n\n10. Lucky's Last Chance",
+            "Love & Honey Fried Chicken \nWishbone \nFederal Donuts \nFive Guys \nJack's Firehouse \nFranklin's \nLisa's Kitchen \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance \nChickie's & Pete's \nHooters \nBuffalo Wild Wings",
+            "Sister Muhammad's Kitchen \nLove & Honey Fried Chicken \nJack's Firehouse \nLucky's Last Chance \nJD Mcgillicuddy's Manayunk \nLisa's Kitchen \nFederal Donuts \nFranklin's \nWawa \nWishbone",
+            "Wishbone \\n\nThe Blue Duck \\n\nFederal Donuts \\n\nLove & Honey Fried Chicken \\n\nFranklin's \\n\nLisa's Kitchen \\n\nMcMenamin's Tavern \\n\nJD Mcgillicuddy's Manayunk \\n\nLucky's Last Chance \\n\nJack's Firehouse"
+        ]
+    }
+}

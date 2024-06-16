@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pizza over burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something vegan?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a lively nightlife?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with hot dogs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nPrimoHoagies\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nThe Juice Merchant\nLe Pain Quotidien\nFederal Donuts\nA Tutti, Ristorante Italiano\nCanton 11",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Germantown Garden \n5. Daleng Restaurant \n6. Water Works Restaurant & Lounge\n7. The Tasty Toast \n8. Le Pain Quotidien \n9. Grain Exchange \n10. A Tutti, Ristorante Italiano",
+            "1. Tavola Restaurant \n2. Veda - Modern Indian Bistro \n3. Jain Vegetarian Restaurant \n4. El Limon \n5. Taco Riendo \n6. Spice Indian Bistro \n7. Saket Restaurant \n8. Desi Chaat House \n9. Annalakshmi Vegetarian Restaurant \n10. Benna's Cafe",
+            "1. The Tavern Restaurant\n2. Tavern On the Hill\n3. Paddy's Old City Pub\n4. Mad River Manayunk\n5. CJ & Eck's\n6. Franklin's\n7. JD Mcgillicuddy's Manayunk\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. Misconduct Tavern",
+            "1. The Grill  Smuckers \n2. The Tavern Restaurant \n3. Founding Fathers Sports Bar & Grill \n4. The Blue Duck \n5. The Cheesecake Factory \n6. Macaroni's Restaurant \n7. Olive Garden Italian Restaurant \n8. Pearl's Oyster Bar \n9. Five Guys \n10. Wishbone",
+            "The Grill  Smuckers \\n\nThe Tasty Toast \\n\nGrain Exchange \\n\nAmerican (Traditional) \\n\nThe Tavern Restaurant \\n\nMisconduct Tavern \\n\nFive Guys \\n\nMonster Vegan \\n\nMad River Manayunk \\n\nThe El Bar",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Heritage \n4. Paddy's Old City Pub \n5. Mad River Manayunk \n6. Franklin's \n7. JD Mcgillicuddy's Manayunk \n8. Founding Fathers Sports Bar & Grill \n9. Lucky's Last Chance \n10. CJ & Eck's",
+            "Federal Donuts\nWishbone\nJack's Firehouse\nLisa's Kitchen\nRoy-Pitz Barrel House\nFranklin's\nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nThe Green Line Cafe\nPure Tacos",
+            "1. Love & Honey Fried Chicken \n2. Wingmans \n3. Lisa's Kitchen \n4. Jack's Firehouse \n5. Franklin's Bar & Grill \n6. The Blue Duck \n7. Founding Fathers Sports Bar & Grill \n8. JD Mcgillicuddy's Manayunk \n9. Paddy's Old City Pub \n10. Lucky's Last Chance "
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Do you like dishes with an exotic flavor profile?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dessert dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like alcoholic drinks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Low fat sweet potato fries made with cajun seasoning\n7. Fries with gravy and bacon\n8. Assorted cheese soup with chicken\n9. Pepperoni pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n",
+            "Low sugar applesauce cupcakes\nSoup made with cabbage, carrots, potatoes, and onions\nCreamy base with dill flavoring, eggs, and noodles\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nShredded barbecued pork shoulder\nPeppermint chocolate bonbon\nAlmonds coated with butter and salt\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "Baked spinach quiche containing bacon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChicken cooked and flavored with lemon sauce\nLow fat coconut alcohol-free cocktail\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nNorwegian cake with lingonberry and whipped cream layers\nCrispy mozzarella cheese sticks with marinara sauce\nPeach cobbler dessert containing whole wheat flour\nTurkey cooked with plum sauce\nFried shrimp and scallops",
+            "Grilled salmon seasoned with salt and pepper \\n\nSalmon roasted with olive oil, chives, and tarragon leaves \\n\nRoasted almonds  \\n\nLow fat assorted fruit dessert  \\n\nLow-sugar applesauce cupcakes  \\n\nSmoothie made from fruit juice and bananas \\n\nChocolate and orange-flavoured smoothie \\n\nSlushie drink made from orange juice blended with ice \\n\nLow fat smoothies made with greek yogurt and pineapple \\n\nSmoothie made from banana puree with milk \n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Chococlate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Low sugar applesauce cupcakes\n****\n Chicken cooked and flavored with lemon sauce\n****\n Baked spinach quiche containing bacon\n****\n Sausage (pork) and apples low fat baked breakfast pie\n****\n Low fat baked sweet potato fries made with cajun seasoning\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****",
+            "Baked spinach quiche containing bacon\nChicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nGrilled salmon seasoned with salt and pepper\nPeppermint chocolate bonbon\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat sweet potato fries made with cajun seasoning\nLow-fat coconut alcohol-free cocktail\nAssorted cheese soup with chicken\n'''''",
+            "1. High protein skillet with rice and vegetables\n2. Vegetable curry flavoured with curry powder and ground tumeric\n3. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n8. Baked breakfast bars made with nuts and seeds\n9. Assortment of shredded vegetables with seasoning\n10. Assorted cheese soup with chicken",
+            "2-ingredient yogurt from scratch\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nBaked spinach quiche containing bacon\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nLow fat diced baked or fried potatoes\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nEggless sauerkraut cake",
+            "1. Low sugar applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Jam made from blackberries, lemon juice, and sugar\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked breakfast bars made with nuts and seeds\n8. Simple creamy oyster soup\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "Baked spinach quiche containing bacon\nGrilled salmon seasoned with salt and pepper\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with cabbage, carrots, potatoes, and onions\nBerry cobbler that uses frozen mixed berries\nVegetable curry flavoured with curry powder and ground tumeric\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce"
+        ]
+    }
+}

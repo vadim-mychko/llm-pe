@@ -13,7 +13,7 @@ module load pytorch2.0-cuda11.8-python3.9
 module load cuda-11.8
 source activate llm-pe
 
-export GEMINI_API_KEY='AIzaSyAKplymqJHF8tC5WMbbvRDPUO6UAjkbI_8'
+export GEMINI_API_KEY='AIzaSyBFfgi6ivrvkqVMob42eFO3wrkCrGpLfhc'
 
 # (while true; do nvidia-smi; top -b -n 1 | head -20; sleep 10; done) &
 # srun accelerate launch /h/davaus80/McIntoshLab-MedBind/david_efficiency_test.py

@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American-style sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a food delivery service?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food that is vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want cheese steaks?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nThe Tasty Toast",
+            "1. The Tasty Toast \n2. The Grill  Smuckers \n3. Tavern On the Hill \n4. Paddy's Old City Pub \n5. Misconduct Tavern \n6. Olive Garden Italian Restaurant \n7. Five Guys \n8. North Bowl \n9. Mad River Manayunk \n10. Lisa's Kitchen",
+            "Monster Vegan \nThe Tasty Toast \nThe QUICK FIXX \nPrimoHoagies \nThe Green Line Cafe \nGreen Leafs & Bananas \nSpread Bagelry \nLisa's Kitchen \nFive Guys \nWawa",
+            "PrimoHoagies \nFive Guys \nThe Tasty Toast \nThe Blue Duck \nGreen Leafs & Bananas \nSteve's Prince of Steaks \nTrolley Car Diner \nThe Green Line Cafe \nSpread Bagelry \nLisa's Kitchen",
+            "The Blue Duck\nLisa's Kitchen\nSteve's Prince of Steaks \nThe Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nBlackbird Pizzeria \nFederal Donuts \nJack's Firehouse \nThe Tavern Restaurant \nGrain Exchange \nBetty's Speakeasy \nLove & Honey Fried Chicken \nThe Juice Merchant \nThe Milky Way \nRoy-Pitz Barrel House \nChris' Jazz Cafe \nTrolley Car Diner \nFive Guys \nThe Continental Restaurant and Martini Bar \nWishbone \nLucky's Last Chance \nPaddy's Old City Pub \nMad River Manayunk \ncj & eck's \nFounding Fathers Sports Bar & Grill \nFranklin's \nMcmenamin's Tavern \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk \nChestnut 7 \nThe El Bar \nJake's & Cooper's Wine Bar & Wine Shop \nThe Cheesecake Factory \nWawa \nBloomsday Cafe \nCafe L'Aube \nRival Bros Coffee \nFederal Donuts \nGran Caffe L'Aquila\n",
+            "Germantown Garden \nThe Tasty Toast \nPaddy's Old City Pub \nMisconduct Tavern \nFive Guys \nRoy-Pitz Barrel House \nThe Continental Restaurant and Martini Bar \nJake's & Cooper's Wine Bar & Wine Shop \nEvan's Pizza \nBlackbird Pizzeria",
+            "1. Lucky's Last Chance \n2. Wishbone \n3. Jack's Firehouse \n4. Love & Honey Fried Chicken \n5. Lisa's Kitchen \n6. The Blue Duck \n7. The Tavern Restaurant \n8. Misconduct Tavern \n9. Founding Fathers Sports Bar & Grill \n10. Franklin's",
+            "1. Wishbone \n2. Jack's Firehouse \n3. Lisa's Kitchen \n4. Franklin's \n5. JD Mcgillicuddy's Manayunk \n6. Lucky's Last Chance \n7. Love & Honey Fried Chicken \n8. Blackbird Pizzeria \n9. Founding Fathers Sports Bar & Grill \n10. Chestnut 7 ",
+            "Founding Fathers Sports Bar & Grill\nFranklin's\nJD Mcgillicuddy's Manayunk\nWishbone\nMcMenamin's Tavern\nJack's Firehouse\nThe El Bar\nLibert\u00e9 Lounge\nPearl's Oyster Bar\nJake's & Cooper's Wine Bar & Wine Shop",
+            "1. The Blue Duck \n2. Wishbone \n3. Franklin's \n4. Lisa's Kitchen \n5. Steve's Prince of Steaks \n6. Green Leafs & Bananas \n7. Founding Fathers Sports Bar & Grill \n8. Lucky's Last Chance \n9. Love & Honey Fried Chicken \n10. CJ & Eck's\n"
+        ]
+    }
+}

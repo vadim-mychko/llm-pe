@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Do you like fruit and vegetable dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like high-protein meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegan dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups or salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Asparagus recipe\n4. Italian salad made from romain lettuce, artichokes, and tomatoes\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. 5-fruit salad: oranges, strawberries, blackberries, grapes, pears\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Soup made with onions, carrots, and celery ribs\n",
+            "Smoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nChocolate and orange-flavoured smoothie\nCreamy base with dill flavoring, eggs, and noodles\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat coconut alcohol-free cocktail\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSweet salad made with corn and three types of beans",
+            "Banana smoothie made from banana puree with milk\nChocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from fruit juice and bananas\nSlushie drink made from orange juice blended with ice\nLow fat assorted fruit dessert\nBlueberry smoothie recipe\nVery berry smoothie\nStrawberry banana smoothie\nGreen smoothie made from spinach, banana, and apple\nFrozen strawberry smoothie\n*****\nHigh protein skillet with rice and vegetables\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with turkey, onions, and scallops\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with ground turkey that is low fat, high carb\nHomemade soup with chicken, noodles, and spices\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nMildly spicy taco soup recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n*****\nTuna salad sandwich\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSandwich made with: grilled / broiled marinated chicken\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork shoulder for Chinese dragon boat festival\n*****\nBaked mozzarella cheese sticks with marinara sauce\nChicken and veggie with low fat dressing\nHealthy avocado salad\nHomemade vegetarian chili\nVegetarian stir-fried noodles\nVegetarian slow cooker soup\nRoasted root vegetable\nEasy vegetarian casserole\n100 Vegetarian dish\nVegetarian curry\n",
+            "1. Smoothie made from fruit juice and bananas\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Chocolate and orange-flavoured smoothie\n4. Slushie drink made from orange juice blended with ice\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Smoothies made with banana puree with milk\n7. Vegetable soup with chicken\n8. South African vegetable curry flavoured with curry powder and ground tumeric\n9. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n10. Sweet salad made with corn and three types of beans",
+            "1. Smoothies made with fruit juice and bananas\n2. Chocolate and orange-flavoured smoothie\n3. Slushie drink made from orange juice blended with ice\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Smoothie made from banana puree with milk\n6. Vegetable curry flavoured with curry powder and ground tumeric\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with vegetables and chicken",
+            " **1. Very low-fat assortment of shredded vegetables with seasoning**\n**2. Vegetables and chicken soup**\n**3. Low fat assorted fruit dessert**\n**4. Vegetable soup with chicken**\n**5. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning**\n**6. Soup made with cabbage, carrots, potatoes, and onions**\n**7. Creamy base with dill flavoring, eggs, and noodles**\n**8. Low fat sweet potato fries made with cajun seasoning**\n**9. Smoothies made with fruit juice and bananas**\n**10. Smoothie made from fruit juice and bananas**",
+            "Low fat assorted fruit dessert\nSmoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nLow sugar applesauce cupcakes\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow fat coconut alcohol-free cocktail",
+            "Chocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nVery low-fat assortment of shredded vegetables with seasoning\n'''",
+            "1. Low fat assorted fruit dessert\n2. Smoothies made with fruit juice and bananas\n3. Banana bread made with whole wheat flour and walnuts\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Chocolate and orange-flavoured smoothie\n6. Slushie drink made from orange juice blended with ice\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Low sugar applesauce cupcakes\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Sugar-free peanut butter cookies",
+            "1. Low fat assorted fruit dessert\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low sugar applesauce cupcakes\n4. Sweet salad made with corn and three types of beans\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Chocolate and orange-flavoured smoothie\n7. Smoothie made from fruit juice and bananas\n8. Smoothie made from banana puree with milk\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Low-fat coconut alcohol-free cocktail"
+        ]
+    }
+}

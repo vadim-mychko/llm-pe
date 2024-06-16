@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that serves vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant with breakfast brunch options?",
+                "response": "yes"
+            },
+            {
+                "query": "Would something serving American style food be of interest?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are Indian restaurants of interest?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a breakfast and brunch place that serves American-style sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Does a donut shop sound appealing?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nThe Tavern Restaurant \nMisconduct Tavern \nFive Guys \nMonster Vegan \nGreen Leafs & Bananas",
+            "PrimoHoagies \\n\nThe Juice Merchant \\n\nThe Tasty Toast \\n\nFive Guys \\n\nMonster Vegan \\n\nGreen Leafs & Bananas \\n\nThe QUICK FIXX \\n\nLisa's Kitchen \\n\nLuvh Vegan Deli \\n\nThe Green Line Cafe",
+            " PrimoHoagies \\n\nThe QUICK FIXX \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nWawa \\n\nDim Sum House \\n\nChestnut 7 \\n\nMcMenamin's Tavern",
+            "Zuzu's Kitchen\nGolden Triangle\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant\nA Tutti, Ristorante Italiano",
+            "1. The Green Line Cafe \n2. Pearl's Oyster Bar \n3. The Tasty Toast \n4. The Milk House \n5. Misconduct Tavern \n6. CO-OP Restaurant & Lounge \n7. Mad River Manayunk \n8. Betty's Speakeasy \n9. Founding Fathers Sports Bar & Grill \n10. Blackbird Pizzeria",
+            "1. The Tasty Toast \n2. PrimoHoagies \n3. Five Guys \n4. Steve's Prince of Steaks \n5. Green Leafs & Bananas \n6. The Green Line Cafe \n7. Spread Bagelry \n8. Chestnut 7 \n9. Founding Fathers Sports Bar & Grill \n10. Jack's Firehouse",
+            "The Blue Duck \nThe Tasty Toast \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nFederal Donuts \nThe Grill  Smuckers \nThe Cheesecake Factory \nOishii Pok\u00e9 \nBloomsday Cafe",
+            "The Green Line Cafe \nCinCin Restaurant \nSpreed Bagel\nWawa \nVedge \nJack's Firehouse \nThe Cheesecake Factory \nThe Blue Duck \nMonster Vegan \nSteve's Prince of Steaks",
+            "1. The Blue Duck \n2. The Tavern Restaurant \n3. Trolley Car Diner \n4. Benna's Cafe \n5. The Tasty Toast \n6. Jack's Firehouse \n7. Five Guys \n8. Lisa's Kitchen \n9. Green Leafs & Bananas \n10. The Juice Merchant",
+            "1. The Tasty Toast\n2. The Blue Duck\n3. Lisa's Kitchen\n4. Green Leafs & Bananas\n5. The Green Line Cafe\n6. Audenreid \n7. Spread Bagelry\n8. Betty's Speakeasy\n9. rival Bros Coffee\n10. Fiore Fine Foods\n"
+        ]
+    }
+}

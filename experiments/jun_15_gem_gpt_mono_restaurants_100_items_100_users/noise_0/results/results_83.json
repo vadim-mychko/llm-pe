@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a restaurant that has a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Italian cuisines?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to restaurants with salad options as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that also has pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves halal food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Cambodian cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Thai cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to restaurants with Vietnamese cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve Korean cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nZuzu's Kitchen \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nLe Pain Quotidien \nThe Tasty Toast \nFederal Donuts \nHeritage",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nThe Tasty Toast \nFederal Donuts \nThe Milk House \nThe Grill  Smuckers \nCO-OP Restaurant & Lounge \nBloomsday Cafe \nOlive Garden Italian Restaurant ",
+            " Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n PrimoHoagies \n Macaroni's Restaurant \n The Blue Duck \n The QUICK FIXX \n The Cheesecake Factory \n Oteri's Italian Bakery | North 5th St \n Gran Caffe L'Aquila \n Fiore Fine Foods",
+            "1. Fiore Fine Foods \n2. Ristorante La Buca \n3. A Tutti, Ristorante Italiano \n4. The QUICK FIXX \n5. Castellino's \n6. PrimoHoagies \n7. Macaroni's Restaurant \n8. The Continental Restaurant and Martini Bar \n9. Betty's Speakeasy \n10. Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. Ristorante La Buca\n2. DaLuigi Restaurant**\n3. Audrey Claire\n4. Vedge\n5. CinCin Restaurant\n6. Talluto's Authentic Italian Food\n7. PrimoHoagies\n8. A Tutti, Ristorante Italiano\n9. Fiore Fine Foods\n10. The QUICK FIXX",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. PrimoHoagies \n3. A Tutti, Ristorante Italiano \n4. Talluto's Authentic Italian Food \n5. Castellino's \n6. Olive Garden Italian Restaurant \n7. Macaroni's Restaurant \n8. Fiore Fine Foods \n9. Ristorante La Buca \n10. Audrey Claire",
+            "Ristorante La Buca \\n\nZuzu's Kitchen \\n\nGran Caffe L'Aquila \\n\nA Tutti, Ristorante Italiano \\n\nFiore Fine Foods \\n\nMacaroni's Restaurant \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nOlive Garden Italian Restaurant \\n\nPrimoHoagies",
+            "1. PrimoHoagies\n2. Italiano BYOB\n3. Original 13 Ciderworks\n4. Bella's Cucina\n5. Villa di Roma\n6. Vetri Cucina\n7. Pizzeria Beddia\n8. Osteria\n9. Barbuzzo\n10. Talula's Garden",
+            "A Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant \nTalluto's Authentic Italian Food \nPrimoHoagies \nCastellino's \nMacaroni's Restaurant \nThe QUICK FIXX \nThe Cheesecake Factory \nFiore Fine Foods \nRistorante La Buca",
+            "- A Tutti, Ristorante Italiano\n- PrimoHoagies\n- The Tasty Toast\n- Olive Garden Italian Restaurant\n- Macaroni's Restaurant\n- The Blue Duck\n- The QUICK FIXX\n- Betty's Speakeasy\n- Oteri's Italian Bakery | North 5th St\n- Spread Bagelry"
+        ]
+    }
+}

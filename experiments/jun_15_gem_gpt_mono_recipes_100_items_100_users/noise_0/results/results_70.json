@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savoury items to sweet ones?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer items with cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meats to non-meats?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer poultry items?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nSoup made with ground turkey that is low fat, high carb\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatballs made with ground beef and ground pork\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nDigestion-friendly waffles",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Taiwanese deep fried crispy chicken cutlets\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Chicken breasts stuffed with bacon and mozzarella\n10. High protein skillet with rice and vegetables",
+            " Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCalcium-rich soup made with broccoli and beans\n****\nBaked breakfast bars made with nuts and seeds\n****\nPolish sausage with fermented cabbage\n****\nHigh protein skillet with rice and vegetables",
+            "1. Beef stew made with beef, carrots and potatoes\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Grilled salmon seasoned with salt and pepper\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Chicken cooked and flavored with lemon sauce\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Mildly spicy chili recipe\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Roast turkey with plum sauce\n10. Polish sausage with fermented cabbage",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nHomemade soup with chicken, noodles, and spices\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nKorean soup containing beef brisket and flavoured with red pepper powder\nPork chops glazed with milk and cooked without nuts\nBeef stew made with beef, carrots and potatoes\nShredded barbecued pork shoulder",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Roasted almonds\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Simple creamy oyster soup\n5. Salisbury steak with green beans\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Garlic bread with cheddar, green onions, and mayonnaise\n9. Chopped French duck confit preserved by duck oil\n10. 2-ingredient yogurt from scratch\n'''",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Pork chops glazed with milk and cooked without nuts\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Grilled salmon seasoned with salt and pepper\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Chicken cooked and flavored with lemon sauce\n9. Beef stew made with beef, carrots and potatoes\n10. Salmon fillets grilled in a pan with herbs and spices",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Shredded barbecued pork shoulder\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Polish sausage with fermented cabbage\n6. Korean soup containing beef brisket and flavoured with red pepper powder\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Low fat assorted fruit dessert",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled salmon roasted with olive oil, chives, and tarragon leaves\n3. Roast chicken with plum sauce\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Chicken cooked and flavored with lemon sauce\n6. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n7. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n8. Chicken and rice with vegetables\n9. Roast turkey with plum sauce\n10. Baked spinach quiche containing bacon"
+        ]
+    }
+}

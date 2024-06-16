@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nMildly spicy chili recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Roasted almonds\n****\n Almonds coated with butter and salt\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Smoothies made with fruit juice and bananas\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n Assorted cheese soup with chicken\n****",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nBaked spinach quiche containing bacon\n****\nHomemade soup with chicken, noodles, and spices\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nAlmonds coated with butter and salt",
+            "1. High protein skillet with rice and vegetables\n2. Assorted cheese soup with chicken\n3. Oatmeal with berries and nuts\n4. Vegetarian chili made with beans, tomatoes, and spices\n5. Chicken and vegetable soup\n6. Lentil soup\n7. Black bean soup\n8. Minestrone soup\n9. Gazpacho\n10. Bean soup",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Tuna salad sandwich\n6. Chicken cooked and flavored with lemon sauce\n7. Roasted almonds\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Smoothie made from banana puree with milk\n10. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nGrilled vegetables with pine nut parmesan pesto \\n\nPortabella mushroom and asparagus lemon pasta \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nVegetable soup with broccoli and corn \\n\nCarrot and fennel salad with zucchini \\n\nPea shoot and soybean salad with sesame dressing \\n\nItalian salad made from romain lettuce, artichokes, and tomatoes \\n\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSmoothie made from fruit juice and bananas",
+            " Very low-fat assortment of shredded vegetables with seasoning\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSweet salad made with corn and three types of beans\n****\n5-fruit salad made with oranges, strawberries, blackberries, grapes, and pears\n****\nGrilled vegetables on a stick\n****\nVegetable stir fry\n****\nMixed vegetable platter\n****\nVegetarian spring rolls",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nHigh protein skillet with rice and vegetables\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChicken cooked and flavored with lemon sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nChicken and vegetable soup with a beer broth\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nFried shrimp and scallops",
+            " Grilled salmon seasoned with salt and pepper\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBaked spinach quiche containing bacon\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCheese and crackers\n"
+        ]
+    }
+}
