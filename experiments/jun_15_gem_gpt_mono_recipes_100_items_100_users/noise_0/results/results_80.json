@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Do you like to bake?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meats?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups and stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Asian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " 1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Queso made from melted cheese and chili peppers\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Assorted cheese soup with chicken\n9. Baked breakfast bars made with nuts and seeds\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nBaked spinach quiche containing bacon\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nMozzarella dip recipe\nCheese with crackers\nLow fat diced baked or fried potatoes",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked mozzarella cheese sticks with marinara sauce\nBaked spinach quiche containing bacon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked breakfast bars made with nuts and seeds\nPeppermint chocolate bonbon\n```",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n5. Cheese and vegetable soup with a beer broth\n6. Spanish rice with chicken breast\n7. Stir-fried tofu, noodles and vegetables Bento\n8. Homemade soup with chicken, noodles, and spices\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts\n",
+            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Cheesy mushroom and alfredo pasta\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Vegetable soup made with mixed vegetables\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Baked eggplant and zucchini chinese salad flavoured with soy sauce\n****\n Mildly spicy chili recipe\n****\n Veggie lasagna made with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti noodles with mussels, anchovy fillets, and capers\nItalian salad made from romain lettuce, artichokes, and tomatoes\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nSpanish rice with chicken breast",
+            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese and vegetable soup with a beer broth\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpanish rice with chicken breast\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nBaked mozzarella cheese sticks with marinara sauce\n****",
+            "High protein skillet with rice and vegetables\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSwiss cheese bread\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nSoup made with vegetables and chicken\n****\nItalian salad made from romaine lettuce, artichokes, and tomatoes\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nChow Mein soup made with meat and noodles\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHomemade soup with chicken, noodles, and spices\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****",
+            "spaghetti noodles with mussels, anchovy fillets, and capers\nCheese and vegetable soup with a beer broth\nMushroom soup\nCreamy base with dill flavoring, eggs, and noodles\nCalcium-rich soup made with broccoli and beans\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled salmon seasoned with salt and pepper\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''``",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Spanish rice with chicken breast\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Mildly spicy chili recipe\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Soup made with onions, carrots, and celery ribs\n'''"
+        ]
+    }
+}

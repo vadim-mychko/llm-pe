@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Do you like to eat fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like mayonnaise?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Fruit juice and banana smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nLow sugar applesauce cupcakes\n****\nSmoothie made from fruit juice and bananas\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nChocolate and orange-flavoured smoothie\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBerry cobbler that uses frozen mixed berries\n****\nLow fat assorted fruit dessert",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nFruit-flavored assorted fruit dessert\nSmoothie made from banana puree with milk\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nLow-sugar applesauce cupcakes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n'''",
+            "Peach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert\nBerry cobbler that uses frozen mixed berries\n5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\nLow sugar applesauce cupcakes\nSmoothie made from fruit juice and bananas\nBanana bread made with whole wheat flour and walnuts\nSalad made from romaine lettuce, artichokes, and tomatoes\nChocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk",
+            " 1. Vietnamese Pho (noodles with Vietnamese broth)\n2. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Chicken cooked and flavored with lemon sauce\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Steak with broccoli and asparagus\n9. Baked apples with cinnamon and brown sugar\n10. Nachos with seasoned ground beef, cheddar cheese, sour cream, salsa, and guacamole \n'''",
+            "Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nLow fat assorted fruit dessert\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow sugar applesauce cupcakes\nJam made from blackberries, lemon juice, and sugar\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie",
+            "1. Low fat assorted fruit dessert\n2. 5-fruit salad (oranges, strawberries, blackberries, grapes, pears)\n3. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Berry cobbler that uses frozen mixed berries\n6. Low sugar applesauce cupcakes\n7. Sugar-free peanut butter cookies\n8. Jam made from blackberries, lemon juice, and sugar\n9. Peach cobbler dessert containing whole wheat flour\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Smoothies made with fruit juice and bananas\n4. Assorted cheese soup with chicken\n5. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n6. Almonds coated with butter and salt\n7. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n8. Low fat coconut alcohol-free cocktail\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Low fat diced baked or fried potatoes\n",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat assorted fruit dessert\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSimple creamy oyster soup\nBerry cobbler that uses frozen mixed berries\nPeach cobbler dessert containing whole wheat flour\nChocolate and orange-flavoured smoothie",
+            "Berry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n5-fruit salad made with oranges, strawberries, blackberries, grapes, and pears\nLow sugar applesauce cupcakes\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nLow-fat coconut alcohol-free cocktail",
+            "Very low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nLow fat diced baked or fried potatoes\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nLow fat assorted fruit dessert\nSoup made with vegetables and chicken\n'''"
+        ]
+    }
+}

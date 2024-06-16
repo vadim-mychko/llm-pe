@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Do you like items with vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chocolate desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nNorwegian cake with lingonberry and whipped cream layers\nGerman chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPork chops glazed with milk and cooked without nuts\nClassic salad with creamy caesar dressing and croutons\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nHomemade soup with chicken, noodles, and spices\n''''",
+            "Pork chops glazed with milk and cooked without nuts\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpanish rice with chicken breast\nPeppermint chocolate bonbon\nBerry cobbler that uses frozen mixed berries\nMozzarella dip recipe\nChopped French duck confit preserved by duck oil\nMeatballs made with ground beef and ground pork\nBaked mozzarella cheese sticks with marinara sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nClassic salad with creamy caesar dressing and croutons\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti noodles with mussels, anchovy fillets, and capers\n'''",
+            " ****\nQueso made from melted cheese and chili peppers\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nPork chops glazed with milk and cooked without nuts\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nBaked mozzarella cheese sticks with marinara sauce",
+            " Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nSugar-free peanut butter cookies \\n\nLow-fat coconut alcohol-free cocktail \\n\nLow sugar applesauce cupcakes \\n\nSweet salad made with corn and three types of beans \\n\nChocolate and orange-flavoured smoothie \\n\nSlushie drink made from orange juice blended with ice \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nSmoothie made from fruit juice and bananas",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Peppermint chocolate bonbon\n6. Peach cobbler dessert containing whole wheat flour\n7. Berry cobbler that uses frozen mixed berries\n8. Sweet salad made with corn and three types of beans\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Almonds coated with butter and salt",
+            "Baked mozzarella cheese sticks with marinara sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeppermint chocolate bonbon\nCheese and olive appetizer made to look like an eyeball\nQueso made from melted cheese and chili peppers\nBaked spinach quiche containing bacon\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nPeach cobbler dessert containing whole wheat flour\nPork chops glazed with milk and cooked without nuts\n'''",
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Low fat assorted fruit dessert\n3. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n4. Chocolate and orange-flavoured smoothie\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norwegian cake with lingonberry and whipped cream layers\n7. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. Peppermint chocolate bonbon\n9. Peach cobbler dessert containing whole wheat flour\n10. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Strawberry cheesecake made with fresh strawberries and ice cream\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Peppermint chocolate bonbon",
+            "Cheesecake made with cream cheese\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nChocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nSlushie drink made from orange juice blended with ice\nLow fat assorted fruit dessert\nVery low-fat assortment of shredded vegetables with seasoning\n'''"
+        ]
+    }
+}

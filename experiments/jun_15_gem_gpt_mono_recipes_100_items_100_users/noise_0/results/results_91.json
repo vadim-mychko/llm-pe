@@ -1,0 +1,58 @@
+{
+    "91": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer meat-based meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dishes that are vegetarian?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer hot meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer creamy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer low-fat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sauces or dips?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are salty and crispy?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1.\tSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2.\tGrilled salmon seasoned with salt and pepper\n3.\tSalmon fillets grilled in a pan with herbs and spices\n4.\tSalmon roasted with olive oil, chives, and tarragon leaves\n5.\tVery low-fat assortment of shredded vegetables with seasoning\n6.\tLow sugar applesauce cupcakes\n7.\tLow fat baked breakfast pie made with sausage (pork) and apples\n8.\tLow fat diced baked or fried potatoes\n9.\tLow fat smoothies made with greek yogurt, and pineapple\n10.\tLow fat coconut alcohol-free cocktail\n",
+            "Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nBaked spinach quiche containing bacon\nSpicy chili recipe\nAlmonds coated with butter and salt\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n'''",
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBaked breakfast bars made with nuts and seeds\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Large portion fries with gravy and bacon\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Queso made from melted cheese and chili peppers\n6. Chopped French duck confit preserved by duck oil\n7. Low sugar applesauce cupcakes\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n'''",
+            "1.  Soup made with cabbage, carrots, potatoes, and onions\n2.  2-ingredient yogurt from scratch\n3.  High protein skillet with rice and vegetables\n4.  Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5.  Low fat baked breakfast pie made with sausage (pork) and apples\n6.  Very low-fat assortment of shredded vegetables with seasoning\n7.  South African vegetable curry flavoured with curry powder and ground tumeric\n8.  Baked breakfast bars made with nuts and seeds\n9.  Assorted cheese soup with chicken\n10.  High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Vegetable soup with chicken\n****\n Oatmeal chocolate chip cookies\n****\n Carrot soup with tomatoes and onions\n****\n Roasted almonds\n****\n Soy-braised tofu with coconut milk and lime\n****\n Cold blueberry spinach smoothie\n****\nAssorted cheese soup with chicken\n****\n Kale apple smoothie\n****",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked spinach quiche containing bacon\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers",
+            "Soup made with cabbage, carrots, potatoes, and onions\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nAssorted cheese soup with chicken\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSweet salad made with corn and three types of beans\nBerry cobbler that uses frozen mixed berries\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow-fat coconut alcohol-free cocktail\n''''",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Taiwanese deep fried crispy chicken cutlets\n5. Italian salad made from romain lettuce, artichokes, and tomatoes\n6. Peach cobbler dessert containing whole wheat flour\n7. Grilled salmon seasoned with salt and pepper\n8. Polish sausage with fermented cabbage\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with ground turkey that is low fat, high carb",
+            "Grilled zucchini, tomatoes, and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpicy chili recipe\nChopped French duck confit preserved by duck oil\nLarge portion fries with gravy and bacon\nKorean soup containing beef brisket and flavoured with red pepper powder\nFried shrimp and scallops\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\n****"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes made with pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetable dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes made with beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes made with salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer your meat dishes to have a spicy flavor?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for meat dishes that are cooked in a pan?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer your meat dishes to be grilled or fried?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSpanish rice with chicken breast\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHomemade soup with chicken, noodles, and spices\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMeatballs made with ground beef and ground pork\n****",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Soup made with vegetables and chicken\n3. Slushie drink made from orange juice blended with ice\n4. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n5. Oatmeal with various fruit toppings\n6. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n7. Chicken cooked and flavored with lemon sauce\n8. Low sugar applesauce cupcakes\n9. Veggie burger on a whole wheat bun with lettuce, tomato, and onion\n10. Pancakes made with whole wheat flour and chocolate chips",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Large portion fries with gravy and bacon\n4. Grilled salmon seasoned with salt and pepper\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Chopped French duck confit preserved by duck oil\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Soup made with ground turkey that is low fat, high carb\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Sweet salad made with corn and three types of beans\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Homemade soup with chicken, noodles, and spices\n8. Spartan soup with added vegetables\n9. Vegetable and ground turkey soup\n10. Low-fat assortment of shredded vegetables with seasoning\n''''",
+            " Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n High protein skillet with rice and vegetables\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Assorted cheese soup with chicken\n****\n Mildly spicy chili recipe\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein skillet with rice and vegetables\n****\n Beef stew made with beef, carrots and potatoes\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Hot pot that is not spicy\n****\n Meatballs made with ground beef and ground pork\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Mildly spicy chili recipe\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Roasted beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Grilled salmon seasoned with salt and pepper\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Low sugar applesauce cupcakes\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n Pumpkin spice cake made with sugar, eggs, and flour\n****\n Baked sweet potato fries made with rosemary and olive oil\n****\n Soup made with ground turkey that is low fat, high carb",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Roasted almonds\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Sweet salad made with corn and three types of beans\n10. Classic salad with creamy caesar dressing and croutons",
+            "High protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nQueso made from melted cheese and chili peppers\nChicken breasts stuffed with bacon and mozzarella\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nMildly spicy chili recipe\nShredded barbecued pork shoulder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nPeppermint chocolate bonbon\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "High protein skillet with rice and vegetables\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpanish rice with chicken breast\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nPolish sausage with fermented cabbage\n'''"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Do you like Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sausages?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cakes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meats?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Korean soup containing beef brisket and flavoured with red pepper powder\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Grilled salmon seasoned with salt and pepper\n4. Poke of tofu, mushroom and tomatoes\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Sweet salad made with corn and three types of beans\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Classic salad with creamy caesar dressing and croutons\n10. Chinese salad made of eggplant and zucchini, flavoured with soy sauce",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nPork chops glazed with milk and cooked without nuts\nCheese with crackers\nRoasted almonds\nGrilled salmon seasoned with salt and pepper\n",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nLow fat smoothies made with greek yogurt, and pineapple\nVery low-fat assortment of shredded vegetables with seasoning\nChocolate and orange-flavoured smoothie\nRoasted almonds\nSmoothie made from banana puree with milk\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nMozzarella dip recipe",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Large portion fries with gravy and bacon\n4. Grilled salmon seasoned with salt and pepper\n5. Poke of tofu, mushroom and tomatoes\n6. Queso made from melted cheese and chili peppers\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Chopped French duck confit preserved by duck oil\n10. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n",
+            "1. Chocolate and orange-flavoured smoothie\n2. Slushie drink made from orange juice blended with ice\n3. Low fat assorted fruit dessert\n4. Smoothie made from banana puree with milk\n5. Low sugar applesauce cupcakes\n6. Sugar-free peanut butter cookies\n7. Gluten-free, egg-free, dairy-free, nut-free fudge\n8. Jam made from blackberries, lemon juice, and sugar\n9. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n10. Norway cake with lingonberry and whipped cream layers",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPork chops glazed with milk and cooked without nuts\n****\nChicken cooked and flavored with lemon sauce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nSpanish rice with chicken breast\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Queso made from melted cheese and chili peppers\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Taiwanese deep fried crispy chicken cutlets\n8. Soup made from onions, carrots, and celery ribs\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Grilled steak\n",
+            "Grilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nLarge portion fries with gravy and bacon\nLow fat sweet potato fries made with cajun seasoning\nChicken breasts stuffed with bacon and mozzarella\nFried shrimp and scallops\nBaked mozzarella cheese sticks with marinara sauce",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Large portion fries with gravy and bacon\n4. Pork chops glazed with milk and cooked without nuts\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Taiwanese deep fried crispy chicken cutlets\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Roasted almonds\n10. Fried shrimp and scallops"
+        ]
+    }
+}
