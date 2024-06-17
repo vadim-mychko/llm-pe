@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a foreign film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a feel-good movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in any of the following movies:\n* We Bought a Zoo\n* Hachiko: A Dog's Story\n* Real Steel\n* American Graffiti",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie with an inspirational theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in romantic comedies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "What about a comedy from the 80's like American Graffiti?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Road Trip (1993)\n5. Major Payne (1995)\n6. Jurassic Park (1993)\n7. Die Hard (1988)\n8. Armageddon (1998)\n9. Cast Away (2000)\n10. Armageddon (1998)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. August Rush (2007)\n5. Terms of Endearment (1983)\n6. Bernie (2011)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Cocoon (1985)\n9. Before the Devil Knows You're Dead (2007)\n10. St. Elmo's Fire (1985)\n",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. One Hour Photo (2002)\n8. All Quiet on the Western Front (1930)\n9. The Man from Earth (2007)\n10. The Big Lebowski (1998)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. August Rush (2007)\n3. We Bought a Zoo (2011)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. The Land Before Time (1988)\n6. Real Genius (1985)\n7. Brewster's Millions (1985)\n8. What's Up, Doc? (1972)\n9. American Graffiti (1973)\n10. Big Red One, The (1980)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. August Rush (2007)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Big Red One, The (1980)\n6. Robot & Frank (2012)\n7. American Graffiti (1973)\n8. Mr. Holmes (2015)\n9. Umberto D. (1952)\n10. Robot & Frank (2012)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Control (2007)\n3. Stranger than Fiction (2006)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Stranger than Fiction (2006)\n6. Intolerable Cruelty (2003)\n7. Bruce Almighty (2003)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Big Red One (1980)\n10. Grapes of Wrath, The (1940)",
+            "1. The Big Lebowski (1998) \n2. American Graffiti (1973) \n3. Face/Off (1997) \n4. Real Genius (1985) \n5. Brewster's Millions (1985) \n6. What's Up, Doc? (1972) \n7. Intolerable Cruelty (2003) \n8. Tenacious D in The Pick of Destiny (2006) \n9. Meet John Doe (1941) \n10. Nightcrawler (2014)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Enter the Void (2009)\n3. The Big Lebowski (1998)\n4. American Graffiti (1973)\n5. Face/Off (1997)\n6. Real Genius (1985)\n7. Tenacious D in The Pick of Destiny (2006)\n8. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Eragon (2006)",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. Sure Thing, The (1985)\n4. What's Up, Doc? (1972)\n5. American Graffiti (1973)\n6. Face/Off (1997)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Enter the Void (2009)\n9. Delicatessen (1991)\n10. Big Lebowski, The (1998)\n",
+            " Bruce Almighty (2003) \nReal Genius (1985) \nTenacious D in The Pick of Destiny (2006) \nBrewster's Millions (1985) \nSure Thing, The (1985) \nWeird Al (1989) \nAmerican Graffiti (1973) \nUHF (1989) \nSt. Elmo's Fire (1985) \nWhat's Up, Doc? (1972)"
+        ]
+    }
+}

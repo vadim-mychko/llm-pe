@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a a thought-provoking, sci-fi drama movie like \"The Man from Earth\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dark comedy like \"Big Lebowski\"?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies with robots, like \"Robot & Frank\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you a fan of 80's movies like \"American Graffiti\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated film like \"5 Centimeters per Second\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about a superhero, like \"Ant-Man\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about sports, like \"Real Steel\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film noir type of movie, like \"Laura\"?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Clash of the Titans (1981)\n2. Bruce Almighty (2003)\n3. *****A.I. Artificial Intelligence***** (2001)\n4. The Proposition (2005)\n5. Terminator 3: Rise of the Machines (2003)\n6. BloodRayne: Vampire, the Movie (2005)\n7. Darkman (1990)\n8. The Last Supper (1995)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Breach (2007)",
+            "1. Airplane! (1980) \n2. Monty Python and the Holy Grail (1975) \n3. Home Alone (1990) \n4. The Hangover (2009) \n5. Bridesmaids (2011) \n6. 21 Jump Street (2012) \n7. The Big Sick (2017) \n8. Crazy Rich Asians (2018) \n9. Booksmart (2019) \n10. Palm Springs (2020)",
+            "1. Napoleon Dynamite \\n\n2. What We Do in the Shadows \\n\n3. Monty Python and the Holy Grail \\n\n4. Airplane! \\n\n5. The Big Sick \\n\n6. Bridesmaids \\n\n7. 21 Jump Street \\n\n8. Spy \\n\n9. The Nice Guys \\n\n10. Game Night \\n",
+            "1. Meet John Doe (1941) \n2. Real Steel (2011) \n3. American Graffiti (1973) \n4. The Sure Thing (1985) \n5. What's Up, Doc? (1972) \n6. Intolerable Cruelty (2003) \n7. Brewster's Millions (1985) \n8. Real Genius (1985) \n9. The Big Red One (1980) \n10. St. Elmo's Fire (1985) \n",
+            "1.  The Sure Thing (1985)\n2.  Brewster's Millions (1985)\n3.  Real Genius (1985)\n4.  What's Up, Doc? (1972)\n5.  Intolerable Cruelty (2003)\n6.  50 First Dates (2004)\n7.  Funny As Hell\" (1988)\n8.  St. Elmo's Fire (1985)\n9.  Airplane! (1980)\n10. How High (2001)",
+            "1. Ghost World (2001) \\n\n2. Capote (2005) \\n\n3. Election (1999) \\n\n4. Snatch (2000) \\n\n5. Secretary (2002) \\n\n6. A Serious Man (2009) \\n\n7. Frances Ha (2012) \\n\n8. The Squid and the Whale (2005) \\n\n9. Chasing Amy (1997) \\n\n10. Heathers (1988)",
+            "1. Hell or High Water (2016) \n2. Scott Pilgrim vs. the World (2010) \n3. Big Trouble in Little China (1986) \n4. Shaun of the Dead (2004) \n5. The Princess Bride (1987) \n6. Zombieland (2009) \n7. The Boondock Saints (1999) \n8. Superbad (2007) \n9. Hot Fuzz (2007) \n10. Galaxy Quest (1999)",
+            "1. American Graffiti (1973)\n2. Real Genius (1985)\n3. Meet John Doe (1941)\n4. Brewster's Millions (1985)\n5. What's Up, Doc? (1972)\n6. The Sure Thing (1985)\n7. Cocoon (1985)\n8. Trapped (2002)\n9. Drugstore Cowboy (1989)\n10. The Big Lebowski (1998)",
+            "1. Meet John Doe (1941) - Comedy, Drama\n2. What's Up, Doc? (1972) - Comedy\n3. Stranger than Fiction (2006) - Comedy, Drama, Fantasy, Romance\n4. Intolerable Cruelty (2003) - Comedy, Romance\n5. American Graffiti (1973) - Comedy, Drama\n6. Brewster's Millions (1985) - Comedy\n7. Real Genius (1985) - Comedy\n8. Black Robe (1991) - Adventure, Drama\n9. Tenacious D in The Pick of Destiny (2006) - Adventure, Comedy, Musical\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) - Drama, War",
+            "1. Intolerable Cruelty (2003) \n2. Big Red One, The (1980) \n3. Nightcrawler (2014) \n4. Brewster's Millions (1985) \n5. What's Up, Doc? (1972) \n6. Real Genius (1985) \n7. The Sure Thing (1985) \n8. Face/Off (1997) \n9. Delicatessen (1991) \n10. The Big Lebowski (1998)"
+        ]
+    }
+}

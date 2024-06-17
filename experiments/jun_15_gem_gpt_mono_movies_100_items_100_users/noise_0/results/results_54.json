@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in seeing a comedy or drama?",
+                "response": "comedy"
+            },
+            {
+                "query": "Is it important that the movie is set in the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a strong female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features the supernatural?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more interested in an action movie or a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features lots of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with lots of suspense or tension?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a strong science fiction element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about animals?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Brewster's Millions (1985) \n2. Real Genius (1985) \n3. What's Up, Doc? (1972) \n4. Big Lebowski, The (1998) \n5. American Graffiti (1973) \n6. Bruce Almighty (2003) \n7. Tenacious D in The Pick of Destiny (2006) \n8. Meet John Doe (1941) \n9. The Sure Thing (1985) \n10. UHF (1989)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985) \nTomb Raider (2018) \nWhat's Up, Doc? (1972) \nIntolerable Cruelty (2003) \nAmerican Graffiti (1973) \nMrs. Doubtfire (1993) \nNaked Gun: From the Files of Police Squad!, The (1988) \nReal Genius (1985) \nBig Lebowski, The (1998)",
+            "1. Big Lebowski, The (1998)\n2. Real Genius (1985)\n3. What's Up, Doc? (1972)\n4. The Big Red One (1980)\n5. Meet John Doe (1941)\n6. UHF (1989)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Brewster's Millions (1985)\n9. American Graffiti (1973)\n10. Intolerable Cruelty (2003)",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. National Lampoon's Vacation (1983)\n4. The Big Lebowski (1998)\n5. Airplane! (1980)\n6. What's Up, Doc? (1972)\n7. Intolerable Cruelty (2003)\n8. Delicatessen (1991)\n9. Tenacious D in The Pick of Destiny (2006)\n10. UHF (1989)",
+            "1. What's Up, Doc? (1972) \n2. American Graffiti (1973) \n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. The Big Lebowski (1998)\n6. Stranger than Fiction (2006)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Bruce Almighty (2003)\n9. Intolerable Cruelty (2003)\n10. Nightcrawler (2014) ",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988) \n2. What's Up, Doc? (1972) \n3. Brewster's Millions (1985) \n4. Real Genius (1985) \n5. American Graffiti (1973) \n6. The Big Lebowski (1998) \n7. Intolerable Cruelty (2003) \n8. Stranger than Fiction (2006) \n9. Control (2007) \n10. Robot & Frank (2012) ",
+            "1. UHF (1989)\n2. Cocoon (1985) \n3. Saint Elmo's Fire (1985) \n4. Brewster's Millions (1985) \n5. Runaway Train (1985) \n6. All Quiet on the Western Front (1930) \n7. A.I. Artificial Intelligence (2001) \n8. About Schmidt (2002) \n9. American Graffiti (1973) \n10. Grapevine (1999) ",
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nThe Naked Gun: From the Files of Police Squad! (1988)\nWhat's Up, Doc? (1972)\nAmerican Graffiti (1973)\nReal Genius (1985)\nBrewster's Millions (1985)\nSt. Elmo's Fire (1985)\nSure Thing, The (1985)\nCocoon (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. What's Up, Doc? (1972)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. Big Lebowski, The (1998)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Tommy Boy (1995)\n10. Napoleon Dynamite (2004)",
+            "1. Drugstore Cowboy (1989)\n2. What's Up, Doc? (1972) \n3. American Graffiti (1973)\n4. Brewster's Millions (1985) \n5. Real Genius (1985) \n6. Big Lebowski, The (1998) \n7. Stranger than Fiction (2006) \n8. Control (2007) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Robot & Frank (2012) "
+        ]
+    }
+}

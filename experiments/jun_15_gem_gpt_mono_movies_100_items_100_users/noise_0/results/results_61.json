@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with supernatural elements?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a character who is seeking revenge?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a violent movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with anything to do with the afterlife?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that includes themes such as betrayal or murder?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a character that was wrongfully accused or imprisoned?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a crime movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. Terms of Endearment (1983)\n6. The Piano (1993)\n7. One Hour Photo (2002)\n8. Lost World: Jurassic Park, The (1997)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Homeward Bound: The Incredible Journey (1993)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. The Proposition (2005)\n6. Bernie (2011)\n7. One Hour Photo (2002)\n8. All Quiet on the Western Front (1930)\n9. The Secret of Kells (2009)\n10. The Sure Thing (1985)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Gothika (2003)\n3. Mothman Prophecies, The (2002)\n4. Gremlins 2: The New Batch (1990)\n5. Children of the Corn (1984)\n6. Cronos (1993)\n7. Darkman (1990)\n8. The Thing (1982)\n9. The Shining (1980)\n10. Poltergeist (1982)",
+            "1. The Mothman Prophecies (2002) \\n\n2. Supernatural (2005) \\n\n3. Darkman (1990) \\n\n4. Enter the Void (2009) \\n\n5. Cronos (1993) \\n\n6. A.I. Artificial Intelligence (2001) \\n\n7. Robot & Frank (2012) \\n\n8. Bruce Almighty (2003) \\n\n9. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008) \\n\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Mothman Prophecies (2002)\n3. Darkman (1990)\n4. Man on Fire (2004)\n5. Departed, The (2006)\n6. Revenge (2017)\n7. Face/Off (1997)\n8. Bruce Almighty (2003)\n9. Trapped (2002)\n10. The Last Supper (1995)",
+            "1. The Departed (2006)\n2. The Proposition (2005\n3. Man on Fire (2004)\n4. Face/Off (1997)\n5. Darkman (1990)\n6. Bad Education (La mala educaci\u00f3n) (2004)\n7. Terminator 3: Rise of the Machines (2003)\n8. Trapped (2002)\n9. Intolerable Cruelty (2003)\n10. Breach (2007)",
+            "Terminator 3: Rise of the Machines (2003) \nDarkman (1990) \nEnter the Void (2009) \nThe Departed (2006) \nThe Big Red One (1980) \nNightcrawler (2014) \nTrapped (2002) \nFace/Off (1997) \nBruce Almighty (2003) \nCronos (1993)",
+            "1. Darkman (1990) \n2. The Departed (2006) \n3. The Mothman Prophecies (2002) \n4. Terminator 3: Rise of the Machines (2003) \n5. Oldboy (2003) \n6. Face/Off (1997) \n7. Nightcrawler (2014) \n8. Hannibal (2001) \n9. Fight Club (1999) \n10. The Dark Knight (2008)",
+            "1. The Departed (2006)\n2. Darkman (1990)\n3. A.I. Artificial Intelligence (2001)\n4. Terminator 3: Rise of the Machines (2003)\n5. Face/Off (1997)\n6. Ant-Man (2015)\n7. Breach (2007)\n8. Out of Sight (1998)\n9. Control (2007)\n10. The (2001)",
+            "1. Martyrs (2008)\n2. The Departed (2006)\n3. Stranger than Fiction (2006)\n4. The Last Supper (1995)\n5. Bruce Almighty (2003)\n6. Cronos (1993)\n7. Boy in the Striped Pajamas, The (2008)"
+        ]
+    }
+}
