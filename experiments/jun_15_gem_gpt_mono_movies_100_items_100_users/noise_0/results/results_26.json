@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is either a documentary or about the film industry?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction film?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama that is also about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama that is also a romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dark drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama that is also a thriller?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a depressing drama?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. August Rush (2007)\n5. August Rush (2007)\n6. The Naked Gun: From the Files of Police Squad! (1988)\n7. Terminator 3: Rise of the Machines (2003)\n8. The Blair Witch Project (1999)\n9. Martyrs (2008)\n10. The Piano (1993)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. One Hour Photo (2002)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. Breach (2007)\n7. The Sure Thing (1985)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Big Red One, The (1980)\n2. Chuungking Express (Chung Hing sam lam) (1994)\n3. Homeward Bound: The Incredible Journey (1993)\n4. Kronos (1993)\n5. Land Before Time, The (1988)\n6. Last of the Mohicans, The (1992)\n7. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n8. Meet John Doe (1941)\n9. Moby Dick (1956)\n10. Real Genius (1985)",
+            "1. Runaway Train (1985) \n2. The Big Red One (1980) \n3. American Graffiti (1973) \n4. Real Genius (1985) \n5. The Grapes of Wrath (1940) \n6. What's Up, Doc? (1972) \n7. 50 First Dates (2004) \n8. Cocoon (1985) \n9. About Time (2013) \n10. The Lord of the Rings: The Fellowship of the Ring (2001)\n```",
+            "1. Lost in Translation (2003)\n2. Stranger than Fiction (2006)\n3. Magnolia (1999)\n4. Terminator 3: Rise of the Machines (2003)\n5. Departed, The (2006)\n6. Intolerable Cruelty (2003)\n7. Searching (2018)\n8. Bruce Almighty (2003)\n9. American Graffiti (1973)\n10. Meet John Doe (1941)",
+            "1. Terms of Endearment (1983) \n2. Magnolia (1999) \n3. Meet John Doe (1941) \n4. Homeward Bound: The Incredible Journey (1993) \n5. Grapes of Wrath, The (1940) \n6. Black Robe (1991) \n7. Umberto D. (1952) \n8. Bruce Almighty (2003) \n9. Cronos (1993) \n10. Jane Eyre (1996)",
+            "1. Terms of Endearment (1983) \n2. St. Elmo's Fire (1985) \n3. The Man from Earth (2007) \n4. No Man's Land (2001) \n5. Crimes and Misdemeanors (1989) \n6. Magnolia (1999) \n7. Searching (2018) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Stranger than Fiction (2006) \n10. Mr. Holmes (2015)",
+            "1. Bad Education (La mala educaci\u00f3n) (2004) \n2. Crimes and Misdemeanors (1989) \n3. Europa (Zentropa) (1991) \n4. Stranger than Fiction (2006) \n5. Enter the Void (2009) \n6. Bruce Almighty (2003) \n7. Control (2007) \n8. Departed, The (2006) \n9. Darkman (1990) \n10. Big Lebowski, The (1998) ",
+            "1. The Last Temptation of Christ (1988) \n2. Martyr (2008) \n3. The Piano (1993) \n4. Naked Gun: From the Files of Police Squad!, The (1988) \n5. Europa (Zentropa) (1991) \n6. The Corporation (2003) \n7. Enter the Void (2009) \n8. The Departed (2006) \n9. Enter the Void (2009) \n10. Nightcrawler (2014)",
+            "1. Enter the Void (2009)\n2. Control (2007)\n3. Nightcrawler (2014)\n4. The Departed (2006)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Mr. Holmes (2015)\n8. The Grapes of Wrath (1940)\n9. Cronos (1993)\n10. Umberto D. (1952)"
+        ]
+    }
+}

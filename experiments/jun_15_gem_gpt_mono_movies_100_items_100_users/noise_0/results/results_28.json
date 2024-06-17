@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a dystopian future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about virtual reality?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about creating artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the movie you're looking for fictional?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a corporation?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Mission: Impossible - Fallout (2018)\n4. John Wick: Chapter 3 - Parabellum (2019)\n5. Avengers: Endgame (2019)\n6. The Lion King (2019)\n7. Toy Story 4 (2019)\n8. Spider-Man: Far From Home (2019)\n9. It Chapter Two (2019)\n10. Frozen II (2019)",
+            "1. Searching (2018)\n2. Ex Machina (2014)\n3. The Social Network (2010)\n4. The Matrix (1999)\n5. Tron: Legacy (2010)\n6. Minority Report (2002)\n7. The Terminator (1984)\n8. I, Robot (2004)\n9. Wall-E (2008)\n10. Her (2013)",
+            "1. Real Steel (2011) \n2. Tron: Legacy (2010) \n3. The Matrix (1999) \n4. Bladerunner 2049 (2017) \n5. Arrival (2016) \n6. Ex Machina (2015) \n7. Interstellar (2014) \n8. Moon (2009) \n9. District 9 (2009) \n10. Cloud Atlas (2012) \n",
+            "1. Darkman (1990)\n2. A.I. Artificial Intelligence (2001)\n3. Matrix, The (1999)\n4. Terminator 3: Rise of the Machines (2003)\n5. Ready Player One \n6. Metropolis (2001)\n7. Ant-Man (2015)\n8. Terminator 2: Judgment Day (1991)\n9. Searching (2018)\n10. Ex Machina (2014)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Ready Player One\n4. Control (2007)\n5. Enter the Void (2009)\n6. Departed, The (2006)\n7. Real Steel (2011)\n8. Nightcrawler (2014)\n9. Robot & Frank (2012)\n10. Bruce Almighty (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. The Matrix (1999)\n4. Blade Runner (1982)\n5. Children of Men (2006)\n6. Ex Machina (2014)\n7. Her (2013)\n8. Minority Report (2002)\n9. Moon (2009)\n10. 2001: A Space Odyssey (1968)",
+            "1. Blade Runner (1982) \n2. The Matrix (1999) \n3. Minority Report (2002) \n4. Ex Machina (2014) \n5. Her (2013) \n6. Ghost in the Shell (1995) \n7. RoboCop (1987) \n8. Terminator 2: Judgment Day (1991) \n9. WALL-E (2008) \n10. I, Robot (2004)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Matrix (1999)\n4. Blade Runner (1982)\n5. The Terminator (1984)\n6. I, Robot (2004)\n7. RoboCop (1987)\n8. Equilibrium (2002)\n9. Minority Report (2002)\n10. 2001: A Space Odyssey (1968)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ready Player One\n3. Alita: Battle Angel (2019)\n4. Ant-Man (2015)\n5. Terminator 3: Rise of the Machines (2003)\n6. Darkman (1990)\n7. Transporter 2 (2005)\n8. Robot & Frank (2012)\n9. The Big Red One (1980)\n10. Real Steel (2011)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ready Player One \n3. Terminator 3: Rise of the Machines (2003) \n4. Timeline (2003) \n5. Ant-Man (2015) \n6. Dogma (1999) \n7. The Matrix (1999) \n8. The Fifth Element (1997) \n9. Blade Runner (1982) \n10. 12 Monkeys (1995)"
+        ]
+    }
+}

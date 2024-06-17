@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about social issues in America?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book or a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about science or engineering?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with robots or futuristic elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the internet?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. American Graffiti (1973)\n2. Breach (2007)\n3. Bruce Almighty (2003)\n4. Children of Men (2006)\n5. Darkman (1990)\n6. Enter the Void (2009)\n7. Intolerable Cruelty (2003)\n8. Love Me If You Dare (Jeux d'enfants) (2003)\n9. Maggie (2015)\n10. The Last Supper (1995)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Terminator 2: Judgment Day (1991)\n3. Face/Off (1997)\n4. The Departed (2006)\n5. A.I. Artificial Intelligence (2001)\n6. Big Red One, The (1980)\n7. Nightcrawler (2014)\n8. Stranger than Fiction (2006)\n9. Real Steel (2011)\n10. The Big Lebowski (1998)",
+            "1. Lost in Translation (2003) \n2. Stranger than Fiction (2006) \n3. Magnolia (1999) \n4. Beasts of No Nation (2015) \n5. Crash (2004) \n6. American Beauty (1999) \n7. Boyhood (2014) \n8. The Tree of Life (2011) \n9. Moonlight (2016) \n10. Call Me by Your Name (2017)",
+            "1. Love Me If You Dare (Jeux d'enfants) (2003) \n2. Love Story (1970) \n3. Les Mis\u00e9rables (2012) \n4. Room (2015) \n5. Boys Don't Cry (1999) \n6. The Deep End (2001) \n7. Pariah (2011) \n8. Brokeback Mountain (2005) \n9. Kynodontas (Dogtooth) (2009) \n10. Precious (2009)",
+            "1. The Proposition (2005) \n2. What's Up, Doc? (1972) \n3. Control (2007) \n4. The Big Lebowski (1998) \n5. Real Genius (1985) \n6. Grapes of Wrath, The (1940) \n7. Jane Eyre (1996) \n8. Lost in Translation (2003) \n9. Umberto D. (1952) \n10. Tenacious D in The Pick of Destiny (2006)",
+            " Real Steel (2011) \\n\nThe Big Red One (1980) \\n\nRobot & Frank (2012) \\n\nMetropolis (2001) \\n\nA.I. Artificial Intelligence (2001) \\n\nTimeline (2003) \\n\nTerminator 3: Rise of the Machines (2003) \\n\nAnt-Man (2015) \\n\nReal Genius (1985) \\n\nDarkman (1990)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Timeline (2003)\n3. Real Steel (2011)\n4. Trapped (2002)\n5. Robot & Frank (2012)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. The Grapes of Wrath (1940)\n9. Black Robe (1991)\n10. Eragon (2006)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Timeline (2003)\n3. Real Steel (2011)\n4. Robot & Frank (2012)\n5. Bruce Almighty (2003)\n6. The Big Bang Theory (2011)\n7. Eragon (2006)\n8. Ant-Man (2015)\n9. The Terminator 3: Rise of the Machines (2003)\n10. Real Genius (1985)\n",
+            "1. Robot & Frank (2012)\n2. Real Genius (1985)\n3. Big Red One, The (1980)\n4. Terminator 3: Rise of the Machines (2003)\n5. Darkman (1990)\n6. Transporter 2 (2005)\n7. The Matrix (1999)\n8. Star Wars: Episode I - The Phantom Menace (1999)\n9. The Terminator (1984)\n10. Independence Day (1996)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ant-Man (2015) \n3. Real Genius (1985) \n4. The Big Red One (1980) \n5. Timeline (2003) \n6. A.I. Artificial Intelligence (2001) \n7. Robot & Frank (2012) \n8. The Corporation (2003) \n9. Darkman (1990) \n10. Black Robe (1991)"
+        ]
+    }
+}
