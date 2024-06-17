@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a powerful corporation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that are funny?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie with visually appealing graphics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a war or battle?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that are thought-provoking?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about friendship?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about drugs?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie about philosophy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a film set during World War II?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Last Temptation of Christ, The (1988)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. Santa Sangre (1989)\n7. August Rush (2007)\n8. The Blair Witch Project (1999)\n9. Martyrs (2008)\n10. The Piano (1993)",
+            "1. The Departed (2006)\n2. Nightcrawler (2014)\n3. American Graffiti (1973)\n4. Enter the Void (2009)\n5. Intolerable Cruelty (2003)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. Lost in Translation (2003)\n9. King Kong (2005)\n10. The Big Lebowski (1998)\n",
+            "1. The Last Temptation of Christ (1988)\n2. The Proposition (2005)\n3. Bernie (2011)\n4. The Naked Gun: From the Files of Police Squad!, The (1988)\n5. One Hour Photo (2002)\n6. The Man from Earth (2007)\n7. The Sure Thing (1985)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. The Big Red One (1980)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Matrix (1999)\n3. Fast Five (2011)\n4. Transformers (2007)\n5. The Dark Knight (2008)\n6. Inception (2010)\n7. Avengers: Endgame (2019)\n8. Star Wars: The Force Awakens (2015)\n9. Furious 7 (2015)\n10. Jurassic World (2015)",
+            "1. Last Temptation of Christ, The (1988)\n2. Crimes and Misdemeanors (1989)\n3. Enter the Void (2009)\n4. Delicatessen (1991)\n5. The Last Supper (1995)\n6. Cronos (1993)\n7. Black Robe (1991)\n8. Europa (Zentropa) (1991)\n9. Von Ryan's Express (1965)\n10. The Nightcrawlers (2014)\n",
+            "1. Man on Fire (2004)\n2. No Man's Land (2001)\n3. Crimes and Misdemeanors (1989)\n4. The Secret of Kells (2009)\n5. Magnolia (1999)\n6. Searching (2018)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. The Grapes of Wrath (1940)\n10. Umberto D. (1952)\n",
+            "1. August Rush (2007) \n2. Strangers than Fiction (2006) \n3. Man on Earth, The (2007) \n4. A.I. Artificial Intelligence (2001) \n5. Corporation, The (2003) \n6. Controle (2007) \n7. Robot & Frank (2012) \n8. Bruce Almighty (2003) \n9. Lost in Translation (2003) \n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n2. Man from Earth, The (2007) \n3. Crimes and Misdemeanors (1989) \n4. Terminator 3: Rise of the Machines (2003) \n5. A.I. Artificial Intelligence (2001) \n6. Magnolia (1999) \n7. Grapes of Wrath, The (1940) \n8. Cronos (1993) \n9. Jane Eyre (1996) \n10. Lost in Translation (2003)",
+            "1. Metropolis (2001) \n2. Man on Earth, The (2007) \n3. St. Elmo's Fire (1985) \n4. Mis\u00e9rables, Les (1998) \n5. Meet John Doe (1941) \n6. Corporation, The (2003) \n7. Stranger than Fiction (2006) \n8. Face/Off (1997) \n9. The Last Supper (1995) \n10. Umberto D. (1952)",
+            "1. Man on Fire (2004)\n2. The Corporation (2003)\n3. The Grapes of Wrath (1940)\n4. Last Supper, The (1995)\n5. Stranger than Fiction (2006)\n6. Nightcrawler (2014)\n7. Black Robe (1991)\n8. Umberto D. (1952)\n9. The Departed (2006)\n10. Hurricane, The (1999)"
+        ]
+    }
+}

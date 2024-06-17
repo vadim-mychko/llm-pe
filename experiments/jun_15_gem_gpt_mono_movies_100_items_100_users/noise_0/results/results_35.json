@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you more into anime or live action movies?",
+                "response": "live action movies"
+            },
+            {
+                "query": "Are you looking for something with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more in the mood for a comedy or a romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of violence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with supernatural elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a thought-provoking film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a classic tale like Sherlock Holmes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama or a science fiction film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie centered around the themes of friendship and loyalty?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about animals and nature?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Laura (1944)\n6. August Rush (2007)\n7. The Blair Witch Project (1999)\n8. Bad Education (La mala educaci\u00f3n) (2004)\n9. The Sure Thing (1985)\n10. Brewster's Millions (1985)\n",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. The Piano (1993) \n5. Terms of Endearment (1983) \n6. One Hour Photo (2002) \n7. All Quiet on the Western Front (1930) \n8. St. Elmo's Fire (1985) \n9. The Sure Thing (1985) \n10. What's Up, Doc? (1972) ",
+            "1. Lost in Translation (2003) \n2. Drugstore Cowboy (1989) \n3. Crimes and Misdemeanors (1989) \n4. The Proposition (2005) \n5. Europa (Zentropa) (1991) \n6. What's Up, Doc? (1972) \n7. Enter the Void (2009) \n8. Stranger than Fiction (2006) \n9. Delicatessen (1991) \n10. Cronos (1993)",
+            "1. Monsters, Inc. (2001) \n2. August Rush (2007) \n3. Love Me If You Dare (Jeux d'enfants) (2003) \n4. 50 First Dates (2004) \n5. Meet John Doe (1941) \n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n7. Homeward Bound: The Incredible Journey (1993) \n8. Real Genius (1985) \n9. Black Robe (1991) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Von Ryan's Express (1965)\n3. The Big Red One (1980)\n4. Face/Off (1997)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. The Grapes of Wrath (1940)\n8. Black Robe (1991)\n9. Eragon (2006)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. Man from Earth, The (2007)\n2. Searching (2018)\n3. Stranger than Fiction (2006)\n4. Mis\u00e9rables, Les (1998)\n5. Grapes of Wrath, The (1940)\n6. Lost in Translation (2003)\n7. What's Up, Doc? (1972)\n8. The Corporation (2003)\n9. No Man's Land (2001)\n10. Before the Devil Knows You're Dead (2007)",
+            "1. Man on Fire (2004)\n2. Before the Devil Knows You're Dead (2007)\n3. No Man's Land (2001)\n4. Crimes and Misdemeanors (1989)\n5. Magnolia (1999)\n6. The Departed (2006)\n7. Stranger than Fiction (2006)\n8. Nightcrawler (2014)\n9. Lost in Translation (2003)\n10. The Man from Earth (2007)",
+            "1. All Quiet on the Western Front (1930)\n2. The Grapes of Wrath (1940)\n3. Umberto D. (1952)\n4. The Man from Earth (2007)\n5. Control (2007)\n6. Nightcrawler (2014)\n7. Stranger than Fiction (2006)\n8. Mr. Holmes (2015)\n9. Robot & Frank (2012)\n10. Bruce Almighty (2003)",
+            "1. The Man From Earth (2007) \n2. Searching (2018) \n3. The Secret of Kells (2009) \n4. Control (2007) \n5. Stranger than Fiction (2006) \n6. Mr. Holmes (2015) \n7. Robot & Frank (2012) \n8. Cronos (1993) \n9. Lost in Translation (2003) \n10. Black Robe (1991)",
+            "1. Man from Earth, The (2007)\n2. Lost in Translation (2003)\n3. Searching (2018)\n4. Stranger than Fiction (2006)\n5. October Sky (1999)\n6. The Truman Show (1998)\n7.  Cocoon (1985)\n8. A.I. Artificial Intelligence (2001)\n9. The Matrix (1999)\n10. The Shawshank Redemption (1994)"
+        ]
+    }
+}

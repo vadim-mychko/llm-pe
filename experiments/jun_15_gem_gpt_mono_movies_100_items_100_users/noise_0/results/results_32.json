@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a dark comedy, or something more heartwarming?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie with time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that would be fun to watch with friends?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that parodies an 80's police show?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a heartwarming movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a funny movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a heist movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. The Naked Gun: From the Files of Police Squad! (1988) \n5. Alita: Battle Angel (2019) \n6. Gremlins 2: The New Batch (1990) \n7. The Sure Thing (1985) \n8. What's Up, Doc? (1972) \n9. Brewster's Millions (1985) \n10. Real Genius (1985)",
+            "1. The Big Lebowski (1998)\n2. Big Red One, The (1980)\n3. Terminator 3: Rise of the Machines (2003)\n4. Bad Education (La mala educaci\u00f3n) (2004)\n5. Timeline (2003)\n6. Face/Off (1997)\n7. Intolerable Cruelty (2003)\n8. Brewster's Millions (1985)\n9. Grapes of Wrath, The (1940)\n10. Cronos (1993)",
+            "1. The Big Lebowski (1998) \n2. Terminator 3: Rise of the Machines (2003) \n3. Lost in Translation (2003) \n4. Hard Dark (1990) \n5. Nightcrawler (2014) \n6. Intolerable Cruelty (2003) \n7. The Departed (2006) \n8. Strangers Than Fiction (2006) \n9. Searching (2018) \n10. Control (2007) \n",
+            "1. The Big Lebowski (1998) \n2. Real Genius (1985) \n3. American Graffiti (1973) \n4. Intolerable Cruelty (2003) \n5. Tenacious D in The Pick of Destiny (2006) \n6. Face/Off (1997) \n7. How High (2001) \n8. UHF (1989) \n9. Brewster's Millions (1985) \n10. What's Up, Doc? (1972) ",
+            "St. Elmo's Fire (1985)\nReal Genius (1985)\nWhat's Up, Doc? (1972)\nAmerican Graffiti (1973)\nBruce Almighty (2003)\nTenacious D in The Pick of Destiny (2006)\nBig Lebowski, The (1998)\nMeet John Doe (1941)\nIntolerable Cruelty (2003)\nBrewster's Millions (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. St. Elmo's Fire (1985)\n5. Sure Thing, The (1985)\n6. Trapped (2002)\n7. Face/Off (1997)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Intolerable Cruelty (2003)\n10. The Big Lebowski (1998)",
+            "1. My Best Friend's Wedding (1997)\n2. The Hangover (2009)\n3. Airplane! (1980)\n4. Mean Girls (2004)\n5. The Big Sick (2017)\n6. Bridesmaids (2011)\n7. Deadpool (2016)\n8. Crazy Rich Asians (2018)\n9. Palm Springs (2020)\n10. The Disaster Artist (2017)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Man on Fire (2004)\n3. Clash of the Titans (1981)\n4. Ant-Man (2015)\n5. Von Ryan's Express (1965)\n6. Timeline (2003)\n7. Big Red One, The (1980)\n8. Nightcrawler (2014)\n9. Face/Off (1997)\n10. King Kong (2005)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Proposition (2005) \n3. Man on Fire (2004) \n4. Transporter 2 (2005)\n5. Face/Off (1997)\n6. Darkman (1990)\n7. Von Ryan's Express (1965)\n8. Big Red One, The (1980)\n9. Brewster's Millions (1985)\n10. Eragon (2006)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Matrix Reloaded (2003)\n3. Terminator 2: Judgment Day (1991)\n4. The Dark Knight Rises (2012)\n5. Avengers: Infinity War (2018)\n6. The Raid: Redemption (2011)\n7. John Wick (2014)\n8. Mad Max: Fury Road (2015)\n9. Mission: Impossible - Fallout (2018)\n10. Saving Private Ryan (1998)"
+        ]
+    }
+}

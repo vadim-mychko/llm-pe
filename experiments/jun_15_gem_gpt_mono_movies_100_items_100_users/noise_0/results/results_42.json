@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in watching a foreign film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about the Holocaust?",
+                "response": "no"
+            },
+            {
+                "query": "Is this a movie that will make me laugh?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to see a movie that features a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie about rock and roll?",
+                "response": "yes"
+            },
+            {
+                "query": "Is this a movie about music or musicians?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a movie about the music industry?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seeing a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that features music?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Movies, Inc. (2001) \nRunaway Train (1985)\nLaura (1944)\nPirates of the Caribbean: At World's End (2007)\nThe Blair Witch Project (1999)\nNaked Gun: From the Files of Police Squad!, The (1988)\nAll Quiet on the Western Front (1930)\nLast Action Hero (1993)\nTerminator 3: Rise of the Machines (2003)\nVon Ryan's Express (1965)",
+            "1. Toy Story (1995)\n2. Toy Story 2 (1999)\n3. Toy Story 3 (2010)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. August Rush (2007)\n5. Blair Witch Project, The (1999)\n6. Piano, The (1993)\n7. Terms of Endearment (1983)\n8. Naked Gun: From the Files of Police Squad!, The (1988)\n9. Dracula (Bram Stoker's Dracula) (1992)\n10. Lost World: Jurassic Park, The (1997)",
+            "1. The Big Lebowski (1998) \n2. What's Up, Doc? (1972) \n3. The Sure Thing (1985) \n4. Meet John Doe (1941) \n5. Brewster's Millions (1985) \n6. Real Genius (1985) \n7. American Graffiti (1973) \n8. Intolerable Cruelty (2003) \n9. The Naked Gun: From the Files of Police Squad!, The (1988) \n10. UHF (1989)",
+            "Kindergarten (Dzhentlmeny udachi) (1972)\nBig Lebowski, The (1998)\nMeet John Doe (1941)\nA.I. Artificial Intelligence (2001)\nAmerican Graffiti (1973)\nBruce Almighty (2003)\nWhat's Up, Doc? (1972)\nTenacious D in The Pick of Destiny (2006)\nStranger than Fiction (2006)\nIntolerable Cruelty (2003)",
+            "Control (2007) \nBig Lebowski, The (1998) \nAmerican Graffiti (1973) \nIntolerable Cruelty (2003) \nDelicatessen (1991) \nBruce Almighty (2003) \nReal Genius (1985) \nTenacious D in The Pick of Destiny (2006) \n40 Days and 40 Nights (2002) \nCentral Intelligence (2016)",
+            "1. Control (2007)\n2. Tenacious D in The Pick of Destiny (2006)\n3. The Big Lebowski (1998)\n4. Intolerable Cruelty (2003)\n5. Real Genius (1985)\n6. What's Up, Doc? (1972)\n7. American Graffiti (1973)\n8. What's Up, Doc? (1972)\n9. UHF (1989)\n10. Brewster's Millions (1985)",
+            "1. Control (2007)\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. Real Genius (1985)\n5. Bruce Almighty (2003)\n6. Tenacious D in The Pick of Destiny (2006)\n7. Almost Famous (2000)\n8. This Is Spinal Tap (1984)\n9. Hedwig and the Angry Inch (2001)\n10. Walk Hard: The Dewey Cox Story (2007)\n''''",
+            "The Big Lebowski, The (1998) \nControl (2007) \nTenacious D in The Pick of Destiny (2006) \nGrapes of Wrath, The (1940)\nHomeward Bound: The Incredible Journey (1993) \nThe Commitments (1991) \nAlmost Famous (2000) \nSing Street (2016) \nThat Thing You Do! (1996) \nPopstar: Never Stop Never Stopping (2016)",
+            "Control (2007) \\n\nThe Big Lebowski (1998) \\n\nThe Blues Brothers (1980) \\n\nPurple Rain (1984) \\n\nTenacious D in The Pick of Destiny (2006) \\n\nWalk the Line (2005) \\n\nEddie and the Cruisers (1983) \\n\n8 Mile (2002) \\n\nThat Thing You Do! (1996) \\n\nOnce (2007)"
+        ]
+    }
+}

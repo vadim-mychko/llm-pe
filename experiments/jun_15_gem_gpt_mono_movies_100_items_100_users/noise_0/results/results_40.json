@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Is this a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something with a science fiction theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fast paced action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is this movie set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is this movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Is this movie based on a classic novel?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Lost in Translation (2003)\n2. Grapes of Wrath, The (1940)\n3. Black Robe (1991)\n4. Real Steel (2011)\n5. Stranger than Fiction (2006)\n6. Magnolia (1999)\n7. Meet John Doe (1941)\n8. Bruce Almighty (2003)\n9. Jane Eyre (1996)\n10. The Big Red One (1980)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Laura (1944)\n6. Last Temptation of Christ, The (1988)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. Santa Sangre (1989)\n9. Blair Witch Project, The (1999)\n10. Martyrs (2008)",
+            "1. The Mothman Prophecies (2002)\n2. The Terminator 3: Rise of the Machines (2003)\n3. Eraser (1996)\n4. The Matrix\n5. Twelve Monkeys\n6. Speed\n7. Tomorrowland\n8. Men in Black\n9. Independence Day\n10. Aliens",
+            "1. A.I. Artificial Intelligence (2001)\n2. Enter the Void (2009)\n3. Lost in Translation (2003)\n4. Cronos (1993)\n5. The Secret of Kells (2009)\n6. Magnolia (1999)\n7. Europa (Zentropa) (1991)\n8. The Man from Earth (2007)\n9. Darkman (1990)\n10. Stranger than Fiction (2006)",
+            "1. Meet John Doe (1941)\n2. Von Ryan's Express (1965)\n3. The Big Red One (1980)\n4. King Kong (2005)\n5. Grapes of Wrath, The (1940)\n6. Cronos (1993)\n7. Black Robe (1991)\n8. Umberto D. (1952)\n9. Jane Eyre (1996)\n10. Mr. Holmes (2015)",
+            "1. Thomas Crown Affair, The (1968)\n2. Intolerable Cruelty (2003)\n3. Jane Eyre (1996)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. Grapes of Wrath, The (1940)\n7. Von Ryan's Express (1965)\n8. What's Up, Doc? (1972)\n9. Brewster's Millions (1985)\n10. American Graffiti (1973)",
+            "1. The Grapes of Wrath (1940)\n2. Meet John Doe (1941)\n3. Laura (1944)\n4. Arsenic and Old Lace (1944)\n5. Big Red One, The (1980)\n6. Cocoon (1985)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. The Proposition (2005)\n10. Intolerable Cruelty (2003)",
+            "1. Moby Dick (1956)\n2. Von Ryan's Express (1965)\n3. Grapes of Wrath, The (1940)\n4. Jane Eyre (1996)\n5. Black Robe (1991)\n6. The Lion in Winter (1968)\n7. Nicholas and Alexandra (1971)\n8. Gandhi (1982)\n9. Amadeus (1984)\n10. The English Patient (1996)",
+            "1. Jane Eyre (1996)\n2. Grapes of Wrath, The (1940)\n3. Umberto D. (1952)\n4. Black Robe (1991)\n5. Moby Dick (1956)\n6. Europa (Zentropa) (1991)\n7. What's Up, Doc? (1972)\n8. Von Ryan's Express (1965)\n9. Thomas Crown Affair, The (1968)\n10. Barry Lyndon (1975)",
+            "1. Grapes of Wrath, The (1940)\n2. All Quiet on the Western Front (1930)\n3. Meet John Doe (1941)\n4. Moby Dick (1956)\n5. Laura (1944)\n6. Dangerous Liaisons (1988)\n7. Jane Eyre (1996)\n8. Thomas Crown Affair, The (1968)\n9. Great Expectations (1946)\n10. A.I. Artificial Intelligence (2001)"
+        ]
+    }
+}

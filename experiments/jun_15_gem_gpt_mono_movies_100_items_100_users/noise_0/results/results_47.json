@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something with beautiful animation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with lots of character and development?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that's set in the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that has themes of science fiction?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about a virtual reality game?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that has lots of technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that involves artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a plot involving time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a plot involving a futuristic video game?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Guest (2014)\n2. The Departed (2006)\n3. The Last Supper (1995)\n4. The Conversation (1974)\n5. The Apartment (1960)\n6. The Third Man (1949)\n7. The Godfather (1972)\n8. The Godfather Part II (1974)\n9. The Dark Knight (2008)\n10. The Shawshank Redemption (1994)\n",
+            "1. Stranger than Fiction (2006) \n2. Terminator 3: Rise of the Machines (2003) \n3. Enter the Void (2009) \n4. The Departed (2006) \n5. Control (2007) \n6. Real Steel (2011) \n7. Big Lebowski, The (1998) \n8. Trapped (2002) \n9. Mr. Holmes (2015) \n10. Intolerable Cruelty (2003) ",
+            "1. 2001: A Space Odyssey (1968)\n2. Blade Runner (1982)\n3. The Matrix (1999)\n4. Inception (2010)\n5. Interstellar (2014)\n6. Arrival (2016)\n7. Ex Machina (2014)\n8. Her (2013)\n9. Annihilation (2018)\n10. The Martian (2015)",
+            "1. Cloud Atlas \n2. Blade Runner \n3. Minority Report \n4. 2001: A Space Odyssey \n5. Arrival \n6. Moon \n7. Interstellar \n8. Ex Machina \n9. Her \n10. 12 Monkeys",
+            "1. Minority Report (2002) \n2. Blade Runner 2049 (2017) \n3. Her (2013) \n4. Arrival (2016) \n5. Ex Machina (2014) \n6. Moon (2009) \n7. District 9 (2009) \n8. Children of Men (2006) \n9. Gattaca (1997) \n10. 12 Monkeys (1995)",
+            "1. Minority Report (2002)\n2. Children of Men (2006)\n3. Blade Runner (1982)\n4. Her (2013)\n5. Cloud Atlas (2012)\n6. 2046 (2004)\n7. Akira (1988)\n8. Ghost in the Shell (1995)\n9. The Matrix (1999)\n10. Inception (2010)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ready Player One \n4. Ant-Man (2015)\n5. Real Steel (2011)\n6. Robot & Frank (2012)\n7. Mr. Holmes (2015)\n8. Grapes of Wrath, The (1940)\n9. Cronos (1993)\n10. Black Robe (1991)",
+            "1. I, Robot (2004) \n2. A.I. Artificial Intelligence (2001) \n3. Ex Machina (2014) \n4. Her (2013) \n5. Chappie (2015) \n6. Blade Runner 2049 (2017) \n7. Westworld (2016) \n8. Ghost in the Shell (2017) \n9. 2001: A Space Odyssey (1968) \n10. Metropolis (2001)",
+            "1. The Man from Earth (2007) \n2. Metropolis (2001) \n3. A.I. Artificial Intelligence (2001) \n4. Terminator 3: Rise of the Machines (2003) \n5. Ant-Man (2015) \n6. Timeline (2003) \n7. Ready Player One \n8. Real Steel (2011) \n9. Robot & Frank (2012) \n10. Bruce Almighty (2003)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Real Steel (2011)\n3. Robot & Frank (2012)\n4. Alita: Battle Angel (2019)\n5. Ant-Man (2015)\n6. Terminator 3: Rise of the Machines (2003)\n7. The Big Red One (1980)\n8. Darkman (1990)\n9. Metropolis (2001)\n10. The Corporation (2003)"
+        ]
+    }
+}
