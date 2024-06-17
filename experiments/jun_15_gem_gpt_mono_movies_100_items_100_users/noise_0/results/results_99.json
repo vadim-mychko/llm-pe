@@ -1,0 +1,58 @@
+{
+    "99": {
+        "conv_hist": [
+            {
+                "query": "Is the movie you're looking for live-action or animated?",
+                "response": "live-action"
+            },
+            {
+                "query": "Are you looking for a drama, a comedy, a crime thriller, or something else?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie you're thinking of mostly set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie you're looking for suitable for children?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a movie involving robots?",
+                "response": "no"
+            },
+            {
+                "query": "Does the action of the movie take place in a fantasy setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is either a comedy or action film set in the modern day featuring humans?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is either a comedy or action film set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is either a comedy or action film set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Prisoners (2013)\n2. The Departed (2006)\n3. Nightcrawler (2014)\n4. Runaway Train (1985)\n5. Before the Devil Knows You're Dead (2007)\n6. Man on Fire (2004)\n7. Face/Off (1997)\n8. Terminator 3: Rise of the Machines (2003)\n9. Darkman (1990)\n10. The Big Red One (1980)",
+            "1. Love Me If You Dare (Jeux d'enfants) (2003) \n2. Searching (2018) \n3. Europa (Zentropa) (1991) \n4. The Secret of Kells (2009) \n5. Magnolia (1999) \n6. The Proposition (2005) \n7. Breach (2007) \n8. Bad Education (La mala educaci\u00f3n) (2004) \n9. The Corporation (2003) \n10. Timeline (2003) \n",
+            "1. Searching (2018) \\n\n2. Magnolia (1999) \\n\n3. Control (2007) \\n\n4. Mr. Holmes (2015) \\n\n5. The Departed (2006) \\n\n6. Enter the Void (2009) \\n\n7. Corpse Bride (2005) \\n\n8. The Host (2006) \\n\n9. Nightcrawler (2014) \\n\n10. A Quiet Place (2018) \\n",
+            "1. Departed, The (2006) \n2. Nightcrawler (2014) \n3. Man on Fire (2004) \n4. No Country for Old Men (2007) \n5. The Departed (2006) \n6. Prisoners (2013) \n7. Sicario (2015) \n8. The Dark Knight (2008) \n9. The Town (2010) \n10. Heat (1995)",
+            "1. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n2. Ready Player One \n3. Von Ryan's Express (1965) \n4. Transporter 2 (2005) \n5. Tomb Raider (2018) \n6. Superhero Title: A.I. Artificial Intelligence (2001) \n7. Nightcrawler (2014) \n8. The Departed (2006) \n9. Face/Off (1997) \n10. A.I. Artificial Intelligence (2001) \n''''",
+            "1. The Man from Earth (2007)\n2. Love Me If You Dare (2003)\n3. Europa (1991)\n4. Strange than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. Terminator 3: Rise of the Machines (2003)\n7. Transporter 2 (2005)\n8. Delicatessen (1991)\n9. Bruce Almighty (2003)\n10. The Big Lebowski (1998)",
+            "1. August Rush (2007) \n2. Miracle on 34th Street (1947) \n3. Nancy Drew (2007) \n4. Something's Gotta Give (2003) \n5. The Family Stone (2005) \n6. Easy A (2010) \n7. The Devil Wears Prada (2006) \n8. Mean Girls (2004) \n9. Mamma Mia! (2008) \n10. He's Just Not That Into You (2009)\n",
+            "1. The Departed (2006) \n2. Stranger than Fiction (2006) \n3. Nightcrawler (2014) \n4. The Big Lebowski (1998) \n5. American Graffiti (1973) \n6. Real Genius (1985) \n7. Fast Times (1982) \n8. Real Steel (2011) \n9. The Grand Budapest Hotel (2014) \n10. Big Hero 6 (2014)",
+            "1. Enter the Void (2009)\n2. Delicatessen (1991)\n3. Cronos (1993)\n4. Black Robe (1991)\n5. Umberto D. (1952)\n6. European Cinema: Day & Night (1997)\n7. Dogtooth (Kynodontas) (2009)\n8. Soft Skin (Peau douce) (1964)\n9. Accident (1967)\n10. Elephant (2003)",
+            "1.  Secret of Kells, The (2009) \n2.  Gremlins 2: The New Batch (1990) \n3.  Big Lebowski, The (1998) \n4.  American Graffiti (1973) \n5.  Grapes of Wrath, The (1940) \n6.  Black Robe (1991) \n7.  Eragon (2006) \n8.  Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)"
+        ]
+    }
+}

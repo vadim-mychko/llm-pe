@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer action movies or dramas?",
+                "response": "dramas"
+            },
+            {
+                "query": "Are you in the mood for a science fiction drama tonight?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy tonight?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a romantic comedy that's also a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a black comedy tonight?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic comedy that is screwball?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic comedy that's also a comedy of errors?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you leaning towards a movie where the main characters are on a journey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terms of Endearment (1983)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Magnolia (1999)\n5. Dangerous Liaisons (1988)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Stranger than Fiction (2006)\n8. Control (2007)\n9. Mr. Holmes (2015)\n10. Jane Eyre (1996)",
+            "1. The Lost World: Jurassic Park (1997)\n2. No Man's Land (2001)\n3. Crimes and Misdemeanors (1989)\n4. The Mothman Prophecies (2002)\n5. Magnolia (1999)\n6. Europa (Zentropa) (1991)\n7. The Hurricane (1999)\n8. Nightcrawler (2014)\n9. Stranger than Fiction (2006)\n10. Robot & Frank (2012)",
+            "1. American Graffiti (1973)\n2. Real Genius (1985)\n3. What's Up, Doc? (1972)\n4. Airplane!  (1980)\n5. The Big Lebowski (1998)\n6. Brewster's Millions (1985)\n7. Tenacious D in The Pick of Destiny (2006)\n8. What We Do in the Shadows (2014)\n9. Delicatessen (1991)\n10. Intolerable Cruelty (2003)",
+            "1. Love Me If You Dare (Jeux d'enfants) (2003)\n2. Ready Player One \n3. Stranger than Fiction (2006) \n4. The Sure Thing (1985) \n5. Intolerable Cruelty (2003) \n6. Lost in Translation (2003) \n7. What's Up, Doc? (1972) \n8. The Big Lebowski (1998) \n9. Bruce Almighty (2003) \n10. Brewster's Millions (1985) \n''''",
+            "50 First Dates (2004) \\n\nWhat's Up, Doc? (1972) \\n\nThe Big Lebowski (1998) \\n\nIntolerable Cruelty (2003) \\n\nBrewster's Millions (1985) \\n\nBruce Almighty (2003) \\n\nReal Genius (1985) \\n\nTenacious D in The Pick of Destiny (2006) \\n\nThe Big Red One (1980) \\n\nControl (2007)",
+            "1. The Big Lebowski (1998)\n2. Am\u00e9lie (Le fabuleux destin d'Am\u00e9lie Poulain) (2001)\n3. Stranger than Fiction (2006)\n4. The Grand Budapest Hotel (2014)\n5. Moonrise Kingdom (2012)\n6. The Darjeeling Limited (2007)\n7. The Life Aquatic with Steve Zissou (2004)\n8. The Royal Tenenbaums (2001)\n9. Rushmore (1998)\n10. Bottle Rocket (1996)",
+            "1. Lost in Translation (2003) \n2. Stranger than Fiction (2006) \n3. Being John Malkovich (1999) \n4. The Darjeeling Limited (2007) \n5. What's Up, Doc? (1972) \n6. Swingers (1996) \n7. Clueless (1995) \n8. Napoleon Dynamite (2004) \n9. Office Space (1999) \n10. The Big Lebowski (1998) \n",
+            "- Meet John Doe (1941) \n- Brewster's Millions (1985) \n- Real Genius (1985) \n- What's Up, Doc? (1972) \n- Intolerable Cruelty (2003) \n- American Graffiti (1973) \n- The Sure Thing (1985) \n- Stranger than Fiction (2006) \n- Big Lebowski, The (1998)",
+            "What's Up, Doc? (1972) \nAmerican Graffiti (1973) \nDelicatessen (1991) \nIntolerable Cruelty (2003) \nStranger than Fiction (2006) \nBruce Almighty (2003) \nTenacious D in The Pick of Destiny (2006) \nControl (2007) \nThe Big Lebowski (1998) \nBrewster's Millions (1985)",
+            "1. Rushmore (1998)\n2. The Big Lebowski (1998)\n3. What's Up, Doc? (1972)\n4. Stranger than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. American Graffiti (1973)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Eragon (2006)"
+        ]
+    }
+}

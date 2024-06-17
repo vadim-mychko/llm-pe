@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 1990's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about gangsters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy or romance?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a stylish movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Tomb Raider (2018) \n4. Laura (1944) \n5. August Rush (2007) \n6. Santa Sangre (1989) \n7. One Hour Photo (2002) \n8. Lost World: Jurassic Park, The (1997) \n9. The Man from Earth (2007) \n10. Cach\u00e9 (Hidden) (a.k.a. Hidden) (Cache) (2005) \n''''",
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. Pirates of the Caribbean: At World's End (2007)\n4. August Rush (2007)\n5. The Blair Witch Project (1999)\n6. The Piano (1993)\n7. All Quiet on the Western Front (1930)\n8. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n9. Drugstore Cowboy (1989)\n10. Metropolis (2001)\n''''",
+            "1. Abraham Lincoln: Vampire Hunter (2012)\n2. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n3. No Man's Land (2001)\n4. Enter the Void (2009)\n5. Nightcrawler (2014)\n6. Real Steel (2011)\n7. Grapes of Wrath, The (1940)\n8. Lost in Translation (2003)\n9. Umberto D. (1952)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. August Rush (2007)\n2. Bernie (2011)\n3. Searching (2018)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Stranger than Fiction (2006)\n6. Robot & Frank (2012)\n7. Bruiser (2000)\n8. Control (2007)\n9. Lost in Translation (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Love Me If You Dare (Jeux d'enfants) (2003) \n3. Magnolia (1999) \n4. Darkman (1990) \n5. Enter the Void (2009) \n6. Bruce Almighty (2003) \n7. Black Robe (1991) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. The Man from Earth (2007)\n2. Laura (1944)\n3. Peter Jackson's King Kong (2005)\n4. Enter the Void (2009)\n5. A.I. Artificial Intelligence (2001)\n6. Dangerous Liaisons (1988)\n7. The Adventures of Baron Munchausen (1988)\n8. The Last Supper (1995)\n9. Stranger than Fiction (2006)\n10. American Graffiti (1973)",
+            "1. Intolerable Cruelty (2003) \n2. Stranger than Fiction (2006) \n3. The Big Lebowski (1998) \n4. Enter the Void (2009) \n5. What's Up, Doc? (1972) \n6. Love Me If You Dare (Jeux d'enfants) (2003) \n7. Europa (Zentropa) (1991) \n8. Real Genius (1985) \n9. Trapped (2002) \n10. American Graffiti (1973)\n",
+            "1. Intolerable Cruelty (2003)\n2. Some Like It Hot (1959)\n3. Intolerable Cruelty (2003)\n4. What's Up, Doc? (1972)\n5. Face/Off (1997)\n6. Bruce Almighty (2003)\n7. The Big Lebowski (1998)\n8. 50 First Dates (2004)\n9. Real Genius (1985)\n10. Brewster's Millions (1985)",
+            "1. Intolerable Cruelty (2003)\n2. What's Up, Doc? (1972)\n3. Lady Bird (2017)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Thomas Crown Affair, The (1968)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Big Lebowski, The (1998)\n9. American Graffiti (1973)\n10. Delicatessen (1991)",
+            "The Big Lebowski (1998)\nAmerican Graffiti (1973)\nIntolerable Cruelty (2003)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nLost in Translation (2003)\nFace/Off (1997)\nBruce Almighty (2003)\nThe Thomas Crown Affair (1968)\nStranger than Fiction (2006)\nWhat's Up, Doc? (1972)"
+        ]
+    }
+}

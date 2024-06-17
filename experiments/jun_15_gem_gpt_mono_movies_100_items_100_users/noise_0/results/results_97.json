@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a drama about a struggling family during the Great Depression?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction film where the main character is a robot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a young boy growing up in the suburbs in the 1960s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated musical about a boy with a guitar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a historical epic fantasy film set in the 17th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a French dark comedy about cannibalism?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a documentary about business?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action film about the Wild West?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama about a superhero with artificial intelligence?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Grapes of Wrath, The (1940) \n2. Runaway Train (1985)\n3. Magnolia (1999)\n4. Terminator 3: Rise of the Machines (2003)\n5. Searching (2018)\n6. How High (2001)\n7. Intolerable Cruelty (2003)\n8. Robot & Frank (2012)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Term of Endearment (1983)\n4. The Big Lebowski (1998)\n5. American Graffiti (1973)\n6. Grapes of Wrath, The (1940)\n7. Lost in Translation (2003)\n8. Nightcrawler (2014)\n9. Stranger than Fiction (2006)\n10. Searching (2018)",
+            "1. Monsters, Inc. (2001)\n2. A.I. Artificial Intelligence (2001)\n3. The Big Red One (1980)\n4. Terminator 3: Rise of the Machines (2003)\n5. Face/Off (1997)\n6. Real Genius (1985)\n7. Brewster's Millions (1985)\n8. St. Elmo's Fire (1985)\n9. Runaway Train (1985)\n10. Cocoon (1985)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. The Proposition (2005) \n3. The Man from Earth (2007) \n4. Out of Sight (1998) \n5. Searching (2018) \n6. Meet John Doe (1941) \n7. What's Up, Doc? (1972) \n8. Delicatessen (1991) \n9. Real Genius (1985) \n10. Lost in Translation (2003)",
+            "1. Alita: Battle Angel (2019)\n2. The Big Red One (1980)\n3. Black Robe (1991)\n4. Bruce Almighty (2003)\n5. Control (2007)\n6. Cronos (1993)\n7. Delicatessen (1991)\n8. Terminator 3: Rise of the Machines (2003)\n9. The Grapes of Wrath (1940)\n10. American Graffiti (1973)",
+            "1. Enter the Void (2009) \n2. Departed, The (2006) \n3. Hurricane, The (1999) \n4. Stranger than Fiction (2006) \n5. Intolerable Cruelty (2003) \n6. Nightcrawler (2014) \n7. American Graffiti (1973) \n8. Lost in Translation (2003) \n9. Terminator 3: Rise of the Machines (2003) \n10. Bruce Almighty (2003) ",
+            "1. Big Lebowski, The (1998)\n2. Nightcrawler (2014)\n3. American Graffiti (1973)\n4. Lost in Translation (2003)\n5. Real Steel (2011)\n6. The Departed (2006)\n7. Enter the Void (2009)\n8. Nightcrawler (2014)\n9. Stranger than Fiction (2006)\n10. Intolerable Cruelty (2003)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. The Piano (1993)\n6. The Proposition (2005)\n7. Bernie (2011)\n8. One Hour Photo (2002)\n9. All Quiet on the Western Front (1930)\n10. We Bought a Zoo (2011)\n''''",
+            "1. Terms of Endearment (1983)\n2. Hurricane, The (1999)\n3. American Graffiti (1973)\n4. Enter the Void (2009)\n5. Fight Club (1999)\n6. Terminator 3: Rise of the Machines (2003)\n7. Control (2007)\n8. Real Genius (1985)\n9. Last Supper, The (1995)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Tomb Raider (2018)\n2. August Rush (2007)\n3. The Piano (1993)\n4. One Hour Photo (2002)\n5. Last Action Hero (1993)\n6. No Man's Land (2001)\n7. Chungking Express (Chung Hing sam lam) (1994)\n8. Arsenic and Old Lace (1944)\n9. Magnolia (1999)\n10. Dangerous Liaisons (1988)"
+        ]
+    }
+}
