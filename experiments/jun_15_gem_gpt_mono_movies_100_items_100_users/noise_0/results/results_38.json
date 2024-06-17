@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for children's movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama?\n++++",
+                "response": "no"
+            },
+            {
+                "query": "Are you more interested in a sci-fi or fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in comedies with historical references?  Maybe something set in the 1940s or 1950s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for comedies with a romantic storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a comedy with a romantic storyline from a specific time period?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in comedies set in the 1960s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy where men dress up as women?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Last Action Hero (1993)\n6. The Naked Gun: From the Files of Police Squad! (1988)\n7. August Rush (2007)\n8. Meet John Doe (1941)\n9. What's Up, Doc? (1972)\n10. Homeward Bound: The Incredible Journey (1993)\n",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Laura (1944) \n4. Last Temptation of Christ, The (1988) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. Santa Sangre (1989) \n7. August Rush (2007) \n8. Blair Witch Project, The (1999) \n9. Martyrs (2008) \n10. Piano, The (1993)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. The Proposition (2005)\n3. The Terminator 3: Rise of the Machines (2003) \n4. RoboCop (1987)\n5. Ready Player One (2018) \n6. Real Genius (1985)\n7. The Big Lebowski (1998)\n8. American Graffiti (1973) \n9. Brewster's Millions (1985) \n10. Face/Off (1997)",
+            "1. Tomb Raider (2018)\n2. The Big Lebowski (1998)\n3. What's Up, Doc? (1972)\n4. Brewster's Millions (1985)\n5. Intolerable Cruelty (2003)\n6. Real Genius (1985)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Airplane! (1980)\n9. Naked Gun: From the Files of Police Squad!, The (1988)\n10. UHF (1989)",
+            "1. Airplane! (1980)\n2. Strange than Fiction (2006)\n3. The Grand Budapest Hotel 2014\n4. Sing Street (2016)\n5. Juno (2007)\n6. The Big Sick (2017)\n7. Lady Bird (2017)\n8. Crazy Rich Asians (2018)\n9. The Farewell (2019)\n10. Minari (2020)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Brewster's Millions (1985)\n3. What's Up, Doc? (1972)\n4. American Graffiti (1973)\n5. Intolerable Cruelty (2003)\n6. Big Lebowski, The (1998)\n7. Real Genius (1985)\n8. Hot Shots! Part Deux (1993)\n9. Airplane! (1980)\n10. Caddyshack (1980)",
+            "1. 50 First Dates (2004)\n2. What's Up, Doc? (1972)\n3. Intolerable Cruelty (2003)\n4. Jane Eyre (1996)\n5. Lost in Translation (2003)\n6. The Thomas Crown Affair (1968)\n7. Stranger than Fiction (2006)\n8. Bruce Almighty (2003)\n9. Delicatessen (1991)\n10. Punch Drunk Love (2002)\n",
+            "1. Lost in Translation (2003) \n2. Intolerable Cruelty (2003) \n3. Love Me If You Dare (Jeux d'enfants) (2003)\n4. The Sure Thing (1985)\n5. What's Up, Doc? (1972) \n6. Am\u00e9lie (Le Fabuleux Destin d'Am\u00e9lie Poulain) (2001) \n7. Big Lebowski, The (1998) \n8. Bringing Up Baby (1938) \n9. Ferris Bueller's Day Off (1986)\n10. Notting Hill (1999)",
+            "The Big Lebowski, The (1998) \nIntolerable Cruelty (2003) \nWhat's Up, Doc? (1972) \nThe Sure Thing (1985) \nBrewster's Millions (1985) \nReal Genius (1985) \n50 First Dates (2004) \nThe Thomas Crown Affair (1968) \nSt. Elmo's Fire (1985) \nTerms of Endearment (1983)",
+            "Love Me If You Dare (Jeux d'enfants) (2003) \\n\nSome Like It Hot (1959) \\n\nWhat's Up, Doc? (1972) \\n\nThe Ladykillers (1955) \\n\nIntolerable Cruelty (2003) \\n\nA Fish Called Wanda (1988) \\n\nMurder by Death (1976) \\n\nArsenic and Old Lace (1944) \\n\nThe Pink Panther (1963) \\n\nThe Big Lebowski (1998)\n"
+        ]
+    }
+}
