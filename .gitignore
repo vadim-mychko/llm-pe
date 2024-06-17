@@ -4,6 +4,8 @@ Prompt_Engineering_Lab.ipynb
 images/
 slurm_outputs/
 
+slurm_script*.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
