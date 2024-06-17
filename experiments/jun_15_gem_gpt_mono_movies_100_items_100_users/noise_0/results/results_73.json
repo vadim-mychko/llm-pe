@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with animals in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about sports?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama that is also a fantasy or sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama set in the present day?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama that is set in a historical period?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama about an illness, such as \"Terms of Endearment\" or \"Hachiko: A Dog's Story\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama set in a historical period, like \"Intolerable Cruelty\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about a historical figure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama set in the future or a sci-fi dystopia?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Laura (1944)\n6. Last Temptation of Christ, The (1988)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. Santa Sangre (1989)\n9. August Rush (2007)\n10. Blair Witch Project, The (1999)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985)\nLaura (1944)\nThe Last Temptation of Christ (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nSanta Sangre (1989)\nAugust Rush (2007)\nThe Blair Witch Project (1999)\nMartyrs (2008)\nThe Piano (1993)",
+            "1. Grapes of Wrath, The (1940)\n2. Umberto D. (1952)\n3. Control (2007)\n4. The Grapes of Wrath (1940)\n5. Departed, The (2006)\n6. Moonlight (2016)\n7. La Cage aux Folles (1978)\n8. The Piano (1993)\n9. The Proposition (2005)\n10. Runaway Train (1985)",
+            "1. August Rush (2007)\n2. Terms of Endearment (1983)\n3. Magnolia (1999)\n4. The Hurricane (1999)\n5. The Grapes of Wrath (1940)\n6. Umberto D. (1952)\n7. Black Robe (1991)\n8. Boy in the Striped Pajamas, The (2008)\n9. Mr. Holmes (2015)\n10. Cronos (1993)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Black Robe (1991)\n4. Jane Eyre (1996)\n5. Cronos (1993)\n6. Moby Dick (1956)\n7. Europa (Zentropa) (1991)\n8. The Last Supper (1995)\n9. Meet John Doe (1941)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Intolerable Cruelty (2003)\n2. Last Supper, The (1995)\n3. Mr. Holmes (2015)\n4. The Big Lebowski (1998)\n5. Bruce Almighty (2003)\n6. The Grapes of Wrath (1940)\n7. Jane Eyre (1996)\n8. Lost in Translation (2003)\n9. Umberto D. (1952)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Corpses and Robbers (Dzhentlmeny udachi) (1972)\n3. Europa (Zentropa) (1991)\n4. The Incredible Journey (Homeward Bound II: Lost in San Francisco) (1996)\n5. The Man Who Fell to Earth (1976)\n6. Mr. Holmes (2015)\n7. The Proposition (2005)\n8. The Secret of Kells (2009)\n9. Terms of Endearment (1983)\n10. The Virgin Suicides (1999)",
+            "1. Meet John Doe (1941) \n2. What's Up, Doc? (1972) \n3. The Big Red One (1980) \n4. American Graffiti (1973) \n5. Grapes of Wrath, The (1940) \n6. Jane Eyre (1996) \n7. Tenacious D in The Pick of Destiny (2006) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n10. Black Robe (1991) ",
+            "1. August Rush (2007) \n2. Big Red One, The (1980) \n3. Control (2007) \n4. Departed, The (2006) \n5. Grapes of Wrath, The (1940) \n6. Magnolia (1999) \n7. Meet John Doe (1941) \n8. Stranger than Fiction (2006) \n9. Umberto D. (1952) \n10. What's Up, Doc? (1972)",
+            "1. The Last Supper, The (1995)\n2. Brewster's Millions (1985)\n3. Umberto D. (1952)\n4. Grapes of Wrath, The (1940)\n5. Black Robe (1991)\n6. Land Before Time, The (1988)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Boy in the Striped Pajamas, The (2008)\n9. American Graffiti (1973)\n10. Control (2007)"
+        ]
+    }
+}

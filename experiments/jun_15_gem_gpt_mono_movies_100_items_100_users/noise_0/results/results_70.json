@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a drama about an illness or an 80's science fiction film?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Is the drama about a disability or hardship?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an older film that is in black and white?",
+                "response": "no"
+            },
+            {
+                "query": "Any interest in a space adventure film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy that is also a heist movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic comedy set in college?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fantasy adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about video games?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Real Genius (1985)\n5. American Graffiti (1973)\n6. Brewster's Millions (1985)\n7. The Big Lebowski (1998)\n8. Meet John Doe (1941)\n9. What's Up, Doc? (1972)\n10. Sure Thing, The (1985)  \n''''",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. The Blair Witch Project (1999)\n6. Laura (1944)\n7. The Piano (1993)\n8. Terms of Endearment (1983)\n9. The Naked Gun: From the Files of Police Squad!, The (1988)\n10. One Hour Photo (2002)\n'''",
+            "1. Monuments, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. Terms of Endearment (1983)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Dracula (Bram Stoker's Dracula) (1992)\n9. The Proposition (2005)\n10. Alita: Battle Angel (2019)",
+            "1. Lost in Translation (2003)\n2. August Rush (2007)\n3. Stranger than Fiction (2006)\n4. Secrets of Kells, The (2009)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Enter the Void (2009)\n7. Robot & Frank (2012)\n8. Mr. Holmes (2015)\n9. Searching (2018)\n10. Ant-Man (2015)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Meet John Doe (1941) \n3. Europa (Zentropa) (1991) \n4. Control (2007) \n5. Intolerable Cruelty (2003) \n6. The Grapes of Wrath (1940) \n7. Umberto D. (1952) \n8. Lost in Translation (2003) \n9. Black Robe (1991) \n10. Five Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n''''",
+            "Terminator 3: Rise of the Machines (2003) \\n\nEuropa (Zentropa) (1991) \\n\nWhat's Up, Doc? (1972) \\n\nIntolerable Cruelty (2003) \\n\nDelicatessen (1991) \\n\nBrewster's Millions (1985) \\n\nFace/Off (1997) \\n\nReal Genius (1985) \\n\nBlack Robe (1991) \\n\nEragon (2006)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Laura (1944)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. Santa Sangre (1989)\n5. The Naked Gun: From the Files of Police Squad!, The (1988)\n6. Cocoon (1985)\n7. We Bought a Zoo (2011)\n8. The Secret of Kells (2009)\n9. The Sure Thing (1985)\n10. What's Up, Doc? (1972)",
+            "1. Searching (2018)\n2. Nightcrawler (2014)\n3. Departed, The (2006)\n4. Big Lebowski, The (1998)\n5. Stranger than Fiction (2006)\n6. Control (2007)\n7. Cronos (1993)\n8. Black Robe (1991)\n9. Robot & Frank (2012)\n10. Umberto D. (1952)\n",
+            "1. Sure Thing, The (1985) \n2. What's Up, Doc? (1972) \n3. Not Available\n4. Real Genius (1985) \n5. American Graffiti (1973) \n6. Big Lebowski, The (1998) \n7. Eragon (2006) \n8. Thomas Crown Affair, The (1968) \n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n10.Tenacious D in The Pick of Destiny (2006)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003) \n4. Tomb Raider (2018) \n5. Pirates of the Caribbean: At World's End (2007) \n6. Drugstore Cowboy (1989) \n7. The Last Supper (1995) \n8. Black Robe (1991) \n9. Real Genius (1985) \n10. Cronos (1993) "
+        ]
+    }
+}
