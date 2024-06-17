@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie where the characters travel through time?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer thrillers to dramas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about friendship?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action movie with lots of special effects?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about hackers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a children's film?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. Santa Sangre (1989)\n4. The Blair Witch Project (1999)\n5. Terminator 3: Rise of the Machines (2003)\n6. Searching (2018)\n7. Von Ryan's Express (1965)\n8. The Big Lebowski (1998)\n9. Delicatessen (1991)\n10. Real Genius (1985)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. August Rush (2007)\n5. Terms of Endearment (1983)\n6. One Hour Photo (2002)\n7. Before the Devil Knows You're Dead (2007)\n8. Out of Sight (1998)\n9. Bruno (2009)\n10. What's Up, Doc? (1972)\n'''",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. What's Up, Doc? (1972)\n9. Homeward Bound: The Incredible Journey (1993)\n10. American Graffiti (1973)\n",
+            "1. Lost in Translation (2003)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Enter the Void (2009)\n5. Secret of Kells, The (2009)\n6. Metropolis (2001)\n7. Mothman Prophecies, The (2002)\n8. Land Before Time, The (1988)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Antarctica: A Year on Ice (2013)",
+            "1. The Big Lebowski (1998) \n2. Stranger than Fiction (2006) \n3. American Graffiti (1973) \n4. Trapped (2002) \n5. Intolerable Cruelty (2003) \n6. Delicatessen (1991) \n7. Brewster's Millions (1985) \n8. Face/Off (1997) \n9. Bruce Almighty (2003) \n10. Real Genius (1985) ",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. August Rush (2007)\n4. Ant-Man (2015)\n5. Terminator 3: Rise of the Machines (2003)\n6. Before the Devil Knows You're Dead (2007)\n7. No Man's Land (2001)\n8. The Last Supper, The (1995)\n9. Lost in Translation (2003)\n10. Umberto D. (1952)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Laura (1944) \n4. Abraham Lincoln: Vampire Hunter (2012) \n5. Santa Sangre (1989) \n6. August Rush (2007) \n7. The Blair Witch Project (1999) \n8. Martyrs (2008) \n9. The Piano (1993) \n10. Terms of Endearment (1983)",
+            "1. Europa (Zentropa) (1991)\n2. The Secret of Kells (2009)\n3. The Last Emperor (1987)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. The Man from Earth (2007)\n6. What's Up, Doc? (1972)\n7. American Graffiti (1973)\n8. The Big Lebowski (1998)\n9. Stranger than Fiction (2006)\n10. Lost in Translation (2003)",
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nAugust Rush (2007)\nThe Blair Witch Project (1999)\nThe Proposition (2005)\nThe Naked Gun: From the Files of Police Squad! (1988)\nOne Hour Photo (2002)\nMetropolis (2001)\nEuropa (Zentropa) (1991)\nHackers (1995)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Santa Sangre (1989)\n6. Blair Witch Project, The (1999)\n7. Martyrs (2008)\n8. Piano, The (1993)\n9. Proposition, The (2005)\n10. Bernie (2011)"
+        ]
+    }
+}

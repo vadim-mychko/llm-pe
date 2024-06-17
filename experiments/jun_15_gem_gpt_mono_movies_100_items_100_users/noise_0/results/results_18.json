@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Is there a specific language you might prefer movies to be in?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about a heist?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie with fight scenes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that is a crime drama?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies with magic or fantasy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a video game adaptation of a specific genre interesting to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a science fiction movie with AI?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a historical movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a robot?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Enter the Void (2009)\n3. Nightcrawler (2014)\n4. Trapped (2002)\n5. Face/Off (1997)\n6. Bruce Almighty (2003)\n7. Darkman (1990)\n8. Intolerable Cruelty (2003)\n9. Hostel (2005)\n10. The Last Exorcism (2010)",
+            "1. The Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. Lost in Translation (2003)\n4. Real Genius (1985)\n5. What's Up, Doc? (1972)\n6. Meet John Doe (1941)\n7. Stranger than Fiction (2006)\n8. Intolerable Cruelty (2003)\n9. Control (2007)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. The Terminator 3: Rise of the Machines (2003)\n2. Terminator 3: Rise of the Machines (2003)\n3. Terminator 3: Rise of the Machines (2003)\n4. Terminator 3: Rise of the Machines (2003)\n5. Terminator 3: Rise of the Machines (2003)\n6. Terminator 3: Rise of the Machines (2003)\n7. Terminator 3: Rise of the Machines (2003)\n8. Terminator 3: Rise of the Machines (2003)\n9. Terminator 3: Rise of the Machines (2003)\n10. Terminator 3: Rise of the Machines (2003)\n",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Fight Club (1999)\n3. The Matrix (1999)\n4. Face/Off (1997)\n5. Kingsman: The Secret Service (2014)\n6. John Wick (2014)\n7. The Raid: Redemption (2011)\n8. Mad Max: Fury Road (2015)\n9. Captain America: The Winter Soldier (2014)\n10. Deadpool (2016)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. Transporter 2 (2005)\n4. Nightcrawler (2014)\n5. Real Steel (2011)\n6. Big Red One, The (1980)\n7. Face/Off (1997)\n8. King Kong (2005)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Eragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Big Red One (1980)\n3. Ant-Man (2015)\n4. Real Steel (2011)\n5. Nightcrawler (2014)\n6. Control (2007)\n7. Transporter 2 (2005)\n8. Robot & Frank (2012)\n9. Face/Off (1997)\n10. Big Lebowski, The (1998)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Control (2007)\n3. Nightcrawler (2014)\n4. Real Steel (2011)\n5. Intolerable Cruelty (2003)\n6. Face/Off (1997)\n7. Bruce Almighty (2003)\n8. Cronos (1993)\n9. The Last Supper (1995)\n10. Robot & Frank (2012)\n",
+            "1. Ex Machina (2014)\n2. I,Robot (2004)\n3. Blade Runner 2049 (2017)\n4. 2001: A Space Odyssey (1968)\n5. Her (2013)\n6. RoboCop (1987)\n7. District 9 (2009)\n8. The Matrix (1999)\n9. Minority Report (2002)\n10. Chappie (2015)",
+            "1. A.I. Artificial Intelligence (2001) \n2. The Terminator 3: Rise of the Machines (2003) \n3. Ready Player One (2018) \n4. Real Steel (2011) \n5. The Big Bang Theory (2007) \n6. Metropolis (2001) \n7. Real Genius (1985) \n8. Eragon (2006) \n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n10. Transporter 2 (2005) \n",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Terminator 3: Rise of the Machines (2003) \n4. Robot & Frank (2012) \n5. Real Steel (2011) \n6. Ready Player One \n7. Metropolis (2001) \n8. Corporation, The (2003) \n9. Darkman (1990) \n10. Cronos (1993)"
+        ]
+    }
+}

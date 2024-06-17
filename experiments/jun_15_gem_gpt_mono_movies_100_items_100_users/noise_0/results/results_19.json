@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with themes of friendship?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with AI robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie set in the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies about a robot in the distant future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with talking animal robots?",
+                "response": "no"
+            },
+            {
+                "query": "Does a movie with a cute AI robot from the distant future who can talk sound interesting?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. August Rush (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. Harry Potter and the Order of the Phoenix (2007)\n4. I Am Legend (2007)\n5. Juno (2007)\n6. Pirates of the Caribbean: At World's End (2007)\n7. Superbad (2007)\n8. Zodiac (2007)\n9. Blades of Glory (2007)\n10. Sweeney Todd: The Demon Barber of Fleet Street (2007)\n",
+            "1. Monsters, Inc. (2001) \n2. August Rush (2007) \n3. The Piano (1993) \n4. One Hour Photo (2002) \n5. What's Up, Doc? (1972) \n6. Enter the Void (2009) \n7. Stranger than Fiction (2006) \n8. American Graffiti (1973) \n9. Real Genius (1985) \n10. Tenacious D in The Pick of Destiny (2006) ",
+            "1. Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. Strange Fiction, Stranger than (2006)\n4. Mr. Holmes (2015)\n5. Lost in Translation (2003)\n6. Whiplash (2014)\n7. Searching (2018)\n8. Terminator 3: Rise of the Machines (2003)\n9. Ghost Dog: The Way of the Samurai (1999)\n10. District, 9 (2009)",
+            "1. I, Robot (2004)\n2. Real Steel (2011)\n3. Robot & Frank (2012)\n4. Alita: Battle Angel (2019)\n5. Metropolis (2001)\n6. A.I. Artificial Intelligence (2001)\n7. Terminator 3: Rise of the Machines (2003)\n8. Ant-Man (2015)\n9. Automata (2014)\n10. Bicentennial Man (1999)",
+            "1. A.I. Artificial Intelligence (2001) \n2. I, Robot (2004) \n3. Real Steel (2011) \n5. Blade Runner (1982) \n6. The Matrix (1999) \n7. Ex Machina (2014) \n8. Her (2013) \n9. Terminator 2: Judgment Day (1991) \n10. Wall-E (2008)",
+            "1. Real Steel (2011) \n2. Robot & Frank (2012) \n3. A.I. Artificial Intelligence (2001) \n4. Terminator 3: Rise of the Machines (2003) \n5. Ant-Man (2015) \n6. Metropolis (2001) \n7. Darkman (1990) \n8. I, Robot (2004) \n9. Ex Machina (2014) \n10. Ghost in the Shell (2017)",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. Metropolis (2001) \\n\n3. Ant-Man (2015) \\n\n4. Real Steel (2011) \\n\n5. Robot & Frank (2012) \\n\n6. Big Hero 6 (2014) \\n\n7. Wall-E (2008) \\n\n8. Terminator 2: Judgment Day (1991) \\n\n9. I, Robot (2004) \\n\n10. Chappie (2015)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ant-Man (2015) \n3. A.I. Artificial Intelligence (2001) \n4. Robot & Frank (2012) \n5. Big Hero 6 (2014) \n6. The Iron Giant (1999) \n7. WALL\u00b7E (2008) \n8. Robots (2005) \n9. Astro Boy (2009) \n10. Megamind (2010) ",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ant-Man (2015)\n3. Real Steel (2011)\n4. Metropolis (2001)\n5. Robot & Frank (2012)\n6. I, Robot (2004)\n7. WALL\u00b7E (2008)\n8. Astro Boy (2009)\n9. Robots (2005)\n10. Big Hero 6 (2014)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Robots (2005) \n3. Real Steel (2011) \n4. Robot & Frank (2012) \n5. Meet John Doe (1941) \n6. The Mitchells vs. the Machines (2021) \n7. WALL-E (2008) \n8. Megamind (2010) \n9. Chappie (2015) \n10. Bicentennial Man (1999) \n11. I, Robot (2004) \n12. The Adventures of Rocky and Bullwinkle (2000) \n13. Robots (2005) \n14. The Iron Giant (1999) \n15. Ex Machina (2014) \n16. Her (2013) \n17. Moon (2009) \n18. Oblivion (2013) \n19. Snowpiercer (2013) \n20. Blade Runner 2049 (2017)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "16": {
+        "conv_hist": [
+            {
+                "query": "Does the movie have to be animated?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie you are looking for about crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you hoping to find a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie you want to see set in the future?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Tomb Raider (2018)\n3. August Rush (2007)\n4. Proposition, The (2005)\n5. Man on Fire (2004)\n6. Transporter 2 (2005)\n7. Timeline (2003)\n8. Terminator 3: Rise of the Machines (2003)\n9. Ant-Man (2015)\n10. Ready Player One ",
+            "1. Von Ryan's Express (1965)\n2. All Quiet on the Western Front (1930)\n3. Hurricane, The (1999)\n4. Terminator 3: Rise of the Machines (2003)\n5. Departed, The (2006)\n6. Intolerable Cruelty (2003)\n7. Brewster's Millions (1985)\n8. Grapes of Wrath, The (1940)\n9. Black Robe (1991)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n",
+            "1. Nightcrawler (2014) \n2. Trapped (2002) \n3. Departed, The (2006) \n4. Face/Off (1997) \n5. Transporter 2 (2005) \n6. Big Lebowski, The (1998) \n7. Corpse (2002) \n8. The Departed (2006) \n9. Corpse (2002) \n10.10. The Dark Knight (2008)",
+            "Terms of Endearment (1983)\nAutumn Sonata (H\u00f6stsonaten) (1978)\nDangerous Liaisons (1988)\nChungking Express (Chung Hing sam lam) (1994)\nMagnolia (1999)\nThe Big Lebowski (1998)\nIntolerable Cruelty (2003)\nDelicatessen (1991)\nFace/Off (1997)\nLove Me If You Dare (Jeux d'enfants) (2003)",
+            "1. Children of Men (2006) \n2. Terms of Endearment (1983) \n3. A Clockwork Orange (1971) \n4. The Bridge on the River Kwai (1957) \n5. The Deer Hunter (1978) \n6.Apocalypse Now (1979) \n7. Atonement (2007) \n8. Saving Private Ryan (1998) \n9. Schindler's List (1993) \n10. Life Is Beautiful (La vita \u00e8 bella) (1997)",
+            "1. Strangers Than Fiction\n2. 5 Centimeters per Second\n3. Jane Eyre\n4. The Land Before Time\n5. Eragon\n6. Hachiko: A Dog's Story\n7. Meet John Doe\n8. Boy in the Striped Pajamas\n9. Real Steel\n10. Bruce Almighty",
+            "1. Europa (Zentropa) (1991) \n2. Intolerable Cruelty (2003) \n3. The Real Steel (2011) \n4. Lost in Translation (2003) \n5. Darkman (1990) \n6. Nightcrawler (2014) \n7. Timeline (2003) \n8. Robot & Frank (2012) \n9. Cronos (1993) \n10. Delicatessen (1991)\n",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. The Last Temptation of Christ (1988)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. Santa Sangre (1989)\n8. Abraham Lincoln: Vampire Hunter (2012)\n9. Piano, The (1993)\n10. Terms of Endearment (1983)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. Greenland (2020)\n4. 12 Strong (2018)\n5. Megan Leavey (2017)\n6. USS Indianapolis: Men of Courage (2016)\n7. American Sniper (2014)\n8. Lone Survivor (2013)\n9. Argo (2012)\n10. Zero Dark Thirty (2012)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988)\n2. Can't remember\n3. A.I. Artificial Intelligence (2001)\n4. Terminator 3: Rise of the Machines (2003)\n5. Minority Report (2002)\n6. Contact (1997)\n7. Dark City (1998)\n8. In Time (2011)\n9. Gattaca (1997)\n10. Dredd (2012)"
+        ]
+    }
+}
