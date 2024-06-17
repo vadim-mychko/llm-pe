@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Is the content of the movie more fantasy-oriented?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for something funny?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for something to watch as a family?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy with a dark or twisted edge?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about the music industry?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy with physical humor?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a crime-solving element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie made before 1980?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie where somebody is intentionally deceiving somebody else?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n4. Crash of the Titans (1981)\n5. Land Before Time, The (1988)\n6. Terminator 3: Rise of the Machines (2003)\n7. A.I. Artificial Intelligence (2001) \n8. Meet John Doe (1941)\n9. Von Ryan's Express (1965)\n10. Timeline (2003)",
+            "1. The Piano (1993)\n2. Autumn Sonata (H\u00f6stsonaten) (1978)\n3. Searching (2018)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Stranger than Fiction (2006)\n6. Mr. Holmes (2015)\n7. The Grapes of Wrath (1940)\n8. Umberto D. (1952)\n9. Eragon (2006)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Monsters, Inc. (2001)\nPirates of the Caribbean: At World's End (2007)\nAugust Rush (2007)\nNaked Gun: From the Files of Police Squad!, The (1988)\nSure Thing, The (1985)\nWhat's Up, Doc? (1972)\nThe Big Lebowski (1998)\nAmerican Graffiti (1973)\nReal Genius (1985)\nTenacious D in The Pick of Destiny (2006)",
+            "1. Real Genius (1985)\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. St. Elmo's Fire (1985)\n6. What's Up, Doc? (1972)\n7. Intolerable Cruelty (2003)\n8. Delicatessen (1991)\n9. Face/Off (1997)\n10. Bruce Almighty (2003)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. The Big Lebowski (1998)\n3. Intolerable Cruelty (2003)\n4. Fargo (1996)\n5. Delicatessen (1991)\n6. In Bruges (2008)\n7. What's Up, Doc? (1972)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Airplane! (1980)",
+            "1. American Graffiti (1973) \n2. The Big Lebowski (1998) \n3. Brewsters Millions (1985) \n4. Intolerable Cruelty (2003) \n5. In the Mood for Love (2000) \n6. Lost in Translation (2003) \n7. Real Genius (1985) \n8. Rushmore (1998) \n9. Shaun of the Dead (2004) \n10. Stranger Than Fiction (2006)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988)\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. What's Up, Doc? (1972)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Intolerable Cruelty (2003)\n8. Delicatessen (1991)\n9. Mr. Holmes (2015)\n10. Robot & Frank (2012)",
+            "1. Real Genius (1985)\n2. What's Up, Doc? (1972)\n3. American Graffiti (1973)\n4. The Big Lebowski (1998)\n5. Intolerable Cruelty (2003)\n6. Bruce Almighty (2003)\n7. Stranger than Fiction (2006)\n8. Brewster's Millions (1985)\n9. Delicatessen (1991)\n10. Control (2007)",
+            "1. Shaun of the Dead (2004) \\n\n2. Zombieland (2009) \\n\n3. Hot Fuzz (2007) \\n\n4. Scott Pilgrim vs. the World (2010) \\n\n5. 21 Jump Street (2012) \\n\n6. The World's End (2013) \\n\n7. Attack the Block (2011) \\n\n8. Tucker and Dale vs Evil (2010) \\n\n9. What We Do in the Shadows (2014) \\n\n10. The Cabin in the Woods (2011)",
+            "1. Jack Black, Tenacious D in The Pick of Destiny (2006)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. Brewster's Millions (1985)\n4. Bruce Almighty (2003)\n5. Intolerable Cruelty (2003)\n6. Face/Off (1997)\n7. The Big Lebowski (1998)\n8. Stranger than Fiction (2006)\n9. What's Up, Doc? (1972)\n10. Meet John Doe (1941)"
+        ]
+    }
+}

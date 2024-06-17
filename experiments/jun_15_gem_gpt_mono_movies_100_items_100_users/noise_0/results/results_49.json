@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "What kinds of movies do you prefer? Family films or dramas?",
+                "response": "dramas"
+            },
+            {
+                "query": "Are you looking for a war drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in adventure movies about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama set in the 1940's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dramas about adventure and nature?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama set abroad in the military?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a war movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about more recent war history?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in the future about military conflict?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war drama set more recently, but not in the future?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Laura (1944) \n2. The Last Temptation of Christ (1988) \n3. August Rush (2007) \n4. The Piano (1993) \n5. Terms of Endearment (1983) \n6. Autumn Sonata (H\u00f6stsonaten) (1978) \n7. Cocoon (1985) \n8. Crimes and Misdemeanors (1989) \n9. Magnolia (1999) \n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. All Quiet on the Western Front (1930)\n2. No Man's Land (2001)\n3. The Big Red One (1980)\n4. Black Robe (1991)\n5. Von Ryan's Express (1965)\n6. Breach (2007)\n7. The Boy in the Striped Pajamas (2008)\n8. Europa (1991)\n9. The Hurricane (1999)\n10. Intolerable Cruelty (2003)\n''''",
+            "1. Europa (Zentropa) (1991)\n2. Big Red One, The (1980)\n3. No Man's Land (2001)\n4. All Quiet on the Western Front (1930)\n5. Darkman (1990)\n6. Von Ryan's Express (1965)\n7. Departed, The (2006)\n8. Black Robe (1991)\n9. Breach (2007)\n10. Nightcrawler (2014)\n",
+            "1. Grapes of Wrath, The (1940)\n2. Big Red One, The (1980)\n3. All Quiet on the Western Front (1930)\n4. Mis\u00e9rables, Les (1998)\n5. The Land Before Time (1988)\n6. Hurricane, The (1999)\n7. Sure Thing, The (1985)\n8. St. Elmo's Fire (1985)\n9. Land Before Time, The (1988)\n10. Europa (Zentropa) (1991)",
+            "1. The Last Temptation of Christ (1988)\n2. August Rush (2007)\n3. The Blair Witch Project (1999)\n4. Martyrs (2008)\n5. The Proposition (2005)\n6. Out of Sight (1998)\n7. The Mothman Prophecies (2002)\n8. Love Me If You Dare (Jeux d'enfants) (2003)\n9. Searching (2018)\n10. Enter the Void (2009)",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. Man from Earth, The (2007) \\n\n3. Von Ryan's Express (1965) \\n\n4. No Man's Land (2001) \\n\n5. Out of Sight (1998) \\n\n6. Breach (2007) \\n\n7. Terminator 3: Rise of the Machines (2003) \\n\n8. Departed, The (2006) \\n\n9. Nightcrawler (2014) \\n\n10. Trapped (2002) \\n",
+            "1. **Men of Honor (2000)**\n2. **Sahara (2005)**\n3. **Defiance (2008)**\n4. **Red Tails (2012)**\n5. **The Monuments Men (2014)**\n6. **Fury (2014)**\n7. **Lone Survivor (2013)**\n8. **Hacksaw Ridge (2016)**\n9. **12 Strong (2018)**\n10. **The Outpost (2020)**",
+            "No Man's Land (2001) \\n\nSt. Elmo's Fire (1985) \\n\nSure Thing, The (1985) \\n\nGremlins 2: The New Batch (1990) \\n\nDangerous Liaisons (1988) \\n\nTerminator 3: Rise of the Machines (2003) \\n\nAnt-Man (2015) \\n\nTimeline (2003) \\n\nNightcrawler (2014) \\n\nStranger than Fiction (2006)",
+            "1. The Man from Earth (2007)\n2. Searching (2018)\n3. The Hurt Locker (2008)\n4. Jarhead (2005)\n5. Restrepo (2010)\n6. The Kill Team (2013)\n7. Stop-Loss (2008)\n8. The Messenger (2009)\n9. War Machine (2017)\n10. Sand Castle (2017)",
+            "1. Man on Fire (2004)\n2. Terminator 3: Rise of the Machines (2003)\n3. Departed, The (2006)\n4. Big Red One, The (1980)\n5. Nightcrawler (2014)\n6. Trapped (2002)\n7. Black Robe (1991)\n8. The Wind That Shakes the Barley (2006)\n9. Stop-Loss (2008)\n10. Beasts of No Nation (2015)"
+        ]
+    }
+}
