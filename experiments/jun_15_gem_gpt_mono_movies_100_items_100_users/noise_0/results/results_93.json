@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about 19th century pirates?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that will make you think?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thriller movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about a historical event?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a documentary?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. August Rush (2007)\n4. The Piano (1993)\n5. Terms of Endearment (1983)\n6. Autumn Sonata (H\u00f6stsonaten) (1978)\n7. Cocoon (1985)\n8. The Secret of Kells (2009)\n9. Arsenic and Old Lace (1944)\n10. Strange than Fiction (2006)",
+            "1. Monsters, Inc. (2001) \n2. Children's movies you might also like:\n - Adventure, Animation, Children, Comedy, Fantasy \\n Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy\n3. Drama, Musical \\n Tags: inspirational, power of music, music, love of music, thought-provoking, uplifting and compelling, unique, Freddie Highmore, Jonathan Rhys Meyers, Musical, KAF, Kaki King, Kirsten Sheridan, Robin Williams, builds up, children, different but very good, forbidden love, guitar, holes in the plot\n4. Animation, Sci-Fi \\n Tags: anime, visually appealing, robots, androids, deus ex machina, future, Japan, Sad Ending, cookie-cutter, psychopath, tezuka, DVD-Video, Rintaro, See: Metropolis (1927), animation, based on comic, childish style, comic book, control, homage\n5. Drama, Fantasy, Secret of Kells, The (2009) \n Tags: stylized, animation, beautiful, medieval, Atmospheric, art, magic, nature, celtic, vikings, fantasy, 2D animation, Ireland, monks, not for kids, Nora Twomey, Tomm Moore, Underdeveloped, barbarian, children\n6. Drama, Adventure, Black Robe (1991) \n Tags: 17th century, Bruce Beresford, colonialism, Canada, Catholicism, History, Native Americans, CLV, Christianity, Quebec, adapted from:book, algonquin indian, author:Brian Moore, based on a book, culture clash, jesuit, journey, native american, nudity (topless), quebec\n7. Drama, Animation, Fantasy, Adventure \\n Tags: melancholic, bittersweet, visually stunning, anime, love, coming of age, Art Direction, Japan, loneliness, visually appealing, Makoto Shinkai, nature, drama, intimate, japanese, yearning, Backgrounds, Tragedy, comes very close to being perfect, made me cry\n8. Drama, Horror, Cronos (1993) \n Tags: Guillermo del Toro, slow, Criterion, atmospheric, clockwork devices, vampires, Ron Perlman, Claudio Brook, Frederico Luppi, immortality, moody, stylized, Margarita Isabel, Tumey's DVDs, aging, antique dealer, automata, dark, directorial debut, dreamlike\n9. Adventure, Drama, Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n Tags: dogs, Loyalty, based on a true story, Richard Gere, touching, simple plot, remake, tearjerker, dog, loyalty, not enough dramatic, real story, sad, family dog, grief, loyal_friend, overrated, 03/10, 08/10, Hachiko\n10. Animation, Drama, Fantasy, 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n Tags: melancholic, bittersweet, visually stunning, anime, love, coming of age, Art Direction, Japan, loneliness, visually appealing, Makoto Shinkai, nature, drama, intimate, japanese, yearning, Backgrounds, Tragedy, comes very close to being perfect, made me cry",
+            "1. August Rush (2007)\n2. Before the Devil Knows You're Dead (2007)\n3. Mr. Holmes (2015)\n4. Robot & Frank (2012)\n5. Searching (2018)\n6. Stranger than Fiction (2006)\n7. Lost in Translation (2003)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Secret of Kells (2009)\n10. Chungking Express (Chung Hing sam lam) (1994)",
+            "1. Enter the Void (2009)\n2. No Man's Land (2001)\n3. Crimes and Misdemeanors (1989)\n4. Man from Earth, The (2007)\n5. Stranger than Fiction (2006)\n6. Departed, The (2006)\n7. Lost in Translation (2003)\n8. Control (2007)\n9. Searching (2018)\n10. Nightcrawler (2014)",
+            "1. Stranger than Fiction (2006)\n2. The Proposition (2005)\n3. No Man's Land (2001)\n4. The Departed (2006)\n5. Crimes and Misdemeanors (1989)\n6. Breach (2007)\n7. Europa (Zentropa) (1991)\n8. The (1968)\n9. Intolerable Cruelty (2003)\n10. Lost in Translation (2003)",
+            "1. Cloud Atlas (2012)\n2. The Lobster (2015)\n3. Eternal Sunshine of the Spotless Mind (2004)\n4. Her (2013)\n5. Ex Machina (2014)\n6. Blade Runner 2049 (2017)\n7. Arrival (2016)\n8. Mother! (2017)\n9. Annihilation (2018)\n10. 2001: A Space Odyssey (1968)",
+            "1. The Man from Earth (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Corporation (2003)\n4. Magnolia (1999)\n5. Memento (2000)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Stranger than Fiction (2006)\n8. Control (2007)\n9. The Big Lebowski (1998)\n10. No Man's Land (2001)",
+            "1. Terms of Endearment (1983)\n2. Man on Earth, The (2007)\n3. The Departure (2006)\n4. Big Lebowski, The (1998)\n5. Stranger than Fiction (2006)\n6. Lost in Translation (2003)\n7. American Graffiti (1973)\n8. Nightcrawler (2014)\n9. Searching (2018)\n10. Eragon (2006)",
+            "1. The Man from Earth (2007) \n2. Searching (2018) \n3. Von Ryan's Express (1965) \n4. Stranger than Fiction (2006) \n5. Delicatessen (1991) \n6. Robot & Frank (2012) \n7. Brewster's Millions (1985) \n8. Cronos (1993) \n9. Lost in Translation (2003) \n10. Umberto D. (1952) ",
+            "1. Boy in the Striped Pajamas, The (2008) \n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n3. The Land Before Time (1988) \n4. St. Elmo's Fire (1985) \n5. Dracula (Bram Stoker's Dracula) (1992) \n6. Cocoon (1985) \n7. Halloween H20: 20 Years Later (1998) \n8. What's Up, Doc? (1972) \n9. Man on Fire (2004) \n10. Lost in Translation (2003)"
+        ]
+    }
+}

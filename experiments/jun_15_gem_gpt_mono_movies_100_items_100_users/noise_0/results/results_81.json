@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a film about a specific culture?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies about teenagers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a dark twist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about the elderly?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a satirical tone?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. August Rush (2007)\n4. Proposition, The (2005)\n5. Last Action Hero (1993)\n6. All Quiet on the Western Front (1930)\n7. The Man from Earth (2007)\n8. The Secret of Kells (2009)\n9. Real Genius (1985)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. The Last Temptation of Christ (1988)\n5. August Rush (2007)\n6. One Hour Photo (2002)\n7. All Quiet on the Western Front (1930)\n8. The Man from Earth (2007)\n9. The Secret of Kells (2009)\n10. Stranger than Fiction (2006)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. The Sure Thing (1985)\n3. What's Up, Doc? (1972)\n4. Intolerable Cruelty (2003)\n5. Brewster's Millions (1985)\n6. Bruce Almighty (2003)\n7. Real Genius (1985)\n8. The Big Lebowski (1998)\n9. American Graffiti (1973)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Ghostbusters (1984) \n2. Legally Blonde (2001) \n3. Bridesmaids (2011) \n4. Trainwreck (2015) \n5. 10 Things I Hate About You (1999) \n6. Mean Girls (2004) \n7. Easy A (2010) \n8. Clueless (1995) \n9. The Duff (2015) \n10. Booksmart (2019) ",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. UHF (1989) \n3. What's Up, Doc? (1972) \n4. Brewster's Millions (1985) \n5. Brewster's Millions (1985)\n6. Big Lebowski, The (1998) \n7. Real Genius (1985)\n8. American Graffiti (1973) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Intolerable Cruelty (2003) ",
+            "1. Mr. Holmes (2015)\n2. Nightcrawler (2014)\n3. The Big Lebowski (1998)\n4. American Graffiti (1973)\n5. What's Up, Doc? (1972)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. Intolerable Cruelty (2003)\n9. Bruce Almighty (2003)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. The Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. Real Genius (1985)\n4. Brewster's Millions (1985)\n5. Sure Thing, The (1985)\n6. What's Up, Doc? (1972)\n7. Runaway Train (1985)\n8. Face/Off (1997)\n9. Lost in Translation (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. The Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. Cage aux Folles, La (1978)\n6. What's Up, Doc? (1972)\n7. Arsenic and Old Lace (1944)\n8. Intolerable Cruelty (2003)\n9. Mr. Holmes (2015)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nThe Proposition (2005)\nBernie (2011)\nThe Naked Gun: From the Files of Police Squad! (1988)\nWhat's Up, Doc? (1972)\nAmerican Graffiti (1973)\nBrewster's Millions (1985)\nReal Genius (1985)\nIntolerable Cruelty (2003)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. American Graffiti (1973)\n3. Big Lebowski, The (1998)\n4. Real Genius (1985)\n5. What's Up, Doc? (1972)\n6. Brewster's Millions (1985)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Intolerable Cruelty (2003)\n9. Bruce Almighty (2003)\n10. Stranger than Fiction (2006)"
+        ]
+    }
+}

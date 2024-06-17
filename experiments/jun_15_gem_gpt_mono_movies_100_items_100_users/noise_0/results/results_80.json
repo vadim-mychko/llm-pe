@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a movie involving artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that was made in the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a Japanese anime movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with visually appealing graphics?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a fantasy theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in the 19th century?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n Monsters, Inc. (2001) \n****\n August Rush (2007) \n****\n The Secret of Kells (2009) \n****\n The Land Before Time (1988) \n****\n Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n****\n Homeward Bound: The Incredible Journey (1993) \n****\n 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n****\n Metropolis (2001) \n****\n Ant-Man (2015) \n****\n Real Steel (2011)",
+            "Monsters, Inc. (2001) \\n\nA.I. Artificial Intelligence (2001) \\n\nPirates of the Caribbean: At World's End (2007) \\n\nThe Land Before Time (1988) \\n\nSecret of Kells, The (2009) \\n\nAnt-Man (2015) \\n\nHomeward Bound: The Incredible Journey (1993) \\n\nFantastic Mr. Fox (2009) \\n\nHow to Train Your Dragon (2010) \\n\nCoraline (2009)",
+            "Monsters, Inc. (2001) \\n\nAugust Rush (2007) \\n\nThe Land Before Time (1988) \\n\nHomeward Bound: The Incredible Journey (1993) \\n\nAlita: Battle Angel (2019) \\n\nAnt-Man (2015) \\n\nA.I. Artificial Intelligence (2001) \\n\nReady Player One \\n\nReal Steel (2011) \\n\nRobot & Frank (2012)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Secret of Kells, The (2009)\n4. Alita: Battle Angel (2019)\n5. Ant-Man (2015)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Homeward Bound: The Incredible Journey (1993)\n8. Real Steel (2011)\n9. Big Lebowski, The (1998)\n10. American Graffiti (1973)\n",
+            "1. Metropolis (2001) \n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n3. What's Up, Doc? (1972) \n4. Homeward Bound: The Incredible Journey (1993) \n5. Are the Woods Ever Haunted? (2017) \n6. Paprika (2006) \n7. Tokyo Godfathers (2003) \n8. Wolf Children (2012) \n9. The Secret World of Arrietty (2010) \n10. Spirited Away (2001) ",
+            "1. Secret of Kells, The (2009)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Metropolis (2001)\n4. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n5. Ghost in the Shell (1995)\n6. Akira (1988)\n7. My Neighbor Totoro (1988)\n8. Spirited Away (2001)\n9. Princess Mononoke (1997)\n10. Howl's Moving Castle (2004)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n2. Akira (1988) \n3. Metropolis (Metropolis) (2001) \n4. Spirited Away (Sen to Chihiro no kamikakushi) (2001) \n5. Grave of the Fireflies (Hotaru no haka) (1988) \n6. Paprika (Papurika) (2006) \n7. My Neighbor Totoro (Tonari no Totoro) (1988) \n8. Princess Mononoke (Mononoke-hime) (1997) \n9. Kiki's Delivery Service (Majo no takky\u00fbbin) (1989) \n10. The Secret World of Arrietty (Kari-gurashi no Arrietty) (2010) \n",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n2. Secret of Kells, The (2009) \n3. Land Before Time, The (1988) \n4. How High (2001) \n5. The Princess and the Frog (2009) \n6. Spirited Away (2001) \n7. Coraline (2009) \n8. Fantastic Mr. Fox (2009) \n9. Cloudy with a Chance of Meatballs (2009) \n10. Megamind (2010)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nThe Secret of Kells (2009)\nSpirited Away (2001)\nGrave of the Fireflies (Hotaru no haka) (1988)\nMy Neighbor Totoro (Tonari no Totoro) (1988)\nKiki's Delivery Service (Majo no takky\u00fbbin) (1989)\nPrincess Mononoke (Mononoke-hime) (1997)\nYour Name (Kimi no Na wa) (2016)\nWolf Children (Ookami kodomo no Ame to Yuki) (2012)\nThe Wind Rises (Kaze tachinu) (2013)\n",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. Autumn Sonata (H\u00f6stsonaten) (1978)\n3. Black Robe (1991)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. Cronos (1993)\n6. Europa (Zentropa) (1991)\n7. Jane Eyre (1996)\n8. Secret of Kells, The (2009)\n9. Stranger than Fiction (2006)\n10. Umberto D. (1952)\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in animated films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in video game adaptations?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood to watch a romantic movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie made before the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a supernatural movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about an unlikely friendship or romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood to watch a comedic film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about crime?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. August Rush (2007)\n4. Martyrs (2008)\n5. Terms of Endearment (1983)\n6. Big Lebowski, The (1998)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Black Robe (1991)\n10. Face/Off (1997)",
+            "1. The Proposition (2005) \n2. Terminator 3: Rise of the Machines (2003) \n3. Alita: Battle Angel (2019) \n4. Clash of the Titans (1981) \n5. The Lego Movie (2014) \n6. Kung Fu Panda (2008) \n7. Transformers (2007) \n8. Spider-Man: Into the Spider-Verse (2018) \n9. The Incredibles (2004) \n10. Zootopia (2016)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Last Action Hero (1993) \n3. Von Ryan's Express (1965) \n4. Big Red One, The (1980) \n5. Brewster's Millions (1985) \n6. Face/Off (1997) \n7. Real Genius (1985) \n8. Eragon (2006) \n9. Grapes of Wrath, The (1940) \n10. Black Robe (1991)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. Prometheus (2012)\n6. The Piano (1993)\n7. Proposition, The (2005)\n8. One Hour Photo (2002)\n9. Dracula (Bram Stoker's Dracula) (1992)\n10. Out of Sight (1998)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. The Piano (1993)\n6. Naked Gun: From the Files of Police Squad!, The (1988)\n7. Terminator 3: Rise of the Machines (2003)\n8. Searching (2018)\n9. Mr. Holmes (2015)\n10. King Kong (2005)",
+            "1. Ready Player One\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. Bruce Almighty (2003)\n5. Face/Off (1997)\n6. Mission: Impossible - Fallout (2018)\n7.  Nobody (2021)\n8. Searching (2018)\n9. Extraction (2020)\n10. The Platform (2019)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Blair Witch Project, The (1999) \n5. Bernie (2011) \n6. Naked Gun: From the Files of Police Squad!, The (1988) \n7. Last Action Hero (1993) \n8. One Hour Photo (2002) \n9. Dracula (Bram Stoker's Dracula) (1992) \n10. Man from Earth, The (2007) ",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Man on Fire (2004) \n3. The Departed (2006) \n4. Nightcrawler (2014) \n5. The Big Lebowski (1998) \n6. Face/Off (1997) \n7. Real Genius (1985) \n8. Cronos (1993) \n9. Tenacious D in The Pick of Destiny (2006) \n10. The Boy in the Striped Pajamas (2008)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985) \nTomb Raider (2018) \nPirates of the Caribbean: At World's End (2007) \nAbraham Lincoln: Vampire Hunter (2012) \nAugust Rush (2007) \nThe Blair Witch Project (1999) \nMartyrs (2008) \nThe Proposition (2005) \n100 First Dates (2004)",
+            "1. Departed, The (2006)\n2. Breach (2007)\n3. Out of Sight (1998)\n4. Intolerable Cruelty (2003)\n5. Before the Devil Knows You're Dead (2007)\n6. Terminator 3: Rise of the Machines (2003)\n7. Face/Off (1997)\n8. Bad Education (La mala educaci\u00f3n) (2004)\n9. Man from Earth, The (2007)\n10. Crimes and Misdemeanors (1989)"
+        ]
+    }
+}

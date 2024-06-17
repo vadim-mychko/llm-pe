@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie from before the 1990s?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies about technology?\n++++",
+                "response": "no"
+            },
+            {
+                "query": "Are you okay with movies about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that has a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about war?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that is sci-fi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about drugs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Big Lebowski (1998)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. The Grapes of Wrath (1940)\n7. Cronos (1993)\n8. Umberto D. (1952)\n9. Black Robe (1991)\n10. Eragon (2006)\n",
+            "1. Cronos (1993) \n2. Real Genius (1985) \n3. Grapes of Wrath, The (1940) \n4. Jane Eyre (1996) \n5. Black Robe (1991) \n6. Lost in Translation (2003) \n7. Umberto D. (1952) \n8. Brewster's Millions (1985) \n9. Eragon (2006) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n2. Black Robe (1991) \n3. Grapes of Wrath, The (1940)\n4. Intolerable Cruelty (2003) \n5. Last Temptation of Christ, The (1988) \n6. Lost in Translation (2003) \n7. Real Genius (1985)\n8. Umberto D. (1952) \n9. What's Up, Doc? (1972) \n10. Zentropa (Europa) (1991)",
+            "****\n Movie Title: The Grapes of Wrath (1940)\n Genres: Drama \n Tags: Great Depression, adapted from:book, Social Drama, based on a book, imdb top 250, Oscar (Best Directing), Oscar (Best Supporting Actress), depressing, poverty, John Ford, struggle, 100 Greatest Movies, Henry Fonda, John Steinbeck, Charley Grapewin, Jane Darwell, National Film Registry, author:John Steinbeck, AFI 100, americana\n****\n Movie Title: All Quiet on the Western Front (1930) \n Genres: Action, Drama, War \n Tags: World War I, Oscar (Best Picture), anti-war, based on a book, German perspective, Oscar (Best Directing), imdb top 250, literary adaptation, war ugliness, world war I, AFI #54, BEST PICTURE, Lewis Milestone, military, war, war movie, 100 Greatest Movies, AFI 100, Arnold Lucy, BD-R\n****\n Movie Title: Von Ryan's Express (1965) \n Genres: Action, Adventure, Drama, War \n Tags: World War II, trains, Frank Sinatra, Trevor Howard, based on a book, 1940s, Betamax, Italy, Mark Robson, Prisoner of war, Raffaella Carr\u00e0, Railway, Unreal fighting, VHS, escape, frontier, german, hulu, italian, mvlc\n****\n Movie Title: Brewster's Millions (1985) \n Genres: Comedy \n Tags: richard pryor, Betamax, Can't remember, John Candy, Richard Pryor, Sir John Candy, Walter Hill, accounting fraud, baseball, based on novel or book, dollar, extravagance, funny, heir to fortune, hotel suite, inheritance challenge, insightful, interior decorator, lawyer, manhattan, new york city\n****\n Movie Title: The Big Red One (1980) \n Genres: Action, Adventure, Drama, War \n Tags: World War II, tense, bleak, forceful, Classic, disturbing, sicily, sergeant, rousing, omaha beach, gritty, d-day, DVD-Video, concentration camp, africa, Samuel Fuller, Mark Hamill, Lee Marvin, History, world war ii\n****\n Movie Title: American Graffiti (1973) \n Genres: Comedy, Drama \n Tags: coming of age, George Lucas, rock and roll, friendship, teen, cars, 1960s, nocturnal, great soundtrack, AFI 100, Feel Good, california, classic, love, low budget, radio, wired 50 greatest soundtracks, 1950's, 20th Century, AFI #77\n****\n Movie Title: What's Up, Doc? (1972) \n Genres: Comedy \n Tags: Screwball Comedy, Madeline Kahn, Barbara Striesand, San Francisco, great chase scenes, Barbra Streisand, Peter Bogdanovich, espionage, heist, car chase, chase, hotel, related:Bringing Up Baby (1938), rocks, screwball comedy, subgenre:screwball, AFI 100 (Laughs), BD-R, Bibliothek, VHS\n****\n Movie Title: Gentlemen of Fortune (Dzhentlmeny udachi) (1972) \n Genres: Comedy, Crime, Drama, Mystery \n Tags: Soviet Union, classic, comedy, Russian, undercover cop, Evgeni Leonov, prison escape, quotable, Aleksandr Seryj, crime, criminal comedy, kindergarten, prison, 01/11, 01/12, 02/11, 03/11, 04/11, 05/11, 06/11\n****\n Movie Title: The Land Before Time (1988) \n Genres: Adventure, Animation, Children, Fantasy \n Tags: dinosaurs, friendship, classic, animation, nostalgic, Don Bluth, animated, Can't remember, Tyls\u00c3\u00a4, coming of age, coming-of-age, dead mother, dinosaur, earthquake, franchise, loss of loved one, my favourite kids movie, orphaned cartoon character, prehistoric, primitive time\n****\n Movie Title: Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n Genres: Drama \n Tags: dogs, Loyalty, based on a true story, Richard Gere, touching, simple plot, remake, tearjerker, dog, loyalty, not enough dramatic, real story, sad, family dog, grief, loyal_friend, overrated, 03/10, 08/10, Hachiko",
+            "1. Meet John Doe (1941) \\n\n2. Grapes of Wrath, The (1940) \n3. Umberto D. (1952) \n4. What's Up, Doc? (1972) \n5. American Graffiti (1973) \n6. The Big Red One (1980) \n7. Big Lebowski, The (1998) \n8. Stranger than Fiction (2006) \n9. Control (2007) \n10. Mr. Holmes (2015) ",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Black Robe (1991)\n4. The Last Supper (1995)\n5. Meet John Doe (1941)\n6. American Graffiti (1973)\n7. The Big Red One (1980)\n8. Von Ryan's Express (1965)\n9. The Man from Earth (2007)\n10. Breach (2007)",
+            "1. Terms of Endearment (1983)\n2. All Quiet on the Western Front (1930)\n3. Metropolis (2001)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Dangerous Liaisons (1988)\n6. Moby Dick (1956)\n7. Von Ryan's Express (1965)\n8. The Grapes of Wrath (1940)\n9. Umberto D. (1952)\n10. Black Robe (1991)\n",
+            "1. Arsenic and Old Lace (1944)\n2. All Quiet on the Western Front (1930)\n3. Grapes of Wrath, The (1940)\n4. Umberto D. (1952)\n5. Laura (1944)\n6. Meet John Doe (1941)\n7. What's Up, Doc? (1972)\n8. American Graffiti (1973)\n9. The Big Lebowski (1998)\n10. Intolerable Cruelty (2003)",
+            "1. Meet John Doe (1941)\n2. Brewster's Millions (1985)\n3. Runaway Train (1985)\n4. Real Genius (1985)\n5. American Graffiti (1973)\n6. The Grapes of Wrath (1940)\n7. Umberto D. (1952)\n8. All Quiet on the Western Front (1930)\n9. Von Ryan's Express (1965)\n10. Big Red One, The (1980)",
+            "1. Grapes of Wrath, The (1940)\n2. Umberto D. (1952)\n3. Meet John Doe (1941)\n4. What's Up, Doc? (1972)\n5. The Big Red One (1980)\n6. American Graffiti (1973)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Black Robe (1991)\n10. The Boy in the Striped Pajamas (2008)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a Western movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dramatic film with a dark or scary theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction or fantasy film?",
+                "response": "yes"
+            },
+            {
+                "query": "OK. Would you prefer to watch a movie that is action-packed and adventurous or a movie that focuses on romance and drama?",
+                "response": "action-packed and adventurous"
+            },
+            {
+                "query": "Are you interested in a movie that involves fighting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a visually appealing or thought-provoking movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Do you feel like watching an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in space?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Dracula (Bram Stoker's Dracula) (1992)\n4. The Proposition (2005)\n5. The Piano (1993)\n6. One Hour Photo (2002)\n7. The Naked Gun: From the Files of Police Squad!, The (1988)\n8. Cocoon (1985)\n9. August Rush (2007)\n10. Terms of Endearment (1983)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Laura (1944) \n4. Lost in Translation (2003)\n5. American Graffiti (1973) \n6. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n7. A.I. Artificial Intelligence (2001)\n8. What's Up, Doc? (1972)\n9. The Sure Thing (1985)\n10. Magnolia (1999)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007)\n5. Terms of Endearment (1983)\n6. Proposition, The (2005)\n7. One Hour Photo (2002)\n8. All Quiet on the Western Front (1930)\n9. Drugstore Cowboy (1989)\n10. The Man from Earth (2007)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Blade Runner 2049 (2017)\n3. Ready Player One (2018)\n4. Alita: Battle Angel (2019)\n5. Ant-Man (2015)\n6. Starship Troopers (1997)\n7. The Fifth Element (1997)\n8. Oblivion (2013)\n9. Looper (2012)\n10. Primer (2004)",
+            "1. Tomb Raider (2018) \n2. Wonder Woman (2017) \n3. Pirates of the Caribbean: At World's End (2007) \n4. Last Templar, The (2001) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. Clash of the Titans (1981) \n7. Alita: Battle Angel (2019) \n8. Terminator 3: Rise of the Machines (2003) \n9. Ant-Man (2015) \n10. Ready Player One",
+            "1. Ant-Man (2015)\n2. Real Steel (2011)\n3. The Land Before Time (1988)\n4. Alita: Battle Angel (2019)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ready Player One\n7. A.I. Artificial Intelligence (2001)\n8. Timeline (2003)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. Terminator 3: Rise of the Machines (2003)\n5. Last Action Hero (1993)\n6. Lost World: Jurassic Park, The (1997)\n7. Man on Fire (2004)\n8. Face/Off (1997)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Dune\n2. Ready Player One\n3. The Last Starfighter\n4. Forbidden Planet\n5. The Fifth Element\n6. Blade Runner\n7. Alien\n8. Terminator\n9. The Matrix\n10. Star Wars",
+            "Tomb Raider (2018)\nAlita: Battle Angel (2019)\nAnt-Man (2015)\nReady Player One\nTimeline (2003)\nA.I. Artificial Intelligence (2001)\nKing Kong (2005)\nEragon (2006)\nTenacious D in The Pick of Destiny (2006)\nBruce Almighty (2003)",
+            "1. Ant-Man (2015)\n2. Ready Player One\n3. Alita: Battle Angel (2019)\n4. Timeline (2003)\n5. Real Steel (2011)\n6. King Kong (2005)\n7. A.I. Artificial Intelligence (2001)\n8. Matrix\n9. Lost in Space (1998)\n10. Avatar (2009)"
+        ]
+    }
+}

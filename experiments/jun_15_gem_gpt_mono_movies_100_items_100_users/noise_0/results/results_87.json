@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a foreign language film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a children's movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an animated children's movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated fantasy children's movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a dog as one of the main characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to watching a movie with talking animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking to watch an adventure movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Tomb Raider (2018) \n4. Pirates of the Caribbean: At World's End (2007) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. August Rush (2007) \n7. The Blair Witch Project (1999) \n8. The Proposition (2005) \n9. One Hour Photo (2002) \n10. Hot Fuzz (2007)",
+            "1. Monsters, Inc. (2001)\n2. November 3rd (1961)\n3. Runaway Train (1985)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Am\u00e9lie (2001)\n6. My Neighbor Totoro (Tonari no Totoro) (1988)\n7. E.T.: The Extra-Terrestrial (1982)\n8. Kiki's Delivery Service (Majo no takky\u00fbbin) (1989)\n9. The Land Before Time (1988)\n10. The Lion King (1994)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Land Before Time (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Hachiko: A Dog's Story (2009)\n6. Secret of Kells, The (2009)\n7. Ice Age (2002)\n8. My Neighbor Totoro (Tonari no Totoro) (1988)\n9. Spirit: Stallion of the Cimarron (2002)\n10. Fantastic Mr. Fox (2009)",
+            "1. Monsters, Inc. (2001)\n2. Land Before Time, The (1988)\n3. Homeward Bound: The Incredible Journey (1993)\n4. Secret of Kells, The (2009)\n5. Big Red One, The (1980)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Real Genius (1985)\n8. Mr. Holmes (2015)\n9. 10 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Ant-Man (2015)",
+            "****\n1. Monsters, Inc. (2001) \\n\nGenres: Adventure, Animation, Children, Comedy, Fantasy \\n\n****\n2. August Rush (2007) \\n\nGenres: Drama, Musical \\n\n****\n3. Fantastic Mr. Fox (2009) \\n\nGenres: Adventure, Animation, Children, Comedy \\n\n****\n4. Howl's Moving Castle (Hauru no ugoku shiro) (2004) \\n\nGenres: Animation, Children, Fantasy, Romance \\n\n****\n5. Moana (2016) \\n\nGenres: Adventure, Animation, Children, Comedy, Fantasy \\n\n****\n6. Kung Fu Panda (2008) \\n\nGenres: Action, Adventure, Animation, Children, Comedy \\n\n****\n7. Coco (2017) \\n\nGenres: Adventure, Animation, Children, Comedy, Fantasy \\n\n****\n8. Inside Out (2015) \\n\nGenres: Adventure, Animation, Children, Comedy, Fantasy \\n\n****\n9. Finding Nemo (2003) \\n\nGenres: Adventure, Animation, Children, Comedy \\n\n****\n10. Toy Story (1995) \\n\nGenres: Adventure, Animation, Children, Comedy, Fantasy \\n\n****",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Land Before Time (1988)\n4. A.I. Artificial Intelligence (2001)\n5. The Big Red One (1980)\n6. Real Steel (2011)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. The Grapes of Wrath (1940)\n10. Homeward Bound: The Incredible Journey (1993)",
+            "1. Monsters, Inc. (2001)\n2. Land Before Time, The (1988)\n3. Homeward Bound: The Incredible Journey (1993)\n4. American Graffiti (1973)\n5. Real Genius (1985)\n6. Brewster's Millions (1985)\n7. St. Elmo's Fire (1985)\n8. Sure Thing, The (1985)\n9. Runaway Train (1985)\n10. Cocoon (1985)",
+            "1. Monster's Inc. (2001)\n2. Runaway Train (1985)\n3. Homeward Bound: The Incredible Journey (1993)\n4. August Rush (2007)\n5. Hae Hook (2019)\n6. Sure Thing, The (1985)\n7. Who Framed Roger Rabbit (1988)\n8. What's Up, Doc? (1972)\n9. Brewster's Millions (1985)\n10. Real Genius (1985)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Land Before Time, The (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Real Genius (1985)\n6. Big Red One, The (1980)\n7. Brewster's Millions (1985)\n8. American Graffiti (1973)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Land Before Time, The (1988)\n2. The Secret of Kells (2009)\n3. Monsters, Inc. (2001)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Hachiko: A Dog's Story (2009)\n6. American Graffiti (1973)\n7. Real Genius (1985)\n8. Intolerable Cruelty (2003)\n9. Lost in Translation (2003)\n10. Terminator 3: Rise of the Machines (2003)"
+        ]
+    }
+}

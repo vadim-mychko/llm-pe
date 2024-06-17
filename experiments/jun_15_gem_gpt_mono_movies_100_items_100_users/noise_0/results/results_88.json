@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a drama about a supervillain?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a woman falling for a rich man?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie about a fantastical creature?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime movie about corruption?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about robots and the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about a crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie about a train robbery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a war and World War I?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about a rock star?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. Santa Sangre (1989)\n7. August Rush (2007)\n8. Blair Witch Project, The (1999)\n9. Martyrs (2008)\n10. Piano, The (1993)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. The Last Temptation of Christ (1988)\n6. August Rush (2007)\n7. The Blair Witch Project (1999)\n8. The Piano (1993)\n9. Last Supper, The (1995)\n10. All Quiet on the Western Front (1930)\n'''",
+            "1. Beasts of No Nation (2015)\n2. Beasts of the Southern Wild (2012)\n3. Beasts of No Nation (2015)\n4. Beasts of the Southern Wild (2012)\n5. Beasts of No Nation (2015)\n6. Beasts of the Southern Wild (2012)\n7. Beasts of No Nation (2015)\n8. Beasts of the Southern Wild (2012)\n9. Beasts of No Nation (2015)\n10. Beasts of the Southern Wild (2012)",
+            "1. The Proposition (2005)\n2. Crimes and Misdemeanors (1989)\n3. Darkman (1990)\n4. Secret of Kells, The (2009)\n5. Departed, The (2006)\n6. Intolerable Cruelty (2003)\n7. Trapped (2002)\n8. The Last Supper (1995)\n9. The Grapes of Wrath (1940)\n10. Cronos (1993)",
+            "1. Meet John Doe (1941)\n2. The Thomas Crown Affair (1968)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Paddington (2014)\n5. The Way Way Back (2013)\n6. Chef (2014)\n7. Moonrise Kingdom (2012)\n8. The Grand Budapest Hotel (2014)\n9. Isle of Dogs (2018)\n10. Fantastic Mr. Fox (2009)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Last Temptation of Christ, The (1988)\n4. Laura (1944)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. Santa Sangre (1989)\n7. August Rush (2007)\n8. Blair Witch Project, The (1999)\n9. Martyrs (2008)\n10. Piano, The (1993)",
+            "1. The Departed (2006) \n2. Nightcrawler (2014) \n3. Stranger than Fiction (2006) \n4. Mr. Holmes (2015) \n5. Robot & Frank (2012) \n6. Delicatessen (1991) \n7. Intolerable Cruelty (2003) \n8. The Last Supper (1995) \n9. Cronos (1993) \n10. Umberto D. (1952) ",
+            "1. Lost in Translation (2003)\n2. Black Robe (1991)\n3. Umberto D. (1952)\n4. Jane Eyre (1996)\n5. Cronos (1993)\n6. Grapes of Wrath, The (1940)\n7. Delicatessen (1991)\n8. Intolerable Cruelty (2003)\n9. Trapped (2002)\n10. American Graffiti (1973)",
+            "1. August Rush (2007)\n2. Man on Fire (2004)\n3. Enter the Void (2009)\n4. Departed, The (2006)\n5. Nightcrawler (2014)\n6. Big Lebowski, The (1998)\n7. American Graffiti (1973)\n8. Face/Off (1997)\n9. Bruce Almighty (2003)\n10. Lost in Translation (2003)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Cocoon (1985) \n4. The Land Before Time (1988)\n5. Sure Thing, The (1985) \n6. Brewster's Millions (1985) \n7. Real Genius (1985) \n8. St. Elmo's Fire (1985)\n9. The Goonies (1985) \n10. Gremlins (1984)"
+        ]
+    }
+}

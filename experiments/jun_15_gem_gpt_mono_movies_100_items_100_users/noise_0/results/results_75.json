@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a science fiction film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a film about love?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thriller?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in watching a film with a dark comedic element to it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about computers that isn't a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the 80's?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. Last Action Hero (1993)\n4. Man on Fire (2004)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ant-Man (2015)\n7. A.I. Artificial Intelligence (2001)\n8. Timeline (2003)\n9. Ready Player One\n10. Real Steel (2011)",
+            "1. Tomb Raider (2018)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. The Last Action Hero (1993)\n4. Alita: Battle Angel (2019)\n5. Ant-Man (2015)\n6. A.I. Artificial Intelligence (2001)\n7. Ready Player One\n8. Real Steel (2011)\n9. The Big Red One (1980)\n10. Robot & Frank (2012)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Real Steel (2011) \n3. Robot & Frank (2012) \n4. Last Supper, The (1995) \n5. Bruce Almighty (2003) \n6. The Big Red One (1980) \n7. Cronos (1993) \n8. Black Robe (1991) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Eragon (2006) ",
+            "1. Real Steel (2011) \\n\n2. The Big Red One (1980) \\n\n3. Nightcrawler (2014) \\n\n4. The Departed (2006) \\n\n5. Stranger than Fiction (2006) \\n\n6. The American Graffiti (1973) \\n\n7. Trapped (2002) \\n\n8. Face/Off (1997) \\n\n9. Brewster's Millions (1985) \\n\n10. Cronos (1993)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Von Ryan's Express (1965)\n3. Black Robe (1991)\n4. Clash of the Titans (1981)\n5. Face/Off (1997)\n6. Gremlins 2: The New Batch (1990)\n7. Hurricane, The (1999)\n8. Nightcrawler (2014)\n9. Real Steel (2011)\n10. Transporter 2 (2005)",
+            "1. Tommy Boy (1995)\n2. The Big Lebowski (1998)",
+            "1. Brewster's Millions (1985)\n2. Intolerable Cruelty (2003)\n3. Meet John Doe (1941)\n4. What's Up, Doc? (1972)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Real Genius (1985)\n8. The Sure Thing (1985)\n9. Delicatessen (1991)\n10. UHF (1989)",
+            "1. UHF (1989) \n2. Intolerable Cruelty (2003) \n3. Brewster's Millions (1985) \n4. Real Genius (1985) \n5. What's Up, Doc? (1972) \n6. The Big Lebowski (1998) \n7. American Graffiti (1973) \n8. Tenacious D in The Pick of Destiny (2006) \n9. Bruce Almighty (2003) \n10. Control (2007)\n",
+            "1. Big Lebowski, The (1998) \n2. Brewster's Millions (1985) \n3. Real Genius (1985) \n4. What's Up, Doc? (1972) \n5. American Graffiti (1973) \n6. Meet John Doe (1941) \n7. Intolerable Cruelty (2003) \n8. The Sure Thing (1985) \n9. Stranger than Fiction (2006) \n10. Control (2007) ",
+            "Movies: \nMonsters, Inc. (2001)\nThe Proposition (2005)\nWhat's Up, Doc? (1972)\nBrewster's Millions (1985)\nTenacious D in The Pick of Destiny (2006)\nReal Genius (1985)\nAmerican Graffiti (1973)\nThe Big Red One (1980)\nIntolerable Cruelty (2003)\nBruce Almighty (2003)"
+        ]
+    }
+}
