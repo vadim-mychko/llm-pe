@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is set during a war?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in the first or second World War?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in a fantasy world?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you into movies with over-the-top action sequences?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about dragons?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a dark dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with magic or the supernatural?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. All Quiet on the Western Front (1930)\n2. No Man's Land (2001)\n3. Clash of the Titans (1981)\n4. The Big Red One (1980)\n5. Von Ryan's Express (1965)\n6. Defiance (2008)\n7. Inglourious Basterds (2009)\n8. Black Book (2006)\n9. Enemy at the Gates (2001)\n10. The Hurt Locker (2008)",
+            "1. **Black Robe (1991)** - Adventure, Drama - 17th century, colonialism, Canada, Catholicism, History, Native Americans\n2. **All Quiet on the Western Front (1930)** - Action, Drama, War - World War I, Oscar (Best Picture), anti-war, based on a book, German perspective, Oscar (Best Directing), imdb top 250, literary adaptation, war ugliness, world war I, AFI #54, BEST PICTURE\n3. **The Big Red One (1980)** - Action, Adventure, Drama, War - World War II, tense, bleak, forceful, Classic, disturbing, sicily, sergeant, rousing, omaha beach, gritty, d-day, DVD-Video, concentration camp, africa, Samuel Fuller, Mark Hamill, Lee Marvin\n4. **Von Ryan's Express (1965)** - Action, Adventure, Drama, War - World War II, trains, Frank Sinatra, Trevor Howard, based on a book, 1940s, Betamax, Italy, Mark Robson, Prisoner of war, Raffaella Carr\u00e0, Railway, Unreal fighting, VHS, escape, frontier, german, hulu, italian\n5. **The Bridge on the River Kwai (1957)** - Adventure, Drama, War - World War II, British Empire, Colonel Nicholson, Prisoners of War, Based on a novel, David Lean, PG-13, Prisoner of War Camp, WW2 PoW drama, classic, classics, old, war film, war movie, war movies\n6. **Paths of Glory (1957)** - Drama, War - World War I, Stanley Kubrick, Gripping, Classic, Kirk Douglas, War, army life, based on a book, black and white, dark, french, Kubrick, officer, powerful, thought-provoking\n7. **Come and See (Idi i smotri) (1985)** - Drama, War - World War II, Elem Klimov, haunting, Destruction, Dying and deaths, Man's inhumanity to man, Partisan, Russian, Tumey's DVDs, War\n8. **Saving Private Ryan (1998)** - Action, Drama, War - World War II, Steven Spielberg, Tom Hanks, tense, Omaha Beach, VR, D-Day, Saving Private Ryan film, IMDB Top 250, graphic, action, assault, brutal, death, Director Steven Spielberg, directed by Steven Spielberg, dramatic, feel good, great story\n9. **Enemy at the Gates (2001)** - Action, Drama, War - World War II, Joseph Fiennes, Jude Law, based on a book, Violence, War, Sniper, Stalingrad, hitler, 20th Century Fox, Paul W.S. Anderson, propaganda\n10. **Dunkirk (2017)** - Action, Drama, War - World War II, Christopher Nolan, intense, World War II, Dunkirk, war drama, ww2, 2010s, adreniline rush, action movie, amazing, british cinema",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Lord of the Rings: The Fellowship of the Ring (2001)\n3. The Lord of the Rings: The Two Towers (2002)\n4. The Lord of the Rings: The Return of the King (2003)\n5. The Hobbit: An Unexpected Journey (2012)\n6. The Hobbit: The Desolation of Smaug (2013)\n7. The Hobbit: The Battle of the Five Armies (2014)\n8. King Kong (2005)\n9. Avatar (2009)\n10. Clash of the Titans (2010)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. The Lord of the Rings: The Fellowship of the Ring (2001)\n4. The Hobbit: An Unexpected Journey (2012)\n5. Harry Potter and the Sorcerer's Stone (2001)\n6. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)\n7. The Princess Bride (1987)\n8. The NeverEnding Story (1984)\n9. Labyrinth (1986)\n10. The Dark Crystal (1982)",
+            "1. The Proposition (2005)\n2. The Man From Earth (2007)\n3. Alita: Battle Angel (2019)\n4. A.I. Artificial Intelligence (2001)\n5. Timeline (2003)\n6. Ready Player One\n7. The Big Red One (1980)\n8. Black Robe (1991)\n9. Eragon (2006)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. Clash of the Titans (1981)\n2. Eragon (2006)\n3. King Kong (2005)\n4. The Last Airbender (2010)\n5. The Lord of the Rings: The Fellowship of the Ring (2001)\n6. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)\n7. Harry Potter and the Sorcerer's Stone (2001)\n8. The Hobbit: An Unexpected Journey (2012)\n9. Percy Jackson & the Olympians: The Lightning Thief (2010)\n10. Star Wars: Episode I - The Phantom Menace (1999)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Tomb Raider (2018)\n3. The Last Action Hero (1993)\n4. Ant-Man (2015)\n5. Ready Player One\n6. King Kong (2005)\n7. The Lord of the Rings: The Return of the King (2003)\n8. Harry Potter and the Sorcerer's Stone (2001)\n9. The Hobbit: An Unexpected Journey (2012)\n10. Avatar (2009)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. The Last Unicorn (1982)\n4. The NeverEnding Story (1984)\n5. Willow (1988)\n6. Labyrinth (1986)\n7. The Dark Crystal (1982)\n8. The Princess Bride (1987)\n9. The Secret of NIMH (1982)\n10. Dragonslayer (1981)",
+            "1. Ant-Man (2015)\n2. Terminator 3: Rise of the Machines (2003)\n3. A.I. Artificial Intelligence (2001)\n4. The Last Legion (2007)\n5. Labyrinth (1986)\n6. Princess Mononoke (\u3082\u306e\u306e\u3051\u59eb) (1997)\n7. Pan's Labyrinth (El laberinto del fauno) (2006)\n8. The NeverEnding Story (Die unendliche Geschichte) (1984)\n9. Stardust (2007)\n10. Legend (1985)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. The Lord of the Rings: The Return of the King (2003)\n3. The Lord of the Rings: The Two Towers (2002)\n4. The Lord of the Rings: The Fellowship of the Ring (2001)\n5. Harry Potter and the Sorcerer's Stone (2001)\n6. Harry Potter and the Chamber of Secrets (2002)\n7. Harry Potter and the Prisoner of Azkaban (2004)\n8. Harry Potter and the Goblet of Fire (2005)\n9. Harry Potter and the Order of the Phoenix (2007)\n10. Harry Potter and the Half-Blood Prince (2009)"
+        ]
+    }
+}

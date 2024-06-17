@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie about superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about sci-fi or fantasy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about monsters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in a futuristic setting?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie about robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie about a train?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Terminator 3: Rise of the Machines (2003)\n4. Face/Off (1997)\n5. Out of Sight (1998)\n6. King Kong (2005)\n7. Ready Player One \n8. Black Robe (1991)\n9. Von Ryan's Express (1965)\n10. The Big Red One (1980)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Proposition (2005)\n3. All Quiet on the Western Front (1930)\n4. Von Ryan's Express (1965)\n5. Timeline (2003)\n6. The Big Red One (1980)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. Black Robe (1991)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ant-Man (2015)\n3. Timeline (2003)\n4. Ready Player One\n5. Robot & Frank (2012)\n6. Eragon (2006)\n7. Cronos (1993)\n8. The Land Before Time (1988)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Alita: Battle Angel (2019)",
+            "1. Lost World: Jurassic Park, The (1997) \n2. Alita: Battle Angel (2019) \n3. Harry Potter and the Sorcerer's Stone, The (2001) \n4. The Lord of the Rings: The Fellowship of the Ring (2001) \n5. Harry Potter and the Chamber of Secrets (2002) \n6. Star Wars: Episode I - The Phantom Menace (1999) \n7. The Matrix (1999) \n8. Harry Potter and the Prisoner of Azkaban (2004) \n9. The Lord of the Rings: The Two Towers (2002) \n10. Spider-Man (2002) \n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. A.I. Artificial Intelligence (2001)\n4. Robot & Frank (2012)\n5. King Kong (2005)\n6. Black Robe (1991)\n7. Eragon (2006)\n8. The Boy in the Striped Pajamas (2008)\n9. Enter the Void (2009)\n10. Tron: Legacy (2010)",
+            "1. Lost in Translation (2003)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Blade Runner (1982)\n4. Arrival (2016)\n5. 2001: A Space Odyssey (1968)\n6. Her (2013)\n7. Ex Machina (2014)\n8. The Matrix (1999)\n9. Cloud Atlas (2012)\n10. Interstellar (2014)",
+            "1. Alita: Battle Angel (2019) \n2. A.I. Artificial Intelligence (2001) \n3. Ready Player One \n4. Big Lebowski, The (1998) \n5. Terminator 3: Rise of the Machines (2003) \n6. Ant-Man (2015) \n7. Real Steel (2011) \n8. Robot & Frank (2012) \n9. Mr. Holmes (2015) \n10. Bruce Almighty (2003)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. The Man From Earth (2007)\n4. Metropolis (2001)\n5. Alita: Battle Angel (2019)\n6. Ant-Man (2015)\n7. Terminator 3: Rise of the Machines (2003)\n8. Homeward Bound: The Incredible Journey (1993)\n9. Timeline (2003)\n10. Real Genius (1985)",
+            "1. Alita: Battle Angel (2019) \n2. Ant-Man (2015) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Lost World: Jurassic Park (1997) \n5. Ready Player One \n6. Matrix, The (1999) \n7. Time Bandits (1981) \n8. Fantastic Voyage (1966) \n9. Mad Max (1979) \n10. I Am Legend (2007) \n",
+            "1. Timeline (2003)\n2. Real Steel (2011)\n3. Big Red One, The (1980)\n4. King Kong (2005)\n5. American Graffiti (1973)\n6. Adventure, The (Zentropa) (1991)\n7. Ant-Man (2015)\n8. Cronos (1993)\n9. Eragon (2006)\n10. Black Robe (1991)"
+        ]
+    }
+}

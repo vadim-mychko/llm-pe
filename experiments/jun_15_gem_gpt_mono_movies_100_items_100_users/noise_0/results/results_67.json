@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a romantic movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's dark and depressing?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with full frontal nudity?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action movie that's also a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a World War II action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a male protagonist?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a foreign action movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ant-Man (2015) \n3. The Corporation (2003) \n4. Von Ryan's Express (1965) \n5. Ready Player One \n6. Nightcrawler (2014) \n7. Big Lebowski, The (1998) \n8. Brewster's Millions (1985) \n9. Face/Off (1997) \n10. Bruce Almighty (2003) ",
+            "1. Alita: Battle Angel (2019)\n2. The Last Temptation of Christ (1988)\n3. The Man from Earth (2007)\n4. Enter the Void (2009)\n5. Cronos (1993)\n6. Nightcrawler (2014)\n7. The Departed (2006)\n8. Big Red One, The (1980)\n9. Trapped (2002)\n10. The Last Supper (1995)",
+            "1. Alita: Battle Angel (2019) \\n\n2. A.I. Artificial Intelligence (2001) \\n\n3. The Proposition (2005) \\n\n4. August Rush (2007) \\n\n5. How High (2001) \\n\n6. Hellboy (2004) \\n\n7. Terminator 3: Rise of the Machines (2003) \\n\n8. Constantine (2005) \\n\n9. Blade (1998) \\n\n10. Santa Sangre (1989) \\n",
+            "1. Tom Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3.Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. Martyrs (2008)\n7. One Hour Photo (2002)\n8. Dracula (Bram Stoker's Dracula) (1992)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Kung Fu Hustle (2004)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Darkman (1990)\n4. Von Ryan's Express (1965)\n5. Transporter 2 (2005)\n6. Face/Off (1997)\n7. The Big Red One (1980)\n8. King Kong (2005)\n9. Real Genius (1985)\n10. Eragon (2006)\n",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. Van Ryan's Express (1965) \\n\n3. King Kong (2005) \\n\n4. Face/Off (1997) \\n\n5. Clash of the Titans (1981) \\n\n6. Alita: Battle Angel (2019) \\n\n7. Ant-Man (2015) \\n\n8. Darkman (1990) \\n\n9. Big Red One, The (1980) \\n\n10. Real Genius (1985) ",
+            "1. The Departed (2006)\n2. Nightcrawler (2014)\n3. Man on Fire (2004)\n4. Terminator 3: Rise of the Machines (2003)\n5. Face/Off (1997)\n6. Von Ryan's Express (1965)\n7. The Big Red One (1980)\n8. Darkman (1990)\n9. King Kong (2005)\n10. The Last Action Hero (1993)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Von Ryan's Express (1965)\n3. Darkman (1990)\n4. The Big Red One (1980)\n5. Transporter 2 (2005) \n6. Nightcrawler (2014) \n7. Clash of the Titans (1981)\n8. The Departed (2006) \n9. Face/Off (1997)\n10. King Kong (2005)",
+            "1. The Big Lebowski (1998)\n2. Terminator 3: Rise of the Machines (2003)\n3. Transporter 2 (2005)\n4. Von Ryan's Express (1965)\n5. Meet John Doe (1941)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. A.I. Artificial Intelligence (2001)\n9. Face/Off (1997)\n10. King Kong (2005)",
+            "1. Von Ryan's Express (1965)\n2. Europa (Zentropa) (1991)\n3. Highlander (1986)\n4. The Last Supper (1995)\n5. The Big Red One (1980)\n6. Black Robe (1991)\n7. Terminator 3: Rise of the Machines (2003)\n8. Transporter 2 (2005)\n9. The Proposition (2005)\n10. Face/Off (1997)"
+        ]
+    }
+}
