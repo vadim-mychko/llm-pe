@@ -16,6 +16,7 @@ item_scoring:
   mnli_model: facebook/bart-large-mnli
   mnli_temp: 100
   preprocess_query: true
+  batch_size: 1
 llm:
   entailement_model: cross-encoder/ms-marco-MiniLM-L-12-v2
   gemini_model: gemini-pro
