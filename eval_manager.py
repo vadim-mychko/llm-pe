@@ -286,6 +286,17 @@ class EvalManager:
                     for row in qrel_rows:
                         out_file.write(row)
 
+    def clean_movie_name_start(self, movie_name):
+        # Define the regex pattern to match "The " at the start of the string
+        pattern = r'^\s*the\s+'
+        # Replace the pattern with an empty string
+        cleaned_name = re.sub(pattern, '', movie_name, flags=re.IGNORECASE)
+        pattern2 = r', the(?=\s*\(\d{4}\))'
+        # Replace the pattern with an empty string
+        cleaned_name2 = re.sub(pattern2, '', cleaned_name)
+        return cleaned_name2
+
+
     def strip_list_formatting(self, words):
         cleaned_words = []
         pattern = r'^\s*(\d+\)|\d+\.\s*|\d+\.\s*|\d+\)|-\s*|\*\s*|\w+:\s*)'
@@ -293,6 +304,8 @@ class EvalManager:
 
         for word in words:
             cleaned_word = re.sub(pattern, '', word).strip().lower()
+            if self.config['data']['data_path'] == "data/ml25M_100_movie_sample.json":
+                cleaned_word = self.clean_movie_name_start(cleaned_word)
             cleaned_words.append(cleaned_word)
 
         return cleaned_words
