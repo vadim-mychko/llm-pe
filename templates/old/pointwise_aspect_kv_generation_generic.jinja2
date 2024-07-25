@@ -1,0 +1,40 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from previously identified aspects. The output format for the aspect is a key-value pair that does not exceed 7 words.
+
+Example 1:
+''''
+Item Description:
+****
+****
+Previously extracted aspects:
+****
+****
+Key, Value: director, David Fincher
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+****
+Previously extracted aspects:
+****
+****
+Key, Value: theme, monsters
+'''' 
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+{% if aspects %}
+Previously extracted aspects:
+****
+{% for aspect in aspects %}
+Key, Value: {{ aspect['aspect_key'] }}, {{ aspect['aspect_value'] }}
+{% endfor %}
+****
+{% endif %}
+Key, Value:

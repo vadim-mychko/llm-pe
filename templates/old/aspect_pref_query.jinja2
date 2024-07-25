@@ -1,0 +1,33 @@
+{# templates/aspect_pref_query.jinja2 #}
+You must determine whether or not a user will like an item based on a description of the item and 
+a description of the user's preferences. Your answer can only be true or false.
+
+''''
+Example 1:
+####
+User Preferences: not fuel efficient
+####
+Item Description: This is a grey four-door sedan that focuses on fuel efficiency and low budget.
+####
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: False
+''''
+
+''''
+Example 2:
+####
+User Preferences: electric guitar
+####
+Item Description: Gibson electric guitar with two humbucker pickups and a hollow body shape. Colour: Crimson
+####
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: True
+''''
+
+####
+User Preferences: {{ preference }} 
+####
+Item Description: {{ item_desc }}
+####
+Is the following statement true or false: This user will like this item. Answer only with True or False.
+Your response: 
