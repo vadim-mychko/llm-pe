@@ -1,0 +1,82 @@
+{# templates/pointwise_query_generation.jinja2 #}
+Identify an important aspect of an item given the item description. The aspect should be different from any previously identified aspects and must be exactly 1 word. 
+
+Example 1:
+''''
+Item Description:
+****
+Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake
+****
+
+Previously extracted aspects:
+****
+
+vegetarian
+
+Cajun
+
+dessert
+
+****
+
+Output: cupcake
+'''' 
+
+Example 2:
+''''
+Item Description:
+****
+Thai curry with shrimp and coconut milk that can be dipped with bread
+****
+
+Previously extracted aspects:
+****
+****
+
+Output: Thai
+''''
+
+Example 3:
+''''
+Item Description:
+****
+Breakfast quiche with onions, swiss cheese, and bacon
+****
+
+Previously extracted aspects:
+****
+
+Italian
+
+Chinese
+
+beef
+
+breakfast
+
+quiche
+
+bacon
+
+****
+
+Output: cheese
+''''
+
+Input:
+''''
+Item Description:
+****
+{{ item_desc }}
+****
+
+Previously extracted aspects:
+****
+{% if aspects -%}
+{% for aspect in aspects %}
+{{ aspect['aspect_value'] }}
+{% endfor %}
+{% endif -%}
+****
+
+Output: 
