@@ -20,6 +20,9 @@ class Gemini(LLMBase):
         self.GEMINI_API_KEY = self.key_shuffler.get_next_key()
         genai.configure(api_key = self.GEMINI_API_KEY)
 
+        self.generation_config=genai.types.GenerationConfig(
+            temperature=config['llm']['temperature'])
+
         self.model_name = config["llm"]["gemini_model"]
         self.model = genai.GenerativeModel(self.model_name)
         self.safety_settings = {HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
@@ -38,7 +41,7 @@ class Gemini(LLMBase):
         attempts = 0
         while True:
             try:
-                response = self.model.generate_content(prompt, safety_settings = self.safety_settings)
+                response = self.model.generate_content(prompt, safety_settings = self.safety_settings, generation_config=self.generation_config)
                 self.logger.debug(response)
             except (GoogleAPICallError, RetryError, InvalidArgument) as e:
                 if attempts >= 3:
