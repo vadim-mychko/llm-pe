@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get coffee?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a salad?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. Hey Hummus \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. Trolley Car Diner \n9. The Green Line Cafe \n10. Cafe L'Aube",
+            "1. The Tasty Toast \n2. The Grill  Smuckers \n3. Benna's Cafe \n4. Hey Hummus \n5. Fiore Fine Foods \n6. Betty's Speakeasy \n7. Trolley Car Diner \n8. The Green Line Cafe \n9. Spread Bagelry \n10. Cafe L'Aube",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. Pearl's Oyster Bar \n6. The Blue Duck \n7. Fiore Fine Foods \n8. Betty's Speakeasy \n9. Trolley Car Diner \n10. The Green Line Cafe",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. The Blue Duck \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. Trolley Car Diner \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. The Continental Restaurant and Martini Bar \n5. The Blue Duck \n6. Pearl's Oyster Bar \n7. Aldine \n8. Jack's Firehouse \n9. Founding Fathers Sports Bar & Grill \n10. Audrey Claire",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. The Continental Restaurant and Martini Bar \n5. The Blue Duck \n6. Pearl's Oyster Bar \n7. Aldine \n8. Cook and Shaker \n9. Jack's Firehouse \n10. Founding Fathers Sports Bar & Grill",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. The Continental Restaurant and Martini Bar \n5. The Blue Duck \n6. Aldine \n7. Cook and Shaker \n8. Jack's Firehouse \n9. Founding Fathers Sports Bar & Grill \n10. Chestnut 7",
+            "1. The Tasty Toast \n2. The Grill  Smuckers \n3. The Milk House \n4. The Continental Restaurant and Martini Bar \n5. The Blue Duck \n6. Pearl's Oyster Bar \n7. Aldine \n8. Jack's Firehouse \n9. Founding Fathers Sports Bar & Grill \n10. Audrey Claire"
+        ]
+    }
+}

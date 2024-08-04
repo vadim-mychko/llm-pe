@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get a cocktail?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get a bar with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a bar with a happy hour?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. Luhv Vegan Deli\n6. Chestnut 7\n7. Lucky's Last Chance\n8. Love & Honey Fried Chicken\n9. CJ & Eck's\n10. The Blue Duck",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. JD Mcgillicuddy's Manayunk\n6. Luhv Vegan Deli\n7. Chestnut 7\n8. Lucky's Last Chance\n9. Love & Honey Fried Chicken\n10. CJ & Eck's",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Founding Fathers Sports Bar & Grill\n5. Chestnut 7\n6. Lucky's Last Chance\n7. CJ & Eck's\n8. Jack's Firehouse\n9. The El Bar\n10. Mad River Manayunk",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Founding Fathers Sports Bar & Grill\n5. Chestnut 7\n6. Lucky's Last Chance\n7. CJ & Eck's\n8. Jack's Firehouse\n9. The El Bar\n10. Mad River Manayunk",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Lisa's Kitchen\n6. The Blue Duck\n7. Chestnut 7\n8. The Tavern Restaurant\n9. Paddy's Old City Pub\n10. Mad River Manayunk",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Lisa's Kitchen\n6. Jack's Firehouse\n7. Founding Fathers Sports Bar & Grill\n8. Chestnut 7\n9. The Blue Duck\n10. The El Bar",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Jack's Firehouse\n6. The El Bar\n7. Mad River Manayunk\n8. The Tavern Restaurant\n9. Paddy's Old City Pub\n10. Founding Fathers Sports Bar & Grill"
+        ]
+    }
+}
