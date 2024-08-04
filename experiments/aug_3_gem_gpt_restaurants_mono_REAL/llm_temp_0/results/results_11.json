@@ -1,0 +1,58 @@
+{
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get coffee?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get a smoothie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a pastry?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. Hey Hummus \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. Trolley Car Diner \n9. The Green Line Cafe \n10. Cafe L'Aube",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Mugshots Coffeehouse \n5. Bloomsday Cafe \n6. Benna's Cafe \n7. The Fresh Grocer - Progress Plaza \n8. Essene Market & Caf\u00e9 \n9. Fiore Fine Foods \n10. Betty's Speakeasy",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. The Milk House \n5. Mugshots Coffeehouse \n6. Bloomsday Cafe \n7. Benna's Cafe \n8. The Fresh Grocer - Progress Plaza \n9. Essene Market & Caf\u00e9 \n10. Fiore Fine Foods",
+            "1. The Juice Merchant \n2. The Green Line Cafe \n3. Spread Bagelry \n4. Betty's Speakeasy \n5. Fiore Fine Foods \n6. Benna's Cafe \n7. Mugshots Coffeehouse \n8. Bloomsday Cafe \n9. Rival Bros Coffee \n10. Gran Caffe L'Aquila",
+            "1. The Green Line Cafe\n2. Betty's Speakeasy\n3. Fiore Fine Foods\n4. The Continental Restaurant and Martini Bar\n5. Parc\n6. Cafe L'Aube\n7. Gran Caffe L'Aquila\n8. Rival Bros Coffee\n9. Spread Bagelry\n10. The Cheesecake Factory",
+            "1. The Juice Merchant \n2. The Green Line Cafe \n3. Spread Bagelry \n4. Betty's Speakeasy \n5. Fiore Fine Foods \n6. Benna's Cafe \n7. Mugshots Coffeehouse \n8. Bloomsday Cafe \n9. Rival Bros Coffee \n10. Gran Caffe L'Aquila",
+            "1. The Juice Merchant \n2. The Green Line Cafe \n3. Spread Bagelry \n4. Rival Bros Coffee \n5. Betty's Speakeasy \n6. Fiore Fine Foods \n7. Benna's Cafe \n8. Mugshots Coffeehouse \n9. Bloomsday Cafe \n10. CO-OP Restaurant & Lounge",
+            "1. The Green Line Cafe\n2. Betty's Speakeasy\n3. Fiore Fine Foods\n4. Rival Bros Coffee\n5. Gran Caffe L'Aquila\n6. Cafe L'Aube\n7. Parc\n8. The Continental Restaurant and Martini Bar\n9. Benna's Cafe\n10. Essene Market & Caf\u00e9"
+        ]
+    }
+}

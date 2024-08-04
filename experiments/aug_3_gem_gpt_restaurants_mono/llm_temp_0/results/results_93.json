@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Baked spinach quiche containing bacon\n9. Chicken cooked and flavored with lemon sauce\n10. Roasted almonds",
+            "1. Queso made from melted cheese and chili peppers\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Cheese and olive appetizer made to look like an eyeball\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Bread made swiss style with swiss cheese\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Cheese and vegetable soup with a beer broth\n10. Meatballs made with ground beef and ground pork",
+            "1. Queso made from melted cheese and chili peppers\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Cheese and olive appetizer made to look like an eyeball\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Bread made swiss style with swiss cheese\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Meatballs made with ground beef and ground pork\n6. Cheese with crackers\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Roasted almonds\n9. Hot pot that is not spicy\n10. Homemade soup with chicken, noodles, and spices",
+            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Meatballs made with ground beef and ground pork\n6. Cheese with crackers\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Roasted almonds\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
+            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Cheese with crackers\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Cheese and vegetable soup with a beer broth\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Assorted cheese soup with chicken",
+            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Cheese with crackers\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Cheese and vegetable soup with a beer broth\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Assorted cheese soup with chicken"
+        ]
+    }
+}

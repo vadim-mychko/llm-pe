@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Shredded barbecued pork shoulder\n6. Pork chops glazed with milk and cooked without nuts\n7. Chicken breasts stuffed with bacon and mozzarella\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Baked breakfast bars made with nuts and seeds\n10. Low fat baked breakfast pie made with sausage (pork) and apples",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Chopped French duck confit preserved by duck oil\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Shredded barbecued pork shoulder\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Chicken cooked and flavored with lemon sauce\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n9. Roast turkey with plum sauce\n10. Spanish rice with chicken breast",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Baked breakfast bars made with nuts and seeds\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Shredded barbecued pork shoulder\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spanish rice with chicken breast\n10. Mozzarella dip recipe",
+            "1. Turkey cooked and flavored with lemon sauce\n2. Low fat sweet potato fries made with cajun seasoning\n3. Soup made with ground turkey that is low fat, high carb\n4. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n5. Shredded barbecued pork shoulder\n6. Roast turkey with plum sauce\n7. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n8. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n9. Low fat diced baked or fried potatoes\n10. Spanish rice with chicken breast",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Turkey cooked and flavored with lemon sauce\n3. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n4. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n5. Roast turkey with plum sauce\n6. Calcium-rich soup made with broccoli and beans\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Homemade soup with chicken, noodles, and spices\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu"
+        ]
+    }
+}
