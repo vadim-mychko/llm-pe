@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups with vegetables?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Simple creamy oyster soup\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Soup made with vegetables and chicken\n10. Chicken cooked and flavored with lemon sauce\n''''",
+            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Simple creamy oyster soup\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Soup made with shrimp, onions, and scallops\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with onions, carrots, and celery ribs",
+            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Soup made with shrimp, onions, and scallops\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Beef stew made with beef, carrots and potatoes\n10. Soup made with onions, carrots, and celery ribs",
+            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Soup made with shrimp, onions, and scallops\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Norway cake with lingonberry and whipped cream layers\n9. Simple creamy oyster soup\n10. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Cheese and olive appetizer made to look like an eyeball\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Queso made from melted cheese and chili peppers\n6. Assorted cheese soup with chicken\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Baked breakfast bars made with nuts and seeds\n9. Bread made swiss style with swiss cheese\n10. Cheese with crackers",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Cheese and crackers\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Baked spinach quiche containing bacon\n7. Grilled salmon seasoned with salt and pepper\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Soup made with shrimp, onions, and scallops\n3. Soup made with ground turkey that is low fat, high carb\n4. Assorted cheese soup with chicken\n5. Simple creamy oyster soup\n6. Soup made with vegetables and chicken\n7. Calcium-rich soup made with broccoli and beans\n8. Cheese and vegetable soup with a beer broth\n9. Homemade soup with chicken, noodles, and spices\n10. Hot pot that is not spicy",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nAssorted cheese soup with chicken\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nSoup made with onions, carrots, and celery ribs",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Soup made with ground turkey that is low fat, high carb\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Calcium-rich soup made with broccoli and beans\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with onions, carrots, and celery ribs"
+        ]
+    }
+}
