@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Shredded barbecued pork shoulder\n6. Pork chops glazed with milk and cooked without nuts\n7. Chicken breasts stuffed with bacon and mozzarella\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Baked breakfast bars made with nuts and seeds\n10. Low fat baked breakfast pie made with sausage (pork) and apples",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Meatballs made with ground beef and ground pork\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Queso made from melted cheese and chili peppers\n10. Assorted cheese soup with chicken",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Shredded barbecued pork shoulder\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Meatballs made with ground beef and ground pork\n6. Baked mozzarella cheese sticks with marinara sauce\n7. Mozzarella dip recipe\n8. Cheese and olive appetizer made to look like an eyeball\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Shredded barbecued pork shoulder\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Meatballs made with ground beef and ground pork\n6. Baked mozzarella cheese sticks with marinara sauce\n7. Mozzarella dip recipe\n8. Cheese and olive appetizer made to look like an eyeball\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nMeatballs made with ground beef and ground pork\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheese and olive appetizer made to look like an eyeball\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Shredded barbecued pork shoulder\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Spanish rice with chicken breast\n10. Meatballs made with ground beef and ground pork",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Mozzarella dip recipe\n7. Meatballs made with ground beef and ground pork\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast"
+        ]
+    }
+}

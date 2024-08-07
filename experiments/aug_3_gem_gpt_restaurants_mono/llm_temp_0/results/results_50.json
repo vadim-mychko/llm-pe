@@ -2,57 +2,57 @@
     "50": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "yes"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you looking for a place that serves pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
+                "query": "Are you interested in a place that serves sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like pork?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like chicken?",
+                "query": "Are you looking for a place that serves seafood?",
                 "response": "no"
             },
             {
-                "query": "Do you like beef?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like soups?",
+                "query": "Are you interested in a place that serves vegetarian food?",
                 "response": "no"
             },
             {
-                "query": "Do you like pork chops?",
-                "response": "yes"
+                "query": "Are you looking for a place that serves American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Thai cuisine?",
+                "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
-            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Shredded barbecued pork shoulder\n6. Pork chops glazed with milk and cooked without nuts\n7. Chicken breasts stuffed with bacon and mozzarella\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Baked breakfast bars made with nuts and seeds\n10. Low fat baked breakfast pie made with sausage (pork) and apples",
-            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Chopped French duck confit preserved by duck oil\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
-            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
-            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMeatballs made with ground beef and ground pork\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nLow fat diced baked or fried potatoes\n****\nSpanish rice with chicken breast",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Meatballs made with ground beef and ground pork\n7. Beef stew made with beef, carrots and potatoes\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Meatballs made with ground beef and ground pork\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Beef stew made with beef, carrots and potatoes",
-            "Pork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef stew made with beef, carrots and potatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMeatballs made with ground beef and ground pork"
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nParc \nGran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Talluto's Authentic Italian Food\n4. Fiore Fine Foods\n5. Ristorante La Buca\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Gran Caffe L'Aquila\n9. PrimoHoagies\n10. Monster Vegan",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Oteri's Italian Bakery | North 5th St\n7. Ristorante La Buca\n8. Talluto's Authentic Italian Food\n9. The QUICK FIXX\n10. PrimoHoagies",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Ristorante La Buca\n9. Talluto's Authentic Italian Food\n10. The QUICK FIXX",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Oteri's Italian Bakery | North 5th St\n7. Ristorante La Buca\n8. Talluto's Authentic Italian Food\n9. The QUICK FIXX\n10. Zuzu's Kitchen",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. Macaroni's Restaurant\n7. The QUICK FIXX\n8. Lisa's Kitchen\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. PrimoHoagies\n7. Macaroni's Restaurant\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Betty's Speakeasy",
+            "1. Ristorante La Buca\n2. Audrey Claire\n3. Parc\n4. Cafe L'Aube\n5. Gran Caffe L'Aquila\n6. Fiore Fine Foods\n7. Evan's Pizza\n8. The QUICK FIXX\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. Castellino's \n2. Ristorante La Buca \n3. Fiore Fine Foods \n4. Gran Caffe L'Aquila \n5. Parc \n6. Cafe L'Aube \n7. Audrey Claire \n8. Oteri's Italian Bakery | North 5th St \n9. A Tutti, Ristorante Italiano \n10. Talluto's Authentic Italian Food"
         ]
     }
 }

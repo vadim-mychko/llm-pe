@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chocolate?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit-based desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like apple-based desserts?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
+            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
+            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
+            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Peach cobbler dessert containing whole wheat flour\n9. Berry cobbler that uses frozen mixed berries\n10. Sweet salad made with corn and three types of beans",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\nLow fat assorted fruit dessert",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow fat assorted fruit dessert\nFruit juice and banana smoothie",
+            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
+            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
+            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n4. Berry cobbler that uses frozen mixed berries\n5. Peach cobbler dessert containing whole wheat flour\n6. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n7. Banana bread made with whole wheat flour and walnuts\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork\n''''"
+        ]
+    }
+}

@@ -2,57 +2,57 @@
     "70": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like pork?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you interested in a place to get pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
+                "query": "Are you looking for a place to get burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruit?",
+                "query": "Are you interested in a place to get sushi?",
                 "response": "no"
             },
             {
-                "query": "Do you like nuts?",
+                "query": "Are you looking for a place to get chicken wings?",
                 "response": "no"
             },
             {
-                "query": "Do you like sweets?",
+                "query": "Are you interested in a place to get breakfast?",
                 "response": "no"
             },
             {
-                "query": "Do you like soups?",
-                "response": "yes"
+                "query": "Are you looking for a place to get seafood?",
+                "response": "no"
             },
             {
-                "query": "Do you like meat?",
-                "response": "yes"
+                "query": "Are you interested in a place to get a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a drink?",
+                "response": "no"
             }
         ],
         "rec_items": [
-            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
-            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Baked spinach quiche containing bacon\n9. Chicken cooked and flavored with lemon sauce\n10. Roasted almonds",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Roasted almonds",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Roasted almonds\n9. Hot pot that is not spicy\n10. Mozzarella dip recipe",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Roasted almonds",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Roasted almonds\n9. Hot pot that is not spicy\n10. Mozzarella dip recipe",
-            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices",
-            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Homemade soup with chicken, noodles, and spices"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. Baan Thai \n9. Tu's Tea & Banh Mi South Philly \n10. The QUICK FIXX",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. PrimoHoagies \n7. The QUICK FIXX \n8. Green Leafs & Bananas \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. PrimoHoagies \n7. The QUICK FIXX \n8. Green Leafs & Bananas \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. The Grill  Smuckers \n9. CO-OP Restaurant & Lounge \n10. The Continental Restaurant and Martini Bar"
         ]
     }
 }

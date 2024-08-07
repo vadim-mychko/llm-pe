@@ -2,57 +2,57 @@
     "49": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like pork?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like seafood?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like soups?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like noodles?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like chicken?",
-                "response": "yes"
+                "query": "Are you interested in a place to get pizza?",
+                "response": "no"
             },
             {
-                "query": "Do you like beef?",
-                "response": "yes"
+                "query": "Are you looking for a place to get burgers?",
+                "response": "no"
             },
             {
-                "query": "Do you like pork chops?",
+                "query": "Are you interested in a place to get sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a drink?",
                 "response": "no"
             }
         ],
         "rec_items": [
-            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
-            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nPolish sausage with fermented cabbage\n****\nMeatballs made with ground beef and ground pork\n****\nSpicy chili recipe\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
-            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nMildly spicy chili recipe\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nHot pot that is not spicy",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. High protein skillet with rice and vegetables\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Mildly spicy chili recipe\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Meatballs made with ground beef and ground pork\n10. Shredded barbecued pork shoulder",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Polish sausage with fermented cabbage\n7. Cheese and vegetable soup with a beer broth\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Beef stew made with beef, carrots and potatoes\n5. Queso made from melted cheese and chili peppers\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Assorted cheese soup with chicken\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Cheese and olive appetizer made to look like an eyeball\n10. Bread made swiss style with swiss cheese\n'''",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Beef stew made with beef, carrots and potatoes\n5. Queso made from melted cheese and chili peppers\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Assorted cheese soup with chicken\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Cheese and olive appetizer made to look like an eyeball\n10. Baked mozzarella cheese sticks with marinara sauce\n",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Queso made from melted cheese and chili peppers\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n10. Low fat sweet potato fries made with cajun seasoning",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Mildly spicy chili recipe\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with vegetables and chicken",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Mildly spicy chili recipe\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with vegetables and chicken\n8. Chicken cooked and flavored with lemon sauce\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Soup made with cabbage, carrots, potatoes, and onions"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. Baan Thai \n9. Tu's Tea & Banh Mi South Philly \n10. The QUICK FIXX",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. PrimoHoagies \n7. The QUICK FIXX \n8. Green Leafs & Bananas \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. PrimoHoagies \n7. The QUICK FIXX \n8. Green Leafs & Bananas \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. The Grill  Smuckers \n9. CO-OP Restaurant & Lounge \n10. The Continental Restaurant and Martini Bar"
         ]
     }
 }

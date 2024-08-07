@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
+            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Simple creamy oyster soup\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Soup made with vegetables and chicken\n10. Chicken cooked and flavored with lemon sauce\n''''",
+            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Simple creamy oyster soup\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Soup made with shrimp, onions, and scallops\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Queso made from melted cheese and chili peppers\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Fried shrimp and scallops\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Fried shrimp and scallops\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spanish rice with chicken breast\n10. Meatballs made with ground beef and ground pork",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices"
+        ]
+    }
+}

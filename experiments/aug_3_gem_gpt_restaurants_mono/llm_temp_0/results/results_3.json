@@ -2,57 +2,57 @@
     "3": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "yes"
             },
             {
-                "query": "Do you like vegetables?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like soups?",
+                "query": "Are you interested in vegetarian sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Are you looking for a place that serves burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like chicken?",
+                "query": "Are you interested in a place that serves pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like beef?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like fish?",
+                "query": "Are you looking for a place that serves chicken wings?",
                 "response": "no"
             },
             {
-                "query": "Do you like tofu?",
+                "query": "Are you interested in a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American cuisine?",
                 "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Shredded barbecued pork shoulder\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Shredded barbecued pork shoulder\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Baked breakfast bars made with nuts and seeds\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n'''",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Queso made from melted cheese and chili peppers\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n10. South African vegetable curry flavoured with curry powder and ground tumeric\n'''",
-            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
-            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
-            "1. Beef stew made with beef, carrots and potatoes\n2. High protein skillet with rice and vegetables\n3. Large portion fries with gravy and bacon\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Mildly spicy chili recipe\n6. Baked breakfast bars made with nuts and seeds\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Shredded barbecued pork shoulder\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. The QUICK FIXX\n7. Lisa's Kitchen\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Five Guys\n6. Wawa\n7. Misconduct Tavern\n8. Monster Vegan\n9. The QUICK FIXX\n10. Lisa's Kitchen",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. CinCin Restaurant\n7. The Milk House\n8. Veda - Modern Indian Bistro\n9. Talluto's Authentic Italian Food\n10. Monster Vegan",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Trolley Car Diner\n8. Luhv Vegan Deli\n9. Founding Fathers Sports Bar & Grill\n10. Chestnut 7",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Luhv Vegan Deli\n8. Trolley Car Diner\n9. Founding Fathers Sports Bar & Grill\n10. CJ & Eck's",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Trolley Car Diner\n8. Luhv Vegan Deli\n9. Founding Fathers Sports Bar & Grill\n10. Chestnut 7",
+            "1. The Green Line Cafe\n2. Spread Bagelry\n3. Green Leafs & Bananas\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Trolley Car Diner\n7. Luhv Vegan Deli\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. The Cheesecake Factory"
         ]
     }
 }

@@ -2,57 +2,57 @@
     "91": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like vegetables?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "yes"
             },
             {
-                "query": "Do you like soups?",
+                "query": "Are you looking for a place that serves pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like salads?",
+                "query": "Are you interested in a place that serves sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like desserts?",
+                "query": "Are you looking for a place that serves seafood?",
                 "response": "no"
             },
             {
-                "query": "Do you like smoothies?",
+                "query": "Are you interested in a place that serves vegetarian food?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
-                "response": "yes"
+                "query": "Are you looking for a place that serves American cuisine?",
+                "response": "no"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Are you interested in a place that serves Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Thai cuisine?",
                 "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Italian salad made from romain lettuce, artichokes, and tomatoes\n5. Sweet salad made with corn and three types of beans\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Low fat sweet potato fries made with cajun seasoning\n6. Baked breakfast bars made with nuts and seeds\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Calcium-rich soup made with broccoli and beans\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Roasted almonds",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Cheese and olive appetizer made to look like an eyeball\n4. Assorted cheese soup with chicken\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Baked spinach quiche containing bacon\n7. Cheese with crackers\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Cheese and vegetable soup with a beer broth\n10. Baked mozzarella cheese sticks with marinara sauce",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Cheese and olive appetizer made to look like an eyeball\n4. Assorted cheese soup with chicken\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Bread made swiss style with swiss cheese\n7. Baked spinach quiche containing bacon\n8. Cheese with crackers\n9. Mozzarella dip recipe\n10. Baked mozzarella cheese sticks with marinara sauce"
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nParc \nGran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Talluto's Authentic Italian Food\n4. Fiore Fine Foods\n5. Ristorante La Buca\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Gran Caffe L'Aquila\n9. PrimoHoagies\n10. Monster Vegan",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Macaroni's Restaurant\n5. Ristorante La Buca\n6. Audrey Claire\n7. Parc\n8. Gran Caffe L'Aquila\n9. Oteri's Italian Bakery | North 5th St\n10. PrimoHoagies",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Ristorante La Buca\n9. Talluto's Authentic Italian Food\n10. The QUICK FIXX",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Oteri's Italian Bakery | North 5th St\n7. Ristorante La Buca\n8. Talluto's Authentic Italian Food\n9. The QUICK FIXX\n10. Zuzu's Kitchen",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. Macaroni's Restaurant\n7. The QUICK FIXX\n8. Lisa's Kitchen\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. PrimoHoagies\n7. Macaroni's Restaurant\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Betty's Speakeasy",
+            "1. Ristorante La Buca\n2. Audrey Claire\n3. Parc\n4. Cafe L'Aube\n5. Gran Caffe L'Aquila\n6. Fiore Fine Foods\n7. Evan's Pizza\n8. The QUICK FIXX\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. Castellino's \n2. Ristorante La Buca \n3. Fiore Fine Foods \n4. Gran Caffe L'Aquila \n5. Parc \n6. Cafe L'Aube \n7. Audrey Claire \n8. Oteri's Italian Bakery | North 5th St \n9. A Tutti, Ristorante Italiano \n10. Talluto's Authentic Italian Food"
         ]
     }
 }

@@ -2,57 +2,57 @@
     "16": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Are you interested in a place to get breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get a drink?",
                 "response": "yes"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like cheese?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like pork?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like chicken?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like beef?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like tofu?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like fruit?",
-                "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Shredded barbecued pork shoulder\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
-            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Shredded barbecued pork shoulder\n7. Pork chops glazed with milk and cooked without nuts\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Baked spinach quiche containing bacon",
-            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Chopped French duck confit preserved by duck oil\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Spanish rice with chicken breast",
-            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Shredded barbecued pork shoulder\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Chicken cooked and flavored with lemon sauce\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n9. Roast turkey with plum sauce\n10. Spanish rice with chicken breast",
-            "Chicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast chicken with plum sauce\nChicken cooked in a creamy sauce with mushrooms and onions\nChicken stir-fry with vegetables\nChicken and rice soup\nChicken tacos with salsa and sour cream\nChicken nuggets with dipping sauce",
-            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken seasoned with salt and pepper\n3. Chicken cooked and flavored with lemon sauce\n4. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. Chicken cooked and flavored with lemon sauce\n7. Spanish rice with chicken breast\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Assorted cheese soup with chicken\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
-            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken seasoned with salt and pepper\n3. Chicken cooked and flavored with lemon sauce\n4. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. High protein skillet with rice and vegetables\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n9. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
-            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken seasoned with salt and pepper\n3. Chicken cooked and flavored with lemon sauce\n4. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. Roast turkey with plum sauce\n7. Spanish rice with chicken breast\n8. Chicken and vegetable soup\n9. Baked spinach quiche containing bacon\n10. Shredded barbecued pork shoulder"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. Federal Donuts \n6. Mong Kok Station \n7. Izumi \n8. A Tutti, Ristorante Italiano \n9. The Milk House \n10. Bistro SouthEast",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. Federal Donuts \n6. Mong Kok Station \n7. The Tasty Toast \n8. Le Pain Quotidien \n9. CinCin Restaurant \n10. A Tutti, Ristorante Italiano",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Federal Donuts \n5. The Milk House \n6. Veda - Modern Indian Bistro \n7. Mugshots Coffeehouse \n8. Bloomsday Cafe \n9. Benna's Cafe \n10. The Fresh Grocer - Progress Plaza",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Federal Donuts \n5. The Milk House \n6. Veda - Modern Indian Bistro \n7. Mugshots Coffeehouse \n8. Bloomsday Cafe \n9. Benna's Cafe \n10. The Fresh Grocer - Progress Plaza",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. PrimoHoagies \n6. The Green Line Cafe \n7. Spread Bagelry \n8. Green Leafs & Bananas \n9. Lisa's Kitchen \n10. Steve's Prince of Steaks",
+            "1. The Tavern Restaurant \n2. Maison 208 \n3. Bloomsday Cafe \n4. Olive Garden Italian Restaurant \n5. CO-OP Restaurant & Lounge \n6. Misconduct Tavern \n7. Canton 11 \n8. Tavern On the Hill \n9. Paddy's Old City Pub \n10. North Bowl"
         ]
     }
 }

@@ -2,57 +2,57 @@
     "92": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like fruit?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "yes"
             },
             {
-                "query": "Do you like desserts?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like sweet desserts?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like chocolate?",
+                "query": "Are you interested in vegetarian sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruit-based desserts?",
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
                 "response": "yes"
             },
             {
-                "query": "Do you like apple-based desserts?",
+                "query": "Are you interested in a place that serves Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves comfort food?",
                 "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Peach cobbler dessert containing whole wheat flour\n9. Berry cobbler that uses frozen mixed berries\n10. Sweet salad made with corn and three types of beans",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\nLow fat assorted fruit dessert",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow fat assorted fruit dessert\nFruit juice and banana smoothie",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n4. Berry cobbler that uses frozen mixed berries\n5. Peach cobbler dessert containing whole wheat flour\n6. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n7. Banana bread made with whole wheat flour and walnuts\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork\n''''"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. The QUICK FIXX\n7. Lisa's Kitchen\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Five Guys\n6. Misconduct Tavern\n7. Monster Vegan\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Green Leafs & Bananas",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. CinCin Restaurant\n7. The Milk House\n8. Veda - Modern Indian Bistro\n9. Talluto's Authentic Italian Food\n10. Monster Vegan",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. Wishbone\n2. Lisa's Kitchen\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. The Blue Duck",
+            "1. Lisa's Kitchen\n2. Wishbone\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. The Blue Duck\n10. Blackbird Pizzeria",
+            "1. Lisa's Kitchen\n2. Wishbone\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Founding Fathers Sports Bar & Grill\n6. Lucky's Last Chance\n7. Love & Honey Fried Chicken\n8. McMenamin's Tavern\n9. CJ & Eck's\n10. Green Leafs & Bananas",
+            "1. Lisa's Kitchen\n2. Jack's Firehouse\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Founding Fathers Sports Bar & Grill\n6. Chestnut 7\n7. The Cheesecake Factory\n8. Lucky's Last Chance\n9. Love & Honey Fried Chicken\n10. McMenamin's Tavern",
+            "1. Wishbone\n2. Lisa's Kitchen\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Founding Fathers Sports Bar & Grill\n6. Chestnut 7\n7. The Cheesecake Factory\n8. Lucky's Last Chance\n9. Love & Honey Fried Chicken\n10. McMenamin's Tavern"
         ]
     }
 }

@@ -2,57 +2,57 @@
     "75": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get burgers?",
                 "response": "yes"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you interested in a place to get chicken wings?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Are you looking for a place to get a beer?",
                 "response": "yes"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Are you interested in a place to get a cocktail?",
                 "response": "no"
             },
             {
-                "query": "Do you like chicken?",
+                "query": "Are you looking for a place to get a sports bar?",
                 "response": "no"
             },
             {
-                "query": "Do you like beef?",
+                "query": "Are you interested in a place to get a bar with live music?",
                 "response": "no"
             },
             {
-                "query": "Do you like fish?",
+                "query": "Are you looking for a place to get a bar with a happy hour?",
                 "response": "yes"
-            },
-            {
-                "query": "Do you like salmon?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like shrimp?",
-                "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Simple creamy oyster soup\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Soup made with vegetables and chicken\n10. Chicken cooked and flavored with lemon sauce\n''''",
-            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Simple creamy oyster soup\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Soup made with shrimp, onions, and scallops\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Queso made from melted cheese and chili peppers\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n",
-            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
-            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
-            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Baked mozzarella cheese sticks with marinara sauce\n'''",
-            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
-            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Fried shrimp and scallops\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Soup made with shrimp, onions, and scallops\n8. Poke of tofu, mushroom and tomatoes\n9. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n10. Beef stew made with beef, carrots and potatoes",
-            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nSeafood soup made with shrimp, onions, and scallops\nFish soup made with ground turkey that is low fat, high carb\nSoup made with vegetables and chicken\n''''",
-            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. Luhv Vegan Deli\n6. Chestnut 7\n7. Lucky's Last Chance\n8. Love & Honey Fried Chicken\n9. CJ & Eck's\n10. The Blue Duck",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. JD Mcgillicuddy's Manayunk\n6. Luhv Vegan Deli\n7. Chestnut 7\n8. Lucky's Last Chance\n9. Love & Honey Fried Chicken\n10. CJ & Eck's",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Founding Fathers Sports Bar & Grill\n6. CJ & Eck's\n7. Mad River Manayunk\n8. Chestnut 7\n9. Jack's Firehouse\n10. The El Bar",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Founding Fathers Sports Bar & Grill\n5. Chestnut 7\n6. Lucky's Last Chance\n7. CJ & Eck's\n8. Jack's Firehouse\n9. The El Bar\n10. Mad River Manayunk",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Lisa's Kitchen\n6. The Blue Duck\n7. Chestnut 7\n8. The Tavern Restaurant\n9. Paddy's Old City Pub\n10. Mad River Manayunk",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Lisa's Kitchen\n6. Jack's Firehouse\n7. Founding Fathers Sports Bar & Grill\n8. Chestnut 7\n9. The Blue Duck\n10. The El Bar",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Jack's Firehouse\n6. The El Bar\n7. Mad River Manayunk\n8. The Tavern Restaurant\n9. Paddy's Old City Pub\n10. Founding Fathers Sports Bar & Grill"
         ]
     }
 }

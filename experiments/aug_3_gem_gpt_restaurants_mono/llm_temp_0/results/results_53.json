@@ -2,57 +2,57 @@
     "53": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Are you interested in a place to get pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you looking for a place to get burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruit?",
+                "query": "Are you interested in a place to get sushi?",
                 "response": "no"
             },
             {
-                "query": "Do you like desserts?",
+                "query": "Are you looking for a place to get chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get breakfast?",
                 "response": "yes"
             },
             {
-                "query": "Do you like chocolate?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like sweet desserts?",
+                "query": "Are you looking for a place to get brunch?",
                 "response": "yes"
             },
             {
-                "query": "Do you like fruit-based desserts?",
-                "response": "no"
+                "query": "Are you interested in a place to get coffee?",
+                "response": "yes"
             },
             {
-                "query": "Do you like creamy desserts?",
-                "response": "yes"
+                "query": "Are you looking for a place to get bagels?",
+                "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Sugar-free peanut butter cookies\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Gluten-free, egg-free, dairy-free, nut-free fudge\n8. Almonds coated with butter and salt\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nGluten-free, egg-free, dairy-free, nut-free fudge\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n'''",
-            "1. Low sugar applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Peppermint chocolate bonbon\n8. Peach cobbler dessert containing whole wheat flour\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
-            "1. Low sugar applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Sweet salad made with corn and three types of beans\n10. Low fat assorted fruit dessert",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n5. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n6. Peach cobbler dessert containing whole wheat flour\n7. Berry cobbler that uses frozen mixed berries\n8. Sweet salad made with corn and three types of beans\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Roast turkey with plum sauce",
-            "1. Cheesecake made with cream cheese\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Low sugar applesauce cupcakes\n4. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n5. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n6. Baked spinach quiche containing bacon\n7. Peppermint chocolate bonbon\n8. Peach cobbler dessert containing whole wheat flour\n9. Gluten-free, egg-free, dairy-free, nut-free fudge\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. Baan Thai \n9. Tu's Tea & Banh Mi South Philly \n10. The QUICK FIXX",
+            "The Grill  Smuckers \nThe Tasty Toast \nThe Milk House \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nPearl's Oyster Bar \nParc \nFiore Fine Foods \nBetty's Speakeasy \nTrolley Car Diner",
+            "The Tasty Toast \\n\nThe Milk House \\n\nThe Grill  Smuckers \\n\nBenna's Cafe \\n\nThe Blue Duck \\n\nPearl's Oyster Bar \\n\nAldine \\n\nBetty's Speakeasy \\n\nTrolley Car Diner \\n\nThe Green Line Cafe",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. Hey Hummus \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. Trolley Car Diner \n9. The Green Line Cafe \n10. Cafe L'Aube",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. Benna's Cafe \n5. The Continental Restaurant and Martini Bar \n6. The Blue Duck \n7. Fiore Fine Foods \n8. Betty's Speakeasy \n9. Trolley Car Diner \n10. The Green Line Cafe"
         ]
     }
 }
