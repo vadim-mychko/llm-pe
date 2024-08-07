@@ -2,57 +2,57 @@
     "18": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like fruit?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like desserts?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like cheese?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "yes"
             },
             {
-                "query": "Do you like soup?",
+                "query": "Are you interested in vegetarian sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like bread?",
+                "query": "Are you looking for a place that serves burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like pasta?",
+                "query": "Are you interested in a place that serves pizza?",
                 "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American cuisine?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Sugar-free peanut butter cookies\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Gluten-free, egg-free, dairy-free, nut-free fudge\n8. Almonds coated with butter and salt\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Low fat assorted fruit dessert\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Almonds coated with butter and salt\n10. Roasted almonds",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Queso made from melted cheese and chili peppers\n3. Assorted cheese soup with chicken\n4. Cheese with crackers\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Mozzarella dip recipe\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Bread made swiss style with swiss cheese\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Cheese and vegetable soup with a beer broth",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Assorted cheese soup with chicken\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Bread made swiss style with swiss cheese\n7. Cheese with crackers\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Cheese and vegetable soup with a beer broth\n10. Polish sausage with fermented cabbage",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Queso made from melted cheese and chili peppers\n3. Assorted cheese soup with chicken\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Baked spinach quiche containing bacon\n6. Cheese with crackers\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Cheese and vegetable soup with a beer broth\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Cheese with crackers\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Swiss cheese bread\n8. Queso made from melted cheese and chili peppers\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Garlic bread with cheddar, green onions, and mayonnaise"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. The QUICK FIXX\n7. Lisa's Kitchen\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Five Guys\n6. Misconduct Tavern\n7. Monster Vegan\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Green Leafs & Bananas",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. CinCin Restaurant\n7. The Milk House\n8. Veda - Modern Indian Bistro\n9. Talluto's Authentic Italian Food\n10. Monster Vegan",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Trolley Car Diner\n8. Luhv Vegan Deli\n9. Founding Fathers Sports Bar & Grill\n10. Chestnut 7",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Luhv Vegan Deli\n8. Trolley Car Diner\n9. Founding Fathers Sports Bar & Grill\n10. CJ & Eck's",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Trolley Car Diner\n8. Luhv Vegan Deli\n9. Founding Fathers Sports Bar & Grill\n10. Chestnut 7",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Five Guys \n4. Paddy's Old City Pub \n5. Mad River Manayunk \n6. Franklin's \n7. JD Mcgillicuddy's Manayunk \n8. Founding Fathers Sports Bar & Grill \n9. Chestnut 7 \n10. CJ & Eck's"
         ]
     }
 }

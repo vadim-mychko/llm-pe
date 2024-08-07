@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. High protein skillet with rice and vegetables\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with onions, carrots, and celery ribs\n8. Soup made with vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Soup made with ground turkey that is low fat, high carb\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Assorted cheese soup with chicken\n8. Soup made from onions, carrots, and celery ribs\n9. Simple creamy oyster soup\n10. Calcium-rich soup made with broccoli and beans",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil"
+        ]
+    }
+}

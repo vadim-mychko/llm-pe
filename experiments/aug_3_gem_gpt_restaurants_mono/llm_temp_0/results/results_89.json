@@ -2,57 +2,57 @@
     "89": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "yes"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Are you interested in vegetarian sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place that serves burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you interested in a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves seafood?",
                 "response": "yes"
             },
             {
-                "query": "Do you like soups?",
+                "query": "Are you interested in a place that serves sushi?",
                 "response": "no"
             },
             {
-                "query": "Do you like grilled food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like sweet food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like salty food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like sour food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like bitter food?",
-                "response": "no"
+                "query": "Are you looking for a place that serves Thai food?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
-            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. High protein skillet with rice and vegetables\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with onions, carrots, and celery ribs\n8. Soup made with vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat sweet potato fries made with cajun seasoning\n6. Low fat diced baked or fried potatoes\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with ground turkey that is low fat, high carb\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with vegetables and chicken",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. High protein skillet with rice and vegetables\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat sweet potato fries made with cajun seasoning\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with ground turkey that is low fat, high carb\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with vegetables and chicken",
-            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Grilled salmon seasoned with salt and pepper\n4. Poke of tofu, mushroom and tomatoes\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Chopped French duck confit preserved by duck oil\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Low sugar applesauce cupcakes\n9. Soup made with ground turkey that is low fat, high carb\n10. Creamy base with dill flavoring, eggs, and noodles\n",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with onions, carrots, and celery ribs\n8. Soup made with ground turkey that is low fat, high carb\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Cabbage, carrots, potatoes, and onions soup\n5. Onions, carrots, and celery ribs soup\n6. Vegetable and chicken soup\n7. Broccoli and beans soup\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Salmon fillets grilled in a pan with herbs and spices",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Soup made with onions, carrots, and celery ribs\n6. Soup made with ground turkey that is low fat, high carb\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Assorted cheese soup with chicken"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. The QUICK FIXX\n7. Lisa's Kitchen\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Five Guys\n6. Misconduct Tavern\n7. Monster Vegan\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Green Leafs & Bananas",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. Le Pain Quotidien\n6. CinCin Restaurant\n7. The Milk House\n8. Veda - Modern Indian Bistro\n9. Talluto's Authentic Italian Food\n10. Monster Vegan",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Juice Merchant\n3. Federal Donuts\n4. The Tasty Toast\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Lisa's Kitchen\n8. Steve's Prince of Steaks\n9. Green Leafs & Bananas\n10. Luhv Vegan Deli",
+            "1. PrimoHoagies\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Lisa's Kitchen\n5. Steve's Prince of Steaks\n6. Green Leafs & Bananas\n7. Trolley Car Diner\n8. Luhv Vegan Deli\n9. Founding Fathers Sports Bar & Grill\n10. Chestnut 7",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nBistro SouthEast \nValley Green Inn \nThe Cheesecake Factory \nOishii Pok\u00e9 \nThe Green Line Cafe \nLucky's Last Chance",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nBistro SouthEast \nSang Kee Peking Duck House \nValley Green Inn \nThe Cheesecake Factory \nOishii Pok\u00e9 \nFederal Donuts",
+            "Bistro SouthEast \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nSang Kee Peking Duck House \\n\nBaan Thai \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nOishii Pok\u00e9 \\n\nAudrey Claire"
         ]
     }
 }

@@ -2,57 +2,57 @@
     "59": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Are you interested in a place to get pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you looking for a place to get burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruit?",
+                "query": "Are you interested in a place to get sushi?",
                 "response": "no"
             },
             {
-                "query": "Do you like desserts?",
+                "query": "Are you looking for a place to get chicken wings?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
+                "query": "Are you interested in a place to get breakfast?",
                 "response": "no"
             },
             {
-                "query": "Do you like soup?",
+                "query": "Are you looking for a place to get seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get Thai food?",
                 "response": "no"
             },
             {
-                "query": "Do you like bread?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like drinks?",
-                "response": "no"
+                "query": "Are you looking for a place to get American food?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Sugar-free peanut butter cookies\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Gluten-free, egg-free, dairy-free, nut-free fudge\n8. Almonds coated with butter and salt\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Low fat assorted fruit dessert\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Almonds coated with butter and salt\n10. Roasted almonds",
-            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low fat assorted fruit dessert\n3. Low fat diced baked or fried potatoes\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low sugar applesauce cupcakes\n6. Low fat sweet potato fries made with cajun seasoning\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Soup made with ground turkey that is low fat, high carb\n9. 2-ingredient yogurt from scratch\n10. Gluten-free, egg-free, dairy-free, nut-free fudge",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Low fat assorted fruit dessert\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Almonds coated with butter and salt\n10. Roasted almonds",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Low fat assorted fruit dessert\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Almonds coated with butter and salt\n10. Roasted almonds",
-            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low fat assorted fruit dessert\n3. Low fat diced baked or fried potatoes\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low sugar applesauce cupcakes\n6. Low fat sweet potato fries made with cajun seasoning\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Soup made with ground turkey that is low fat, high carb\n9. 2-ingredient yogurt from scratch\n10. Gluten-free, egg-free, dairy-free, nut-free fudge"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. Veda - Modern Indian Bistro \n8. Baan Thai \n9. Tu's Tea & Banh Mi South Philly \n10. The QUICK FIXX",
+            "1. The Juice Merchant \n2. The Tasty Toast \n3. Le Pain Quotidien \n4. Zuzu's Kitchen \n5. A Tutti, Ristorante Italiano \n6. The Milk House \n7. CO-OP Restaurant & Lounge \n8. The Continental Restaurant and Martini Bar \n9. Fiore Fine Foods \n10. The QUICK FIXX",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nBistro SouthEast \nValley Green Inn \nThe Cheesecake Factory \nOishii Pok\u00e9 \nFederal Donuts \nSang Kee Peking Duck House",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nBistro SouthEast \nDaleng Restaurant \nGolden Triangle \nIzumi \nMiga Korean BBQ & Sushi \nSang Kee Peking Duck House",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nAudrey Claire \nThe Grill  Smuckers \nThe Tavern Restaurant \nValley Green Inn \nThe Blue Duck \nThe Cheesecake Factory \nOishii Pok\u00e9 \nJack's Firehouse"
         ]
     }
 }

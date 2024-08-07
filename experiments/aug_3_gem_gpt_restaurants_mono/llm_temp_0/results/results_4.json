@@ -2,57 +2,57 @@
     "4": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like seafood?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like fruit?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "yes"
             },
             {
-                "query": "Do you like desserts?",
+                "query": "Are you looking for a place that serves pizza?",
                 "response": "yes"
             },
             {
-                "query": "Do you like sweet desserts?",
+                "query": "Are you interested in a place that serves sandwiches?",
                 "response": "yes"
             },
             {
-                "query": "Do you like chocolate?",
+                "query": "Are you looking for a place that serves burgers?",
                 "response": "no"
             },
             {
-                "query": "Do you like fruit-based desserts?",
+                "query": "Are you interested in a place that serves salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves pasta?",
                 "response": "yes"
             },
             {
-                "query": "Do you like apple-based desserts?",
+                "query": "Are you looking for a place that serves seafood?",
                 "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves brunch?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Low fat sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. Low fat assorted fruit dessert\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Peach cobbler dessert containing whole wheat flour\n9. Berry cobbler that uses frozen mixed berries\n10. Sweet salad made with corn and three types of beans",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\n5-fruit salad made from oranges, strawberries, blackberries, grapes, and pears\nLow fat assorted fruit dessert",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nSweet salad made with corn and three types of beans\nLow fat assorted fruit dessert\nFruit juice and banana smoothie",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts",
-            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Norway cake with lingonberry and whipped cream layers\n4. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n5. Peach cobbler dessert containing whole wheat flour\n6. Berry cobbler that uses frozen mixed berries\n7. Sweet salad made with corn and three types of beans\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Banana bread made with whole wheat flour and walnuts\n'''"
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nParc \nGran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nFiore Fine Foods \nThe QUICK FIXX \nEvan's Pizza \nBlackbird Pizzeria \nChestnut 7 \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nMacaroni's Restaurant",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nPrimoHoagies \nThe QUICK FIXX \nMacaroni's Restaurant \nChestnut 7 \nEvan's Pizza \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nPrimoHoagies \nThe QUICK FIXX \nMacaroni's Restaurant \nChestnut 7 \nEvan's Pizza \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nPrimoHoagies \nThe QUICK FIXX \nMacaroni's Restaurant \nChestnut 7 \nEvan's Pizza \nRoy-Pitz Barrel House \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. The QUICK FIXX\n4. Chestnut 7\n5. Macaroni's Restaurant\n6. Roy-Pitz Barrel House\n7. Jake's & Cooper's Wine Bar & Wine Shop\n8. Evan's Pizza\n9. Blackbird Pizzeria\n10. Zuzu's Kitchen",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. The QUICK FIXX\n5. Chestnut 7\n6. PrimoHoagies\n7. The Green Line Cafe\n8. Spread Bagelry\n9. Betty's Speakeasy\n10. Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. The QUICK FIXX\n5. Chestnut 7\n6. PrimoHoagies\n7. Spread Bagelry\n8. The Green Line Cafe\n9. Betty's Speakeasy\n10. Evan's Pizza",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. The QUICK FIXX\n5. Chestnut 7\n6. PrimoHoagies\n7. The Green Line Cafe\n8. Spread Bagelry\n9. Betty's Speakeasy\n10. Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. The QUICK FIXX\n5. Chestnut 7\n6. PrimoHoagies\n7. The Blue Duck\n8. Betty's Speakeasy\n9. Spread Bagelry\n10. The Green Line Cafe"
         ]
     }
 }

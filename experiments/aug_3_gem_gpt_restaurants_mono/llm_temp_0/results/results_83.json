@@ -2,57 +2,57 @@
     "83": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like vegetables?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like meat?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like pork?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like soups?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like noodles?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like salads?",
+                "query": "Are you interested in a place that serves sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like chicken?",
-                "response": "yes"
+                "query": "Are you looking for a place that serves seafood?",
+                "response": "no"
             },
             {
-                "query": "Do you like tofu?",
-                "response": "yes"
+                "query": "Are you interested in a place that serves vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Thai cuisine?",
+                "response": "no"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Simple creamy oyster soup\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n8. Poke of tofu, mushroom and tomatoes\n9. Soup made with vegetables and chicken\n10. Chicken cooked and flavored with lemon sauce\n''''",
-            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Fried shrimp and scallops\n3. Soup made with shrimp, onions, and scallops\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Vegetable soup with chicken\n'''",
-            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Fried shrimp and scallops\n3. Soup made with shrimp, onions, and scallops\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
-            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Simple creamy oyster soup\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Hot pot that is not spicy\n10. Homemade soup with chicken, noodles, and spices",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Homemade soup with chicken, noodles, and spices\n10. Soup made with cabbage, carrots, potatoes, and onions\n'''",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with onions, carrots, and celery ribs\n9. Simple creamy oyster soup\n10. Soup made with vegetables and chicken\n''''",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Homemade soup with chicken, noodles, and spices\n10. Mushy peas that are soft\n",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Simple creamy oyster soup\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Spanish rice with chicken breast\n10. Chicken cooked and flavored with lemon sauce",
-            "1. Soup made with shrimp, onions, and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Soup made with ground turkey that is low fat, high carb\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Soup made with vegetables and chicken"
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nParc \nGran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Macaroni's Restaurant\n5. Ristorante La Buca\n6. Audrey Claire\n7. Oteri's Italian Bakery | North 5th St\n8. Gran Caffe L'Aquila\n9. PrimoHoagies\n10. Talluto's Authentic Italian Food",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Macaroni's Restaurant\n5. Ristorante La Buca\n6. Audrey Claire\n7. Parc\n8. Gran Caffe L'Aquila\n9. Oteri's Italian Bakery | North 5th St\n10. PrimoHoagies",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Macaroni's Restaurant\n7. Oteri's Italian Bakery | North 5th St\n8. Ristorante La Buca\n9. Talluto's Authentic Italian Food\n10. The QUICK FIXX",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Oteri's Italian Bakery | North 5th St\n7. Ristorante La Buca\n8. Talluto's Authentic Italian Food\n9. The QUICK FIXX\n10. Zuzu's Kitchen",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. Macaroni's Restaurant\n7. The QUICK FIXX\n8. Lisa's Kitchen\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Ristorante La Buca\n2. Fiore Fine Foods\n3. A Tutti, Ristorante Italiano\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. PrimoHoagies\n7. Macaroni's Restaurant\n8. The QUICK FIXX\n9. Lisa's Kitchen\n10. Betty's Speakeasy",
+            "1. Ristorante La Buca\n2. Audrey Claire\n3. Parc\n4. Cafe L'Aube\n5. Gran Caffe L'Aquila\n6. Fiore Fine Foods\n7. Evan's Pizza\n8. The QUICK FIXX\n9. Betty's Speakeasy\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "1. Castellino's \n2. Ristorante La Buca \n3. Fiore Fine Foods \n4. Gran Caffe L'Aquila \n5. Parc \n6. Cafe L'Aube \n7. Audrey Claire \n8. Oteri's Italian Bakery | North 5th St \n9. A Tutti, Ristorante Italiano \n10. PrimoHoagies"
         ]
     }
 }

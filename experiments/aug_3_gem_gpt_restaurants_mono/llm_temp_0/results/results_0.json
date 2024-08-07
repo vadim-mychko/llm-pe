@@ -2,57 +2,57 @@
     "0": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get sandwiches?",
                 "response": "no"
             },
             {
-                "query": "Do you like meat?",
+                "query": "Are you interested in a place to get breakfast?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you looking for a place to get sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get burgers?",
                 "response": "yes"
             },
             {
-                "query": "Do you like soups?",
+                "query": "Are you looking for a place to get pizza?",
                 "response": "no"
             },
             {
-                "query": "Do you like salads?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like desserts?",
+                "query": "Are you interested in a place to get chicken wings?",
                 "response": "yes"
             },
             {
-                "query": "Do you like fruit?",
+                "query": "Are you looking for a place to get a beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place to get a cocktail?",
                 "response": "no"
             },
             {
-                "query": "Do you like chocolate?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like cheese?",
-                "response": "no"
+                "query": "Are you looking for a place to get a sports bar?",
+                "response": "yes"
             }
         ],
         "rec_items": [
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour\n''''",
-            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat assorted fruit dessert\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
-            "1. 2-ingredient yogurt from scratch\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Low sugar applesauce cupcakes\n9. Low fat assorted fruit dessert\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n''''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Italian salad made from romain lettuce, artichokes, and tomatoes\n5. Sweet salad made with corn and three types of beans\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
-            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. High protein skillet with rice and vegetables\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with onions, carrots, and celery ribs\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans\n'''",
-            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon",
-            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeppermint chocolate bonbon\nGluten-free, egg-free, dairy-free, nut-free fudge\nAlmonds coated with butter and salt",
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour",
-            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Sugar-free peanut butter cookies\n4. Jam made from blackberries, lemon juice, and sugar\n5. Baked breakfast bars made with nuts and seeds\n6. Norway cake with lingonberry and whipped cream layers\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n9. Peppermint chocolate bonbon\n10. Peach cobbler dessert containing whole wheat flour"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. Federal Donuts \n6. Mong Kok Station \n7. Izumi \n8. A Tutti, Ristorante Italiano \n9. The Milk House \n10. Bistro SouthEast",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. The Blue Duck\n8. Chestnut 7\n9. Jack's Firehouse\n10. Blackbird Pizzeria",
+            "1. Misconduct Tavern\n2. Five Guys\n3. Lisa's Kitchen\n4. Franklin's\n5. Luhv Vegan Deli\n6. Chestnut 7\n7. Lucky's Last Chance\n8. Love & Honey Fried Chicken\n9. CJ & Eck's\n10. Jack's Firehouse",
+            "1. Misconduct Tavern\n2. Wishbone\n3. Lisa's Kitchen\n4. Franklin's\n5. JD Mcgillicuddy's Manayunk\n6. Luhv Vegan Deli\n7. Founding Fathers Sports Bar & Grill\n8. Chestnut 7\n9. Lucky's Last Chance\n10. Love & Honey Fried Chicken",
+            "1. Misconduct Tavern\n2. Wishbone\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. Jack's Firehouse\n8. The Blue Duck\n9. Lisa's Kitchen\n10. Blackbird Pizzeria",
+            "1. Misconduct Tavern\n2. Wishbone\n3. Franklin's\n4. JD Mcgillicuddy's Manayunk\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. Lisa's Kitchen\n8. Jack's Firehouse\n9. The Blue Duck\n10. The Tavern Restaurant",
+            "1. Misconduct Tavern\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Founding Fathers Sports Bar & Grill\n5. CJ & Eck's\n6. Mad River Manayunk\n7. Lucky's Last Chance\n8. McMenamin's Tavern\n9. Chestnut 7\n10. Tavern On the Hill"
         ]
     }
 }

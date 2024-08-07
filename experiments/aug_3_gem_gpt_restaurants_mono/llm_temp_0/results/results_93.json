@@ -2,57 +2,57 @@
     "93": {
         "conv_hist": [
             {
-                "query": "Do you like spicy food?",
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place to get sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get chicken wings?",
                 "response": "yes"
             },
             {
-                "query": "Do you like pork?",
+                "query": "Are you interested in a place to get tacos?",
                 "response": "no"
             },
             {
-                "query": "Do you like seafood?",
+                "query": "Are you looking for a place to get a cheesesteak?",
                 "response": "no"
             },
             {
-                "query": "Do you like vegetables?",
+                "query": "Are you interested in a place to get a salad?",
                 "response": "no"
             },
             {
-                "query": "Do you like cheese?",
-                "response": "yes"
-            },
-            {
-                "query": "Do you like soups?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like desserts?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like chicken?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like beef?",
-                "response": "no"
-            },
-            {
-                "query": "Do you like tofu?",
+                "query": "Are you looking for a place to get a hot dog?",
                 "response": "no"
             }
         ],
         "rec_items": [
-            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices",
-            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken breasts stuffed with bacon and mozzarella",
-            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Baked spinach quiche containing bacon\n9. Chicken cooked and flavored with lemon sauce\n10. Roasted almonds",
-            "1. Queso made from melted cheese and chili peppers\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Cheese and olive appetizer made to look like an eyeball\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Bread made swiss style with swiss cheese\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Cheese and vegetable soup with a beer broth\n10. Meatballs made with ground beef and ground pork",
-            "1. Queso made from melted cheese and chili peppers\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Cheese and olive appetizer made to look like an eyeball\n5. Assorted cheese soup with chicken\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Bread made swiss style with swiss cheese\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Meatballs made with ground beef and ground pork\n6. Cheese with crackers\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Roasted almonds\n9. Hot pot that is not spicy\n10. Homemade soup with chicken, noodles, and spices",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Meatballs made with ground beef and ground pork\n6. Cheese with crackers\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Roasted almonds\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Cheese with crackers\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Cheese and vegetable soup with a beer broth\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Assorted cheese soup with chicken",
-            "1. Cheese and olive appetizer made to look like an eyeball\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Cheese with crackers\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Cheese and vegetable soup with a beer broth\n8. Baked spinach quiche containing bacon\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Assorted cheese soup with chicken"
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Lacroix Restaurant at The Rittenhouse \n4. Daleng Restaurant \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. The Tasty Toast \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "1. Wishbone\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Blackbird Pizzeria\n5. Lisa's Kitchen\n6. Jack's Firehouse\n7. Lucky's Last Chance\n8. Love & Honey Fried Chicken\n9. McMenamin's Tavern\n10. CJ & Eck's",
+            "Wishbone \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nMcMenamin's Tavern \\n\nCJ & Eck's \\n\nGran Caffe L'Aquila",
+            "Wishbone \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nMcMenamin's Tavern \\n\nCJ & Eck's \\n\nRival Bros Coffee",
+            "Federal Donuts \nWishbone \nFranklin's \nJD Mcgillicuddy's Manayunk \nLisa's Kitchen \nJack's Firehouse \nLucky's Last Chance \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nRival Bros Coffee",
+            "1. Wishbone\n2. Franklin's\n3. JD Mcgillicuddy's Manayunk\n4. Lucky's Last Chance\n5. Love & Honey Fried Chicken\n6. Jack's Firehouse\n7. Lisa's Kitchen\n8. Blackbird Pizzeria\n9. Betty's Speakeasy\n10. Steve's Prince of Steaks"
         ]
     }
 }
