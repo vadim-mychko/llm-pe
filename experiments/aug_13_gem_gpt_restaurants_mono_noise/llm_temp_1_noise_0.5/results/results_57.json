@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American \"new\" restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for breakfast & brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want something that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for anything with burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in finding cheese shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cheesesteak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a chicken shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to grab pasta?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant",
+            " The Tasty Toast \n****\n Bloomsday Cafe \n****\n Benna's Cafe \n****\n Fiore Fine Foods \n****\n Hey Hummus \n****\n The Blue Duck \n****\n Trolley Car Diner \n****\n The Green Line Cafe \n****\n Spread Bagelry \n****\n Parc",
+            "Pearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nParc \nBistro SouthEast \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Milk House \nTu's Tea & Banh Mi South Philly \nThe Green Line Cafe",
+            "1. Wawa\n2. Macaroni's Restaurant\n3. Lucky's Last Chance\n4. Pearl's Oyster Bar\n5. Malbec Argentine Steakhouse\n6. Evan's Pizza\n7. Blackbird Pizzeria\n8. Ristorante La Buca\n9. Lisa's Kitchen\n10. CJ & Eck's",
+            "Daleng Restaurant \nGrain Exchange \nThe Grill  Smuckers \nTaboon \nPercy Street Barbecue \nBlackbird Pizzeria \nThe Continental Restaurant and Martini Bar \nFounding Fathers Sports Bar & Grill \nHershey's Ice Cream Plaza \nBareBurger \nSabrina's Cafe \nSabrina's Cafe",
+            "1. The Tasty Toast \\n\n2. McMenamin's Tavern \\n\n3. Cafe L'Aube \\n\n4. Veda - Modern Indian Bistro \\n\n5. The Milk House \\n\n6. The Grill  Smuckers \\n\n7. Franklin's \\n\n8. Lucky's Last Chance \\n\n9. Love & Honey Fried Chicken \\n\n10. CJ & Eck's \\n",
+            "1. Steve's Prince of Steaks\n2. Lisa's Kitchen\n3. Founding Fathers Sports Bar & Grill\n4. McMenamin's Tavern\n5. CJ & Eck's\n6. Franklin's\n7. Lucky's Last Chance\n8. Blackbird Pizzeria\n9. The Blue Duck\n10. Luhv Vegan Deli",
+            " Steve's Prince of Steaks \nTrolley Car Diner \nJack's Firehouse \nLisa's Kitchen \nFranklin's \nValley Green Inn \nThe Green Line Cafe \nFederal Donuts \nWishbone \nPearl's Oyster Bar",
+            "The Tasty Toast \\n\nThe Grill  Smuckers \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nFederal Donuts \\n\nBaan Thai \\n\nMacaroni's Restaurant \\n\nChestnut 7 \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas",
+            "1. PrimoHoagies \\n\n2. Daleng Restaurant \\n\n3. Valley Green Inn \\n\n4. Talluto's Authentic Italian Food \\n\n5. The Tavern Restaurant \\n\n6. Misconduct Tavern \\n\n7. Castellino's \\n\n8. Baan Thai \\n\n9. Canton 11 \\n\n10. Dim Sum House"
+        ]
+    }
+}

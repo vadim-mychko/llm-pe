@@ -1,0 +1,58 @@
+{
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups and stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish or vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken or pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like alcohol-free cocktails?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy fruits?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Chicken breasts stuffed with bacon and mozzarella\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMozzarella dip recipe\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nChicken cooked and flavored with lemon sauce",
+            "1. Queso made from melted cheese and chili peppers\n2. Baked breakfast bars made with nuts and seeds\n3. Gluten-free, egg-free, dairy-free, nut-free fudge\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Large portion fries with gravy and bacon\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Low fat diced baked or fried potatoes\n9. Low fat assorted fruit dessert\n10. Mozzarella dip recipe",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Almond coated with butter and salt\n4. Roasted almonds\n5. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n6. Strawberry banana smoothie\n7. Pepper steak\n8. Cheesy cauliflower rice\n9. Almonds coated with melted butter with a bit of salt\n10. Whole wheat penne with broccoli and tomato sauce\n'''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. High protein skillet with rice and vegetables\n5. 2-ingredient yogurt from scratch\n6. Low fat diced baked or fried potatoes\n7. Low fat assorted fruit dessert\n8. Low-fat coconut alcohol-free cocktail\n9. Homemade soup with chicken, noodles, and spices\n10. Smoothies made from fruit juice and bananas\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSmoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nPeach cobbler dessert containing whole wheat flour\nBerries cobbler that uses frozen mixed berries\nMozzarella dip recipe\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n''''",
+            "****\nAlmonds coated with butter and salt\n****\nChopped French duck confit preserved by duck oil\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nRoasted almonds\n****\nMeatballs made with ground beef and ground pork\n****\nEggless sauerkraut cake\n****\nSmoothie made from banana puree with milk\n****\nLow fat assorted fruit dessert\n****\nMushy peas that are soft\n****",
+            "1. Large portion fries with gravy and bacon\n2. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Jam made from blackberries, lemon juice, and sugar\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatballs made with ground beef and ground pork\n7. Milkshake made with fresh strawberries and ice cream\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Taiwanese deep fried crispy chicken cutlets\n10. Smoothies made with fruit juice and bananas",
+            "(No relevant items found for the provided conversation history.)",
+            "Low-fat coconut alcohol-free cocktail \\n\nSmoothie made from banana puree with milk \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nSmoothie made from fruit juice and bananas \\n\nChocolate and orange-flavoured smoothie \\n\nSoup made with ground turkey that is low fat, high carb \\n\nSlushie drink made from orange juice blended with ice \\n\nHomemade soup with chicken, noodles, and spices \\n\nLow fat diced baked or fried potatoes \\n\nAssorted cheese soup with chicken",
+            "- Low-fat coconut alcohol-free cocktail\n- Low fat smoothies made with greek yogurt, and pineapple\n- Smoothie made from fruit juice and bananas\n- Banana puree with milk\n- Smoothie made from banana puree with milk\n- Low fat assorted fruit dessert\n- Slushie drink made from orange juice blended with ice\n- Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n- Chocolate and orange-flavoured smoothie\n- Jam made from blackberries, lemon juice, and sugar"
+        ]
+    }
+}

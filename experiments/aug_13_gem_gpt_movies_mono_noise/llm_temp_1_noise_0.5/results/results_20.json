@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a dramatic animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a happy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action-packed Sci-Fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a children's movie that's set in a fantastical world?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a children's film involving a boy's coming-of-age journey?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's film that involves animals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a children's film that includes dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated animal film set in a natural setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama film about corporations?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a family-friendly children's film?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Laura (1944) \n4. Tomb Raider (2018)\n5. Pirates of the Caribbean: At World's End (2007)\n6. August Rush (2007) \n7. The Proposition, The (2005)  \n8. The Man from Earth, (2007) \n9. What's Up, Doc? (1972)\n10. American Graffiti (1973)",
+            "1. Departed, The (2006)\n2. Nightcrawler (2014)\n3. The Conversation (1974)\n4. No Country for Old Men (2007)\n5. There Will Be Blood (2007)\n6. Taxi Driver (1976)\n7. Mad Max: Fury Road (2015)\n8. The Dark Knight (2008)\n9. The Godfather (1972)\n10. The Godfather Part II (1974)",
+            "1. Taxi Driver (1976)\n2. Network (1976)\n3. One Flew Over the Cuckoo's Nest (1975)\n4. Apocalypse Now (1979)\n5. Full Metal Jacket (1987)\n6. Paths of Glory (1957)\n7. The Bridge on the River Kwai (1957)\n8. Lawrence of Arabia (1962)\n9. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)\n10. Schindler's List (1993)",
+            "1. Tomb Raider (2018) \n2. The Proposition (2005) \n3. The Adventures of Tintin (2011) \n4. Alita: Battle Angel (2019) \n5. Gremlins 2: The New Batch (1990) \n6. The Terminator (1984) \n7. Labyrinth (1986) \n8. The NeverEnding Story (1984) \n9. The Princess Bride (1987) \n10. Willow (1988) ",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Laura (1944)\n4. Tomb Raider (2018) \n5. The Piano (1993)\n6. August Rush (2007)\n7. The Proposition (2005)\n8. Out of Sight (1998) \n9. The Mothman Prophecies (2002) \n10. The Land Before Time (1988)",
+            "****\nFirst item in the output:\n Monster's Inc. (2001)\n****\n is irrelevant to the conversation for the following reasons:\n* The user is NOT looking for a dramatic or action-packed movie.\n* The user is looking a movie for children that involves animals.\n* Monster's Inc. is neither dramatic, action-packed or involves animals.",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. The Lion King (1994)\n5. Finding Nemo (2003)\n6. The Jungle Book (2016)\n7. Moana (2016)\n8. Zootopia (2016)\n9. How to Train Your Dragon (2010)\n10. Coco (2017)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. The Land Before Time (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. American Graffiti (1973)\n6. The Grapes of Wrath (1940)\n7. Umberto D. (1952)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n9. Real Steel (2011)\n10. Delicatessen (1991)",
+            "****\n Movie Title: Tomb Raider (2018) \n Genres: Action, Adventure, Fantasy \n\n****\n Movie Title: Pirates of the Caribbean: At World's End (2007) \n Genres: Action, Adventure, Comedy, Fantasy \n\n****\n Movie Title: Clash of the Titans (1981) \n Genres: Action, Adventure, Fantasy, Romance \n\n****\n Movie Title: Ant-Man (2015) \n Genres: Action, Adventure, Sci-Fi \n\n****\n Movie Title: Ready Player One \n Genres: Action, Sci-Fi, Thriller \n\n****\n Movie Title: Real Steel (2011) \n Genres: Action, Drama, Sci-Fi, IMAX \n\n****\n Movie Title: King Kong (2005) \n Genres: Action, Adventure, Drama, Fantasy, Thriller \n\n****\n Movie Title: Eragon (2006) \n Genres: Action, Adventure, Fantasy \n\n****\n Movie Title: 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n Genres: Animation, Drama, Romance \n\n****\n Movie Title: Homeward Bound: The Incredible Journey (1993) \n Genres: Adventure, Children, Drama",
+            "* Monsters, Inc. (2001)\n* Runaway Train (1985)\n* Tomb Raider (2018)\n* Abraham Lincoln: Vampire Hunter (2012)\n* August Rush (2007)\n* The Land Before Time (1988)\n* Homeward Bound: The Incredible Journey (1993)\n* Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n* The Big Red One (1980)\n* American Graffiti (1973)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a restaurant that serves vegan food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a fast food restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant that serves specialty food?",
+                "response": "no"
+            },
+            {
+                "query": "Is the restaurant you are looking for an Italian restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the sandwich shop you are looking for located in South Philly?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants in Center City?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a breakfast & brunch place?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer a vegan restaurant or a vegetarian restaurant?",
+                "response": "neither"
+            }
+        ],
+        "rec_items": [
+            "Monster Vegan \\n\nVedge \\n\nBenna's Cafe \\n\nThe Juice Merchant \\n\nNorth Bowl \\n\nHey Hummus \\n\nThe Green Line Cafe \\n\nBlackbird Pizzeria \\n\nLuvh Vegan Deli \\n\nPure Tacos",
+            "Monster Vegan \nBenna's Cafe \nLuvh Vegan Deli \nVedge \nHey Hummus \nThe QUICK FIXX \nBlackbird Pizzeria \nLove & Honey Fried Chicken \nMiga Korean BBQ & Sushi \nNorth Bowl",
+            "Clover\nVedge \nMonster Vegan \nBenna's Cafe \nLuvh Vegan Deli \nJack's Firehouse \nThe Blue Duck \nCook and Shaker \nPearl's Oyster Bar \nThe QUICK FIXX",
+            "The QUICK FIXX \\n\nMonster Vegan \\n\nNorth Bowl \\n\nVegan Hive \\n\nBlackbird Pizzeria \\n\nHey Hummus \\n\nVedge \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nBetty's Speakeasy",
+            "- Monster Vegan \\n\n- The QUICK FIXX \\n\n- Luhv Vegan Deli \\n\n- Fiore Fine Foods \\n\n- Blackbird Pizzeria \\n\n- Castellino's \\n\n- PrimoHoagies \\n\n- A Tutti, Ristorante Italiano \\n\n- Lisa's Kitchen \\n\n- Green Leafs & Bananas \\n",
+            "Monster Vegan \nBenna's Cafe \nBetty's Speakeasy \nThe QUICK FIXX \nThe Green Line Cafe \nSpread Bagelry \nLisboa Restaurant & Bar \nVedge \nJake's & Cooper's Wine Bar & Wine Shop \nLuvh Vegan Deli",
+            " Monster Vegan \\n\n The QUICK FIXX \\n\n Luhv Vegan Deli \\n\n Castellino's \\n\n Talluto's Authentic Italian Food \\n\n Paddy's Old City Pub \\n\n PrimoHoagies \\n\n Betty's Speakeasy \\n\n Gran Caffe L'Aquila \\n\n Zuzu's Kitchen",
+            "Sister Muhammad's Kitchen \nChick'nCone \nThe Mighty Bowl \nHan Dynasty \nCircles Thai \nJyoti Indian Cuisine \n Monks Cafe \nV Street Food \nSabrina's Cafe \n Triangle Tavern",
+            "The QUICK FIXX \nGreen Leafs & Bananas \nLuvh Vegan Deli \nBetty's Speakeasy \nMonster Vegan \nHey Hummus \nVedge \nBenna's Cafe \nSpread Bagelry \nThe Green Line Cafe",
+            "Monster Vegan \\n\nVedge \\n\nHey Hummus \\n\nBlackbird Pizzeria \\n\nLuvh Vegan Deli \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nLuhv Vegan Deli  \\n\nTrolley Car Diner \\n\nGreen Leafs & Bananas"
+        ]
+    }
+}

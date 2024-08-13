@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Do you eat meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fruits or vegetables in your salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheesy salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like your salads to contain nuts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like savory salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like your salads to contain legumes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. 2-ingredient yogurt from scratch\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Soup made with shrimp, onions, and scallops\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Simple creamy oyster soup\n8. Mozzarella dip recipe\n9. Tofu, mushroom and tomatoes poke\n10. Cheese with crackers\n",
+            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\n",
+            " - Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n - Low sugar applesauce cupcakes\n - Sugar-free peanut butter cookies\n - Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n - Cheesecake made with cream cheese\n - Norway cake with lingonberry and whipped cream layers\n - Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n - French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n - Peppermint chocolate bonbon\n - Peach cobbler dessert containing whole wheat flour",
+            " Fried shrimp and scallops \\n\n Spaghetti noodles with mussels, anchovy fillets, and capers \\n\nGrilled salmon seasoned with salt and pepper \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nItalian salad made from romain lettuce, artichokes, and tomatoes \\n\nSalmon fillets grilled in a pan with herbs and spices \\n\nBaked breakfast bars made with nuts and seeds \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nBaked spinach quiche containing bacon \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "- Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n- Italian salad made from romain lettuce, artichokes, and tomatoes\n- Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n- Classic salad with creamy caesar dressing and croutons\n- Sweet salad made with corn and three types of beans\n- Very low-fat assortment of shredded vegetables with seasoning\n- South African vegetable curry flavoured with curry powder and ground tumeric\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- Assorted cheese soup with chicken\n- Cheese and vegetable soup with a beer broth",
+            "1. Mildly spicy chili recipe\n2. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n3. Classic salad with creamy caesar dressing and croutons\n4. Italian salad made from romain lettuce, artichokes, and tomatoes \n5. Sweet salad made with corn and three types of beans\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Grilled salmon seasoned with salt and pepper",
+            " Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nLow fat assorted fruit dessert\nBaked breakfast bars made with nuts and seeds\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSweet salad made with corn and three types of beans\n5-fruit salad made with oranges, strawberries, blackberries, grapes, and pears\nLow fat smoothies made with greek yogurt and pineapple\nFruit juice and banana smoothie\n'''",
+            "1. Sweet salad made with corn and three types of beans\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Classic salad with creamy caesar dressing and croutons\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Oatmeal cookies with nuts and peanut butter\n9. Baked apples with cinnamon and sugar\n10. Banana bread made with whole wheat flour and walnuts\n'''",
+            "1. Low sugar applesauce cupcakes\n2. Low fat sweet potato fries made with cajun seasoning\n3. Sugar-free peanut butter cookies\n4. Peach cobbler dessert containing whole wheat flour\n5. Baked spinach quiche containing bacon\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Sweet salad made with corn and three types of beans\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Creamy base with dill flavoring, eggs, and noodles",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Classic salad with creamy caesar dressing and croutons\n3. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n4. Sweet salad made with corn and three types of beans\n5. Italian salad made from romain lettuce, artichokes, and tomatoes\n6. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n7. Almonds coated with butter and salt\n8. Roasted almonds\n9. Peanut butter cookies\n10. Sugar-free peanut butter cookies\n11. Mozzarella dip recipe\n12. Mozzarella cheese sticks with marinara sauce\n13. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n14. Low-fat coconut alcohol-free cocktail\n15. Low fat sweet potato fries made with cajun seasoning\n16. Low fat coconut alcohol-free cocktail\n17. Low sugar applesauce cupcakes\n"
+        ]
+    }
+}

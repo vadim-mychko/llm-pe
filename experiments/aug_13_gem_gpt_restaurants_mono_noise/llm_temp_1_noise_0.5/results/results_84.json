@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Does american cuisine sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food with vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Local Tavern\nGolden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nZuzu's Kitchen\nDaleng Restaurant\nFederal Donuts\nHeritage\nKokopelli Restaurant & Tequila Bar\nIzumi\nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen\nThe Tasty Toast\nThe Milk House\nBistro SouthEast\nThe Grill  Smuckers\nBenna's Cafe\nThe El Bar\nAldine\nDim Sum House\nEvan's Pizza",
+            "1. The Tasty Toast\n2. The Milk House\n3. The Grill  Smuckers\n4. Bloomsday Cafe\n5. The Fresh Grocer - Progress Plaza\n6. Benna's Cafe\n7. Hey Hummus\n8. The Green Line Cafe\n9. Gran Caffe L'Aquila\n10. Cafe L'Aube",
+            "The Continental Restaurant and Martini Bar\nRoy-Pitz Barrel House\nPearl's Oyster Bar \nThe Blue Duck\nCook and Shaker\nAldine\nEvan's Pizza \nSteve's Prince of Steaks \nTrolley Car Diner \nThe Green Line Cafe",
+            "The Continental Restaurant and Martini Bar\nThe Grill  Smuckers \nPearl's Oyster Bar \nThe Blue Duck \nJack's Firehouse\nThe Cheesecake Factory \nAudrey Claire \nParc \nCafe L'Aube \nMcMenamin's Tavern",
+            "1. The El Bar\n2. Mad River Manayunk\n3. The Tavern Restaurant\n4. Tavern On the Hill\n5. The Blue Duck\n6. Lisa's Kitchen\n7. Paddy's Old City Pub\n8. The Tasty Toast\n9. Trolley Car Diner\n10. Green Leafs & Bananas",
+            " The Tavern Restaurant \nGermantown Garden \nThe Tasty Toast \nFive Guys \nMisconduct Tavern \nPaddy's Old City Pub \nNorth Bowl \nMad River Manayunk \nThe El Bar \nFounding Fathers Sports Bar & Grill",
+            "The Tasty Toast \nThe Grill  Smuckers \nThe Tavern Restaurant \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar \nTrolley Car Diner \nThe Green Line Cafe \nSpread Bagelry \nStarbucks Coffee",
+            " Wishbone \\n\nFederal Donuts \\n\nLove & Honey Fried Chicken \\n\nThe Continental Restaurant and Martini Bar \\n\nPearl's Oyster Bar \\n\nAudubon \\n\nJack's Firehouse \\n\nJohnny's Hots \\n\nBob and Barbara's \\n\nThe Blue Duck",
+            "Franklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nTrolley Car Diner \\n\nMad River Manayunk \\n\nThe Tavern Restaurant \\n\nPaddy's Old City Pub \\n\nThe Cheesecake Factory \\n\nJack's Firehouse \\n\nFounding Fathers Sports Bar & Grill \\n\nMcMenamin's Tavern"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are Vietnamese restaurants of interest to you now?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with outdoor dining?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a dim sum restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that allow online ordering?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with karaoke?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Mood Indian Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nThe Tasty Toast\nLe Pain Quotidien\nCinCin Restaurant",
+            " Mood Indian Restaurant \\n\n****\n Local Tavern \\n\n****\n Lacroix Restaurant at The Rittenhouse \\n\n****\n Water Works Restaurant & Lounge \\n\n****\n The Tasty Toast \\n\n****\n Veda - Modern Indian Bistro \\n\n****\n CinCin Restaurant \\n\n****\n Heritage \\n\n****\n Bistro SouthEast \\n\n****\n Tavern On the Hill \n****\n The Grill  Smuckers\n****\n The Continental Restaurant and Martini Bar \\n\n****\n Pearl's Oyster Bar \\n\n****\n Fiore Fine Foods \\n\n****\n Founding Fathers Sports Bar & Grill",
+            "Federal Donuts\nHeritage\nLacroix Restaurant at The Rittenhouse\nNoord\nThe Milk House\nThe QUICK FIXX\nLokal Artisan Foods \nAudrey Claire\nNorth Bowl\nGrain Exchange",
+            "Izumi \\n\nSang Kee Peking Duck House \\n\nTokyo Steak House \\n\nZen Tea & Sushi \\n\nTrolley Car Cafe \\n\nThe Green Line Cafe \\n\nFuji Mountain \\n\nCantonese Gourmet House \\n\nKoi Sushi \\n\nThe Juice Merchant",
+            "Malbec Argentine Steakhouse \nFuji Mountain \nRoy-Pitz Barrel House \nParc \nFounding Fathers Sports Bar & Grill \nRistorante La Buca \nSteve's Prince of Steaks \nChestnut 7 \nMacaroni's Restaurant \nOlive Garden Italian Restaurant",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nThe Juice Merchant \nLe Pain Quotidien \nDaleng Restaurant \nLacroix Restaurant at The Rittenhouse",
+            "Dim Sum House\nRistorante La Buca\nChin Chin Restaurant\nSang Kee Peking Duck House\nCanton 11\nMiga Korean BBQ & Sushi\nDim Sum Garden\nHeritage \nBoon Cafe\nPacific East Dim Sum",
+            " Dim Sum House \n Sang Kee Peking Duck House \n Canton 11 \n Heritage \n Valley Green Inn \n The Cheesecake Factory \n KC's Pastries \n Macaroni's Restaurant \n Oishii Pok\u00e9 \n The Fresh Grocer - Progress Plaza",
+            " Canton 11 \\n\nDim Sum House \\n\nSang Kee Peking Duck House \\n\nFederal Donuts \\n\nChinatown \\n\nOishii Pok\u00e9 \\n\nKC's Pastries \\n\nDaleng Restaurant \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly",
+            "Sang Kee Peking Duck House \nCanton 11 \nDim Sum House \nGolden Triangle \nDaleng Restaurant \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nKC's Pastries \nFederal Donuts \nOishii Pok\u00e9 \nWawa \nAudre Claire"
+        ]
+    }
+}

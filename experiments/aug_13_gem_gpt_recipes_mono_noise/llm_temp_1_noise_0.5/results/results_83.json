@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like rice dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti noodles with mussels, anchovy fillets, and capers\nShredded barbecued pork shoulder\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nPork sausage with fermented cabbage\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "1. Shredded barbecued pork shoulder\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Chopped French duck confit preserved by duck oil\n4. Pork chops glazed with milk and cooked without nuts\n5. Sausage (pork) and apples\n6. Low fat sweet potato fries made with cajun seasoning\n7. Dog food made from pork, green beans, cheddar cheese and brown rice\n8. Grilled salmon seasoned with salt and pepper\n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nBacon and mozzarella chicken breasts\n****\nQueso made from melted cheese and chili peppers\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nShredded barbecued pork shoulder\n****\nPeppermint chocolate bonbon\n****\nCheese with crackers\n****\nPolish sausage with fermented cabbage",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n3. Pork chops glazed with milk and cooked without nuts\n4. Roasted almonds\n5. Pulled pork barbeque made with ground pork\n6. Chopped French duck confit preserved by duck oil\n7. Slow cooker carnitas pork made with pork shoulder roast\n8. Pork shoulder roast that is low fat and high protein\n9. Dog food made from pork, green beans, cheddar cheese and brown rice\n10. Pepper pork tendies seasoned with salt & pepper\n'''",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Grilled salmon seasoned with salt and pepper\n3. Queso made from melted cheese and chili peppers\n4. Assorted cheese soup with chicken\n5. Polish sausage with fermented cabbage\n6. Sausage (pork) and apples\n7. Shredded barbecued pork shoulder\n8. Soup made with pork, green beans, cheddar cheese and brown rice\n9. Chopped French duck confit preserved by duck oil\n10. Garlic bread with cheddar, green onions, and mayonnaise\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat soups made with greek yogurt, and pineapple\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Grilled salmon seasoned with salt and pepper\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Chowder made from shrimp, onions, and scallops\n5. Cheese and olive appetizer made to look like an eyeball\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Mozzarella cheese sticks with marinara sauce\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Mozzarella dip recipe\n10. Pork chops glazed with milk and cooked without nuts",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Shredded barbecued pork shoulder\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Dog food made from pork, green beans, cheddar cheese and brown rice\n8. Assortment of cheese soup with chicken\n9. Cheese with crackers\n10. Spanish rice with chicken breast\nSoup made with shrimp, onions, and scallops\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Mildly spicy chili recipe\n5. Assorted cheese soup with chicken\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Cheese and vegetable soup with a beer broth\n9. Low fat sweet potato fries made with cajun seasoning\n10. Soup made with cabbage, carrots, potatoes, and onions",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein vegetarian pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nCreamy base with dill flavoring, eggs, and noodles\nTofu stir-fry with noodles and vegetables\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nCalcium-rich soup made with broccoli and beans\nHomemade soup with chicken, noodles, and spices\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow fat assorted fruit dessert\n''''"
+        ]
+    }
+}

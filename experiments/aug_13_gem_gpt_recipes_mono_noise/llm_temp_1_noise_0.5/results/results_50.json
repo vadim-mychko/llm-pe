@@ -1,0 +1,58 @@
+{
+    "50": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like oatmeal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low fat diced baked or fried potatoes\n****\n Roasted almonds\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n High protein skillet with rice and vegetables\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Cheese and vegetable soup with a beer broth\n****\n Spanish rice with chicken breast\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGrilled salmon seasoned with salt and pepper\n****\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\n****\nCheese and olive appetizer made to look like an eyeball\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nBaked spinach quiche containing bacon\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nRoasted almonds\n****\nMozzarella dip recipe",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nItalian salad made from romain lettuce, artichokes, and tomatoes\nBaked mozzarella cheese sticks with marinara sauce\nChicken breasts stuffed with bacon and mozzarella\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBread made swiss style with swiss cheese\nCheese with crackers\n'''",
+            "Italian salad made from romain lettuce, artichokes, and tomatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nCheese and vegetable soup with a beer broth\nAssorted cheese soup with chicken\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nBaked salmon fillets grilled in a pan with herbs and spices",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked spinach quiche containing bacon\nSpani\n`````````sh rice with chicken breast\nKorean soup containing beef brisket and flavoured with red pepper powder\nPeppermint chocolate bonbon",
+            " Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Mildly spicy chili recipe\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Spanish rice with chicken breast\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Baked spinach quiche containing bacon",
+            " High protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBaked breakfast bars made with nuts and seeds\nSpaghetti noodles with mussels, anchovy fillets, and capers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpanish rice with chicken breast\nBroccoli cheese soup\nChicken fried rice\nPad thai\nVegetable lasagna\nTofu stir fry\nCreamy tomato soup\nLow fat chili\nKale, potato, and sausage soup\nChicken pot pie\nEnchiladas\nTaco soup\nVegetable soup\nPasta salad\nTaco salad\nTuna casserole\nScrambled eggs with cheese\nBaked chicken\nGrilled cheese sandwich\nSpaghetti and meatballs\nMacaroni and cheese\nMashed potatoes\nGreen bean casserole\nSalad\nMeatloaf\nPot roast\nPizza\nBurgers\nHot dogs\n",
+            "1 Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2 High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3 2-ingredient yogurt from scratch\n4 Grilled salmon seasoned with salt and pepper\n5 Spaghetti noodles with mussels, anchovy fillets, and capers\n6 Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7 Roasted almonds\n8 Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9 Spanish rice with chicken breast\n10 Italian salad made from romain lettuce, artichokes, and tomatoes",
+            "Baked breakfast bars made with nuts and seeds\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nCheese and olive appetizer made to look like an eyeball\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nVery low-fat assortment of shredded vegetables with seasoning\nItalian salad made from romain lettuce, artichokes, and tomatoes\nBaked spinach quiche containing bacon\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu"
+        ]
+    }
+}

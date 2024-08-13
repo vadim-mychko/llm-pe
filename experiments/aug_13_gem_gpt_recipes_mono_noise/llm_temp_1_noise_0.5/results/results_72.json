@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Do you like bread based dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer dishes made with pork meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes made with chicken meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dishes that are soups or stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dishes that are sweet?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Garlic bread with cheddar, green onions, and mayonnaise\n2. Bread made swiss style with swiss cheese\n3. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n4. Baked spinach quiche containing bacon\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. Almonds coated with butter and salt\n9. Digestion-friendly waffles\n10. Eggless sauerkraut cake",
+            "*****\n1. Bread made swiss style with swiss cheese\n2.Digestion-friendly waffles\n3. Peanut butter cookies\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Pork chops glazed with milk and cooked without nuts\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7.Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n10. Oatmeal with yogurt, banana, and honey\n*****",
+            " Sandwich made with: grilled / broiled marinated chicken\n****\nGarlic bread with cheddar, green onions, and mayonnaise\n****\nBaked breakfast bars made with nuts and seeds\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nPeppermint chocolate bonbon\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Garlic bread with cheddar, green onions, and mayonnaise\nBread made swiss style with swiss cheese\nBaked spinach quiche containing bacon\nBaked breakfast bars made with nuts and seeds\nDigestion-friendly waffles\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nSmoothie made from banana puree with milk\nEggless sauerkraut cake",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n ****\n Grilled salmon seasoned with salt and pepper\n ****\n Salmon fillets grilled in a pan with herbs and spices\n ****\n Salmon roasted with olive oil, chives, and tarragon leaves\n ****\n Roasted almonds\n ****\n Almonds coated with butter and salt\n ****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n ****\n Mozzarella cheese baked sticks with marinara sauce\n ****\n Mozzarella dip recipe\n ****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken cooked and flavored with lemon sauce\nBaked spinach quiche containing bacon\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat diced baked or fried potatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Mozzarella dip recipe\n6. Cheese with crackers\n7. Cheese and vegetable soup with a beer broth\n8. Low fat diced baked or fried potatoes\n9. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n10. Queso made from melted cheese and chili peppers",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nAssorted cheese soup with chicken\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSwiss cheese bread\nGarlic bread with cheddar, green onions, and mayonnaise\nFrench chocolate cake\nPeppermint chocolate bonbon\nCheesecake made with cream cheese",
+            "Mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nBaked spinach quiche containing bacon\nMeatballs made with ground beef and ground pork\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBresd made swiss style with swiss cheese\nAssorted cheese soup with chicken\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            " Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nLow fat diced baked or fried potatoes\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nChocolate and orange-flavoured smoothie\nRoasted almonds\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage\n"
+        ]
+    }
+}

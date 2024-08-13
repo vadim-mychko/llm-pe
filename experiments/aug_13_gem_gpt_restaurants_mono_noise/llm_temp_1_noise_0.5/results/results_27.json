@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in hotdogs?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically looking for bar food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "How important is American food to you?",
+                "response": "not important"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking a location that also provides fries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food that also serves breakfast?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Lucky's Last Chance\n Federal Donuts \n CinCin Restaurant \n Fuji Mountain \n The QUICK FIXX \n The Green Line Cafe \n Spread Bagelry \n CJ & Eck's \n Steve's Prince of Steaks\n New York Gyro Truck",
+            " Lucky's Last Chance\nWishbone\nBlackbird Pizzeria\nFounding Fathers Sports Bar & Grill\nFranklin's\nLisa's Kitchen\nMisconduct Tavern\nThe Tavern Restaurant \nFive Guys\nPaddy's Old City Pub",
+            "Lucky's Last Chance \nLove & Honey Fried Chicken \nGreen Leafs & Bananas \nLisa's Kitchen \nThe QUICK FIXX \nFranklin's \nChestnut 7 \nFounding Fathers Sports Bar & Grill \nJD Mcgillicuddy's Manayunk \nMisconduct Tavern",
+            "The Blue Duck \\n\nMisconduct Tavern \\n\nTrolley Car Diner \\n\nWawa \\n\nFive Guys \\n\nRoy-Pitz Barrel House \\n\nLucky's Last Chance \\n\nFranklin's \\n\nLisa's Kitchen \\n\nFederal Donuts",
+            "Jack's Firehouse \nLucky's Last Chance \nFederal Donuts \nFranklin's \nWishbone \nLove & Honey Fried Chicken \nOteri's Italian Bakery | North 5th St \nLisa's Kitchen \nMcMenamin's Tavern \nFounder's Tavern",
+            "Lucky's Last Chance \nFive Guys \nMisconduct Tavern \nWishbone \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nThe El Bar \nFederal Donuts ",
+            "Lucky's Last Chance \nMad River Manayunk \nWishbone \nPaddy's Old City Pub \nFive Guys \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nMisconduct Tavern \nCantina Los Caballitos \nThe Grill  Smuckers",
+            "1. Lucky's Last Chance\n2. Love & Honey Fried Chicken\n3. Jack's Firehouse\n4. JD Mcgillicuddy's Manayunk\n5. Franklin's\n6. Wishbone\n7. Chickie's & Pete's\n8. The Goat's Beard\n9. Pyramid Club\n10. Misconduct Tavern",
+            "Lucky's Last Chance \nWishbone \nJD Mcgillicuddy's Manayunk \nFranklin's \nFederal Donuts \nBetty's Speakeasy \nSteve's Prince of Steaks \nFive Guys \nMisconduct Tavern \nLisa's Kitchen \nMacaroni's Restaurant \nThe Tavern Restaurant \nLucky's Last Chance \nMad River Manayunk",
+            "1. Lucky's Last Chance\n2. Misconduct Tavern\n3. Castellino's \n4. Franklin's \n5. JD Mcgillicuddy's Manayunk\n6. Betty's Speakeasy \n7. Lisa's Kitchen \n8. Roy-Pitz Barrel House \n9. The Blue Duck \n10. Love & Honey Fried Chicken"
+        ]
+    }
+}

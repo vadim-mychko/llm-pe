@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an animated family film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a children's movie that is about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "yes"
+            },
+            {
+                "query": "I can see you have watched a few animated family films recently. Would you prefer an animated film that is not a family film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sci-fi or fantasy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated comedy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated adventure film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a live action family film?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Movie Title: Monsters, Inc. (2001)\nMovie Title: Runaway Train (1985)\nMovie Title: Tomb Raider (2018)\nMovie Title: August Rush (2007)\nMovie Title: The Land Before Time (1988)\nMovie Title: The Secret of Kells (2009)\nMovie Title: Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\nMovie Title: Homeward Bound: The Incredible Journey (1993)\nMovie Title: 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nMovie Title: How High (2001)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Secret of Kells (2009)\n4. Land Before Time, The (1988)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Homeward Bound: The Incredible Journey (1993)\n7. The Big Red One (1980)\n8. Real Genius (1985)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n'''",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Land Before Time (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. American Graffiti (1973)\n6. Real Genius (1985)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Secret of Kells, The (2009)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Meet John Doe (1941)\n2. Intolerable Cruelty (2003)\n3. Jane Eyre (1996)\n4. Stranger than Fiction (2006)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Big Red One, The (1980)\n7. Coporation, The (2003)\n8. Big Lebowski, The (1998)\n9. August Rush (2007)\n10. Control (2007)\n",
+            "Monsters, Inc. (2001) \nAugust Rush (2007) \nAnimation, Drama, Musical\nThe Land Before Time (1988)\nChildren, Drama, Fantasy\nSecret of Kells, The (2009)\nAnimation, Fantasy\nHomeward Bound: The Incredible Journey (1993)\nAdventure, Children, Drama\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nAnimation, Drama, Romance\nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nDrama, War\nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\nDrama\nThe Secret Life of Pets (2016)\nAdventure, Animation, Comedy",
+            "Monsters, Inc. (2001) \nThe Secret of Kells (2009) \nAnt-Man (2015) \nReady Player One \nAugust Rush (2007) \nThe Land Before Time (1988) \nHomeward Bound: The Incredible Journey (1993) \nHachi: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \nRobots (2005) \nSing (2016)\nFantastic Mr. Fox (2009)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Monsters, Inc. (2001)\n3. August Rush (2007)\n4. The Secret of Kells (2009)\n5. The Land Before Time (1988)\n6. Ant-Man (2015)\n7. Real Genius (1985)\n8. Big Red One, The (1980)\n9. Alita: Battle Angel (2019)\n10. Ready Player One",
+            "1. Monsters, Inc. (2001)\n2. The Land Before Time (1988)\n3. Homeward Bound: The Incredible Journey (1993)\n4. August Rush (2007)\n5. An American Tail (1986)\n6. Brave (2012)\n7. Big Hero 6 (2014)\n8. Coraline (2009)\n9. Despicable Me (2010)\n10. Finding Nemo (2003)",
+            "****\n Monsters, Inc. (2001) \n****\n August Rush (2007) \n****\n The Land Before Time (1988) \n****\n Homeward Bound: The Incredible Journey (1993) \n****\n The Secret of Kells (2009) \n****\n Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n****\n Enter the Void (2009) \n****\n Mr. Holmes (2015) \n****\n 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n****\n The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n****",
+            "1. Monsters, Inc. (2001) \n2. August Rush (2007) \n3. Ant-Man (2015) \n4. A.I. Artificial Intelligence (2001) \n5. Homeward Bound: The Incredible Journey (1993) \n6. Big Red One, The (1980) \n7. American Graffiti (1973) \n8. Trapped (2002) \n9. Robot & Frank (2012) \n10. Real Genius (1985)"
+        ]
+    }
+}

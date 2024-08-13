@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant serving sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American New restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with bars?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer restaurants serving vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food delivery services for a restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants located within walking distance?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in ethnic food restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant serving burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that serve salads?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nLe Pain Quotidien\nCinCin Restaurant\nFederal Donuts\nFuji Mountain\nRoy-Pitz Barrel House",
+            "Daleng Restaurant\nFuji Mountain\nGran Caffe L'Aquila\nIzumi\nKC's Pastries\nMiga Korean BBQ & Sushi\nOishii Pok\u00e9\nOteri's Italian Bakery | North 5th St\nSang Kee Peking Duck House\nTu's Tea & Banh Mi South Philly",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nFederal Donuts \\n\nHeritage \\n\nGrain Exchange \\n\nIzumi",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nThe Tasty Toast \nHeritage \nKokopelli Restaurant & Tequila Bar",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Lacroix Restaurant at The Rittenhouse\n4. Germantown Garden\n5. The Fresh Grocer - Progress Plaza\n6. Roy-Pitz Barrel House\n7. The QUICK FIXX\n8. Jack's Firehouse\n9. Lisa's Kitchen\n10. The Cheesecake Factory",
+            " Golden Triangle \n Daleng Restaurant \n Grain Exchange \n Lacroix Restaurant at The Rittenhouse \n Pearl's Oyster Bar \n The Juice Merchant \n Baan Thai \n Bistrot SouthEast \n Indian Restaurant \n Oishii Pok\u00e9",
+            "1. Golden Triangle \n2. The Juice Merchant \n3. Le Pain Quotidien \n4. Premiere Hoagies \n5. A Tutti, Ristorante \n6. Castello's \n7. Locust Rendezvous \n8. Tavern On the Hill \n9. Canton 11 \n10. The Continental Restaurant ",
+            "1. Jake's & Cooper's Wine Bar & Wine Shop\n2. Macaroni's Restaurant\n3. Cook and Shaker\n4. Chestnut 7\n5. Blackbird Pizzeria\n6. The QUICK FIXX\n7. Ristorante La Buca\n8. Fiore Fine Foods\n9. The Cheesecake Factory\n10. Audrey Claire",
+            "- Mugshots Coffeehouse\n- Greensgrow Farm\n- The Farm and Fisherman Tavern and Market\n- The Corner\n- High Point Cafe\n- Essenes\n- Grocer & Cooporator\n- Dottie's Donuts\n- The Black Cat\n- Graffiti Bar\n- 12 Steps Down\n- Maken Arts & Events\n- Wine Dive\n- Prohibition Taproom\n- Kraftwork",
+            "1. Lacroix Restaurant at The Rittenhouse\n2. Tavern On the Hill\n3. The Continental Restaurant and Martini Bar\n4. Jack's Firehouse\n5. Parc\n6. Taproom on 19th\n7. Philadelphia Taproom\n8. Fork\n9. Lucky's Last Chance\n10. Macaroni's Restaurant"
+        ]
+    }
+}

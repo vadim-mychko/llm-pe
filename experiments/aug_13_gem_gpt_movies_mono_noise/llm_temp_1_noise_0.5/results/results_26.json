@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in movies for children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama about an elderly man?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies from the 1990's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama about the Great Depression?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies about new technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in Japan?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black comedy?\n++++",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies made by Guillermo del Toro?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie based on a true story?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about World War II?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. The Proposition (2005)\n4. Man on Fire (2004)\n5. Terminator 3: Rise of the Machines (2003)\n6. The Thomas Crown Affair (1968)\n7. Transporter 2 (2005)\n8. The Big Red One (1980)\n9. Intolerable Cruelty (2003)\n10. Brewster's Millions (1985)",
+            "1. Umberto D. (1952)\n2. August Rush (2007)\n3. Magnolia (1999)\n4. Grapes of Wrath, The (1940)\n5. Terms of Endearment (1983)\n6. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n7. Secret of Kells, The (2009)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n9. Hurricane, The (1999)\n10. We Bought a Zoo (2011)",
+            "Umberto D. (1952) \n********\nThe Big Red One (1980) \n********\nThe Hurricane (1999) \n********\nControl (2007) \n********\nTerms of Endearment (1983) \n********\nLa Cage aux Folles, Le (1978) \n********\nHachiko: A Dog's Story (2009) \n********\nThe Fly (1986) \n********\nThe Grapes of Wrath (1940) \n********\nThe Departed (2006) \n********",
+            "1. Grapes of Wrath, The (1940)\n2. Autumn Sonata (H\u00f6stsonaten) (1978)\n3. Meet John Doe (1941)\n4. Umberto D. (1952)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Mr. Holmes (2015)\n7. Robot & Frank (2012)\n8. Cronos (1993)\n9. Big Lebowski, The (1998)\n10. American Graffiti (1973)",
+            "1. Meet John Doe (1941)\n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n3. Big Red One, The (1980)\n4. A.I. Artificial Intelligence (2001)\n5. Timeline (2003)\n6. The Last Supper (1995)\n7. Grapes of Wrath, The (1940)\n8. Umberto D. (1952)\n9. Brewster's Millions (1985)\n10. Black Robe (1991)",
+            "1. Grapes of Wrath, The (1940)\n2. Grumpier Old Men (1995)\n3. Boys and Girls (2000)\n4. Little Children (2006)\n5. Fantastic Mr. Fox (2009)\n6. Up (2009)\n7. Toy Story 3 (2010)\n8. The Artist (2011)\n9. Parasite (2019)\n10. Nomadland (2020)",
+            "1. Last Supper, The (1995)\n2. Dogtooth (Kynodontas) (2009)\n3. Death of Stalin, The (2017)\n4. Fargo (1996)\n5. In Bruges (2008)\n6. Frances Ha (2012)\n7. Amelie (Le Fabuleux Destin d'Am\u00e9lie Poulain) (2001)\n8. To Die For (1995)\n9. What We Do in the Shadows (2014)\n10. The Life Aquatic with Steve Zissou (2004)",
+            "1. The Grapes of Wrath (1940) \n2. Face/Off (1997) \n3. The Proposition (2005) \n4. Delicatessen (1991) \n5. Brewster's Millions (1985) \n6. The Last Supper (1995) \n7. Crimes and Misdemeanors (1989) \n8. Intolerable Cruelty (2003) \n9. Darkman (1990)\n10. Bruce Almighty (2003) ",
+            "1. Enter the Void (2009)\n2. American Graffiti (1973)\n3. Departed, The (2006)\n4. Darkman (1990)\n5. Stranger than Fiction (2006)\n6. Before the Devil Knows You're Dead (2007)\n7. Intolerable Cruelty (2003)\n8. Big Lebowski, The (1998)\n9. Brewster's Millions (1985)\n10. Meet John Doe (1941)",
+            "Meet John Doe (1941) \\n\nIntolerable Cruelty (2003) \\n\nBruce Almighty (2003) \\n\nLast Supper, The (1995) \\n\nTrapped (2002) \\n\nDarkman (1990) \\n\nCronos (1993) \\n\nNetwork, The (Sidney Lumet) (1976) \\n\nThe Taking of Pelham One Two Three (1974) \\n\nThe Apartment (1960) \\n"
+        ]
+    }
+}

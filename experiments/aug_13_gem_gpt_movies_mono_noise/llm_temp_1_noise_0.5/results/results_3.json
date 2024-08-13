@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Is the movie set in medieval times?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a character that is physically different?",
+                "response": "no"
+            },
+            {
+                "query": "Does the movie have a theme of friendship?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a crime storyline?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with an action-based storyline?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a foreign film?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Tomb Raider (2018)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. One Hour Photo (2002)\n7. Terminator 3: Rise of the Machines (2003)\n8. Meet John Doe (1941)\n9. The Thomas Crown Affair (1968)\n10. Big Lebowski, The (1998)\n",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Tomb Raider (2018) \n4. Last Temptation of Christ, The (1988) \n5. August Rush (2007) \n6. Laura (1944) \n7. Blair Witch Project, The (1999) \n8. Proposition, The (2005) \n9. Abraham Lincoln: Vampire Hunter (2012) \n10. Runaway Train (1985)\n''''",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. The Proposition, The (2005)\n3. October Sky (1999)\n4. The Fast and Furious: Tokyo Drift (2006)\n5. The Black Hole (1979) \n6. A.I. Artificial Intelligence (2001) \n7. Lost in Translation (2003) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n10.Mad Max: Fury Road (2015)",
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. The Last Temptation of Christ (1988)\n4. Santa Sangre (1989)\n5. The Proposition (2005)\n6. One Hour Photo (2002)\n7. Dracula (Bram Stoker's Dracula) (1992)\n8. Autumn Sonata (H\u00f6stsonaten) (1978)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Arsenic and Old Lace (1944)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Last Action Hero (1993)\n5. Man from Earth, The (2007)\n6. We Bought a Zoo (2011)\n7. Out of Sight (1998)\n8. The Sure Thing (1985)\n9. Europa (Zentropa) (1991)\n10. Timeline (2003)",
+            "1. Searching (2018) \n2. Intolerable Cruelty (2003)\n3. The Big Red One (1980)\n4. The Grapes of Wrath (1940)\n5. Jane Eyre (1996)\n6. American Graffiti (1973)\n7. All Quiet on the Western Front (1930)\n8. Real Genius (1985)\n9. von Ryan's Express (1965)\n10. Last Supper, The (1995)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Von Ryan's Express (1965)\n3. Face/Off (1997)\n4. Black Robe (1991)\n5. Trapped (2002)\n6. Breach (2007)\n7. Outbreak (1995)\n8. The Corporation (2003)\n9. What's Up, Doc? (1972)\n10. Sure Thing, The (1985)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Laura (1944) \n3. The Proposition (2005)\n4. Terminator 3: Rise of the Machines (2003)\n5. The Thomas Crown Affair (1968)\n6. Timeline (2003)\n7. The Grapes of Wrath (1940)\n8. Lost Robe (1991)\n9. The Boy in the Striped Pajamas (2008)\n10. Alita: Battle Angel (2019)",
+            "1. Big Red One, The (1980)\n2. Grapes of Wrath, The (1940)\n3. Mr. Holmes (2015)\n4. Robot & Frank (2012)\n5. Strange than Fiction (2006)\n6. Thomas Crown Affair, The (1968)\n7. Umberto D. (1952)\n8. Von Ryan's Express (1965)\n9. Europa (Zentropa) (1991)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Don't Be a Menace to South Central While Drinking Your Juice in the Hood \n2. Moana (2016)\n3. Ferris Bueller's Day Off (1986) \n4. Talladega Nights: The Ballad of Ricky Bobby (2006) \n5. Home Alone (1990)\n6. Airplane! (1980)\n7. Shaun of the Dead (2004) \n8. Grandma's Boy (2006) \n9. Baseketball (1998) \n10. Happy Gilmore (1996)\n"
+        ]
+    }
+}

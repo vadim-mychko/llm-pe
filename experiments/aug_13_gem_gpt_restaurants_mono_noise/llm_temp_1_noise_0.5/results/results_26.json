@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a cheese shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in  pizzeria?",
+                "response": "no"
+            },
+            {
+                "query": "Are you hungry for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a juice bar that has smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Is alcohol on your mind?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Castellino's \n2. Talluto's Authentic Italian Food \n3. Saffron Indian Bistro \n4. KC's Pastries \n5. Zio's Italian Kitchen \n6. The Chopping Block Cheesesteaks \n7. Giorgio on Pine \n8. Termini Brothers Bakery \n9. Caffe Umbria \n10. Pizzeria Stella",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nVeda - Modern Indian Bistro \nSang Kee Peking Duck House \nBistro SouthEast \nRistorante La Buca \nAudrey Claire \nMalbec Argentine Steakhouse \nThe Cheesecake Factory \nOishii Pok\u00e9",
+            "Water Works Restaurant & Lounge\nPearl's Oyster Bar\nRistorante La Buca\nAudrey Claire\nVeda - Modern Indian Bistro\nBistro SouthEast\nCafe L'Aube\nIzumi\nThe Grill  Smuckers\nFuji Mountain",
+            "Water Works Restaurant & Lounge \nRistorante La Buca \nPearl's Oyster Bar \nThe Cheesecake Factory \nAudrey Claire \nFuji Mountain \nFederal Donuts \nValley Green Inn \nBistro SouthEast \nThe Grill  Smuckers",
+            "- Water Works Restaurant & Lounge \n- Pearl's Oyster Bar \n- Ristorante La Buca \n- Audrey Claire \n- Bistro SouthEast \n- Golden Triangle \n- Daleng Restaurant \n- Izumi \n- Fuji Mountain \n- A Tutti, Ristorante Italiano",
+            "Ristorante La Buca\nPearl's Oyster Bar\nWater Works Restaurant & Lounge \nThe Continental Restaurant and Martini Bar\nAudry Claire\nFounding Father's Sports Bar & Grill\nThe Green Line Cafe\nMcMenamin's Tavern\nSteve's Prince of Steaks\nThe Blue Duck\nTrolley Car Diner",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Daleng Restaurant \n4. Crust Vegan Bakery\n5. Federal Donuts\n6. Heritage\n7. Valley Green Inn\n8. Bistro SouthEast\n9. Canton 11\n10. Dim Sum House",
+            "Pearl's Oyster Bar\nRistorante La Buca\nThe QUICK FIXX\nRiver Seafood Company\nChestnut 7\nWishbone \nFranklin's\nLisa's Kitchen \nLuvh Vegan Deli\nSteve's Prince of Steaks",
+            "1. Tavern On the Hill \n2. Wishbone \n3. Mad River Manayunk \n4. Paddy's Old City Pub \n5. Misconduct Tavern \n6. Macaroni's Restaurant \n7. Pearl's Oyster Bar \n8. Lisa's Kitchen \n9. Franklin's \n10. Founding Fathers Sports Bar & Grill",
+            "Water Works Restaurant & Lounge \nAudrey Claire \nParc \nPearl's Oyster Bar \nRistorante La Buca \nFranklin's \nBlackbird Pizzeria \nLisa's Kitchen \nBistro SouthEast \nTavern On the Hill"
+        ]
+    }
+}

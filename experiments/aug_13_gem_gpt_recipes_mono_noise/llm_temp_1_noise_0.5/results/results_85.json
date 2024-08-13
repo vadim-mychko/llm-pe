@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like or prefer to eat pork based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat turkey meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles or rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken breast meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer to eat vegetables instead of fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat potatoes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "*****\n Mildly spicy chili recipe\n****\n Chocolate and orange-flavoured smoothie\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Sweet salad made with corn and three types of beans\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Vietnamese pork and vermicelli rice noodle salad\n****\n Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****",
+            "Baked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nLow fat diced baked or fried potatoes\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nHomemade soup with chicken, noodles, and spices\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nBaked breakfast bars made with nuts and seeds\n****\nBaked spinach quiche containing bacon\n****\nPeppermint chocolate bonbon\n****\nGrilled salmon seasoned with salt and pepper\n****\nAlmonds coated with butter and salt\n****\nBread made swiss style with swiss cheese\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nCheese with crackers\n****\nClassic salad with creamy caesar dressing and croutons\n****\nChicken cooked and flavored with lemon sauce\n****\nSweet salad made with corn and three types of beans\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nRoast turkey with plum sauce\n****\nCalcium-rich soup made with broccoli and beans\n****\nAlmonds coated with butter and salt\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nSpanish rice with chicken breast\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nHot pot that is not spicy\n****\nRoasted almonds\n****\nMushy peas that are soft\n****\nSmoothie made from banana puree with milk\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nBanana bread made with whole wheat flour and walnuts\n****\nLow-fat coconut alcohol-free cocktail\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nCheese and vegetable soup with a beer broth\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n**** \nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nMildly spicy chili recipe\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nSoup made from onions, carrots, and celery ribs\n****\nChocolate and orange-flavoured smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nCheesecake made with cream cheese\n****",
+            " --------------------------------------------------------\n|         |                                               |\n --------------------------------------------------------\n|  Rank || Dish                                            |\n --------------------------------------------------------\n|   1   || Grilled salmon seasoned with salt and pepper       |\n --------------------------------------------------------\n|   2   || Salmon roasted with olive oil, chives, and tarragon |\n --------------------------------------------------------\n|   3   || Salmon cooked in the oven, seasoned with garlic    |\n|       || onion, cumin, dill, and lime                     |\n --------------------------------------------------------\n|   4   || Low fat sweet potato fries made with cajun         |\n|       || seasoning                                      |\n --------------------------------------------------------\n|   5   || Soup made with cabbage, carrots, potatoes, and     |\n|       || onions                                           |\n --------------------------------------------------------\n|   6   || Simple creamy oyster soup                        |\n --------------------------------------------------------\n|   7   || Very low-fat assortment of shredded vegetables    |\n|       || with seasoning                                 |\n --------------------------------------------------------\n|   8   || Soup made with ground turkey that is low fat,     |\n|       || high carb                                       |\n --------------------------------------------------------\n|   9   || Low sugar applesauce cupcakes                    |\n --------------------------------------------------------\n|  10   || Grilled squash, zucchinis, tomatoes and            |\n|       || mushrooms seasoned with balsamic vinegar and     |\n|       || herbs                                            |\n --------------------------------------------------------",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti made from year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow fat sweet potato fries made with cajun seasoning\nHigh protein skillet with rice and vegetables\nAssorted cheese soup with chicken\nTurkey cooked and flavored with lemon sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers \n'''",
+            " Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat soup made with ground turkey that is low fat, high carb\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nCreamy base with dill flavoring, eggs, and noodles\nTurkey meat with mashed potatoes and gravy\nHearty turkey chili\nThanksgiving turkey stuffing that is made with flavored ground turkey meat, vegetable stock, onions, celery, and carrots\nRoast turkey with plum sauce",
+            " Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nBaked breakfast bars made with nuts and seeds\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nTurkey with plum sauce\n****\nShredded barbecued pork shoulder\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSoup with ground turkey that is low fat, high carb\n****\nEasy turkey, green beans, and potatoes in one pot\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****",
+            "Broccoli and bean calcium-rich soup\nTurkey and assorted shredded vegetable soup\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHomemade soup with chicken, noodles, and spices\nLow fat pork chops glazed with milk and cooked without nuts\nChicken cooked and flavored with lemon sauce\nLow fat smoothies made from greek yogurt, and pineapple\nQueso made from melted cheese and chili peppers\nLow sugar applesauce cupcakes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "Turkey noodles or rice with a mixture of turkey, bacon, chicken broth, and seasoned\nLow fat baked breakfast pie made with sausage (pork) and apples\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSandwich made with: grilled / broiled marinated chicken\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nNorwegian cake with lingonberry and whipped cream layers",
+            "1. High protein skillet with rice and vegetables\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n6. Baked spinach quiche containing bacon\n7. Turkey stuffed with apples and potatoes\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Chicken breast cooked with apples, green onions, and butter \n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n",
+            "High protein skillet with rice and vegetables\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nTurkey cooked and flavored with lemon sauce\nBaked breakfast bars made with nuts and seeds\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow fat breakfast pie made with sausage (pork) and apples\nTurkey breast marinated in orange mojo\nPeppermint chocolate bonbon\nChicken and yellow rice\n"
+        ]
+    }
+}

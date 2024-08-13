@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in chicken shop options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer vegan or vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "How do you feel about international cuisine, like sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Vietnamese sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a pizza place?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Italian pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican style pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Federal Donuts \nWishbone \nLove & Honey Fried Chicken \nJack's Firehouse \nFranklin's \nLisa's Kitchen \nChickie's & Pete's Crab House & Sports Bar \nFive Guys \nRoy-Pitz Barrel House \nLucky's Last Chance",
+            "Daleng Restaurant \nGolden Triangle \nMalbec Argentine Steakhouse \nPearl's Oyster Bar \nPure Tacos \nBaan Thai \nCanton 11 \nfuji Mountain \nAudrey Claire \nLucky's Last Chance",
+            "1. Monster Vegan\n2. Hey Hummus \n3. Green Leafs & Bananas\n4. Betty's Speakeasy \n5. Vedge \n6. Benna's Cafe \n7. Luhv Vegan Deli \n8. Spread Bagelry \n9. Cafe L'Aube\n10. Fiore Fine Foods",
+            "Pure Tacos \nMiga Korean BBQ & Sushi \nBistro SouthEast \nVedge \nHey Hummus \nBlackbird Pizzeria \nThe QUICK FIXX \nOishii Pok\u00e9 \nAudrey Claire \nCafe L'Aube",
+            "1. Izumi \n2. Miga Korean BBQ & Sushi \n3. Federal Donuts \n4. Monster Vegan \n5. Rossario's Pizzeria & Mozzarella Bar \n6. Blackbird Pizzeria \n7. Hey Hummus \n8. Vedge \n9. Fiore Fine Foods \n10. Benna's Cafe",
+            "Monster Vegan \nVedge \nHey Hummus \nMiga Korean BBQ & Sushi \nBlackbird Pizzeria \nTHE QUICK FIXX \nLuvh Vegan Deli \nThe Green Line Cafe \nGran Caffe L'Aquila \nOishii Pok\u00e9",
+            "CinCin Restaurant \nHeritage \nMonster Vegan \nBlackbird Pizzeria \nMiga Korean BBQ & Sushi \nMong Kok Station \nEvan's Pizza \nCastellino's \nZuzus Kitchen \nZuzu's Kitchen \nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nChestnut 7\nRoy-Pitz Barrel House\nPizza Shackamaxon\nMonster Vegan\nThe QUICK FIXX\nBlackbird Pizzeria\nThe Blue Duck\nFiore Fine Foods",
+            "Roy-Pitz Barrel House \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nCinCin Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nGran Caffe L'Aquila \nBetty's Speakeasy \nZuzu's Kitchen \nLove & Honey Fried Chicken \nParc",
+            "1. Franklins \n2. Lucky's Last Chance \n3. Chicken and Whiskey \n4. K Fry \n5. Wishbone \n6. Lisa's Kitchen \n7. Miga Korean BBQ & Sushi \n8. Blackbird Pizzeria \n9. Fiore Fine Foods \n10. Pizzaz! Georgetown Pike \u2013 Arlington\n''''"
+        ]
+    }
+}

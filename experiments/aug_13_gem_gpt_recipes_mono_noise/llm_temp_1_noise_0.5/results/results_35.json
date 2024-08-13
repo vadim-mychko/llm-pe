@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meats?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet foods?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Poke of tofu, mushroom and tomatoes\n****\n Soup made with shrimp, onions, and scallops\n****\n Grilled salmon seasoned with salt and pepper\n****\n Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Soup made with onions, carrots, and celery ribs\n****\n Simple creamy oyster soup\n****\n Salmon fillets grilled in a pan with herbs and spices\n****",
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Fried shrimp and scallops\n3. Grilled salmon seasoned with salt and pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Soup made with shrimp, onions, and scallops\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Poke of tofu, mushroom and tomatoes\n10. Cheese and vegetable soup with a beer broth\n",
+            "1. Poke of tofu, mushroom and tomatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Fried shrimp and scallops\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Shrimp and scallops soup with onions \n7. Norway cake with lingonberry and whipped cream layers\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Hot pot that is not spicy",
+            " Grilled shrimp and scallops\n****\n Fried shrimp and scallops\n****\n Jam made from blackberries, lemon juice, and sugar\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Chopped French duck confit preserved by duck oil\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Cheese and olive appetizer made to look like an eyeball\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Mozzarella dip recipe\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Fried shrimp and scallops\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Fried chicken breast\n7. Mozzarella sticks\n8. Sweet fried potato fries\n9. Grilled salmon\n10. Chopped French duck confit preserved by duck oil\n'''",
+            " Fried shrimp and scallops \n Cream of asparagus with halibut \n Creamy base with dill flavoring, eggs, and noodles \n Salmon fillets grilled in a pan with herbs and spices\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n Salmon roasted with olive oil, chives, and tarragon leaves\n Shrimp and crab pasta\n Baked mozzarella cheese sticks with marinara sauce \n Queso made from melted cheese and chili peppers \n Mozzarella dip recipe",
+            "Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCheese and vegetable soup with a beer broth\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nQueso made from melted cheese and chili peppers\n****\nSmoothie made from fruit juice and bananas\n****\nBaked breakfast bars made with nuts and seeds\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Cheese and vegetable soup with a beer broth\n4. Homemade soup with chicken, noodles, and spices\n5. Soup made with shrimp, onions, and scallops\n6. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Baked salmon with olive oil, chives, and tarragon leaves\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Fried shrimp and scallops\n''''",
+            " Fried shrimp and scallops\n****\n\nCreamy base with dill flavoring, eggs, and noodles\n****\n\nSoups made with onions, carrots, and celery ribs\n****\n\nSoup with shrimp, onions, and scallops\n****\n\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\n\nBaked mozzarella cheese sticks with marinara sauce\n****\n\nSoup with ground turkey that is low fat, high carb\n****\n\nBroccoli and beans soup\n****\n\nSeafood soup\n****\n\nMozzarella dip recipe\n****",
+            "Creamy base with dill flavoring, eggs, and noodles\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSoup made with shrimp, onions, and scallops\nBaked mozzarella cheese sticks with marinara sauce\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard"
+        ]
+    }
+}

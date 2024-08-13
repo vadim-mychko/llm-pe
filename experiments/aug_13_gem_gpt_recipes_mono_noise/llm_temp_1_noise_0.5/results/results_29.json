@@ -1,0 +1,58 @@
+{
+    "29": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups made with seafood and shellfish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetable-based soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups made with chicken and turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like ground _____-based soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups made with pork meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups made with beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups made with vegetables only?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Chinese-style soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sweet soups?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Soup made with shrimp, onions, and scallops\n4. Soup made from onions, carrots, and celery ribs\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Soup made with vegetables and chicken\n7. Calcium-rich soup made with broccoli and beans\n8. Cheese and vegetable soup with a beer broth\n9. Simple creamy oyster soup\n10. Homemade soup with chicken, noodles, and spices\n",
+            " Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nGarlic bread with cheddar, green onions, and mayonnaise\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\n````",
+            "- Soup made with cabbage, carrots, potatoes, and onions\n- Beef stew made with beef, carrots and potatoes\n- Soup made with ground turkey that is low fat, high carb\n- Very low-fat assortment of shredded vegetables with seasoning\n- Soup made with onions, carrots, and celery ribs\n- Soup made with vegetables and chicken\n- Calcium-rich soup made with broccoli and beans\n- Cheese and vegetable soup with a beer broth\n- Polish sausage with fermented cabbage\n- Homemade soup with chicken, noodles, and spices\n- Mushy peas that are soft\n- Eggless sauerkraut cake\n- Banana bread made with whole wheat flour and walnuts\n- Baked mozzarella cheese sticks with marinara sauce\n- Mozzarella dip recipe\n- Meatballs made with ground beef and ground pork\n- Smoothies made from banana puree with milk",
+            " - Soup made with cabbage, carrots, potatoes, and onions\n- Soup made with ground turkey that is low fat, high carb\n- Creamy base with dill flavoring, eggs, and noodles\n- Low fat soup made with vegetables and chicken\n- Calcium-rich soup made with broccoli and beans\n- Soup made with onions, carrots, and celery ribs\n- Simple creamy oyster soup\n- Homemade soup with chicken, noodles, and spices\n- Polish sausage with fermented cabbage\n- Cheese and vegetable soup with a beer broth",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSoup made with vegetables and chicken\nCreamy base with dill flavoring, eggs, and noodles\nAssorted cheese soup with chicken\nSoup made with broccoli and beans\nVegetable-based soup\nCalcium-rich soup\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\n''''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with onions, carrots, and celery ribs\n3. Soup made with broccoli and beans\n4. Soup made with mixed vegetables  \n5. Calcium-rich soup made with broccoli and beans\n6. Cheese and vegetable soup with a beer broth\n7. Homemade soup with chicken, noodles, and spices\n8. Low fat shredded vegetables with seasoning\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Soup made with ground turkey that is low fat, high carb",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with onions, carrots, and celery ribs\n3. Soup made with vegetables and chicken\n4. Homemade soup with chicken, noodles, and spices\n5. Assorted cheese soup with chicken\n6. Calcium-rich soup made with broccoli and beans\n7. Cheese and vegetable soup with a beer broth\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Low fat assortment of shredded vegetables with seasoning\n10. Very low-fat assortment of shredded vegetables with seasoning\n",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with onions, carrots, and celery ribs\n3. Soup made with vegetables and chicken\n4. Vegetable-based soups\n5. Vegetarian vegetable soup\n6. Low sugar applesauce cupcakes\n7. Low-fat shredded vegetables with seasoning\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Grilled vegetables with Olive oil, cherry tomatoes\n10. Very low-fat assortment of shredded vegetables with seasoning\n'''",
+            "1. High protein skillet with rice and vegetables\n2. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. 2-ingredient yogurt from scratch\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Chopped French duck confit preserved by duck oil\n8. Smoked salmon bruschetta\n9. Swedish pear and cardamom cake\n10. Spaghetti using year round egg catsup noodles",
+            "1. South African vegetable curry flavoured with curry powder and ground tumeric\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Sweet salad made with corn and three types of beans\n4. Italian salad made from romain lettuce, artichokes, and tomatoes\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Cheese and vegetable soup with a beer broth\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Soup made with ground turkey that is low fat, high carb\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs"
+        ]
+    }
+}

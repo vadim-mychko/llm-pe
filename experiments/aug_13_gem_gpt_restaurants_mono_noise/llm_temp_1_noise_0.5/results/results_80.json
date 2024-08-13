@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ordering pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want some western food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that offers a combination of American cuisine, sandwiches, and bar service?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in French fries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Chicken Wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that offers western-styled sandwiches and beer or wine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nHeritage \nKokopelli Restaurant & Tequila Bar \nGrain Exchange \nIzumi",
+            "1. Zuzu's Kitchen \n2. Water Works Restaurant & Lounge \n3. Federal Donuts \n4. Green Leafs & Bananas \n5. Five Guys \n6. Olive Garden Italian Restaurant \n7. Monster Vegan \n8. Misconduct Tavern \n9. Canton 11 \n10. Paddy's Old City Pub",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nGrain Exchange\nFederal Donuts \nThe Green Line Cafe\nThe QUICK FIXX\nEvan's Pizza\nAudrey Claire",
+            " BISTRO\nThe Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nLisa's Kitchen \nGreen Leafs & Bananas \nFive Guys \nMonster Vegan \nTrolley Car Diner \nWawa",
+            "1. Misconduct Tavern\n2. Paddy's Old City Pub\n3. Macaroni's Restaurant\n4. Pearl's Oyster Bar\n5. Franklin's\n6. The Blue Duck\n7. Lisa's Kitchen\n8. Jack's Firehouse\n9. The Green Line Cafe\n10. Spread Bagelry\n",
+            "The Tavern Restaurant \\n\nMacaroni's Restaurant \\n\nJack's Firehouse \\n\nGrain Exchange \\n\nFederal Donuts \\n\nCinco de Mayo \\n\nAmerican Sardine Bar \\n\nThe Blue Duck \\n\nFranklin's \\n\nCook and Shaker",
+            "McMenamin's Tavern \nFounding Fathers Sports Bar & Grill \nJack's Firehouse \nMacaroni's Restaurant \nWishbone \nThe Green Line Cafe \nThe El Bar \nMisconduct Tavern\nThe Tavern Restaurant \nPaddy's Old City Pub",
+            "The Green Line Cafe\nThe Blue Duck \\n\nFive Guys \\n\nWawa \\n\nMad River Manayunk \\n\nMacaroni's Restaurant \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nPaddy's Old City Pub",
+            "1. Founding Fathers Sports Bar & Grill\n2. Mad River Manayunk\n3. JD Mcgillicuddy's Manayunk\n4. Franklin's\n5. Paddy's Old City Pub\n6. Griffin Lucky's Last Chance\n7. Love & Honey Fried Chicken\n8. Jack's Firehouse\n9. Tavern On the Hill\n10. Bloomsday Cafe",
+            "1. Chestnut 7\n2. Philadelphia Cheesesteak Factory \n3. Parc \n4. Jake's & Cooper's Wine Bar & Wine Shop \n5. The Green Line Cafe \n6. Founding Fathers Sports Bar & Grill \n7. Blackbird Pizzeria \n8. Cook and Shaker \n9. The Blue Duck \n10. Indochine"
+        ]
+    }
+}

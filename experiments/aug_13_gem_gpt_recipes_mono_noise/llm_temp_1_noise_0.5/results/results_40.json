@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a soup that is low-fat and contains ground turkey?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer grilled salmon or roasted salmon?",
+                "response": "i cannot answer the query as it is not related to the item description."
+            },
+            {
+                "query": "Do you like vegetarian soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in creamy soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetable soups that are creamy based?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup made with vegetables and chicken?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Garlic bread with cheddar, green onions, and mayonnaise\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Chicken cooked and flavored with lemon sauce\n****\n Assorted cheese soup with chicken\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Pork chops glazed with milk and cooked without nuts\n****",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Soup made with shrimp, onions, and scallops\n4. Soup made from onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Vietnamese clam and rice noodle soup\n7. Norwegian clam chowder soup\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Assorted cheese soup with chicken\n10. Calcium-rich soup made with broccoli and beans\n",
+            "1.  Soup made with cabbage, carrots, potatoes, and onions\n2.  Soup made with ground turkey that is low fat, high carb\n3.  Assorted cheese soup with chicken\n4.  Creamy base with dill flavoring, eggs, and noodles\n5.  Soup made with shrimp, onions, and scallops\n6.  Soup made from onions, carrots, and celery ribs\n7.  Simple creamy oyster soup\n8.  Soup made with vegetables and chicken\n9.  Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
+            "1. Cancer-fighting soup made with cabbage, carrots, potatoes, and onions\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Soup made with shrimp, onions, and scallops\n4. Soup made with onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Low fat clam chowder\n7. High protein pizza made with whole wheat pizza crust, cheese, onions, and tofu\n8. Calcium-rich soup made with broccoli and beans\n9. Korean soup containing beef brisket and flavored with red pepper powder\n10. Vietnamese rice noodle soup with tender beef\n11. Assorted cheese soup with chicken\n12. Chicken cooked and flavored with lemon sauce\n13. Soup made with vegetables and chicken broth\n14. Cranberry and wild rice soup\n15. Spicy smoked salmon chowder\n16. Healthy and flavorful minestrone-inspired soup\n17. Low-maintenance potato leek soup\n18. Creamy mushroom soup\n19. Ham and potato soup\n20. Instant Pot streamed teriyaki chicken and vegetable soup\n21. German lentil soup\n22. Creamy tomato soup with basil\n23. Easy chicken noodle soup\n24. Instant Pot chicken noodle soup\n25. Creamy cheddar and smoked salmon soup\n26. Hearty beef and vegetable soup\n27. Sweet potato curry soup\n28. Carrot ginger soup\n29. Slow cooker chicken noodle soup\n30. Chicken and rice soup",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSoup made with ground turkey that is low fat, high carb\nSoup made with chicken, noodles, and spices\nSoup made with broccoli and beans\nAssorted cheese soup with chicken\nSoup made with vegetables and chicken\nCreamy base with dill flavoring, eggs, and noodles\nVery low-fat assortment of shredded vegetables with seasoning\nCalcium-rich soup made with broccoli and beans",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nVery low-fat assortment of shredded vegetables with seasoning\nVegetable Soup\nGrilled salmon seasoned with salt and pepper\nCreamy base with dill flavoring, eggs, and noodles\nBaked spinach quiche containing bacon\nSoups Made with Ground Turkey That Are Low-Fat, High-Carb\nBaked Breakfast Pie Low in Fat Made with Sausage (Pork), and Apples",
+            "Soup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with onions, carrots, and celery ribs\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with shrimp, onions, and scallops\n****\nAssorted cheese soup with chicken\n****\nSmoothie made from banana puree with milk\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCalcium-rich soup made with broccoli and beans\n****\nCheese and vegetable soup with a beer broth\n****\nHomemade soup with chicken, noodles, and spices",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with vegetables and chicken\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Calcium-rich soup made with broccoli and beans\n****\n Vegetarian soup made with tofu and vegetable broth\n****\n Low-fat yogurt from scratch\n****\n High protein skillet with rice and vegetables\n****\n Chopped French duck confit preserved by duck oil\n****\n Low sugar applesauce cupcakes\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nSoup made with vegetables and chicken\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and olive appetizer made to look like an eyeball\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with onions, carrots, and celery ribs\nSoup made with vegetables and chicken\nChicken cooked and flavored with lemon sauce\nCreamy base with dill flavoring, eggs, and noodles\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken breasts stuffed with bacon and mozzarella\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nVery low-fat assortment of shredded vegetables with seasoning"
+        ]
+    }
+}

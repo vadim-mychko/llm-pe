@@ -1,0 +1,58 @@
+{
+    "55": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "How about Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for steakhouses?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Is Mexican cuisine something you might enjoy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for salad?",
+                "response": "no"
+            },
+            {
+                "query": "How about soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian Cuisine or American cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nLacroix Restaurant at The Rittenhouse \nGolden Triangle \nWater Works Restaurant & Lounge \nCanton 11 \nMong Kok Station \nRistorante La Buca \nA Tutti, Ristorante Italiano \nFiore Fine Foods \nEvan's Pizza",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "Malbec Argentine Steakhouse \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nThe Grill  Smuckers \\n\nRoy-Pitz Barrel House \\n\nPearl's Oyster Bar \\n\nThe Steak Connoisseur \\n\nJack's Firehouse \\n\nKensington Quarters \\n\nWawa",
+            "Malbec Argentine Steakhouse\nSang Kee Peking Duck House\nParc\nRistorante La Buca\nSteve's Prince of Steaks\nJack's Firehouse\nKirin\nLisa's Kitchen\nFounding Fathers Sports Bar & Grill\nLove & Honey Fried Chicken",
+            "1. The Grill  Smuckers\n2. Ristorante La Buca\n3. Jack's Firehouse\n4. The Green Line Cafe\n5. Parc\n6. Love & Honey Fried Chicken\n7. Chang\n8. Roy-Pitz Barrel House\n9. Malbec Argentine Steakhouse\n10. Lisa\u2019s Kitchen",
+            "1. Malbec Argentine Steakhouse\n2. Steve's Prince of Steaks \n3. Lisa's Kitchen \n4. Jack's Firehouse \n5. Franklin's \n6. The Blue Duck\n7. Founding Fathers Sports Bar & Grill \n8. Oishii Pok\u00e9\n9. Pure Tacos \n10. Love & Honey Fried Chicken",
+            "Malbec Argentine Steakhouse \nSteve's Prince of Steaks \nRoy-Pitz Barrel House \nFranklin's \nJack's Firehouse \nBlackbird Pizzeria \nLisa's Kitchen \nPure Tacos \nCantina Los Caballitos \nOishii Pok\u00e9",
+            "Malbec Argentine Steakhouse \nRoy-Pitz Barrel House \nMacaroni's Restaurant \nThe Blue Duck \nPearl's Oyster Bar \nGiuseppe & Sons Steak \nLisa's Kitchen \nJack's Firehouse \nSteve's Prince of Steaks \nFounding Fathers Sports Bar & Grill",
+            "Malbec Argentine Steakhouse \\n\nTavern On the Hill \\n\nPearl's Oyster Bar \\n\nMacaroni's Restaurant \\n\nRoy-Pitz Barrel House \\n\nJack's Firehouse \\n\nFranklin's \\n\nRistorante La Buca \\n\nSteve's Prince of Steaks \\n\nJD Mcgillicuddy's Manayunk\n",
+            "Steve's Prince of Steaks \nOishii Pok\u00e9 \nAudrey Claire \nPure Tacos \nLucca \nAldo Lamberti Cucina Italiana \nMalbec Argentine Steakhouse \nEddie V's Prime Seafood \nMetropolitan Bakery \nThe Black Sheep\n"
+        ]
+    }
+}

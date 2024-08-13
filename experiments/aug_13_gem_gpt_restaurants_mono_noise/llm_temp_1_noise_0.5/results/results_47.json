@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for grocery stores?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sports bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with live entertainment?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food with a Korean influence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for beer gardens?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "1. Misconduct Tavern\n2. The Blue Duck\n3. Wishbone\n4. Blackbird Pizzeria\n5. Lisa's Kitchen\n6. Franklin's\n7. Steve's Prince of Steaks\n8. Luhv Vegan Deli\n9. Chestnut 7\n10. Lucky's Last Chance",
+            "Five Guys \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nFranklin's \\n\nBlackbird Pizzeria \\n\nMisconduct Tavern \\n\nChestnut 7 \\n\nLove & Honey Fried Chicken \\n\nLucky's Last Chance \\n\nCJ & Eck's",
+            "1. Five Guys\n2. Blackbird Pizzeria \n3. Luhv Vegan Deli \n4. The Blue Duck \n5. Canlis \n6. Lisa's Kitchen \n7. Founding Fathers Sports Bar & Grill \n8. Royale East Coast Eatery \n9. Hey Hummus \n10. McMenamin's Tavern",
+            "1. Hey Hummus\n2. Wishbone\n3. Federal Donuts \n4. Franklin's \n5. Lisa's Kitchen \n6. Jack's Firehouse \n7. Founding Fathers Sports Bar & Grill \n8. Chestnut 7 \n9. The Cheesecake Factory \n10. Lucky's Last Chance",
+            "1. Lucky's Last Chance\n2. Jack's Firehouse \n3. The El Bar \n4. The QUICK FIXX\n5. Misconduct Tavern \n6. Betty's Speakeasy \n7. Chestnut 7\n8. Lucky's Last Chance\n9. Founding Fathers Sports Bar & Grill \n10. CinCin Restaurant",
+            "1. Chestnut 7\n2. Lucky's Last Chance\n3. Founding Fathers Sports Bar & Grill\n4. CJ & Eck's\n5. Jack's Firehouse\n6. Franklin's\n7. Mad River Manayunk\n8. The El Bar\n9. McMenamin's Tavern\n10. Blackbird Pizzeria",
+            "1. Federal Donuts \n2. Pearl's Oyster Bar \n3. The Blue Duck \n4. Federal Donuts \n5. Fiore Fine Foods \n6. Blackbird Pizzeria \n7. Lisa's Kitchen \n8. Betty's Speakeasy \n9. Steve's Prince of Steaks \n10. Chestnut 7",
+            "Malbec Argentine Steakhouse \nLucky's Last Chance \nRoy-Pitz Barrel House \nFive Guys \nThe Blue Duck \nFederal Donuts \nJack's Firehouse \nFranklin's \nLisa's Kitchen \nSteve's Prince of Steaks",
+            "1. Five Guys\n2. Lisa's Kitchen\n3. Misconduct Tavern\n4. Federal Donuts\n5. Steve's Prince of Steaks\n6. Jack's Firehouse\n7. Franklin's\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. Luhv Vegan Deli"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for some Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Is American food something you're interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to go to bars that also have food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a coffee shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you mostly interested in places that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "How about places that have Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see places that serve seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "How about restaurants that are known for their burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast \n Le Pain Quotidien \n CinCin Restaurant",
+            "Grain Exchange \nMcMenamin's Tavern \nIzumi \nOlive Garden Italian Restaurant \nA Tutti, Ristorante Italiano \nLuigi's Italian Pizzeria \nZesto Pizza \nFuji Mountain \nMacaroni's Restaurant \nRistorante La Buca\nThe Cheesecake Factory",
+            "Water Works Restaurant & Lounge \nIzumi \nCanton 11 \nChinatown Village \nFuji Mountain \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nParc \nNew York Gyro Truck \nDim Sum House \nTrolley Car Diner \nDim Sum Garden Restaurant \nMalaysia Restaurant \nPenang \nTan Viet Restaurant \nCafe La Maude \nEl Limon \nDim Sum King \nQing Feng Vegetarian \nNiche \nTalluto's Authentic Italian Food \nRay's Cafe \nVietnamese & Chinese Oodles \nTaiwan Cafe \nGreen Leafs & Bananas \nNorth China \nJoy Tsin Lau \nDK Sushi \nChengdu Gourmet \nSzechuan Delight Restaurant \nCharlie Was a Sinner \nVietnam Restaurant \nDin Shi Noodle House \nFour Seas Restaurant",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Tasty Toast \nLe Pain Quotidien \nFuji Mountain \nFederal Donuts \nDim Sum House",
+            " Water Works Restaurant & Lounge\n**The Juice Merchant**\nZuzu's Kitchen\n**Federal Donuts (Donuts)**\n**PrimoHoagies**\nGrain Exchange\n**Fuji Mountain**\n**The Tavern Restaurant**\nThe Tasty Toast\n**Chinatown Garden**\n**Golden Triangle**\nA Tutti, Ristorante Italiano\n**Lacroix Restaurant at The Rittenhouse**\n**Baan Thai**\n**Pearl's Oyster Bar**\n**Bloomsday Cafe**\n**Dim Sum House**\n**Dim Sum House**\n**The El Bar**\n**Jake's & Cooper's Wine Bar & Wine Shop**\n**Olive Garden Italian Restaurant**\n**Royal Sushi & Izakaya**\n**Veda - Modern Indian Bistro**\n**Lever House**\n**Dim Sum Garden**\n**Mandarin Palace**\n**The Dandelion**\n**Roy-Pitz Barrel House**\n**Mandarin House**\n**Sorellina**\n**Punch Line Philly**",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nWater Works Restaurant & Lounge \\n\nHeritage \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9 \\n\nThe Grilled Chicken \\n\nRoy-Pitz Barrel House",
+            " Daleng Restaurant \n Golden Triangle \n Canton 11 \n Izumi \n Miga Korean BBQ & Sushi \n Bistro SouthEast \n Sang Kee Peking Duck House \n Baan Thai \n Fiore Fine Foods \n Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. Daleng Restaurant\n2. Golden Triangle\n3. Mood Indian Restaurant\n4. Bistro SouthEast\n5. Canton 11\n6. Miga Korean BBQ & Sushi\n7. Sang Kee Peking Duck House\n8. Vedge\n9. Hey Hummus\n10. Korean Village Restaurant",
+            "Local Tavern \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimeHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station"
+        ]
+    }
+}

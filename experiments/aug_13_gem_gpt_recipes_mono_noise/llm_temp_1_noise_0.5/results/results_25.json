@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled meats?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fruit-based desserts or chocolate-based desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked mozzarella cheese sticks with marinara sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nPork chops glazed with milk and cooked without nuts\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSmoothie made from banana puree with milk\nPeach cobbler dessert containing whole wheat flour\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "1. South African vegetable curry flavoured with curry powder and ground tumeric\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Soup made with ground turkey that is low fat, high carb\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Low fat diced baked or fried potatoes\n8. Almonds coated with butter and salt\n9. Classic salad with creamy caesar dressing and croutons\n10. Creamy base with dill flavoring, eggs, and noodles",
+            " Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow sugar applesauce cupcakes\nAssorted cheese soup with chicken\nMildly spicy chili recipe\nChicken breasts stuffed with bacon and mozzarella\nSmoothie made from fruit juice and bananas\n'''",
+            "1. 2-ingredient yogurt from scratch\n2. Low fat sweet potato fries made with cajun seasoning\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat diced baked or fried potatoes\n5. Low fat assorted fruit dessert\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Roasted almonds\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Vietnamese rice noodle with satay sauce\n****\n'''",
+            "-Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n- Peach cobbler dessert containing whole wheat flour\n- Berry cobbler that uses frozen mixed berries\n- Very low-fat assortment of shredded vegetables with seasoning\n- Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n- South African vegetable curry flavoured with curry powder and ground tumeric\n- Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n- Roasted almonds\n- Beef stew made with beef, carrots and potatoes\n- Baked breakfast bars made with nuts and seeds\n- Garlic bread with cheddar, green onions, and mayonnaise\n- Soup made with cabbage, carrots, potatoes, and onions",
+            "Sticky rice wrapped pork shoulder for Chinese dragon boat festival\nVery low-fat assortment of shredded vegetables with seasoning\nBerry cobbler that uses frozen mixed berries\nPeach cobbler dessert containing whole wheat flour\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeppermint chocolate bonbon\nSweet salad made with corn and three types of beans\n2-ingredient yogurt from scratch\nAssorted cheese soup with chicken",
+            " Peach cobbler dessert containing whole wheat flour \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nLow fat shredded barbecued pork shoulder \\n\nLow fat diced baked or fried potatoes \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nChopped French duck confit preserved by duck oil \\n\nCalcium-rich soup made with broccoli and beans \\n\nBaked spinach quiche containing bacon \\n\nCheese with crackers \\n\nDigestion-friendly waffles\n",
+            "****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nJam made from blackberries, lemon juice, and sugar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nSugar-free peanut butter cookies\n****\nLow sugar applesauce cupcakes\n****\nNorwegian cake with lingonberry and whipped cream layers\n****\nChocolate and orange-flavoured smoothie\n****\nSmoothie made from banana pure\u0301e with milk",
+            "Chocolate and orange-flavoured smoothie\nSmoothie made from fruit juice and bananas\nPeppermint chocolate bonbon\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked spinach quiche containing bacon\nPeach cobbler dessert containing whole wheat flour\nBaked mozzarella cheese sticks with marinara sauce\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSlushie drink made from orange juice blended with ice\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''",
+            " Sugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nPeach cobbler dessert containing whole wheat flour\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip"
+        ]
+    }
+}

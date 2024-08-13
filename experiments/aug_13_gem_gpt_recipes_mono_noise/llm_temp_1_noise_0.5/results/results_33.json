@@ -1,0 +1,58 @@
+{
+    "33": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like coconut?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like low-fat dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to eat gluten-free dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat high-protein dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to eat dairy-free dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBaked breakfast bars made with nuts and seeds\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nPeppermint chocolate bonbon\nCalcium-rich soup made with broccoli and beans\nAlmonds coated with butter and salt\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHot pot that is not spicy\nHomemade soup with chicken, noodles, and spices\nMushy peas that are soft\nSmoothie made from banana puree with milk\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMeatballs made with ground beef and ground pork\n\u200b\u200b\u200b\u200b\u200b\u200b",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with shrimp, onions, and scallops\n3. Soup made from onions, carrots, and celery ribs\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Soup made with ground turkey that is low fat, high carb\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nKorean soup containing beef brisket and flavoured with red pepper powder\n",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Low fat sweet potato fries made with cajun seasoning\n3. Low fat assorted fruit dessert\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat coconut alcohol-free cocktail\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Soup made with ground turkey that is low fat, high carb\n8. Assorted cheese soup with chicken\n9. Simple creamy oyster soup\n10. Low fat diced baked or fried potatoes\n''''",
+            "Soup made with ground turkey that is low fat, high carb\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with shrimp, onions, and scallops\n****\nLow fat Creamy base with dill flavoring, eggs, and noodles\n****\nSoup made with ground turkey that is low fat, high carb\n****\nLow fat coconut alcohol-free cocktail\n****\nSoup made with onions, carrots, and celery ribs\n****\nLow fat Low fat diced baked or fried potatoes\n****\nDigestion-friendly waffles\n****\nHomemade soup with chicken, noodles, and spices\n****",
+            "1. Low fat diced baked or fried potatoes\n2. Low-fat coconut alcohol-free cocktail\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Cabbage, carrots, potatoes, and onions soup\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Soup made with ground turkey that is low fat, high carb\n7. Simple creamy oyster soup\n8. Vegetable and chicken soup\n9. Soup made from onions, carrots, and celery ribs\n10. Soup made with chicken, noodles, and spices\n",
+            "1) Soup made with ground turkey that is low fat, high carb\n2) Low fat coconut alcohol-free cocktail\n3) Low-fat assortment of shredded vegetables with seasoning\n4) Creamy base with dill flavoring, eggs, and noodles\n5) Low fat sweet potato fries made with cajun seasoning\n6) Low fat smoothies made with greek yogurt, and pineapple\n7) Soup made with vegetables and chicken\n8) Low fat baked breakfast pie made with sausage (pork) and apples\n9) Low fat diced baked or fried potatoes\n10) Low sugar applesauce cupcakes\n'''",
+            "1. High protein skillet with rice and vegetables\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. 2-ingredient yogurt from scratch\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Queso made from melted cheese and chili peppers\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Soup made with low fat, high carb ground turkey\n10. Bread made swiss style with swiss cheese",
+            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCalcium-rich soup made with broccoli and beans\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow-fat soup made with ground turkey that is low fat, high carb\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nLow fat assorted fruit dessert\n****\nLow fat coconut alcohol-free cocktail\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nLow-fat baked breakfast pie made with sausage (pork) and apples\n****"
+        ]
+    }
+}

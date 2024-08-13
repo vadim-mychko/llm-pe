@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches or bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cheesesteak?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to see Mexican or Japanese restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Mexican or Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fried chicken or sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Hawaiian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in poke?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for spots with pizza?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Canton 11 \n Miga Korean BBQ & Sushi \n Tu's Tea & Banh Mi South Philly \n Baan Thai \n Oishii Pok\u00e9 \n Pure Tacos \n KC's Pastries",
+            " Water Works Restaurant & Lounge \nGrain Exchange \nFederal Donuts \nVeda - Modern Indian Bistro \nTavern On the Hill \nMonster Vegan \nGreen Leafs & Bananas \nSister Muhammad's Kitchen \nThe Cheesecake Factory \nFounding Fathers Sports Bar & Grill",
+            " CinCin Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nVeda - Modern Indian Bistro \\n\nJack's Firehouse \\n\nMalbec Argentine Steakhouse \\n\nSang Kee Peking Duck House",
+            "Izumi \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nSushiyama \nFuji Mountain \nTokyo Matcha \nHan Dynasty \nMatsui Sushi \nSampan \nOoka",
+            "Golden Triangle \nDaleng Restaurant \nIzumi \nBaan Thai \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nPearl's Oyster Bar \nAudrey Claire \nRistorante La Buca \nTrolley Car Diner",
+            "Izumi \nOishii Pok\u00e9 \nLucky's Last Chance \nSteve's Prince of Steaks \nRistorante La Buca \nMiga Korean BBQ & Sushi \nBistro SouthEast \nAudrey Claire \nJack's Firehouse \nDaleng Restaurant",
+            " Izumi \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nAudrey Claire \nGolden Triangle \nDaleng Restaurant \nBistro SouthEast \nWater Works Restaurant & Lounge \nPearl's Oyster Bar \nFuji Mountain",
+            " Izumi \n Fuji Mountain \n Oishii Pok\u00e9 \n Miga Korean BBQ & Sushi \n Blue Duck \n Daleng Restaurant \n Bistrot SouthEast \n Baan Thai \n Poke Burri \n Izakaya by Yanaga ",
+            "Gringotimes",
+            "1. Audrey Claire \\n\n2. Fiore Fine Foods \\n\n3. Chestnut 7 \\n\n4. Jake's & Cooper's Wine Bar & Wine Shop \\n\n5. The QUICK FIXX \\n\n6. The Milk House \\n\n7. PrimoHoagies \\n\n8. Daleng Restaurant \\n\n9. Le Pain Quotidien \\n\n10. Tu's Tea & Banh Mi South Philly \\n"
+        ]
+    }
+}

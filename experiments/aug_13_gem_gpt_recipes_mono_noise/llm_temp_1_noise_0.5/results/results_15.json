@@ -1,0 +1,58 @@
+{
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tarts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like gluten free items?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n4. Sandwich made with: grilled / broiled marinated chicken\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. High protein skillet with rice and vegetables\n8. Baked spinach quiche containing bacon\n9. Pork chops glazed with milk and cooked without nuts\n10. Pepperoni\n''''",
+            "Sweet salad made with corn and three types of beans\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked spinach quiche containing bacon\nSalmon fillets grilled in a pan with herbs and spices\nAssorted cheese soup with chicken",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low fat sweet potato fries made with cajun seasoning\n5. Low fat assortment of shredded vegetables with seasoning\n6. Sugar-free peanut butter cookies\n7. Assorted cheese soup with chicken\n8. Low fat smoothies made with greek yogurt, and pineapple\n9. Calcium-rich soup made with broccoli and beans\n10. Low fat diced baked or fried potatoes",
+            " Pork chops glazed with milk and cooked without nuts\nChocolate and orange-flavoured smoothie\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCreamy base with dill flavoring, eggs, and noodles\nLarge portion fries with gravy and bacon\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nMozzarella dip recipe\nChicken breasts stuffed with bacon and mozzarella\nCheese with crackers",
+            " Soup made with cabbage, carrots, potatoes, and onions \\n\n2-ingredient yogurt from scratch \\n\nHigh protein skillet with rice and vegetables \\n\nLarge portion fries with gravy and bacon \\n\nGrilled salmon seasoned with salt and pepper \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nChopped French duck confit preserved by duck oil \\n\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\nSmoothie made from fruit juice and bananas \\n\nSoup made with ground turkey that is low fat, high carb\n''''",
+            " Very low-fat assortment of shredded vegetables with seasoning\nHigh protein skillet with rice and vegetables\nCalcium-rich soup made with broccoli and beans\n2-ingredient yogurt from scratch\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nSmoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nCreamy base with dill flavoring, eggs, and noodles",
+            " High protein skillet with rice and vegetables\n****\nBaked breakfast bars made with nuts and seeds\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nMushy peas that are soft\n****\nEggless sauerkraut cake",
+            " High protein skillet with rice and vegetables\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nChopped French duck confit preserved by duck oil\n****\nBaked breakfast bars made with nuts and seeds\n****\nPeach cobbler dessert containing whole wheat flour\n****\nLow fat diced baked or fried potatoes\n****\nRoasted almonds\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nCreamy base with dill flavoring, eggs, and noodles",
+            " High protein skillet with rice and vegetables\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVegetable curry flavoured with curry powder and ground tumeric\n****\nBaked breakfast bars made with nuts and seeds\n****\nMildly spicy chili recipe\n****\nSpanish rice with chicken breast\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nHot pot that is not spicy",
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nSmoothie made from fruit juice and bananas\nVery low-fat assortment of shredded vegetables with seasoning\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nHomemade soup with chicken, noodles, and spices\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nBaked mozzarella cheese sticks with marinara sauce\nStir-fried tofu, noodles and vegetables Bento\nMozzarella dip recipe\n"
+        ]
+    }
+}

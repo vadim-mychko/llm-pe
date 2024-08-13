@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Chinese or Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy salads or soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in home-cooked meals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Vietnamese\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpain\nTaiwanese deep fried crispy chicken cutlets\nChicken cooked and flavored with lemon sauce\nStir-fried tofu, noodles and vegetables Bento\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crusts\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "Baked mozzarella cheese sticks with marinara sauce\nMeatballs made with ground beef and ground pork\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMozzarella dip recipe\nLow fat diced baked or fried potatoes\nPeppermint chocolate bonbon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked breakfast bars made with nuts and seeds\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\n'''",
+            "**1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Mozzarella dip recipe\n8. Meatballs made with ground beef and ground pork\n9. Pork chops glazed with milk and cooked without nuts\n10. Roasted almonds**",
+            "Strawberry and ice cream milkshake\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nNutella spread slices of toast\nCreamy base with dill flavoring, eggs, and noodles\nLarge portion fries with gravy and bacon\nCheese and crackers\nFried shrimp and scallops\nPeppermint chocolate bonbons\nPeach cobbler dessert containing whole wheat flour\nHomemade soup with chicken, noodles, and spices",
+            "1. 2-ingredient yogurt from scratch\n2. Grilled salmon seasoned with salt and pepper\n3. Jam made from blackberries, lemon juice, and sugar\n4. Sugar-free peanut butter cookies\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Peppermint chocolate bonbon\n7. Peach cobbler dessert containing whole wheat flour\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n9. Berry cobbler that uses frozen mixed berries\n10. Very low-fat assortment of shredded vegetables with seasoning\n",
+            "1. Taiwanes deep fried crispy chicken cutlets\n2. French chocolate cake made from chocolate baking squares, strong coffee, butter and brown sugar\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Meatballs made with ground beef and ground pork\n5. High protein skillet with rice and vegetables\n6. Stuffed potato skins\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Pulled BBQ chicken sandwiches\n10. Grilled salmon seasoned with salt and pepper",
+            "Cheesecake made with cream cheese\nCheese and olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nCheddar, green onions, and mayonnaise garlic bread\nQueso made from melted cheese and chili peppers\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nAssorted cheese soup with chicken\nCheese with crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\n",
+            "High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBaked spinach quiche containing bacon\n****\nAssorted cheese soup with chicken\n****\nBread made swiss style with swiss cheese\n****\nBaked breakfast bars made with nuts and seeds\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nCheese with crackers",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Mozzarella dip recipe\n6. Meatballs made with ground beef and ground pork\n7. Spanish rice with chicken breast\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Salmon roasted with olive oil, chives, and tarragon leaves",
+            "- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Spaghetti noodles with mussels, anchovy fillets, and capers\n- Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n- Meatballs made with ground beef and ground pork\n- Baked mozzarella cheese sticks with marinara sauce\n- Mozzarella dip recipe\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- Parmesan risotto balls\n- Baked cod with lemon and herbs\n- Baked chicken wings with parmesan cheese and herbs"
+        ]
+    }
+}

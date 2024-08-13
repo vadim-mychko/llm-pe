@@ -1,0 +1,58 @@
+{
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Do you like salty dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have a preference for grilled items?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meat based dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pork over beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried items?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbecued food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy-based dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork chops glazed with milk and cooked without nuts\n****\nDigestion-friendly waffles\n****\nShredded barbecued pork shoulder\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPeppermint chocolate bonbon\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "1. Large portion fries with gravy and bacon\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Roasted almonds\n5. Pork chops glazed with milk and cooked without nuts\n6. Cheese and olive appetizer made to look like an eyeball\n7. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n8. Fried shrimp and scallops\n9. Hot pot that is not spicy\n10. Roasted almonds",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Large portion fries with gravy and bacon\n3. Chopped French duck confit preserved by duck oil\n4. Meatballs made with ground beef and ground pork\n5. Beef stew made with beef, carrots and potatoes\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Grilled salmon seasoned with salt and pepper\n9. High protein skillet with rice and vegetables\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Simple creamy oyster soup\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Grilled salmon seasoned with salt and pepper\n5. Sausage (pork) meat, cheddar cheese, parmesan, and tomatoes\n6. High protein skillet with rice and vegetables\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Mildly spicy chili recipe\n9. Grilled, broiled marinated chicken sandwich\n10. Shredded barbecued pork shoulder",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled salmon seasoned with salt and pepper\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef stew made with beef, carrots and potatoes\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nPeppermint chocolate bonbon\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Shredded barbecued pork shoulder\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Chopped French duck confit preserved by duck oil\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Polish sausage with fermented cabbage\n10. Grilled salmon seasoned with salt and pepper\n11. Roasted almonds\n12. Mozzarella cheese sticks with marinara sauce\n13. Meatballs made with ground beef and ground pork\n14. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n15. Steak with apple topping\n16. Sandwich made with: grilled / broiled marinated chicken\n17. Scramble sweet bell peppers n\u2019 onions with brisket n\u2019 breadcrumbs glazed with barbeque sauce topped with melted pepper jack cheese, served with white rice\n18. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n19. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n20. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n21. Large portion fries with gravy and bacon\n22. Cheeseburger soup\n23. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n24. Rosemary and garlic lamb chops\n25. Vegetarian chili",
+            "Chicken breasts stuffed with bacon and mozzarella\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat shredded vegetables with seasoning\nChopped French duck confit preserved by duck oil\nLarge portion fries with gravy and bacon\nChicken cooked and flavored with lemon sauce\nPork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n''''",
+            "[1] Chopped French duck confit preserved by duck oil\n[2] Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n[3] South African vegetable curry flavoured with curry powder and ground tumeric\n[4] Mildly spicy chili recipe\n[5] Shredded barbecued pork shoulder\n[6] Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n[7] Baked spinach quiche containing bacon\n[8] Pepperment chocolate bonbon\n[9] Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n[10] Taiwanese deep fried crispy chicken cutlets",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n3. Meatballs made with ground beef and ground pork\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Shredded barbecued pork shoulder\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Beef stew made with beef, carrots and potatoes\n9. Grilled salmon seasoned with salt and pepper\n10. Baked salmon dessert pie filled with a sweet pumpkin spice based custard",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nTacos made with: ground beef meat, pork meat, beef broth, taco seasoning, cheese, and three different shells\n****\nMeatballs made with ground beef and ground pork\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nBaked pizza with beef and bacon\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nChicken cooked and flavored with lemon sauce\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nSpicy Korean pork and rice lettuce cups\n****\nClassic salad with creamy caesar dressing and croutons\n****\nBaked squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nChicken, bacon, and ranch pizza\n****\nShredded barbecued pork shoulder\n****\nRoast turkey with plum sauce\n****\nMozzarella dip recipe\n****\nSpanish rice with chicken breast\n****\nBeef stew made with beef, carrots and potatoes\n****\nPork chops glazed with milk and cooked without nuts\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nFried shrimp and scallops\n****\nGrilled salmon seasoned with salt and pepper\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef stroganoff made with beef, onion, carrots, and noodles\n****\n"
+        ]
+    }
+}

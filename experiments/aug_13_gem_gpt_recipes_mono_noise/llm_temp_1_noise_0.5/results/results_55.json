@@ -1,0 +1,58 @@
+{
+    "55": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cakes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nLow fat sweet potato fries made with cajun seasoning\nLow fat assorted fruit dessert\nCheese with crackers\nLow fat coconut alcohol-free cocktail\nMildly spicy chili recipe\nFried shrimp and scallops\nBaked squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nMushy peas that are soft",
+            " 2-ingredient yogurt from scratch\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPaced cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nAlmond coated with butter and salt\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nLow fat smoothies made with greek yogurt, and pineapple\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Roasted almonds\n3. Vegetable curry flavoured with curry powder and ground tumeric\n4. 2-ingredient yogurt from scratch\n5. High protein skillet with rice and vegetables\n6. Low-fat coconut alcohol-free cocktail\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with ground turkey that is low fat, high carb\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. South African vegetable curry flavoured with curry powder and ground tumeric",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nSoup made from onions, carrots, and celery ribs\nVegetable curry flavoured with curry powder and ground tumeric\nVegetable and chicken soup\nGrilled salmon seasoned with salt and pepper\nSoup made with cabbage, carrots, potatoes, and onions\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert",
+            " ****Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****Grilled salmon seasoned with salt and pepper\n****Baked mozzarella cheese sticks with marinara sauce\n****Peppermint chocolate bonbon\n****Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****Cheese and crackers\n****Mozzarella dip recipe\n****Pork chops glazed with milk and cooked without nuts\n****Peach cobbler dessert containing whole wheat flour****",
+            "1. Peach cobbler dessert containing whole wheat flour\n2. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Low sugar applesauce cupcakes\n5. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n6. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n7. Sugar-free peanut butter cookies\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Smoothies made with fruit juice and bananas\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n'''",
+            "****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nLow sugar applesauce cupcakes\n****\nSugar-free peanut butter cookies\n****\nJam made from blackberries, lemon juice, and sugar\n****\nChocolate and orange-flavoured smoothie\n****\nNorway cake with lingonberry and whipped cream layers\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nPeppermint chocolate bonbon\n****\nPeach cobbler dessert containing whole wheat flour\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "Peach cobbler dessert containing whole wheat flour\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nChocolate and orange-flavoured smoothie\nBaked breakfast bars made with nuts and seeds\nBanana bread made with whole wheat flour and walnuts\nNorwegian cake with lingonberry and whipped cream layers\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoasted almonds\n",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Grilled salmon seasoned with salt and pepper\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Norwegian cake with lingonberry and whipped cream layers\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Baked spinach quiche containing bacon\n8. Roasted almonds\n9. Banana bread made with whole wheat flour and walnuts\n10. Spanish rice with chicken breast",
+            "Norwegian cake with lingonberry and whipped cream layers\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nMozzarella cheese sticks with marinara sauce\nBanana bread made with whole wheat flour and walnuts"
+        ]
+    }
+}

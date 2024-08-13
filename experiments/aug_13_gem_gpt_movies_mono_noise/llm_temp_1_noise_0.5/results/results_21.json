@@ -1,0 +1,58 @@
+{
+    "21": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in action movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a movie with lots of explosions?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy, crime, or thriller action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a science fiction action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie with fighting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a period or a modern movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an historical war or drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching an action packed medieval movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a samurai movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003) \n2. The Lost World: Jurassic Park (1997) \n3. Man on Fire (2004) \n4. Rush Hour (1998) \n5. Face/Off (1997) \n6. King Kong (2005) \n7. Enter the Void (2009) \n8. The Big Red One (1980) \n9. The Naked Gun: From the Files of Police Squad! (1988) \n10. Transporter 2 (2005)\n",
+            "1. Nightcrawler (2014)\n2. Terminator 3: Rise of the Machines (2003)\n3. The Last Supper (1995)\n4. Darkman (1990)\n5. Transporter 2 (2005)\n6. Big Red One, The (1980)\n7. Trapped (2002)\n8. Face/Off (1997)\n9. Jane Eyre (1996)\n10. Eragon (2006)\n''''",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Big Red One (1980)\n3. Face/Off (1997)\n4. Real Genius (1985)\n5. Brewster's Millions (1985)\n6. Darkman (1990)\n7. American Graffiti (1973)\n8. Big Lebowski, The (1998)\n9. Strictly Ballroom (1992)\n10. Next Friday (2000)",
+            "1. Rush Hour (1998)\n2. Terminator 2: Judgment Day (1991)\n3. Die Hard (1988)\n4. Lethal Weapon (1987)\n5. The Matrix (1999)\n6. Aliens (1986)\n7. Predator (1987)\n8. RoboCop (1987)\n9. Total Recall (1990)\n10. Minority Report (2002)",
+            "1. The Proposition (2005)\n2. Man on Fire (2004)\n3. Transporter 2 (2005)\n4. Terminator 3: Rise of the Machines (2003)\n5. Von Ryan's Express (1965)\n6. Control (2007)\n7. Nightcrawler (2014)\n8. The Big Red One (1980)\n9. Brewster's Millions (1985)\n10. Face/Off (1997)",
+            "1. Darkman (1990) \n2. Von Ryan's Express (1965) \n3. Terminator 3: Rise of the Machines (2003) \n4. Nightcrawler (2014) \n5. Big Red One, The (1980) \n6. Transporter 2 (2005) \n7. Trapped (2002) \n8. Face/Off (1997) \n9. King Kong (2005) \n10. Real Genius (1985)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Von Ryan's Express (1965) \n3. Breach (2007) \n4. The Proposition, The (2005) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. Man from Earth, The (2007) \n7. Europa (Zentropa) (1991) \n8. Darkman (1990) \n9. The Big Red One, The (1980) \n10. King Kong (2005)",
+            "1. All Quiet on the Western Front (1930)\n2. Von Ryan's Express (1965)\n3. Big Red One, The (1980)\n4. Men of Honor (2000)\n5. U-571 (2000)\n6. Master and Commander: The Far Side of the World (2003)\n7. War Horse (2011)\n8. 1917 (2019)\n9. Greyhound (2020)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. The Proposition (2005) \n4. Terminator 3: Rise of the Machines (2003) \n5. Meet John Doe (1941) \n6. Von Ryan's Express (1965) \n7. The Big Red One (1980) \n8. Real Genius (1985) \n9. Black Robe (1991) \n10. Grapes of Wrath, The (1940)",
+            "1. The Proposition (2005) \n2. Dangerous Liaisons (1988) \n3. American Graffiti (1973) \n4. Real Genius (1985) \n5. Brewster's Millions (1985) \n6. The Hurricane (1999) \n7. A.I. Artificial Intelligence (2001) \n8. Control (2007) \n9. Von Ryan's Express (1965) \n10. The Departed (2006)"
+        ]
+    }
+}

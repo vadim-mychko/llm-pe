@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Is there an animated movie you're interested in seeing?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you a fan of movies with a supernatural element?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in action movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a dark storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about aliens?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seeing a movie about a higher power?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Brewster's Millions (1985)\n2. American Graffiti (1973)\n3. Big Red One, The (1980)\n4. Moby Dick (1956)\n5. What's Up, Doc? (1972)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Timeline (2003)\n8. Delicatessen (1991)\n9. Eragon (2006)\n10. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Face/Off (1997)\n3. Kung Fu Hustle (2004)\n4. Starship Troopers (1997)\n5. Ace Ventura: Pet Detective (1994)\n6. Rush Hour (1998)\n7. Men in Black (1997)\n8. Smokey and the Bandit (1977)\n9. Beverly Hills Cop (1984)\n10. The Naked Gun: From the Files of Police Squad! (1988)",
+            "1. The Mothman Prophecies (2002) \n2. Signs (2002) \n3. Witch (2015) \n4. Drag Me to Hell (2009) \n5. Sinister (2012) \n6. The Babadook (2014) \n7. Hereditary (2018) \n8. Annihilation (2018) \n9. Black Swan (2010) \n10. The Conjuring (2013)",
+            "* The Secret of Kells (2009)\n* Darkman (1990)\n* Enter the Void (2009)\n* The Mothman Prophecies (2002)\n* Europa (Zentropa) (1991)\n* The Last Supper (1995)\n* Cronos (1993)\n* Black Robe (1991)\n* Boy in the Striped Pajamas, The (2008)\n* The Land Before Time (1988)",
+            "1. Enter the Void (2009)\n2. Mothman Prophecies, The (2002)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. Darkman (1990)\n5. Nightcrawler (2014)\n6. Trapped (2002)\n7. Face/Off (1997)\n8. Cronos (1993)\n9. Black Robe (1991)\n10. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)",
+            "1. The Last Temptation of Christ (1988)\n2. Santa Sangre (1989)\n3. Martyrs (2008)\n4. Corpse Bride (2005)\n5. The Ring (2002)\n6. Babadook, The (2014)\n7. A Nightmare on Elm Street (1984)\n8. The Conjuring (2013)\n9. Poltergeist (1982)\n10. The Shining (1980)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Strange than Fiction (2006)\n3. A.I. Artificial Intelligence (2001)\n4. Cabin Fever (2016)\n5. Cabin Fever 2: Spring Fever (2009)\n6. Cabin Fever: Patient Zero (2014)\n7. The Terminator (1984)\n8. Terminator 2: Judgment Day (1991)\n9. Salvation (2009)\n10. Genisys (2015)",
+            "The Corporation (2003) \\n\nMothman Prophecies, The (2002) \\n\nEuropa (Zentropa) (1991) \\n\nDarkman (1990) \\n\nCronos (1993) \\n\nThe Shining (1980) \\n\nEnter the Void (2009) \\n\nNightcrawler (2014) \\n\nDelicatessen (1991) \\n\nThe Last Supper (1995)",
+            "1. Magnolia (1999) \n2. Control (2007) \n3. Stranger than Fiction (2006) \n4. Cronos (1993) \n5. Umberto D. (1952) \n6. The Grapes of Wrath (1940) \n7. Mr. Holmes (2015) \n8. Robot & Frank (2012) \n9. October Sky (1999) \n10. The Elephant Man (1980) \n",
+            "1. Darkman (1990)\n2. The Prophecy (1995)\n3. Pi (1998)\n4. The Changeling (2008)\n5. Drag Me to Hell (2009)\n6. Insidious (2010)\n7. The Conjuring (2013)\n8. Annabelle (2014)\n9. The Babadook (2014)\n10. Hereditary (2018)"
+        ]
+    }
+}

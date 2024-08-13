@@ -1,0 +1,58 @@
+{
+    "65": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an Asian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a place that offers sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to have a place that serves vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers both pizza and chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that sells barbeque?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant with burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \nDaleng Restaurant \nCinCin Restaurant \nSang Kee Peking Duck House \nBloomsday Cafe \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nJD Mcgillicuddy's Manayunk \nNew York Gyro Truck",
+            "Zuzu's Kitchen\nFederal Donuts\nGolden Triangle\nLacroix Restaurant At The Rittenhouse\nWater Works Restaurant\nHeritage\nGrain Exchange\nDaleng Restaurant\nKokopelli Restaurant\nIzumi",
+            " Germantown Garden \nWater Works Restaurant & Lounge \nLocal Tavern \nZuzu's Kitchen \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nThe Grill  Smuckers \nThe Green Line Cafe \nTrolley Car Diner \nGreen Leafs & Bananas",
+            "1. The Tavern Restaurant \n2. Veda - Modern Indian Bistro \n3. Valley Green Inn \n4. Riva \n5. Roy-Pitz Barrel House \n6. Miga Korean BBQ & Sushi \n7. Tavern On the Hill \n8. Malbec Argentine Steakhouse \n9. Tu's Tea & Banh Mi South Philly \n10. Cook and Shaker\n",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nIzumi\nFuji Mountain\nBistro SouthEast\nThe Tavern Restaurant\nMisconduct Tavern",
+            "Lacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nVedge\nHey Hummus\nTrolley Car Diner\nJake's & Cooper's Wine Bar & Wine Shop\nMilk House\nNorth Bowl\nCinCin Restaurant\nEvan's Pizza\n",
+            " Federal Donuts \\n\n Wishbone \\n\n Franklin's \\n\n Betty's Speakeasy \\n\n Love & Honey Fried Chicken \\n\n Jack's Firehouse \\n\n Lisa's Kitchen \\n\n JD Mcgillicuddy's Manayunk \\n\n McMenamin's Tavern \\n\n Foundry Prime \\n",
+            "1. Wishbone \n2. Lisa's Kitchen \n3. Franklin's \n4. JD Mcgillicuddy's Manayunk \n5. Betty's Speakeasy \n6. Luhv Vegan Deli \n7. Founding Fathers Sports Bar & Grill \n8. The Cheesecake Factory \n9. Love & Honey Fried Chicken \n10. Pure Tacos",
+            "Wishbone \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nLuvh Vegan Deli \nLove & Honey Fried Chicken \nTrolley Car Diner \nFounding Fathers Sports Bar & Grill \nMcMenamin's Tavern",
+            "1. Jack's Firehouse\n2. Five Guys\n3. Lisa's Kitchen\n4. Wishbone\n5. Federal Donuts \n6. Franklin's\n7. Love & Honey Fried Chicken \n8. JD Mcgillicuddy's Manayunk\n9. Founding Fathers Sports Bar & Grill \n10. Lucky's Last Chance"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "30": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a war movie from the WWII period?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a more cheerful movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a heartwarming dog movie like Hachiko: A Dog's Story (2009)?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie like Homeward Bound: The Incredible Journey(1993)?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for movies with lots of animals like The Land Before Time (1988)?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated film for children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with lots of music like A.I. Artificial Intelligence (2001)?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the Western genre?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a heist movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a heist movie with a female protagonist like Tomb Raider (2018)?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Clash of the Titans (1981)\n2. Von Ryan's Express (1965)\n3. The Big Red One (1980)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. All Quiet on the Western Front (1930)\n6. Europa (Zentropa) (1991)\n7. Hurricane, The (1999)\n8. Intolerable Cruelty (2003)\n9. Transporter 2 (2005)\n10. Lost World: Jurassic Park, The (1997)",
+            "Adam Sandler: 50 First Dates (2004) \\n\nPaul Thomas Anderson: Magnolia (1999) \\n\nMark Pellington: Mothman Prophecies, The (2002) \\n\nKathryn Bigelow: Strange Days (1995) \\n\nLou Ye: Suzhou River (2000) \\n\nJacques Audiard: BPM (Beats per Minute) (120 battements par minute) (2017) \\n\nPeter Bogdanovich: What's Up, Doc? (1972) \\n\nJohn Boorman: Emerald Forest, The (1985) \\n\nRonny Yu: The Bride with White Hair (Bai fa mo nu zhuan) (1993) \\n\nGuy Ritchie: Aladdin (2019)",
+            "1. August Rush (2007)\n2. The Secret of Kells (2009)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Lost in Translation (2003)\n5. What's Up, Doc? (1972)\n6. Delicatessen (1991)\n7. Mr. Holmes (2015)\n8. Robot & Frank (2012)\n9. We Bought a Zoo (2011)\n10. Jane Eyre (1996)\n",
+            "* Homeward Bound: The Incredible Journey (1993)\n* Monsters, Inc. (2001)\n* August Rush (2007)\n* Meet John Doe (1941)\n* Hachiko: A Dog's Story (2009)\n* The Land Before Time (1988)\n* Sure Thing, The (1985)\n* Real Genius (1985)\n* American Graffiti (1973)\n* August Rush (2007)",
+            "Homeward Bound: The Incredible Journey (1993)\nThe Land Before Time (1988)\nThe Boy in the Striped Pajamas (2008)\nHachiko: A Dog's Story (2009)\nBabe (1995)\nBeethoven (1992)\nThe Lion King (1994)\nStuart Little (1999)\nCharlotte's Web (2006)\nMarley & Me (2008)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. The Land Before Time (1988)\n3. Monsters, Inc. (2001)\n4. August Rush (2007)\n5. How High (2001)\n6. Secret of Kells, The (2009)\n7. Hachiko: A Dog's Story (2009)\n8. Breach (2007)\n9. Delicatessen (1991)\n10. Robot & Frank (2012)",
+            "Monsters, Inc. (2001) \\n\nRunaway Train (1985) \\n\nHomeward Bound: The Incredible Journey (1993) \\n\nLand Before Time, The (1988) \\n\nSt. Elmo's Fire (1985) \\n\nReal Genius (1985) \\n\nAugust Rush (2007) \\n\nHow High (2001) \\n\nRobots (2005) \\n\nThe Lego Movie (2014)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Hachiko: A Dog's Story (2009)\n3. Monsters, Inc. (2001)\n4. The Land Before Time (1988)\n5. August Rush (2007)\n6. What's Up, Doc? (1972)\n7. Corpse Bride (2005)\n8. The Lion King (1994)\n9. Toy Story (1995)\n10. Fantastic Mr. Fox (2009)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Love Me If You Dare (Jeux d'enfants) (2003) \n5. Meet John Doe (1941) \n6. Breach (2007) \n7. The Sure Thing (1985) \n8. The Thomas Crown Affair (1968) \n9. Out of Sight (1998) \n10. Intolerable Cruelty (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Thomas Crown Affair (1968)\n3. The Italian Job (1969)\n4. Out of Sight (1998)\n5. Ocean's Eleven (2001)\n6. The Bank Job (2008)\n7. Takers (2010)\n8. Fast Five (2011)\n9. Now You See Me (2013)\n10. The Town (2010)"
+        ]
+    }
+}

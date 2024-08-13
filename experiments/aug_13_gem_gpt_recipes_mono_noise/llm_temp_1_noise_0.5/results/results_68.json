@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled or baked dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer vegetables that are cooked with herbs or spices?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like stuffed meats?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Vegetable curry flavoured with curry powder and ground tumeric\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Roasted almonds\n7. Grilled salmon seasoned with salt and pepper\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Soup made with shrimp, onions, and scallops\n10. Pepper mint chocolate bonbon",
+            " 1. Very low-fat assortment of shredded vegetables with seasoning\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Roasted almonds\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Grilled salmon seasoned with salt and pepper\n****\n Roasted almonds\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Baked spinach quiche containing bacon\n****\n Stuffed chicken breasts stuffed with bacon and mozzarella\n****\n 2-ingredient yogurt from scratch\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Chicken breasts stuffed with bacon and mozzarella",
+            "1- Grilled salmon seasoned with salt and pepper\n2- Salmon fillets grilled in a pan with herbs and spices\n3- Salmon roasted with olive oil, chives, and tarragon leaves\n4- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5- High protein skillet with rice and vegetables\n6- Soup made with cabbage, carrots, potatoes, and onions\n7- Soup made with onions, carrots, and celery ribs\n8- Soup made with vegetables and chicken\n9- Chicken cooked and flavored with lemon sauce\n10- Chopped French duck confit preserved by duck oil",
+            " 1. Beef stew made with beef, carrots and potatoes\n 2. High protein skillet with rice and vegetables\n 3. Grilled salmon seasoned with salt and pepper\n 4. Queso made from melted cheese and chili peppers\n 5. Soup made with ground turkey that is low fat, high carb\n 6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n 7. South African vegetable curry flavoured with curry powder and ground tumeric\n 8. Soup made from onions, carrots, and celery ribs\n 9. Vegetable soup and chicken\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n'''",
+            "1. Low fat sweet potato fries made with cajun seasoning\n2. Creamy base with dill flavoring, eggs, and noodles\n3. High protein skillet with rice and vegetables\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Large portion fries with gravy and bacon\n6. Soup made with ground turkey that is low fat, high carb\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. South African vegetable curry flavoured with curry powder and ground tumeric\n9. Extremely low-fat pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Assorted cheese soup with chicken",
+            "1. High protein skillet with rice and vegetables\n2. Beef stew made with beef, carrots and potatoes\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Roasted almonds\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked breakfast bars made with nuts and seeds\n8. Sweet salad made with corn and three types of beans\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Vegetable curry flavoured with curry powder and ground tumeric\n7. Large portion fries with gravy and bacon\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. 2-ingredient yogurt from scratch",
+            " Roasted almonds\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPork chops glazed with milk and cooked without nuts\nChicken cooked and flavored with lemon sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBaked spinach quiche containing bacon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nBaked mozzarella cheese sticks with marinara sauce\nThai basil fried rice (which is a rice-based dish with an assortment of vegetables, spices, and protein (which can include chicken or beef))\nMustard chicken (which is flame broiled whole grain mustard-infused chicken patty on a bed of lettuce topped with dill havarti and applewood smoked bacon)\nBaked breakfast pie made with sausage (pork) and apples\n'''"
+        ]
+    }
+}

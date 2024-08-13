@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy flavours?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy flavours?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nDog food made from pork, green beans, cheddar cheese and brown rice\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\n'''",
+            " ****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Taiwanese deep fried crispy chicken cutlets\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Almonds coated with butter and salt\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Baked mozzarella cheese sticks with marinara sauce\n****\n Mozzarella dip recipe\n****\n Meatballs made with ground beef and ground pork\n****\n Banana bread made with whole wheat flour and walnuts\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****",
+            " Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nMildly spicy chili recipe\n****\nPeppermint chocolate bonbon\n****\nHot pot that is not spicy\n****\nLow-fat coconut alcohol-free cocktail\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nQueso made from melted cheese and chili peppers\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSmoked pork chops seasoned with dill, lemon pepper, salt, and ground pepper",
+            "Very low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nLow-fat seasoned sweet potato fries made with cajun seasoning\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLow fat smoothies made with greek yogurt, and pineapple\nMildly spicy chili recipe",
+            "1. Queso made from melted cheese and chili peppers\n2. Mildly spicy chili recipe\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Hot pot that is not spicy\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Mushy peas that are soft\n8. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n9. Low sugar applesauce cupcakes\n10. Low-fat coconut alcohol-free cocktail",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nChicken cooked and flavored with lemon sauce\nGrilled salmon seasoned with salt and pepper\nPork chops glazed with milk and cooked without nuts\nStir-fried tofu, noodles and vegetables Bento\nPeach cobbler dessert containing whole wheat flour\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHot pot that is not spicy",
+            "Milanesa - breaded cutlets made by pounding thinly sliced beef, pork, chicken or veal cutlets and coating them in flour, eggs and bread crumbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nMildly spicy chili recipe\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nHot pot that is not spicy",
+            "Mildly spicy chili recipe\nSoup made with cabbage, carrots, potatoes, and onions\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nHigh protein skillet with rice and vegetables\nSoup made with ground turkey that is low fat, high carb\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nChicken cooked and flavored with lemon sauce\n****\nQueso made from melted cheese and chili peppers\n****\nHigh protein skillet with rice and vegetables\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMildly spicy chili recipe\n****\nGrilled salmon seasoned with salt and pepper\n****\nPeach cobbler dessert containing whole wheat flour\n****\nDigestion-friendly waffles\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk"
+        ]
+    }
+}

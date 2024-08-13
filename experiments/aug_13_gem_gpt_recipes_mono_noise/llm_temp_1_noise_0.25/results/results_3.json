@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savory or sweet dishes?",
+                "response": "savory"
+            },
+            {
+                "query": "Do you like fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for vegetable dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like oatmeal?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\n****",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil",
+            "1. Large portion fries with gravy and bacon\n2. Spanish rice with chicken breast\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. High protein skillet with rice and vegetables\n6. Beef stew made with beef, carrots and potatoes\n7. Chicken breasts stuffed with bacon and mozzarella\n8. Grilled salmon seasoned with salt and pepper\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Chopped French duck confit preserved by duck oil",
+            " Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\nLow fat baked breakfast pie made with sausage (pork) and apples\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nChicken breasts stuffed with bacon and mozzarella",
+            "High protein skillet with rice and vegetables\nChicken breasts stuffed with bacon and mozzarella\nBeef stew made with beef, carrots and potatoes\nBaked breakfast pie made with sausage (pork) and apples\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "Beef stew made with beef, carrots and potatoes\nSteak sandwich with mozzarella, banana pepper rings and romaine lettuce\nBaked beef lasagna, made using whole wheat noodles and low-fat variations for cottage and mozzarella cheese\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled beef with simple sauce of olive oil, chives, and tarragon leaves\nMeatballs made with ground beef and ground pork\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nHomemade soup with chicken, noodles, and spices\nVegetable and ground beef soup\nMildly spicy chili recipe",
+            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\n'''",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBaked beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpicy chili recipe\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPork chops glazed with milk and cooked without nuts\nClassic salad with creamy caesar dressing and croutons",
+            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nQueso made from melted cheese and chili peppers\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Beef stew made with beef, carrots and potatoes\n4. Grilled salmon seasoned with salt and pepper\n5. Queso made from melted cheese and chili peppers\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Low fat sweet potato fries made with cajun seasoning\n10. South African vegetable curry flavoured with curry powder and ground tumeric"
+        ]
+    }
+}

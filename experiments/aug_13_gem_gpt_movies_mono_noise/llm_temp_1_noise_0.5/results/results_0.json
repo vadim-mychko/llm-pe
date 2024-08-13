@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies set in the 50s?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie that is set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie where the main characters are actors?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a movie about filming?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about Hollywood and filmmaking?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy about making movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama about moviemaking?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. Last Temptation of Christ, The (1988)\n5. August Rush (2007)\n6. Terminator 3: Rise of the Machines (2003)\n7. Ant-Man (2015)\n8. The Big Lebowski (1998)\n9. Titanic (1997)\n10. Black Panther (2018)\n",
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. August Rush (2007)\n4. Bernie (2011)\n5. Last Action Hero (1993)\n6. Europa (Zentropa) (1991)\n7. Meet John Doe (1941)\n8. Robot & Frank (2012)\n9. Bruce Almighty (2003)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007) \n3. Laura (1944) \n4. August Rush (2007) \n5. Abraham Lincoln: Vampire Hunter (2012)\n6. The Proposition (2005) \n7. All Quiet on the Western Front (1930) \n8. Drugstore Cowboy (1989)\n9. Ant-Man (2015) \n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Palm Springs (2020)\n2. Peninsula (2020)\n3. Herself (2020)\n4. Happiest Season (2020)\n5. Another Round (2020)\n6. Mank (2020)\n7. Nomadland (2020)\n8. Soul (2020)\n9. One Night in Miami... (2020)\n10. Minari (2020)",
+            "1. Labyrinth (1986) \n2. The Man Who Would Be King (1975) \n3. Saving Grace (2000) \n4. The Prestige (2006) \n5. Moulin Rouge! (2001) \n6. The Artist (2011) \n7. La La Land (2016) \n8. Birdman or (The Unexpected Virtue of Ignorance) (2014) \n9. Tropic Thunder (2008) \n10. Argo (2012)",
+            "1. Control (2007)\n2. Stranger than Fiction (2006)\n3. The Truman Show (1998)\n4. Adaptation (2002)\n5. Adaptation (2002)\n6. Ed Wood (1994)\n7. 8\u00bd (1963)\n8. Sunset Boulevard (1950)\n9. The Player (1992)\n10. Opening Night (1977)",
+            "1. Control (2007)\n2. Stranger than Fiction (2006)\n3. The Big Lebowski (1998)\n4. What's Up, Doc? (1972)\n5. Meet John Doe (1941)\n6. American Graffiti (1973)\n7. Intolerable Cruelty (2003)\n8. Brewster's Millions (1985)\n9. Bruce Almighty (2003)\n10. Real Genius (1985)",
+            "1. Meet John Doe (1941)\n2. What's Up, Doc? (1972)\n3. The Thomas Crown Affair (1968)\n4. Stranger than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. Face/Off (1997)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n10. Eragon (2006)",
+            "*****\n1. The Sure Thing (1985)\n2. What's Up, Doc? (1972)\n3. Control (2007)\n4. Eragon (2006)\n5. Drugstore Cowboy (1989)\n6. 50 First Dates (2004)\n7. What's Up, Doc? (1972)\n8. American Graffiti (1973)\n9. A.I. Artificial Intelligence\n10. Stranger than Fiction (2006)\n*****",
+            "1. Stranger than Fiction (2006)\n2. Enter the Void (2009)\n3. Once Upon a Time... in Hollywood (2019)\n4. Hail, Caesar! (2016)\n5. Tropic Thunder (2008)\n6. Adaptation (2002)\n7. Sunset Blvd. (1950)\n8. The Player (1992)\n9. Singin' in the Rain (1952)\n10. Barton Fink (1991)"
+        ]
+    }
+}

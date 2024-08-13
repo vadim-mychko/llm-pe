@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Do you like appetizers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet or savoury meals?",
+                "response": "savoury"
+            },
+            {
+                "query": "Do you like soups and stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dishes with a lot of vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Taiwanese deep fried crispy chicken cutlets\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Fried shrimp and scallops\n4. Baked salmon fillets grilled in a pan with herbs and spices\n5. Norwegian cake with lingonberry and whipped cream layers\n6. Roasted almonds\n7. Roasted beef sandwich with mozzarella, banana pepper rings, and romaine lettuce\n8. Sushi\n9. Spinach Souffle\n10. Simple creamy oyster soup",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked mozzarella cheese sticks with marinara sauce\nCheese and olive appetizer made to look like an eyeball\nMozzarella dip recipe\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nLow fat assorted fruit dessert\nMeatballs made with ground beef and ground pork\nLow-fat coconut alcohol-free cocktail\n****",
+            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nAssorted cheese soup with chicken\n****\nSoup made with ground turkey that is low fat, high carb\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nLow fat sweet potato fries made with cajun seasoning",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. High protein skillet with rice and vegetables\n4. Baked breakfast pie made with sausage (pork) and apples\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Pork chops glazed with milk and cooked without nuts\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Polish sausage with fermented cabbage",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Steak cooked with corn on the cob\n4. High protein skillet with rice and vegetables\n5. Grilled salmon with soy, honey, and sriracha\n6. Baked salmon fillets with lemon and herbs\n7. Fried fish with tartar sauce\n8. Salmon in a creamy lemon sauce with capers\n9. Roasted salmon with dill and lemon\n10. Salmon and broccoli with lemon sauce",
+            " High protein skillet with rice and vegetables\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Vegetable soup made with ground turkey that is low fat, high carb\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Simple creamy oyster soup\n****\n Assorted cheese soup with chicken\n****\n Vegetable soup made with chicken\n****\n Sweet salad made with corn and three types of beans",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nHigh protein skillet with rice and vegetables \\n\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nGrilled salmon seasoned with salt and pepper \\n\nBaked spinach quiche containing bacon \\n\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nBerry cobbler that uses frozen mixed berries",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked breakfast bars made with nuts and seeds\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nSoup made with vegetables and chicken\n****",
+            "1. High protein skillet with rice and vegetables\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Veggie Fried Rice with eggs\n6. Cream of mushroom soup\n7. Baked spinach quiche containing bacon\n8. Grilled salmon seasoned with salt and pepper\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Salmon fillets grilled in a pan with herbs and spices",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Vegetable and barley soup\n6. Soup made with vegetables and chicken\n7. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Stir-fried tofu, noodles and vegetables Bento\n10. Assorted cheese soup with chicken\n"
+        ]
+    }
+}

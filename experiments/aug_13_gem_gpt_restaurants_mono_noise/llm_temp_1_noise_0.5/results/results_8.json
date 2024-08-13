@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American New cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer thin crust pizza or thick crust pizza?",
+                "response": "i'm sorry, but i am not able to answer that question based on the given item description."
+            },
+            {
+                "query": "Are you looking for seafood pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Asian fusion pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza with a white sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve pizzas with a red sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Water Works Restaurant & Lounge\n3. Lacroix Restaurant at The Rittenhouse\n4. The Tasty Toast\n5. The Milk House\n6. The Grill  Smuckers\n7. CO-OP Restaurant & Lounge\n8. The Continental Restaurant and Martini Bar\n9. Aldine\n10. Pure Tacos",
+            "Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nJohnny Brenda's \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n\nFederal Donuts \\n\nFiore Fine Foods \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nGreen Leafs & Bananas",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nFederal Donuts\nThe Juice Merchant\nPrimoHoagies\nA Tutti, Ristorante Italiano\nCO-OP Restaurant & Lounge\nRoy-Pitz Barrel House\nJack's Firehouse",
+            " Fiores Fine Foods \nLa Buca \nA Tutti, Ristorante Italiano \nRoys-Pitz Barrel House \nCanal House\nThe Green Line Cafe\nThe Continental Restaurant and Martini Bar\nJake's & Coopers Wine Bar & Wine Shop\nAudrey Claire\nEvan's Pizza",
+            "****\n name: Water Works Restaurant & Lounge \n categories: Restaurants, Seafood, Mediterranean, American (New), Breakfast & Brunch, Event Planning & Services, Caterers\n****\n name: Golden Triangle \n categories: Restaurants, Malaysian, Burmese, Asian Fusion, Thai\n****\n name: Pearl's Oyster Bar \n categories: Restaurants, Seafood, American (New), Live/Raw Food, Breakfast & Brunch\n****\n name: Audrey Claire \n categories: Restaurants, Greek, Mediterranean, Seafood, American (New)\n****\n name: Ristorante La Buca \n categories: Restaurants, Seafood, Bars, Italian, Wine Bars, Nightlife\n****\n name: Zzizzi \n categories: Restaurants, Pizza, Food, Italian, Beer, Wine & Spirits\n****\n name: A Tutti, Ristorante Italiano \n categories: Restaurants, Pizza, Coffee & Tea, Italian, Food\n****\n name: The QUICK FIXX \n categories: Restaurants, Pizza, Vegetarian, Salad, Italian\n****\n name: Fiore Fine Foods \n categories: Restaurants, Food, Pizza, Cafes, Bakeries, Desserts, Breakfast & Brunch, American (New), Italian, Coffee & Tea\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs",
+            "1. Ristorante La Buca \n2. Audrey Claire \n3. Zuzu's Kitchen \n4. A Tutti, Ristorante Italiano \n5. Fiore Fine Foods \n6. Lacroix Restaurant at The Rittenhouse \n7. The Continental Restaurant and Martini Bar \n8. The Milk House \n9. Parc \n10. Gran Caffe L'Aquila",
+            " Izumi \n Oishii Pok\u00e9 \n Audrey Claire \n Parc \n Fiore Fine Foods \n Pearl's Oyster Bar \n A Tutti, Ristorante Italiano \n Ristorante La Buca \n Fiore Fine Foods \n Chestnut 7",
+            "Pearl's Oyster Bar \n Audrey Claire \nMacaroni's Restaurant \n The Blue Duck \n Zuzu's Kitchen \n Fiore Fine Foods \n A Tutti, Ristorante Italiano \nThe QUICK FIXX \nChestnut 7 \n The Cheesecake Factory",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nAudrey Claire \nThe Tasty Toast \nThe Cheesecake Factory \nIzumi \nFuji Mountain \nA Tutti, Ristorante Italiano \nBetty's Speakeasy \nCinCin Restaurant",
+            "1. Zuzu's Kitchen \n2. Daleng Restaurant \n3. PrimoHoagies \n4. A Tutti, Ristorante Italiano \n5. FEDERAL DONUTS \n6. BAAN THAI \n7. Fiore Fine Foods \n8. THE QUICK FIXX \n9. Chestnut 7 \n10. Oishii Poke"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Do you feel like Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in dining in or taking out?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to order pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants with pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with take out or delivery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to order Dim Sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Lacroix Restaurant at The Rittenhouse \n4. PrimoHoagies \n5. The Juice Merchant \n6. Federal Donuts \n7. Mong Kok Station \n8. Le Pain Quotidien \n9. CinCin Restaurant \n10. Talluto's Authentic Italian Food",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMonster Vegan \nMacaroni's Restaurant \nThe Blue Duck \nBetty's Speakeasy \nFiore Fine Foods \nVedge",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nPrimoHoagies \nMacaroni's Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nFiore Fine Foods \nPearl's Oyster Bar \nRistorante La Buca \nCastellino's \nMisconduct Tavern",
+            " Oteri's Italian Bakery | North 5th St \n Talluto's Authentic Italian Food \n A Tutti, Ristorante Italiano \n Fiore Fine Foods \n Macaroni's Restaurant \n Blackbird Pizzeria \n The QUICK FIXX \n CinCin Restaurant \n Sabrina's Cafe \n Trattoria Caprese Rittenhouse\n Castelletto \n Olive Garden Italian Restaurant \n Buddakan \n Vetri Cucina \n Il Pittore \n Davio's Northern Italian Steakhouse \n Zahav \n Girasole \n Lacroix Restaurant at The Rittenhouse \n Pizzeria Stella \n Tredici Enoteca \n Talula's Garden\n Limoncello - Rittenhouse \n Ela \n Amis Trattoria & Bottle Shop \n Serafina Philly \n Cucina Forte \n Mugshots Coffeehouse \n Barbuzzo \n Il Fiore \n Osteria\n Ralph's Italian Restaurant \n Rustica Pizza & Pasta \n Harp & Crown \n Osteria 106 \n Pinocchio's Caf\u00e9 \n Boccadoro \n The Prime Rib \n Sampan Restaurant & Bar \n Little Sicily \n",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nMacaroni's Restaurant \n Fiore Fine Foods \nEvan's Pizza \nThe QUICK FIXX \nRistorante La Buca \nAudrey Claire \nMaggianos Little Italy",
+            "Castellino's\nTalluto's Authentic Italian Food\nRistorante La Buca\nA Tutti, Ristorante Italiano\nPrimoHoagies\nMarconi's Coal Fired Pizza & Pint \nOteri's Italian Bakery | North 5th St\nFiore Fine Foods\nEvan's Pizza\nThe QUICK FIXX",
+            "1. Daleng Restaurant\n2. Canton 11 \n3. Sang Kee Peking Duck House\n4. Dim Sum House \n5. China House \n6. KC's Pastries \n7. Tu's Tea & Banh Mi South Philly \n8. Miga Korean BBQ & Sushi \n9. Bistro SouthEast \n10. Oishii Pok\u00e9",
+            "1. Dim Sum House \n2. Canton 11 \n3. Sang Kee Peking Duck House \n4. Golden Triangle \n5. Bistro SouthEast \n6. Baan Thai \n7. KC's Pastries \n8. A Tutti, Ristorante Italiano \n9. Gran Caffe L'Aquila \n10. Fiore Fine Foods",
+            "1. Dim Sum House\n2. Sang Kee Peking Duck House\n3. Canton 11\n4. Ristorante La Buca\n5. A Tutti, Ristorante Italiano\n6. Talluto's Authentic Italian Food\n7. Castelino's\n8. Vincenzo's Plate\n9. Daleng Restaurant\n10. Yang Kee Noodle",
+            "Daleng Restaurant\nCanton 11\nDim Sum House\nChinatown Gourmet\nDim Sum Garden\n88 China\nGolden Dragon \nMein Mein Chinese\nSang Kee Peking Duck House\nHop Woo"
+        ]
+    }
+}

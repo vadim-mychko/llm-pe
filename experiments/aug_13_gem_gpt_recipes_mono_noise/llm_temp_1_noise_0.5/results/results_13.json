@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in fruit-based desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork-based food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fish-based food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken-based food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in foods that are high protein?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef-based food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salmon?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. 2-ingredient yogurt from scratch\n6. High protein skillet with rice and vegetables\n7. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n8. Low sugar applesauce cupcakes\n9. Baked breakfast bars made with nuts and seeds\n10. Low fat smoothies made with greek yogurt, and pineapple\n```",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nPork chops glazed with milk and cooked without nuts\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\nBacon and cheddar potato soup\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow sugar applesauce cupcakes\nMozzarella cheese sticks with marinara sauce",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nSoup made with shrimp, onions, and scallops\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nPoke of tofu, mushroom and tomatoes\n****\nHot pot that is not spicy\n****\nSushi style rolled food\n****",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nFish soup with vegetables, shrimp, scallops, onions, and low fat chicken broth\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nVery low-fat assortment of shredded vegetables with seasoning (with fish suggestion)\nCheese with crackers (if fish crackers)",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Poke of tofu, mushroom and tomatoes\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n High protein skillet with rice and vegetables\n****\n Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Baked spinach quiche containing bacon",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChicken breasts stuffed with bacon and mozzarella\nLarge portion fries with gravy and bacon\nItalian salad made from romain lettuce, artichokes, and tomatoes\nLow fat assorted fruit dessert\nMozzarella dip recipe\nPork chops glazed with milk and cooked without nuts\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nMildly spicy chili recipe\n'''",
+            " Grilled salmon seasoned with salt and pepper\n Salmon fillets grilled in a pan with herbs and spices\n Salmon roasted with olive oil, chives, and tarragon leaves\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n Italian salad made from romain lettuce, artichokes, and tomatoes\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n South African vegetable curry flavoured with curry powder and ground tumeric\n Very low-fat assortment of shredded vegetables with seasoning\n Assorted cheese soup with chicken\n Creamy base with dill flavoring, eggs, and noodles",
+            "1. Grilled salmon seasoned with salt and pepper \\n\n2. Salmon fillets grilled in a pan with herbs and spices \\n\n3. Salmon roasted with olive oil, chives, and tarragon leaves \\n\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\n5. Italian salad made from romain lettuce, artichokes, and tomatoes \\n\n6. Sweet salad made with corn and three types of beans \\n\n7. Very low-fat assortment of shredded vegetables with seasoning \\n\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears \\n\n9. Simple creamy oyster soup \\n\n10. South African vegetable curry flavoured with curry powder and ground tumeric\n''''",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Grilled salmon seasoned with salt and pepper\n3. Simple creamy oyster soup\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Spinach with tofu and green lentils\n8. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n9. Classic salad with creamy caesar dressing and croutons\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Veggie alfredo\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Simple creamy oyster soup\n****\n Italian salad made from romaine lettuce, artichokes, and tomatoes"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish other than salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like eggs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer hot food or cold food?",
+                "response": "hot"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper \n Salmon roasted with olive oil, chives, and tarragon leaves \n Salmon fillets grilled in a pan with herbs and spices \n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime \n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \n Pork chops glazed with milk and cooked without nuts \n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \n Spanish rice with chicken breast \n High protein skillet with rice and vegetables \n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nPoke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nKorean soup containing beef brisket and flavoured with red pepper powder\nPeppermint chocolate bonbon\nMushy peas that are soft\n",
+            " Grilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPork chops glazed with milk and cooked without nuts\n****\nShredded barbecued pork shoulder\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nMozzarella cheese sticks with marinara sauce\n****\nLow fat diced baked or fried potatoes\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPolish sausage with fermented cabbage\nFried shrimp and scallops\nLow fat sweet potato fries made with cajun seasoning\nLarge portion fries with gravy and bacon\nSweet salad made with corn and three types of beans",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Poke of tofu, mushroom and tomatoes\n****\n Fried shrimp and scallops\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Chopped French duck confit preserved by duck oil\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Shredded barbecued pork shoulder\n****\n Bacon made with pork, green beans, cheddar cheese and brown rice",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nTofu, mushroom and tomato poke\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Pork chops glazed with milk and cooked without nuts\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Shredded barbecued pork shoulder\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Poke of tofu, mushroom and tomatoes\n9. Chopped French duck confit preserved by duck oil\n10. Meatballs made with ground beef and ground pork\n'''",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Poke of tofu, mushroom and tomatoes\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Tofu, noodles and vegetables Bento\n****\n Fried shrimp and scallops\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Salmon fillets grilled in a pan with herbs and spices",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Fried shrimp and scallops\n3. Grilled salmon seasoned with salt and pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Poke of tofu, mushroom and tomatoes\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Meatballs made with ground beef and ground pork",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Chopped French duck confit preserved by duck oil\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****"
+        ]
+    }
+}

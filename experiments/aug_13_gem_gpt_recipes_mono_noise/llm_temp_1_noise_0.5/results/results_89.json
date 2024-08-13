@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Are you on a low fat diet?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like shellfish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like savory dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like hot pots?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bananas?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "2-ingredient yogurt from scratch\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\nLow fat smoothies made with greek yogurt, and pineapple\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nHomemade soup with chicken, noodles, and spices",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Low sugar applesauce cupcakes\n5. Soup made with ground turkey that is low fat, high carb\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Low fat sweet potato fries made with cajun seasoning\n8. Assorted cheese soup with chicken\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Calcium-rich soup made with broccoli and beans\n```",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nBaked breakfast bars made with nuts and seeds\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nSoup made from ground turkey that is low fat, high carb\n****\nMushy peas that are soft",
+            "Low fat assorted fruit dessert\nSupple sides\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSmoothie made from banana puree with milk\nSimple creamy oyster soup\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nLow fat diced baked or fried potatoes\nLow fat smoothies made with greek yogurt, and pineapple\nMushy peas that are soft",
+            " 1. Soup made with ground turkey that is low fat, high carb\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Soup made with vegetables and chicken\n6. Chicken cooked and flavored with lemon sauce\n7. Peach cobbler dessert containing whole wheat flour\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n9. Homemade soup with chicken, noodles, and spices\n10. Salmon fillets grilled in a pan with herbs and spices",
+            "Soup made with cabbage, carrots, potatoes, and onions\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nBeef stew made with beef, carrots and potatoes\nSoup made with shrimp, onions, and scallops\nLow fat shredded barbecued pork shoulder\nShredded barbecued pork shoulder\nSoup made with vegetables and chicken",
+            "1. High protein skillet with rice and vegetables\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Low fat sweet potato fries made with cajun seasoning\n4. Baked chicken breasts stuffed with apples and sausage\n5. Mildly spicy chili recipe\n6. Baked breakfast pie made with apples and sausage\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Chicken cooked and flavored with lemon sauce\n9. Shredded barbecued pork shoulder\n10. Grilled salmon seasoned with salt and pepper",
+            "1. High protein skillet with rice and vegetables\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Chopped French duck confit preserved by duck oil\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Low fat sweet potato fries made with cajun seasoning\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Garlic bread with cheddar, green onions, and mayonnaise\n8. Queso made from melted cheese and chili peppers\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Assorted cheese soup with chicken",
+            "1. High protein skillet with rice and vegetables\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Chopped French duck confit preserved by duck oil\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Grilled salmon seasoned with salt and pepper\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Low sugar applesauce cupcakes\n8. Baked breakfast bars made with nuts and seeds\n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Roasted almonds",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nClassic salad with creamy caesar dressing and croutons\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCalcium-rich soup made with broccoli and beans\nRoasted almonds\nMozzarella dip recipe"
+        ]
+    }
+}

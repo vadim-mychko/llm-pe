@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try a place that serves chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to eat at a place that's also a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to go to a place that offers both pizza and sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for Italian?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to visit a pizza place that also serves salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered salad on your pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you ever had seafood with your pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a pizza place that also serves Italian-style dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " PrimoHoagies \\n\nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nLisza's Kitchen \nJack's Firehouse \\n\nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nWawa\n",
+            "Lisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nPrimoHoagies \\n\nThe QUICK FIXX \\n\nMonster Vegan \\n\nZuzu's Kitchen \\n\nThe Juice Merchant \\n\nLove & Honey Fried Chicken",
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nDaleng Restaurant \nFederal Donuts \nFuji Mountain \nMonster Vegan \nThe Blue Duck",
+            "Zuzu's Kitchen \nGolden Triangle \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nLisa's Kitchen \nTrolley Car Diner \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nAudrey Claire",
+            " Zuzu's Kitchen \n Golden Triangle \n PrimoHoagies \n The Juice Merchant \n A Tutti, Ristorante Italiano \n Canton 11 \n Macaroni's Restaurant \n Fox & Son \n The Blue Duck \n The Green Line Cafe",
+            "Blackbird Pizzeria\n Fiore Fine Foods\n Zuzu's Kitchen\n A Tutti, Ristorante Italiano\n The QUICK FIXX\n Chestnut 7\n Roy-Pitz Barrel House\n Fiore Fine Foods\n Evan's Pizza\n Macaroni's Restaurant",
+            "1. Zuzu's Kitchen \n2. Pizza, Primos\n3. Fiore Fine Foods \n4. The QUICK FIXX \n5. Chestnut 7 \n6. Blackbird Pizzeria \n7. Betty's Speakeasy \n8. A Tutti, Ristorante Italiano \n9. Gran Caffe L'Aquila \n10. Roy-Pitz Barrel House",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nOlive Garden Italian Restaurant\nFederal Donuts\nMacaroni's Restaurant\nThe Blue Duck\nThe QUICK FIXX\nThe Cheesecake Factory\nChestnut 7\nSpread Bagelry",
+            "1. Zuzu's Kitchen \n2. Blackbird Pizzeria \n3. A Tutti, Ristorante Italiano \n4. Fiore Fine Foods \n5. Macaroni's Restaurant \n6. The Blue Duck \n7. The QUICK FIXX \n8. Chestnut 7 \n9. The Cheesecake Factory \n10. Audrey Claire\n",
+            "The QUICK FIXX \nZuzu's Kitchen \nA Tutti, Ristorante Italiano \nPrimoHoagies \nBlackbird Pizzeria \nFiore Fine Foods \nGran Caffe L'Aquila \nChestnut 7 \nOlive Garden Italian Restaurant \nThe Blue Duck"
+        ]
+    }
+}

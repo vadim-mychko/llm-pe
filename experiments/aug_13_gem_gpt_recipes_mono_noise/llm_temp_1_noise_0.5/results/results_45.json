@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer hard or soft textures?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet things?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like savory things?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty foods?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Pork chops glazed with milk and cooked without nuts\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChopped French duck confit preserved by duck oil\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nPolish sausage with fermented cabbage\n****\nShredded barbecued pork shoulder\n****\nSpicy ground pork stir-fry\n****\nBaked pork chops seasoned with garlic, oregano, parsley, salt, and pepper\n****\nRoast pork and potatoes cooked in the oven\n****\nSlow-cooked pulled pork with a sweet and tangy BBQ sauce\n****\nSpicy Korean Pork Rice Bowl",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Chopped French duck confit preserved by duck oil\n****\n Barbecue pork shoulder\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Braised pork belly Chinese-style\n****\n 2 layer pork and noodle dish\n****\n Sandwich made from: grilled / broiled marinated chicken\n****\n Low-fat coconut alcohol-free cocktail\n****",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Roast pork chops glazed with milk and cooked without nuts\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Chopped French duck confit preserved by duck oil\n****\n Spicy chili recipe\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Sausage (pork) and apples low fat breakfast pie\n****\n Bacon (pork) and mozzarella stuffed chicken breasts\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \n2. Pork chops glazed with milk and cooked without nuts \n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival \n4. Shredded barbecued pork shoulder \n5. Taiwanese deep fried crispy chicken cutlets \n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce \n7. Fried shrimp and scallops \n8. Pepperoni pizza consisting of pepperoni and assorted cheeses on top of pizza dough\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \n10. Polish sausage with fermented cabbage\n",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Shredded barbecued pork shoulder\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Pork glazed with milk and cooked without nuts\n6. Meatballs made with ground beef and ground pork\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n9. Roast turkey with plum sauce\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            " Chicken breasts stuffed with bacon and mozzarella\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nChicken cooked and flavored with lemon sauce",
+            "1. Chicken cooked and flavored with lemon sauce\n2. Grilled chicken sandwich\n3. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n4. Baked spinach quiche containing bacon\n5. Grilled roasted chicken tortillas\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Shredded barbecued pork shoulder\n8. Pork chops glazed with milk and cooked without nuts\n9. Slow cooked pork carnitas tacos\n10. Pulled pork with omlette cheese and sour cream\n````",
+            "Chicken breasts stuffed with bacon and mozzarella\nGrilled chicken sandwich\nChicken cooked and flavored with lemon sauce\nBaked breakfast bars made with nuts and seeds\nShredded barbecued pork shoulder\nRoast chicken with plum sauce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPeppermint chocolate bonbon\nMozzarella cheese sticks with marinara\n",
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat sweet potato fries made with cajun seasoning\nPork chops glazed with milk and cooked without nuts\nShredded barbecued pork shoulder\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast chicken with plum sauce\nChicken cooked and flavored with lemon sauce\nChicken sandwich made with: grilled / broiled marinated chicken\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSpanish rice with chicken breast",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked spinach quiche containing bacon\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nRoast chicken with plum sauce\n****\nChicken cooked and flavored with lemon sauce\n****\nGrilled chicken squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets"
+        ]
+    }
+}

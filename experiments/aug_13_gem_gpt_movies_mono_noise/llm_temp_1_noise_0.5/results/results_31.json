@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in an educational documentary like The Corporation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action-adventure-comedy-fantasy film from the 2000s?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a dark comedy with a plot twist that focuses on wealth and extravagant living?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animated film that follows the lives and relationships of several characters?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a visually appealing anime, 5 Centimeters per Second, that features bittersweet, coming-of-age themes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a series like Lost that focuses on a group of people stuck on a mysterious island?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adult-themed, fantasy movie about a superhero and their love life?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a war movie about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated film about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's anime?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. August Rush (2007)\n5. Laura (1944)\n6. Terms of Endearment (1983)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Cocoon (1985)\n9. St. Elmo's Fire (1985)\n10. 50 First Dates (2004)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Shanghai Knights (2003)\n4. August Rush (2007)\n5. The Lord of the Rings: The Return of the King (2003)\n6. American Pie 2 (2001)\n7. Real Steel (2011)\n8. X-Men: The Last Stand (2006)\n9. Mr. Holmes (2015)\n10. The Princess and the Frog (2009)",
+            "1. Strangers than Fiction (2006)\n2. Real Steel (2011)\n3. Enter the Void (2009)\n4. Ratatouille (2007)\n5. Green Street Hooligans (2005)\n6. Kazaam (1996)\n7. Sherpa (2015)\n8. Punch-Drunk Love (2002)\n9. Cloud Atlas (2012)\n10. Upgrade (2018)",
+            "1.\t5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2.\tSecret of Kells, The (2009)\n3.\tAnimation, Drama, Romance | Comedy, Drama, Romance  Fantasy | Animated, Adventure, Children, Fantasy \n4.\tLand Before Time, The (1988)\n5.\tHomeward Bound: The Incredible Journey (1993)\n6.\tAugust Rush (2007)\n7.\tHow to Train Your Dragon (2010)\n8.\tMoana (2016)\n9.\tEncanto (2021)\n10.\tTurning Red (2022)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. Secret of Kells, The (2009)\n3. Man from Earth, The (2007)\n4. How High (2001)\n5. Dogville (2003)\n6. August Rush (2007)\n7. 50 First Dates (2004)\n8. Corpse Bride (2005)\n9. Wall-E (2008)\n10. Up (2009)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \nLost in Translation (2003) \nSecret of Kells, The (2009) \nChungking Express (Chung Hing sam lam) (1994) \nLand Before Time, The (1988) \nAnt-Man (2015) \nHomeward Bound: The Incredible Journey (1993) \nBig Lebowski, The (1998) \nAmerican Graffiti (1973) \nTenacious D in The Pick of Destiny (2006)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \nEnter the Void (2009) \nThe Secret of Kells (2009) \nBig Hero 6 (2014) \nChungking Express (Chung Hing sam lam) (1994) \nThe Nightmare Before Christmas (1993) \nThe Wings of Honneamise(1987) \nFantastic Mr. Fox (2009) \nAllegro non Troppo (1976) \nSong of the Sea (2014)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \nThe Secret of Kells (2009) \nMetropolis (2001) \nChungking Express (Chung Hing sam lam) (1994) \nSpirited Away (2001) \nPrincess Mononoke (1997) \nMy Neighbor Totoro (1988) \nGrave of the Fireflies (1988) \nKiki's Delivery Service (1989) \nPom Poko (1994)\nThe Wind Rises (2013)\nUp (2009)\nInside Out (2015)\nThe Lego Movie (2014)\nThe Boxtrolls (2014)\nThe Book of Life (2014)\nKubo and the Two Strings (2016)\nMoana (2016)\nZootopia (2016)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \nLost in Translation (2003) \nSecret of Kells, The (2009) \nLand Before Time, The (1988) \nAnt-Man (2015) \nBig Hero 6 (2014) \nMeet John Doe (1941) \nA.I. Artificial Intelligence (2001) \nHomeward Bound: The Incredible Journey (1993) \nRobot & Frank (2012)",
+            "5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\nSecret of Kells, The (2009) \\n\nSpirited Away (2001) \\n\nMetropolis (2001) \\n\nMonsters, Inc. (2001) \\n\nPrincess Mononoke (1997) \\n\nTreasure Planet (2002) \\n\nHowl's Moving Castle (2004) \\n\nOver the Moon (2020) \\n\nThe Lion King (2019)\n"
+        ]
+    }
+}

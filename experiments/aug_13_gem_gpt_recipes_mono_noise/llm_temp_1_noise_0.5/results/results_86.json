@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in international cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in very low-fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cheesy items?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in grilled foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nNorway cake with lingonberry and whipped cream layers\nSpicy Korean soup containing beef brisket and flavoured with red pepper powder\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nTaiwanese deep fried crispy chicken cutlets\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMozzarella dip recipe\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBaked mozzarella cheese sticks with marinara sauce\\n\nAssorted cheese soup with chicken\nAlmonds coated with butter and salt\nLow fat sweet potato fries made with cajun seasoning\n",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked spinach quiche containing bacon\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nPeppermint chocolate bonbon",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Taiwanese deep fried crispy chicken cutlets\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Sushi of some kind (salmon, blue fish or tuna) with rice and soy sauce\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Spanish rice with chicken breast",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nQueso made from melted cheese and chili peppers\nMeatballs made with ground beef and ground pork\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nPeppermint chocolate bonbon\nBaked breakfast bars made with nuts and seeds\nCheese and olive appetizer made to look like an eyeball\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nAssorted cheese soup with chicken",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nAssorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nBaked spinach quiche containing bacon\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\n****",
+            "Baked seafood platter with roasted shrimp, salmon and tilapia\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nJam made from blackberries, lemon juice, and sugar\n****\nFried shrimp and scallops\n****\nSeafood spread made from mixed seafood\n****\nCajun seafood gumbo with spicy sauce\n****\nPotato salad made with a mixture of mayonnaise and mustard\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPeach cobbler dessert containing whole wheat flour\n****\nChocolate covered strawberries\n****\nCheese and olive appetizer made to look like an eyeball\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nQueso made from melted cheese and chili peppers\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nGarlic bread with cheddar, green onions, and mayonnaise\n****\nTuna salad with mayonnaise recipe\n****\nCheese and vegetable soup with a beer broth\n****",
+            "Queso made from melted cheese and chili peppers\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat coconut alcohol-free cocktail\nCreamy base with dill flavoring, eggs, and noodles\nCheese with crackers\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nCheese and olive appetizer made to look like an eyeball\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nFried shrimp and scallops\nSeafood soup\nQueso made from melted cheese and chili peppers\nBaked spinach quiche containing bacon\nPork chops glazed with milk and cooked without nuts\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMeatballs made with ground beef and ground pork\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nChicken cooked and flavored with lemon sauce\nHomemade soup with chicken, noodles, and spices\nSandwich made with: grilled / broiled marinated chicken\nRoasted almonds",
+            " Grilled salmon seasoned with salt and pepper \\n\n Salmon roasted with olive oil, chives, and tarragon leaves \\n\n Shredded barbecued pork shoulder \\n\n Pork chops glazed with milk and cooked without nuts \\n\n Fried shrimp and scallops \\n\n Baked mozzarella cheese sticks with marinara sauce \\n\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\n Cheese and olive appetizer made to look like an eyeball \\n\n Mozzarella dip recipe \\n\n Creamy base with dill flavoring, eggs, and noodles\n''''",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nPork chops glazed with milk and cooked without nuts\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled chicken cooked with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce"
+        ]
+    }
+}

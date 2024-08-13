@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a gastropub?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Miga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nWishbone \\n\nFederal Donuts \\n\nJD Mcgillicuddy's Manayunk \\n\nMad River Manayunk \\n\nMonster Vegan \\n\nNorth Bowl \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill",
+            " Zuzu's Kitchen \n Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Roy-Pitz Barrel House \n Cook and Shaker \n Green Leafs & Bananas \n Sister Muhammad's Kitchen \n Pure Tacos",
+            "Bistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nGrain Exchange \\n\nFederal Donuts \\n\nNorth Bowl \\n\nWishbone \\n\nPearl's Oyster Bar \\n\nCook and Shaker \\n\nOishii Pok\u00e9 \\n\nFederal Donuts \\n",
+            "Bistro SouthEast \nMiga Korean BBQ & Sushi \nBuddhist Delight Cafe\nKang Nam BBQ Restaurant \nCafe Soho \nZahav \nHan Dynasty \nRevolution Taco \nThe Dandelion \nSansom Street Oyster House & Raw Bar",
+            " Golden Triangle \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Cook and Shaker \n Founding Fathers Sports Bar & Grill \n Federal Donuts \n Jack's Firehouse \n Franklin's \n JD Mcgillicuddy's Manayunk \n Lucky's Last Chance",
+            "Bistro SouthEast \\n\nRoy-Pitz Barrel House \\n\nThe Continental Restaurant and Martini Bar \\n\nCook and Shaker \\n\nFounding Fathers Sports Bar & Grill \\n\nFranklin's \\n\nGrain Exchange \\n\nJack's Firehouse \\n\nMacaroni's Restaurant \\n\nMisconduct Tavern",
+            "1. North Bowl\n2. Mashonda\n3. Jack's Firehouse \n4. Grain Exchange \n5. Franklin's \n6. Founding Fathers Sports Bar & Grill \n7. Roy-Pitz Barrel House \n8. Misconduct Tavern \n9. The Tavern Restaurant \n10. Mad River Manayunk",
+            " Roy-Pitz Barrel House\n Chestnut 7\n Grain Exchange\n Franklin's\n McMenamin's Tavern\n Cook and Shaker\n Aldine\n The Continental Restaurant and Martini Bar\n Founding Fathers Sports Bar & Grill\n Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. Kokopelli Restaurant & Tequila Bar\n2. Roy-Pitz Barrel House\n3. Grain Exchange\n4. Misconduct Tavern\n5. CO-OP Restaurant & Lounge\n6. The Continental Restaurant and Martini Bar\n7. Cook and Shaker\n8. Blackbird Pizzeria\n9. The QUICK FIXX\n10. Franklin's",
+            "Miga Korean BBQ & Sushi \nRoy-Pitz Barrel House \nBistro SouthEast \nGran Caffe L'Aquila \nZuzu's Kitchen \nThe Blue Duck \nRoy-Pitz Barrel House \nRoy-Pitz Barrel House \nRoy-Pitz Barrel House \nRoy-Pitz Barrel House"
+        ]
+    }
+}

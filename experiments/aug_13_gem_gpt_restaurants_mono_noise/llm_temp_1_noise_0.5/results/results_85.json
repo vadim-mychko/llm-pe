@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Are you primarily looking for places that offer salad?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food delivery?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer to order burgers or sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer sandwiches over burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ordering burgers over sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pizza over burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in ordering ethnic food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ordering sushi?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Izumi \n Shui Mountain \n Bloomsday Cafe \nPaddy's Old City Pub \nJake's & Cooper's Wine Bar & Wine Shop \nPearl's Oyster Bar \nMacaroni's Restaurant \nThe El Bar \nJack's Firehouse \nRistorante La Buca",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nFederal Donuts\nFederal Donuts\nGrain Exchange\nIzumi\nA Tutti, Ristorante Italiano\nThe Milk House",
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nCanton 11 \\n\nDim Sum House \\n\nMacaroni's Restaurant \\n\nOlive Garden Italian Restaurant \\n\nChestnut 7 \\n\nDim Sum House \\n\nThe Cheesecake Factory",
+            "Sang Kee Peking Duck House \nGolden Triangle \nCanton 11 \nDim Sum House \nFederal Donuts \nDaleng Restaurant \nPearl's Oyster Bar \nAudrey Claire \nWater Works Restaurant & Lounge \nMalbec Argentine Steakhouse",
+            "1. DoorDash\n2. Grubhub\n3. Uber Eats\n4. Caviar\n5. Postmates\n6. Seamless\n7. ChowNow\n8. GoPuff\n9. Gopuff\n10. Instacart",
+            "1. Federal Donuts \n2. Five Guys \n3. Lisa's Kitchen \n4. Spread Bagelry \n5. Subway \n6. Jersey Mike's Subs \n7. Quiznos \n8. Blimpie \n9. Which Wich? Superior Sandwiches \n10. Jimmy John's Gourmet Sandwiches",
+            " Daleng Restaurant\nCantonese Gourmet\nHibachi Sushi Buffet\nBenna's Cafe (20th St)\nRed Mango\nCorner Bakery Cafe - Midtown Village\nIssho - Sushi  Hibachi Steak\nChickie's & Pete's (Center City)\nThe Grilled Cheese and Crab Cake Co\nThe Fat Ham (East Passyunk)",
+            "1.Canton 11 \n2.Dim Sum House \n3.Oishii Pok\u00e9 \n4.Green Leafs & Bananas \n5.Spread Bagelry \n6.Jack's Firehouse \n7.KC's Pastries \n8.The QUICK FIXX \n9.Betty's Speakeasy \n10.Founding Fathers Sports Bar & Grill",
+            "Federal Donuts\nPearl's Oyster Bar\nMacaroni's Restaurant \nThe Continental Restaurant and Martini Bar \nMiga Korean BBQ & Sushi\nThe QUICK FIXX\nAudrey Claire\nSpread Bagelry\n Parc\nMcMenamin's Tavern\nFederal Donuts",
+            "Gran Caffe L'Aquila \\n\nRoy-Pitz Barrel House \\n\nFederal Donuts \\n\nFreddy's Market & Deli \\n\nCafe L'Aube \\n\nRival Bros Coffee \\n\nP's & Q's \\n\nGrimaldi Pizza \\n\nHank's Bar and Eats \\n\nGrey Lodge Pub\n"
+        ]
+    }
+}

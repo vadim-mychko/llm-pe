@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in foods that can be cooked on a grill?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in eggs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in meatless pasta dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat in your pasta dishes?",
+                "response": "meat"
+            },
+            {
+                "query": "Are you interested in pasta dishes with seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " 1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Baked salmon fillets grilled in a pan with herbs and spices\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Grilled salmon seasoned with salt and pepper\n5. Roasted almonds\n6. Cajun fries made with potato or sweet potato strips\n7. Pepper steak made with bell pepper and other vegetables\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Beef steak cooked on a grill over an open flame\n10. Chicken marinated in pineapple juice before grilling\n'''",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Chopped French duck confit preserved by duck oil\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Roasted almonds\n5. Grilled salmon seasoned with salt and pepper\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Mozzarella dip recipe\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Cheese with crackers",
+            " Macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nPeas that are soft\n****\nFruit juice and banana smoothie\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nChocolate and orange-flavored smoothie\n****\nBaked oatmeal with nuts and seeds\n****\nChicken and vegetable soup\n****\nMozzarella cheese and chili peppers queso\n****\nGrilled salmon fillets with herbs and spices\n****\nChicken cooked in lemon sauce\n****",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nChocolate and orange-flavoured smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nMozzarella dip recipe\n****\nRoasted almonds\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nMilkshake made with fresh strawberries and ice cream\n****\nCheese with crackers\n****\nLow fat diced baked or fried potatoes \n****",
+            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Smoothies made from fruit juice and bananas\n4. Low sugar applesauce cupcakes\n5. Soup made with ground turkey that is low fat, high carb\n6. Large portion fries with gravy and bacon\n7. Pork chops glazed with milk and cooked without nuts\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Banana bread made with whole wheat flour and walnuts\n10. Roasted almonds",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nJam made from blackberries, lemon juice, and sugar\nPeppermint chocolate bonbon",
+            " Spaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nGrilled chicken with pasta\nChicken breasts stuffed with bacon and mozzarella\nPasta dishes with parmesan cheese\nChicken and pasta\nGnocchi",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nPork chops glazed with milk and cooked without nuts\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nFried shrimp and scallops\nMushroom and tofu poke\nBaked breakfast bars made with nuts and seeds\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake",
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Chicken cooked and flavored with lemon sauce\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Chicken cooked and flavored with lemon sauce\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Roasted chicken with plum sauce",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken and olive appetizer made to look like an eyeball\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nPeppermint chocolate bonbon\nLow sugar applesauce cupcakes\nVery low-fat assortment of shredded vegetables with seasoning\n'''"
+        ]
+    }
+}

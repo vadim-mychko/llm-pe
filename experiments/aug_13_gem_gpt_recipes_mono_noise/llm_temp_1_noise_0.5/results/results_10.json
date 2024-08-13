@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat cooked with a frying pan?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to fry salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables cooked with oil and herbs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat cooked with soy sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like ground beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish cooked with oil, herbs and spices?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "High protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nLow fat baked breakfast pie made with sausage (pork) and apples\nChopped French duck confit preserved by duck oil\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow sugar applesauce cupcakes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n````",
+            "High protein skillet with rice and vegetables\nBeef stew made with beef, carrots and potatoes\nChicken breasts stuffed with bacon and mozzarella\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBaked breakfast bars made with nuts and seeds\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLow fat diced baked or fried potatoes",
+            " - **Grilled salmon seasoned with salt and pepper**\n- **Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar**\n- **Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs**\n- **Salmon roasted with olive oil, chives, and tarragon leaves**\n- **Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime**\n- **2-ingredient yogurt from scratch**\n- **Low fat diced baked or fried potatoes**\n- **Chicken cooked and flavored with lemon sauce**\n- **Creamy base with dill flavoring, eggs, and noodles**\n- **Chicken breasts stuffed with bacon and mozzarella**",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nHigh protein skillet with rice and vegetables\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nLow fat shredded vegetables with seasoning\n****\nChicken cooked and flavored with lemon sauce",
+            " Grilled salmon seasoned with salt and pepper \\n\nSalmon fillets grilled in a pan with herbs and spices \\n\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime \\n\nSalmon roasted with olive oil, chives, and tarragon leaves \\n\nHigh protein skillet with rice and vegetables \\n\n2-ingredient yogurt from scratch \\n\nLow sugar applesauce cupcakes \\n\nSteak\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nSmothered pork chops\n''''",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. High protein skillet with rice and vegetables\n10. Fried shrimp and scallops",
+            "Salmon roasted with olive oil, chives, and tarragon leaves \\n\nGrilled salmon seasoned with salt and pepper \\n\nSalmon fillets grilled in a pan with herbs and spices \\n\nChicken cooked and flavored with lemon sauce \\n\nPork chops glazed with milk and cooked without nuts \\n\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce \\n\nChicken breasts stuffed with bacon and mozzarella \\n\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\nMeatballs made with ground beef and ground pork \\n\nShredded barbecued pork shoulder",
+            "1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Cheese with crackers",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon fillets in a pan with herbs and spices\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCreamy base with dill flavoring, eggs, and noodles\nChicken breasts stuffed with bacon and mozzarella\nPeppermint chocolate bonbon",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked spinach quiche containing bacon\nCheese and crackers\nQueso made from melted cheese and chili peppers\nSpanish rice with chicken breast\nMozzarella cheese sticks with marinara sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nHomemade soup with chicken, noodles, and spices\n'''"
+        ]
+    }
+}

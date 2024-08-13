@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer grilled or fried items?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you prefer savory dishes that are not dessert items?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dairy products like yogurt, mozarella, or parmesan?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference towards South East Asian or Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like stews?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer pork or beef based stews?",
+                "response": "pork"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pork in your stews to be shredded?",
+                "response": "no"
+            },
+            {
+                "query": "Does the stew have potatoes in it?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Roasted almonds\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Low fat assorted fruit dessert\n4. Banana smoothie made with banana puree with milk\n5. Smoothies made from fruit juice and bananas\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Simple creamy oyster soup\n8. Fried shrimp and scallops\n9. Pork chops glazed with milk and cooked without nuts\n10. Salmon roasted with olive oil, chives, and tarragon leaves",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat diced baked or fried potatoes\nBeef stew made with beef, carrots and potatoes\nBaked mozzarella cheese sticks with marinara sauce\nChicken cooked and flavored with lemon sauce\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nMozzarella dip recipe\n****",
+            " Cheese and olive appetizer made to look like an eyeball\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nAlmonds coated with butter and salt\nSteak with smoked mozzarella, caramelized onions, and grilled tomatoes\nSirloin steak dinner made with salt, pepper, olive oil, and parsley\nOmelette with your choice of three fillings.\nMozzarella cheese sticks\nShredded BBQ pork sandwich",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBeef stew made with beef, carrots and potatoes\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nMeatballs made with ground beef and ground pork\nChicken breasts stuffed with bacon and mozzarella\nAssorted cheese soup with chicken\n",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Mildly spicy chili recipe\n4. South African vegetable curry flavored with curry powder and ground tumeric\n5. Grilled salmon seasoned with salt and pepper\n6. Baked spinach quiche containing bacon\n7. Pork chops glazed with milk and cooked without nuts\n8. Chow mein that is spicy\n9. Taiwanese deep fried crispy chicken cutlets\n10. Roasted almonds\n''''",
+            "1. **Beef stew made with beef, carrots and potatoes**\n2. **High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu**\n3. **Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar**\n4. **Large portion fries with gravy and bacon**\n5. **Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.**\n6. **Meatballs made with ground beef and ground pork**\n7. **Baked mozzarella cheese sticks with marinara sauce**\n8. **Cheese and olive appetizer made to look like an eyeball**\n9. **Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese**\n10. **Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs**",
+            "Pork chops glazed with milk and cooked without nuts\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nShredded barbecued pork shoulder\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nCheese and olive appetizer made to look like an eyeball\nCheese with crackers\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCreamy base with dill flavoring, eggs, and noodles\nMeatballs made with ground beef and ground pork\n''''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nShredded barbecued pork shoulder\n****\nBaked mozarella cheese sticks with marinara sauce\n****\nChopped French duck confit preserved by duck oil\n****\nBeef stew made with beef, carrots and potatoes\n****\nMozzarella dip recipe\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nMeatballs made with ground beef and ground pork\n****\nPork chops glazed with milk and cooked without nuts\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMozzarella cheese with crackers\n****",
+            "Pork stew made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork chops glazed with milk and cooked without nuts\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nAlmonds coated with butter and salt\nQueso made from melted cheese and chili peppers\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked breakfast bars made with nuts and seeds",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPork chops glazed with milk and cooked without nuts\n****\nStew made with pork and vegetables\n****\nShredded barbecued pork shoulder\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nMildly spicy chili recipe\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu"
+        ]
+    }
+}

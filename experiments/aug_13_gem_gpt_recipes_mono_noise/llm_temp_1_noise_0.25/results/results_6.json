@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like squash?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked squash?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cobbler?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bacon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBaked salmon fillets grilled in a pan with herbs and spices\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Roasted almonds\n****\n Chopped French duck confit preserved by duck oil\n****\nPeppermint chocolate bonbon\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\nJam made from blackberries, lemon juice, and sugar\n****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nSalmon fillets grilled in a pan with herbs and spices",
+            "1. Beef stew made with beef, carrots and potatoes\n2. High protein skillet with rice and vegetables\n3. Large portion fries with gravy and bacon\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Mildly spicy chili recipe\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Roast turkey with plum sauce\n9. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n10. Korean soup containing beef brisket and flavoured with red pepper powder\n'''",
+            "Beef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast\nAssorted cheese soup with chicken\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n4. Mildly spicy chili recipe\n5. Spanish rice with chicken breast\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Baked breakfast bars made with nuts and seeds\n9. Grilled steak seasoned with salt and pepper\n10. Roasted almonds\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu \\n\nBaked breakfast bars made with nuts and seeds \\n\nPeppermint chocolate bonbon \\n\nCheese with crackers \\n\nHot pot that is not spicy \\n\nHomemade soup with chicken, noodles, and spices \\n\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \\n\n2-ingredient yogurt from scratch \\n\nRoasted almonds",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Mozzarella cheese sticks with marinara sauce\n4. Cheesy base with dill flavoring, eggs, and noodles\n5. Simple creamy oyster soup\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Assorted cheese soup with chicken\n8. Grilled salmon seasoned with salt and pepper\n9. Cream cheese cheesecake\n10. Mozzarella dip recipe",
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Beef stew made with beef, carrots and potatoes\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Milk and baked glazed pork chops (Without any nuts)\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. High protein skillet with rice and vegetables\n10. Baked spinach quiche containing bacon",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Beef stew made with beef, carrots and potatoes\n6. Mildly spicy chili recipe\n7. Pepperoni pizza made with whole wheat pizza crust, cheese, onions, and pepperoni\n8. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n9. Cheese and crackers\n10. Roast beef sandwich with mozzarella, banana pepper rings, and romaine lettuce"
+        ]
+    }
+}

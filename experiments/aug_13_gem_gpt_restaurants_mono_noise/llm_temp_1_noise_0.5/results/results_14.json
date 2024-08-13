@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for non-vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a quick bite to eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a food truck?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n PrimoHoagies \n Daleng Restaurant \n The Tasty Toast \n The Juice Merchant \n Federal Donuts \n The QUICK FIXX \n Lisa's Kitchen \n Green Leafs & Bananas \n Luhv Vegan Deli",
+            " The QUICK FIXX\n Lisa's Kitchen\n PrimoHoagies\n Green Leafs & Bananas\n The Green Line Cafe\n Spread Bagelry\n Zubin's Kitchen\n Daleng Restaurant\n The Tasty Toast\n Monster Vegan",
+            "Five Guys \nLisa's Kitchen \nMcMenamin's Tavern \nWishbone \nFederal Donuts \nLucky's Last Chance \nLove & Honey Fried Chicken \nJD Mcgillicuddy's Manayunk \nThe Blue Duck \nFranklin's",
+            "1. The QUICK FIXX\n2. PrimoHoagies\n3. The Green Line Cafe\n4. Spread Bagelry\n5. Wawa\n6. Lisa's Kitchen\n7. Lucky's Last Chance\n8. Betty's Speakeasy\n9. Love & Honey Fried Chicken\n10. Wishbone",
+            " Monster Vegan \nVedge \nCook and Shaker \nLuhu Vegan Deli \nJack's Firehouse \nSabrina's Cafe \nVegan Grub \n Crossroads Vegan Eatery \nBlackbird Pizzeria \nGran Caffe L'Aquila\n",
+            "1. The Juice Merchant \n2. The QUICK FIXX \n3. Monster Vegan\n4. Benna's Cafe \n5. Green Leafs & Bananas \n6. Founding Fathers Sports Bar & Grill \n7. Spread Bagelry \n8. Parc \n9. Cafe L'Aube \n10. Luhv Vegan Deli",
+            "1. Green Leafs & Bananas\n2. Hey Hummus\n3. Monster Vegan\n4. Benna's Cafe\n5. Vedge\n6. The Juice Merchant\n7. Blackbird Pizzeria\n8. The QUICK FIXX\n9. Betty's Speakeasy\n10. Luhv Vegan Deli",
+            "1. Vedge \n2. Hey Hummus \n3. Benna's Cafe \n4. Monster Vegan \n5. The QUICK FIXX \n6. Blackbird Pizzeria \n7. Luhv Vegan Deli \n8. Green Leafs & Bananas \n9. Love & Honey Fried Chicken \n10. Sister Muhammad's Kitchen ",
+            "Monster Vegan \\n\nHey Hummus \\n\nVedge \\n\nLuvh Vegan Deli \\n\nLuhv Vegan Deli \\n\nBetty's Speakeasy \\n\nBenna's Cafe \\n\nGreen Leafs & Bananas \\n\nThe QUICK FIXX \\n\nSpread Bagelry",
+            "1. Monster Vegan \n2. Green Leafs & Bananas \n3. Luhv Vegan Deli \n4. Benna's Cafe \n5. Hey Hummus \n6. Mad River Manayunk \n7. Federal Donuts \n8. The Blue Duck \n9. Lisa's Kitchen \n10. Vedge"
+        ]
+    }
+}

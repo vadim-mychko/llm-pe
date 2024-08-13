@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Do you like salty foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet things?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Homemade soup with chicken, noodles, and spices\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nVegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nAssorted cheese soup with chicken\nSmoothie made from banana puree with milk\nPeach cobbler dessert containing whole wheat flour",
+            " Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork chops glazed with milk and cooked without nuts\nVery low-fat assortment of shredded vegetables with seasoning\nLow sugar applesauce cupcakes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti noodles with mussels, anchovy fillets, and capers\nAssorted cheese soup with chicken\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nGrilled salmon seasoned with salt and pepper\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat diced baked or fried potatoes\nMozzarella dip recipe\nBaked spinach quiche containing bacon\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSpicy chili recipe\nMeatballs made with ground beef and ground pork\nMildly spicy chili recipe\nHot pot that is not spicy\nLow fat assorted fruit dessert",
+            "1. Low sugar applesauce cupcakes\n2. Grilled salmon seasoned with salt and pepper\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Fried shrimp and scallops\n5. Pork chops glazed with milk and cooked without nuts\n6. Pepper, chicken breasts, and alfredo sauce\n7. Roasted almonds\n8. Peach cobbler dessert containing whole wheat flour\n9. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "Grilled salmon seasoned with salt and pepper\nFried shrimp and scallops\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers\nCheesecake made with cream cheese\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\n",
+            "1. High protein skillet with rice and vegetables\n2. Large portion fries with gravy and bacon\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Pulled pork\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n8. Baked breakfast bars made with nuts and seeds\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n'''",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Large portion fries with gravy and bacon\n3. Low fat sweet potato fries made with cajun seasoning\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Pork chops glazed with milk and cooked without nuts\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. Low fat assorted fruit dessert\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. Irish beef stew\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Grilled salmon seasoned with salt and pepper\n4. Queso made from melted cheese and chili peppers\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Garlic bread with cheddar, green onions, and mayonnaise\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n10. Assorted cheese soup with chicken",
+            "High protein skillet with rice and vegetables\nChicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nChicken cooked and flavored with lemon sauce\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast turkey with plum sauce\nBaked breakfast bars made with nuts and seeds\nBaked mozzarella cheese sticks with marinara sauce",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Grilled chicken sandwich\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Sandwich made with: grilled / broiled marinated chicken\n5. Chicken cooked and flavored with lemon sauce\n6. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Spanish rice with chicken breast\n9. Tijuana-style deep fried crispy chicken cutlets\n10. Chicken salad with meats and assorted vegetables",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nPeach cobbler dessert containing whole wheat flour\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nJam made from blackberries, lemon juice, and sugar\nFruit smoothie made from mixed frozen fruit and juice\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nStrawberry milkshake\nSmoothie made from fruit juice and bananas\nSugar-free peanut butter cookies\n****"
+        ]
+    }
+}

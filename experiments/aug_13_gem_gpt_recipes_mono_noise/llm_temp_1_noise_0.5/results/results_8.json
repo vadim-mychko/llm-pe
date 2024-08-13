@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Do you like anything spicy?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like appetizers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like oatmeal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low-fat coconut alcohol-free cocktail\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Mildly spicy chili recipe\n5. Shredded barbecued pork shoulder\n6. Chorizo cheese dip\n7. Spicy calzones\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Grilled beef with horseradish sauce\n''''",
+            "1. Bruschetta with smoked salmon, dill and capers\n2. Cheese and vegetable soup with a beer broth\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Fried shrimp and scallops\n5. Spicy salmon stir-fry\n6. Queso made from melted cheese and chili peppers\n7. Spicy beef stir-fry with snap peas\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mildly spicy chili recipe\n10. Pepperoni and jalapeno pizza with a black olive border\n''''",
+            "Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nThai beef salad\nJambalaya made from Louisiana\nSesame ginger pork chops\nChimichurri grilled skirt-steak sandwich recipe\nSpicy/sweet salmon\nMildly Spicy Spinach Artichoke Dip\nBuffalo chicken cauliflower with ranch dressing\nKorean noodles provided with vegetables of choice\nSpicy Kung Pao Chicken\n****",
+            "**1.** Mildly spicy chili recipe\n**2.** Japanese ramen noodles made from scratch made with: wheat flour, baking soda, and water\n**3.** South African vegetable curry flavoured with curry powder and ground tumeric\n**4.** Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n**5.** Calcium-rich soup made with broccoli and beans\n**6.** Korean soup containing beef brisket and flavoured with red pepper powder\n**7.** Low fat assorted fruit dessert\n**8.** Spicy tuna poke salad with tomato, red onion, and avocado\n**9.** Pork chops glazed with milk and cooked without nuts\n**10.** Spicy avocado dip seasoned with cilantro and cumin",
+            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nMeatballs made with ground beef and ground pork\nPeppermint chocolate bonbon\nPork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder",
+            "Mildly spicy chili recipe\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPeppermint chocolate bonbon\nLow fat shredded vegetables with seasoning\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nPolish sausage with fermented cabbage\nSpicy chili recipe\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nSweet salad made with corn and three types of beans\n'''",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. High protein skillet with rice and vegetables\n3. Pork chops glazed with milk and cooked without nuts\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Shredded barbecued pork shoulder\n7. Taco beef made from beef, chili powder, onion, taco seasoning,  ground cumin, sauce (basically the works.)\n8. Spicy pork rib meat\n9. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n10. Low fat sweet potato fries made with cajun seasoning\n",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Pork chops glazed with milk and cooked without nuts\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Mildly spicy chili recipe\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Soup made with ground turkey that is low fat, high carb\n'''''",
+            "Beef stew made with beef, carrots and potatoes\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSausage from Poland with fermented cabbage\nKorean soup containing beef brisket and flavoured with red pepper powder\nVery low-fat assortment of shredded vegetables with seasoning\nSpicy chili recipe\nMildly spicy chili recipe\n"
+        ]
+    }
+}

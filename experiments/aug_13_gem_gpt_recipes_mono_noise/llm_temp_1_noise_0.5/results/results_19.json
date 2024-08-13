@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish cooked in the oven?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish soup?",
+                "response": "no"
+            },
+            {
+                "query": "What about smoked or cured fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish cooked on the grill or in a pan?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " 1. Poke of tofu, mushroom and tomatoes\n2. High protein skillet with rice and vegetables\n3. Chopped French duck confit preserved by duck oil\n4. Vegetable curry flavoured with curry powder and ground tumeric\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Peach cobbler dessert containing whole wheat flour\n8. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n9. Calcium-rich soup made with broccoli and beans\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n''''",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Poke of tofu, mushroom and tomatoes\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Soup made with shrimp, onions, and scallops\n****\n Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Soup made with onions, carrots, and celery ribs\n****",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Poke of tofu, mushroom and tomatoes\n****\n Fried shrimp and scallops\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Simple creamy oyster soup\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Smoked salmon and cream cheese dip with dill and onion\n****\n Salmon Loaf\n'''",
+            " Grilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nPoke of tofu, mushroom and tomatoes\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nSimple creamy oyster soup\n****\nSeafood soup containing a mixture of salmon and other fish\n****",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nQueso made from melted cheese and chili peppers\nVery low-fat assortment of shredded vegetables with seasoning\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSalmon fillets grilled in a pan with herbs and spices\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti noodles with mussels, anchovy fillets, and capers\n",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nHigh protein skillet with rice and vegetables\nLow fat assorted fruit dessert\nCreamy base with dill flavoring, eggs, and noodles\nKale salad\nAssorted cheese soup with chicken\n****\n'''",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Smoked or cured salmon\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Fish soup\n****\n Fried shrimp and scallops\n****\n Soup made with shrimp, onions, and scallops\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Sweet salad made with corn and three types of beans\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Grilled chicken breasts stuffed with ham and cheddar\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Chicken cooked and flavored with lemon sauce\n****\n Grilled chicken breasts with vegetables\n****\n High protein skillet with rice and vegetables\n****\n Grilled pork chops with pineapple chunks\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Chicken breasts stuffed with ham and cheddar\n****\n Grilled chicken breasts with vegetables\n****\n High protein skillet with rice and vegetables\n****\n Grilled pork chops with pineapple chunks\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Creamed spinach\n****\n Broccoli cheese soup\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Grilled chicken breasts stuffed with ham and cheddar\n****\n Grilled pork chops with pineapple chunks\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Poke of tofu, mushroom and tomatoes\n6. Soup made with salmon, onions, and scallops\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Simple creamy oyster soup\n9. Fried shrimp and scallops\n10. Seafood salad with prawns, scallops, and clams\n'''",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled salmon seasoned with salt and pepper\n****\nTuna salad\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSimple creamy oyster soup\n****\nCheese and vegetable soup with a beer broth\n****\nNorwegian cake with lingonberry and whipped cream layers",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nCreamy base with dill flavoring, eggs, and noodles\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu"
+        ]
+    }
+}

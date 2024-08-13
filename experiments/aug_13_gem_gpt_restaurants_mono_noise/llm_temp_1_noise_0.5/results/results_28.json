@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for coffee and tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast and brunch restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you into burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Trolley Car Diner \nGreen Leafs & Bananas \nSpread Bagelry \nThe QUICK FIXX \nLisa's Kitchen \nThe Cheesecake Factory \nThe Blue Duck \nMacaroni's Restaurant \nZuzu's Kitchen \nKC's Pastries \nOlive Garden Italian Restaurant",
+            "Trolley Car Diner \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nZuzu's Kitchen \\n\nThe Cheesecake Factory \\n\nThe Green Line Cafe \\n\nDim Sum House \\n\nThe QUICK FIXX \\n\nTalluto's Authentic Italian Food \\n\nPiore Fine Foods",
+            "Bagel Shop \\n\nThe Blue Duck \\n\nThe Saloon \\n\nGood Dog Bar \\n\nWoody's \\n\nAmerican Sardine Bar \\n\nCantina Los Caballitos \\n\nLaurel \\n\nEl Vez \\n\nBig Gay Ice Cream \\n\nTio Pepe",
+            "The Green Line Cafe\nGreen Leafs & Bananas\nSpread Bagelry\nTrolley Car Diner\nThe QUICK FIXX\nBlackbird Pizzeria\nLisa's Kitchen\nSteve's Prince of Steaks\nBetty's Speakeasy\nJD Mcgillicuddy's Manayunk",
+            "- bagel shop\n- Essene Market & Caf\u00e9\n- Spread Bagelry\n- Green Leaf & Bananas\n- The Green Line Cafe\n- Rival Bros Coffee\n- Gran Caffe L'Aquila\n- Betty's Speakeasy\n- Trolley Car Diner\n- Philadelphia Bagel & Sandwich",
+            "1. PrimoHoagies \\n\n2. Five Guys \\n\n3. The QUICK FIXX \\n\n4. Lisa's Kitchen \\n\n5. Green Leafs & Bananas \\n\n6. Steve's Prince of Steaks \\n\n7. Luhv Vegan Deli \\n\n8. Spread Bagelry \\n\n9. Trolley Car Diner \\n\n10. The Green Line Cafe'",
+            " Canton 11 \\n\nDim Sum House \\n\nNew York Gyro Truck \\n\nTrolley Car Diner \\n\nLuvv Vegan Deli \\n\nSpread Bagelry \\n\nWawa \\n\nThe Green Line Cafe \\n\nKC's Pastries \\n\nLisa's Kitchen",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Daleng Restaurant \n Germantown Garden \n PrimoHoagies \n The Tasty Toast \n Lacroix Restaurant at The Rittenhouse \n Le Pain Quotidien \n CinCin Restaurant",
+            "Gran Caffe L'Aquila \\n\nTrolley Car Diner \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSteve's Prince of Steaks \\n\nLuvh Vegan Deli \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nFranklin's",
+            " PrimoHoagies \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nFive Guys \\n\nThe Juice Merchant \\n\nLisa's Kitchen \\n\nZuzu's Kitchen \\n\nThe Green Line Cafe \\n\nTrolley Car Diner \\n\nWawa"
+        ]
+    }
+}

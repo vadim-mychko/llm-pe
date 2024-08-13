@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to grill your food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to bake your food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low-fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like high-protein foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pork or chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Large portion fries with gravy and bacon\n4. Grilled salmon seasoned with salt and pepper\n5. Queso made from melted cheese and chili peppers\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Chopped French duck confit preserved by duck oil\n8. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n9. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n10. Low fat sweet potato fries made with cajun seasoning",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMildly spicy chili recipe\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nChicken breasts stuffed with bacon and mozzarella\nPeach cobbler dessert containing whole wheat flour\nPeppermint chocolate bonbon\nBaked mozzarella cheese sticks with marinara sauce\n'''",
+            "Pork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSandwich made with: grilled / broiled marinated chicken\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein skillet with rice and vegetables\n2-ingredient yogurt from scratch\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "- Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n- Peach cobbler dessert containing whole wheat flour\n- Almonds coated with butter and salt\n- Roasted almonds\n- Low sugar applesauce cupcakes\n- Sugar-free peanut butter cookies\n- Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n- Jam made from blackberries, lemon juice, and sugar\n- Baked mozzarella cheese sticks with marinara sauce\n- Assorted cheese soup with chicken",
+            "Pork chops glazed with milk and cooked without nuts\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalmon fillets grilled in a pan with herbs and spices\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nAlmonds coated with butter and salt\nSimple creamy oyster soup\nPeach cobbler dessert containing whole wheat flour\nCalcium-rich soup made with broccoli and beans\n''''",
+            " High protein skillet with rice and vegetables\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nBaked spinach quiche containing bacon\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPeppermint chocolate bonbon\n****\nSpanish rice with chicken breast\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe",
+            " High protein skillet with rice and vegetables ****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. ****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu ****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake ****\nLow fat baked breakfast pie made with sausage (pork) and apples ****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa ****\nLow fat sweet potato fries made with cajun seasoning ****\nChicken breasts stuffed with bacon and mozzarella ****\nBaked breakfast bars made with nuts and seeds ****\nPeppermint chocolate bonbon ****",
+            " High protein skillet with rice and vegetables\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef stew made with beef, carrots and potatoes",
+            "High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken breasts stuffed with bacon and mozzarella\nPork chops glazed with milk and cooked without nuts\nLow fat sweet potato fries made with cajun seasoning\nLarge portion fries with gravy and bacon\nPeppermint chocolate bonbon\nVery low-fat assortment of shredded vegetables with seasoning\nFried shrimp and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2-ingredient yogurt from scratch",
+            "High protein skillet with rice and vegetables\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nVietnamese pho with rice noodles, and a beef broth\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nSoup made with ground turkey that is low fat, high carb"
+        ]
+    }
+}

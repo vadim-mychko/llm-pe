@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches in particular?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a salad to go with that?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want multiple sandwiches in a single order?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a specialty sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bagels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Daleng Restaurant \\n\nGolden Triangle \\n\nMong Kok Station \\n\nHeritage \\n\nGrain Exchange \\n\nFuji Mountain \\n\nCanton 11 \\n\nMonster Vegan \\n\nThe Grill  Smuckers \\n\nNew York Gyro Truck",
+            " Golden Triangle \n Daleng Restaurant \n Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n The Tasty Toast \n Le Pain Quotidien \n The Milk House \n The Grill  Smuckers \n Benna's Cafe \nPearl's Oyster Bar",
+            "Grain Exchange \nVedge \nEssene Market & Caf\u00e9 \nThe QUICK FIXX \nGreen Leafs & Bananas \nThe Juice Merchant \nThe Fresh Grocer - Progress Plaza \nFlora Raw Caf\u00e9 & Marketplace \nPalm Tree Market \nByblos Grill",
+            "Zuzu's Kitchen\nThe Tasty Toast\nThe Juice Merchant\nThe QUICK FIXX\nBaan Thai\nThe Continental Restaurant and Martini Bar\nJake's & Cooper's Wine Bar & Wine Shop\nParc\nLisa's Kitchen\nMacaroni's Restaurant\nChickie's & Pete's\nFuji Mountain\nFive Guys\nGran Caffe L'Aquila\nFranklin's\nFounding Fathers Sports Bar & Grill\nSpread Bagelry\nSang Kee Peking Duck House\nLuciano's Restaurant\nLuhv Vegan Deli\nLucky's Last Chance\nMad River Manayunk\nMalbec Argentine Steakhouse\nThe Milk House\nMiga Korean BBQ & Sushi\nMisconduct Tavern\nMistral\nMonster Vegan\nMood Indian Restaurant\nNorth Bowl\nOishii Pok\u00e9\nOlive Garden Italian Restaurant\nOteri's Italian Bakery | North 5th St\nPaddy's Old City Pub\nThe Parrot\nPearl's Oyster Bar\nPioppi\nPorta\nPositivo Buenos Aires\nPrimoHoagies\nPure Tacos\nThe Pub on Passyunk East\nRistorante La Buca\nRoy-Pitz Barrel House\nSang Kee Noodle House - Callowhill\nThe Sidecar Bar & Grille\nSister Muhammad's Kitchen\nSouth Philly Barbacoa\nSteve's Prince of Steaks\nTiki\nTrolley Car Diner\nTu's Tea & Banh Mi South Philly\nValley Green Inn\nVeda - Modern Indian Bistro\nVedge\nWishbone\nWawa\nZavino\nZesty Zest South Philly\n",
+            "PrimoHoagies \nThe QUICK FIXX \nCastellino's \nTalluto's Authentic Italian Food \nA Tutti, Ristorante Italiano \nMacaroni's Restaurant \nJack's Firehouse \nLove & Honey Fried Chicken \nOlive Garden Italian Restaurant \nSabrina's Cafe-Restaurant \nCasamia Restaurant",
+            "PrimoHoagies \nThe Juice Merchant \nSabrina's Cafe \nBenna's Cafe \nBetty's Speakeasy \nSpread Bagelry \nLisa's Kitchen\nThe Green Line Cafe\nLuigi & Giovanni's Famous Pizza\nThe QUICK FIXX",
+            "A Tutti, Ristorante Italiano \nPrimoHoagies \nThe QUICK FIXX \nLisa's Kitchen \nSarcone's Deli & Sandwich Shop\n Spread Bagelry \nThe Blue Duck \nJim's Steaks \nJoe's Steaks & Soda Shop \nCarmen's Famous Italian Hoagies",
+            "The QUICK FIXX \nPrimoHoagies \nMacaroni's Restaurant \nThe Green Line Cafe \nLuhv Vegan Deli \nSpreed Bagelry \nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly \nRoy-Pitz Barrel House \nFederal Donuts",
+            "1. Green Leafs & Bananas \\n\n2. Dim Sum House \\n\n3. Trolley Car Diner \\n\n4. Luhv Vegan Deli \\n\n5. The QUICK FIXX \\n\n6. Spread Bagelry \\n\n7. The Green Line Cafe \\n\n8. KC's Pastries \\n\n9. Wawa \n10.  CJ & Eck's",
+            "The Green Line Cafe \nKisani \nPi Pizza \nZahav \nDexter's Diner \nMaido \nStarr \nJames Beard Award Winners of 2014\nLondon Grill\nSerpico"
+        ]
+    }
+}

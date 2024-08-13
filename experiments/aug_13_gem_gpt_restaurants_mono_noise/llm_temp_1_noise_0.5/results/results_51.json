@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like going to bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Does the restaurant primarily serve pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a restaurant with sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nCO-OP Restaurant & Lounge \nBloomsday Cafe \nCanton 11",
+            " Golden Triangle\n Daleng Restaurant\n Federal Donuts\n Fuji Mountain\n North Bowl\n Canton 11\n Miga Korean BBQ & Sushi\n Cook and Shaker\n Pearl's Oyster Bar\n Fiore Fine Foods",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nRoy-Pitz Barrel House \nEvan's Pizza \nBlackbird Pizzeria \nThe QUICK FIXX \nChestnut 7 \nAudrey Claire",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nRoy-Pitz Barrel House \nChestnut 7 \nEvan's Pizza \nFiore Fine Foods",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nA Tutti, Ristorante Italiano \nThe Milk House \nOlive Garden Italian Restaurant \nThe Grill  Smuckers \nCinCin Restaurant ",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nPizza\nRoy-Pitz Barrel House\nThe Continental Restaurant and Martini Bar\nVedge\nParc\nThe Cheesecake Factory\nJake's & Cooper's Wine Bar & Wine Shop\nBlackbird Pizzeria",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nA Tutti, Ristorante Italiano \nRoy-Pitz Barrel House \nThe Blue Duck \nBlackbird Pizzeria \nEvan's Pizza \nChestnut 7 \nAudrey Claire ",
+            "Zuzu's Kitchen\nThe QUICK FIXX\nChestnut 7\nFiore Fine Foods\nLucca Pizza\nJake's & Cooper's Wine Bar & Wine Shop\nAudrey Claire\nEvan's Pizza\nBetty's Speakeasy\nParc\n",
+            "Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station"
+        ]
+    }
+}

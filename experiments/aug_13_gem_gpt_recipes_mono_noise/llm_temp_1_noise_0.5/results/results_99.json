@@ -1,0 +1,58 @@
+{
+    "99": {
+        "conv_hist": [
+            {
+                "query": "Do you like Vietnamese or Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups or stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like breakfast foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cakes or desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stir-fries?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Sweet salad made with corn and three types of beans \\n\nVegetable curry flavoured with curry powder and ground tumeric \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nFried shrimp and scallops \\n\nMildly spicy chili recipe \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nJam made from blackberries, lemon juice, and sugar \\n\nGrilled salmon seasoned with salt and pepper \\n\nAssorted cheese soup with chicken \n''''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Soup made with vegetables and chicken\n7. Mozzarella dip recipe\n8. Baked mozzarella cheese sticks with marinara sauce\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Strawberry and banana smoothie\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nLow fat diced baked or fried potatoes\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMushy peas that are soft\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nClassic salad with creamy caesar dressing and croutons\nPeppermint chocolate bonbon",
+            "Baked salmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nBaked breakfast bars made with nuts and seeds\nShredded barbecued pork shoulder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "Almond butter \nAlmonds coated with butter and salt \nFried shrimp and scallops with dip sauce\nGrilled salmon \nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChocolate and orange-flavored smoothie\nRoasted almonds\nMilkshake made with fresh strawberries and ice cream\nHomemade soup with chicken, noodles, and spices \nBaked mozzarella cheese sticks with marinara sauce",
+            " Pork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalmon roasted with olive oil, chives, and tarragon leaves\n2-ingredient yogurt from scratch\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein skillet with rice and vegetables\nLarge portion fries with gravy and bacon\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\n****",
+            "1. Jam made from blackberries, lemon juice, and sugar\n2. Almonds coated with butter and salt\n3. Cheese and crackers\n4. Milkshake made with fresh strawberries and ice cream\n5. Sugar-free peanut butter cookies\n6. Slushie drink made from orange juice blended with ice\n7. Mozzarella dip recipe\n8. Baked spinach quiche containing bacon\n9. Ore pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n10. Smoothies made from fruit juice and bananas\n'''",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPeppermint chocolate bonbon\nPork chops glazed with milk and cooked without nuts\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nFried shrimp and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast\nMozzarella dip recipe\n",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPeach cobbler dessert containing whole wheat flour\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets"
+        ]
+    }
+}

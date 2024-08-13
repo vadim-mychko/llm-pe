@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in eating fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in nuts and seeds?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meat-free dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dairy-free dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nLow sugar applesauce cupcakes\n****\nAssorted cheese soup with chicken\n****\nBaked breakfast bars made with nuts and seeds\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            " High protein skillet with rice and vegetables\nLarge portion fries with gravy and bacon\nGrilled salmon seasoned with salt and pepper\nChopped French duck confit preserved by duck oil\nChicken breasts stuffed with bacon and mozzarella\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nVery low-fat assortment of shredded vegetables with seasoning\n'''",
+            " High protein skillet with rice and vegetables\n****\nYogurt from scratch\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nEggless sauerkraut cake\n****\nAlmonds coated with butter and salt\n****\nSmoothie made from banana puree with milk\n****",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled salmon seasoned with salt and pepper\n3. High protein skillet with rice and vegetables\n4. Vegetables and tofu stir fry made into a bento\n5. Calcium-rich soup made with broccoli and beans\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. 2-ingredient yogurt from scratch\n8. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Tofu, mushroom, and tomato poke",
+            "Soup made with ground turkey that is low fat, high carb\nSoup made with cabbage, carrots, potatoes, and onions\nSimple creamy oyster soup\nSoup made with shrimp, onions, and scallops\nSoup made with vegetables and chicken\nSoup made with onions, carrots, and celery ribs\nChicken soup with noodles and spices\nAssorted cheese soup with chicken\nSoup made with broccoli and beans\nCheese and vegetable soup with a beer broth\n****",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Soup made with ground turkey that is low fat, high carb\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Soup made with shrimp, onions, and scallops\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Assorted cheese soup with chicken\n8. Soup made from onions, carrots, and celery ribs\n9. Simple creamy oyster soup\n10. Chicken cooked and flavored with lemon sauce",
+            "1. **Soup made with cabbage, carrots, potatoes, and onions**\n2. **Low fat baked breakfast pie made with sausage (pork) and apples**\n3. **High protein skillet with rice and vegetables**\n4. **Very low-fat assortment of shredded vegetables with seasoning**\n5. **South African vegetable curry flavoured with curry powder and ground tumeric**\n6. **Assorted cheese soup with chicken**\n7. **High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu**\n8. **Low fat smoothies made with greek yogurt, and pineapple**\n9. **Baked spinach quiche containing bacon**\n10. **Soup made with vegetables and chicken**",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. High protein skillet with rice and vegetables\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Soup made with ground turkey that is low fat, high carb\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Assorted cheese soup with chicken\n8. Homemade soup with chicken, noodles, and spices\n9. Calcium-rich soup made with broccoli and beans\n10. Cheese and vegetable soup with a beer broth",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nCalcium-rich soup made with broccoli and beans\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Soup made with onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Soup made with vegetables and chicken\n7. Calcium-rich soup made with broccoli and beans\n8. Cheesy vegetable soup with a beer broth\n9. Homemade soup with chicken, noodles, and spices\n10. Soup made with shrimp, onions, and scallops"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in low-fat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like curry powder?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like garlic?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork chops glazed with milk and cooked without nuts\n****\nBaked spinach quiche containing bacon\n****\nFried shrimp and scallops\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBaked breakfast bars made with nuts and seeds\n****\nHigh protein skillet with rice and vegetables\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nLarge portion fries with gravy and bacon\n****\nChopped French duck confit preserved by duck oil",
+            "Soup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices\nHot pot that is not spicy",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made with ground turkey that is low fat, high carb\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Soup made with shrimp, onions, and scallops\n6. Soup made with onions, carrots, and celery ribs\n7. Simple creamy oyster soup\n8. Soup made with vegetables and chicken\n9. Calcium-rich soup made with broccoli and beans\n10. Taiwanese deep fried crispy chicken cutlets",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSoup made with ground turkey that is low fat, high carb\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nSoup made with beef, carrots and potatoes\nSoup made with shrimp, onions, and scallops\nAssorted cheese soup with chicken\nBeef stew made with beef, carrots and potatoes\nCreamy base with dill flavoring, eggs, and noodles\n''''",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Beef stew made with beef, carrots and potatoes\n4. High protein skillet with rice and vegetables\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Pork chops glazed with milk and cooked without nuts\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Stir-fried tofu, noodles and vegetables Bento\n9. Roasted almonds\n10. Hot pot that is not spicy",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nSoup made with onions, carrots, and celery ribs\nPolish sausage with fermented cabbage\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nBerry cobbler that uses frozen mixed berries\nMeatballs made with ground beef and ground pork\n'''",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nBeef stew made with beef, carrots and potatoes\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n'''",
+            "Mildly spicy chili recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nEasy chicken soup with egg noodles\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSimple creamy oyster soup\nKorean soup containing beef brisket and flavoured with red pepper powder\n```",
+            " Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n####\n Grilled salmon seasoned with salt and pepper\n####\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n####\n Roasted almonds\n####\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n####\n Salmon roasted with olive oil, chives, and tarragon leaves\n####\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n####\n Spanish rice with chicken breast\n####\n Very low-fat assortment of shredded vegetables with seasoning\n####\n Assorted cheese soup with chicken",
+            "Beef stew made with beef, carrots and potatoes\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nHot pot that is not spicy\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices"
+        ]
+    }
+}

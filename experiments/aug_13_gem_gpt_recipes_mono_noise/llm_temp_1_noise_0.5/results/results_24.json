@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Do you like Chinese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish that is made with a pan or oven?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet things?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meals with green vegetables and spices or seasonings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nChinese soup containing beef brisket and flavoured with red pepper powder\n****\nSweet salad made with corn and three types of beans\n****",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Soup made with shrimp, onions, and scallops\n4. Fried shrimp and scallops\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Roasted almonds\n8. Mozzarella dip recipe\n9. Poke of tofu, mushroom and tomatoes\n10. Meatballs made with ground beef and ground pork",
+            "1. **Chinese salad made of eggplant and zucchini, flavoured with soy sauce**\n2. **Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.**\n3. **Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard**\n4. **South African vegetable curry flavoured with curry powder and ground tumeric**\n5. **Slushie drink made from orange juice blended with ice**\n6. **Spaghetti noodles with mussels, anchovy fillets, and capers**\n7. **Korean soup containing beef brisket and flavoured with red pepper powder**\n8. **Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears**\n9. **Cheese and vegetable soup with a beer broth**\n10. **Hot pot that is not spicy**\n",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nShrimp and scallops, fried\nSoup made with shrimp, onions, and scallops\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nCheese and olive appetizer made to look like an eyeball\nPeppermint chocolate bonbon\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\n'''",
+            "****\n1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n****\n3. Fried shrimp and scallops\n****\n4. Grilled salmon seasoned with salt and pepper\n****\n5. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n6. Baked spinach quiche containing bacon\n****\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n8. Roasted almonds\n****\n9. Salmon fillets grilled in a pan with herbs and spices\n****\n10. Stir-fried tofu, noodles and vegetables Bento\n****",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nLow sugar applesauce cupcakes\nPeach cobbler dessert containing whole wheat flour",
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nFried shrimp and scallops\n****\nSeafood Soup with shrimp, scallops and onions\n****\nLow sugar applesauce cupcakes\n****\nGrilled salmon seasoned with garlic, onion, cumin, dill, and lime\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nBaked salmon seasoned with salt and pepper\n****",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Fried shrimp and scallops\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n7. Simple creamy oyster soup\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with vegetables and chicken\n10. Salmon fillets grilled in a pan",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSalmon fillets grilled in a pan with herbs and spices\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nKorean soup containing beef brisket and flavoured with red pepper powder\nSalmon roasted with olive oil, chives, and tarragon leaves",
+            "Salmon fillets grilled in a pan with herbs and spices\n****\nFried shrimp and scallops\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nNorway cake with lingonberry and whipped cream layers\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nPork chops glazed with milk and cooked without nuts\n****\nSoup made with shrimp, onions, and scallops\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nSoup made with onions, carrots, and celery ribs\n****"
+        ]
+    }
+}

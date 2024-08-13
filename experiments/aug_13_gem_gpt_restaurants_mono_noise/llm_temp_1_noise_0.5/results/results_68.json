@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in classic American comfort foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sushi restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that has burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Federal Donuts \nThe Tasty Toast \nThe Juice Merchant \nThe El Bar \nChinatown Kitchen \nGrain Exchange \nThe Milk House \nIzumi \nDaleng Restaurant \nCanton 11\n PrimoHoagies \nJake's & Cooper's Wine Bar & Wine Shop \nCO-OP Restaurant & Lounge \nMisconduct Tavern \nFive Guys \nPearl's Oyster Bar \nFounding Fathers Sports Bar & Grill \nTrolley Car Diner \nLuvh Vegan Deli \nSpread Bagelry \nOishii Pok\u00e9 \nParc \nCafe L'Aube",
+            "1. CinCin Restaurant\n2. Daleng Restaurant\n3. Golden Triangle\n4. Federal Donuts\n5. Heritage\n6. Baan Thai\n7. Dim Sum House\n8. Veda- Modern Indian Bistro\n9. Liberty Lounge\n10. Cafe L'Aube",
+            "1. Federal Donuts\n2. Zazu's Kitchen\n3. Pearl's Oyster Bar\n4. Vedge\n5. Grain Exchange\n6. Parc\n7. Founding Fathers Sports Bar & Grill\n8. Jack's Firehouse\n9. Ristorante La Buca\n10. Franklin's",
+            "The Blue Duck\nThe Cheesecake Factory\nLogan Inn\nValanni\nLucky's Last Chance \nFederal Donuts \nWishbone / Crisp \nSteve's Prince of Steaks \nAllens Lane Art Center\nBar Hygge\nUncle Paul's BBQ\nTrad'r Sam\nTeds Steaks/Boards Head\nThe Twisted Tail\nThe Star\nSouth Philly Tap Room\nThe Shrimp Boat\nSerpico\nPeter Wu's Mandarin Dynasty\nThe Foodery\nThe Field House\nTap Room on 19th\nTaco Cat\nRaw Sushi and Tapas\nPYT\nPOPE\nOff the Hook Seafood and Fish Market\nThe Olde Bar\nO'Neals Pub\nMorgan's Pier\nMemphis Taproom\nKensington Quarters\nKhyber Pass Pub\nHigh Street on Market\nGrace Tavern\nGayborhood\nFranny Lou's Porch\nFinnigan's Wake\nEl Toro\nCantina Dos Segundos\nCacia's Bakery LLC\nBurrito Bandito\nBrush Street Gallery\nBrauhaus Schmitz\nBishops Collar\nBeer World\nBardot\nBank & Bourbon\nAnastasi Seafood\nAmerican Sardine Bar\nAgi's\nAether\nAce Bar",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Le Pain Quotidien \n CinCin Restaurant",
+            "Daleng Restaurant \nCanton 11 \nThe Green Line Cafe \nDim Sum House \nGreen Leafs & Bananas \nVedge \nBlackbird Pizzeria \nThe Juice Merchant \nSpread Bagelry \nThe QUICK FIXX ",
+            "1. The QUICK FIXX \n2. Luhv Vegan Deli \n3. Green Leafs & Bananas \n4. The Green Line Cafe \n5. Lisa's Kitchen \n6. Dim Sum House \n7. Trolley Car Diner\n8. Spread Bagelry \n9. Steve's Prince of Steaks \n10. CinCin Restaurant",
+            "Wawa \nFive Guys \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance \nLove & Honey Fried Chicken \nFederal Donuts \nWishbone \nLisa's Kitchen \nFranklin's",
+            "Daleng Restaurant \nFederal Donuts \nFuji Mountain \nHibachi Sushi \nFuji Japanese Steakhouse & Sushi Bar \nChina Garden \nRoyal Izakaya \nAriana \nCharlie was a sinner. \nOcean Harbor Chinese Restaurant\n\n",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station"
+        ]
+    }
+}

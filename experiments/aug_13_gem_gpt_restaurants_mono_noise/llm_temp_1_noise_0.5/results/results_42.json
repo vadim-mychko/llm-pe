@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Do you like American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have a taste for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast or brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Cheesecake Factory\n2. Founding Fathers Sports Bar & Grill\n3. Misconduct Tavern\n4. Pearl's Oyster Bar\n5. Malbec Argentine Steakhouse\n6. The El Bar\n7. Parc\n8. Betty's Speakeasy\n9. Zuzu's Kitchen\n10. Five Guys",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nThe Green Line Cafe \\n\nWater Works Restaurant & Lounge \\n\nChinatown 11 \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nGran Caffe L'Aquila \\n\nAudrey Claire",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. Daleng Restaurant\n7. Federal Donuts\n8. Mong Kok Station\n9. The Tasty Toast\n10. Le Pain Quotidien",
+            "Jack's Firehouse \\n\nAudrey Claire \\n\nPearl's Oyster Bar \\n\nThe Green Line Cafe \\n\nCO-OP Restaurant & Lounge \\n\nEvan's Pizza \\n\nThe QUICK FIXX \\n\nFive Guys \\n\nMacaroni's Restaurant \\n\nThe Tavern Restaurant",
+            " The Tavern Restaurant \nMisconduct Tavern \nFive Guys \nNorth Bowl \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nThe El Bar \nFranklin's \nJD Mcgillicuddy's Manayunk \nSpread Bagelry",
+            "1. Five Guys\n2. Lisa's Kitchen\n3. Green Leafs & Bananas\n4. The Green Line Cafe\n5. Spread Bagelry\n6. Luhv Vegan Deli\n7. McMenamin's Tavern\n8. Betty's Speakeasy\n9. Rival Bros Coffee\n10. Cafe L'Aube",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nPrimoHoagies\nLacroix Restaurant at The Rittenhouse\n Mong Kok Station",
+            "1. Macaroni's Restaurant\n2. Lisa's Kitchen\n3. Green Leafs & Bananas\n4. The Green Line Cafe\n5. CJ & Eck's\n6. Oishii Pok\u00e9\n7. Jack's Firehouse\n8. Founding Fathers Sports Bar & Grill\n9. Spread Bagelry\n10. The QUICK FIXX",
+            "1. Zuzu's Kitchen\n2. PrimoHoagies\n3. Daleng Restaurant\n4. The Juice Merchant\n5. Mong Kok Station\n6. The Tasty Toast\n7. The Green Line Cafe\n8. Spread Bagelry\n9. Luhv Vegan Deli\n10. Green Leafs & Bananas",
+            "1. Steve's Prince of Steaks\n2. Green Leafs & Bananas\n3. The Green Line Cafe\n4. Spread Bagelry\n5. Betty's Speakeasy\n6. The Cheesecake Factory\n7. Founding Fathers Sports Bar & Grill\n8. Wawa\n9. Love & Honey Fried Chicken\n10. CJ & Eck's"
+        ]
+    }
+}

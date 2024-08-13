@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something with chicken in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a cafe or coffee shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want something to drink?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying something with smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for juice?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a smoothie shop?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Federal Donuts\nFuji Mountain\nJD Mcgillicuddy's Manayunk\nJack's Firehouse\nIzumi\nJinxed \nGran Caffe L'Aquila \nFranklin's \nEvan's Pizza \nThe El Bar",
+            "Mood Indian Restaurant\nGermantown Garden\nZuzu's Kitchen\nThe Juice Merchant\nFederal Donuts\nDaleng Restaurant\nThe Tasty Toast\nHeritage\nIzumi\nA Tutti, Ristorante Italiano",
+            "Daleng Restaurant\nMonster Vegan\nVedge\nDim Sum House\nHey Hummus\nThe QUICK FIXX\nBlackbird Pizzeria\nNorth Bowl\nBenna's Cafe\nBetty's Speakeasy",
+            "1. Luhv Vegan Deli \\n\n2. Veggie Monster \\n\n3. The Green Line Cafe \\n\n4. Spread Bagelry \\n\n5. Betty's Speakeasy \\n\n6. Green Leafs & Bananas \\n\n7. Hey Hummus \\n\n8. The QUICK FIXX \\n\n9. Blackbird Pizzeria \\n\n10. Vedge",
+            "1. The QUICK FIXX\n2. Zuzu's Kitchen\n3. Hey Hummus \n4. Essene Market & Caf\u00e9 \n5. Betty's Speakeasy \n6. The Green Line Cafe \n7. Spread Bagelry \n8. Rival Bros Coffee \n9. Cafe L'Aube\n10. Oteri's Italian Bakery | North 5th St",
+            "Monster Vegan \nBenna's Cafe \nVedge\nHey Hummus\nThe QUICK FIXX\nThe Green Line Cafe\nRival Bros Coffee\nGran Caffe L'Aquila \nBetty's Speakeasy\nCafe L'Aube\nSpread Bagelry",
+            "1. The QUICK FIXX \n2. Tu's Tea & Banh Mi South Philly \n3. The Green Line Cafe \n4. Green Leafs & Bananas \n5. Spread Bagelry \n6. Essene Market & Caf\u00e9 \n7. Betty's Speakeasy \n8. Rival Bros Coffee \n9. Monsters Vegan \n10. Hey Hummus",
+            "The Juice Merchant \nSister Muhammad's Kitchen \nTrolley Car Diner \nLuvh Vegan Deli \nHey Hummus \nVedge \nMonster Vegan \nEssene Market & Caf\u00e9 \nThe Green Line Cafe \nThe QUICK FIXX",
+            "1. The Green Line Cafe\n2. Mugshots Coffeehouse\n3. Bloomsday Cafe\n4. Parc\n5. Rival Bros Coffee\n6. Cafe L'Aube\n7. Fiore Fine Foods\n8. Betty's Speakeasy\n9. Gran Caffe L'Aquila\n10. KC's Pastries\n",
+            " The Green Line Cafe \\n\nSpread Bagelry \\n\nCafe L'Aube \\n\nRival Bros Coffee \\n\nGran Caffe L'Aquila \\n\nBetty's Speakeasy \\n\nTrolley Car Diner \\n\nJD Mcgillicuddy's Manayunk \\n\nThe QUICK FIXX \\n\nJack's Firehouse"
+        ]
+    }
+}

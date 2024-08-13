@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a preference for vegetarian meals?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Indian or Chinese vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soup, salads or smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that include rice?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with noodles?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in tofu or mushroom dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tomatoes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChopped French duck confit preserved by duck oil\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCheese with crackers\nCheesecake made with cream cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n'''",
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\n'''''",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. 2-ingredient yogurt from scratch\n4. Vegetable curry flavoured with curry powder and ground tumeric\n5. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Stir-fried tofu, noodles and vegetables Bento\n8. Queso made from melted cheese and chili peppers\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Mushroom calzone made with milk, cashew cream, black tea, almond milk, pasta\n\"\"\"",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Baked breakfast bars made with nuts and seeds\n6. Vegetarian vegetable soup\n7. Simple creamy oyster soup\n8. Shredded barbecued pork shoulder\n9. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n10. Sweet salad made with corn and three types of beans\n''''",
+            "1. High protein skillet with rice and vegetables\n2. Vegetable curry flavoured with curry powder and ground tumeric\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Roasted almonds\n7. Taiwan Veggie Cuisine which does not use any meat (fish, animals) or dairy\n8. Low fat diced baked or fried potatoes\n9. Low-fat coconut alcohol-free cocktail\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            " High protein skillet with rice and vegetables\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nPeppermint chocolate bonbon\n****\nPeach cobbler dessert containing whole wheat flour\n****\nPork chops glazed with milk and cooked without nuts\n****\nSoup made with vegetables and chicken\n****\nBerry cobbler that uses frozen mixed berries\n****\nSweet salad made with corn and three types of beans",
+            " Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSpaghetti noodles with mussels, anchovy fillets, and capers\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nLow fat assorted fruit dessert\nSmoothie made from fruit juice and bananas\nCreamy base with dill flavoring, eggs, and noodles\nSmoothie made from banana puree with milk\nLow fat coconut alcohol-free cocktail",
+            "**1. Creamy base with dill flavoring, eggs, and noodles**\n**2. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning**\n**3. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned**\n**4. Baked spinach quiche containing bacon**\n**5. Spaghetti noodles with mussels, anchovy fillets, and capers**\n**6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs**\n**7. Low fat baked breakfast pie made with sausage (pork) and apples**\n**8. Italian salad made from romain lettuce, artichokes, and tomatoes**\n**9. Peach cobbler dessert containing whole wheat flour**\n**10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned**",
+            "1. Stir-fried tofu, noodles and vegetables Bento\n2. Poke of tofu, mushroom and tomatoes\n3. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n6. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n7. Creamy base with dill flavoring, eggs, and noodles\n8. High protein skillet with rice and vegetables\n9. Vietnamese style noodle soup\n10. Grilled tofu over rice\n",
+            "Poke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nVery low-fat assortment of shredded vegetables with seasoning\nNor way cake with lingonberry and whipped cream layers\nStir-fried tofu, noodles and vegetables Bento\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nBaked mozzarella cheese sticks with marinara sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n Mozzarella dip recipe\n"
+        ]
+    }
+}

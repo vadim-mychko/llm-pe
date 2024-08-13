@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer pizzas?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you more interested in a bar or a restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves both pizza and Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan pizzas?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sandwich place that offers vegan pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Thai food and vegan pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a restaurant that serves vegan Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a restaurant that serves pizzas?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nRoy-Pitz Barrel House \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nEvan's Pizza \\n\nFiore Fine Foods \\n\nChestnut 7 \\n\nParc \\n\nGran Caffe L'Aquila\n",
+            "Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nFederal Donuts \\n\nRoy-Pitz Barrel House \\n\nEvan's Pizza \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nChestnut 7 \\n\nKC's Pastries \\n\nWawa",
+            "1. Daleng Restaurant\n2. Zuzu's Kitchen\n3. Golden Triangle\n4. The Tasty Toast\n5. A Tutti, Ristorante Italiano\n6. Bistro SouthEast\n7. Baan Thai\n8. CinCin Restaurant\n9. Lacroix Restaurant at The Rittenhouse\n10. Fiore Fine Foods",
+            " Zuzu's Kitchen \nGolden Triangle \nMood Indian Restaurant\nDaleng Restaurant \nGrain Exchange \nBistro SouthEast \nIzumi \nCanton 11 \nCO-OP Restaurant & Lounge \nLaCroix Restaurant at The Rittenhouse",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nDaleng Restaurant\nBaan Thai\nVedge\nMonster Vegan\nBlackbird Pizzeria\nThe QUICK FIXX\nHey Hummus\nVegan LUHV Deli",
+            "The QUICK FIXX \\n\nMonster Vegan \\n\nThe Blue Duck \\n\nGrain Exchange \\n\nLove & Honey Fried Chicken \\n\nHey Hummus \\n\nBlackbird Pizzeria \\n\nVedge \\n\nFlourish Bakery Thai \\n\nTwo Gander \\n",
+            " 1. The QUICK FIXX \\n\n2. Fiore Fine Foods \\n\n3. Jack's Firehouse \\n\n4. The Continental Restaurant and Martini Bar \n5. The Blue Duck \\n\n6. Benna's Cafe \\n\n7. Vedge \\n\n8. The Green Line Cafe \\n\n9. Monster Vegan \\n\n10. Hey Hummus \\n",
+            "Zuzu's Kitchen \nThe QUICK FIXX \nThe Green Line Cafe \nThe Juice Merchant \nVedge \nFederal Donuts \nMonster Vegan \nBenna's Cafe \nHey Hummus \nSpread Bagelry",
+            "1. Fiore Fine Foods \n2. Zuzu's Kitchen \n3. The Green Line Cafe \n4. Blackbird Pizzeria \n5. A Tutti, Ristorante Italiano \n6. Evan's Pizza \n7. The QUICK FIXX \n8. Daleng Restaurant \n9. Green Leafs & Bananas \n10. Betty's Speakeasy\n",
+            "Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nThe QUICK FIXX \\n\nPizza Shacka \\n\nThe Blue Duck \\n\nMonster Vegan \\n\nBlackbird Pizzeria \\n\nRoy-Pitz Barrel House \\n\nFiorella \\n\nChestnut 7"
+        ]
+    }
+}

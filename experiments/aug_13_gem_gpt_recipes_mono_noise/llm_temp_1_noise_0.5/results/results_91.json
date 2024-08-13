@@ -1,0 +1,58 @@
+{
+    "91": {
+        "conv_hist": [
+            {
+                "query": "What is your all-time favorite thing to grill?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like snacks?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like recipes with pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like shrimp or scallops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are creamy?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Salmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked Mozzarella cheese sticks with marinara sauce\nPeppermint chocolate bonbon\nChopped French duck confit preserved by duck oil\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\n'''",
+            "1. Cheese with crackers\n2. Almonds coated with butter and salt\n3. Fried shrimp and scallops\n4. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n5. Smoothies made from fruit juice and bananas\n6. Sugar-free peanut butter cookies\n7. Mozzarella dip recipe\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Roasted almonds\n10. Low fat diced baked or fried potatoes\n''''",
+            "Pork chops glazed with milk and cooked without nuts\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\nLow fat assorted fruit dessert\nVegetarian stir fry with tofu, noodles and vegetables\nHomemade soup with chicken, noodles, and spices\nBanana bread made with whole wheat flour and walnuts\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
+            "Mozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nCreamy base with dill flavoring, eggs, and noodles\nCheese and crackers\nGarlic bread with cheddar, green onions, and mayonnaise\nLow fat diced baked or fried potatoes\nCheese with olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            " Creamy base with dill flavoring, eggs, and noodles \\n\nGarlic bread with cheddar, green onions, and mayonnaise \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nCheese and crackers \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nAlmonds coated with butter and salt \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk \\n\nChia seed pudding made from vanilla and coconut \\n\nHomemade soup with chicken, noodles, and spices \\n",
+            "1. Roasted almonds\n2. Almonds coated with butter and salt\n3. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n4. Peppermin                              t chocolate bonbon\n5. Gluten-free, egg-free, dairy-free, nut-free fudge\n6. Sugar-free peanut butter cookies\n7. Low sugar applesauce cupcakes\n8. Low fat coconut alcohol-free cocktail\n9. Mozzarella dip recipe\n10. Cheese with crackers",
+            "1. Large portion fries with gravy and bacon\n2. Low sugar applesauce cupcakes\n3. Baked breakfast bars made with nuts and seeds\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Grilled salmon seasoned with salt and pepper\n7. Peach cobbler dessert containing whole wheat flour\n8. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n9. Peppermint chocolate bonbon\n10. Homemade soup with chicken, noodles, and spices",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Queso made from melted cheese and chili peppers\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Baked spinach quiche containing bacon\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Peppermint chocolate bonbon\n8. Smoothie made from banana puree with milk\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Garlic bread with cheddar, green onions, and mayonnaise\n3. Baked breakfast bars made with nuts and seeds\n4. Baked spinach quiche containing bacon\n5. Simple creamy oyster soup\n6. Roasted almonds\n7. Poke of tofu, mushroom and tomatoes\n8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n9. Vegetarian soup using chicken stock, brown rice and vegetables\n10. Creamy Waldorf salad. Includes \"Cavendish\" brand red grapes\n''''",
+            "Creamy base with dill flavoring, eggs, and noodles\nTofu, mushroom and tomatoes poke\nQueso made from melted cheese and chili peppers\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat shredded barbecued pork shoulder\nMozzarella cheese sticks baked with marinara sauce\nGarlic bread with cheddar, green onions, and mayonnaise"
+        ]
+    }
+}

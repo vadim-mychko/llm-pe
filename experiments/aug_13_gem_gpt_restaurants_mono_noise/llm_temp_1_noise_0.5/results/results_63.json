@@ -1,0 +1,58 @@
+{
+    "63": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for something that serves Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a juice or smoothie shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegetarian juice or smoothie spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are there any other cuisines you're interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are looking for a place that offers gluten-free options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan options?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nZuzu's Kitchen \nPrimerHoagies \nThe Tasty Toast \nThe Juice Merchant \nSpread Bagelry \nTu's Tea & Banh Mi South Philly \nVedge \nMonster Vegan \nBetty's Speakeasy",
+            "Grain Exchange \nWater Works Restaurant & Lounge \nBaan Thai \nThe Juice Merchant \nZuzu's Kitchen \nFederal Donuts \nGreen Leafs & Bananas \nThe Cheesecake Factory \nSaladworks \nSweetgreen \nThe Green Line Cafe",
+            "1. Zuzu's Kitchen\n2. Baan Thai\n3. Salad Works\n4. Blackbird Pizzeria\n5. The QUICK FIXX\n6. Green Leafs & Bananas\n7. The Green Line Cafe\n8. Spread Bagelry\n9. Audrey Claire\n10. Healthy Habits Cafe",
+            "Grain Exchange \nDaleng Restaurant \nBaan Thai \nThe Green Line Cafe \nThe Juice Merchant \nFresh Grocer - Progress Plaza \nSang Kee Peking Duck House\nCo-OP Restaurant & Lounge\nThe QUICK FIXX \nSpread Bagelry",
+            "The Juice Merchant \nThe Fresh Grocer - Progress Plaza \nGreen Leafs & Bananas \nVedge \nOishii Pok\u00e9 \nJake's & Cooper's Wine Bar & Wine Shop \nBlackbird Pizzeria \nKelly's Homemade Ice Cream Old City \nSweet Amalia \nThe Naked Food Bar",
+            "Zuzu's Kitchen \nGolden Triangle \nThe Juice Merchant \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nFederal Donuts \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nDaleng Restaurant ",
+            "Green Leafs & Bananas \nThe Juice Merchant \nBaan Thai \nFuji Mountain \nThe Fresh Grocer - Progress Plaza \nWegmans \nWhole Foods Market \nTarget \nGreensgrow Farms Acme Market \nGiant Heirloom Market",
+            " The Juice Merchant \nZuzu's Kitchen \nGreen Leafs & Bananas \nBaan Thai \nSpread Bagelry \nJake's & Cooper's Wine Bar & Wine Shop \nThe QUICK FIXX \nRoy-Pitz Barrel House \nThe Fresh Grocer - Progress Plaza \nPure Tacos",
+            "Daleng Restaurant \nThe Juice Merchant \nGreen Leafs & Bananas \nWawa \nFederal Donuts \n Audrey Claire \nPure Tacos \nKC's Pastries",
+            "1. The Juice Merchant \\n\n2. The QUICK FIXX \\n\n3. Green Leafs & Bananas \\n\n4. Wawa \\n\n5. Spread Bagelry \\n\n6. Rival Bros Coffee \\n\n7. Fiore Fine Foods \\n\n8. Essene Market & Caf\u00e9 \\n\n9. The Fresh Grocer - Progress Plaza \\n\n10. Baan Thai \\n"
+        ]
+    }
+}

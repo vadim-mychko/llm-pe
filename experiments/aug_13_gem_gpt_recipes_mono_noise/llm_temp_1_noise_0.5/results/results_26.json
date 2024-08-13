@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Do you like the taste of orange?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a creamy base with dill flavoring, eggs, and noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbequed pork shoulder?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spaghetti noodles with seafood such as mussels, anchovy fillets, and capers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nChocolate and orange-flavoured smoothie\nSpanish rice with chicken breast\nSlushie drink made from orange juice blended with ice\nOrange juice smoothie with cocoa bean and chocolate\nCarrot cake quickbread\nHomemade orange sherbert\nChicken breasts dipped in butter and orange sauce\nLoaded morning drink\nVery sweet orange juice diluted with water\n'''",
+            "Mildly spicy chili recipe\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nLow carb beef spicy sausage mix\n****\nFried shrimp and scallops\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nMeatballs made with ground beef and ground pork\n****\nChicken cooked and flavored with lemon sauce\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. **Very low-fat assortment of shredded vegetables with seasoning**\n2. **Soup with ground turkey that is low fat, high carb**\n3. **Low fat baked breakfast pie made with sausage (pork) and apples**\n4. **Low fat sweet potato fries made with cajun seasoning**\n5. **Soup made with vegetables and chicken**\n6. **Low fat assorted fruit dessert**\n7. **Almonds coated with butter and salt**\n8. **Homemade soup with chicken, noodles, and spices**\n9. **Digestion-friendly waffles**\n10. **Roast turkey with plum sauce**",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nMildly spicy chili recipe\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork chops glazed with milk and cooked without nuts",
+            "Mildly spicy chili recipe\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled salmon seasoned with salt and pepper\nPollo al forno (baked chicken) with lemon and olives\nItalian salad made from romaine lettuce, artichokes, and tomatoes\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpicy meatloaf made from ground beef meat, sauce made with salsa, ready-to-serve 'delallo' italian seasoned breadcrumbs, and salsa\nSweet salad made with corn and three types of beans\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            " Mildly spicy chili recipe \\n\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \\n\nKorean soup containing beef brisket and flavoured with red pepper powder \\n\nMeatballs made with ground beef and ground pork \\n\nShredded barbecued pork shoulder \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nGrilled salmon seasoned with salt and pepper \\n\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime \\n\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nBeef stew made with beef, carrots and potatoes \\n",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Vietnamese noodle soup made from scratch\n5. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n6. Grilled salmon seasoned with salt and pepper\n7. Roasted almonds\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Mushy peas that are soft",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Arepas filled with ground beef, seasoned with onion and salt\n6. Beef stew made with beef, carrots and potatoes\n7. Fajita - a Mexican dish with grilled meat\n8. Grilled salmon seasoned with salt and pepper\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Tacos containing ground beef with tomato and onion\n",
+            " High protein skillet with rice and vegetables\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nSpanish rice with chicken breast\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nBaked breakfast bars made with nuts and seeds\n****\nBaked spinach quiche containing bacon",
+            "High protein skillet with rice and vegetables \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nSpanish rice with chicken breast \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nKorean soup containing beef brisket and flavoured with red pepper powder \\n\nMildly spicy chili recipe \\n\nStir-fried tofu, noodles and vegetables Bento \\n\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nChicken cooked and flavored with lemon sauce"
+        ]
+    }
+}

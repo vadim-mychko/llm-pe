@@ -1,0 +1,58 @@
+{
+    "30": {
+        "conv_hist": [
+            {
+                "query": "Do you like Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you willing to try Mediterranean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are desserts something you're interested in?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something you can eat with your hands?",
+                "response": "no"
+            },
+            {
+                "query": "Does the food have to be vegetarian?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to eat vegan?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nHeritage \nGrain Exchange \nTalluto's Authentic Italian Food \nFuji Mountain \nThe Tavern Restaurant",
+            "Daleng Restaurant\nGermantown Garden\nPrimoHoagies\nThe Tasty Toast\nFederals Donuts\nMong Kok Station\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nThe Juice Merchant\nGolden Triangle",
+            "The Grill  Smuckers\nThe Tavern Restaurant\nThe Blue Duck\nBloomsday Cafe\nChestnut 7\nJack's Firehouse\nFranklin's \nParc\nFounding Fathers Sports Bar & Grill\nGreen Leafs & Bananas",
+            "Ristorante La Buca\nAudrey Claire\nBlackbird Pizzeria",
+            "Blackbird Pizzeria \nThe QUICK FIXX \nBetty's Speakeasy \nFiore Fine Foods \nTu's Tea & Banh Mi South Philly \nJake's & Cooper's Wine Bar & Wine Shop \nOlive Garden Italian Restaurant \nCinCin Restaurant \nBistro SouthEast \nRoy-Pitz Barrel House\nFederal Donuts \nBloomsday Cafe \nJack's Firehouse \nValverde \nGirard MKT East \nFranklin's \nJohnny Brenda's\nOishii Pok\u00e9 \nTiki Island Style North \nThe Grilled Cheese & Crab Cake Co.\nHorn Tavern \nPrestige Diner \nSpread Bagelry \nLucky's Last Chance \nAudrey Claire \nPearl's Oyster Bar \nVedge \nLittle Noodle's Kitchen\nDelicias Cafe \nThe Royal Mile Society \nThe Insomnia Factory \nVilla Di Roma\nFat Salmon",
+            "Blackbird Pizzeria \\n\nThe QUICK FIXX \\n\nFreddy's Subs \\n\nZavino \nBuon Gusto \\n\nLiscio Cucina \\n\nLa Viola Osteria \\n\nCafe L'Aube \\n\nSaxby's Cheesesteaks - Bala Cynwyd \\n\nSaxbys Coffee - Philadelphia- Bala Cynwyd",
+            "****\n name: A Tutti, Ristorante Italiano \\n categories: Restaurants, Pizza, Coffee & Tea, Italian, Food\n****\n name: Fiore Fine Foods \\n categories: Restaurants, Food, Pizza, Cafes, Bakeries, Desserts, Breakfast & Brunch, American (New), Italian, Coffee & Tea\n****\n name: Betty's Speakeasy \\n categories: Restaurants, Coffee & Tea, Desserts, Bakeries, Food, Sandwiches\n****\n name: Blackbird Pizzeria \\n categories: Restaurants, Desserts, Kosher, Pizza, Salad, Food, Vegan, Chicken Wings\n****\n name: The QUICK FIXX \\n categories: Restaurants, Pizza, Vegetarian, Salad, Italian\n****\n name: The Cheesecake Factory \\n categories: Restaurants, Salad, American (Traditional), American (New), Seafood, Food, Desserts\n****\n name: Oishii Pok\u00e9 \\n categories: Restaurants, Mexican, Food, Hawaiian, Poke, Japanese\n****\n name: Gran Caffe L'Aquila \\n categories: Restaurants, Gelato, Coffee & Tea, Food, Italian, Bakeries\n****\n name: Parc \\n categories: Restaurants, French, Wine Bars, Nightlife, American (New), Bars, Cafes, Breakfast & Brunch\n****\n name: Rival Bros Coffee \\n categories: Restaurants, Coffee Roasteries, Food, Cafes, Coffee & Tea",
+            "Golden Triangle\nCinCin Restaurant\nCanton 11\nTu's Tea & Banh Mi South Philly\nZuzu's Kitchen\nJake's & Cooper's Wine Bar & Wine Shop\nThe Tavola Restaurant at Passyunk Square\nThe Blue Duck\nTrolley Car Diner\nThe Fresh Grocer - Progress Plaza",
+            "** * Monster Vegan\n* Hey Hummus\n* Green Leafs & Bananas\n* Vedge\n* Benna's Cafe\n* Blackbird Pizzeria\n* Luhv Vegan Deli\n* The QUICK FIXX\n* Betty's Speakeasy\n* Sister Muhammad's Kitchen * **\n\n",
+            "1. Betty's Speakeasy\n2. Blackbird Pizzeria\n3. Fiore Fine Foods\n4. KC's Pastries\n5. Lucky's Last Chance\n6. Benna's Cafe\n7. Spread Bagelry\n8. The QUICK FIXX\n9. Sister Muhammad's Kitchen\n10. The Green Line Cafe"
+        ]
+    }
+}

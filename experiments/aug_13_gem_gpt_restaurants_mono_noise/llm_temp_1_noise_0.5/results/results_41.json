@@ -1,0 +1,58 @@
+{
+    "41": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for breakfast places?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast foods like bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you focused on finding foods that are fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to find a coffee shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that serve sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you finding a restaurant that serves Mexican food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with Hawaiian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Blue Duck\nThe Tasty Toast\nThe Grill  Smuckers\nBloomsday Cafe\nBistro SouthEast\nThe El Bar\nThe Tavern Restaurant\nFederal Donuts\nThe QUICK FIXX\nJack's Firehouse",
+            "Audrey Claire \\n\nEvan's Pizza \\n\nThe Blue Duck \\n\nThe Grill  Smuckers \\n\nVeda - Modern Indian Bistro \\n\nThe Tasty Toast \\n\nRestaurant & Lounge \\n\nCO-OP Restaurant & Lounge \\n\nThe Milk House \\n\nThe Continental Restaurant and Martini Bar",
+            "The Grilled  Smuckers \nPearl's Oyster Bar \nThe Blue Duck \nThe Tasty Toast \nThe Milk House \nValley Green Inn \nBloomsday Cafe \nThe Continental Restaurant and Martini Bar \nCook and Shaker \nParc",
+            "The Fresh Grocer - Progress Plaza\nWawa\nOishii Pok\u00e9\nThe Green Line Cafe\nTrucker's Paradise\nChengdu Gourmet\nStarbucks\nGuarino's\nBobby's Burger Palace\nRed Owl Tavern",
+            "Macaroni's Restaurant\nDaleng Restaurant\nBloomsday Cafe\nBlackbird Pizzeria\nFederal Donuts\nIzumi\nThe QUICK FIXX\nBaan Thai\nSpread Bagelry\nThe Cheesecake Factory",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nPrimeHoagies \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nGrain Exchange \\n\nIzumi \\n\nA Tutti, Ristorante Italiano \\n\nThe Milk House",
+            "- Oishii Pok\u00e9 \n- Cantina Los Caballitos \n- Pure Tacos \n- Lolita Tex-Mex Cocina & Tequila Bar \n- Distrito \n- Han Dynasty \n- El Rey De Las Arepas Food Truck\n- La Calaca Feliz\n- Azul 13 Taquer\u00eda \n- Casa Mexico",
+            "1. Oishii Pok\u00e9\n2. Pure Tacos\n3. Luhv Vegan Deli \n4. Sister Muhammad's Kitchen \n5. The Green Line Cafe\n6. Dim Sum House \n7. The QUICK FIXX \n8. Fiore Fine Foods \n9. Baker Street Bread Co. \n10. Daleng Restaurant",
+            "Pure Tacos \\n\nOishii Pok\u00e9 \\n\nRistorante La Buca \\n\nFranklin's \\n\nLucky's Last Chance \\n\nMad River Manayunk \\n\nVeda - Modern Indian Bistro \\n\nJack's Firehouse \\n\nAudrey Claire \\n\nMalbec Argentine Steakhouse",
+            "Pure Tacos \\n\nOishii Pok\u00e9 \\n\nEl Rey \\n\nSang Kee Peking Duck House \\n\nMiga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nSabrina's Cafe \\n\nOteri's Italian Bakery | North 5th St"
+        ]
+    }
+}

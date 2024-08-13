@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Do you want to grab some sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to find a place that serves breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cafe that makes pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in finding a place that serves Korean food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some Thai as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dim sums?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in getting some burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that offers seafood?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Izumi \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nCanton 11 \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nNorth Bowl \\n\nTrolley Car Diner \\n\nKC's Pastries",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Daleng Restaurant \n Zuzu's Kitchen \n Lacroix Restaurant at The Rittenhouse \n CinCin Restaurant \n The Juice Merchant \n Heritage \n Kokopelli Restaurant & Tequila Bar\n Federal Donuts",
+            "1. Bistro SouthEast \n2. Miga Korean BBQ & Sushi \n3. GuZuzu's Kitchen \n4. The Green Line Cafe \n5. Wine & SpiritsOishii Pok\u00e9 \n6. Talluto's Authentic Italian Food \n7. Blackbird Pizzeria \n8. PrimoHoagies \n9. A Tutti, Ristorante Italiano",
+            "Bistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nGrain Exchange \\n\nHeritage \\n\nPearl's Oyster Bar \\n\nJack's Firehouse \\n\nKokopelli Restaurant & Tequila Bar \\n\nMonk's Cafe \\n\nHan Dynasty \\n\nMisconduct Tavern",
+            "1. Bistro SouthEast \n2. Miga Korean BBQ & Sushi \n3. Daleng Restaurant \n4. Han Dynasty \n5. Dim Sum House \n6. Sang Kee Peking Duck House \n7. Canton 11 \n8. Din Sum Garden \n9. Center City Churros \n10. Double KnotChinatown",
+            "1. Golden Triangle \n2. Bistro SouthEast \n3. Dim Sum House \n4. CinCin Restaurant \n5. A Tutti, Ristorante Italiano \n6. Sang Kee Peking Duck House \n7. Talluto's Authentic Italian Food \n8. Ristorante La Buca \n9. Pasta Gallery \n10. PrimoHoagies",
+            "Daleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nVeda - Modern Indian Bistro \nDim Sum House \nLa Buca \nGolden Triangle \nCinCin Restaurant \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food",
+            " Daleng Restaurant \nZuzu's Kitchen \nGolden Triangle \nCastellino's \nTalluto's Authentic Italian Food \nA Tutti, Ristorante Italiano \nDim Sum House \nCanton 11 \nSang Kee Peking Duck House \nPrimoHoagies",
+            "Miga Korean BBQ & Sushi \\n\nDaleng Restaurant \\n\nSteve's Prince of Steaks \\n\nRoy-Pitz Barrel House \\n\nGolden Triangle \\n\nSister Muhammad's Kitchen \\n\nFortune Garden Restaurant \\n\nDim Sum House \\n\nTrolley Car Diner \\n\nTalluto's Authentic Italian Food"
+        ]
+    }
+}

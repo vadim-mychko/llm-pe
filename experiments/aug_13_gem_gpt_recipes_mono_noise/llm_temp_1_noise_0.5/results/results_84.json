@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rice?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sauces?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty snacks?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Pork chops glazed with milk and cooked without nuts\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast\nMozzarella dip recipe\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMeatballs made with ground beef and ground pork",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Chowder made from shrimp, onions, scallops\n6. Soup made with ground turkey that is low fat, high carb\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Baked seafood sushi with smoked fish\n9. Soup made with onions, carrots, and celery ribs\n10. Italian salad made from romaine lettuce, artichokes, and tomatoes\n'''",
+            " Salmon fillets grilled in a pan with herbs and spices\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Beef stew made with beef, carrots and potatoes\n****\n Chicken cooked and flavored with lemon sauce\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with ground turkey that is low fat, high carb",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Grilled squid stuffed with filet mignon and green onions\n5. Grilled glazed salmon\n6. Salmon croquettes made with breadcrumbs and mayonnaise\n7. 3-minute salmon chowder\n8. Soy salmon with kabocha squash\n9. Smoked Atlantic salmon on a bagel with cream cheese\n10. Grilled salmon with lime and chili\n",
+            " Pork chops glazed with milk and cooked without nuts\n**Norwegian Cake**\n**Apple Pie**\n**Low Sugar Applesauce Cupcakes**\n**Dessert**\n**Peach Cobbler**\n**Berry Cobbler**\n**French Chocolate Cake**\n**Peppermint Chocolate BonBon**\n**Custard**",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nLow sugar applesauce cupcakes\nBaked mozzarella cheese sticks with marinara sauce\nSugar-free peanut butter cookies\nSlushie drink made from orange juice blended with ice\nNorway cake with lingonberry and whipped cream layers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nHomemade soup with chicken, noodles, and spices\nBanana bread made with whole wheat flour and walnuts\n",
+            " Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nPeppermint chocolate bonbon\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nBaked low fat breakfast pie made with sausage (pork) and apples\nJam made from blackberries, lemon juice, and sugar\nGrilled salmon seasoned with salt and pepper",
+            "****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Low sugar applesauce cupcakes\n****\n Sugar-free peanut butter cookies\n ****\n Baked breakfast bars made with nuts and seeds\n****\n Assorted cheese soup with chicken\n****\n Norway cake with lingonberry and whipped cream layers\n****\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\n Peppermint chocolate bonbon\n ****\n Peach cobbler dessert containing whole wheat flour\n****\n Classic salad with creamy caesar dressing and croutons\n''''",
+            "1. Mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Meatballs made with ground beef and ground pork\n5. Baked spinach quiche containing bacon\n6. Sausage (pork) and apples\n7. Cheese and olive appetizer made to look like an eyeball\n8. Roasted almonds\n9. Bread made swiss style with swiss cheese\n10. Assorted cheese soup with chicken",
+            "- Low sugar applesauce cupcakes\n- Sugar-free peanut butter cookies\n- Jam made from blackberries, lemon juice, and sugar\n- Sweet salad made with corn and three types of beans\n- Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n- Peach cobbler dessert containing whole wheat flour\n- Berry cobbler that uses frozen mixed berries\n- Classic salad with creamy caesar dressing and croutons\n- Mozzarella cheese sticks with marinara sauce\n- Very low-fat assortment of shredded vegetables with seasoning"
+        ]
+    }
+}

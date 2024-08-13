@@ -1,0 +1,58 @@
+{
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about the apocalypse?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a teen or college movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for movies from the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for movies about computers or technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about the future or science fiction?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action or adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robotics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in watching \"Ant-Man\"?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Lost (2001)\n4. Children of Men (2006)\n5. The Terminator (1984)\n6. 28 Days Later (2002)\n7. The Road (2009)\n8. Daybreakers (2009)\n9. The Girl with All the Gifts (2016)\n10. Mad Max: Fury Road (2015)",
+            "1. Monsters, Inc. (2001)\n2. Love Me If You Dare (Jeux d'enfants) (2003)\n3. Breach (2007)\n4. Out of Sight (1998)\n5. Bad Education (La mala educaci\u00f3n) (2004)\n6. The Corporation (2003)\n7. Delicatessen (1991)\n8. Bruce Almighty (2003)\n9. The Grapes of Wrath (1940)\n10. Cronos (1993)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Steel (2011)\n3. Big Red One, The (1980)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Von Ryan's Express (1965)\n7. Enter the Void (2009)\n8. The Last Supper (1995)\n9. The Corporation (2003)\n10. Face/Off (1997)\n",
+            "Searching (2018)\nThe Corporation (2003)\nThe Social Network (2010)\nTron: Legacy (2010)\nWall-E (2008)\nEx Machina (2014)\nHer (2013)\nReal Steel (2011)\nThe Matrix (1999)\nI, Robot (2004)",
+            "1. Ant-Man (2015) \n2. The Terminator 3: Rise of The Machines (2003) \n3. Corporation, The (2003) \n4. Timeline (2003) \n5. Ready Player One\n6. Enter the Void (2009) \n7. Real Steel (2011) \n8. Robot & Frank (2012) \n9. Bruce Almighty (2003) \n10. Tenacious D in the Pick of Destiny (2006)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Searching (2018)\n4. Real Steel (2011)\n5. Timeilne (2003)\n6. Control (2007)\n7. Neil Blomkamp's Elysium (2013)\n8. The Matrix (1999)\n9. Upgrade (2018)\n10. Oblivion (2013)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Timeline (2003)\n3. Ready Player One \n4. A.I. Artificial Intelligence (2001)\n5. Ant-Man (2015)\n6. Real Steel (2011)\n7. The Matrix (1999)\n8. Blade Runner 2049 (2017)\n9. Ex Machina (2014)\n10. Minority Report (2002)",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. The Matrix (1999) \\n\n3. Ready Player One  \\n\n4. Minority Report (2002) \\n\n5. Elysium (2013)\n6. iRobot (2004) \\n\n7. The Martian (2015) \\n\n8. Ex Machina (2014) \\n\n9. Moon (2009) \\n\n10. The Machine (2013) \\n\n11. Transcendence (2014) \\n\n12. Primer (2004) \\n\n13. Coherence (2013) \\n\n14. The Invitation (2015) \\n\n15. 10 Cloverfield Lane (2016) \\n",
+            "1. A.I. Artificial Intelligence (2001) \n2. The Matrix (1999)\n3. Ex Machina (2014)\n4. Her (2013)\n5. WALL-E (2008)\n6. Blade Runner 2049 (2017)\n7. Automata (2014)\n8. Transcendence (2014)\n9. Chappie (2015)\n10. I, Robot (2004)",
+            "1. The Terminator: Rise of the Machines (4)\n2. The Matrix (3)\n3. Her (2)\n4. Blade Runner 2049 (2)\n5. John Wick: Chapter 3 - Parabellum (2)\n6. Godzilla: King of the Monsters (2)\n7. Terminator 2: Judgment Day (2)\n8. Ready Player One (2)\n9.Tron: Legacy (2)\n10. Passengers(2)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fantasy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a 90s movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the middle ages?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies from Tim Burton?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with dragons?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 90s?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Tomb Raider (2018) \n3. Pirates of the Caribbean: At World's End (2007) \n4. August Rush (2007) \n5. The Blair Witch Project (1999) \n6. The Piano (1993) \n7. Proposition, The (2005) \n8. The Last Action Hero (1993) \n9. One Hour Photo (2002) \n10. Dracula (Bram Stoker's Dracula) (1992)",
+            "Movies relevant to your preferences:\n\n1. A.I. Artificial Intelligence (2001)\n2. The Last Unicorn (1982)\n3. Big Trouble in Little China (1986)\n4. Princess Mononoke (1997)\n5. The Neverending Story (1984)\n6. Spirited Away (2001)\n7. Willow (1988)\n8. The Princess Bride (1987)\n9. The Dark Crystal (1982)\n10. Stardust (2007)",
+            "1. Conan the Barbarian (1982)\n2. Erik the Viking (1989)\n3. The NeverEnding Story (1984)\n4. The Princess Bride (1987)\n5. The Dark Crystal (1982)\n6. Legend (1985)\n7. Labyrinth (1986)\n8. Willow (1988)\n9. The Secret of NIMH (1982)\n10. Flight of the Navigator (1986)",
+            "1. The Secret of Kells (2009) \\n\n2. Hachiko: A Dog's Story (2009) \\n\n3. A.I. Artificial Intelligence (2001) \\n\n4. American Graffiti (1973) \\n\n5. Robot & Frank (2012) \\n\n6. Lost in Translation (2003) \\n\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\n8. The Boy in the Striped Pajamas (2008) \\n\n9. The Last Airbender (2010) \\n\n10. The Boondock Saints (1999)\n''''",
+            "1. Excalibur (1981)\n2. A Knight's Tale (2001)\n3. Ladyhawke (1985)\n4. Willow (1988)\n5. Princess Bride, The (1987)\n6. Robin Hood: Prince of Thieves (1991)\n7. Dragonheart (1996)\n8. Merlin (1998)\n9. Braveheart (1995)\n10. Beowulf (2007)",
+            "The Last Temptation of Christ (1988)\nBram Stoker's Dracula (1992)\n101 Dalmatians (1996)\nThe Lost World: Jurassic Park (1997)\nDogma (1999)\nThe Princess Bride (1987)\nWillow (1988)\nEver After: A Cinderella Story (1998)\nKrull (1983)\nExcalibur (1981)",
+            "1) Excalibur \n2) Willow \n3) Gremlins 2: The New Batch \n4) The Secret of Kells \n5) 13th Warrior \n6) Dungeons & Dragons \n7) The Last Dragon \n8) Ladyhawke \n9) Legend \n10) Labyrinth\n",
+            "Lost in Translation (2003) \nBlack Robe (1991) \nThe Secret of Kells (2009) \nRobin Hood: Prince of Thieves (1991) \nThe Sword in the Stone (1963) \nDragonheart (1996) \nWillow (1988) \nLegend (1985) \nDragonslayer (1981) \nDragons (1996)",
+            "1. Willow (1988)\n2. Legend (1985)\n3. The Princess Bride (1987)\n4. Excalibur (1981)\n5. Highlander (1986)\n6. Conan the Barbarian (1982)\n7. The Dark Crystal (1982)\n8. Labyrinth (1986)\n9. The NeverEnding Story (1984)\n10. Dragonslayer (1981)",
+            "1. Labyrinth (1986)\n2. Willow (1988)\n3. The Secret of Kells (2009)\n4. Dragonslayer (1981)\n5. Excalibur (1981)\n6. The Princess Bride (1987)\n7. King Ralph (1991)\n8. Ivanhoe (1952)\n9. The Sword in the Stone (1963)\n10. Merlin (1998)\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Do you typically enjoy tofu-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads or soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheesy appetizers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nShredded barbecued pork shoulder\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nPeppermint chocolate bonbon\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBaked breakfast bars made with nuts and seeds\n****\n\n****",
+            " Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n Poke of tofu, mushroom and tomatoes\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n High protein skillet with rice and vegetables\n****\n Fried shrimp and scallops\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n*/",
+            "1. Large portion fries with gravy and bacon\n2. Fried shrimp and scallops\n3. Grilled salmon seasoned with salt and pepper\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Meatballs made with ground beef and ground pork\n10. Polish sausage with fermented cabbage",
+            "1. Pepperoni and cabbage pizza\n2. Fried shrimp and scallops\n3. Pork chops glazed with milk and cooked without nuts\n4. Roasted almonds\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Soft southern style cornbread\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            " Very low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nVery low-fat salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nDigestion-friendly waffles\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nHealthy 2-ingredient yogurt from scratch\nHomemade soup with chicken, noodles, and spices\nCalcium-rich soup made with broccoli and beans",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \n2. Mildly spicy chili recipe \n3. Large portion fries with gravy and bacon \n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \n5. Beef stew made with beef, carrots and potatoes \n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Low fat breakfast pie made with sausage (pork) and apples \n8. Chicken breasts stuffed with bacon and mozzarella \n9. Pork chops glazed with milk and cooked without nuts \n10. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n",
+            "Creamy base with dill flavoring, eggs, and noodles\nChicken cooked and flavored with lemon sauce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSandwich made with: grilled / broiled marinated chicken\nCheese and vegetable soup with a beer broth\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBeef stew made with beef, carrots and potatoes",
+            "  1. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n  2. Pork chops glazed with milk and cooked without nuts\n  3. Cheesecake made with cream cheese\n  4. Large portion fries with gravy and bacon\n  5. Pepperoni pizza made with pepperoni, sauce made with ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\n  6. Chicken breasts stuffed with bacon and mozzarella\n  7. Chopped French duck confit preserved by duck oil\n  8. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n  9. South African vegetable curry flavoured with curry powder and ground tumeric\n 10. Baked breakfast bars made with nuts and seeds",
+            "****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nPork chops glazed with milk and cooked without nuts\n****\nChopped French duck confit preserved by duck oil\n****\nShredded barbecued pork shoulder\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****\nPork with bell pepper\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nBaked breakfast pie made with sausage (pork) and apples\n****\nBento",
+            "1. Shredded barbecued pork shoulder\n2. Pork chops glazed with milk and cooked without nuts\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Pulled pork sandwich Hawaiian style with teriyaki glaze\n5. Pork loin seasoned with salt and pepper\n6. Chopped French duck confit preserved by duck oil\n7. Country fried pork steak with or without gravy\n8. Roast pork loin seasoned with dijon mustard\n9. Ham and cheese sandwich\n10. Pork scramble with eggs and cream cheese\n\n"
+        ]
+    }
+}

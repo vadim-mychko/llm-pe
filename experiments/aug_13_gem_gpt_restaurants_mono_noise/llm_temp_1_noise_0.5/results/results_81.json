@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Do you have any places that serve American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying some American traditional food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American, but not in a traditional style?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some American with a New American twist?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to have some sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a place that serves beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for comfort food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nMcMenamin's Tavern \nThe El Bar \nJack's Firehouse \nFranklin's \n Founding Fathers Sports Bar & Grill \nLove & Honey Fried Chicken \nLucky's Last Chance \nThe Cheesecake Factory \nThe Continental Restaurant and Martini Bar",
+            "Olive Garden Italian Restaurant \\n\nZuzu's Kitchen \\n\nFive Guys \\n\nThe Milk House \\n\nPearl's Oyster Bar \\n\nFederal Donuts \\n\nThe Continental Restaurant and Martini Bar \\n\nThe Fresh Grocer - Progress Plaza \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe Blue Duck",
+            "- Heritage \n- Founding Fathers Sports Bar & Grill \n- Tavern On the Hill \n- The Continental Restaurant and Martini Bar \n- The El Bar \n- The Cheesecake Factory \n- McMenamin's Tavern \n- Parc \n- Franklin's \n- Nouveau Cafe & Catering - Center City Philadelphia",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. The Juice Merchant\n6. CO-OP Restaurant & Lounge\n7. The Blue Duck\n8. Love & Honey Fried Chicken\n9. Tacconelli's Pizzeria\n10. South Fellini",
+            "1. The Continental Restaurant and Martini Bar \n2. CO-OP Restaurant & Lounge \n3. Cook and Shaker \n4. Aldine \n5. Founding Fathers Sports Bar & Grill \n6. Parc \n7. Chestnut 7 \n8. Oishii Pok\u00e9 \n9. Fiore Fine Foods \n10. Evan's Pizza",
+            "1. Kokopelli Restaurant & Tequila Bar \n2. Heritage \n3. Federal Donuts \n4. Grain Exchange \n5. Izumi \n6. The Milk House \n7. The Grill  Smuckers \n8. CO-OP Restaurant & Lounge \n9. The Continental Restaurant and Martini Bar \n10. The Blue Duck",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Daleng Restaurant \n4. Golden Triangle \n5. Heritage \n6. Izumi \n7. CinCin Restaurant \n8. Kokopelli Restaurant & Tequila Bar \n9. CO-OP Restaurant & Lounge \n10. The Blue Duck",
+            "Golden Triangle \\n\nThe Juice Merchant \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Tasty Toast \\n\nThe Milk House \\n\nThe Grill  Smuckers \\n\nThe Continental Restaurant and Martini Bar \\n\nPearl's Oyster Bar \\n\nJack's Firehouse",
+            "1. CO-OP Restaurant & Lounge\n2. The Continental Restaurant and Martini Bar\n3. Aldine\n4. Jack's Firehouse\n5. Chestnut 7\n6. Ristorante La Buca\n7. Franklin's\n8. Founding Fathers Sports Bar & Grill\n9. Parc\n10. McMenamin's Tavern",
+            "Cook and Shaker \\n\nPearl's Oyster Bar \\n\nMcMenamin's Tavern \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nGran Caffe L'Aquila \\n\nAudrey Claire \\n\nLucky's Last Chance \\n\nJack's Firehouse \\n\nThe Juice Merchant \\n\nThe Continental Restaurant and Martini Bar"
+        ]
+    }
+}

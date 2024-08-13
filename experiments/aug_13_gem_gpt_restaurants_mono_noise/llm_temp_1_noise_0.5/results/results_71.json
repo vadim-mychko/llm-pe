@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do sandwiches interest you?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American breakfast sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast sandwiches from American delis?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a breakfast sandwich spot with bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast sandwiches from local bakers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches from a bakery with mostly bagels on the menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches from a bakery with many baked goods in addition to bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in non-bagel breakfast sandwiches from local bakers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nThe Juice Merchant\nFederal Donuts\nFederal Donuts\nFederal Donuts\nDaleng Restaurant",
+            " PrimoHoagies\n Wawa\n Green Leafs & Bananas\n The Green Line Cafe\n Spread Bagelry\n Lisa's Kitchen\n Luhv Vegan Deli\n The QUICK FIXX\n Roy-Pitz Barrel House\n Macaroni's Restaurant\n Jake's & Cooper's Wine Bar & Wine Shop",
+            "The Blue Duck\nThe Tasty Toast\nTrolley Car Diner\nThe Green Line Cafe\nSpread Bagelry\nThe Cheesecake Factory\nGreen Leafs & Bananas\nLisa's Kitchen\nSteve's Prince of Steaks\nLove & Honey Fried Chicken",
+            "1. The Tasty Toast \n2. The Breakfast Club \n3. Bloomsday Cafe\n4. Sabrina's Cafe \n5. Spread Bagelry \n6. The Green Line Cafe \n7. Dottie's Diner \n8. Steve's Prince of Steaks\n9. Lisa's Kitchen \n10. Green Leafs & Bananas",
+            "Trolley Car Diner \nLisa's Kitchen \nLuvh Vegan Deli \nSpread Bagelry \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nFranklin's \nDaleng Restaurant \nThe Tasty Toast \nSabrina's Cafe",
+            "The Tavern Restaurant \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nTrolley Car Diner \\n\nFive Guys \\n\nMisconduct Tavern \\n\nRoy-Pitz Barrel House \\n\nLove & Honey Fried Chicken",
+            " PrimoHoagies\nThe Green Line Cafe\nThe QUICK FIXX\nJack's Firehouse\nLucha Libre\nSpread Bagelry\nTrolley Car Diner\nLisa's Kitchen\nGreen Leafs & Bananas\nBuddy's Sandwich Haven",
+            " Sister Muhammad's Kitchen \nBetty's Speakeasy \nFiore Fine Foods \nThe Green Line Cafe \nSpread Bagelry \nAudrey Claire \nParc \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nCafe L'Aube",
+            " Betty's Speakeasy \n Fiore Fine Foods \n Sister Muhammad's Kitchen \n Lucky's Last Chance \n Lisa's Kitchen \n Spread Bagelry \n Trolley Car Diner \n McMenamin's Tavern \n Parc \n KC's Pastries",
+            "Cafe L'Aube\nLove & Honey Fried Chicken\nOteri's Italian Bakery | North 5th St\nGran Caffe L'Aquila\nJack's Firehouse\nParc\nTrolley Car Diner\nSaramago Cafe\nMugshots Coffeehouse\nBetty's Speakeasy"
+        ]
+    }
+}

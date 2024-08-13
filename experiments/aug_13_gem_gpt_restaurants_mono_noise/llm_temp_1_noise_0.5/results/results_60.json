@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for family-friendly restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you serve beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to eat at a restaurant that serves beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant with a bar that serves seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in hot spot restaurants?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLaCroix Restaurant at The Rittenhouse \nLacroix Restaurant at The Rittenhouse \nFederal Donuts \nGrain Exchange \nThe Milk House \nSang Kee Peking Duck House \nVeda - Modern Indian Bistro",
+            " A Tutti, Ristorante Italiano \n PrimoHoagies \n Fiore Fine Foods \n Macaroni's Restaurant \n Castellino's \n The QUICK FIXX \n Ristorante La Buca \n Talutto's Authentic Italian Food \n DiBruno Bros \n Olive Garden Italian Restaurant",
+            "1. A Tutti, Ristorante Italiano\n2. Ristorante La Buca\n3. Fiore Fine Foods\n4. Talluto's Authentic Italian Food\n5. Castellino's\n6. PrimoHoagies\n7. Lacroix Restaurant at The Rittenhouse\n8. Macaroni's Restaurant\n9. Dim Sum House\n10. The QUICK FIXX",
+            "A Tutti, Ristorante Italiano \nDaleng Restaurant \nCinCin Restaurant \nCastellino's \nPrimoHoagies \nTalluto's Authentic Italian Food \nRistorante La Buca \nFiore Fine Foods \nLisa's Kitchen \nThe Cheesecake Factory",
+            " Maggioni's Italian Restaurant \nRistorante La Buca \nAudrey Claire \nA Tutti, Ristorante Italiano \nDaleng Restaurant \nMacaroni's Restaurant \nCastellino's \nMessina \nFigo Ristorante Italiano \nRoma Pizza",
+            " A Tutti, Ristorante Italiano \n CO-OP Restaurant & Lounge \n Daleng Restaurant \n Fiore Fine Foods \n Gran Caffe L'Aquila \n Jake's & Cooper's Wine Bar & Wine Shop \n Macaroni's Restaurant \n Ristorante La Buca \n Roy-Pitz Barrel House \n The Continental Restaurant and Martini Bar",
+            "Ristorante La Buca \nZuzu's Kitchen\nA Tutti, Ristorante Italiano\nOlive Garden Italian Restaurant\nTalluto's Authentic Italian Food\nCinCin Restaurant\nMacaroni's\nLocal Tavern\nPrimoHoagies\nGolden Triangle",
+            "Ristorante La Buca \nPearl's Oyster Bar \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nAudrey Claire \nFederal Donuts \nThe Continental Restaurant and Martini Bar \nTavern On the Hill \nJake's & Cooper's Wine Bar & Wine Shop \nMacaroni's Restaurant",
+            "Ristorante La Buca \nValentino's Cucina Italiana \nA Tutti, Ristorante Italiano \nMacaroni's Restaurant \nThe Continental Restaurant and Martini Bar \nVeda - Modern Indian Bistro \nFiorella\nAlba\nAudrey Claire\nZama",
+            "Ristorante La Buca \\n\nA Tutti, Ristorante Italiano \\n\nPearl's Oyster Bar \\n\nAudrey Claire \\n\nBenna's Cafe \\n\nCanton 11 \\n\nThe El Bar \\n\nJack's Firehouse \\n\nOishii Pok\u00e9 \\n\nMiga Korean BBQ & Sushi\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a restaurant with a variety of coffee and tea options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food delivery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something to eat on the go?",
+                "response": "no"
+            },
+            {
+                "query": "Can you recommend Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with dim sum options?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nPrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nLe Pain Quotidien \nDaleng Restaurant \nA Tutti, Ristorante Italiano \nFederal Donuts",
+            "****\n name: Amore Trattoria Romana \n categories: Restaurants, Coffee & Tea, Food\n****\n name: Mugshots Coffeehouse \n categories: Restaurants, Music Venues, Arts & Entertainment, Breakfast & Brunch, Nightlife, Food, Coffee & Tea, Gluten-Free\n****\n name: CO-OP Restaurant & Lounge \n categories: Restaurants, American (New), Bars, Breakfast & Brunch, Coffee & Tea, Food, Cocktail Bars, Nightlife\n****\n name: Essene Market & Caf\u00e9 \n categories: Restaurants, Food, Vegetarian, Organic Stores, Health Markets, Bakeries, Specialty Food, Grocery\n****\n name: Evan's Pizza \n categories: Restaurants, Pizza, Food, Beer, Wine & Spirits\n****\n name: Sabrina's Cafe \n categories: Restaurants, Salvadoran, Bars, Breakfast & Brunch, Food\n****\n name: Cafe L'Aube \n categories: Restaurants, Food, Coffee & Tea, Creperies, French\n****\n name: Rival Bros Coffee \n categories: Restaurants, Coffee Roasteries, Food, Cafes, Coffee & Tea\n****\n name: The Continental Restaurant and Martini Bar \n categories: Restaurants, American (New), Lounges, Nightlife, Bars, Breakfast & Brunch\n****\n name: The Milk House \n categories: Restaurants, American (New), Food, Breakfast & Brunch, Ice Cream & Frozen Yogurt",
+            " Golden Triangle \n Daleng Restaurant \n Sang Kee Peking Duck House \nCanton 11 \n Zuzu's Kitchen \n PrimoHoagies \n Dim Sum House \n Pennsylvania 6 \n Little Taipei \n Baan Thai",
+            "1. Golden Triangle\n2. Water Works Restaurant & Lounge\n3. Lacroix Restaurant at The Rittenhouse\n4. Germantown Garden\n5. PrimoHoagies\n6. Daleng Restaurant\n7. The Juice Merchant\n8. Federal Donuts\n9. Mong Kok Station\n10. The Tasty Toast",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            " The QUICK FIXX \nFederal Donuts \nSteve's Prince of Steaks \nBlackbird Pizzeria \nCook and Shaker \nChestnut 7 \nGran Caffe L'Aquila \nBistro SouthEast \nOlive Garden Italian Restaurant \nWishbone",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nGrain Exchange \nA Tutti, Ristorante Italiano \nThe Milk House \nTalluto's Authentic Italian Food \nOlive Garden Italian Restaurant ",
+            "1. The Grill  Smuckers \n2. The Tavern Restaurant \n3. CO-OP Restaurant & Lounge \n4. Tavern On the Hill \n5. Founding Fathers Sports Bar & Grill \n6. Chestnut 7 \n7. The Continental Restaurant and Martini Bar \n8. Jack's Firehouse \n9. The El Bar \n10. The QUICK FIXX \n",
+            " Canton 11 \\n\nSang Kee Peking Duck House \\n\nDim Sum House \nMiga Korean BBQ & Sushi \nIzumi \nTu's Tea & Banh Mi South Philly \nDaleng Restaurant \nPearl's Oyster Bar \nBaan Thai \nGolden Triangle"
+        ]
+    }
+}

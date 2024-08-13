@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Do you mind places with live music?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something that has a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in steak options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves salads?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Wawa\nThe Cheesecake Factory\nIzumi\nGreen Leafs & Bananas\nGran Caffe L'Aquila\nFiore Fine Foods\nEvan's Pizza\nDim Sum House\nBetty's Speakeasy\nA Tutti, Ristorante Italiano",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nRoy-Pitz Barrel House \\n\nThe Continental Restaurant and Martini Bar \\n\nEvan's Pizza",
+            "Water Works Restaurant & Lounge \\n\nPearl's Oyster Bar \\n\nGolden Triangle \\n\nSang Kee Peking Duck House \\n\nDim Sum House \\n\nBistro SouthEast \\n\nLacroix Restaurant at The Rittenhouse \\n\nRistorante La Buca \\n\nAudrey Claire \nDaleng Restaurant ",
+            "1. Founding Fathers Sports Bar & Grill\n2. The Tavern Restaurant \n3. Tavern On the Hill \n4. Paddy's Old City Pub \n5. Mad River Manayunk \n6. JD Mcgillicuddy's Manayunk \n7. Franklin's \n8. Misconduct Tavern \n9. Five Guys \n10. Lisa's Kitchen",
+            "Misconduct Tavern \\n\nThe Tavern Restaurant \\n\nFederal Donuts \\n\nMad River Manayunk \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nWishbone \\n\nLuvh Vegan Deli \\n\nLove & Honey Fried Chicken \\n\nLucky's Last Chance",
+            "The Blue Duck \\n\nBetty's Speakeasy \\n\nBlackbird Pizzeria \\n\nThe QUICK FIXX \\n\nRoy-Pitz Barrel House \\n\nFranklin's \\n\nJack's Firehouse \\n\nLove & Honey Fried Chicken \\n\nThe El Bar \\n\nMisconduct Tavern",
+            "1. Lisa's Kitchen \n2. Wishbone \n3. Jack's Firehouse \n4. Franklin's \n5. Blackbird Pizzeria \n6. Steve's Prince of Steaks \n7. Founding Fathers Sports Bar & Grill \n8. McMenamin's Tavern \n9. CJ & Eck's \n10. Lucky's Last Chance\n'''",
+            "Misconduct Tavern\nLisa's Kitchen\nFive Guys\nJack's Firehouse\nFranklin's\nWishbone\nBurgers\nPaddy's Old City Pub\nLucky's Last Chance\nMcMenamin's Tavern\nThe Blue Duck\nChestnut 7",
+            "Five Guys\nWishbone\nLisa's Kitchen\nFranklin's\nMisconduct Tavern\nThe Blue Duck\nBetty's Speakeasy\nSteve's Prince of Steaks\nLuvv Vegan Deli\nJack's Firehouse"
+        ]
+    }
+}

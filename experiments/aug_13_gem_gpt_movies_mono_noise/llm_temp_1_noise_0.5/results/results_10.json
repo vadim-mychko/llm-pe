@@ -1,0 +1,58 @@
+{
+    "10": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer comedies, documentaries, or films that are considered \"high\" cinema?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action or adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies featuring a coming of age story?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to watch a comedy with dark elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy where the main character is a quirky individual?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where technology plays a central role?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a romantic comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Ghostbusters II (1989) \n4. Philadelphia Story, The (1940) \n5. Mask, The (1994) \n6. There's Something About Mary (1998) \n7. Rushmore (1998) \n8. Be Kind Rewind (2008) \n9. Hot Fuzz (2007) \n10. Gran Torino (2008)\n****",
+            "10. Corporation, The (2003)\n9. Searching (2018)\n8. The Social Network (2010)\n7. Mr. Robot (2015)\n6. Ex Machina (2014)\n5. Her (2013)\n4. Black Mirror (2011)\n3. 2001: A Space Odyssey (1968)\n2. The Terminator (1984)\n1. Blade Runner (1982)",
+            "1. Searching (2018)\n2. The Corporation (2003)\n3. Control (2007)\n4. Stranger than Fiction (2006)\n5. Nightcrawler (2014)\n6. Terminator 3: Rise of the Machines (2003)\n7. Artificial Intelligence (2001)\n8. Enter the Void (2009)\n9. Robot & Frank (2012)\n10. Ant-Man (2015)",
+            "1. Searching (2018) \n2. Intolerable Cruelty (2003) \n3. The Sure Thing (1985) \n4. Real Genius (1985) \n5. What's Up, Doc? (1972) \n6. Meet John Doe (1941) \n7. Brewster's Millions (1985) \n8. Tenacious D in The Pick of Destiny (2006) \n9. Big Red One, The (1980) \n10. Control (2007) ",
+            "1. Searching (2018) \n2. A.I. Artificial Intelligence (2001) \n3. Artificial Intelligence (2001) \n4. Stranger than Fiction (2006) \n5. Intolerable Cruelty (2003) \n6. Meet John Doe (1941) \n7. Mr. Holmes (2015) \n8. Jane Eyre (1996) \n9. Lost in Translation (2003) \n10. Royal Tenenbaums, The (2001)",
+            "1. Searching (2018)\n2. What's Up, Doc? (1972)\n3. A.I. Artificial Intelligence (2001)\n4. Stranger than Fiction (2006)\n5. The Big Lebowski (1998)\n6. Real Genius (1985)\n7. Bruce Almighty (2003)\n8. Black Robe (1991)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Eragon (2006)",
+            "Searching (2018) \nHomeward Bound: The Incredible Journey (1993)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nBrewster's Millions (1985)\nReal Genius (1985)\nSure Thing, The (1985)\nUmberto D. (1952)\nWhat's Up, Doc? (1972)\nBig Red One, The (1980)\n50 First Dates (2004)",
+            "1. Searching (2018) \n2. What's Up, Doc? (1972)\n3. Real Steel (2011)\n4. Intolerable Cruelty (2003)\n5. Brewster's Millions (1985)  \n6. Tenacious D in The Pick of Destiny (2006) \n7. Boy in the Striped Pajamas, The (2008)  \n8. Thomas Crown Affair, The (1968) \n9. Magnolia (1999) \n10. Hachiko: A Dog's Story (2009)",
+            "1. Searching (2018) \n2. What's Up, Doc? (1972) \n3. Stranger than Fiction (2006)\n4. Burn After Reading (2008)\n5. Intolerable Cruelty (2003)\n6. Big Lebowski, The (1998)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. UHF (1989)\n10. 50 First Dates (2004)",
+            "1. The Man from Earth (2007)\n2. Searching (2018)\n3. Real Steel (2011)\n4. What's Up, Doc? (1972)\n5. The Big Red One (1980)\n6. Intolerable Cruelty (2003)\n7. Delicatessen (1991)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Jane Eyre (1996)"
+        ]
+    }
+}

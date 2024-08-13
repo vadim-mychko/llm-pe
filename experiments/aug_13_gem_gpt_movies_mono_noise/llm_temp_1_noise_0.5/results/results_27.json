@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a scary movie?\n''''",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about teenagers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seeing a movie involving animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a futuristic theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about science?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie set in the distant past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Last Temptation of Christ, The (1988) \n2. Martyrs (2008) \n3. Dracula (Bram Stoker's Dracula) (1992) \n4. One Hour Photo (2002) \n5. Mothman Prophecies, The (2002) \n6. The Taking of Pelham One Two Three (1974)\n7. Cronos (1993) \n8. Black Robe (1991) \n9. Darkman (1990)\n10. Gremlins 2: The New Batch (1990)\n",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985) \\n\n3. Laura (1944) \\n\n4. Pirates of the Caribbean: At World's End (2007) \\n\n5. Tomb Raider (2018) \\n\n6. August Rush (2007) \\n\n7. The Blair Witch Project (1999) \\n\n8. Martyrs (2008) \\n\n9. The Piano (1993) \\n\n10. The Naked Gun: From the Files of Police Squad! (1988)\n''''",
+            "1. A.I. Artificial Intelligence (2001)\n2. Robot & Frank (2012)\n3. Real Steel (2011)\n4. Terminator 3: Rise of the Machines (2003)\n5. I, Robot (2004)\n6. Big Hero 6 (2014)\n7. Transformers (2007)\n8. Pacific Rim (2013)\n9. WALL-E (2008)\n10. Ex Machina (2014)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Metropolis (2001) \n3. I, Robot (2004) \n4. Transformers (2007) \n5. Alita: Battle Angel (2019) \n6. Robot & Frank (2012) \n7. Aut\u00f3mata (2014) \n8.  Ex Machina (2015) \n9. Passengers (2016) \n10. Blade Runner 2049 (2017)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Robot & Frank (2012)\n3. Lost in Translation (2003)\n4. Face/Off (1997)\n5. The Big Lebowski (1998)\n6. Real Steel (2011)\n7. Wall-E (2008)\n8. Meet John Doe (1941)\n9. Ant-Man (2015)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. Blade Runner 2049 (2017)\n5. Dark City (1998)\n6. Ex Machina (2014)\n7. Matrix, The (1999)\n8. Passengers (2016)\n9. RoboCop (1987)\n10. 2001: A Space Odyssey (1968)",
+            "1. Tomb Raider (2018)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ant-Man (2015)\n4. A.I. Artificial Intelligence (2001)\n5. Transcendence (2014)\n6. Real Steel (2011)\n7. Robot & Frank (2012)\n8. I, Robot (2004)\n9. Blade Runner (1982)\n10. Ex Machina (2014)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Control (2007)\n3. Delicatessen (1991)\n4. Darkman (1990)\n5. Enter the Void (2009)\n6. Europa (Zentropa) (1991)\n7. Real Genius (1985)\n8. Robot & Frank (2012)\n9. Tron (1982)\n10. X-Men: Days of Future Past (2014)",
+            "Terminator 3: Rise of the Machines (2003) \\n\nA.I. Artificial Intelligence (2001) \\n\nTimeline (2003) \\n\nReady Player One \\n\nReal Steel (2011) \\n\nRobot & Frank (2012) \\n\nBruce Almighty (2003) \\n\nKing Kong (2005) \\n\nReal Genius (1985) \\n\nTenacious D in The Pick of Destiny (2006)",
+            "1. The Terminator (1984)\n2. Terminator 2: Judgment Day (1991)\n3. RoboCop (1987)\n4. Blade Runner (1982)\n5. Aliens (1986)\n6. Predator (1987)\n7. The Thing (1982)\n8. Scanners (1981)\n9. Videodrome (1983)\n10. They Live (1988)"
+        ]
+    }
+}

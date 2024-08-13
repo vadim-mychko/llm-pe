@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for something sweet?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more in the mood for pizza or pasta?",
+                "response": "neither"
+            },
+            {
+                "query": "How about chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for fried chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want crispy fried chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in grilled or roasted chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a chicken sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for slow-cooked or rotisserie chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken pieces?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nMong Kok Station \nLe Pain Quotidien",
+            "1. Sang Kee Peking Duck House\n2. Federal Donuts\n3. Fiore Fine Foods\n4. Blackbird Pizzeria\n5. Lisa's Kitchen\n6. The QUICK FIXX\n7. Chestnut 7\n8. The Green Line Cafe\n9. Spread Bagelry\n10. Parc",
+            "Wishbone \\n\nLove & Honey Fried Chicken \\n\nBistro SouthEast \\n\nJack's Firehouse \\n\nLisa's Kitchen \\n\nFive Guys \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nThe Blue Duck \\n\nFederal Donuts",
+            "Love & Honey Fried Chicken\nWishbone\nFederal Donuts\nJack's Firehouse\nRoy-Pitz Barrel House\nFranklin's\nLucky's Last Chance\nMcMenamin's Tavern\nJD Mcgillicuddy's Manayunk\nFive Guys",
+            "Love & Honey Fried Chicken \nWawa \nWishbone \nFederal Donuts \nFive Guys \nJD Mcgillicuddy's Manayunk \nFranklin's \nLucky's Last Chance \nJack's Firehouse \nLisa's Kitchen",
+            "1. Love & Honey Fried Chicken\n2. Wishbone\n3. Malbec Argentine Steakhouse\n4. Pearl's Oyster Bar\n5. Bakeshop on 20th\n6. Jack's Firehouse\n7. JD Mcgillicuddy's Manayunk\n8. Federal Donuts\n9. Franklin's\n10. Green Leafs & Bananas",
+            "Wishbone\nLove & Honey Fried Chicken\nFederal Donuts\nJD Mcgillicuddy's Manayunk\nThe Blue Duck\nFive Guys\nMisconduct Tavern\nLucky's Last Chance\nChicken Town\nNando's PiriPiri",
+            "1. Love & Honey Fried Chicken \n2. Wishbone \n3. Royal Boucherie \n4. Morgan's Pier \n5. Frankford Hall \n6. Ladder 15 \n7. Outrun Brewing \n8. Founding Fathers Sports Bar & Grill \n9. Jack's Firehouse \n10. Roy-Pitz Barrel House",
+            "Love & Honey Fried Chicken\nWishbone\nFederal Donuts\nJack's Firehouse\nFranklin's\nLucky's Last Chance\nChickie's & Pete's\nLisa's Kitchen\nJD Mcgillicuddy's Manayunk\nFive Guys",
+            "Love & Honey Fried Chicken \nFederal Donuts \nWishbone \nMcMenamin's Tavern \nLucky's Last Chance \nChick-fil-A \nRaising Cane's Chicken Fingers \nPopeyes \nKFC \nMcDonald's"
+        ]
+    }
+}

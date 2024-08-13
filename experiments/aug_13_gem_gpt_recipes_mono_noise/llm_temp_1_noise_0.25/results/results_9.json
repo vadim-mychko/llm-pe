@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dips?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot and spicy foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like gluten-free foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like your meals to be high in protein?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. Low sugar applesauce cupcakes\n3. Grilled salmon seasoned with salt and pepper\n4. Large portion fries with gravy and bacon\n5. Queso made from melted cheese and chili peppers\n6. Stuffed French duck confit preserved by duck oil\n7. Parmesan Zucchini dressed with olive oil and Cheese\n8. Milkshake made with fresh strawberries and ice cream\n9. Fried shrimp and scallops\n10. Assorted cheese soup with chicken",
+            "High protein skillet with rice and vegetables\nNourishing beef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nIndulgent chicken breasts stuffed with bacon and mozzarella\nIncredible low-fat soup made with ground turkey, high carb\nSumptuous pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSatisfying shredded barbecued pork shoulder\nFlavorful breakfast egg, bean, and cheese burrito with jalapeno peppers\nNutritious vegetables and chicken soup\nRobust berry cobbler that uses frozen mixed berries",
+            " Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n'''",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Simple creamy oyster soup\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Homemade soup with chicken, noodles, and spices\n9. Soup made with shrimp, onions, and scallops\n10. Soup made with onions, carrots, and celery ribs",
+            "Mildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpicy rice with chicken breast\nHot pot that is not spicy\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nPork chops glazed with milk and cooked without nuts\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMushy peas that are soft\nSweet salad made with corn and three types of beans\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            " Mildly spicy chili recipe\n****\nSpicy Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella cheese dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nGrilled salmon seasoned with salt and pepper\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****",
+            "- Mildly spicy chili recipe\n- Boyfriend pie using chocolate chips, graham crackers, crushed pretzels, buttermilk and cream cheese, and graham crackers\n- Sweet salad made with corn and three types of beans\n- Cajun deep South gumbo using okra, chicken and shrimp, bacon, and tomato juice\n- Jam made from blackberries, lemon juice, and sugar\n- Peppers stuffed with beef\n- Cajun-style black-eyed peas made with onsite scratch bacon bits\n- Melt in your mouth dry rub grilled seasoned recipe pork loin\n- Homestyle Southern biscuits and gravy recipe\n- Fried zucchini seasoned with garlic and breadcrumbs\n- Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n- Pork chops glazed with milk and cooked without nuts\n- Homemade recipe with pork chops cooked in herbed cream sauce\n- Shoutout for barbecue is amazing with pulled chicken in various styles including salad, or tacos, or however you like\n- Chinese egg noodles with chicken breasts\n- Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n- Heartwarming classic chicken pot pie made from chicken broth, chicken, canned mixed vegetables, condensed cream of celery soup, condensed cream of chicken soup, store bought pie crusts, and celery ribs\n- Easy fall off the bone honey chipotle chicken slow cooked in the crockpot\n- Sizzling oriental-infused teriyaki steak\n- Healthy Mexican street style baja shrimp containing shrimp, shredded cabbage, carrots, onion, cilantro, salsa, lime\n- Thai pork satay rice noodles featuring pork, bell peppers, rice, and satay sauce",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Hot pot that is not spicy\n5. Meatballs made with ground beef and ground pork\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Grilled salmon seasoned with salt and pepper\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "Mildly spicy chili recipe\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPeppermint chocolate bonbon\nSpicy chilli recipe\nPeach cobbler dessert containing whole wheat flour",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. High protein skillet with rice and vegetables\n3. Mildly spicy chili recipe\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Korean soup containing beef brisket and flavoured with red pepper powder\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Baked breakfast bars made with nuts and seeds\n10. Spanish rice with chicken breast"
+        ]
+    }
+}

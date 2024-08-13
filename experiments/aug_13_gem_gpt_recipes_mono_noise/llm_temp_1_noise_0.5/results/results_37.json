@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Do you like French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Norway cake with lingonberry and whipped cream layers\n4. Chopped French duck confit preserved by duck oil\n5. Roasted almonds\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Taiwanise deep fried crispy chicken cutlets\n8. Vietnamese style noodles made with rice noodles, tofu, ground pork meat, with vegetarian nuoc cham dipping sauce\n9. Pork chops glazed with milk and cooked without nuts\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n",
+            " Almonds coated with butter and salt\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nFried chicken breast made in the oven\nSalmon fillets grilled in a pan with herbs and spices\nQueso made from melted cheese and chili peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "Beef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nChicken breasts stuffed with bacon and mozzarella\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoasted almonds\nKorean soup containing beef brisket and flavoured with red pepper powder\nPolish sausage with fermented cabbage\n****",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Polish sausage with fermented cabbage\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Beef stew made with beef, carrots and potatoes\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Roasted almonds",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Mildly spicy chili recipe\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Chicken cooked and flavored with lemon sauce\n8. Roast turkey with plum sauce\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Roasted almonds",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Beef stew made with beef, carrots and potatoes\n4. Grilled salmon seasoned with salt and pepper\n5. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Pork chops glazed with milk and cooked without nuts\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Spanish rice with chicken breast\n10. Stir-fried tofu, noodles and vegetables Bento",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nChopped French duck confit preserved by duck oil\nLow fat baked breakfast pie made with sausage (pork) and apples\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nShredded barbecued pork shoulder\nBaked spinach quiche containing bacon",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti noodles with mussels, anchovy fillets, and capers\nKorean soup containing beef brisket and flavoured with red pepper powder\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nStir-fried tofu, noodles and vegetables Bento\nBaked mozzarella cheese sticks with marinara sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMozzarella dip recipe",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nHigh protein skillet with rice and vegetables\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n ****\nSzechuan stir-fried pork made with soy sauce\n****\nSpicy tofu and broccoli soup\n****\nMildly spicy chili recipe\n****\nGrilled salmon seasoned with salt and pepper\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon, cheddar cheese, parmesan, and tomatoes.\n****\nBaked spinach quiche containing bacon\n****\nStir-fried tofu, noodles and vegetables Bento",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. High protein skillet with rice and vegetables\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Grilled salmon seasoned with salt and pepper\n6. Chopped French duck confit preserved by duck oil\n7. Steak and cheese sandwich\n8. Poke of tofu, mushroom and tomatoes\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Shepherd's pie\n'''"
+        ]
+    }
+}

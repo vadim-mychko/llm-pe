@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a specific type of Asian cuisine, like Indian, Thai, or Chinese?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Korean barbecue or hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Thai or Vietnamese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Malaysian, Burmese, or Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Is Middle Eastern, Greek, or Mediterranean food something you are interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian or Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves American cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nGolden Triangle \nThe Tasty Toast \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nFuji Mountain \nSang Kee Peking Duck House \nBistro SouthEast \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9",
+            "1. Golden Triangle \n2. Daleng Restaurant \n3. The Tasty Toast \n4. CinCin Restaurant \n5. Bistro SouthEast \n6. Sang Kee Peking Duck House \n7. Baan Thai \n8. Canton 11 \n9. Miga Korean BBQ & Sushi \n10. Tu's Tea & Banh Mi South Philly",
+            " Izumi \n Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Federal Donuts \n Sang Kee Peking Duck House \n Canton 11 \n KC's Pastries \n Oishii Pok\u00e9",
+            "1. Bistro SouthEast \n2. Miga Korean BBQ & Sushi \n3. Daleng Restaurant \n4. Golden Triangle \n5. Sang Kee Peking Duck House \n6. Canton 11 \n7. KC's Pastries \n8. P.F. Chang's China Bistro \n9. Green Mountain Cafe \n10. Han Dynasty ",
+            " Golden Triangle \n Daleng Restaurant \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n The QUICK FIXX \n Coco Beach Restaurant \n New York Gyro Truck \n Oishii Pok\u00e9 \n Oteri's Italian Bakery | North 5th St \n Pure Tacos ",
+            " Daleng Restaurant \n Golden Triangle \n Canton 11 \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Dim Sum House \n Tu's Tea & Banh Mi South Philly \n Baan Thai \n Oishii Pok\u00e9 \n Izumi",
+            " Golden Triangle \nBistro SouthEast \nMiga Korean BBQ & Sushi \nDaleng Restaurant \nChinatown 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nGreen Leafs & Bananas \nKC's Pastries \nPure Tacos",
+            "1. Bistro SouthEast \n2. Miga Korean BBQ & Sushi \n3. Golden Triangle \n4. Daleng Restaurant \n5. CinCin Restaurant \n6. Canton 11 \n7. Dim Sum House \n8. Koreana BBQ House \n9. Oishii Pok\u00e9 \n10. Audrey Claire",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Daleng Restaurant \n4. Federal Donuts \n5. Canton 11 \n6. Miga Korean BBQ & Sushi \n7. Fiore Fine Foods \n8. The Cheesecake Factory \n9. Lucky's Last Chance \n10. Steve's Prince of Steaks",
+            "Water Works Restaurant & Lounge \nGrain Exchange \nThe Grill  Smuckers \nThe Tavern Restaurant \nTavern On the Hill \nThe Blue Duck \nNorth Bowl \nThe El Bar \nAldine \nFounding Fathers Sports Bar & Grill"
+        ]
+    }
+}

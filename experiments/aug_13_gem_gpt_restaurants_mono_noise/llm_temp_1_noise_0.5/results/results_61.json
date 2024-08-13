@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Do you have any pizza places you'd recommend?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches or vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any food with many options and healthy ingredients?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want somewhere with a large healthy food buffet?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood oriented restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a more traditional seafood restaurant or a seafood and Mediterranean fusion?",
+                "response": "i'm sorry, but i am unable to answer your query as it does not match the format of a yes or no question. could you please rephrase your query as a yes or no question?"
+            },
+            {
+                "query": "Are you looking for a more traditional seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a variety of seafood with a Mediterranean twist?",
+                "response": "no"
+            },
+            {
+                "query": "Do you mind seafood places with American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with a variety of healthy food options?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nLacroix Restaurant at The Rittenhouse \\n\nWater Works Restaurant & Lounge \\n\nCinCin Restaurant \\n\nMong Kok Station \\n\nA Tutti, Ristorante Italiano \\n\nOlive Garden Italian Restaurant \\n\nNorth Bowl \\n\nMacaroni's Restaurant \\n\nDim Sum House",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLaCroix Restaurant at The Rittenhouse \\n\nValley Green Inn \\n\nFederal Donuts \\n\nOlive Garden Italian Restaurant \\n\nContinental Restaurant and Martini Bar \\n\nNorth Bowl \\n\nBlackbird Pizzeria \\n\nEvan's Pizza",
+            " Zuzu's Kitchen \n Golden Triangle \n The Juice Merchant \n Le Pain Quotidien \n Daleng Restaurant \n The Tasty Toast \n CO-OP Restaurant & Lounge \n The Grill  Smuckers \n Benna's Cafe \n Essene Market & Caf\u00e9",
+            "Water Works Restaurant & Lounge \nDaleng Restaurant \nThe Juice Merchant \nZuzu's Kitchen \nKopelli Restaurant & Tequila Bar \nVeda - Modern Indian Bistro \nMisconduct Tavern \nMonster Vegan \nBenna's Cafe \nVegetarian Haven",
+            " Izumi \nPearl's Oyster Bar \nOishii Pok\u00e9 \nAudrey Claire \nWater Works Restaurant & Lounge \nThe Milk House \nThe Grill  Smuckers \nGreen Leafs & Bananas \nThe Cheesecake Factory \nLacroix Restaurant at The Rittenhouse",
+            "1. Pearl's Oyster Bar\n2. Ristorante La Buca\n3. Water Works Restaurant & Lounge \n4. Audrey Claire\n5. Izumi \n6. Golden Triangle \n7. Bistro SouthEast\n8. Baan Thai\n9. Oishii Pok\u00e9\n10. Vedga\n",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nValverde \nAudrey Claire \nPearl's Oyster Bar \nIzumi \nBistro SouthEast \nRistorante La Buca \nGran Caffe L'Aquila \nOishii Pok\u00e9",
+            "Water Works Restaurant & Lounge \nRistorante La Buca \nAudrey Claire \nPearl's Oyster Bar \nVeda - Modern Indian Bistro \nGolden Triangle \nDaleng Restaurant \nBistro SouthEast \nBaan Thai \nIzumi",
+            "1. Audrey Claire \n2. Pearl's Oyster Bar \n3. Water Works Restaurant & Lounge \n4. Valley Green Inn \n5. Ristorante La Buca \n6. Chez Ben \n7. Old Original Bookbinder's \n8. McNally's Tavern \n9. The Diving Horse \n10. Sbraga ",
+            "1. Water Works Restaurant & Lounge \n2. Pearl's Oyster Bar \n3. Ristorante La Buca \n4. Audrey Claire \n5. Izumi \n6. Oishii Pok\u00e9 \n7. Bistro SouthEast \n8. The Juice Merchant \n9. Sang Kee Peking Duck House \n10. The Grilled Platter "
+        ]
+    }
+}

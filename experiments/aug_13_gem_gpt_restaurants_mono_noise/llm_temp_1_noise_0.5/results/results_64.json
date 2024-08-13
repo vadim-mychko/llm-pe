@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you into Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that has burgers and seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fried chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see places with steak?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nZuzu's Kitchen\nWater Works Restaurant & Lounge\nThe Taste Toast\nThe Juice Merchant\nDaleng Restaurant\nGermantown Garden\nWater Works Restaurant & Lounge\nPrimoHoagies\nLacroix Restaurant at The Rittenhouse",
+            " The Milk House \nWater Works Restaurant & Lounge \nSouth Philadelphia Tap Room \nPearl's Oyster Bar \nAudrey Claire \nFederal Donuts \nVedge \nFederal Donuts \nThe Blue Duck \nKokopelli Restaurant & Tequila Bar",
+            " Five Guys \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nFederal Donuts \\n\nSteve's Prince of Steaks \\n\nLisa's Kitchen \\n\nLucky's Last Chance \\n\nCook and Shaker \\n\nJack's Firehouse \\n\nFranklin's",
+            "The Tavern Restaurant \nThe Blue Duck \nFederal Donuts \nLisa's Kitchen \nFive Guys \nChestnut 7 \nFranklin's \nLucky's Last Chance \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk\nLove & Honey Fried Chicken",
+            "1. Misconduct Tavern \\n\n2. Five Guys \\n\n3. Founding Fathers Sports Bar & Grill \\n\n4. Parc \n5. Lucky's Last Chance \\n\n6. Chestnut 7 \\n\n7. The Green Line Cafe \\n\n8. Lisa's Kitchen \\n\n9. Franklin's \\n\n10. Jack's Firehouse\n",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nRistorante La Buca \nAudy Claire \nBaan Thai \nBistro SouthEast \nDaleng Restaurant \nIzumi \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9",
+            "Pearl's Oyster Bar \\n\nRistorante La Buca \\n\nSeafood To Go Near Me \\n\nWater Works Restaurant & Lounge \\n\nMacaroni's Restaurant \\n\nA Tutti, Ristorante Italiano \\n\nWedgwood \\n\nAudrey Claire \\n\nGolden Triangle \\n\nFiore Fine Foods",
+            "Water Works Restaurant & Lounge\nFounding Fathers Sports Bar & Grill\nJack's Firehouse\nFranklin's\nSouthside Bar & Kitchen\nThe Tavern Restaurant\nJD Mcgillicuddy's Manayunk\nPearl's Oyster Bar\nMuddy Run\nPaddy's Old City Pub",
+            "1. Pearl's Oyster Bar\n2. Water Works Restaurant & Lounge\n3. Macaroni's Restaurant\n4. Lisa's Kitchen\n5. Founding Fathers Sports Bar & Grill\n6. Chestnut 7\n7. Love & Honey Fried Chicken\n8. CJ & Eck's\n9. The Cheesecake Factory \n10. Otera's Italian Bakery | North 5th St \n",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Grill  Smuckers \nPaddy's Old City Pub \nJack's Firehouse \nLisa's Kitchen \nSteve's Prince of Steaks \nFounding Fathers Sports Bar & Grill \nChestnut 7"
+        ]
+    }
+}

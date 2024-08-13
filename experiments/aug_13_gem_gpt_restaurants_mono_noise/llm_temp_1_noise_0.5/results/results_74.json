@@ -1,0 +1,58 @@
+{
+    "74": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place with Asian fusion or Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like a place that also has vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you prefering a place that also serves American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chinese?",
+                "response": "no"
+            },
+            {
+                "query": "Is there something you want off the menu or takeout?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Italian over other cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a place that also cuisine or vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with delivery?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nCinCin Restaurant\nGolden Triangle\nVeda - Modern Indian Bistro\nWater Works Restaurant & Lounge\nRoy-Pitz Barrel House\nTrolley Car Diner\nBistro SouthEast",
+            "Daleng Restaurant \nGolden Triangle \nCinCin Restaurant \nVeda - Modern Indian Bistro \nZuzus Kitchen \nPrimoHoagies \nA Tutti, Ristorante Italiano \nBistro SouthEast \nFederal Donuts \nMonster Vegan",
+            "Bistro SouthEast \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nMong Kok Station \\n\nZizzi \\n\nThe QUICK FIXX \\n\nMonster Vegan \\n\nThe Green Line Cafe \\n\nVedge \\n\nBlackbird Pizzeria",
+            "Daleng Restaurant \nCinCin Restaurant \nCanton 11 \nBistro SouthEast \nTalluto's Authentic Italian Food \nTu's Tea & Banh Mi South Philly \nThe QUICK FIXX \nMonster Vegan \nLuvh Vegan Deli \nSpread Bagelry",
+            "1. Tu's Tea & Banh Mi South Philly \n2. The Juice Merchant \n3. Monster Vegan \n4. Hey Hummus \n5. Vedge \n6. Benna's Cafe \n7. The QUICK FIXX \n8. Pure Tacos \n9. Green Leafs & Bananas \n10. Daleng Restaurant",
+            "Daleng Restaurant \nVedge \nTufino \nThe QUICK FIXX \nMonster Vegan \nBistro SouthEast \nMacaroni's Restaurant \nHey Hummus \nJake's & Cooper's Wine Bar & Wine Shop \nMiga Korean BBQ & Sushi",
+            " Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nMonster Vegan \nVedge \nHey Hummus \nThe Blue Duck",
+            "The QUICK FIXX \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nBistro SouthEast \nGrain Exchange \nRoy-Pitz Barrel House \nPasta & Provisions \nThe Continental Restaurant and Martini Bar \nCafe La Maude \nThe Black Sheep",
+            "1. Daleng Restaurant \n2. The Green Line Cafe \n3. Bistro SouthEast \n4. Baan Thai \n5. The QUICK FIXX \n6. Spread Bagelry \n7. Oishii Pok\u00e9 \n8. Ristorante La Buca \n9. Blackbird Pizzeria \n10. The Juice Merchant",
+            "1. CinCin Restaurant\n2. Bistro SouthEast\n3. The QUICK FIXX\n4. Izumi \n5. Daleng Restaurant \n6. Fuji Mountain \n7. Canton 11\n8. Sang Kee Peking Duck House \n9. Miga Korean BBQ & Sushi\n10. Tu's Tea & Banh Mi South Philly"
+        ]
+    }
+}

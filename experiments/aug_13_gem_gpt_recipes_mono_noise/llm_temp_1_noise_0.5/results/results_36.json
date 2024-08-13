@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Chinese dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like anything deep-fried like dumplings or wontons?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer rice-based Chinese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer steamed fish dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer your fish pan fried or deep fried?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPeppermint chocolate bonbon\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nPolish sausage with fermented cabbage\nSpanish rice with chicken breast\nHomemade soup with chicken, noodles, and spices\nSmoothie made from banana puree with milk\n''''",
+            "1) Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2) South African vegetable curry flavoured with curry powder and ground tumeric\n3) Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4) Spaghetti noodles with mussels, anchovy fillets, and capers\n5) Fried shrimp and scallops\n6) Taiwan fried crispy chicken cutlets\n7) Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n8) Stir-fried tofu, noodles and vegetables Bento\n9) Korean soup containing beef brisket and flavoured with red pepper powder\n10) Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce",
+            " Okra stew with shrimp and beef sausage okra\nSweet and sour pork\nStir-fried tofu, noodles and vegetables Bento\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nVietnamese Vietnamese noodle with grilled pork and vegetables\nPork hock stew with dried shrimp\nRice noodles with beef stew\nSpicy Vermicelli Chilli Crab\nChinese sweet and sour pork ribs\nRadish cake",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Fried shrimp and scallops\n4. Norwegian cake with lingonberry and whipped cream layers\n5. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Pepper meant chocolate bonbon\n8. Taiwanese deep fried crispy chicken cutlets\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "Soup made with cabbage, carrots, potatoes, and onions\nChicken cooked and flavored with lemon sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSoup made with ground turkey that is low fat, high carb\nKorean soup containing beef brisket and flavoured with red pepper powder\nCreamy base with dill flavoring, eggs, and noodles\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n'''",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nBeef stew made with beef, carrots and potatoes\nChopped French duck confit preserved by duck oil\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nPeppermint chocolate bonbon\nRoast turkey with plum sauce\nPear and almond salad\nKorean soup containing beef brisket and flavoured with red pepper powder\nChicken cooked and flavored with lemon sauce",
+            "Soup made with shrimp, onions, and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon roasted with olive oil, chives, and tarragon leaves\nNorway cake with lingonberry and whipped cream layers\nPork chops glazed with milk and cooked without nuts\nPork shoulder for Chinese dragon boat festival\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nClassic salad with creamy caesar dressing and croutons\nRoast turkey with plum sauce\nLow-fat coconut alcohol-free cocktail",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nSoup made with shrimp, onions, and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nSimple creamy oyster soup\nFish soup\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs",
+            "1. Assorted cheese soup with chicken\n2. Beef stew made with beef, carrots and potatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. High protein skillet with rice and vegetables\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Simple creamy oyster soup\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n10. South African vegetable curry flavoured with curry powder and ground tumeric",
+            "1. Fried shrimp and scallops\n2. Poke of tofu, mushroom and tomatoes\n3. Spanish rice with chicken breast\n4. Baked salmon fillets grilled in a pan with herbs and spices\n5. Roasted almonds\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. Grilled salmon seasoned with salt and pepper\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Peach cobbler dessert containing whole wheat flour"
+        ]
+    }
+}

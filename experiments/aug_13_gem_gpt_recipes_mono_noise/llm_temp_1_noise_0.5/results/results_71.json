@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in beverages?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy beverages?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beverages which are alcoholic?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer beverages which are high in fat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer cold beverages?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beverage mixed in a blender?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like beverages which have fruit flavours?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy-based beverages?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like beverages sweetened with sugar?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Beef stew made with beef, carrots and potatoes\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Grilled salmon seasoned with salt and pepper\n4. Pork chops glazed with milk and cooked without nuts\n5. Shredded barbecued pork shoulder\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Roasted almonds\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Calcium-rich soup made with broccoli and beans\n10. Spanish rice with chicken breast\n11. Very low-fat assortment of shredded vegetables with seasoning\n12. Low fat baked breakfast pie made with sausage (pork) and apples\n13. Low fat low-carb soup made with ground turkey\n14. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \n15. Creamy base with dill flavoring, eggs, and noodles\n16. Meatballs made with ground beef and ground pork\n17. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n18. Very low-fat assortment of shredded vegetables with seasoning\n19. Salad made with corn and three types of beans\n20. Chicken cooked and flavored with lemon sauce\n21. Sandwich made with: grilled / broiled marinated chicken\n22. Banana bread made with whole wheat flour and walnuts",
+            "Smoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nMilkshake made with fresh strawberries and ice cream\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow-fat coconut alcohol-free cocktail\nVery low-fat assortment of shredded vegetables with seasoning\nFruit juice\n'''",
+            " Smoothie made from fruit juice and bananas\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nMilkshake made with fresh strawberries and ice cream\nLow-fat coconut alcohol-free cocktail\nCreamy base with dill flavoring, eggs, and noodles\nCheesecake made with cream cheese\nBaked breakfast bars made with nuts and seeds\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard",
+            "****\n1. Low-fat coconut alcohol-free cocktail\n****\n2. Milkshake made with fresh strawberries and ice cream\n****\n3. Chocolate and orange-flavoured smoothie\n****\n4. Slushie drink made from orange juice blended with ice\n****\n5. Smoothies made from fruit juice and bananas\n****\n6. Low fat smoothies made with greek yogurt, and pineapple\n****\n7. Smoothie made from banana puree with milk\n****\n8. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n9. Peppermint chocolate bonbon\n****\n10. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "No results found. Try adjusting your search parameters.",
+            "1. Low fat coconut alcohol-free cocktail\n2. Milkshake made with fresh strawberries and ice cream\n3. Chocolate and orange-flavoured smoothie\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Peach cobbler dessert containing whole wheat flour\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Low-fat coconut alcohol-free cocktail\nMilkshake made with fresh strawberries and ice cream\nChocolate and orange-flavoured smoothie\nSmoothie made from banana puree with milk\nLow sugar applesauce cupcakes\nSweet salad made with corn and three types of beans\nQueso made from melted cheese and chili peppers\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLarge portion fries with gravy and bacon\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n''''",
+            "Smoothie made from banana puree with milk\nLow fat coconut alcohol-free cocktail\nMilkshake made with fresh strawberries and ice cream\nChocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nSlushie drink made from orange juice blended with ice\nPeanut butter cookies\nOatmeal, fruit, and nuts smoothie\nBanana bread\nSweet salad made with corn and three types of beans\n'''",
+            "1. Mozzarella dip recipe\n2. Meatballs made with ground beef and ground pork\n3. Low fat assorted fruit dessert\n4. Smoothie made from banana puree with milk\n5. Mushy peas that are soft\n6. Hot pot that is not spicy\n7. Roasted almonds\n8. Stir-fried tofu, noodles and vegetables Bento\n9. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n10. Spanish rice with chicken breast",
+            "Low fat coconut alcohol-free cocktail\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nSmoothie made from fruit juice and bananas\nSmoothie made with greek yogurt, and pineapple\nSlushie drink made from orange juice blended with ice\nChocolate and orange-flavoured smoothie\nMilkshake made with fresh strawberries and ice cream\nSpanish rice with chicken breast\nLow sugar applesauce cupcakes"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in healthy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a breakfast spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that makes sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that offer delivery?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nCinCin Restaurant \nVeda - Modern Indian Bistro \nBistro SouthEast \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nAudrey Claire \nKC's Pastries",
+            "Water Works Restaurant & Lounge \nZuzu's Kitchen \nThe Tasty Toast \nCinCin Restaurant \nVeda - Modern Indian Bistro \nThe Continental Restaurant and Martini Bar \nCook and Shaker \nBenna's Cafe \nThe El Bar \nWishbone",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nDaleng Restaurant",
+            "Golden Triangle \nCanton 11 \nDim Sum House \nSang Kee Peking Duck House \nBaan Thai \nVeda - Modern Indian Bistro \nTalutto's Authentic Italian Food \nCastellino's \nRistorante La Buca \nIzumi",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nThe Grill  Smuckers \nMonkitail at The Logan Philadelphia \nSang Kee Peking Duck House \nTavern On the Hill \nCanton 11 \nMad River Manayunk \nThe Continental Restaurant and Martini Bar",
+            "1. Water Works Restaurant & Lounge\n2. Lacroix Restaurant at The Rittenhouse\n3. Izumi\n4. Bistro SouthEast\n5. Valley Green Inn\n6. Pearl's Oyster Bar\n7. Malbec Argentine Steakhouse\n8. Dim Sum House\n9. Ristorante La Buca\n10. Audrey Claire",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nVeda - Modern Indian Bistro \nThe Juice Merchant \nMacaroni's Restaurant \nThe Milk House \nFederal Donuts \nValley Green Inn \nThe Grill  Smuckers \nCinCin Restaurant \nHeritage \nBenna's Cafe \nCook and Shaker \nThe Tavern Restaurant \nFounding Fathers Sports Bar & Grill \nMisconduct Tavern \nRoy-Pitz Barrel House \nThe QUICK FIXX \nEvans' Pizza \nWawa \nJake's & Cooper's Wine Bar & Wine Shop \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBlackbird Pizzeria \nMcMenamin's Tavern \nGran Caffe L'Aquila \nFederal Donuts \nSister Muhammad's Kitchen \nGreen Leafs & Bananas",
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. The Grill  Smuckers \n4. The Tavern Restaurant \n5. Pearl's Oyster Bar \n6. Valley Green Inn \n7. Ristorante La Buca \n8. Audrey Claire \n9. Malbec Argentine Steakhouse \n10. Water Works Restaurant & Lounge",
+            "Water Works Restaurant & Lounge\nValley Green Inn\nThe Grill  Smuckers\nPearl's Oyster Bar\nAudrey Claire\nOishii Pok\u00e9\nRistorante La Buca\nFuji Mountain\nFederal Donuts\nCanton 11",
+            "1. Water Works Restaurant & Lounge\n2. Pearl's Oyster Bar\n3. The Cheesecake Factory\n4. Ristorante La Buca\n5. Audrey Claire\n6. Daleng Restaurant\n7. Bistto SouthEast\n8. Gran Caffe L'Aquila\n9. Founding Fathers Sports Bar & Grill\n10. Malbec Argentine Steakhouse"
+        ]
+    }
+}

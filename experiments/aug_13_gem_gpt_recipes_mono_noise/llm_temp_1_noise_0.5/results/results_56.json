@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Do you typically go for German cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer foods with a sweet taste?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bread?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like almonds?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Cheese with crackers\n2. Fried shrimp and scallops\n3. Schlesische Himmelreich crafted from scraps of pork or fresh ham\n4. Noodle dish prepared with egg noodles\n5. Pork chops glazed with milk and cooked without nuts\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Roasted almonds\n8. Sauerbraten with 3 types of seasoning\n9. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n10. Wilted spinach with roasted lamb",
+            "1. High protein skillet with rice and vegetables\n2. Grilled salmon seasoned with salt and pepper\n3. German chicken meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Garlic bread with cheddar, green onions, and mayonnaise\n6. German cheese and vegetable soup with a beer broth\n7. Assorted cheese soup with chicken\n8. Simple creamy oyster soup\n9. Pepperoni pizza made with whole wheat pizza crusts, cheese, and onions\n10. Baked mozzarella cheese sticks with marinara sauce",
+            "1. German sauerbraten\n2. German Shepherd Hamburger (Low Fat)\n3. German Pancake\n4. Spinach Pancakes\n5. German Chocolate Cake Mix\n6. Waffles - German Style\n7. German Chocolate Pudding Dessert\n8. Caramel Chocolate Delight\n9. Tiramisu German\n10. Chocolate Fondue German\n",
+            "Pork chops glazed with milk and cooked without nuts\nGerman currywurst\nGerman potato salad\nGrilled salmon seasoned with salt and pepper\nGerman meatloaf\nGoulash\nBratwurst\nPork shoulder roast with sauerkraut\nChicken schnitzel\nGerman apple pancake\n'''",
+            "Sweet salad made with corn and three types of beans \\n\nPeach cobbler dessert containing whole wheat flour \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nChicken cooked and flavored with lemon sauce \\n\nRoast turkey with plum sauce \\n\nAlmonds coated with butter and salt \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nApplesauce cupcakes using egg catsup noodles \\n\nSmoothie made from fruit juice and bananas \\n\nLow fat applesauce cupcakes\n''''",
+            "1. \u00a0Roast turkey with plum sauce\n2. \u00a0Pork chops glazed with milk and cooked without nuts\n3. \u00a0Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. \u00a0Baked spinach quiche containing bacon\n5. \u00a0Spaghetti noodles with mussels, anchovy fillets, and capers\n6. \u00a0German-style bread with raisins soaked in a rum or similar spirit\n7. \u00a0Grilled salmon seasoned with salt and pepper\n8. \u00a0Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. \u00a0Breakfast egg, bean, and cheese burrito with jalapeno peppers\n10. \u00a0Polish sausage with fermented cabbage\n''''",
+            "****\n Pork chops glazed with milk and cooked without nuts\n****\n Low fat smoothies made with greek yogurt, and pineapple\n****\n **German Pancakes**\n****\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Smoothies made from fruit juice and bananas\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n **Chocolate mousse**\n****\n **German Apple Pancakes**\n****\n Caramel apple bread\n****\n Chicken cooked and flavored with lemon sauce\n****\n **Black Forest Cake**\n****\n **Sweet German Pancake**\n****\n **German Apple Strudel**\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n****\n **German Potato Pancake**\n****\n **German cheesecake**\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n **Kassler Rippchen (Smoked Pork Chops)**\n****\n Shaved Brussels sprouts salad with cranberries, bacon, and goat cheese\n****\n **German Chocolate Cupcakes**\n****\n Thai peanut noodles\n****\n **German Spaetzle (Egg Noodles)**\n****\n **Bienenstich**\n****\n **Soft German Pretzels**\n****\n **Brandteigkrapfen (German Cream Puffs)**\n****\n **Lebkuchen (German Gingerbread)**\n****\n **German Potato Salad**\n****\n **German Chocolate Cake**\n****\n **Baumkuchen (German Tree Cake)**\n****\n **German Pancakes II**",
+            " Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nNorway cake with lingonberry and whipped cream layers \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nLow sugar applesauce cupcakes \\n\nPeppermint chocolate bonbon \\n\nPeach cobbler dessert containing whole wheat flour \\n\nGluten-free, egg-free, dairy-free, nut-free fudge \\n\nBaked spinach quiche containing bacon \\n\nBreakfast egg, bean, and cheese burrito with jalapeno peppers \\n\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. Roasted almonds\n2. 2-ingredient yogurt from scratch\n3. German chocolate cake\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Norway cake with lingonberry and whipped cream layers\n6. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n7. Grilled salmon seasoned with salt and pepper\n8. Low sugar applesauce cupcakes\n9. Almonds coated with butter and salt\n10. Blackberry jam",
+            "- Peach cobbler dessert containing whole wheat flour\n- Norwegian cake with lingonberry and whipped cream layers\n- Chocolate and orange-flavoured smoothie\n- Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n- Applesauce cupcakes\n- French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n- Lemon loaf made with aour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n- Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n- Baked spinach quiche containing bacon\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs"
+        ]
+    }
+}

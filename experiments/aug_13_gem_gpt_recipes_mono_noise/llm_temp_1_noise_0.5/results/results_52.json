@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Do you like salads containing meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegan dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like alcohol-free cocktails?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cakes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Pork chops glazed with milk and cooked without nuts\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Low fat diced baked or fried potatoes\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Oven baked breadsticks with marinara sauce\n9. Grilled fish with lemon juice and butter\n10. Chicken cooked and flavored with lemon sauce\n'''",
+            "  South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with shrimp, onions, and scallops\n****\n Mildly spicy chili recipe\n****\n Chicken cooked and flavored with lemon sauce\n****\n Sweet salad made with corn and three types of beans\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Low sugar applesauce cupcakes",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n10. Smoothie made from fruit juice and bananas\n'''",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Pork chops glazed with milk and cooked without nuts\n4. Mustard dill sauce\n5. Slow-cooker turkey legs\n6. Mushroom pepper steak skillet\n7. Classic salad with creamy caesar dressing and croutons\n8. Roasted almonds\n9. Sweet salad made with corn and three types of beans\n10. Vegetable soup with skin-on potatoes\n''''",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Smoothies made from fruit juice and bananas\n4. Chocolate and orange-flavoured smoothie\n5. Smoothies made with greek yogurt, and pineapple\n6. Low-fat smoothies made with greek yogurt, and pineapple\n7. Slushie drink made from orange juice blended with ice\n8. Milkshake made with fresh strawberries and ice cream\n9. Smoothie made from banana puree with milk\n10. Strawberry juice made with fresh strawberries, sugar, and water",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Low fat smoothies made with greek yogurt, and pineapple\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Low fat diced baked or fried potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Baked spinach quiche containing bacon\n9. Cheesecake made with cream cheese\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Low-fat coconut alcohol-free cocktail \\n\nSmoothie made from banana puree with milk \\n\nLow fat assorted fruit dessert \\n\nCreamy base with dill flavoring, eggs, and noodles \\n\nGarlic bread with cheddar, green onions, and mayonnaise \\n\nChicken cooked and flavored with lemon sauce \\n\nMushy peas that are soft \\n\nCheese and vegetable soup with a beer broth \\n\n2-ingredient yogurt from scratch \\n\nVietnamese noodle soup made with pho soup base\n",
+            "Chocolate and orange-flavoured smoothie\nNorwegian cake with lingonberry and whipped cream layers\nBlueberry pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nLow sugar applesauce cupcakes\nSmoothie made from banana puree with milk\nStrawberry milkshake\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nGluten-free, egg-free, dairy-free, nut-free fudge\nPeanut butter cookies\nPeppermint chocolate bonbon\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n",
+            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow sugar applesauce cupcakes\nSugar-free peanut butter cookies\nSmoothie made from fruit juice and bananas\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from banana puree with milk\nMilkshake made with fresh strawberries and ice cream\nPeach cobbler dessert containing whole wheat flour\nLow fat assorted fruit dessert",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nChocolate and orange-flavoured smoothie\nPeppermint chocolate bonbon\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBaked spinach quiche containing bacon\nLow fat coconut alcohol-free cocktail"
+        ]
+    }
+}

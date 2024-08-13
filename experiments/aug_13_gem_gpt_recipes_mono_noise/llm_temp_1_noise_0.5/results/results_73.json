@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat red meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Eastern European cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Eastern European soup?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Polish food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBaked spinach quiche containing bacon\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese with crackers\n****\nVegetable curry flavoured with curry powder and ground tumeric\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nStuffed chicken breasts with bacon and mozzarella",
+            "Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nVery low-fat assortment of shredded vegetables with seasoning\nSalt and pepper grilled salmon\nBaked mozzarella cheese sticks with marinara sauce\nYogurt made from 2 ingredients\nSoup made with vegetables and chicken\nShredded barbecued pork shoulder\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nStir-fried tofu, noodles and vegetables Bento\nSpinach quiche baked with bacon",
+            " ****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nPoke of tofu, mushroom and tomatoes\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nFried shrimp and scallops\n****\nSoup made with shrimp, onions, and scallops\n****\nSeafood soup made with vegetables and chicken\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****",
+            " 1. Smoothies made from fruit juice and bananas\n2. Bananas\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Roasted almonds\n5. Baked mozzarella cheese with marinara sauce\n6. Mozzarella dip recipe\n7. Large portion fries with gravy and bacon\n8. Baked spinach quiche containing bacon\n9. Oatmeal cookies\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n'''",
+            " Grilled vegetables tofu mushrooms tomatoes balsamic vinegar herbs \\n\nMushroom tomatoes tofu poke mushroom tomatoes \\n\nCreamy base dill flavoring eggs noodles \\n\nSmoothie banana puree milk \\n\nGrilled salmon seasoned herb spices \\n\nSpicy chili recipe \\n\nBaked pumpkin dessert pie sweet pumpkin spice based custard \\n\nSouth African vegetable curry flavored curry powder ground tumeric \\n\nAssorted cheese soup chicken \\n\nHigh protein pizza whole wheat pizza crusts tofu \\n\nString beans cheddar cheese brown rice pork \\n\nLow fat sweet potato fries cajun seasoning \\n\nChicken bacon mozzarella stuffed chicken breasts \\n\nVery low-fat assorted shredded vegetables seasoning \\n\nDog food pork green beans cheddar cheese brown rice \\n\nSugar free peanut butter cookies \\n\nNoodles egg turkey bacon seasoned \\n\nBaked breakfast bars nuts seeds \\n\nMildly spicy chili recipe \\n\nBaked spinach quiche containing bacon \\n\nBeef chili jalapeno pepper chili powder cayenne pepper \\n\nSpaghetti noodles mussels anchovy fillets capers \\n\nN/a (recipe description is too short) \\n\nShredded barbecued pork shoulder \\n\nOyster soup \\n\nLow fat smoothies greek yogurt pineapple \\n\nGrilled squash zucchinis tomatoes mushrooms balsamic vinegar herbs \\n\nChicken cooked lemon sauce \\n\nBerry cobbler frozen mixed berries \\n\nGrilled chicken squash zucchinis tomatoes and mushrooms\n****\nChinese salad eggplant zucchini \\n\nLarge portion fries gravy bacon \\n\nBeef stew beef \\n\nQueso melted cheese chili peppers \\n\nChopped French dragon duck consfit preserved duck oil \\n\nLow fat baked breakfast pie sausage apples \\n\nSpaghetti year round egg catsup noodles \\n\nSmoothie fruit juice bananas \\n\nLow sugar applesauce cupcakes \\n\n2-ingredient yogurt scratch \\n\nHigh protein skillet rice vegetables \\n\nCreamy cheese \\n\nLow fat diced baked potatoes \\n\nMozzarella cheese marinara sauce \\n\nVegan macaroni pasta frozen peas olive oil nutritional yeast \\n\nRoasted almonds \\n\nMozzarella dip recipe \\n\nBanana puree milk",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nDigestion-friendly waffles\n****\nLow sugar applesauce cupcakes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nBaked oatmeal breakfast bars made with nuts and seeds\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSmoothie made from banana puree with milk\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Vegetable soup with chicken\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Cabbage, carrot, potato, and onion soup\n7. Chopped French duck confit preserved by duck oil\n8. Roasted almonds\n9. Smoothie made from banana puree with milk\n10. Mozzarella dip recipe\n'''",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nPolish sausage with fermented cabbage\nCalcium-rich soup made with broccoli and beans\nCreamy base with dill flavoring, eggs, and noodles\nAssorted cheese soup with chicken\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with vegetables and chicken\nSoup made with cabbage, carrots, potatoes, and onions\nCheese and vegetable soup with a beer broth",
+            "- Cabbage, carrots, potatoes, and onions soup\n-  Soup made with chicken and vegetables\n- Gluten-free, egg-free, dairy-free, nut-free soup\n- Broccoli and bean soup\n- Creamy base with dill flavoring, eggs, and noodles\n- Simple creamy oyster soup\n- Calcium-rich soup made with broccoli and beans\n- Assorted cheese soup with chicken\n- Very low-fat assortment of shredded vegetables with seasoning\n- Cheese and vegetable soup with a beer broth",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Vegetarian dishes\n6. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n7. Calcium-rich soup made with broccoli and beans\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Digestion-friendly waffles"
+        ]
+    }
+}

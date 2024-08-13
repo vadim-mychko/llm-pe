@@ -1,0 +1,58 @@
+{
+    "22": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for gastropubs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying a burger place?",
+                "response": "yes"
+            },
+            {
+                "query": "How about some sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that specialize in chicken wings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Lacroix Restaurant at The Rittenhouse\n2. Germantown Garden \n3. The Tasty Toast\n4. Golden Triangle\n5. Water Works Restaurant & Lounge\n6. Izumi\n7. A Tutti, Ristorante Italiano \n8. Castellino's \n9. Bloomsday Cafe \n10. The Cheesecake Factory",
+            "Daleng Restaurant\nZuzu's Kitchen\nFederal Donuts\nGolden Triangle \nWater Works Restaurant & Lounge\n\u5fb7\u56fd\u82b1\u56ed \nPrimoHoagies\nThe Juice Merchant \nVedge\nRoy-Pitz Barrel House\n",
+            " Zuzu's Kitchen \n Golden Triangle \n The Juice Merchant \n The Tasty Toast \n Daleng Restaurant \n Sang Kee Peking Duck House \n The Grill  Smuckers \n Tu's Tea & Banh Mi South Philly \n Macaroni's Restaurant \n Fiore Fine Foods",
+            "The Green Line Cafe \nAudrey Claire \nOishii Pok\u00e9 \nSteve's Prince of Steaks \nJD Mcgillicuddy's Manayunk \nFranklin's \nMcMenamin's Tavern \nJack's Firehouse \nVillage Whiskey \nFounding Fathers Sports Bar & Grill",
+            "Federal Donuts \\n\nMacaroni's Restaurant \\n\nFive Guys \\n\nPaddy's Old City Pub \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill \\n\nOlive Garden Italian Restaurant \\n\nLucky's Last Chance \\n\n| Jack's Firehouse \\n\n| The El Bar",
+            " Founding Fathers Sports Bar & Grill\nThe Continental Restaurant and Martini Bar\nFranklin's\nJD Mcgillicuddy's Manayunk\nThe Tavren Restaurant\nThe El Bar\nJack's Firehouse\nMad River Manayunk\nThe QUICK FIXX\nThe Blue Duck",
+            "Water Works Restaurant & Lounge\nJack's Firehouse\nGrain Exchange\nFederal Donuts\nThe Tavern Restaurant\nFounding Fathers Sports Bar & Grill\nBetty's Speakeasy\nFranklin's\nLuigi's Sandwich Shop\nBistro Seoul",
+            "1. Local Tavern \\n\n2. Misconduct Tavern \\n\n3. Wishbone \\n\n4. The El Bar \\n\n5. Founding Fathers Sports Bar & Grill \\n\n6. Chestnut 7 \\n\n7. Mad River Manayunk \\n\n8. JD Mcgillicuddy's Manayunk \\n\n9. Lucky's Last Chance \\n\n10. CJ & Eck's\n",
+            "The Tavern Restaurant \nMisconduct Tavern \nJack's Firehouse \nLucky's Last Chance \nFranklin's \nThe Blue Duck \nLisa's Kitchen \nThe El Bar \nRoy-Pitz Barrel House \nPaddy's Old City Pub \nTrolley Car Diner \nMcMenamin's Tavern",
+            "Wishbone \\n\nFranklin's \\n\nLisa's Kitchen \\n\nMcMenamin's Tavern \\n\nJD Mcgillicuddy's Manayunk \\n\nMad River Manayunk \\n\nLucky's Last Chance \\n\nFederal Donuts \\n\nLove & Honey Fried Chicken \\n\nJack's Firehouse"
+        ]
+    }
+}

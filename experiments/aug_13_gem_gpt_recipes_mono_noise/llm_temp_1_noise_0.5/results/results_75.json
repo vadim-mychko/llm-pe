@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you a vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish other than salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef or pork in your Chinese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer beef or shrimp in your Chinese dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Taiwanes deep fried crispy chicken cutlets\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Pork chops glazed with milk and cooked without nuts\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Spanish rice with chicken breast\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n''''",
+            "Baked squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nLow fat assorted fruit dessert \\n\nRamen noodles made from scratch made with: wheat flour, baking soda, and water \\n\nTaiwanese deep fried crispy chicken cutlets \\n\nBeef brisket soup \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nStir-fried tofu, noodles and vegetables Bento \\n\nSpicy chili recipe",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nShredded barbecued pork shoulder\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nPork chops glazed with milk and cooked without nuts\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. High protein skillet with rice and vegetables\n4. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Chicken cooked and flavored with lemon sauce\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Oven-baked salmon, seasoned with garlic, onion, cumin, dill, and lime",
+            "1) Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2) High protein skillet with rice and vegetables\n3) Grilled salmon seasoned with salt and pepper\n4) Very low-fat assortment of shredded vegetables with seasoning\n5) South African vegetable curry flavoured with curry powder and ground tumeric\n6) Salmon roasted with olive oil, chives, and tarragon leaves\n7) Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8) Taiwanese deep fried crispy chicken cutlets\n9) Spanish rice with chicken breast\n10) Stir-fried tofu, noodles and vegetables Bento",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n Grilled salmon seasoned with salt and pepper\n Salmon roasted with olive oil, chives, and tarragon leaves\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n Pork chops glazed with milk and cooked without nuts\n Spaghetti noodles with mussels, anchovy fillets, and capers\n Queso made from melted cheese and chili peppers\n Spicy tofu, mushroom and tomatoes\n Tuna poke bowl\n 2-ingredient yogurt from scratch\n''''",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n High protein skillet with rice and vegetables\n****\n Chocolate and orange-flavoured smoothie\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Italian salad made from romaine lettuce, artichokes, and tomatoes\n****\n Queso made from melted cheese and chili peppers\n****",
+            "Salmon roasted with olive oil, chives, and tarragon leaves\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Roasted almonds\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Peach cobbler dessert containing whole wheat flour",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled salmon seasoned with salt and pepper\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n'''"
+        ]
+    }
+}

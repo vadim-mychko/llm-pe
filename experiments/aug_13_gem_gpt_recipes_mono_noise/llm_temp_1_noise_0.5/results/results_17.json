@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savory foods over sweet foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like your food spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer grilled salmon over salmon roasted with olive oil, chives, and tarragon leaves?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like deep fried tofu, noodles, and vegetables Bento?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer shrimp and scallops or mussels, anchovy fillets, and capers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like roasted almonds?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Chinese-style steamed pork meatloaf over pork chops glazed with milk and cooked without nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2-ingredient yogurt from scratch\nBaked breakfast bars made with nuts and seeds\nVery low-fat assortment of shredded vegetables with seasoning\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nLow fat diced baked or fried potatoes\nSugar-free peanut butter cookies\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\n",
+            "1. Sugar-free peanut butter cookies\n2. Banana bread made with whole wheat flour and walnuts\n3. Low sugar applesauce cupcakes\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Chocolate and orange-flavoured smoothie\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Cake made with chocolate chip cookies for bottom, low-fat vanilla pudding, and sugar free cheesecake\n8. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n9. Norway cake with lingonberry and whipped cream layers\n10. Baked breakfast bars made with nuts and seeds\n'''",
+            " Salmon fillets grilled in a pan with herbs and spices\n****\n Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Simple creamy oyster soup\n****\n Soup made with shrimp, onions, and scallops\n****\n Seafood salad made from finely shredded salmon and baked potato\n****\n Soup made with fish sticks and potato\n****\n Fish sticks cooked in a pan with potato\n****\n Seafood lasagna made with fish and shrimp\n****",
+            "Grilled Salmon seasoned with salt and pepper\nSeafood Jambalaya\nSalmon fillets grilled in a pan with herbs and spices\nSalmon Salad\nSeafood Cocktail\nSalmon roasted with olive oil, chives, and tarragon leaves\nSeafood Stir-Fry\nSeafood Pasta\nSalmon Soup\nSeafood with butter sauce",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSeafood salad with big variety of sea food (prawns shrimps etc)\nSpicy kimchi with ground pork and hot pepper flakes\nKorean soup containing beef brisket and flavoured with red pepper powder\nRoasted salmon with olive oil, chives, and tarragon leaves\nFried shrimp and scallops\nSimple creamy oyster soup\nHomemade soup with chicken, noodles, and spices\nCreamy base with dill flavoring, eggs, and noodles\n ****",
+            "****\nBaked mozzarella cheese sticks with marinara sauce\n\n****\nFried shrimp and scallops\n\n****\nGrilled salmon seasoned with salt and pepper\n\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n\n****\nSoup made with shrimp, onions, and scallops\n\n****\nMozzarella dip recipe\n\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n\n****\nBaked salmon fillets with herb and spice pan sauce\n\n****\nMeatballs made with ground beef and ground pork\n\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Soup made with shrimp, onions, and scallops\n4. Fried shrimp and scallops\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Seafood salad made of eggplant and zucchini, flavoured with soy sauce\n8. Seafood jambalaya that is not spicy\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n",
+            "1. Soup made with shrimp, onions, and scallops\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Fried shrimp and scallops\n4. Seafood salad made with eggplant and zucchini, flavoured with soy sauce\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Simple creamy oyster soup\n9. Seafood soup with broccoli and beans\n10. Soup made from onions, carrots, and celery ribs\n'''",
+            "Salmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nSpanish rice with chicken breast\nGrilled salmon seasoned with salt and pepper\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nQueso made from melted cheese and chili peppers",
+            "1. Low fat smoothies made with greek yogurt, and pineapple\n2. Slushie drink made from orange juice blended with ice\n3. Chocolate and orange-flavoured smoothie\n4. Smoothie made from fruit juice and bananas\n5. Smoothies made from banana puree with milk\n6. Grilled salmon seasoned with salt and pepper\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip"
+        ]
+    }
+}

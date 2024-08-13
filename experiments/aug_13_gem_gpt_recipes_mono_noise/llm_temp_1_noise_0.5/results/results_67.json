@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in meals that cater towards low-fat or healthy diets?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in dishes that use vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dairy-free meals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in meals that are low-fat or healthy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soup-based meals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meals that contain sauces?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in non-spicy meals?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nHomemade soup with chicken, noodles, and spices\nLow fat assorted fruit dessert\nLow-fat coconut alcohol-free cocktail\nMildly spicy chili recipe\n'''",
+            "1. Low fat baked breakfast pie made with sausage (pork) and apples\n2. Low fat sweet potato fries made with cajun seasoning\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Calcium-rich soup made with broccoli and beans\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat diced baked or fried potatoes\n9. Mozzarella dip recipe\n10. Low fat assorted fruit dessert",
+            "2-ingredient yogurt from scratch\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nDairy-free meals\nLow fat diced baked or fried potatoes\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n Low-fat coconut alcohol-free cocktail\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            " 2-ingredient yogurt from scratch\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Spaghetti made from year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n4. Seafood Cioppino\n5. Grilled salmon seasoned with salt and pepper\n6. Grilled salmon roasted with olive oil, chives, and tarragon leaves\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Fried shrimp and scallops\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n'''",
+            " 1. Low fat sweet potato fries made with cajun seasoning\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. 2-ingredient yogurt from scratch\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Low fat diced baked or fried potatoes\n7. Low-fat coconut alcohol-free cocktail\n8. Digestion-friendly waffles\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Assorted cheese soup with chicken",
+            "1. 2-ingredient yogurt from scratch\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low fat sweet potato fries made with cajun seasoning\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Low fat smoothies made with greek yogurt, and pineapple\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Low fat diced baked or fried potatoes\n8. Low-fat coconut alcohol-free cocktail\n9. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n10. Low fat assorted fruit dessert",
+            "2-ingredient yogurt from scratch\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow-fat coconut alcohol-free cocktail\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat diced baked or fried potatoes\nMeatballs made with ground beef and ground pork\nMozzarella dip recipe",
+            " 1. Dog food made from pork, green beans, cheddar cheese and brown rice\n2. Assorted cheese soup with chicken\n3. Baked breakfast bars made with nuts and seeds\n4. Shredded barbecued pork shoulder\n5. Mozzarella dip recipe\n6. Roasted almonds\n7. Meatballs made with ground beef and ground pork\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Mozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\nCreamy base with dill flavoring, eggs, and noodles\nChopped French duck confit preserved by duck oil\nShredded barbecued pork shoulder\n2-ingredient yogurt from scratch\nChicken breasts stuffed with bacon and mozzarella\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nLow sugar applesauce cupcakes\nCheese with crackers"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Do you like American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer bread over fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like entrees with pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy entrees?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Grilled salmon seasoned with salt and pepper\n****\n Poke of tofu, mushroom and tomatoes\n****\n Queso made from melted cheese and chili peppers\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Chopped French duck confit preserved by duck oil\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Mildly spicy chili recipe\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****",
+            "****\n Low sugar applesauce cupcakes \n****\n Creamy base with dill flavoring, eggs, and noodles \n****\n Sugar-free peanut butter cookies \n****\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \n****\n Strawberry milkshake made with fresh strawberries and ice cream \n****\n Smoothie made from fruit juice and bananas \n****\n Berry cobbler that uses frozen mixed berries \n****\n Cheesecake made with cream cheese \n****\n Jelly made from blackberries, lemon juice, and sugar \n****\n Peach cobbler dessert containing whole wheat flour \n****\ufeff",
+            "Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\n**Berry cobbler that uses frozen mixed berries\n****\n**Blueberry muffins made with milk\n****\n**Low fat assorted fruit dessert\n****\n5-Fruit salad made with apples, oranges, grapes, bananas, and strawberries\n****\n**Blackberry, lemon, and sugar jam\n****\n**No-sugar added applesauce cupcakes\n****\n**Low-sugar applesauce cupcakes\n****\n**Fruit juice and banana smoothies\n****\n**Peach cobbler dessert containing whole wheat flour\n****",
+            "1. Low sugar applesauce cupcakes\n2. Blueberrys, lemon juice and sugar jam\n3. Apples, cinnamon, sugar, butter with premade shell and crust apple pie\n4. Sugar-free peanut butter cookies\n5. Almonds coated with butter and salt\n6. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, and milk\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Simple creamy oyster soup\n9. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n10. Calcium-rich soup with beans and broccoli\n",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nShrimp, onions, and scallops\nPoke of tofu, mushroom and tomatoes\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n''''",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Poke of tofu, mushroom and tomatoes\n4. Fried shrimp and scallops\n5. Grilled salmon seasoned with salt and pepper\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Soup made with shrimp, onions, and scallops\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Simple creamy oyster soup\n",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nBaked spinach quiche containing bacon\n****\nCheesecake made with cream cheese\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBerry cobbler that uses frozen mixed berries\n****\nNorwegian cake with lingonberry and whipped cream layers\n****\nLow sugar applesauce cupcakes\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****",
+            " Norway cake with lingonberry and whipped cream layers\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nTiramisu made with ladyfingers, mascarpone and coffee\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nLow sugar applesauce cupcakes\nBerry cobbler that uses frozen mixed berries",
+            "1. Peach cobbler dessert containing whole wheat flour\n2. Chow Mein containing tofu, onions, mushrooms, and green bell peppers\n3. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n4. Roast turkey with plum sauce\n5. Yogurt Danish with apple cinnamon filling\n6. Spaghetti made with cherry tomatoes, olives, and spinach\n7. Jam made from lemons and raspberries\n8. Easy corn fritters made with corn, green peppers, and onions\n9. Low fat assorted fruit dessert\n10. Mozzarella cheese rolled into phyllo dough with spinach and spices baked until golden brown and crispy\n'''''",
+            "Strawberry and ice cream milkshake \\n\nPeach cobbler dessert containing whole wheat flour \\n\nBaked apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\nPumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nSugar-free peanut butter cookies \\n\nMozzarella cheese sticks with marinara sauce \\n\nAssorted cheese soup with chicken \\n\nGarlic bread with cheddar, green onions, and mayonnaise \\n\nMozzarella dip recipe \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce"
+        ]
+    }
+}

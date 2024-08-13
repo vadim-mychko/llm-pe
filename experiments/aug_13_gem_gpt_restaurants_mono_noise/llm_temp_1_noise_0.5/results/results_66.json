@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a restaurant with bar food like burgers and fries?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fine-dining restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "How do you feel about restaurants that offer small plates?",
+                "response": "yes"
+            },
+            {
+                "query": "How about places that have international cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with pasta and Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do restaurants with tasting menus and cocktail pairing interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants that offer beer, wine, and spirits?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with seafood and steaks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer restaurants that offer wine-pairing dinners?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Water Works Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Golden Triangle \n4. The Juice Merchant \n5. Mong Kok Station \n6. Daleng Restaurant \n7. Heritage \n8. Baan Thai \n9. Blackbird Pizzeria \n10. Pure Tacos",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. Heritage \n3. A Tutti, Ristorante Italiano \n4. Olive Garden Italian Restaurant \n5. Vedge \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. Pearl's Oyster Bar \n8. The Blue Duck \n9. Blackbird Pizzeria \n10. Audrey Claire",
+            "Kokopelli Restaurant & Tequila Bar\nVedge\nLacroix Restaurant at The Rittenhouse\nCo-OP Restaurant & Lounge\nA Tutti, Ristorante Italiano\nThe Blue Duck\nJake & Cooper's Wine Bar & Wine Shop\nNorth Bowl\nTalutto's Authentic Italian Food\nThe Juice Merchant",
+            "Vedge \nLacroix Restaurant at The Rittenhouse \nAudrey Claire \nPearl's Oyster Bar \nParc \nGran Caffe L'Aquila \nCook and Shaker \nCinCin Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nLe Pain Quotidien",
+            "1. Veda - Modern Indian Bistro\n2. Kokopelli Restaurant & Tequila Bar\n3. Le Pain Quotidien\n4. Heritage\n5. CinCin Restaurant\n6. Lacroix Restaurant at The Rittenhouse\n7. Water Works Restaurant & Lounge\n8. Gran Caffe L'Aquila\n9. Fiore Fine Foods\n10. The Royal Boucherie",
+            "CinCin Restaurant \nRoy-Pitz Barrel House \nMacaroni's Restaurant \nDim Sum House \nRistorante La Buca \nOlive Garden Italian Restaurant \nValverde \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nJake's & Cooper's Wine Bar & Wine Shop",
+            "Coppa\nBarclay Prime\nBud & Marilyn's\nZahav\nForsythia\nOsteria\nWalnut Street Cafe\nThe Dandelion\nHigh Street on Market\nFork\n",
+            " Lacroix Restaurant at The Rittenhouse\nZuzu's Kitchen \nDaleng Restaurant \nCinCin Restaurant \nFederal Donuts \nCanton 11 \nJake's & Cooper's Wine Bar & Wine Shop \nVedge \nFiore Fine Foods \nBlackbird Pizzeria",
+            " Izumi \n Ristorante La Buca \n Pearl's Oyster Bar \n The Blue Duck \n Macaroni's Restaurant \n Fiore Fine Foods \n Gran Caffe L'Aquila \n Audrey Claire \n Oishii Pok\u00e9 \n Chestnut 7",
+            "1. Federal Donuts \n2. Vedge \n3. CO-OP Restaurant & Lounge \n4. Ristorante La Buca \n5. Mad River Manayunk \n6. Maison 208 \n7. Castellino's \n8. Betty's Speakeasy \n9. Gran Caffe L'Aquila \n10. Olive Garden Italian Restaurant"
+        ]
+    }
+}

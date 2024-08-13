@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you feel like having a bagel?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to grab some coffee?",
+                "response": "no"
+            },
+            {
+                "query": "Are you craving Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a deli or a cheese shop?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a cheesesteak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cheese shop or a grocery store?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for international groceries?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nThe Juice Merchant\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nFederal Donuts\nHeritage",
+            " Daleng Restaurant\nHeritage \nCanton 11 \nWawa \nEvan's Pizza \nKC's Pastries \nSpread Bagelry \nLucky's Last Chance \nGrand Cafe L'Aquila \nTu's Tea & Banh Mi South Philly ",
+            "**1.** Zuzu's Kitchen\n**2.** Golden Triangle\n**3.** Water Works Restaurant & Lounge\n**4.** Lacroix Restaurant at The Rittenhouse\n**5.** Germantown Garden\n**6.** PrimoHoagies\n**7.** Daleng Restaurant\n**8.** The Juice Merchant\n**9.** Mong Kok Station\n**10.** The Tasty Toast",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nCinCin Restaurant",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "Talluto's Authentic Italian Food \nCastellino's \nFiore Fine Foods \nOteri's Italian Bakery | North 5th St \nThe QUICK FIXX \nMacaroni's Restaurant \nPrimoHoagies \nLisa's Kitchen \nDim Sum House \nA Tutti, Ristorante Italiano",
+            " Castellino's \n Talluto's Authentic Italian Food \n The QUICK FIXX \n Fiore Fine Foods \n The Green Line Cafe \n Spread Bagelry \n KC's Pastries \n Trolley Car Diner \n Wawa\n Founding Fathers Sports Bar & Grill",
+            "Talluto's Authentic Italian Food \nMacaroni's Restaurant \nCastellino's \nFiore Fine Foods \nDim Sum House \nEvan's Pizza \nBetty's Speakeasy \nSteve's Prince of Steaks \nTrolley Car Diner \nSpread Bagelry",
+            "Castellino's \\n\nTalluto's Authentic Italian Food \\n\nHeritage \\n\nLaCroix Restaurant at The Rittenhouse \\n\nMcMenamin's Tavern \\n\nParc \\n\nRoy-Pitz Barrel House \\n\nGran Caffe L'Aquila \\n\nFuji Mountain \\n\nLacroix Restaurant at The Rittenhouse",
+            " Castellino's \nWawa \nCheesecake Factory \nSpread Bagelry \nTalluto's Authentic Italian Food \nKC's Pastries \nDim Sum House \nPaddy's Old City Pub \nMonster Vegan \nGreen Leafs & Bananas"
+        ]
+    }
+}

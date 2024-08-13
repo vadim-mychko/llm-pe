@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan dining options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "What kind of burgers are you interested in? fast food, fine dining etc ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any type of sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any interest in American traditional food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for steakhouses?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a gastropub with cheese steaks something that would interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you only interested in seafood and steak restaurants?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. The Juice Merchant\n4. Le Pain Quotidien\n5. Daleng Restaurant\n6. Federal Donuts\n7. The Tasty Toast\n8. CinCin Restaurant\n9. The Milk House\n10. A Tutti, Ristorante Italiano",
+            " Grain Exchange \nGreen Leafs & Bananas \nFuji Mountain \nBetty's Speakeasy \nAldo Lamberti Cucina  \nSisters Cheesesteaks \nTony Luke's \nEl Merkato \nHungry Pigeon \nD'Angelo's Steaks \nThe Dutch \nZahav \nThe Corner \nCharlie Was a Sinner \nVetri \nVedge \nHerridge's Cheesesteaks",
+            "Five Guys \nMisconduct Tavern \nFreddy's Frozen Custard & Steakburgers \nJack's Firehouse \nRoy-Pitz Barrel House \nFranklin's \nThe Blue Duck \nLucky's Last Chance \nLisa's Kitchen \nFederal Donuts ",
+            "Misconduct Tavern\nThe Tavern Restaurant \nRoy-Pitz Barrel House \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nLisa's Kitchen \nFranklin's \nJack's Firehouse \nLucky's Last Chance \nFive Guys",
+            "1. Five Guys\n2. Misconduct Tavern\n3. Lisa's Kitchen\n4. Franklin's\n5. Lucky's Last Chance\n6. Love & Honey Fried Chicken\n7. The Blue Duck\n8. Chestnut 7\n9. Jack's Firehouse\n10. Tavern On the Hill",
+            "Paddy's Old City Pub \\n\nMisconduct Tavern \\n\nFranklin's \\n\nMad River Manayunk \\n\nMacaroni's Restaurant \\n\nThe Green Line Cafe \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nTrolley Car Diner",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nValley Green Inn \nThe Grill  Smuckers \nPearl's Oyster Bar \nThe Blue Duck \nJack's Firehouse \nSteve's Prince of Steaks \nTrolley Car Diner",
+            "Jack's Firehouse \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nThe Blue Duck \\n\nThe Cheesecake Factory \\n\nThe Tavern Restaurant \\n\nMisconduct Tavern \\n\nChestnut 7 \\n\nFranklin's \\n\nLucky's Last Chance",
+            "1. Five Guys\n2. Federal Donuts \n3. Roy-Pitz Barrel House \n4. Mad River Manayunk \n5. Lisa's Kitchen \n6. Chestnut 7 \n7. Founding Fathers Sports Bar & Grill\n8. CJ & Eck's \n9. Jack's Firehouse \n10. Steve's Prince Of Steaks\n",
+            " Pearl's Oyster Bar \\n\nRistorante La Buca \\n\nMiga Korean BBQ & Sushi \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nSang Kee Peking Duck House \\n\nLisa's Kitchen \\n\nMacaroni's Restaurant \\n\nSteve's Prince of Steaks \n"
+        ]
+    }
+}

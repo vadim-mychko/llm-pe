@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet or savoury dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fried dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you normally opt for low-fat options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that include pork meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like big portions of fries?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like deep fried cutlets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled salmon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Low sugar applesauce cupcakes\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Baked breakfast bars made with nuts and seeds\n8. Assorted cheese soup with chicken\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Very low-fat assortment of shredded vegetables with seasoning\n",
+            " Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n Low sugar applesauce cupcakes\n****\n Chocolate and orange-flavoured smoothie\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Low-fat coconut alcohol-free cocktail\n****\n Peppermint chocolate bonbon\n****\n Sugar-free peanut butter cookies\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n****\n Blackberry, lemon juice, and sugar jam\n ****\n Fried shrimp and scallops\n****\nPork chops glazed with milk and cooked without nuts\n****\n Norway cake with lingonberry and whipped cream layers\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Southern African vegetable curry flavoured with curry powder and ground turmeric \n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Creamy dill base with noodles and eggs\n****\n Simple creamy oyster soup\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Spinach quiche with bacon\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Berry cobbler that uses frozen mixed berries\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Taiwanese deep fried crispy chicken cutlets\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Fresh strawberry and ice cream milkshake\n****\n Polish sausage with fermented cabbage\n****\n Spanish rice with chicken breast\n****\n Low fat assorted fruit dessert\n\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Fried shrimp and scallops\n4. Milky way cookies\n5. Large portion fries with gravy and bacon\n6. Baked breakfast bars made with nuts and seeds\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Baked spinach quiche containing bacon\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. Low-fat coconut alcohol-free cocktail\n2. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n3. Milkshake made with fresh strawberries and ice cream\n4. Sugar-free peanut butter cookies\n5. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n6. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Taiwanese deep fried crispy chicken cutlets\n9. Meatballs made with ground beef and ground pork\n10. Fried shrimp and scallops",
+            " Large portion fries with gravy and bacon\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nFried shrimp and scallops\nCheese and crackers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nMeatballs made with ground beef and ground pork\nChopped French duck confit preserved by duck oil\nMozzarella dip recipe\nSpaghetti noodles with mussels, anchovy fillets, and capers\n'''",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n ****\n Large portion fries with gravy and bacon\n ****\n Fried shrimp and scallops\n ****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n ****\n Queso made from melted cheese and chili peppers\n ****\n Chicken breasts stuffed with bacon and mozzarella\n ****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n ****\n Grilled salmon seasoned with salt and pepper\n ****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n ****\n Low fat sweet potato fries made with cajun seasoning",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Large portion fries with gravy and bacon\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n Fried shrimp and scallops\n****\n Shredded barbecued pork shoulder\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Pork cooked flatt with a broken egg in the centre",
+            "Pork chops glazed with milk and cooked without nuts\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar.\nChicken breasts stuffed with bacon and mozzarella\nLarge portion fries with gravy and bacon\nLow fat sweet potato fries made with cajun seasoning\nCrispy tofu poke // with mushroom and tomatoes\nHomemade soup with chicken, noodles, and spices\nBaked mozzarella cheese sticks with marinara sauce\nFried shrimp and scallops",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Large portion fries with gravy and bacon\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5. Low fat diced baked or fried potatoes\n6. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n7. Sweet salad made with corn and three types of beans\n8. Roasted almonds\n9. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n10. Simple creamy oyster soup\n'''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat baked breakfast pie made with sausage (pork) and apples\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat sweet potato fries made with cajun seasoning\nDog food made from pork, green beans, cheddar cheese and brown rice\nPork chops glazed with milk and cooked without nuts\nBacon, egg, and cheese sandwich tortilla\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPeppermint chocolate bonbon\nRoasted almonds"
+        ]
+    }
+}

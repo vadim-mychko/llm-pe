@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to have a beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in going to a pub?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to dine at The Tavern Restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar with American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a sports bar with beer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sports bars with burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Is it important that the bar have food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Federal Donuts \nCinCin Restaurant \nA Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nEvan's Pizza \nRistorante La Buca \nChestnut 7 \nAudrey Claire \nOteri's Italian Bakery | North 5th St",
+            " Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge\nHeritage\nCook and Shaker\nFounding Fathers Sports Bar & Grill\nJack's Firehouse\nFranklin's\nCanton 11\nFederal Donuts\nMad River Manayunk",
+            "Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nGrain Exchange \nHeritge \nMisconduct Tavern \nMacaroni's Restaurant \nJack's Firehouse \nFranklin's \nChestnut 7 \nMcMenamin's Tavern",
+            "1. McMenamin's Tavern\n2. CJ & Eck's \n3. Founding Fathers Sports Bar & Grill \n4. Mad River Manayunk \n5. Tavern On the Hill \n6. Franklin's \n7. The El Bar \n8. Lucky's Last Chance \n9. Canton 11 \n10. Jack's Firehouse",
+            "The Tavern Restaurant \nPaddy's Old City Pub \nThe El Bar \nMad River Manayunk \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nLucky's Last Chance",
+            "Federal Donuts \nJake's & Cooper's Wine Bar & Wine Shop \nThe El Bar \nMad River Manayunk \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Tavern Restaurant",
+            "The Tavern Restaurant \nMad River Manayunk \nPaddy's Old City Pub \nJD Mcgillicuddy's Manayunk \nFranklin's \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nLucky's Last Chance \nChestnut 7 \nMcMenamin's Tavern",
+            "The Tavern Restaurant \nPaddy's Old City Pub \nMad River Manayunk \nJD Mcgillicuddy's Manayunk \nMisconduct Tavern \nFranklin's \nFounding Fathers Sports Bar & Grill \nCJ & Eck's \nMcMenamin's Tavern \nLucky's Last Chance",
+            "The Tavern Restaurant \nPaddy's Old City Pub \nMad River Manayunk \nMcMenamin's Tavern \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nJack's Firehouse \nChestnut 7 \nCJ & Eck's",
+            "The Tavern Restaurant \nMad River Manayunk \nThe El Bar \nWishbone \nFrankin's\nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nCharlie was a sinner \nTony Luke's \nPatrick's Pub"
+        ]
+    }
+}

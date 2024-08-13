@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soups and stews?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian-style dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Japanese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Roasted almonds\n2. Almonds coated with butter and salt\n3. Strawberry Milkshake\n4. Frozen yogurt with mixed berries\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Roasted chicken\n7. Simple creamy oyster soup\n8. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n''''",
+            "Fried shrimp and scallops\nSalmon fillets grilled in a pan with herbs and spices\nSoup made with shrimp, onions, and scallops\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nBaked spinach quiche containing bacon\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nMildly spicy chili recipe\nBaked salmon seasoned with salt and pepper",
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Fried shrimp and scallops\n3. Simple creamy oyster soup\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n7. Poke of tofu, mushroom and tomatoes\n8. Soup made with shrimp, onions, and scallops\n9. Grilled scallops\n10. Grilled octopus",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Poke of tofu, mushroom and tomatoes\n3. Chopped French duck confit preserved by duck oil\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Creamy base with dill flavoring, eggs, and noodles \n7. Simple creamy oyster soup\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Fried shrimp and scallops\n''''",
+            "Poke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nShrimp soup made with onions and scallops\nSimple creamy oyster soup\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Grilled salmon seasoned with salt and pepper\n3. Stir-fried tofu, noodles and vegetables Bento\n4. Poke of tofu, mushroom and tomatoes\n5. Miso soup\n6. Vegetable soup\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n9. Taiwanese deep fried crispy chicken cutlets\n10. Baked breakfast bars made with nuts and seeds\n'''",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nMildly spicy chili recipe\nCheese and olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nSalmon fillets grilled in a pan with herbs and spices\nSwedish meatball\nHomemade soup with chicken, noodles, and spices\nCreamy base with dill flavoring, eggs, and noodles\nMeatballs made with ground beef and ground pork\nSimple creamy oyster soup\nSoup made with ground turkey that is low fat, high carb\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBeef stew made with beef, carrots and potatoes\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nClassic salad with creamy caesar dressing and croutons\nBerry cobbler that uses frozen mixed berries\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat assorted fruit dessert\nLow fat diced baked or fried potatoes\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\n",
+            "High protein skillet with rice and vegetables\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMildly spicy chili recipe\nLow fat smoothies made with greek yogurt, and pineapple\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            " Poke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\nHomemade soup with chicken, noodles, and spices\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            "1. Poke of tofu, mushroom and tomatoes\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Veggie side dish of roasted carrots, green beans, and snap peas\n4. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n5. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Healthy smoothie\n7. Baked tofu with sweet chili glazing\n8. Gluten-free, egg-free, dairy-free, nut-free fudge\n9. Green juice made from spinach, celery, and apples\n10. Homemade soup with chicken, noodles, and spices\n11. Low fat assorted fruit dessert\n12. Low-fat coconut alcohol-free cocktail\n13. Low sugar applesauce cupcakes"
+        ]
+    }
+}

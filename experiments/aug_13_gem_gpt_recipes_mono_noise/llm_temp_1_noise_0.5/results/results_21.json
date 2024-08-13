@@ -1,0 +1,58 @@
+{
+    "21": {
+        "conv_hist": [
+            {
+                "query": "Do you like meatloaf?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Taiwan deep fried crispy chicken cutlets\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Polish sausage with fermented cabbage\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Chopped French duck confit preserved by duck oil\n10. Fried shrimp and scallops\n''''",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Grilled salmon seasoned with salt and pepper\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n6. Roast turkey with plum sauce\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roasted almonds\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Sweet salad made with corn and three types of beans",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Mozzarella dip recipe\n5. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Beef stew made with beef, carrots and potatoes\n8. Shredded barbecued pork shoulder\n9. Pork chops glazed with milk and cooked without nuts\n10. Polish sausage with fermented cabbage\n",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. High protein skillet with rice and vegetables\n3. Grilled salmon seasoned with salt and pepper\n4. Low fat sweet potato fries made with cajun seasoning\n5. Queso made from melted cheese and chili peppers\n6. Beef stew made with beef, carrots and potatoes\n7. Mildly spicy chili recipe\n8. Low fat smoothies made with greek yogurt, and pineapple\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Shredded barbecued pork shoulder",
+            "Fried shrimp and scallops\nSpaghetti with mussels, anchovy fillets, and capers\nSoup made with shrimp, onions, and scallops\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nPoke of tofu, mushroom and tomatoes\nChopped French duck confit preserved by duck oil\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCheese and olive appetizer made to look like an eyeball",
+            "1. Fried shrimp and scallops\n2. Simple creamy oyster soup\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Soup made with shrimp, onions, and scallops\n5. Grilled salmon seasoned with salt and pepper\n6. Poke of tofu, mushroom and tomatoes\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Low fat assorted fruit dessert\n9. Soup made with onions, carrots, and celery ribs\n10. Queso made from melted cheese and chili peppers\n''''",
+            "Poke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nGrilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nTuna salad\nCod burger\nSushi\nLobster roll\nPrawns\nCrab cakes\nShrimp scampi\nScallops with garlic and lemon\nMussels with white wine and garlic",
+            "1. Poke of tofu, mushroom and tomatoes\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Grilled salmon seasoned with salt and pepper\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Baked tofu, spinach, and vegetable vegan lasagna\n7. Fried shrimp and scallops\n8. Simple creamy oyster soup\n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "- Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n- Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n- Fried shrimp and scallops\n- Grilled salmon seasoned with salt and pepper\n- Creamy base with dill flavoring, eggs, and noodles\n- Salmon roasted with olive oil, chives, and tarragon leaves\n- Salmon fillets grilled in a pan with herbs and spices\n- Spaghetti noodles with mussels, anchovy fillets, and capers\n- Soup made with shrimp, onions, and scallops\n- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. Poke of tofu, mushroom and tomatoes\n2. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Korean soup containing beef brisket and flavoured with red pepper powder\n6. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n7. Stir-fried tofu, noodles and vegetables Bento\n8. Soup made with shrimp, onions, and scallops\n9. Fried shrimp and scallops\n10. Salmon fillets grilled in a pan with herbs and spices"
+        ]
+    }
+}

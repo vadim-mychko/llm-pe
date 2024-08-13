@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in beverages?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in dishes containing pork?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer hot beverages?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fruity beverages?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dishes containing beans?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like rice dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\nSmoothie made from fruit juice and bananas\n****\nChocolate and orange-flavoured smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nMilkshake made with fresh strawberries and ice cream\n****\nLow-fat coconut alcohol-free cocktail\n****\nSmoothie made from banana puree with milk\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\n2-ingredient yogurt from scratch\n****",
+            "1. Slushie drink made from orange juice blended with ice\n2. Low fat smoothies made with greek yogurt, and pineapple\n3. Milkshake made with fresh strawberries and ice cream\n4. Smoothie made from fruit juice and bananas\n5. Chocolate and orange-flavoured smoothie\n6. Low-fat coconut alcohol-free cocktail\n7. Peppermint chocolate bonbon\n8. Smoothie made from banana puree with milk\n9. Mozzarella dip recipe\n10. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "1. Mildly spicy chili recipe\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Low fat diced baked or fried potatoes\n4. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n5. Pork chops glazed with milk and cooked without nuts\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \n7. Queso made from melted cheese and chili peppers \n8. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \n9. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n10. Low fat sweet potato fries made with cajun seasoning \n''''",
+            "Mildly spicy chili recipe\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpicy buffalo chicken wings with blue cheese dressing and carrot and celery sticks\nVery low-fat assortment of shredded vegetables with seasoning\nEggless sauerkraut cake\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage",
+            "Mildly spicy chili recipe\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nKorean soup containing beef brisket and flavoured with red pepper powder\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSoup made with shrimp, onions, and scallops\n''''",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSmothie made from banana puree with milk\nMildly spicy chili recipe\nMeatballs made with ground beef and ground pork\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpicy chili recipe\nPork chops glazed with milk and cooked without nuts\nSpicy pork vegetable stir-fry\nSpicy pork stir-fry\nPork buns\nSpicy pork stir-fry\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBaked mozzarella cheese sticks with marinara sauce\nGrilled salmon seasoned with salt and pepper\nGrilled salmon\nSeafood baked with butter. bread crumb top\nSkillet with salmon steak, and crushed, breaded tomatoes cooked in taco sauce, and served with toasted garlic brea\nSpanish rice with chicken breast\nStir-fried tofu, noodles and vegetables Bento\nSpicy chicken tangine\nThai green curry\nKorean soup containing beef brisket and flavoured with red pepper powder\nBaked breakfast bars made with nuts and seeds\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nQueso made from melted cheese and chili peppers\nPork shoulder cooked in spicy sauce for Chinese new yea\n",
+            "Milkshake made with fresh strawberries and ice cream \nHot pot that is not spicy\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nCheese and olive appetizer made to look like an eyeball\nSeafood soup with shrimp, scallops, onions\nSoup made from onions, carrots, and celery ribs\nGrilled salmon seasoned with salt and pepper\nSimple creamy oyster soup",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nSoup made with shrimp, onions, and scallops\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSoup made with vegetables and chicken\nChicken cooked and flavored with lemon sauce",
+            "Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHigh protein skillet with rice and vegetables\nChicken cooked and flavored with lemon sauce\nMildly spicy chili recipe\nChicken breasts stuffed with bacon and mozzarella\nQueso made from melted cheese and chili peppers\nGrilled salmon seasoned with salt and pepper\nChili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nChicken egg, bean, and cheese burrito with jalapeno peppers\nMeatballs made with ground beef and ground pork",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Seafood chowder with fish\n5. Hot pot that is not spicy\n6. Soup made with ground turkey that is low fat, high carb\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Sweet salad made with corn and three types of beans\n9. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n10. South African vegetable curry flavoured with curry powder and ground tumeric"
+        ]
+    }
+}

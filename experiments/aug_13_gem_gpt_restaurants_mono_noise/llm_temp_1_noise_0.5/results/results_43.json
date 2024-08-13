@@ -1,0 +1,58 @@
+{
+    "43": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in breakfast or brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a bakery or restaurant with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in coffee and tea with your sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar with your sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered a restaurant with Italian food, sandwiches, and a bar, but without coffee and tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with Italian food, sandwiches, and a bar, but without coffee and tea?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Tasty Toast \n2. The Milk House \n3. Bloomsday Cafe \n4. The Grill  Smuckers \n5. Benna's Cafe \n6. Fiore Fine Foods \n7. Betty's Speakeasy \n8. Green Leafs & Bananas \n9. Trolley Car Diner \n10. The Green Line Cafe ",
+            "The Tasty Toast \\n\nThe Juice Merchant \\n\nThe Milk House \\n\nPremi\u00e8re Classe Caf\u00e9 & Creperie \\n\nGran Caffe L'Aquila \\n\nThe Green Line Cafe \\n\nCafe L'Aube \\n\nSpread Bagelry \\n\nBetty's Speakeasy \\n\nFiore Fine Foods",
+            "The Juice Merchant \\n\nThe Tasty Toast \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nLisa's Kitchen \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nThe QUICK FIXX",
+            "1. The Juice Merchant \n2. PrimoHoagies \n3. Wawa \n4. Baan Thai \n5. Canton 11 \n6. Benna's Cafe \n7. Spread Bagelry \n8. Audrey Claire \n9. The Green Line Cafe \n10. Jack's Firehouse",
+            "1. Germantown Garden\n2. The Tasty Toast\n3. The Milk House\n4. Lacroix Restaurant at The Rittenhouse\n5. CO-OP Restaurant & Lounge\n6. EVO\n7. Founding Fathers Sports Bar & Grill\n8. CinCin Restaurant\n9. Cafe L'Aube\n10. The Blue Duck",
+            "The Tavern Restaurant \nMiga Korean BBQ & Sushi \nTavern on the Hill \nDaleng Restaurant \nThe Blue Duck\nJack's Firehouse \nBaan Thai \nGrain Exchange \nWater Works Restaurant & Lounge \nThe Mil House",
+            "PrimoHoagies\nZuzu's Kitchen\nCastellino's\nTalluto's Authentic Italian Food\nA Tutti, Ristorante Italiano\nFiore Fine Foods\nThe QUICK FIXX\nMacaroni's Restaurant\nDim Sum House\nRistorante La Buca",
+            "1. Macaroni's Restaurant\n2. Zuzu's Kitchen \n3. PrimoHoagies \n4. The Continental Restaurant and Martini Bar \n5. A Tutti, Ristorante Italiano \n6. The QUICK FIXX \n7. Roy-Pitz Barrel House\n8. Jake's & Cooper's Wine Bar & Wine Shop \n9. Betty's Speakeasy \n10. Chestnut 7 ",
+            "Oteri's Italian Bakery | North 5th St \nLa Buca \nA Tutti, Ristorante Italiano \nCasstellino's \nFiore Fine Foods \nPrimoHoagies \nMacaroni's Restaurant \nSpread Bagelry \nThe Blue Duck \nBJ's Restaurant & Brewhouse",
+            "1. La Buca [Italian, Seafood, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - Yes], [Pizza - No]]\n2. Oteri's Italian Bakery | North 5th St [Italian, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n3. Federal Donuts [Chicken Wings, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n4. Macaroni's Restaurant [Italian, Pizza, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - Yes]]\n5. Cinque [Venues & Event Spaces, Chinese, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n6. Blackbird Pizzeria [Pizza, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - Yes]]\n7. Founding Fathers Sports Bar & Grill [American (New), [Bar - Yes], [Coffee/Tea - No], [Sandwiches - Yes], [Pizza - No]]\n8. Grain Exchange [American (New), Nightlife, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n9. Izumi [Japanese, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n10. Parc [French, Wine Bars, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n11. Coco's Havana [Cafes, [Bar - No], [Coffee/Tea - Yes], [Sandwiches - No], [Pizza - No]]\n12. PrimoHoagies [Sandwiches, [Bar - No], [Coffee/Tea - No], [Sandwiches - Yes], [Pizza - No]]\n13. A Tutti, Ristorante Italiano [Food, [Bar - No], [Coffee/Tea - Yes], [Sandwiches - No], [Pizza - Yes]]\n14. Leda [American (New), [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n15. Bufalina [American (New), [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - Yes]]\n16. Osaka Sushi Bar & Hibachi [Food, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n17. Paddy's Old City Pub [American (Traditional), Nightlife, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n18. Lucky's Last Chance [Hot Dogs, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - Yes], [Pizza - No]]\n19. Golden Dawn [Comfort Food, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n20. The Mad Mex [Burritos, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n21. Jersey Mike's Subs [Sandwiches, [Bar - No], [Coffee/Tea - No], [Sandwiches - Yes], [Pizza - No]]\n22. Gloria Dei Old Swedes Church [American (New), [Bar - No], [Coffee/Tea - Yes], [Sandwiches - No], [Pizza - No]]\n23. Fork [Food, [Bar - No], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n24. City Tap House, Logan Square [Food, [Bar - Yes], [Coffee/Tea - No], [Sandwiches - No], [Pizza - No]]\n25. Caffe Venice [Food, [Bar - No], [Coffee/Tea - Yes], [Sandwiches - No], [Pizza - No]]"
+        ]
+    }
+}

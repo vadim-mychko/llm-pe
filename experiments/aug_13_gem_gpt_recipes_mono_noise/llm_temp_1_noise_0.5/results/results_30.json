@@ -1,0 +1,58 @@
+{
+    "30": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like bread?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fresh-caught seafood or seafood that has been frozen?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer lean meat with only salt and pepper or mixed meat dishes with extra flavors?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit or vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Vietnamese-style soup or Chinese-style soup?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nPork chops glazed with milk and cooked without nuts\n****\nBeef stew made with beef, carrots and potatoes\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nChicken cooked and flavored with lemon sauce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nPork chops glazed with milk and cooked without nuts\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon meat, cheddar cheese, parmesan, and tomatoes.\nChicken breasts stuffed with bacon and mozzarella\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef stew made with beef, carrots and potatoes\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "1. Shredded barbecued pork shoulder\n2. Pork chops glazed with milk and cooked without nuts\n3. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Grilled salmon seasoned with salt and pepper\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n6. Beef stew made with beef, carrots and potatoes\n7. Chicken breasts stuffed with bacon and mozzarella\n8. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            "1. Fried shrimp and scallops\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n9. Seafood-stuffed pork burgers\n10. Poke of tofu, mushroom and tomatoes",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nGrilled salmon seasoned with salt and pepper\nFried shrimp and scallops\nPeppermint chocolate bonbon\nBaked breakfast bars made with nuts and seeds",
+            "1. Fried shrimp and scallops\n2. Grilled salmon seasoned with salt and pepper\n3. Pork chops glazed with milk and cooked without nuts\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Meatballs made with ground beef and ground pork\n9. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n10. Korean soup containing beef brisket and flavoured with red pepper powder",
+            "1. Spaghetti noodles with mussels, anchovy fillets, and capers\n2. Roasted almonds\n3. Smoked salmon with lemon, parsley, scallions and olive oil\n4. Fried shrimp and scallops\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Low fat diced baked or fried potatoes\n7. Soup made with shrimp, onions, and scallops\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Salmon roasted with olive oil, chives, and tarragon leaves",
+            " Grilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nSimple creamy oyster soup\nSoup made with shrimp, onions, and scallops\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            "1. Fried shrimp and scallops\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Grilled salmon seasoned with salt and pepper\n4. Poke of tofu, mushroom and tomatoes\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Grilled salmon seasoned with salt and pepper\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Chopped French duck confit preserved by duck oil\n9. Italian salad made from romain lettuce, artichokes, and tomatoes\n10. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "1. Poke of tofu, mushroom and tomatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Fried shrimp and scallops\n4. Shrimp, onions, and scallops\n5. Seafood soup made with ground turkey\n6. Crab leg with red potatoes\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Broccoli with salmon au gratin\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Baked salmon dessert pie filled with a sweet salmon spice based custard"
+        ]
+    }
+}

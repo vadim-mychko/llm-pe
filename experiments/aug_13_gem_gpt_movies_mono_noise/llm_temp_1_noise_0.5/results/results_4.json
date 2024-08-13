@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer movies that are based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see a documentary instead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie made in the 80s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is also a mystery?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a found-footage style?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated drama?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n\n2. Runaway Train (1985)\n\n3. Tomb Raider (2018)\n\n4. Pirates of the Caribbean: At World's End (2007)\n\n5. Santa Sangre (1989)\n\n6. Autumn Sonata (H\u00f6stsonaten) (1978)\n\n7. Bad Education (La mala educaci\u00f3n) (2004)\n\n8. Clash of the Titans (1981)\n\n9. Terminator 3: Rise of the Machines (2003)\n\n10. A.I. Artificial Intelligence (2001)\n",
+            "1. The Lost World: Jurassic Park (1997)\n2. Crimes and Misdemeanors (1989)\n3. Terminator 3: Rise of the Machines (2003)\n4. Ready Player One\n5. The Big Red One (1980)\n6. Trapped (2002)\n7. Robot & Frank (2012)\n8. Brewster's Millions (1985)\n9. Bruce Almighty (2003)\n10. Grapes of Wrath, The (1940)",
+            "1. The Last Temptation of Christ, The (1988)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ready Player One \n4. The Big Red One, The (1980)\n5. Nightcrawler (2014)\n6. Bruce Almighty (2003)\n7. Face/Off (1997)\n8. Real Genius (1985)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Last Temptation of Christ, The (1988)\n3. Terms of Endearment (1983)\n4. August Rush (2007)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. Before the Devil Knows You're Dead (2007)\n7. Europa (Zentropa) (1991)\n8. Moby Dick (1956)\n9. Control (2007)\n10. Delicatessen (1991)",
+            "1. Love Me If You Dare (Jeux d'enfants) (2003) \n2. Stranger than Fiction (2006) \n3. Real Genius (1985) \n4. Cronos (1993) \n5. The Grapes of Wrath (1940) \n6. Umberto D. (1952) \n7. Delicatessen (1991) \n8. American Graffiti (1973) \n9. Brewster's Millions (1985) \n10. Intolerable Cruelty (2003)",
+            "Laura (1944) \\n\nAugust Rush (2007) \\n\nThe Piano (1993) \\n\nAutumn Sonata (H\u00f6stsonaten) (1978) \\n\nBad Education (La mala educaci\u00f3n) (2004) \\n\nMagnolia (1999) \\n\nEuropa (Zentropa) (1991) \\n\nSearching (2018) \\n\nDarkman (1990) \\n\nReal Genius (1985)\n",
+            "1. The Grapes of Wrath (1940)\n2. All Quiet on the Western Front (1930)\n3. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n4. Cronos (1993)\n5. Brotherhood of the Wolf (2001; Le Pacte des Loups)\n6. Moulin Rouge (2001)\n7. Magnolia (1999)\n8. Black Robe (1991)\n9. Umberto D. (1952)\n10. House of Flying Daggers (2004; Sh\u00ed mi\u00e0n m\u00e1i f\u00fa)\n'''",
+            "1. Before the Devil Knows You're Dead (2007)\n2. Breach (2007)\n3. Searching (2018)\n4. Strange than Fiction (2006)\n5. Mr. Holmes (2015)\n6. Control (2007)\n7. The Man from Earth (2007)\n8. The Last Supper (1995)\n9. Umberto D. (1952)\n10. The Boy in the Striped Pajamas (2008)\n",
+            "1. The Proposition (2005)\n2. Before the Devil Knows You're Dead (2007)\n3. No Man's Land (2001)\n4. Crimes and Misdemeanors (1989)\n5. The Mothman Prophecies (2002)\n6. Magnolia (1999)\n7. Europa (Zentropa) (1991)\n8. The Departed (2006)\n9. Stranger than Fiction (2006)\n10. Mr. Holmes (2015)",
+            "Before the Devil Knows You're Dead (2007) \nIntolerable Cruelty (2003) \nSearching (2018) \nThe Big Lebowski (1998) \nNightcrawler (2014) \nControl (2007) \nStrangers than Fiction (2006) \nDelicatessen (1991) \nEnter the Void (2009) \nLast Supper, The (1995)"
+        ]
+    }
+}

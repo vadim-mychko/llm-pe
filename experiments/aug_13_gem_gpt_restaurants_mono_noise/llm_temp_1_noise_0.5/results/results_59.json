@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Malaysian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a spot with Chinese dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a spot with Korean barbecue?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle\nWater Works Restaurant & Lounge\nHeritage\nKokopelli Restaurant & Tequila Bar\nGrain Exchange\nCastellino's\nBistro SouthEast\nTavern On the Hill\nPaddy's Old City Pub\nNorth Bowl",
+            " Water Works Restaurant & Lounge \nZuzu's Kitchen \nGolden Triangle \nDaleng Restaurant \nThe Juice Merchant \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nThe Tasty Toast \nLe Pain Quotidien \nGrain Exchange",
+            "1. The Blue Duck \n2. Gran Caffe L'Aquila \n3. The QUICK FIXX \n4. Blackbird Pizzeria \n5. Olive Garden Italian Restaurant \n6. Vedge \n7. Love & Honey Fried Chicken \n8. Sister Muhammad's Kitchen \n9. Cioppino Oyster House \n10. Ristorante La Buca",
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nLe Pain Quotidien \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Grill  Smuckers \nOlive Garden Italian Restaurant \nPearl's Oyster Bar",
+            "1. Water Works Restaurant & Lounge\n2. Germantown Garden\n3. Izumi\n4. Zuzu's Kitchen\n5. The Tasty Toast\n6. PrimoHoagies\n7. The Grill  Smuckers \n8. Five Guys\n9. Golden Triangle\n10. Canton 11",
+            "Bistro SouthEast\nDaleng Restaurant\nMiga Korean BBQ & Sushi\nSang Kee Peking Duck House\nTu's Tea & Banh Mi South Philly\nBaan Thai\nChinatown II Chinese Restaurant\nPho Ha Restaurant\nTalula's Garden\nChopsticks To Stir Fry",
+            "Water Works Restaurant & Lounge\nGolden Triangle\nDaleng Restaurant\nBistro SouthEast\nBaan Thai\nDim Sum House\nMong Kok Station\nVedge\nMalbec Argentine Steakhouse\nFuji Mountain",
+            "Bistro SouthEast \nDaleng Restaurant \nGolden Triangle \nSang Kee Peking Duck House \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nBaan Thai \nCinCin Restaurant \nOishii Pok\u00e9",
+            "Bistro SouthEast \\n\nDaleng Restaurant \\n\nTu's Tea & Banh Mi South Philly \\n\nGolden Triangle \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nDim Sum House \\n\nBaan Thai \\n\nOishii Pok\u00e9",
+            "Daleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nCanton 11 \nPaddy's Old City Pub \nOishii Pok\u00e9 \nAudrey Claire \nKC's Pastries \nPure Tacos"
+        ]
+    }
+}

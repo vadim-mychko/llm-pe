@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Do you like cuisines from from Northern Europe?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish prepared with Mediterranean flavors?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meals with starch and gravy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables and/or fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like natural peanut butter?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to eat meats?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like oatmeal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled or roasted fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken",
+            "Roasted almonds\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nHigh protein skillet with rice and vegetables\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nChicken cooked and flavored with lemon sauce\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nTaiwanese deep fried crispy chicken cutlets\nCreamy base with dill flavoring, eggs, and noodles\nSweet salad made with corn and three types of beans",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Roasted salmon with olive oil, chives, and tarragon leaves\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Pork chops glazed with milk and cooked without nuts\n6. Chicken cooked and flavored with lemon sauce\n7. Pancakes made from flour, baking powder, salt, sugar, and milk\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Broccoli and cream cheese stuffed chicken breast\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "1. Grilled salmon seasoned with salt and pepper \n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Tofu, mushroom and tomato poke\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with onions, carrots, and celery ribs\n10. Soup made with ground turkey that is low fat, high carb",
+            " Grilled salmon seasoned with salt and pepper\n---\nSalmon roasted with olive oil, chives, and tarragon leaves\n---\nSalmon fillets grilled in a pan with herbs and spices\n---\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n---\nShrimp and scallops\n---\nFried shrimp and scallops\n---\nStir-fried tofu, noodles and vegetables Bento\n---\nSpaghetti noodles with mussels, anchovy fillets, and capers\n---\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n---\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n---",
+            " Soup made from cabbage, carrots, potatoes, and onions\n****\nSoup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSpanish rice with chicken breast\n****\nMushy peas that are soft\n****\nRoasted almonds\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n</h1>",
+            "Stir-fried tofu, noodles and vegetables Bento\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nItalian salad made from romain lettuce, artichokes, and tomatoes\nAssorted cheese soup with chicken",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon cooked in a pan with herbs and spices\nPoke of tofu, mushroom and tomatoes\nVegetable and fish soup\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nAssorted cheese soup with chicken\nStir-fried tofu, noodles and vegetables Bento",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n Grilled salmon seasoned with salt and pepper\n Salmon roasted with olive oil, chives, and tarragon leaves\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n South African vegetable curry flavoured with curry powder and ground tumeric\n Vegetable and/or fish medley\n Stir-fried tofu, noodles and vegetables Bento\n Poke of tofu, mushroom and tomatoes\n Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n Low fat baked breakfast pie made with sausage (pork) and apples\n Mozzarella dip recipe\n Bardzo dobry Polish sausage with fermented cabbage\n \n",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nHigh protein skillet with rice and vegetables\nChicken cooked and flavored with lemon sauce\nSweet salad made with corn and three types of beans\nDigestion-friendly waffles\nRoasted almonds\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices"
+        ]
+    }
+}

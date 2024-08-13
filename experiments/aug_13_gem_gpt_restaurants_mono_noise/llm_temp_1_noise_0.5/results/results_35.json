@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a Japanese restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to eat ramen?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat korean?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in having a burger?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nPearl's Oyster Bar \nRistorante La Buca \nAudrey Claire \nBenna's Cafe \nTu's Tea & Banh Mi South Philly \nBaan Thai",
+            "Izumi \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nRistorante La Buca \\n\nRoy-Pitz Barrel House \\n\nHibiscus Tea & Espresso Cafe \\n\nOishii Pok\u00e9 \\n\nKanella Grill \\n\nDim Sum House \\n\nHan Dynasty",
+            "Izumi \nFuji Mountain\nMiga Korean BBQ & Sushi\nSushi Mon \nOishii Pok\u00e9 \nPearl's Oyster Bar \nHibachi To Go \nGu Japanese Fusion Restaurant \nKim's BBQ Korean Restaurant \nTiki Sushi & Seafood Restaurant",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nThe Green Line Cafe\nOishii Pok\u00e9\nCinCin Restaurant\nCook and Shaker\nWishbone\nKoreana BBQ Restaurant\nDae Bak\nHan Dynasty",
+            " Miga Korean BBQ & Sushi \\n\n Mugshots Coffeehouse \\n\n Bistro SouthEast \\n\n Lacroix Restaurant at The Rittenhouse \\n\n Ristorante La Buca \\n\n Dalieng Restaurant \\n\n CinCin Restaurant \\n\n Chowder Room \\n\n Dim Sum \\n\n GaLa Japanese Restaurant",
+            " Miga Korean BBQ & Sushi\n Bistro SouthEast\n Daleng Restaurant\n Sang Kee Peking Duck House\n Canton 11\n Vedge\n Essene Market & Caf\u00e9\n Tu's Tea & Banh Mi South Philly\n Fiore Fine Foods\n New York Gyro Truck\n Oishii Pok\u00e9",
+            "Miga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nKC's Pastries \\n\nIzumi \\n\nCook and Shaker \\n\nCafe L'Aube \\n\nCinCin Restaurant \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nEvan's Pizza",
+            "1. Miga Korean BBQ & Sushi \n2. Bistro SouthEast \n3. Vedge \n4. Greens & Chips \n5. Benna's Cafe \n6. Hey Hummus \n7. The Juice Merchant \n8. Green Way Market \n9. Nuevo Mundo \n10. Cook and Shaker",
+            "1. Bistro SouthEast \n2. Miga Korean BBQ & Sushi \n3. Grain Exchange \n4. Heritage \n5. Zuzu's Kitchen \n6. Talluto's Authentic Italian Food \n7. Fiore Fine Foods \n8. North Bowl \n9. Daleng Restaurant \n10. Golden Triangle",
+            "Miga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nKorean Village BBQ House \\n\nHan Dynasty \\n\nKang Won Bar & Golden Restaurant \\n\nHibachi Grill Supreme Buffet \\n\nKong Tofu House Restaurant \\n\nKung Fu Tea - Philadelphia Chinatown \\n\nAsian Cafe - Fairmount \\n\nThe Dandelion"
+        ]
+    }
+}

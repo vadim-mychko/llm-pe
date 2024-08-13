@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food delivery services?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer ordering sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Spanish cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer a chicken dish?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nEvan's Pizza \nNew York Gyro Truck \nKC's Pastries \nAudrey Claire",
+            "Canton 11 \nBistro SouthEast \nWater Works Restaurant & Lounge \nDaleng Restaurant \nSang Kee Peking Duck House \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nIzumi \nFederal Donuts",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nGrain Exchange\nIzumi\nA Tutti, Ristorante Italiano",
+            "Daleng Restaurant \nGolden Triangle \nMiga Korean BBQ & Sushi \nBistro SouthEast \nBaan Thai \nSang Kee Peking Duck House \n Canton 11 \nTu's Tea & Banh Mi South Philly \nDim Sum House \nKC's Pastries \nOteri's Italian Bakery | North 5th St\n''",
+            "Pearl's Oyster Bar\nGolden Triangle \nIzumi \nBaan Thai\nCantonese \nFuji Mountain \nMalaysian \nWawa \nThe Milk House \nBistro SouthEast",
+            " La Piazza Trattoria\nCapogiro Gelato\nA Tutti, Ristorante Italiano\nPrimoHoagies\nTalluto's Authentic Italian Food\nMacaroni's Restaurant\nThe QUICK FIXX\nCampania Pizzeria Romana\nPaesano's Sandwich Shop\nSabrina's Cafe",
+            " Ristorante La Buca\nA Tutti, Ristorante Italiano\nTalluto's Authentic Italian Food\nMacaroni's Restaurant\nCastellino's\nPrimoHoagies\nThe QUICK FIXX\nPasta & Provisions\n Fiore Fine Foods\n Mercurio\nGran Caffe L'Aquila",
+            " Zuzu's Kitchen \n Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n Daleng Restaurant \n A Tutti, Ristorante Italiano \n Castellino's \n Sang Kee Peking Duck House \n Talluto's Authentic Italian Food \n Macaroni's Restaurant",
+            "1. Castellino's \\n\n2. A Tutti, Ristorante Italiano \\n\n3. Ristorante La Buca \\n\n4. Macaroni's Restaurant \\n\n5. Fiore Fine Foods \\n\n6. Talluto's Authentic Italian Food \\n\n7. The QUICK FIXX \\n\n8. Betty's Speakeasy \\n\n9. Love & Honey Fried Chicken \\n\n10. Vincenzo's Italian Restaurant & Pizza \\n",
+            "1. Sang Kee Peking Duck House \n2. Fiore Fine Foods \n3. Talluto's Authentic Italian Food \n4. A Tutti, Ristorante Italiano \n5. Macaroni's Restaurant \n6. Ristorante La Buca \n7. Olive Garden Italian Restaurant \n8. Castellino's \n9. PrimoHoagies \n10. Lisa's Kitchen"
+        ]
+    }
+}

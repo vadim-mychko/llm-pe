@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Does it need to be a specific type of Italian, like pizza or cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Does it need to be a fancy restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in cakes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for savory pastries?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nIzumi \nFuji Mountain \nSang Kee Peking Duck House \nCanton 11 \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nAudrey Claire \nParc",
+            "1. A Tutti, Ristorante Italiano \n2. Olive Garden Italian Restaurant \n3. Castellino's \n4. Talluto's Authentic Italian Food \n5. Betty's Speakeasy \n6. Fiore Fine Foods \n7. Evan's Pizza \n8. Blackbird Pizzeria \n9. The QUICK FIXX \n10. Ristorante La Buca",
+            "Castellino's \nTalluto's Authentic Italian Food \nA Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant \nPrimoHoagies \nFederal Donuts \nMacaroni's Restaurant \nDiBruno Bros. \nThe QUICK FIXX\n Fiore Fine Foods",
+            " A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nFiore Fine Foods \nRistorante La Buca \nTrolley Car Diner \nOteri's Italian Bakery | North 5th St",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nOlive Garden Italian Restaurant\nVeda - Modern Indian Bistro\nTalluto's Authentic Italian Food\nCastellino's\nMacaroni's Restaurant\nFiorentina Authentic Italian Cuisine\nFiore Fine Foods\nRistorante La Buca",
+            "1. Sardella \n2. Sabrina's Cafe \n3. Osteria \n4. La Viola \n5. Porta \n6. Vetri Cucina \n7. Pizzeria Stella \n8. Fiore Fine Foods \n9. Amici \n10. Time",
+            "1. Taluto's Authentic Italian Food \\n\n2. Castellino's \\n\n3. A Tutti, Ristorante Italiano \\n\n4. Ristorante La Buca \\n\n5. Fiore Fine Foods \\n\n6. PrimoHoagies \\n\n7. Macaroni's Restaurant \\n\n8. The QUICK FIXX \\n\n9. Audrey Claire \\n\n10. Chestnut 7\n",
+            "1. Castellino's \n2. Fiore Fine Foods \n3. Talluto's Authentic Italian Food \n4. Oteri's Italian Bakery | North 5th St \n5. Macaroni's Restaurant \n6. A Tutti, Ristorante Italiano \n7. Ristorante La Buca \n8. Parc \n9. Gran Caffe L'Aquila \n10. Olive Garden Italian Restaurant",
+            " 1. A Tutti, Ristorante Italiano \n 2. Talluto's Authentic Italian Food \n 3. Castellino's \n 4. Macaroni's Restaurant \n 5. Fiore Fine Foods \n 6. The QUICK FIXX \n 7. Oteri's Italian Bakery | North 5th St \n 8. Gran Caffe L'Aquila \n 9. KC's Pastries \n10. Spread Bagelry",
+            "1. Dim Sum House \n2. Fiore Fine Foods \n3. Betty's Speakeasy \n4. Gran Caffe L'Aquila \n5. Baan Thai \n6. Zuzu's Kitchen \n7. The QUICK FIXX \n8. Talluto's Authentic Italian Food \n9. Castellino's \n10. PrimoHoagies"
+        ]
+    }
+}

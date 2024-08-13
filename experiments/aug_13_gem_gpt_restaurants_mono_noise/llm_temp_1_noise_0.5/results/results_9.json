@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for cafe-style food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider going to a restaurant that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to explore a restaurant that has American comfort food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a chicken wing spot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that provides steak options?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to go to a sandwich place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant or bar that has breakfast options?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nThe Juice Merchant\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nDaleng Restaurant\nFederal Donuts\nFederal Donuts\nIzumi",
+            "Tavern On the Hill\nGermantown Garden\nWater Works Restaurant & Lounge\nGreen Leafs & Bananas\nDim Sum House\nMacaroni's Restaurant\nWishbone\nThe Blue Duck\nJack's Firehouse\nFounding Fathers Sports Bar & Grill",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien",
+            " The Tavern Restaurant\nTav on the Hill\nFounding Father's Sports Bar and Grill\nMad River\nFranklin's\nPaddy's Old City Pub\nMisconduct Tavern\nJack's Firehouse\nChestnut 7\nThe Grill Smuckers",
+            "1. Founding Fathers Sports Bar & Grill\n2. Mad River Manayunk\n3. JD Mcgillicuddy's Manayunk\n4. Paddy's Old City Pub\n5. Misconduct Tavern\n6. Green Leafs & Bananas\n7. Franklin's\n8. Steve's Prince of Steaks\n9. Lisa's Kitchen\n10. Love & Honey Fried Chicken",
+            "The El Bar\nJack's Firehouse\n Founding Fathers Sports Bar & Grill\nPearl's Oyster Bar\nThe QUICK FIXX\nLisa's Kitchen\nLucky's Last Chance\nLove & Honey Fried Chicken\nGran Caffe L'Aquila\n Rival Bros Coffee\nThe Blue Duck\nThe Tavern Restaurant\n",
+            "1. The Blue Duck \n2. Five Guys \n3. Misconduct Tavern \n4. Wishbone \n5. Founding Fathers Sports Bar & Grill \n6. Macaroni's Restaurant \n7. Trolley Car Diner \n8. Steve's Prince of Steaks \n9. Shake Shack \n10. Taproom on 19th",
+            "The Blue Duck \nMiss Lisa's Kitchen \nFranklin's Burgers & Pizza \nLucky's Last Chance \nLove & Honey Fried Chicken \nThe Continental Restaurant and Martini Bar \nCook and Shaker \nParc \nBetty's Speakeasy \nTrolley Car Diner",
+            "1. Founding Fathers Sports Bar & Grill \n2. The Tavern Restaurant \n3. Macaroni's Restaurant \n4. Misconduct Tavern \n5. Jack's Firehouse \n6. Green Leafs & Bananas \n7. Roy-Pitz Barrel House \n8. Chestnut 7 \n9. The Cheesecake Factory\n10. Franklin's",
+            "The Continental Restaurant and Martini Bar\nThe Grill  Smuckers\nThe Milk House\nTaluto's Authentic Italian Food\nGrain Exchange\nFiore Fine Foods\nPearl's Oyster Bar\nBaan Thai\nAldo Lamberti Cucina\nThe Twisted Tail"
+        ]
+    }
+}

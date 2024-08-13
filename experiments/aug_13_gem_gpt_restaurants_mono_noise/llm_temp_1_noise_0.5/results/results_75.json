@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Is Mexican cuisine of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are breakfast items on your list today?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches from Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza from Italian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nA Tutti, Ristorante Italiano \nFiore Fine Foods \nEvan's Pizza \nThe QUICK FIXX \nBlackbird Pizzeria \nChestnut 7 \nOteri's Italian Bakery | North 5th St \nParc \nCafe L'Aube \nGran Caffe L'Aquila",
+            " Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n The QUICK FIXX \n Roy-Pitz Barrel House \n Pizza Shackamaxon \n Fiore Fine Foods \n Jake's & Cooper's Wine Bar & Wine Shop \n Chestnut 7 \n The Blue Duck \n Macaroni's Restaurant",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nLaCroix Restaurant at The Rittenhouse \\n\nA Tutti, Ristorante Italiano \\n\nCastellino's \\n\nBistro SouthEast \\n\nTu's Tea & Banh Mi South Philly \\n\nMacaroni's Restaurant \\n\nTheQUICK FIXX \\n\nLisa's Kitchen",
+            "Zuzu's Kitchen \\n\nFederal Donuts \\n\nPrimoHoagies \\n\nThe Juice Merchant \\n\nThe QUICK FIXX \\n\nA Tutti, Ristorante Italiano \\n\nDiBruno Bros \\n\nGran Caffe L'Aquila \\n\nKC's Pastries \\n\nOteri's Italian Bakery | North 5th St",
+            " Zuzu's Kitchen \\n\nTu's Tea & Banh Mi South Philly \\n\nThe QUICK FIXX \\n\nPasta & Provisions \\n\nCastellino's \\n\nBetty's Speakeasy \\n\nGran Caffe L'Aquila \\n\nSpread Bagelry \\n\nFederal Donuts \\n\nRistorante La Buca",
+            "1. A Tutti, Ristorante Italiano \n2. Il Pittore Ristorante Italiano \n3. Fiore Fine Foods \n4. Talluto's Authentic Italian Food \n5. Gran Caffe L'Aquila \n6. Castellino's \n7. Modo Mio! \n8. Le Pain Quotidien \n9. PrimoHoagies\n10. The QUICK FIXX",
+            "1.  Zuzu's Kitchen\n2.  ChinChin Restaurant\n3.  A Tutti, Ristorante Italiano \n4.  The QUICK FIXX \n5.  Talluto's Authentic Italian Food \n6.  Castellino's\n7.  Ristorante La Buca\n8.  Macaroni's Restaurant\n9.  Blackbird Pizzeria\n10. Fiore Fine Foods\n",
+            " Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n Fiore Fine Foods \n Gran Caffe L'Aquila \n PrimoHoagies \n Castellino's \n Macaroni's Restaurant \n The Blue Duck \n Fiore Fine Foods\n The QUICK FIXX",
+            "1. Ristorante La Buca\n2. Mugshots Coffeehouse\n3. A Tutti, Ristorante Italiano\n4. Daleng Restaurant\n5. Castellino's\n6. Fiore Fine Foods\n7. Gran Caffe L'Aquila\n8. Trattoria Topolino\n9. Perla Wine Bar\n10. Mercato",
+            "Oteri's Italian Bakery | North 5th St\nAudrey Claire\nLisa's Kitchen\nGran Caffe L'Aquila\nTu's Tea & Banh Mi South Philly\nZuzus Kitchen\nGolden Triangle\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nLuvh Vegan Deli"
+        ]
+    }
+}

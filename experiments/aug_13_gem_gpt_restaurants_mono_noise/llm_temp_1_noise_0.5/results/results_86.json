@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for breakfast options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some coffee and tea along with your sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a pizza place?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered chicken wings with your pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that also has sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pasta to go along with your pizza and wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in some cheesesteaks alongside your pizza and wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a bakery that also offers pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a salad to go with your pizza, chicken wings, and cheesesteaks?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " The Milk House \\n\n Zuzu's Kitchen \\n\n The Juice Merchant \\n\n The Tasty Toast \\n\n Mugshots Coffeehouse \\n\n Bloomsday Cafe \\n\n The Blue Duck \\n\n Benna's Cafe \\n\n Fiore Fine Foods \\n\n Betty's Speakeasy \n''''",
+            " The Tasty Toast \n****\nTrolley Car Diner \n****\nSpread Bagelry \n****\nLisa's Kitchen \n****\nThe Green Line Cafe \n****\nSteve's Prince of Steaks \n****\nGreen Leafs & Bananas \n****\nThe Blue Duck \n****\nMacaroni's Restaurant \n****\nPrimoHoagies",
+            " Zuzu's Kitchen \\n\nThe Tasty Toast \\n\nPrimoHoagies \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nMcMenamin's Tavern \\n\nRival Bros Coffee \\n\nGran Caffe L'Aquila",
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nChinChin Restaurant \nA Tutti, Ristorante Italiano \nFederal Donuts \nBloomsday Cafe \nThe QUICK FIXX \nEvan's Pizza ",
+            "Zuzu's Kitchen \nDaleng Restaurant \nFist Federal Donuts \nCanton 11 \nFiore Fine Foods \nFederal Donuts \nEvan's Pizza \nThe QUICK FIXX \nChestnut 7 \nWawa",
+            "1. Zuzu's Kitchen\\n\n2. Golden Triangle\\n\n3. Lacroix Restaurant at The Rittenhouse\\n\n4. Germantown Garden\\n\n5. PrimoHoagies\\n\n6. Daleng Restaurant\\n\n7. The Juice Merchant\\n\n8. Federal Donuts\\n\n9. Mong Kok Station\\n\n10. A Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nBlackbird Pizzeria\nThe QUICK FIXX\nTacconelli's Pizzeria\nPizza Shackamaxi\nGran Caffe L'Aquila\nEssence Cafe\nLa Rosa\nSabrina's Cafe",
+            "- Zuzu's Kitchen \n- Blackbird Pizzeria \n- Ristorante La Buca \n- Fiore Fine Foods \n- Chestnut 7 \n- The Blue Duck \n- Macaroni's Restaurant \n- Steve's Prince of Steaks \n- Roy-Pitz Barrel House \n- The QUICK FIXX",
+            "Zuzu's Kitchen \\n\nLocal Tavern \\n\nGran Caffe L'Aquila \\n\nRoy-Pitz Barrel House \\n\nMcMenamin's Tavern \\n\nA Tutti, Ristorante Italiano \\n\nFederal Donuts \\n\nThe Green Line Cafe \nSteve's Prince of Steaks \\n\nSpread Bagelry \\n",
+            "1. Joe's Pizza  \n2. Little Nicky's Pizzeria  \n3. Cleavers Butcher Shop  \n4. Geno's Steaks  \n5. Chubby's Cheesesteaks  \n6. Max's Steaks  \n7. Pat's King of Steaks  \n8. Tony Luke's  \n9. Sonny's Famous Steaks  \n10. Jim's Steaks  "
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place to dine in, order takeout, or get food delivered?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches on their menu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you also prefer breakfast food offerings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to trying some salads as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Looking for any seafood on the menu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to grab some Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you consider adding some vegetarian items to your meal?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want pizza on the menu?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you thinking about dining at places that also serve bagels?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Wawa \\n\nFederal Donuts \\n\nMugshots Coffeehouse \\n\nFive Guys \\n\nThe Cheesecake Factory \\n\nTrolley Car Diner \\n\nOishii Pok\u00e9 \\n\nGreen Leafs & Bananas \\n\nMcMenamin's Tavern \\n\nRival Bros Coffee \\n",
+            "1. The Cheesecake Factory \n2. Olive Garden Italian Restaurant \n3. Macaroni's Restaurant \n4. Pearl's Oyster Bar \n5. The Continental Restaurant and Martini Bar \n6. Fiore Fine Foods \n7. Jack's Firehouse \n8. Audrey Claire \n9. Founding Fathers Sports Bar & Grill \n10. McMenamin's Tavern",
+            " Five Guys \\n\nBistro SouthEast \\n\nPrimoHoagies \\n\nThe Green Line Cafe \\n\nLisa's Kitchen \\n\nTrolley Car Diner \\n\nSpread Bagelry \\n\nMcMenamin's Tavern \\n\nThe Cheesecake Factory \\n\nJack's Firehouse",
+            "The Blue Duck \nThe Tasty Toast \nFive Guys \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nGran Caffe L'Aquila \nTrolley Car Diner \nLove & Honey Fried Chicken \nParc",
+            " The Cheesecake Factory \\n\nFive Guys \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nPrimiHoagies \\n\nThe Tasty Toast \\n\nFederal Donuts \\n\nBetty's Speakeasy \\n\nJack's Firehouse \\n\nSteve's Prince of Steaks\n",
+            "1. PrimoHoagies\n2. The Tasty Toast\n3. Le Pain Quotidien\n4. The Juice Merchant\n5. The Green Line Cafe\n6. Spread Bagelry\n7. Wawa\n8. Five Guys\n9. Lisa's Kitchen\n10. Steve's Prince of Steaks\n",
+            "The Blue Duck \nThe QUICK FIXX \nGreen Leafs & Bananas \nSpread Bagelry \nRoy-Pitz Barrel House \nChestnut 7 \nThe Cheesecake Factory \nParc \nLocal Tavern \nGolden Triangle",
+            " Zuzu's Kitchen \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nFederal Donuts \nThe Milk House \nThe Grill  Smuckers \nThe Blue Duck \nBlackbird Pizzeria \nThe QUICK FIXX",
+            "1. The Blue Duck \n2. The Tasty Toast \n3. PrimoHoagies \n4. Spread Bagelry \n5. The Green Line Cafe \n6. The QUICK FIXX \n7. Vista Fiore \n8. Zavino \n9. Paoletti \n10. Bella Vista Beer Distributors",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts (Donuts, Coffee & Tea)\nMong Kok Station \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nHeritage \nKokopelli Restaurant & Tequila Bar \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House \nValley Green Inn \nVeda - Modern Indian Bistro \nTalluto's Authentic Italian Food \nMugshots Coffeehouse \nFuji Mountain \nCastellino's \nSang Kee Peking Duck House \nThe Grill  Smuckers \nBistro SouthEast \nThe Tavern Restaurant \nMaison 208 \nBloomsday Cafe \nOlive Garden Italian Restaurant \nCO-OP Restaurant & Lounge \nMisconduct Tavern \nFive Guys \nBaan Thai \nCanton 11 \nTavern On the Hill \nPaddy's Old City Pub \nMonster Vegan \nNorth Bowl \nMalbec Argentine Steakhouse \nBenna's Cafe \nMiga Korean BBQ & Sushi \nThe Fresh Grocer - Progress Plaza \nThe Continental Restaurant and Martini Bar \nVedge \nRoy-Pitz Barrel House \nHey Hummus \nEssene Market & Caf\u00e9 \nJake's & Cooper's Wine Bar & Wine Shop \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nMacaroni's Restaurant \nThe Blue Duck \nMad River Manayunk \nThe El Bar \nLibert\u00e9 Lounge \nFederal Donuts (Korean, American (Traditional), Breakfast & Brunch) \nWishbone \nAldine \nDim Sum House \nFiore Fine Foods \nCook and Shaker \nEvan's Pizza \nBlackbird Pizzeria \nThe QUICK FIXX \nLisa's Kitchen \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nBetty's Speakeasy \nNew York Gyro Truck \nRistorante La Buca \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nSister Muhammad's Kitchen \nTrolley Car Diner \nLuhv Vegan Deli \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nThe Cheesecake Factory \nOishii Pok\u00e9 \nThe Green Line Cafe \nKC's Pastries \nSpread Bagelry \nWawa \nAudrey Claire \nOteri's Italian Bakery | North 5th St \nPure Tacos \nLucky's Last Chance \nParc \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nCafe L'Aube \nCJ & Eck's \nRival Bros Coffee \nGran Caffe L'Aquila"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer meat or vegetable-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer homemade dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood-based soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups that are high in protein?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like high-protein soups that do not include seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups with bland sauces?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Grilled salmon seasoned with salt and pepper\n5. Poke of tofu, mushroom and tomatoes\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Soup made with ground turkey that is low fat, high carb\n8. Low sugar applesauce cupcakes\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Assorted cheese soup with chicken",
+            "1. Korean soup containing beef brisket and flavoured with red pepper powder\n2. Mildly spicy chili recipe\n3. Spicy chili recipe\n4. Poke of tofu, mushroom and tomatoes\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Roasted almonds\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Taiwanese deep fried crispy chicken cutlets\n9. Very low-fat assortment of shredded vegetables with seasoning\n10. Beef stew made with beef, carrots and potatoes",
+            "1. Spicy chili recipe\n2. Mildly spicy chili recipe\n3. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n4. Spicy chocolate and orange-flavored smoothie\n5. Korean soup containing beef brisket and flavored with red pepper powder\n6. Chinese salad made of eggplant and zucchini, flavored with soy sauce\n7. Low fat sweet potato fries made with Cajun seasoning\n8. Queso made from melted cheese and chili peppers\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Slushie drink made from orange juice blended with ice",
+            "- Mildly spicy chili recipe\n- Korean soup containing beef brisket and flavoured with red pepper powder\n- Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n- Poke of tofu, mushroom and tomatoes\n- Stuffed bell pepper\n- Sweet salad made with corn and three types of beans\n- Grilled salmon seasoned with salt and pepper\n- Salmon roasted with olive oil, chives, and tarragon leaves\n- Grilled salmon with luxurious cream cheese and capers\n- Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n- Vietnamese noodle salad made from rice noodles, fresh vegetables, herbs, and grilled flank steak,\n- Focaccia bread made with olives\n- Sweet potato fries seasoned with paprika and onion powder\n- Low sugar applesauce cupcakes\n- Spaghetti made with year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n- Vegetarian stir-fried rice\n- Assorted cheese soup with chicken",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Simple creamy oyster soup\n3. Soup made with shrimp, onions, and scallops\n4. Soup made with vegetables and chicken\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Mildly spicy chili recipe\n7. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n8. Calcium-rich soup made with broccoli and beans\n9. Low fat soup made with ground turkey that is low fat, high carb\n10. Grilled salmon seasoned with salt and pepper",
+            "Soup made with shrimp, onions, and scallops\n****\nFried shrimp and scallops\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nLow fat assorted fruit dessert\n****\nHigh protein skillet with rice and vegetables\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nBaked breakfast pie made with sausage (pork) and apples\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nMildly spicy chili recipe",
+            "1. Korean soup containing beef brisket and flavoured with red pepper powder\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Soup made with shrimp, onions, and scallops\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Soup made with ground turkey that is low fat, high carb\n7. Mildly spicy chili recipe\n8. Spicy beef chili\n9. Seafood noodle soup using instant noodles\n10. Creamy, seafood pizza\n'''",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Calcium-rich soup made with broccoli and beans\n3. High protein skillet with rice and vegetables\n4. Soup made with vegetables and chicken\n5. Homemade soup with chicken, noodles, and spices\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Low fat sweet potato fries made with cajun seasoning\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. Mildly spicy chili recipe",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Calcium-rich soup made with broccoli and beans\n3. High protein skillet with rice and vegetables\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Mildly spicy chili recipe\n7. South African vegetable curry flavoured with curry powder and ground tumeric\n8. Assorted cheese soup with chicken\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Soup made with ground turkey that is low fat, high carb",
+            "- Creamy base with dill flavoring, eggs, and noodles\n- Homemade soup with chicken, noodles, and spices\n- Low fat assorted fruit dessert\n- Cheese and vegetable soup with a beer broth\n- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n- Soup made from ground turkey that is low fat, high carb\n- Pork chops glazed with milk and cooked without nuts\n- Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n- Sausage (pork) meat, green beans, cheddar cheese, and brown rice\n- Noodle casserole with chicken, pasta, mushroom, and broccoli\n- High protein skillet with rice and vegetables\n- Oatmeal with cinnamon and low fat milk\n- Grilled salmon seasoned with salt and pepper\n- Slow cooker chili made with ground beef meat, onion, chili beans, and diced tomatoes\n- Pulled pork sandwiches with coleslaw\n- Cod and potato soup\n- Coconut and shrimp green curry\n- Stir fry with a celery, onion, soy sauce, beef, ginger, rice\n- Mixed baby spinach, blueberries, bacon with balsamic dressing\n- Grilled cheese sandwich with soup\n- Beef stew made with beef, carrots and potatoes\n- Tuna salad with layered apple\n- Soup made with cabbage, carrots, potatoes, and onions\n- Dill cucumber salad\n- Flat bread style pizza with vegetables and reduced fat mozzarella cheese\n- Baked chicken breast with rice\n- Sweet potato and squash casserole with low fat butter\n- Caesar salad with croutons and low fat parmesan cheese\n- Low fat dairy-free vanilla pudding made with low fat milk\n- Oatmeal cookies with raisins that are heart healthy\n- Lasagna with ground turkey meat, whole-wheat noodles, low-fat mozzarella cheese, and sauce made with spinach, tomatoes, and onions\n- Shrimp scampi made with shrimp, tomatoes, zucchini, onion, garlic, and lemon\n- Apple, cinnamon, granola and low fat dairy yogurt parfait\n- Baked chicken breasts with lemon slices\n- Peach and strawberry ambrosia"
+        ]
+    }
+}

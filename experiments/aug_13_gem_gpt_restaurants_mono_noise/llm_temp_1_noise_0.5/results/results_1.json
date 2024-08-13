@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for sandwiches or burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider a brewpub?",
+                "response": "yes"
+            },
+            {
+                "query": "Is having a bar important to you?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are watching sports important to you when you go out to eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like live music at restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer chicken wings or pizza with your beer?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more in the mood for Burgers or tacos?",
+                "response": "burgers"
+            },
+            {
+                "query": "Do you prefer fries with your burger?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "CinCin Restaurant\nFounding Fathers Sports Bar & Grill\nCook and Shaker\nWishbone\nFederal Donuts\nGrain Exchange\nPaddy's Old City Pub\nVeda - Modern Indian Bistro\nTaproom on 19th\nThe Pharmacy",
+            "Germantown Garden\nThe Tavern Restaurant\nMonster Vegan\nThe Blue Duck\nBetty's Speakeasy\nPearl's Oyster Bar\nThe El Bar\nVedge \nMacaroni's Restaurant\nTrolley Car Diner",
+            "Roy-Pitz Barrel House \nFederal Donuts \nThe Blue Duck \nFranklin's \nJack's Firehouse \nGran Caffe L'Aquila \nLucky's Last Chance \nParc \nOishii Pok\u00e9 \nFounding Fathers Sports Bar & Grill",
+            "Roy-Pitz Barrel House\nFranklin's\nFounding Fathers Sports Bar & Grill\nThe Tavern Restaurant\nWishbone\nGermantown Garden\nMisconduct Tavern\nJack's Firehouse\nCook and Shaker\nThe Continental Restaurant and Martini Bar",
+            "Jack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nLucky's Last Chance\nMcMenamin's Tavern\nCJ & Eck's\nPaddy's Old City Pub\nMad River Manayunk\nMisconduct Tavern",
+            " Founding Fathers Sports Bar & Grill \nLucky's Last Chance \nMad River Manayunk \nCJ & Eck's \nJD Mcgillicuddy's Manayunk \nFranklin's \nThe Green Line Cafe \nMisconduct Tavern \nPaddy's Old City Pub \nJack's Firehouse",
+            "Jack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nMad River Manayunk \nPaddy's Old City Pub \nCJ & Eck's \nMcMenamin's Tavern \nThe Blue Duck",
+            "1. Founding Fathers Sports Bar & Grill\n2. Franklin's\n3. Mad River Manayunk\n4. Lucky's Last Chance\n5. JD Mcgillicuddy's Manayunk\n6. McMenamin's Tavern\n7. Paddy's Old City Pub\n8. Misconduct Tavern\n9. Smith's Wooten Diner\n10. Tavern On the Hill\n11. North Bowl\n12. Torchy's Tacos\n13. The Blue Duck\n14. Betty's Speakeasy\n15. Spread Bagelry\n16. Federal Donuts\n17. Bon Chon\n18. Green Leafs & Bananas\n19. Lisa's Kitchen\n20. The Tavern Restaurant\n21. The QUICK FIXX\n22. PrimoHoagies\n23. Steve's Prince of Steaks\n24. Roy-Pitz Barrel House\n25. Castelletto\n26. Luhv Vegan Deli\n27. Five Guys\n28. Wawa\n29. Chickie's & Pete's\n30. Chickie's and Pete's Crab House and Sports Bar\n31. Parc Brasserie\n32. Passyunk Avenue Sandwich Co\n33. Lakeview Restaurant & Catering\n34. Elfant Wissahickon\n35. Pizzeria Stella\n36. Little Pete's\n37. Buttone Italian Deli & Pizza\n38. DiNic's Roast Pork\n39. The Lodge\n40. Victoria Freehouse\n41. Boot & Saddle\n42. American Sardine Bar\n43. West Philadelphia Sandwich Shop\n44. Suraya\n45. The Silkroad Restaurant\n46. El Rey Mezcaleria Y Taqueria\n47. Noord\n48. Skillet LIC\n49. Urban Village Brewing Company\n50. Front Street Cafe\n51. Kraftwork\n52. Kensington Quarters\n53. Prohibition Taproom\n54. Wm. Mulherin's Sons\n55. Jet Wine Bar\n56. Laser Wolf\n57. New Decatur\n58. K' Far\n59. Hank's Saloon\n60. Asbury Festhalle & Biergarten\n61. Georgia's Room\n62. The Salty Pelican Restaurant\n63. Circles Thai & Sushi\n64. Kohn's Bakery\n65. Oyster House\n66. Ciezko's Meat Market\n67. Barrale\n68. Loco Pez\n69. Brewer's Plate\n70. Creme Brulee\n71. Angry Birdz 2\n72. Mekong Bistro\n73. Uptown Beer Garden\n74. Lightbox Cafe\n75. Holme Avenue Seafood\n76. Mamma Maria Ristorante & Pizzeria\n77. Marsala Bistro\n78. Library Bar Philadelphia\n79. Thomas Lorenzo\n80. Goat Hollow Pizza Cafe\n81. Black Sheep Ale House\n82. Miga Lounge\n83. Brewerytown Beats\n84. Cantina Dos Segundos\n85. The Green Line Cafe\n86. Can I Kick It? Ice Creamery\n87. Pizza Brain\n88. Mom-Mom's Soul Food Cafe\n89. Wunder Garten\n90. Prohibition Taproom Newark\n91. The Little Saigon\n92. Sly Fox Brewery\n93. Barcade\n94. Mile End Delicatessen\n95. 500 Club\n96. The Irish Pub\n97. Back to Basics Cafe Pit Stop\n98. LaCroix\n99. The Foodery\n100. The Continental\n",
+            " Founding Fathers Sports Bar & Grill \nFranklin's \nMad River Manayunk \nThe Blue Duck \nThe Tavern Restaurant \nMisconduct Tavern \nJD Mcgillicuddy's Manayunk \nMorty's Pub \nPaddy's Old City Pub \nCitizens Bank Park",
+            "Paddy's Old City Pub\nMad River Manayunk\nThe Tavern Restaurant \nChestnut 7 \nLucky's Last Chance \nMisconduct Tavern \nFive Guys \nLisa's Kitchen \nFranklin's \nJD Mcgillicuddy's Manayunk"
+        ]
+    }
+}

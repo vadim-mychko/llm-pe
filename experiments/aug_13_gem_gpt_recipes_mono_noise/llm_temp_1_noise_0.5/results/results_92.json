@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soups that contain meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potato-based soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy-containing soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer soups with a tomato base?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups that are low-fat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups that contain squash?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes which are not fried?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "- Soup made with cabbage, carrots, potatoes, and onions\n- Soup made with ground turkey that is low fat, high carb\n- Creamy base with dill flavoring, eggs, and noodles\n- Soup made with shrimp, onions, and scallops\n- Soup made from onions, carrots, and celery ribs\n- Simple creamy oyster soup\n- Soup made with vegetables and chicken\n- Calcium-rich soup made with broccoli and beans\n- Cheese and vegetable soup with a beer broth\n- Roasted almonds",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices\n''''",
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nAssorted cheese soup with chicken\nCheese and vegetable soup with a beer broth",
+            "Soup made with cabbage, carrots, potatoes, and onions\nCreamy base with dill flavoring, eggs, and noodles\nAssorted cheese soup with chicken\nSoup made with vegetables and chicken\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nLow fat sweet potato fries made with cajun seasoning\n'''",
+            "Very low-fat assortment of shredded vegetables with seasoning\nLow-fat shredded vegetables with seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\nLow fat smoothies made with greek yogurt, and pineapple\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat sweet potato fries made with cajun seasoning\nYogurt from scratch\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n'''",
+            "Soup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\nCheese and vegetable soup with a beer broth\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSimple creamy oyster soup\nHomemade soup with chicken, noodles, and spices\nCalcium-rich soup made with broccoli and beans\nSoup made with cabbage, carrots, potatoes, and onions",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Queso made from melted cheese and chili peppers\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Assorted cheese soup with chicken\n5. Cheese and vegetable soup with a beer broth\n6. Italian salad made from romain lettuce, artichokes, and tomatoes\n7. Soup made with vegetables and chicken\n8. Sweet salad made with corn and three types of beans\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Pork chops glazed with milk and cooked without nuts",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers \\n\nSoup made with shrimp, onions, and scallops \\n\nRamen noodles made from scratch made with: wheat flour, baking soda, and water \\n\nHomemade soup with chicken, noodles, and spices \\n\nSoup made with carrots, potatoes, and onions \\n\nSpaghetti noodles with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nAlmonds coated with butter and salt \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nCarrot and parsnip low fat soup \\n\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\nHomemade soup with chicken, noodles, and spices\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with vegetables and chicken\nCheese and vegetable soup with a beer broth\n'''"
+        ]
+    }
+}

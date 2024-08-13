@@ -1,0 +1,58 @@
+{
+    "65": {
+        "conv_hist": [
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "no"
+            },
+            {
+                "query": " \nDo you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit-based desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish and seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. Assorted cheese soup with chicken\n4. Cheese and vegetable soup with a beer broth\n5. Cheese with crackers\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Bread made swiss style with swiss cheese\n9. Cheese and olive appetizer made to look like an eyeball\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Garlic bread with cheddar, green onions, and mayonnaise\n4. Assortment cheese soup with chicken\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Baked breakfast bars made with nuts and seeds\n7. Low fat sweet potato fries made with cajun seasoning\n8. Cheese with crackers\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Grilled salmon seasoned with salt and pepper",
+            "Queso made from melted cheese and chili peppers\nCheese and olive appetizer made to look like an eyeball\nBread made swiss style with swiss cheese\nAssorted cheese soup with chicken\nSpaghetti noodles with mussels, anchovy fillets, and capers\nItalian salad made from romain lettuce, artichokes, and tomatoes\nLow-fat coconut alcohol-free cocktail\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n'''",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Mozzarella dip recipe\n3. Melt in your mouth lemon blueberry pancakes\n4. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n5. Cream cheese and chive keto spinach breadsticks\n6. Baked mozzarella cheese sticks with marinara sauce\n7. Creamy cheese salad\n8. Soup made with vegetables and chicken\n9. Roasted almonds\n10. Meatballs made with ground beef and ground pork",
+            "Queso made from melted cheese and chili peppers\nCheese and olive appetizer made to look like an eyeball\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMacaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nAssorted cheese soup with chicken\nCheese with crackers\nPeppermint chocolate bonbon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " Cheese and olive appetizer made to look like an eyeball\n****\nQueso made from melted cheese and chili peppers\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese and vegetable soup with a beer broth\n****\nMozzarella dip recipe\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nBaked spinach quiche containing bacon\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoasted almonds",
+            "Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked spinach quiche containing bacon\nNorway cake with lingonberry and whipped cream layers\nPeach cobbler dessert containing whole wheat flour\nSugar-free peanut butter cookies",
+            "****\nChocolate and orange-flavoured smoothie\n****\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nLow sugar applesauce cupcakes\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nHomemade soup with chicken, noodles, and spices\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nMozzarella dip recipe\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nPeach cobbler dessert containing whole wheat flour\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            "- Peppermint chocolate bonbon\n- Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n- Chocolate and orange-flavoured smoothie\n- Low sugar applesauce cupcakes\n- Very low-fat assortment of shredded vegetables with seasoning\n- Gluten-free, egg-free, dairy-free, nut-free fudge\n- Sugar-free peanut butter cookies\n- Jam made from blackberries, lemon juice, and sugar\n- No-sugar added desserts\n- Low-fat diced baked or fried potatoes\n''''",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked mozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSwiss cheese bread\nSweet salad made with corn and three types of beans\nCandy made from peppermint and chocolate\nOatmeal peanut butter cookies\nChocolate and orange-flavoured smoothie\nBeef stew made with beef, carrots and potatoes\nPeach cobbler dessert containing whole wheat flour"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying a Malaysian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan or vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any coffee shops that serve sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you  interested in trying a Mexican restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar type atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a cheesesteak?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to trying Italian sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Juice Merchant\nLe Pain Quotidien\nGermantown Garden\nThe Tasty Toast\nA Tutti, Ristorante Italiano",
+            "1. Zuzu's Kitchen\n2. Grain Exchange\n3. The Tavern Restaurant\n4. Federal Donuts\n5. The QUICK FIXX\n6. Audrey Claire\n7. Lucky's Last Chance\n8. Pure Tacos\n9. Olive Garden Italian Restaurant\n10. Baan Thai",
+            "1. Maison 208 \n2. The Milk House \n3. Le Pain Quotidien \n4. The Juice Merchant \n5. A Tutti, Ristorante Italiano \n6. CO-OP Restaurant & Lounge \n7. Mugshots Coffeehouse \n8. Benna's Cafe \n9. Gran Caffe L'Aquila \n10. Cafe L'Aube",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nZuzu's Kitchen \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nThe Tasty Toast",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nCinCin Restaurant \nFederal Donuts \nSang Kee Peking Duck House",
+            "Daleng Restaurant\nZuzu's Kitchen \nCanton 11 \nGolden Triangle \nRistorante La Buca \nOlive Garden Italian Restaurant \nVedge \nRoy-Pitz Barrel House \nA Tutti, Ristorante Italiano \nMacaroni's Restaurant",
+            "1. Daleng Restaurant \n2. PrimoHoagies \n3. Steve's Prince of Steaks \n4. Lisa's Kitchen \n5. Franklin's \n6. Betty's Speakeasy \n7. Green Leafs & Bananas \n8. The Green Line Cafe \n9. Luhv Vegan Deli \n10. Spread Bagelry",
+            " PrimoHoagies \n Spread Bagelry \n Wawa \n Green Leafs & Bananas \n The Green Line Cafe \n Steve's Prince of Steaks \n Lisa's Kitchen \n Luhv Vegan Deli \n Five Guys \n Subway",
+            "1. Steve's Prince of Steaks \n2. The QUICK FIXX \n3. The Tasty Toast \n4. Lisa's Kitchen \n5. Tavern On the Hill \n6. Tavern on the Green\n7. Paddy's Old City Pub \n8. Macaroni's Restaurant \n9. Green Leafs & Bananas \n10. The Green Line Cafe",
+            "1. PrimoHoagies \n2. The Tasty Toast \n3.  Jack's Firehouse \n4.  Steve's Prince of Steaks \n5.  The QUICK FIXX \\n\n6.  Lisa's Kitchen \n7.  Luhv Vegan Deli \n8.  Trolley Car Diner \n9.  The Green Line Cafe \n10. Spread Bagelry"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "50": {
+        "conv_hist": [
+            {
+                "query": "Are you open to Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in coffee and tea?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want something sweet like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to enjoy desserts at a bakery or cafe?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian bakeries and cafes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in desserts with an Italian flair?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery or cafe to buy your desserts at?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer cakes, cookies, or pastries?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Water Works Restaurant & Lounge \n CinCin Restaurant \n Daleng Restaurant \n Federal Donuts \n Mong Kok Station \n A Tutti, Ristorante Italiano \n The Grill  Smuckers \n Canton 11 \n Ristorante La Buca",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n PrimoHoagies \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n Daleng Restaurant \n The Tasty Toast \n Le Pain Quotidien",
+            "Zuzu's Kitchen\nThe Juice Merchant\nBaan Thai\nGrain Exchange\nThe Continental Restaurant and Martini Bar\nFiore Fine Foods\nLaCroix Restaurant at The Rittenhouse\nAudrey Claire\nDave Magids\nFarmer's Cabinet",
+            "1. The Juice Merchant\n2. Zuzu's Kitchen\n3. Green Leafs & Bananas\n4. The QUICK FIXX\n5. Rival Bros Coffee\n6. Gran Caffe L'Aquila\n7. Cafe L'Aube\n8. Betty's Speakeasy\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House",
+            "Gran Caffe L'Aquila \\n\nBetty's Speakeasy \\n\nPearl's Oyster Bar \\n\nHey Hummus \\n\nBaan Thai \\n\nThe Blue Duck \\n\nChez Crepes \\n\nFiore Fine Foods \\n\nAudrey Claire \\n\nBlackbird Pizzeria",
+            "Oteri's Italian Bakery | North 5th St\nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nMiga Korean BBQ & Sushi \nChinatown Garden Restaurant \nFiore Fine Foods \nBetty's Speakeasy \nBaan Thai \nThe Juice Merchant \nAudrey Claire",
+            "Rival Bros Coffee \nCafe L'Aube \nThe Continental Restaurant and Martini Bar \nParc \nMacaroni's Restaurant \nGran Caffe L'Aquila \nAldine \nThe Blue Duck \nThe Cheesecake Factory \nThe Green Line Cafe",
+            "Oteri's Italian Bakery | North 5th St\nEssene Market & Caf\u00e9 \nTrolley Car Diner \nGreen Leafs & Bananas\nFiore Fine Foods \nBetty's Speakeasy \nParc \nJake's & Cooper's Wine Bar & Wine Shop \nGran Caffe L'Aquila \nCafe L'Aube",
+            "The Juice Merchant\nBaan Thai\nbetty's speakeasy\nThe Cheesecake Factory\nBetty's Speakeasy\n Fiore Fine Foods\nGran Caffe L'Aquila\nGreen Leafs & Bananas\nKC's Pastries\nSpread Bagelry"
+        ]
+    }
+}

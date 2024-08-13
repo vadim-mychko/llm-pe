@@ -1,0 +1,58 @@
+{
+    "9": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is the movie from the last 10 years?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about politics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in films set in a futuristic or science fiction setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a film about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about gangsters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in animal movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a black comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n\n3. Lost in Translation (2003)\n4. What's Up, Doc? (1972)\n5. Rushmore (1998)\n6. Moonrise Kingdom (2012)\n7. Princess Bride, The (1987)\n8. Fight Club (1999)\n9. Into the Wild (2007)\n10. Shaun of the Dead (2004)",
+            "1. Movies, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Volcano (1997)\n4. Enemy of the State (1998)\n5. Darkman (1990)\n6. Gang Related (1997)\n7. Con Air (1997)\n8. Face/Off (1997)\n9. Point Break (1991)\n10. The Rock (1996)",
+            "1. Manchurian Candidate, The (1962)\n2. Great Escape, The (1963)\n3. Butch Cassidy and the Sundance Kid (1969)\n4. Dirty Harry (1971)\n5. The Godfather (1972)\n6. The Godfather Part II (1974)\n7. Star Wars: Episode IV - A New Hope (1977)\n8. Apocalypse Now (1979)\n9. Star Wars: Episode V - The Empire Strikes Back (1980)\n10. Raiders of the Lost Ark (1981)",
+            "1. Laura (1944)\n2. Clash of the Titans (1981)\n3. The Sure Thing (1985)\n4. American Graffiti (1973)\n5. What's Up, Doc? (1972)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. Grapes of Wrath, The (1940)\n9. Umberto D. (1952)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. Runaway Train (1985)\n2. St. Elmo's Fire (1985)\n3. Sure Thing, The (1985) \n4. Brewster's Millions (1985) \n5. Cocoon (1985) \n6. Trapped (2002) \n7. Real Genius (1985) \n8. The Big Red One (1980)\n9. What's Up, Doc? (1972) \n10. Von Ryan's Express (1965)",
+            "1. Am\u00e9lie (French)\n2. La Haine (French)\n3. City of God (Portuguese)\n4. Pan's Labyrinth (Spanish)\n5. Oldboy (Korean)\n6. Memories of Murder (Korean)\n7. The Host (Korean)\n8. Train to Busan (Korean)\n9. Parasite (Korean)\n10. Shoplifters (Japanese)",
+            "1. The Godfather Part II (1974)\n2. Once Upon a Time in America (1984)\n3. Goldfinger (1964)\n4. Dr. No (1962)\n5. From Russia with Love (1963)\n6. Thunderball (1965)\n7. On Her Majesty's Secret Service (1969)\n8. The Spy Who Loved Me (1977)\n9. For Your Eyes Only (1981)\n10. Octopussy (1983)",
+            "1. Taxi Driver (1976)\n2. The Silence of the Lambs (1991)\n3. Jurassic Park (1993)\n4. Schindler's List (1993)\n5. Pulp Fiction (1994)\n6. Titanic (1997)\n7. Memento (2000)\n8. No Country for Old Men (2007)\n9. Avatar (2009)\n10. Interstellar (2014)",
+            "1. The Last Temptation of Christ (1988)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. Dracula (Bram Stoker's Dracula) (1992)\n4. Mis\u00e9rables, Les (1998)\n5. Europa (Zentropa) (1991)\n6. Moby Dick (1956)\n7. Corporation, The (2003)\n8. Control (2007)\n9. The Big Red One (1980)\n10. American Graffiti (1973)",
+            "1. Monsters, Inc. (2001) \n2. Laura (1944) \n3. August Rush (2007) \n4. Terms of Endearment (1983) \n5. The Proposition (2005) \n6. One Hour Photo (2002) \n7. Autumn Sonata (H\u00f6stsonaten) (1978) \n8. St. Elmo's Fire (1985) \n9. Crimes and Misdemeanors (1989) \n10. Mis\u00e9rables, Les (1998)"
+        ]
+    }
+}

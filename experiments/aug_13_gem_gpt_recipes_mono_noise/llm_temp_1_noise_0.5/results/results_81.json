@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Do you like dishes that are spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like saut\u00e9ed mixed vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like rich creamy sauces like Alfredo sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like using a ton of herbs or spices, other than salt and pepper, when cooking?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Mixed fruit salad with non-citrus\n2. Eggless sauerkraut cake\n3. Bland/non-spicy hot pot\n4. Fried shrimp and scallops\n5. Salmon roasted with olive oil, chives & tarragon\n6. Creamy base with dill, eggs, and noodles\n7. Very low-fat assorted shredded vegetables with seasoning\n8. Soup made with onions, carrots & celery ribs\n9. Assortment of bland cheese soup with chicken\n10. Simple creamy oyster soup\n''''",
+            "1. Chopped French duck confit preserved by duck oil\n2. Queso made from melted cheese and chili peppers\n3. Classic salad with creamy caesar dressing and croutons\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Mozzarella dip recipe\n6. Cheese and olive appetizer made to look like an eyeball\n7. Assorted cheese soup with chicken\n8. Vegetable salad made with corn and three types of beans\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Meatballs made with ground beef and ground pork",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Mozzarella dip recipe\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Soup made with vegetables and chicken\n9. Chicken cooked and flavored with lemon sauce\n10. Spaghetti noodles with mussels, anchovy fillets, and capers",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Grilled salmon seasoned with salt and pepper\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Poke of tofu, mushroom and tomatoes\n7. Shrimp and scallops\n8. Fried shrimp and scallops\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Cheese and vegetable soup with a beer broth",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSoup made with shrimp, onions, and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nPoke of tofu, mushroom and tomatoes\nHot pot that is not spicy\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked mozzarella cheese sticks with marinara sauce\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nFish and chips\nFried shrimp and scallops\nSoup made with shrimp, onions, and scallops\nPoke of tofu, mushroom, and tomatoes\n'''",
+            "Salmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nFish stew made from ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nCreamy base with dill flavoring, eggs, and noodles\nVegetable soup containing chicken and vegetables\nSpicy chili recipe\nMild beef stew made with beef, carrots and potatoes\nLow sugar applesauce cupcakes\nSmoked fish seasoned with salt and pepper\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nPork tacos with onions and cilantro\nBroccoli and potato soup with cheese",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Soup made with shrimp, onions, and scallops\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Grilled salmon fillets in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n8. Eggs cooked and flavored with lemon sauce\n9. Soup made with shrimp, onions, and scallops\n10. Soup made with vegetables and chicken\n",
+            " Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n North African grilled salmon with spices such as cumin and paprika\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n High protein skillet with rice and vegetables\n****\n Chopped French duck confit preserved by duck oil\n****\n Poke of tofu, mushroom and tomatoes\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Vegetarian whole wheat pasta containing low fat ricotta and frozen peas"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about cars, computers, sports, or things blowing up?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology or dinosaurs?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about AI or robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in outer space?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with an evil robot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie made on a low budget?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a simulated reality?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. August Rush (2007)\n5. Terms of Endearment (1983)\n6. The Piano (1993)\n7. One Hour Photo (2002)\n8. All Quiet on the Western Front (1930)\n9. We Bought a Zoo (2011)\n10. The Secret of Kells (2009)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Jurassic Park, The Lost World (1997)\n3. Metropolis (2001)\n4. Terminator 3: Rise of the Machines (2003)\n5. Timeline (2003)\n6. Real Steel (2011)\n7. Robot & Frank (2012)\n8. Ant-Man (2015)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Tron (1982) \n3. The Last Starfighter (1984) \n4. Blade Runner (1982) \n5. WarGames (1983) \n6. Weird Science (1985) \n7. Explorers (1985) \n8. The Running Man (1987) \n9. Total Recall (1990) \n10. Robocop (1987)",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. Big Red One, The (1980) \\n\n3. Dune (1984) \\n\n4. Transylvania 6-5000 (1985) \\n\n5. Tron (1982) \\n\n6. Star Trek III: The Search for Spock (1984) \\n\n7. Raiders of the Lost Ark (1981) \\n\n8. The Dark Crystal (1982) \\n\n9. Alien (1979) \\n\n10. E.T. the Extra-Terrestrial (1982) \\n",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. The Last Starfighter (1984) \n3. Explorers (1985) \n4. Batteries Not Included (1987) \n5. Flight of the Navigator (1986) \n6. Aliens (1986) \n7. The Thing (1982) \n8. Tron (1982) \n9. Blade Runner (1982) \n10. E.T. the Extra-Terrestrial (1982)\n''''",
+            "1. Lost in Space (2018)\n2. Ant-Man (2015)\n3. A.I. Artificial Intelligence (2001)\n4. Real Steel (2011)\n5. Robot & Frank (2012)\n6. Terminator 3: Rise of the Machines (2003)\n7. Star Wars: Episode IV - A New Hope (1977)\n8. Star Wars: Episode V - The Empire Strikes Back (1980)\n9. Star Wars: Episode VI - Return of the Jedi (1983)\n10. Alien (1979)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Lost in Space (1998) \n3. Contact (1997) \n4. Apollo 13 (1995) \n5. Armageddon (1998) \n6. Alien (1979) \n7. Star Trek (2009) \n8. Enemy Mine (1985) \n9. Solaris (1972) \n10. Outland (1981) \n",
+            "Ant-Man (2015) \nReady Player One \nReal Steel (2011) \nRobot & Frank (2012) \nThe (2015) \nAlita: Battle Angel (2019) \nA.I. Artificial Intelligence (2001) \nMetropolis (2001) \nTerminator 3: Rise of the Machines (2003) \nDarkman (1990) ",
+            "1. Lost in Translation (2003)\n2. Alien (1979)\n3. Blade Runner (1982)\n4. The Terminator (1984)\n5. Tron (1982)\n6. WarGames (1983)\n7. The Last Starfighter (1984)\n8. Enemy Mine (1985)\n9. Cocoon (1985)\n10. RoboCop (1987)",
+            "1. Robocop (1987)\n2. The Terminator (1984)\n3. Blade Runner (1982)\n4. Aliens (1986)\n5. Predator (1987)\n6. The Thing (1982)\n7. John Carpenter's Starman (1984)\n8. Explorers (1985)\n9. Flight of the Navigator (1986)\n10. Tron (1982)"
+        ]
+    }
+}

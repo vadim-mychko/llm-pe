@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer not to have pork in the dish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer not to have salmon in the dish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sauce?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked mozzarella cheese sticks with marinara sauce\nCreamy base with dill flavoring, eggs, and noodles\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nHomemade soup with chicken, noodles, and spices\n'''",
+            " High protein skillet with rice and vegetables\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Spanish rice with chicken breast\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Pepperoni pizza made with pepperoni and cheese\n****\n Homemade soup with chicken, noodles, and spices",
+            "- \n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- \n High protein skillet with rice and vegetables\n- \n Chicken breasts stuffed with bacon and mozzarella\n- \n Italian salad made from romain lettuce, artichokes, and tomatoes\n- \n Chicken cooked and flavored with lemon sauce\n- \n Grilled shrimp and scallops\n- \n Spaghetti noodles with mussels, anchovy fillets, and capers\n- \n Simple creamy oyster soup\n- \n Roasted almonds\n- \n Homemade soup with chicken, noodles, and spices",
+            "1. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n2. Fried shrimp and scallops\n3. Chicken breasts stuffed with bacon and mozzarella\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Pork chops glazed with milk and cooked without nuts\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n8. Peach cobbler dessert containing whole wheat flour\n9. Soup made with ground turkey that is low fat, high carb\n10. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese",
+            " Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nSpaghetti noodles with mussels, anchovy fillets, and capers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nSmoothie made from banana puree with milk\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe",
+            " High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nLarge portion fries with gravy and bacon\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nBaked breakfast bars made with nuts and seeds\n****\nGrilled salmon seasoned with salt and pepper\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nCheese and crackers\n****\nMixed greens salad with red onion, feta, and mango\n****",
+            " 1. Very low-fat assortment of shredded vegetables with seasoning \n 2. Chopped French duck confit preserved by duck oil\n 3. Bread made swiss style with swiss cheese\n 4. Baked spinach quiche containing bacon\n 5. Chicken breasts stuffed with bacon and mozzarella \n 6. Queso made from melted cheese and chili peppers\n 7. Salmon fillets grilled in a pan with herbs and spices\n 8. Cheese and olive appetizer made to look like an eyeball\n 9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \n10. Baked mozzarella cheese sticks with marinara sauce ",
+            "Korean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBig portion fries with gravy and bacon\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nQueso made from melted cheese and chili peppers\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nQueso made from melted cheese and chili peppers \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nMozzarella dip recipe \\n\nMeatballs made with ground beef and ground pork \\n\nLarge portion fries with gravy and bacon \\n\nFried shrimp and scallops \\n\nCalcium-rich soup made with broccoli and beans \\n\nCheese with crackers \\n\nDigestion-friendly waffles",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled salmon seasoned with salt and pepper\nVery low-fat assortment of shredded vegetables with seasoning\nSpicy chili recipe\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n**Low sugar applesauce cupcakes**"
+        ]
+    }
+}

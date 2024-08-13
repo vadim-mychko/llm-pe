@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Do you have any allergies to peanuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like hot food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Sandwich made with: grilled / broiled marinated chicken\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Soup made with ground turkey that is low fat, high carb\n4. Creamy base with dill flavoring, eggs, and noodles\n5. Chicken cooked and flavored with lemon sauce\n6. Simple creamy oyster soup\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n10. Fried shrimp and scallops\n'''",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSpaghetti noodles with mussels, anchovy fillets, and capers\nCheese and olive appetizer made to look like an eyeball\nCreamy base with dill flavoring, eggs, and noodles\nBaked spinach quiche containing bacon\nCreamy base with dill flavoring, eggs, and noodles\nQueso made from melted cheese and chili peppers",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nPolenta with parmesan and bolognaise sauce\nCreamy polenta with sundried tomatoes, garlic, red onions, and spinach\nPolenta with chilli beef ragu and mascarpone\nPolenta with seafood and basil\nPolenta with Italian sausage ragu, capers and olives\n''''",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n4. Mozzarella dip recipe\n5. Peach cobbler dessert containing whole wheat flour\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Mozzarella cheese sticks with marinara sauce\n8. Pepperoni Hot Pocket\n9. Meatballs made with ground beef and ground pork\n10. Shredded barbecued pork shoulder\n''''",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled salmon seasoned with salt and pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nItalian salad made from romain lettuce, artichokes, and tomatoes\nPhilly cheese steak tomato salad\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nRoasted almonds",
+            "1. Mozzarella dip recipe\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5. Chicken cooked and flavored with lemon sauce\n6. Cheese and olive appetizer made to look like an eyeball\n7. Pork chops glazed with milk and cooked without nuts\n8. Peppermint chocolate bonbon\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Italian salad made from romaine lettuce, artichokes, and tomatoes",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein skillet with rice and vegetables\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Homemade soup with chicken, noodles, and spices\n5. Mildly spicy chili recipe\n6. Pork chops glazed with milk and cooked without nuts\n7. Roasted almonds\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork\n'''",
+            "High protein skillet with rice and vegetables\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Baked breakfast bars made with nuts and seeds\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Italian salad made from romaine lettuce, artichokes, and tomatoes\n6. Meatballs made with ground beef and ground pork\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \n8. Sweet salad made with corn and three types of beans\n9. Korean soup containing beef brisket and flavoured with red pepper powder\n10. High protein skillet with rice and vegetables",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nBaked spinach quiche containing bacon\n****\nPork chops glazed with milk and cooked without nuts\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSpanish rice with chicken breast"
+        ]
+    }
+}

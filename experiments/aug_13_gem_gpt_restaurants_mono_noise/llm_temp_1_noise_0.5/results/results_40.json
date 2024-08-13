@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a juice bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer bars to eat at?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Does a place that serves barbeque sound good?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches at a place with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches and burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a place that serves cheesesteaks?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \n Golden Triangle \n Germantown Garden \n The Tasty Toast \n Le Pain Quotidien \n Heritage \n Veda - Modern Indian Bistro \n Izumi \n A Tutti, Ristorante Italiano \n The Milk House",
+            "Baan Thai \\n\nCantonese\\n\nDaleng Restaurant \\n\nDim Sum House \\n\nGolden Triangle \\n\nHeritage \\n\nIzumi \\n\nKC's Pastries \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9",
+            "McMenamin's Tavern \nBetty's Speakeasy \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nHeritage \nCinCin Restaurant \nFederal Donuts \nWishbone \nTabern On the Hill \nMarben Argentine Steakhouse",
+            "Bloomsday Cafe \\n\nThe El Bar \\n\nCantonese \\n\nCanton 11 \\n\nJD Mcgillicuddy's Manayunk \\n\nDim Sum House \\n\nJack's Firehouse \\n\nRistorante La Buca \\n\nFounding Fathers Sports Bar & Grill \\n\nWawa",
+            "****\n name: Fox & Son \n categories: Restaurants, Nightlife, Seafood, Bars, American (New), Cocktail Bars, American (Traditional)\n****\n name: Germantown Garden \n categories: Restaurants, Bars, Breakfast & Brunch, Cocktail Bars, Nightlife, Lounges, American (Traditional)\n****\n name: Grain Exchange \n categories: Restaurants, American (New), Nightlife, American (Traditional), Pubs, Southern, Bars, Gastropubs\n****\n name: Heritage \n categories: Restaurants, American (New), Arts & Entertainment, Jazz & Blues, Nightlife, Bars\n****\n name: Kokopelli Restaurant & Tequila Bar \n categories: Restaurants, Tapas/Small Plates, Event Planning & Services, Venues & Event Spaces, American (New)\n****\n name: Tavern On the Hill \n categories: Restaurants, Nightlife, American (New), American (Traditional), Bars, Pubs, Lounges\n****\n name: Mad River Manayunk \n categories: Restaurants, Bars, American (Traditional), Sports Bars, Nightlife\n****\n name: The El Bar \n categories: Restaurants, Dive Bars, Bars, American (New), Nightlife\n****\n name: Liberty Bell Beer Garden \n categories: Restaurants, Beer Gardens, Bars, American (New), Nightlife\n****\n name: Founders Brewing Company-Philadelphia \n categories: Restaurants, Bars, Breweries, American (New), Nightlife",
+            "1. Founding Fathers Sports Bar & Grill\n2. Stats Bar & Grille \n3. Bar Noir RittenHouse\n4. The Tavern Restaurant\n5. Heritage \n6. The Continental Restaurant and Martini Bar\n7. Tavern On the Hill\n8. Macaroni's Restaurant\n9. Misconduct Tavern \n10. Jack's Firehouse",
+            "**Most to Least Relevant**:\n\n1. The Tasty Toast\n2. Wawa\n3. Wishbone\n4. Lisa's Kitchen\n5. Green Leafs & Bananas\n6. The Green Line Cafe\n7. Spread Bagelry\n8. Wawa\n9. Audrey Claire\n10. Love & Honey Fried Chicken",
+            "McMenamin's Tavern \nThe El Bar \nFounding Fathers Sports Bar & Grill \nJD Mcgillicuddy's Manayunk \nJack's Firehouse \nThe Grasshopper\nSouth Philadelphia Tap Room\nChickie's & Pete's\nMonk's Cafe\nFranklin's",
+            "The Tavern Restaurant \nThe Green Line Cafe \nDim Sum House \nChestnut 7 \nSpread Bagelry \nVedge \nFederal Donuts \nThe Blue Duck \nMiga Korean BBQ & Sushi \nCantina Los Caballitos",
+            " The Tavern Restaurant \nMisconduct Tavern \nMad River Manayunk \nTrolley Car Diner \nSteve's Prince of Steaks \nFranklin's \nChestnut 7 \nWishbone \nJack's Firehouse \nLisa's Kitchen"
+        ]
+    }
+}

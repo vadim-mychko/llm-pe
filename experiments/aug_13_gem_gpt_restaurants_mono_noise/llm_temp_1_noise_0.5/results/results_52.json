@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something vegetarian or vegan?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in cuisines from Japan?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Italian food or sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Mexican or Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that offer tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places to obtain pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Spanish, French or Italian cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar to eat at?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want bagels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nNorth Bowl \nVedge \nHey Hummus \nMonster Vegan \nBenna's Cafe \nEssene Market & Caf\u00e9 \nLuvh Vegan Deli \nThe QUICK FIXX \nGreen Leafs & Bananas",
+            "Vedge \nMonster Vegan \nHey Hummus \nThe Juice Merchant \nDaleng Restaurant \nBloomsday Cafe \nThe QUICK FIXX \nGreen Leafs & Bananas \nLuvh Vegan Deli \nBenna's Cafe",
+            " Benna's Cafe \\n\nSister Muhammad's Kitchen \\n\nLuvh Vegan Deli \\n\nMonster Vegan \\n\nRoy-Pitz Barrel House \\n\nVedge \\n\nPhiladelphia Kitchen \\n\nChef Jo Jo \\n\nFederal Donuts \\n\nThe Green Line Cafe",
+            "Daleng Restaurant \n Golden Triangle \n Sang Kee Peking Duck House \n Bistro SouthEast \n Baan Thai \n Miga Korean BBQ & Sushi \n Audrey Claire \n Pure Tacos \n Love & Honey Fried Chicken \n Ristorante La Buca",
+            "1. Mood Indian Restaurant \n2. Daleng Restaurant\n3. Veggie Monster \n4. Sang Kee Peking Duck House \n5. Hey Hummus \n6. A Tutti, Ristorante Italiano \n7. Fiore Fine Foods\n8. Pure Tacos \n9. Lucky's Last Chance \n10. Bistros South East",
+            "1. Mood Indian Restaurant\n2. Sang Kee Peking Duck House\n3. Bistro SouthEast\n4. Pure Tacos\n5. Audrey Claire\n6. Roy-Pitz Barrel House\n7. Water Works Restaurant & Lounge\n8. Ristorante La Buca\n9. Jack's Firehouse\n10. Love & Honey Fried Chicken",
+            " Vedge \nHey Hummus \nMonster Vegan \nPure Tacos \nBenna's Cafe \nLove & Honey Fried Chicken \nBistro SouthEast \nMiga Korean BBQ & Sushi \nCinCin Restaurant \nSteve's Prince of Steaks",
+            "1. Misconduct Tavern \n2. Franklin's \n3. Wishbone \n4. Lisa's Kitchen \n5. Luhv Vegan Deli \n6. Lucky's Last Chance \n7. Love & Honey Fried Chicken \n8. Burger Fi \n9. Five Guys \n10. The Blue Duck",
+            "Grain Exchange \nMcMenamin's Tavern \nThe QUICK FIXX \nMiga Korean BBQ & Sushi \nFranklin's \nThe Blue Duck \nWishbone \nThe Tasty Toast \nLuhv Vegan Deli \nVedge",
+            "1. Ristorante La Buca \n2. Trolly Car Diner \n3. Founding Fathers Sports Bar & Grill\n4. Chestnut 7 \n5. Sabrina's cafe \n6. Cantina Dos Segundos \n7. Jack's Firehouse \n8. Lucky's Last Chance \n9. Franklin's \n10. Misconduct Tavern"
+        ]
+    }
+}

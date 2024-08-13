@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in experiencing cuisine from a specific part of the world, such as Indian, Italian, or American?",
+                "response": "no"
+            },
+            {
+                "query": "Does a vegan-friendly item sound appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food like burgers and pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want American fast food options, like burgers and fries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for cheesesteaks, fast food, or chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in something to drink, like coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian cuisine, such as sushi or noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine, like pizza or pasta?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "****\n name: Pat's Pizza \n categories: Restaurants, Pizza, Dining, Takeout\n****\n name: The Melting Pot \n categories: Restaurants, Dining Out, Reservations, Romantic, Events\n****\n name: Tomaso's Restaurant \n categories: Restaurants, Pizza, Dining Out, Family Friendly\n****\n name: El Limon Restaurant \n categories: Restaurants, Family Friendly, Dining Out, Takeout\n****\n name: Teddy's Bar & Grill \n categories: Restaurants, Social Gathering, Dining Out, Casual Atmosphere\n****\n name: China Wok \n categories: Restaurants, Delivery, Dinner, Reservations\n****\n name: Aladdin Mediterranean \n categories: Restaurants, Dining Out, Nightlife, Halal\n****\n name: Birches Brick House \n categories: Restaurants, Catering, Wedding, Corporate Event\n****\n name: OLA SUSHI & GRILL \n categories: Restaurants, Family Friendly, Catering, Takeout\n****\n name: Southwark \n categories: Restaurants, Nightlife, Romantic, Hipster\n****\n name: The Chickie's & Pete's Crab House \n categories: Restaurants, Seafood, Crabs, American\n****\n name: The Ashford Inn \n categories: Restaurants, Outdoor Seating, Pizza, Cocktails\n****\n name: Tequila's Mexican Restaurant \n categories: Restaurants, Margaritas, Specials\n****\n name: Roberta Coastal Fusion Bar & Grille \n categories: Restaurants, Dining Out, Events, Entertainment\n****\n name: Bar Bombon \n categories: Restaurants, Cocktails, Tapas, Spanish\n****\n name: Gordon's Garage \n categories: Restaurants, Burgers, Neighborhood Bars, Nightlife\n****\n name: El King Birria y Tacos \n categories: Restaurants, Family Friendly, Kids Menu, Catering\n****\n name: Full Moon Sushi \n categories: Restaurants, Coupons, Delivery, Dinner\n****\n name: River Horse Cafe \n categories: Restaurants, Breakfast, Organic, Farm to table\n****\n name: Oyster House \n categories: Restaurants, Brunch, Happy hour, Weddings\n****\n name: Eldorado Mexican Restaurant \n categories: Restaurants, Specials, Live music, Dinner\n****\n name: Tap Room on 19th \n categories: Restaurants, Craft beer, Sports Bar, Patio\n****",
+            "Grain Exchange \nVedge \nHey Hummus \nBenna's Cafe \nMonster Vegan \nNorth Bowl \nEssene Market & Caf\u00e9 \nThe QUICK FIXX \nBlackbird Pizzeria \nLuvh Vegan Deli",
+            "Five Guys\nMisconduct Tavern\nThe Tavern Restaurant\nThe Blue Duck\nChestnut 7\nSteve's Prince of Steaks\nLisa's Kitchen\nCook and Shaker\nFederal Donuts\nWishbone",
+            " Zuzu's Kitchen \n Golden Triangle \n Lacroix Restaurant at The Rittenhouse \n PrimeHoagies \n Daleng Restaurant \n Federal Donuts \n Mong Kok Station \n Fuji Mountain \n The Tavern Restaurant \n Five Guys",
+            "CinCin Restaurant\nPearl's Oyster Bar\nZuzu's Kitchen\nJack's Firehouse\nCook and Shaker\nAldine\nFederal Donuts\nPure Tacos\nBlackbird Pizzeria\nGran Caffe L'Aquila",
+            "Wawa\nCanton 11\nFederal Donuts\nFive Guys\nSang Kee Peking Duck House\nSpread Bagelry\nSteve's Prince of Steaks\nWawa\nNew York Gyro Truck \nJack's Firehouse",
+            "Five Guys\nWawa\nMacaroni's Restaurant\nThe Blue Duck\nLisa's Kitchen\nGreen Leafs & Bananas\nSteve's Prince of Steaks\nFounding Fathers Sports Bar & Grill\nSpread Bagelry\nLucky's Last Chance\nParc\nLove & Honey Fried Chicken",
+            "1. Canton 11 \n2. Dim Sum House \n3. Dim Sum Garden \n4. Wawa \n5. Federal Donuts \n6. Five Guys \n7. Founding Fathers Sports Bar & Grill \n8. McDonald's \n9. Wawa \n10. Chickie's & Pete's \n'''",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Mong Kok Station\n10. The Tasty Toast\n",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nThe Tasty Toast \nLe Pain Quotidien \nCinCin Restaurant \nCastellino's \nTalluto's Authentic Italian Food"
+        ]
+    }
+}

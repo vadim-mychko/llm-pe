@@ -1,0 +1,58 @@
+{
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegetable dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or chicken?",
+                "response": "chicken"
+            },
+            {
+                "query": "Do you like spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dairy products?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like low fat soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken flavoured soups?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Spaghetti noodles with mussels, anchovy fillets, and capers\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roasted almonds\n6. Homemade soup with chicken, noodles, and spices\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar",
+            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nLow sugar applesauce cupcakes\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nFried shrimp and scallops\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Roasted chicken with lemon sauce\nGrilled salmon seasoned with salt and pepper\nBaked chicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nGrilled salmon fillets in a pan with herbs and spices\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast Turkey with plum sauce\nTeriyaki chicken stir fry\nChicken and vegetable soup\nHigh protein skillet with rice and vegetables\nHomemade soup with chicken, noodles, and spices\n",
+            " Chicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nLow fat baked breakfast pie made with sausage (pork) and apples\nBaked spinach quiche containing bacon\nPork chops glazed with milk and cooked without nuts\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSpaghetti noodles with mussels, anchovy fillets, and capers\nShredded barbecued pork shoulder\n",
+            "Chicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nCheese with crackers\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nLow fat baked breakfast pie made with sausage (pork) and apples\nBaked spinach quiche containing bacon\nAssorted cheese soup with chicken\nCreamy base with dill flavoring, eggs, and noodles\n''''",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Homemade soup with chicken, noodles, and spices\n3. Calcium-rich soup made with broccoli and beans\n4. Cheese and vegetable soup with a beer broth\n5. Assorted cheese soup with chicken\n6. Simple creamy oyster soup\n7. Baked spinach quiche containing bacon\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Low fat baked breakfast pie made with sausage (pork) and apples\n'''",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nChicken cooked and flavored with lemon sauce\nAssorted cheese soup with chicken\nChicken breasts stuffed with bacon and mozzarella\nChicken fillets fried in a pan with herbs and spices\nShredded barbecued pork shoulder\nBulgogi stir-fried with mushroom onions\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Chicken cooked and flavored with lemon sauce\n****\n Soup made with vegetables and chicken\n****\n Roast turkey with plum sauce\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Baked spinach quiche containing bacon\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Pork chops glazed with milk and cooked without nuts",
+            "Very low-fat assortment of shredded vegetables with seasoning\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nLow fat soup made with ground turkey that is low fat, high carb\nLow fat sweet potato fries made with cajun seasoning\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat diced baked or fried potatoes\nHomemade soup with chicken, noodles, and spices\nLow fat coconut alcohol-free cocktail\nCalcium-rich soup made with broccoli and beans\n",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nCheese with crackers\nLow fat assorted fruit dessert\nLow fat sweetened yogurt\nLow fat baked breakfast pie made with sausage (pork) and apples\nSimple creamy oyster soup\nAssorted cheese soup with chicken\nMozzarella dip recipe\nSmoothie made from fruit juice and bananas\nSweet salad made with corn and three types of beans\nCalcium-rich soup made with broccoli and beans\nLow-fat coconut alcohol-free cocktail\nMozzarella cheese sticks with marinara sauce\nBaked spinach quiche containing bacon\n**Soup made with cabbage, carrots, potatoes, and onions**\nHot pot that is not spicy\nGrilled salmon seasoned with salt and pepper\n**Chicken cooked and flavored with lemon sauce**\nSalmon fillets grilled in a pan with herbs and spices\n"
+        ]
+    }
+}

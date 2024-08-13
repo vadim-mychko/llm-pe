@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": " Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge \nDaleng Restaurant \nGrain Exchange \nIzumi \nThe Milk House \nValley Green Inn \nVeda - Modern Indian Bistro \nCO-OP Restaurant & Lounge \nNorth Bowl \nMalbec Argentine Steakhouse",
+            " Izumi\nRoy-Pitz Barrel House\nMacaroni's Restaurant\nQdoba Mexican Grill\nCuisine on the Green\nThe QUICk FIXX\nSpread Bagelry\nThe Green Line Cafe\nThe Pink Rose\nYankee Doodle\nHoneygrow\nShane Confectionery \nStarbucks\nWawa\nPret A Manger\nAu Bon Pain\nThe Juice Merchant\nChai's Taiwanese Bistro\nThe Bercy\nLePain Quotidien\nEl Rey\nSaladworks\nSweetgreen\nGreen Leafs & Bananas\n5 Loaves Cafe\nFrangelli's Bakery\nSweet Box Cafe\nSabrina's Cafe\nP.J. Whelihan's Pub + Restaurant\nDunkin'\nGregory's Coffee\nParada Cafe\nCosi\nHoneygrow\nReAnimator Coffee\nThe Green Bee Cafe\nPopShop\nHoneygrow\nFederal Donuts\nThe Cheesecake Factory\nMad River Manayunk\nSteve's Prince of Steaks\nHibachi & Tequilas\nBluebird Distilling\nHawthorne's Cafe\nFlour & Sugar Bake Shop, South Street\nPeddler Coffee\nThe Grilled Cheese & Crab Cake Co.\nStephen Starr Events at The Terrace\nDirty Franks\nSpice Merchant Gourmet Cafe\nThe Bagel Place\nCafe Nhan Hoa\nSofitel Philadelphia at Rittenhouse Square\nEl Limon\nAnna Marie's Pizza\nCafe Y Chocolate\nPastaficio\nTio Pepe Spanish Restaurant & Tapas\nNgor Khmer Phila\nSaigon Garden Restaurant\nNguyens Vietnamese Restaurant\nLa Belle Epoque\nGarlic City Asian Cuisine\nNam Phuong Restaurant\nThai Cafe Restaurant\nRiver Cafe\nSupper\nZahav\nPad Thai\nQuay\nTop of the Tower Restaurant\nKanella Grill\nOpah\nPoi Dog",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nFederal Donuts \nGermantown Garden \nLacroix Restaurant at The Rittenhouse \nPrimalHoagies \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nThe Tasty Toast \nLe Pain Quotidien",
+            "Ristorante La Buca\nRoy-Pitz Barrel House\nFederal Donuts\nBetty's Speakeasy\nCantina 11\nThe El Bar\nThe Green Line Cafe\nJake's & Cooper's Wine Bar & Wine Shop\nBridget's \nConshohocken Cafe",
+            " 1. Paddy's Old City Pub\n 2. Canton 11\n 3. Mad River Manayunk \n 4. Franklin's\n 5. Founding Fathers Sports Bar & Grill \n 6. McMenamin's Tavern\n 7. JD Mcgillicuddy's Manayunk\n 8. Lucky's Last Chance\n 9. CJ & Eck's\n 10. Tavern On the Hill\n",
+            "Jack's Firehouse\nWishbone\nFranklin's\nJD Mcgillicuddy's Manayunk\nLucky's Last Chance\nLove & Honey Fried Chicken\nFounding Fathers Sports Bar & Grill\nFederal Donuts\nMisconduct Tavern\nBuffalo Wild Wings Rittenhouse",
+            "1. Founding Fathers Sports Bar & Grill\n2. Lucky's Last Chance\n3. Wishbone\n4. Franklin's \n5. JD Mcgillicuddy's Manayunk\n6. The El Bar\n7. Love & Honey Fried Chicken \n8. Misconduct Tavern\n9. Jack's Firehouse\n10. The Tavern Restaurant\n",
+            "Federal Donuts \\n\nMisconduct Tavern \\n\nThe Tavern Restaurant \\n\nMad River Manayunk \\n\nJack's Firehouse \\n\nFranklin's \\n\nWishbone \\n\nLisa's Kitchen \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken",
+            "Wishbone \\n\nMad River Manayunk \\n\nJD Mcgillicuddy's Manayunk \\n\nFive Guys \\n\nMisconduct Tavern \\n\nFranklin's \\n\nJack's Firehouse \\n\nPaddy's Old City Pub \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "1. Jack's Firehouse \n2. Misconduct Tavern \n3. Founding Fathers Sports Bar & Grill \n4. Mad River Manayunk \n5. CJ & Eck's \n6. Wishbone \n7. Franklin's \n8. Lucky's Last Chance \n9. JD Mcgillicuddy's Manayunk \n10. Paddy's Old City Pub"
+        ]
+    }
+}

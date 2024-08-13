@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan items?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in baked items?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nCreamy base with dill flavoring, eggs, and noodles\nStir-fried tofu, noodles and vegetables Bento\nTofu, mushroom and tomatoes poke\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nAssorted cheese soup with chicken\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nSoup made with chicken, noodles, and spices\nSoup made with beans and corn\nSoup made with vegetables and chicken\nThai noodle soup made with jalapeno peppers, tofu, and peanut sauce\nVery low-fat assortment of shredded vegetables with seasoning\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow fat baked breakfast pie made with sausage (pork) and apples\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSoup made from vegetables and chicken\nVegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nCalcium-rich soup made with broccoli and beans\nSoup made with shrimp, onions, and scallops\nHomemade soup with chicken, noodles, and spices",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nAssorted cheese soup with chicken\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices",
+            "Creamy base with dill flavoring, eggs, and noodles\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assortment of fruit dessert\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSmoothie made from banana puree with milk\n2-ingredient yogurt from scratch\nLow fat sweet potato fries made with cajun seasoning\nSoup made with ground turkey that is low fat, high carb\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nLow fat zucchini noodles\n'''",
+            "Grilled Italian salad made from romaine lettuce, artichokes, and tomatoes\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nMeatballs made with ground beef and ground pork\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese and vegetable soup with a beer broth\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nAssorted cheese soup with chicken\n****\nBaked spinach quiche containing bacon\n****\nPeppermint chocolate bonbon\n****\nItalian salad made from romaine lettuce, artichokes, and tomatoes\n****",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Mozzarella dip recipe\n3. Baked spinach quiche containing bacon\n4. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n5. Meatballs made with ground beef and ground pork\n6. Vegetable soup with a beer broth\n7. Peach cobbler dessert containing whole wheat flour\n8. Mozzarella cheese sticks with marinara sauce\n9. Chicken cooked and flavored with lemon sauce\n10. Italian-style sandwich made with french baguette bread, ham, lettuce, and tomatoes",
+            "* Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n* Italian salad made from romain lettuce, artichokes, and tomatoes\n* Vegetarian cheese and vegetable soup with a beer broth\n* Cheese and olive appetizer made to look like an eyeball\n* Mozzarella cheese sticks with marinara sauce\n* High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n* Stuffed chicken breast with mozzarella and bacon\n* Peach cobbler dessert containing whole wheat flour\n* Mozzarella dip recipe\n* Cheese with crackers",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Cheese and olive appetizer made to look like an eyeball\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Baked breakfast bars made with nuts and seeds\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Veggie soup made with carrots, potatoes, onions and cabbage\n9. Low fat sweet potato fries made with cajun seasoning\n10. Mozzarella dip recipe",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made with shrimp, onions, and scallops\n4. Soup made with ground turkey that is low fat, high carb\n5. Soup made with onions, carrots, and celery ribs\n6. Assorted cheese soup with chicken\n7. Cheese with crackers\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Simple creamy oyster soup\n10. Classic salad with creamy caesar dressing and croutons\n'''"
+        ]
+    }
+}

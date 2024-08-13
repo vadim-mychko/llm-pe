@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu or chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets or desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a fruit smoothie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like a smoothie made with fruit juice?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Chocolate and orange-flavoured smoothie\n3. Mozzarella dip recipe\n4. Almonds coated with butter and salt\n5. Bread made swiss style with swiss cheese\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Grilled salmon seasoned with salt and pepper\n8. Mildly spicy chili recipe\n9. Roast turkey with plum sauce\n10. Crispy eggplant with brown sauce\n11. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n12. Low-fat coconut alcohol-free cocktail\n13. Large portion fries with gravy and bacon\n14. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n15. Steak\n16. Very low carb crustless pumpkin pie spiced with nutmeg\n17. Soup made with vegetables and chicken\n18. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n19. Berry cobbler that uses frozen mixed berries\n20. Garlic bread with cheddar, green onions, and mayonnaise",
+            " Beef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPork chops glazed with milk and cooked without nuts\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nMozzarella cheese sticks with marinara sauce\n****\nAssorted cheese soup with chicken\n****",
+            "****\n1. Tofu, mushroom and tomatoes\n****\n2. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n3. Poke of tofu, mushroom and tomatoes\n****\n4. Chicken breasts stuffed with bacon and mozzarella\n****\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n6. Baked breakfast bars made with nuts and seeds\n****\n7. Stir-fried tofu, noodles and vegetables Bento\n****\n8. Low fat, high carb soup made with ground turkey\n****\n9. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n10. Eggless sauerkraut cake\n****",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nChicken breasts stuffed with bacon and mozzarella\nChicken cooked and flavored with lemon sauce\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nBaked spinach quiche containing bacon\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nStir-fried tofu, noodles and vegetables Bento",
+            "****\nChicken breasts stuffed with bacon and mozzarella\n****\nHigh protein skillet with rice and vegetables\n****\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nChicken breasts cooked and flavored with lemon sauce\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nTaiwanese deep fried crispy chicken cutlets\n****\nChicken cooked and flavored with lemon sauce\n****\nQueso made from melted cheese and chili peppers\n****\nSandwich made with: grilled / broiled marinated chicken",
+            "Chocolate and orange-flavoured smoothie\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nSlushie drink made from orange juice blended with ice\nStrawberry milkshake made from fresh strawberries and ice cream\nJam made from blackberries, lemon juice, and sugar\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\n Low fat assorted fruit dessert\nMozzarella dip recipe\nCreamy base with dill flavoring, eggs, and noodles",
+            "1. Tofu, mushroom and tomatoes poke\n2. Low fat assorted fruit dessert\n3. Banana puree with milk smoothie \n4. Smoothie made from fruit juice and bananas\n5. Chocolate and orange-flavoured smoothie\n6. Slushie drink made from orange juice blended with ice\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Grilled salmon seasoned with salt and pepper",
+            "Smoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nFruit juice and fruit smoothie\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nStir-fried tofu, noodles and vegetables Bento\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            " Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nStir-fried tofu, noodles and vegetables Bento\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nVery low-fat assortment of shredded vegetables with seasoning\nMildly spicy chili recipe",
+            "1. Fruit juice and banana smoothie\n2. Slushie drink made from orange juice blended with ice\n3. Low fat smoothies made with greek yogurt, and pineapple\n4. Banana puree with milk smoothie\n5. Chocolate and orange-flavoured smoothie\n6. Very low-fat assortment of shredded vegetables with seasoning\n7. Grilled zucchini and tomatoes seasoned with balsamic vinegar and herbs\n8. General Tso's tofu, mushroom and tomatoes\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Roasted almonds"
+        ]
+    }
+}

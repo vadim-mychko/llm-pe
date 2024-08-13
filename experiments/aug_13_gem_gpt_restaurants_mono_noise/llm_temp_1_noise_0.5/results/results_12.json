@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Mexican cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer bars?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with happy hours?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with Asian fusion?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Mexican food with happy hours?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food with happy hours?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer bars also serving food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food with happy hours?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nGran Caffe L'Aquila \nAudrey Claire \nGermantown Garden \nPrimoHoagies",
+            "Oishii Pok\u00e9\nPure Tacos\nBistro SouthEast\nAudrey Claire\nTrolley Car Diner\nSang Kee Peking Duck House\nIzumi\nPearl's Oyster Bar\nFederal Donuts\nCantina Dos Segundos",
+            "1. Audrey Claire\n2. Oishii Pok\u00e9\n3. Pure Tacos\n4. Ristorante La Buca\n5. Mexican Post \n6. Tres Jalapenos \n7. Han Dynasty \n8. Sancho Pistola's \n9. El Limon \n10. Tequila's Restaurante & Cantina",
+            " Ristorante La Buca\nOishii Pok\u00e9\nAudrey Claire\nBistro SouthEast\nMalbec Argentine Steakhouse\nLos Tres Chiles\nOteri's Italian Bakery | North 5th St\nHoneygrow\nCantina Los Caballitos\nSabrina's Cafe",
+            "1. Audrey Claire \n2. Pure Tacos \n3. Oishii Pok\u00e9 \n4. Ristorante La Buca \n5. Mexican Post \n6. Grain Exchange \n7. The Continental Restaurant and Martini Bar \n8. North Bowl \n9. The Union Tap Room \n10. Tabachoy Peruvian Food & Cevicheria",
+            "1. Oishii Pok\u00e9\n2. Mexican Post\n3. Audrey Claire\n4. Pure Tacos\n5. Valley Green Inn\n6. Izumi\n7. Malbec Argentine Steakhouse\n8. Bistro SouthEast\n9. Lacroix Restaurant at The Rittenhouse\n10. Sang Kee Peking Duck House",
+            "Oishii Pok\u00e9 \nAudrey Claire \nPearl's Oyster Bar \nBistro SouthEast \nMiga Korean BBQ & Sushi \nThe Blue Duck \nEvan's Pizza \nSang Kee Peking Duck House \nGolden Triangle \nZuzus Kitchen",
+            "Water Works Restaurant & Lounge\nGrain Exchange\nLacroix Restaurant at The Rittenhouse\nThe Grilled Salmon\nPearl's Oyster Bar\nHelium\nBridget's\nBarristers\nHarp & Crown\nraw Sushi & Seafood\nMcCormick & Schmick's\nIl Pittore Ristorante\nOld Original Bookbinder's\nLe Grenouille\nKanella Grill\nEstia\nHan Dynasty\nMorimoto\nAqimero\nSalt & Pepper\nTre Scalini Ristorante",
+            "New York Gyro Truck \nRistorante La Buca \nFederal Donuts \nFederal Donuts \nFederal Donuts \nOishii Pok\u00e9 \nLucky's Last Chance \nFederal Donuts \nAudrey Claire \nAudrey Claire",
+            "Oishii Pok\u00e9 \nSang Kee Peking Duck House \nZahav \nOteri's Italian Bakery | North 5th St \nPure Tacos\nSister Muhammad's Kitchen \nLucky's Last Chance \nWawa \n"
+        ]
+    }
+}

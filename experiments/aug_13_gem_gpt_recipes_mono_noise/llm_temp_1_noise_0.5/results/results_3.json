@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Do you like spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dessert?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like poultry?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSlightly sweet fried scallops\nGrilled salmon seasoned with salt and pepper\nCreamy base with dill flavoring, eggs, and noodles\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpicy Korean soup containing beef brisket\nKorean soup containing beef brisket and flavoured with red pepper powder\nChicken cooked and flavored with lemon sauce",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. High protein skillet with rice and vegetables\n5. Soup made with cabbage, carrots, potatoes, and onions\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Soup made with onions, carrots, and celery ribs\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n'''",
+            "Baked spinach quiche containing bacon\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nPeach cobbler dessert containing whole wheat flour\nLow-fat coconut alcohol-free cocktail\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nBaked breakfast bars made with nuts and seeds\nSoup made with chicken and noodles\nChicken cooked and flavored with lemon sauce",
+            "- Creamy base with dill flavoring, eggs, and noodles\n- Queso made from melted cheese and chili peppers\n- Cheese with crackers\n- Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n- Soup made with cabbage, carrots, potatoes, and onions\n- Soup made with turkey, onion, bell pepper, chicken breast, and alfredo sauce\n- Smoothie made from banana puree with milk\n- Smoothie recipe with fruit juice and banana\n- Soup made with shrimp, onions, and scallops\n- Low sugar applesauce cupcakes",
+            "1. Soup made with ground turkey that is low fat, high carb\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. 2-ingredient yogurt from scratch\n5. High protein skillet with rice and vegetables\n6. Low fat assorted fruit dessert\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Eggless sauerkraut cake\n9. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n10. Banana bread made with whole wheat flour and walnuts",
+            "Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoasted almonds\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSoup made from onions, carrots, and celery ribs",
+            " Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with onions, carrots, and celery ribs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked vegetable breakfast bars made with whole wheat flour\nSpaghetti noodles with mussels, anchovy fillets, and capers\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust",
+            "Very low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with vegetables and chicken\nSoup made with onions, carrots, and celery ribs\nBaked spinach quiche containing bacon\nVegetable soup with chicken",
+            "Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nGrilled salmon seasoned with salt and pepper\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with ground turkey that is low fat, high carb\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made from onions, carrots, and celery ribs\nBaked spinach quiche containing bacon\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "High protein skillet with rice and vegetables\nSoup made with cabbage, carrots, potatoes, and onions\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSoup made with onions, carrots, and celery ribs\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat baked breakfast pie made with sausage (pork) and apples\nSoup made with ground turkey that is low fat, high carb"
+        ]
+    }
+}

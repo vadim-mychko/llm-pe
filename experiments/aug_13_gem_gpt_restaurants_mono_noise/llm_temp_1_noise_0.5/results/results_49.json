@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something with a French influence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in checking out some American places?",
+                "response": "no"
+            },
+            {
+                "query": "Is Italian cuisine appealing to you?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to search Indian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Does Thai cuisine appeal to you?",
+                "response": "yes"
+            },
+            {
+                "query": "Is Vietnamese food something you'd like to explore?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you considering Japanese restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Heritage \nLaCroix Restaurant at The Rittenhouse \nAudrey Claire \nParc\nLe Pain Quotidien \nCafe L'Aube \nGran Caffe L'Aquila \nChez JoJo \nLacroix at the Bellevue \nZavino\nTalula's Garden",
+            " Daleng Restaurant\n Fuji Mountain\n Izumi\n Miga Korean BBQ & Sushi\n Sang Kee Peking Duck House\n Tu's Tea & Banh Mi South Philly\n Baan Thai\n Golden Triangle\n Oishii Pok\u00e9\n CinCin Restaurant",
+            "Golden Triangle\nLacroix Restaurant at The Rittenhouse\nHeritage\nSouthgate\nMa Maison \nCapogiro\nMediterra\nTizi Noodle Kitchen\nKanella Grill\nSabrina's Cafe\nParc",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            " Daleng Restaurant \\n\nGolden Triangle \\n\nLacroix Restaurant at The Rittenhouse \\n\nFederal Donuts \\n\nMong Kok Station \\n\nCinCin Restaurant \\n\nBistro SouthEast \\n\nBaan Thai \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nBaan Thai \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nEvan's Pizza \\n\nNew York Gyro Truck \\n\nKC's Pastries",
+            "Daleng Restaurant \nBistro SouthEast \nGolden Triangle \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nGran Caffe L'Aquila \nOishii Pok\u00e9 \nFuji Mountain \nCanton 11",
+            "Daleng Restaurant\nGolden Triangle\nFuji Mountain\nBistro SouthEast\nMiga Korean BBQ & Sushi\nIzumi\nCanton 11\nTu's Tea & Banh Mi South Philly\nOishii Pok\u00e9\nBaan Thai",
+            "No restaurants meet the criteria specified in the conversation history.",
+            " Golden Triangle \n Daleng Restaurant \n Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n Bistro SouthEast \n Baan Thai \n Miga Korean BBQ & Sushi \n Izumi \n Mong Kok Station \n Canton 11"
+        ]
+    }
+}

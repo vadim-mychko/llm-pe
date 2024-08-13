@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Do you like Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying Korean cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to have coffee or tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in tasting menu options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a seafood restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant \n2. Baan Thai \n3. Bistro SouthEast \n4. Mong Kok Station \n5. CinCin Restaurant \n6. Royal Izakaya & Ramen \n7. Han Dynasty \n8. Sbraga \n9. Horizons at The Watermark Beach Resort \n10. Soi",
+            "Daleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nFederal Donuts \nCinCin Restaurant \nGrain Exchange \nFuji Mountain \nSang Kee Peking Duck House \nCanton 11 \nPearl's Oyster Bar ",
+            "1. Daleng Restaurant \n2. Bistro SouthEast \n3. Miga Korean BBQ & Sushi \n4. Baan Thai \n5. Tu's Tea & Banh Mi South Philly \n6. KC's Pastries \n7. Golden Triangle \n8. Fuji Mountain \n9. Canton 11 \n10. Sang Kee Peking Duck House",
+            "Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nCinCin Restaurant \nFive Guys \nMacaroni's Restaurant \nWishbone \nPearl's Oyster Bar",
+            "1) Golden Triangle\n2) Bistro SouthEast\n3) Daleng Restaurant\n4) Miga Korean BBQ & Sushi\n5) Tu's Tea & Banh Mi South Philly\n6) Baan Thai\n7) Sang Kee Peking Duck House\n8) Kokopelli Restaurant & Tequila Bar\n9) Lacroix Restaurant at The Rittenhouse\n10) Veda - Modern Indian Bistro\n",
+            " Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nZuzu's Kitchen \nCanton 11 \nSang Kee Peking Duck House \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nSang Kee Peking Duck House \\n\nTu's Tea & Banh Mi South Philly \\n\nGrain Exchange \\n\nCantonese \\n\nFederal Donuts \\n\nFive Guys",
+            "1. Bistro SouthEast \n2. Mong Kok Station \n3. Canton 11 \n4. Daleng Restaurant \n5. Heritage \n6. Water Works Restaurant & Lounge \n7. The Grill  Smuckers \n8. Lokal Tavern \n9. Pearl's Oyster Bar \n10. Parc",
+            "**** Zuzu's Kitchen\n**** Golden Triangle\n**** Water Works Restaurant & Lounge\n**** Lacroix Restaurant at The Rittenhouse\n**** Germantown Garden\n**** PrimoHoagies\n**** Daleng Restaurant\n**** Federal Donuts\n**** Meng Kok Station\n**** The Tasty Toast",
+            "Federal Donuts\nPrimoHoagies\nMood Indian Restaurant\nThe Juice Merchant\nWater Works Restaurant & Lounge\nDaleng Restaurant\nA Tutti, Ristorante Italiano\nHeritage\nGermantown Garden\nZuzu's Kitchen"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "46": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in happy hour specials?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a place with music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with a large beer selection?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you more interested in a sports bar or a gastropub?",
+                "response": "sports bar"
+            },
+            {
+                "query": "Do you prefer upscale sports bars or more casual ones?",
+                "response": "more casual ones"
+            },
+            {
+                "query": "Are you interested in a place that serves food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar with many TVs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that specifically host events?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Lucky's Last Chance \n2. Green Leafs & Bananas\n3. Mad River Manayunk \n4. JD Mcgillicuddy's Manayunk\n5. Founding Fathers Sports Bar & Grill\n6. CJ & Eck's \n7. The El Bar \n8. Jack's Firehouse\n9. Franklin's \n10. Heritage",
+            "1. Aldine \n2. Founding Fathers Sports Bar & Grill \n3. Paddy's Old City Pub \n4. Misconduct Tavern \n5. Tavern On the Hill \n6. Mad River Manayunk \n7. Macaroni's Restaurant \n8. Mad River Manayunk \n9. JD Mcgillicuddy's Manayunk \n10. Lucky's Last Chance",
+            "Ristorante La Buca \nLocal Tavern\nWater Works Restaurant & Lounge\nGolden Triangle\nFuji Mountain\nPaddy's Old City Pub\nLucky's Last Chance\nMad River Manayunk\nJD Mcgillicuddy's Manayunk\nFranklin's",
+            "Canton 11\nBlackbird Pizzeria\nLacroix Restaurant at The Rittenhouse\nTrolley Car Diner\nFranklin's\nRistorante La Buca\nCinCin Restaurant\nTalluto's Authentic Italian Food\nFederal Donuts\nGrain Exchange\nCO-OP Restaurant & Lounge",
+            "Local Tavern\nMood India Restaurant\nWater Works Restaurant & Lounge\nMitchell & Bass\nCO-OP Restaurant & Lounge\nGaslight\nClarkville\nRoy-Pitz Barrel House\nTonic\nThe Square At 16th\nDim Sum House",
+            "Paddy's Old City Pub \nFranklin's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nCJ & Eck's \nMcMenamin's Tavern \nJack's Firehouse \nGrain Exchange \nMisconduct Tavern",
+            "Mad River Manayunk \\n\nJD Mcgillicuddy's Manayunk \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill \\n\nMcMenamin's Tavern \\n\nPaddy's Old City Pub \\n\nCJ & Eck's \\n\nTavern On the Hill \\n\nThe Green Line Cafe \\n\nThe El Bar",
+            "1. Founding Fathers Sports Bar & Grill\n2. Mad River Manayunk\n3. Paddy's Old City Pub\n4. Franklin's\n5. JD Mcgillicuddy's Manayunk\n6. Misconduct Tavern\n7. Mad River Manayunk\n8. McMenamin's Tavern\n9. CJ & Eck's\n10. Tavern On the Hill",
+            "Founding Fathers Sports Bar & Grill\nJD Mcgillicuddy's Manayunk\nFranklin's\nMcMenamin's Tavern\nPaddy's Old City Pub\nMad River Manayunk\nWishbone\nMad Mex Fulton Stall\nLiberty Point\nThe Green Line Cafe",
+            "**Top 10 Matches**\n\n1. CJ & Eck's \n2. Founding Fathers Sports Bar & Grill \n3. McMenamin's Tavern \n4. Franklin's \n5. JD Mcgillicuddy's Manayunk \n6. Mad River Manayunk \n7. Tavern On the Hill \n8. Chestnut 7\n9.  The QUICK FIXX \n10. Betty's Speakeasy"
+        ]
+    }
+}

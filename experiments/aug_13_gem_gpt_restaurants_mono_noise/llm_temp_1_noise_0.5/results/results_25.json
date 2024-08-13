@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any kind of American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for anything vegan?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any sort of pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in any bars with a happy hour?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any kind of Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian restaurants with a lively atmosphere?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Heritage \n Grain Exchange \n Sang Kee Peking Duck House \n B Bistro SouthEast \n Macaroni's Restaurant \n Blackbird Pizzeria \n Fiore Fine Foods \n Evan's Pizza\nOishii Pok\u00e9",
+            "Daleng Restaurant \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nMiga Korean BBQ & Sushi \nBistro SouthEast \nBaan Thai \nIzumi \nAudrey Claire \nCanton 11 \nPearl's Oyster Bar",
+            " Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nThe Tasty Toast \\n\nSang Kee Peking Duck House \\n\nGrain Exchange \\n\nCanton 11 \\n\nDim Sum House \\n\nThe Green Line Cafe",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Juice Merchant \n8. Mong Kok Station \n9. The Tasty Toast \n10. Le Pain Quotidien",
+            "1. Golden Triangle\n2. Heritage\n3. Valley Green Inn\n4. Shogun Sushi & Steak House\n5. CinCin Restaurant\n6. Kokopelli Restaurant & Tequila Bar\n7. Dim Sum House\n8. Fuji Mountain\n9. Aldo Lamberti Cucina\n10. Ristorante La Buca",
+            "The El Bar \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill \\n\nMcMenamin's Tavern \\n\nCJ & Eck's \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nThe Tavern Restaurant \\n",
+            "1. Canton 11\n2. Tavern On the Hill \n3. Dim Sum House \n4. Bailey's Famous Bar & Grille\n5. Kildare's Irish Pub \n6. Wishbone \n7. The Continental Restaurant and Martini Bar \n8. Cavanaugh's Rittenhouse \n9. The El Bar \n10. The Irish Pub \n\n",
+            "Jack's Firehouse\nMalbec Argentine Steakhouse\nThe Tavern Restaurant \nPaddy's Old City Pub \nMisconduct Tavern\nBetty's Speakeasy\nJake's & Cooper's Wine Bar & Wine Shop \nMad River Manayunk \nThe El Bar \nFounding Fathers Sports Bar & Grill ",
+            "1. Ristorante La Buca \\n\n2. Castellino's \\n\n3. A Tutti, Ristorante Italiano \\n\n3. Olive Garden Italian Restaurant \\n\n4. Joe's Bar \\n\n5. Macaroni's Restaurant \\n\n6. PrimoHoagies \\n\n7. Talutto's Authentic Italian Food \\n\n8. The QUICK FIXX \\n\n9. Fiore Fine Foods \\n\n10. Italian Bistro & Chophouse",
+            "Ristorante La Buca\nLacroix Restaurant at The Rittenhouse\nCinCin Restaurant\nMiga Korean BBQ & Sushi\nLe Pain Quotidien\nA Tutti, Ristorante Italiano\nAudrey Claire\nParc\nPastaficio\nThe Green Line Cafe"
+        ]
+    }
+}
