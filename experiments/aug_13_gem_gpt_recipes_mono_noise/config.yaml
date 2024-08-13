@@ -2,7 +2,7 @@ ci:
   confidence_level: 0.95
 data:
   data_loader_name: JSONLoader
-  data_path: data/yelp_cat_100.json
+  data_path: data/recipe_100_sample.json
   user_loader_name: UserTsvLoader
   user_path: data/users/users_100_100.tsv
 debug_mode: false
@@ -25,7 +25,7 @@ llm:
   temperature: 1
   template_dir: ./templates
   user_llm_name: GPTChatCompletion
-  user_sim_template_file: user_simulation_restaurants.jinja2
+  user_sim_template_file: user_simulation_recipe.jinja2
 logging:
   disabled: false
   level: DEBUG
@@ -34,17 +34,18 @@ metrics:
   to_avg:
     map: null
 mono_llm:
-  query_gen_template: mono_llm_query_gen_restaurants.jinja2
-  top_items_template: mono_llm_top_items_restaurants.jinja2
+  query_gen_template: mono_llm_query_gen_recipes.jinja2
+  top_items_template: mono_llm_top_items_recipes.jinja2
 paths:
-  eval_results_master_path: experiments/aug_13_gem_gpt_restaurants_ts_noise/eval_results.csv
-  experiment_dir: experiments/aug_13_gem_gpt_restaurants_ts_noise
+  eval_results_master_path: experiments/aug_13_gem_gpt_recipes_mono_noise/eval_results.csv
+  experiment_dir: experiments/aug_13_gem_gpt_recipes_mono_noise
+  name_map_path: data/name_maps/recipe_100_map.json
 pe:
   num_recs: 10
-  pe_module_name: DT
+  pe_module_name: MonoLLM
   response_update: individual
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_restaurants_3FS_3words.jinja2
-  item_selection: thompson
+  aspect_gen_template: pointwise_aspect_v_generation_recipes_3FS_1word.jinja2
+  item_selection: ucb
   query_gen_template: pointwise_query_generation_v.jinja2

@@ -8,7 +8,7 @@ data:
 debug_mode: false
 dialogue_sim:
   num_turns: 10
-  response_noise: 0
+  response_noise: 0.25
   sim_type: llm
 item_scoring:
   history_preprocessor_name: AspectValuePreprocessor
@@ -29,6 +29,7 @@ llm:
 logging:
   disabled: false
   level: DEBUG
+  log_file: experiments/aug_13_gem_gpt_movies_mono_noise/llm_temp_1_noise_0.25/output.log
 metrics:
   metrics: supported_measures
   to_avg:
@@ -37,14 +38,15 @@ mono_llm:
   query_gen_template: mono_llm_query_gen_movies.jinja2
   top_items_template: mono_llm_top_items_movies.jinja2
 paths:
-  eval_results_master_path: experiments/aug_13_gem_gpt_movies_ts_noise/eval_results.csv
-  experiment_dir: experiments/aug_13_gem_gpt_movies_ts_noise
+  eval_results_master_path: experiments/david_test_1/eval_results.csv
+  experiment_dir: experiments/david_test_1
+  name_map_path: data/name_maps/yelp_100_map.json
 pe:
   num_recs: 10
-  pe_module_name: DT
+  pe_module_name: MonoLLM
   response_update: individual
 query:
   aspect_extraction: val
-  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_3words.jinja2
-  item_selection: thompson
+  aspect_gen_template: pointwise_aspect_v_generation_movies_3FS_1word.jinja2
+  item_selection: ucb
   query_gen_template: pointwise_query_generation_v.jinja2
