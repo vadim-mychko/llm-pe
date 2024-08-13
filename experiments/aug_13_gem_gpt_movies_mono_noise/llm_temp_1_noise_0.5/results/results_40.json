@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a fantasy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action film?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a war film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a family-friendly film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animation movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for an epic science fiction action film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a black science fiction comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction drama?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Children of Men (2006)\n2. The Book of Eli (2010)\n3. Mad Max: Fury Road (2015)\n4. Blade Runner 2049 (2017)\n5. Alita: Battle Angel (2019)\n6. Ready Player One (2018)\n7. Mortal Engines (2018)\n8. Annihilation (2018)\n9. Ghost in the Shell (2017)\n10. Valerian and the City of a Thousand Planets (2017)",
+            "1. Monsters, Inc. (2001) \n2. Tomb Raider (2018) \n3. The Last Temptation of Christ (1988) \n4. Santa Sangre (1989) \n5. The Proposition (2005) \n6. All Quiet on the Western Front (1930) \n7. August Rush (2007) \n8. The Secret of Kells (2009) \n9. Breach (2007) \n10. Stranger than Fiction (2006) \n",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Chungking Express (Chung Hing sam lam) (1994)\n3. A.I. Artificial Intelligence (2001)\n4. Brewster's Millions (1985)\n5. How High (2001)\n6. Mothman Prophecies, The (2002)\n7. Rush Hour 2 (2001)\n8. Control (2007)\n9. Terminator 3: Rise of the Machines (2003)\n10. Bronson (2008)\n",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Last Temptation of Christ, The (1988)\n4. Laura (1944)\n5. August Rush (2007)\n6. The Piano (1993)\n7. Cocoon (1985)\n8. The Man from Earth (2007)\n9. Searching (2018)\n10. Meet John Doe (1941)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Real Genius (1985)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. The Big Red One (1980)\n6. Jane Eyre (1996)\n7. Bruce Almighty (2003)\n8. The Big Lebowski (1998)\n9. Lost in Translation (2003)\n10. American Graffiti (1973)\n''''",
+            "1. Strange than Fiction (2006)\n2. Eragon (2006)\n3. Lady Bird (2017)\n4. Harry Potter and the Sorcerer's Stone (2001)\n5. The Avengers (2012)\n6. Black Panther (2018)\n7. Jurassic World (2015)\n8. Star Wars: Episode VII - The Force Awakens (2015)\n9. Rogue One: A Star Wars Story (2016)\n10. Spider-Man: Homecoming (2017)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Timeline (2003)\n3. Ready Player One\n4. Real Steel (2011)\n5. Metropolis (2001)\n6. Ant-Man (2015)\n7. Terminator 3: Rise of the Machines (2003)\n8. The Man from Earth (2007)\n9. Crimes and Misdemeanors (1989)\n10. Altered States (1980)",
+            "A.I. Artificial Intelligence (2001) \nAlita: Battle Angel (2019) \nAnt-Man (2015) \nBlade Runner 2049 (2017) \nCloud Atlas (2012) \nDredd (2012) \nEx Machina (2014) \nElysium (2013) \nGravity (2013) \nInterstellar (2014)",
+            "1. A.I. Artificial Intelligence (2001) \n2. The Matrix (1999)\n3. Blade Runner (1982)\n4. 2001: A Space Odyssey (1968)\n5. Alien (1979)\n6. Terminator 2: Judgment Day (1991)\n7. The Fifth Element (1997)\n8. The Martian (2015)\n9. Arrival (2016)\n10. Cloud Atlas (2012)",
+            "1. The (2001)\n2. Metropolis (2001)\n3. A.I. Artificial Intelligence (2001)\n4. Ready Player One\n5. Timeline (2003)\n6. Real Genius (1985)\n7. King Kong (2005)\n8. Lost in Translation (2003)\n9. Eragon (2006)\n10. Last Supper, The (1995)"
+        ]
+    }
+}

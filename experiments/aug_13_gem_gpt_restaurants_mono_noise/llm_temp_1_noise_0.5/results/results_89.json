@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for food joints with American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you particularly looking for salad?",
+                "response": "no"
+            },
+            {
+                "query": "How about a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to Vietnamese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for kosher dining options?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to consider Thai food options?",
+                "response": "yes"
+            },
+            {
+                "query": "Does comfort food sound appealing?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Macaroni's Restaurant \\n\nThe Blue Duck \\n\nThe El Bar \\n\nLisa's Kitchen \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nTrolley Car Diner \\n\nFounding Fathers Sports Bar & Grill \\n\nChestnut 7 \\n\nOishii Pok\u00e9",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nValley Green Inn \nAudrey Claire \nGolden Triangle \nBistro SouthEast \nThe Cheesecake Factory \nGran Caffe L'Aquila \nSang Kee Peking Duck House \nOishii Pok\u00e9",
+            "Water Works Restaurant & Lounge \\n\nPearl's Oyster Bar \\n\nAudrey Claire \\n\nThe Tavern Restaurant \\n\nLocal Tavern \\n\nOlive Garden Italian Restaurant \\n\nMacaroni's Restaurant \\n\nFranklin's \\n\nThe Cheesecake Factory \\n\nLisa's Kitchen",
+            "Water Works Restaurant & Lounge \nThe Cheesecake Factory \nPearl's Oyster Bar \nRoy-Pitz Barrel House \nFederal Donuts \nThe Blue Duck \nJack's Firehouse \nThe Tavern Restaurant \nZuzu's Kitchen \nThe Continental Restaurant and Martini Bar ",
+            " Macaroni's Restaurant \nOlive Garden Italian Restaurant \nVedge \nThe Cheesecake Factory \nAudrey Claire \nLove & Honey Fried Chicken \nBlackbird Pizzeria \nToni's place \nCapogiro \nVilla di Roma",
+            "Sister Muhammad's Kitchen \nVedge \nThe Juice Merchant \nPrimoHoagies \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly \nLacroix Restaurant at The Rittenhouse \nBistro SouthEast \nAudrey Claire \nDaleng Restaurant",
+            "Veda - Modern Indian Bistro \\n\nPearl's Oyster Bar \\n\nAudrey Claire \\n\nA Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nThe Continental Restaurant and Martini Bar \\n\nTu's Tea & Banh Mi South Philly \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nEvan's Pizza",
+            "1. Olive Garden Italian Restaurant\n2. Macaroni's Restaurant\n3. A Tutti, Ristorante Italiano\n4. Fiore Fine Foods\n5. PrimoHoagies\n6. Castellino's\n7. Trolley Car Diner\n8. Daleng Restaurant\n9. Sang Kee Peking Duck House\n10. The QUICK FIXX",
+            "1. The Blue Duck\n2. Local Tavern\n3. Cafe L'Aube\n4. Evan's Pizza\n5. Macaroni's Restaurant\n6. Sister Muhammad's Kitchen\n7. Bistro SouthEast\n8. Daleng Restaurant\n9. Fuji Mountain\n10. A Tutti, Ristorante Italiano",
+            "- Daleng Restaurant \n- Heritage \n- Riva\n- Vietnam Cafe \n- Saigon Noodle and Grill \n- Thai Bistro \n- Bangkok Bistro \n- Cham Palace \n- Han Dynasty \n- Kung Fu Noodle"
+        ]
+    }
+}

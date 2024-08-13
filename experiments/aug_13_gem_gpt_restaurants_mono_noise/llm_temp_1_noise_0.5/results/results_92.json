@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for authentic Indian restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you searching for Halal options specifically?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that also serve bar food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any Asian fusion restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in some vegan Asian fusion cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you tried any vegetarian Indian-Asian Fusion restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at Bistro SouthEast?",
+                "response": "yes"
+            },
+            {
+                "query": "Do any of the sandwich-based Asian fusion options you're looking for need to be particularly customizable?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean-Thai fusion?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Vedge \\n\nMonster Vegan \\n\nBenna's Cafe \\n\nHey Hummus \\n\nThe QUICK FIXX \\n\nBlackbird Pizzeria \\n\nGreen Leafs & Bananas \\n\nLuhv Vegan Deli \\n\nVegan | Thrive Caf\u00e9 & Catering \\n\nParcel + Post",
+            "Mood Indian Restaurant \\n\nDaleng Restaurant \\n\nVeda - Modern Indian Bistro \\n\nHey Hummus \\n\nParc \\n\nGran Caffe L'Aquila \\n\nGreen Leafs & Bananas \\n\nMonster Vegan \\n\nBenna's Cafe \\n\nVedge",
+            "Mood Indian Restaurant\nVeda - Modern Indian Bistro\nTava Indian Kitchen\nIndian Star Restaurant\nTiffin\nIndeblue Restaurant and Lounge\nBiryani House\nTamarind Flavors of India\nMughal Palace\nMint Modern Indian Bistro",
+            "1. Mood Indian Restaurant\n2. Veda - Modern Indian Bistro\n3. Vedge\n4. Hey Hummus\n5. Blackbird Pizzeria\n6. The QUICK FIXX\n7. Luhv Vegan Deli\n8. Benna's Cafe\n9. Sister Muhammad's Kitchen\n10. Monster Vegan",
+            "Mood Indian Restaurant \\n\nDaleng Restaurant \\n\nVeda - Modern Indian Bistro \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nCinCin Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nIzumi",
+            " Mood Indian Restaurant\nVeda - Modern Indian Bistro\nIzumi\nGrain Exchange\nBistro SouthEast\nCO-OP Restaurant & Lounge\nBenna's Cafe\nThe QUICK FIXX\nEvan's Pizza \nThe Green Line Cafe",
+            "1. Veda - Modern Indian Bistro \n2. Bistro SouthEast \n3. CinCin Restaurant\n4. Heritage \n5. Daleng Restaurant\n6. Kokopelli Restaurant & Tequila Bar \n7. Federal Donuts \n8. Baan Thai \n9. Miga Korean BBQ & Sushi \n10. Essence Market & Cafe ",
+            "Bistro SouthEast \\n\nVeda - Modern Indian Bistro \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nCinCin Restaurant \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nBaan Thai \\n\nOishii Pok\u00e9 \\n\nAudrey Claire",
+            "Bistro SouthEast \\n\nIzumi \\n\nGolden Triangle \\n\nSang Kee Peking Duck House \\n\nBaan Thai \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nThe QUICK FIXX \\n\nVeda - Modern Indian Bistro",
+            "Bistro SouthEast \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nMiga Korean BBQ & Sushi \\n\nFederal Donuts \\n\nCinCin Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nVeda - Modern Indian Bistro \\n\nPearl's Oyster Bar \\n\nTu's Tea & Banh Mi South Philly \\n"
+        ]
+    }
+}

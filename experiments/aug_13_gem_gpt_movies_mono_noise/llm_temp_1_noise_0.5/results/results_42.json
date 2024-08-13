@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Is there anything specific you would like it to be about?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that also has some action in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set during World War 1?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book or musical stage play?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about space travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an old movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that deals with crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedic movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. **The Piano (1993)**\n2. **Magnolia (1999)**\n3. **A.I. Artificial Intelligence (2001)**\n4. **Enter the Void (2009)**\n5. **Lost in Translation (2003)**\n6. **Grapes of Wrath, The (1940)**\n7. **Cronos (1993)**\n8. **Jane Eyre (1996)**\n9. **Umberto D. (1952)**\n10. **Boy in the Striped Pajamas, The (2008)**",
+            "1. Magnolia (1999) \n2. August Rush (2007) \n3. Secrets and Lies (1996) \n4. The Man from Elysian Fields (2001) \n5. The Last Station (2009) \n6. Before Sunrise (1995)\n7. The Remains of the Day (1993) \n8. Amour (2012) \n9. Lion (2016) \n10. Boyhood (2014) ",
+            "1. A.I. Artificial Intelligence (2001)\n2. American Graffiti (1973)\n3. Autumn Sonata (H\u00f6stsonaten) (1978)\n4. Before the Devil Knows You're Dead (2007)\n5. Big Red One, The (1980)\n6. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n7. Mr. Holmes (2015)\n8. Searching (2018)\n9. Stranger than Fiction (2006)\n10. Umberto D. (1952)",
+            "****\n1. Laura (1944) \n2. August Rush (2007) \n3. Autumn Sonata (H\u00f6stsonaten) (1978) \n4. No Man's Land (2001) \n5. The Secret of Kells (2009) \n6. Magnolia (1999) \n7. Searching (2018) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Control (2007) \n10. Stranger than Fiction (2006)\n****",
+            "1. Terminators 3: Rise of the Machines (2003) \n2. All Quiet on the Western Front (1930) \n3. Out of Sight (1998) \n4. Big Lebowski, The (1998) \n5. Lost in Translation (2003) \n6. Control (2007) \n7. Terminator 3: Rise of the Machines (2003)\n8. Bruce Almighty (2003)\n9. Brewster's Millions (1985)\n10. Big Red One, The (1980)\n",
+            "1. Umberto D. (1952)\n2. August Rush (2007)\n3. Drama, Hemlock (1979)\n4. Man on Fire (2004)\n5. No Man's Land (2001)\n6. The Secret of Kells (2009)\n7. Chungking Express (Chung Hing sam lam) (1994)\n8. Magnolia (1999)\n9. Europa (Zentropa) (1991)\n10. Before the Devil Knows You're Dead (2007)\n",
+            "1. The Last Temptation of Christ, The (1988)\n2. Kafka (1991)\n3. Searching (2018)\n4. The Secret of Kells (2009)\n5. Magnolia (1999)\n6. Children of Men (2006)\n7. We Bought a Zoo (2011)\n8. Mr. Holmes (2015)\n9. The Shape of Water (2017)\n10. Love, Simon (2018)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Departed (2006)\n3. Nightcrawler (2014)\n4. Strangers than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. August Rush (2007)\n7. Man on Fire (2004)\n8. Magnolia (1999)\n9. Enter the Void (2009)\n10. Control (2007)",
+            "1.  Strangers Than Fiction (2006)\n2.  5 Centimeters per Second (Byosobu 5 Senchim\u00eatoru) (2007)\n3.  Lost in Translation (2003)\n4.  August Rush (2007)\n5.  The Proposition (2005)\n6.  Laura (1944)\n7.  Autumn Sonata (Hostsonaten) (1978)\n8.  Terms of Endearment (1983)\n9.  Ant-Man (2015)\n10. Real Genius (1985)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988) \n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. American Graffiti (1973) \n5. Big Lebowski, The (1998) \n6. What's Up, Doc? (1972) \n7. Intolerable Cruelty (2003) \n8. Stranger than Fiction (2006) \n9. Tenacious D in The Pick of Destiny (2006) \n10. UHF (1989) \n11. Bruce Almighty (2003) "
+        ]
+    }
+}

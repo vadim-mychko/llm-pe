@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in coffee shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food with vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan/vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in delis?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bagles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with salad options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Korean place?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Wasabi\n2. Fuji Mountain\n3. Mugshots Coffeehouse\n4. Bloomsday Cafe\n5. Benna's Cafe\n6. Jake's & Cooper's Wine Bar & Wine Shop\n7. Fiore Fine Foods\n8. Betty's Speakeasy\n9. Green Leafs & Bananas\n10. The Green Line Cafe",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nThe Juice Merchant \nDaleng Restaurant \nThe Tasty Toast \nVeda - Modern Indian Bistro \nNorth Bowl \nMonster Vegan",
+            "Vedge \nHey Hummus \nMonster Vegan \nBenna's Cafe \nThe QUICK FIXX \nGreen Leafs & Bananas \nLuhv Vegan Deli \nSpread Bagelry \nThe Green Line Cafe \nThe Juice Merchant",
+            "Wedg\nMonster Vegan \nLuvh Vegan Deli \nBenna's Cafe \nHey Hummus \nGreen Leafs & Bananas \nThe QUICK FIXX \nBlackbird Pizzeria \nThe Green Line Cafe \nCafe L'Aube",
+            "The Juice Merchant \nDaleng Restaurant \nGrain Exchange \nVeda - Modern Indian Bistro \nMonster Vegan \nNorth Bowl \nMad River Manayunk \nGreen Leafs & Bananas \nBetty's Speakeasy \nSpread Bagelry ",
+            "1. Green Leafs & Bananas \\n\n2. Spread Bagelry \\n\n3. The Green Line Cafe \\n\n4. Trolley Car Diner \\n\n5. Lisas Kitchen \\n\n6. Monster Vegan \\n\n7. Hey Hummus \\n\n8. Benna's Cafe \\n\n9. PrimoHoagies \\n\n10. Fiore Fine Foods \\n",
+            "Vedge\nMonster Vegan\nThe QUICK FIXX \nBlackbird Pizzeria \nGreen Leafs & Bananas \nLuhv Vegan Deli\nThe Green Line Cafe\nJake's & Cooper's Wine Bar & Wine Shop \nHey Hummus \nMisconduct Tavern",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nThe Juice Merchant \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nEssene Market & Caf\u00e9 \\n\nHey Hummus \\n\nBenna's Cafe \\n\nVedge",
+            "1. The Green Line Cafe\n2. Spread Bagelry\n3. The Blue Duck\n4. Jake's & Cooper's Wine Bar & Wine Shop\n5. Fiore Fine Foods\n6. Macaroni's Restaurant\n7. Misconduct Tavern\n8. Roy-Pitz Barrel House\n9. Vedge\n10. Blackbird Pizzeria",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nFederal Donuts Korean\nWishbone \nJD Mcgillicuddy's Manayunk\nFranklin's\nOishii Pok\u00e9\nFederals Donuts\nMcMenamin's Tavern\nCinCin Restaurant"
+        ]
+    }
+}

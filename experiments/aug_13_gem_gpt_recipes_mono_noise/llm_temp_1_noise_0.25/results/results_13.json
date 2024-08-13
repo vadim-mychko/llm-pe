@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled or roasted fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like foods with alcohol?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork products?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tuna or salmon in a creamy base, hot pot, or low-fat diced fried potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like homemade soup in general?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian meatloaf?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. Baked chicken breasts stuffed with bacon and mozzarella\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Shredded barbecued pork shoulder\n6. Fried shrimp and scallops\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Pork chops glazed with milk and cooked without nuts\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Milkshake made with fresh strawberries and ice cream",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Shredded barbecued pork shoulder\n6. Sticky rice wrapped pork shoulder for Chinese dragon boat festival \n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Baked breakfast bars made with nuts and seeds\n9. Grilled almonds\n10. Roasted almonds\n",
+            "Peach cobbler dessert containing whole wheat flour\nLow-fat coconut alcohol-free cocktail\nAlmonds coated with butter and salt\nHomemade soup with chicken, noodles, and spices\nBanana bread made with whole wheat flour and walnuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSimple creamy oyster soup\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSwedish meatballs\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime",
+            " Low-fat coconut alcohol-free cocktail\nHomemade soup with chicken, noodles, and spices\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nStrawberry milkshake\nBaked mozzarella cheese sticks with marinara sauce\nNuts coated with butter and salt\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nGluten-free, egg-free, dairy-free, nut-free fudge\nQueso made from melted cheese and chili peppers\nLarge portion fries with gravy and bacon\n''''",
+            "1. Low-fat coconut alcohol-free cocktail\n2. High protein skillet with rice and vegetables\n3. Vietnamese beef brisket noodle soup\n4. Baked breakfast bars made with nuts and seeds\n5. Calcium-rich soup made with broccoli and beans\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Saffron biryani with indian spices and boiled egg\n8. Garlic bread with cheddar, green onions, and mayonnaise\n9. Strawberry and chocolate flavored cake dessert\n10. Stuffed chicken breasts with onions\n'''",
+            " Low-fat coconut alcohol-free cocktail\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSmoothie made from banana puree with milk\nMozzarella dip recipe\nSmoothie made from fruit juice and bananas\nPeppermint chocolate bonbon\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMilkshake made with fresh strawberries and ice cream\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Low fat diced baked or fried potatoes\n3. Low fat smoothies made with greek yogurt, and pineapple\n4. Mildly spicy chili recipe\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Mozzarella cheese dip recipe\n7. Mozzarella dip recipe\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Pork chops glazed with milk and cooked without nuts\n10. Oreo pie made with Oreo cookies, butter, milk, and a tub of cool whip\n",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Spicy bean salad with bacon\n6. Chinese hot pot rice noodles with beef breast meat fried with dipping sauce\n7. Saut\u00e9ed vegetables: green beans, zucchini, and red pepper with hoisin sauce\n8. Rice noodles with shrimp, ground meat, and vegetables\n9. Chow Mein with shrimp, soy sauce, vegetables, garlic, and ginger\n10. Chicken stir-fry with garlic sauce\n",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Korean soup containing beef brisket and flavoured with red pepper powder\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Stir-fried tofu, noodles and vegetables Bento\n9. Taiwanese deep fried crispy chicken cutlets\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n5. Spaghetti noodles with mussels, anchovy fillets, and capers\n6. Fried shrimp and scallops\n7. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n10. Taiwanese deep fried crispy chicken cutlets"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "46": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in foreign films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fantasy movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with robots or dragons?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie with a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 90's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that is futuristic?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about magic?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. The Blair Witch Project (1999)\n6. Naked Gun: From the Files of Police Squad!, The (1988)\n7. No Man's Land (2001)\n8. Sure Thing, The (1985)\n9. Face/Off (1997)\n10. Brewster's Millions (1985)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Terminator 3: Rise of the Machines (2003)\n5. What's Up, Doc? (1972)\n6. Von Ryan's Express (1965)\n7. Ready Player One \n8. Breach (2007)\n9. Timeline (2003)\n10. Big Red One, The (1980)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n3. A.I. Artificial Intelligence (2001)\n4. Control (2007)\n5. Stranger than Fiction (2006)\n6. Robot & Frank (2012)\n7. Mr. Holmes (2015)\n8. The Big Lebowski (1998)\n9. Real Genius (1985)\n10. The Grapes of Wrath (1940)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. The Last Temptation of Christ (1988)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. The Proposition (2005)\n6. The Book of Eli (2010)\n7. The One (2001)\n8. Constantine (2005)\n9. Dragonslayer (1981)\n10. Conan the Barbarian (1982)",
+            "1. Dragons \\n\n2. Transformers \\n\n3. Bladerunner 2049 \\n\n4. How to Train Your Dragon: The Hidden World \\n\n5. Alita: Battle Angel \\n\n6. Fantastic Beasts and Where to Find Them \\n\n7. Warcraft \\n\n8. The Princess Bride \\n\n9. The Martian \\n\n10. Ready Player One",
+            "1. Alita: Battle Angel (2019)\n2. The Land Before Time (1988)\n3. Clash of the Titans (1981)\n4. The Boy in the Striped Pajamas (2008)\n5. Eragon (2006)\n6. The NeverEnding Story (1984)\n7. The Hobbit: An Unexpected Journey (2012)\n8. Harry Potter and the Sorcerer's Stone (2001)\n9. The Princess Bride (1987)\n10. Star Wars: Episode IV - A New Hope (1977)",
+            "1. Dragonheart (1996)\n2. Krull (1983)\n3. Willow (1988)\n4. The Neverending Story (1984)\n5. Labyrinth (1986)\n6. Stardust (2007)\n7. Pan's Labyrinth (El laberinto del fauno) (2006)\n8. How to Train Your Dragon (2010)\n9. The Princess Bride (1987)\n10. The Secret of Kells (2009)(animated, fantasy)\n",
+            "1. Alita: Battle Angel (2019) \n2. Ant-Man (2015) \n3. Dungeons & Dragons (2000)\n4. Eragon (2006) \n5. King Kong (2005) \n6. Labyrinth (1986)\n7. Matrix, The (1999) \n8. Ready Player One \n9. Tron (1982) \n10. Willow (1988)\n",
+            "Tomb Raider (2018) \n Pirates of the Caribbean: At World's End (2007) \n Abraham Lincoln: Vampire Hunter (2012) \n August Rush (2007) \n The Last Action Hero (1993) \n Dracula (Bram Stoker's Dracula) (1992) \n The Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998) \n Ant-Man (2015) \n A.I. Artificial Intelligence (2001) \n Ready Player One",
+            "Monsters, Inc. (2001) \nAnt-Man (2015) \nA.I. Artificial Intelligence (2001) \nAlita: Battle Angel (2019) \nAutomata (2014) \nThe Dark Crystal (1982) \nHowl's Moving Castle (2004) \nThe NeverEnding Story (1984) \nSpirited Away (2001) \nValerian and the City of a Thousand Planets (2017)"
+        ]
+    }
+}

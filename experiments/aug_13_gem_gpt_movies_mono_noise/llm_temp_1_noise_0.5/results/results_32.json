@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie where people travel through time?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with lots of action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie where people go on different adventures?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a strong female protagonist where people travel through time?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie similar to Avengers: Endgame (2019)?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Armageddon (1998)\n3. Die Hard 2 (1990)\n4. The Last Action Hero (1993)\n5. True Lies (1994)\n6. Face/Off (1997)\n7. Con Air (1997)\n8. The Rock (1996)\n9. Speed (1994)\n10. Bad Boys (1995)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Matrix Reloaded, The (2003)\n4. Fantastic Four: Rise of the Silver Surfer (2007)\n5. X-Men: The Last Stand (2006)\n6. Hancock (2008)\n7. Speed Racer (2008)\n8. The Incredible Hulk (2008)\n9. Jumper (2008)\n10. Babylon A.D. (2008)",
+            "1. Martyrs (2008)\n2. Bernie (2011)\n3. A.I. Artificial Intelligence (2001)\n4. Drugstore Cowboy (1989)\n5. American Graffiti (1973)\n6. Dangerous Liaisons (1988)\n7. The Lost World: Jurassic Park (1997)\n8. One Hour Photo (2002) \n9. Strange than Fiction (2006) \n10. Face/Off (1997) ",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Timeline (2003)\n3. Ant-Man (2015)\n4. Europa (1991)\n5. Ready Player One\n6. A.I. Artificial Intelligence (2001)\n7. Back to the Future (1985)\n8. The Terminator (1984)\n9. Predestination (2014)\n10. Primer (2004)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Timeline (2003)\n3. A.I. Artificial Intelligence (2001)\n4. The Big Red One (1980)\n5. Face/Off (1997)\n6. Eragon (2006)\n7. King Kong (2005)\n8. Von Ryan's Express (1965)\n9. The Hurricane (1999)\n10. Nightcrawler (2014)\n",
+            "Terminator 3: Rise of the Machines (2003) \nA.I. Artificial Intelligence (2001) \nTimeline (2003) \nReady Player One \nReal Steel (2011) \nTrapped (2002) \nFace/Off (1997) \nKing Kong (2005) \nLost in Translation (2003) \nEragon (2006)",
+            "Terminator 3: Rise of the Machines (2003) \\n\nTimeline (2003) \\n\nA.I. Artificial Intelligence (2001) \\n\nAnt-Man (2015) \\n\nReal Steel (2011) \\n\nRobot & Frank (2012) \\n\nThe Last Supper (1995) \\n\nEragon (2006) \\n\nBlack Robe (1991) \\n\n(500) Days of Summer (2009)\n",
+            "Tomb Raider (2018) \\n\nTerminator 3: Rise of the Machines (2003) \\n\nTimeline (2003) \\n\nA.I. Artificial Intelligence (2001) \\n\nReady Player One \\n\nEnter the Void (2009) \\n\nReal Steel (2011) \\n\nMr. Holmes (2015) \\n\nRobot & Frank (2012) \\n\nKing Kong (2005)\n''''",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. The Land Before Time (1988) \n4. Back to the Future (1985) \n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n6. Edge of Tomorrow (2014) \n7. Predestination (2014) \n8. Timecop (1994)\n9. Primer (2004) \n10. About Time (2013)",
+            "Terminator 3: Rise of the Machines (2003) \\n\nA.I. Artificial Intelligence (2001) \\n\nTimeline (2003) \\n\nReady Player One \\n\nReal Steel (2011) \\n\nBig Red One, The (1980) \\n\nThe Big Lebowski (1998) \\n\nFace/Off (1997) \\n\nEragon (2006)"
+        ]
+    }
+}

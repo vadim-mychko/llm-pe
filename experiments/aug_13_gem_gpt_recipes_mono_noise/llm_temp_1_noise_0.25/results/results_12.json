@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in breakfast dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan-based food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you vegetarian or vegan?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer soups that use a calcium-fortified broth?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like creamy soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups that contain seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Roasted almonds\n2. Banana bread made with whole wheat flour and walnuts\n3. Large portion fries with gravy and bacon\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Chocolate and orange-flavoured smoothie\n6. Mozzarella dip recipe\n7. Meatballs made with ground beef and ground pork\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Baked breakfast bars made with nuts and seeds\n10. Peppermint chocolate bonbon",
+            "Pork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nRoasted almonds\nMushrooms coated with butter and salt\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast in a slow cooker\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears",
+            "Grilled salmon seasoned with salt and pepper\n****\nBaked spinach quiche containing bacon\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nChicken cooked and flavored with lemon sauce\n****\nSaut\u00e9ed asparagus cooked in a Caesar salad dressing\n****\nBaked salmon with garlic and Parmesan\n****\nLow fat diced baked or fried potatoes\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n****\nHomemade soup with chicken, noodles, and spices\n****\nSmoothie made from banana puree with milk\n****\nCrispy pork belly skin cooked to a golden texture\n****\nLow fat assorted fruit dessert\n****\nEggless sauerkraut cake\n****\nPasta with spaghetti noodles and tomato sauce\n****\nBanana bread made with whole wheat flour and walnuts\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****\nAssorted cheese soup with chicken\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nCheese and olive appetizer made to look like an eyeball\n****\nBread made swiss style with swiss cheese\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSoup made from onions, carrots, and celery ribs\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nChocolate and orange-flavoured smoothie\n****\nSlushie drink made from orange juice blended with ice\n****\nCheesecake made with cream cheese\n****\nFried shrimp and scallops\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nNorway cake with lingonberry and whipped cream layers\n----",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nHot pot that is not spicy",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nCreamy base with dill flavoring, eggs, and noodles\nAssorted cheese soup with chicken\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nHomemade soup with chicken, noodles, and spices\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans",
+            " Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nVegetable soup\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\n''''",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Soup made from onions, carrots, and celery ribs\n****\n Simple creamy oyster soup\n****\n Soup made with vegetables and chicken\n****\n Calcium-rich soup made with broccoli and beans\n****\n Cheese and vegetable soup with a beer broth\n****\n Polish sausage with fermented cabbage",
+            "Creamy base with dill flavoring, eggs, and noodles\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nAssorted cheese soup with chicken\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nLow fat ground turkey that is low fat, high carb\nSoup made with ground turkey that is low fat, high carb\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\n'''",
+            "Creamy base with dill flavoring, eggs, and noodles\nHomemade soup with chicken, noodles, and spices\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "15": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a grilled item?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like coconut?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like French-food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like squash?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like potatoes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Salmon roasted with olive oil, chives, and tarragon leaves\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Pork chops glazed with milk and cooked without nuts\n5. Roasted almonds\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Spanish rice with chicken breast\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Baked mozzarella cheese sticks with marinara sauce",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Poke of tofu, mushroom and tomatoes\n3. Grilled salmon seasoned with salt and pepper\n4. Low sugar applesauce cupcakes\n5. Assorted cheese soup with chicken\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Shredded barbecued pork shoulder\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Chicken cooked and flavored with lemon sauce",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Low fat assorted fruit dessert\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Peppermint chocolate bonbon\n8. Low sugar applesauce cupcakes\n9. Calcium-rich soup made with broccoli and beans\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            " Baked breakfast bars made with nuts and seeds\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n Peach cobbler dessert containing whole wheat flour\n Berry cobbler that uses frozen mixed berries\n Norwegian cake with lingonberry and whipped cream layers\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n Low sugar applesauce cupcakes\n Sugar-free peanut butter cookies\n Jam made from blackberries, lemon juice, and sugar\n Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nCheese and olive appetizer made to look like an eyeball\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nFrench duck confit preserved by duck oil\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n'''",
+            " Chocolate and orange-flavoured smoothie \\n\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\n Spaghetti noodles with mussels, anchovy fillets, and capers \\n\n Cheese and olive appetizer made to look like an eyeball \\n\n Bread made swiss style with swiss cheese \\n\n Salmon roasted with olive oil, chives, and tarragon leaves \\n\n Norway cake with lingonberry and whipped cream layers \\n\n Italian salad made from romain lettuce, artichokes, and tomatoes \\n\n Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes \\n\n Baked spinach quiche containing bacon",
+            "Baked spinach quiche containing bacon\nHigh protein skillet with rice and vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nGrilled beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nKorean soup containing beef brisket and flavoured with red pepper powder\nPeppermint chocolate bonbon",
+            "Baked mozzarella cheese sticks with marinara sauce\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nGrilled salmon seasoned with salt and pepper\nPork chops glazed with milk and cooked without nuts\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef stew made with beef, carrots and potatoes\nMeatballs made with ground beef and ground pork",
+            "1. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n2. Cheese and olive appetizer made to look like an eyeball\n3. Bread made swiss style with swiss cheese\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Grilled salmon seasoned with salt and pepper\n7. Pork chops glazed with milk and cooked without nuts\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Grilled beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n",
+            "1. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Meat loaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Baked potato fries made with cajun seasoning\n7. Pork chops glazed with milk and cooked without nuts\n8. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n9. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n10. Fried shrimp and scallops"
+        ]
+    }
+}

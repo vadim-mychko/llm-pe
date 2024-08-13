@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Looking for Dim Sum or Cantonese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for anything beyond the Dim Sum & Cantonese cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer more modern style American (such as burgers and pizza) or more traditional American comfort food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Chinese or Asian Fusion restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Japanese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Is Malaysian cuisine of interest to you?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Korean restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Sang Kee Peking Duck House \n2. Canton 11 \n3. Dim Sum House \n4. Daleng Restaurant \n5. Pearl's Oyster Bar \n6. Olive Garden Italian Restaurant \n7. A Tutti, Ristorante Italiano \n8. Tu's Tea & Banh Mi South Philly \n9. Macaroni's Restaurant \n10. PrimoHoagies",
+            " Dim Sum House \nSang Kee Peking Duck House \nCanton 11 \nGolden Triangle \nDaleng Restaurant \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nFederal Donuts",
+            "Dim Sum House \nCanton 11 \nSang Kee Peking Duck House \nKC's Pastries \nVeda - Modern Indian Bistro \nGolden Triangle \nDaleng Restaurant \nPearl's Oyster Bar \nBistro SouthEast \nThe Green Line Cafe",
+            "Dim Sum House \\n\nGolden Triangle \\n\nCanton 11 \\n\nOishii Pok\u00e9 \\n\nSister Muhammad's Kitchen \\n\nNorth Bowl \\n\nVedge \\n\nCinCin Restaurant \\n\nEssene Market & Caf\u00e9 \\n\nThe Blue Duck\n",
+            "1. Dim Sum House \n2. Canton 11 \n3. Daleng Restaurant \n4. Sang Kee Peking Duck House \n5. Miga Korean BBQ & Sushi \n6. Bistro SouthEast \n7. Golden Triangle \n8. Kokopelli Restaurant & Tequila Bar\n9. Veda - Modern Indian Bistro \n10. CinCin Restaurant",
+            "Dim Sum House \nChinatown 11 \nDaleng Restaurant \nSang Kee Peking Duck House \nBistro SouthEast \nFederal Donuts \nCantonese Gourmet \nMiso Tasty \nLucky's Last Chance \nZahav",
+            " Canton 11 \nDim Sum House \nMiga Korean BBQ & Sushi \nBistro SouthEast \nChinese\nKoi\nPearl's Oyster Bar \nZama\nTalula's Garden \nIzumi",
+            "Dim Sum House\nCanton 11\nGolden Triangle\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nGrain Exchange\nNorth Bowl\nJake's & Cooper's Wine Bar & Wine Shop\nChinatown Garden\nTampopo",
+            " Canton 11 \nDim Sum House \nVeda - Modern Indian Bistro \nGolden Triangle \nThe QUICK FIXX \nBistro SouthEast \nKokopelli Restaurant & Tequila Bar \nShang Kee Peking Duck House \nMonster Vegan \nMiga Korean BBQ & Sushi",
+            "Canton 11 \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nCinCin Restaurant \\n\nChinatown Garden \\n\nDim Sum House \\n\nFederal Donuts \\n\nThe QUICK FIXX"
+        ]
+    }
+}

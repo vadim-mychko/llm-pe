@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in international film?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies set in other countries during time periods besides the present?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romance based in the 19th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a foreign film?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a foreign film set during present time?",
+                "response": "no"
+            },
+            {
+                "query": "Have you seen any movies by Guillermo del Toro?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a period piece action film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with action or adventure elements?",
+                "response": "yes"
+            },
+            {
+                "query": "Sorry, I don't have any period piece foreign films to show you with action or adventure elements. Do you still want to see other types of movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an action or adventure film?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Here is a list of 10 relevant movies for you:\n1. Pirates of the Caribbean: At World's End (2007) \n2. Laurence Olivier (1981) \n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Europa (Zentropa) (1991) \n5. Delicatessen (1991) \n6. Lost in Translation (2003)\n7. Black Robe (1991) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. The Proposition (2005) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Europa (Zentropa) (1991)\n3. Cronos (1993)\n4. Black Robe (1991)\n5. Last Temptation of Christ, The (1988)\n6. Laura (1944)\n7. The Piano (1993)\n8. Delicatessen (1991)\n9. Cach\u00e9 (Hidden) (2005)\n10. Monsieur Hire (1989)\n",
+            "1. Von Ryan's Express (1965)\n2. Terminator 3: Rise of the Machines (2003)\n3. Wrath of Man (2021)\n4. King Kong (2005)\n5. Trance (2013)\n6. Labyrinth (1986)\n7. Hanna (2011)\n8. Black Hawk Down (2001)\n9. Die Hard (1988)\n10. The Bourne Identity (2002)",
+            "1. Europa (Zentropa) (1991)\n2. Chungking Express (Chung Hing sam lam) (1994)\n3. Secret of Kells, The (2009)\n4. How High (2001)\n5. Enter the Void (2009)\n6. Delicatessen (1991)\n7. Trapped (2002)\n8. Robot & Frank (2012)\n9. Last Supper, The (1995)\n10. Cronos (1993)",
+            "1. Enter the Void (2009)\n2. Lost in Translation (2003)\n3. Delicatessen (1991)\n4. Cronos (1993)\n5. Jane Eyre (1996)\n6. Rosetta (1999)\n7. Run (1991)\n8. Children of Men (2006)\n9. The City of Lost Children (1995)\n10. Amores Perros (2000)",
+            " Chungking Express (Chung Hing sam lam) (1994) \\n\n10 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\nLost in Translation (2003) \\n\nBlack Robe (1991) \\n\nEurope (Zentropa) (1991) \\n\nDelicatessen (1991) \\n\nIntolerable Cruelty (2003) \\n\nEnter the Void (2009) \\n\nThe Last Supper (1995) \\n\nThe Man from Earth (2007)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Europa (Zentropa) (1991)\n3. No Man's Land (2001)\n4. The Last Supper (1995)\n5. Delicatessen (1991)\n6. The Proposition (2005)\n7. Black Robe (1991)\n8. Thomas Crown Affair, The (1968)\n9. Cronos (1993)\n10. Bad Education (La mala educaci\u00f3n) (2004)",
+            "1. Von Ryan's Express (1965) \n2. Europa (Zentropa) (1991) \n3. Deliverance (1972) \n4. The Last Samurai (2003) \n5. Ran (1985) \n6. Rob Roy (1995) \n7. Last of the Mohicans, The (1992)\n8. Braveheart (1995) \n9. The Way Back (2010) \n10. King Kong (2005)\n",
+            "A.I. Artificial Intelligence (2001)\nBlack Robe (1991)\nEuropa (Zentropa) (1991)\nIntolerable Cruelty (2003)\nLost in Translation (2003)\nMr. Holmes (2015)\nOut of Sight (1998)\nRobot & Frank (2012)\nStranger than Fiction (2006)\nVon Ryan's Express (1965)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Pirates of the Caribbean: At World's End (2007)\n3. The Last Airbender (2010)\n4. G.I. Joe: The Rise of Cobra (2009)\n5. Troy (2004)\n6. Gladiator (2000)\n7. Kingdom of Heaven (2005)\n8. 300 (2006)\n9. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)\n10. Van Helsing (2004)"
+        ]
+    }
+}

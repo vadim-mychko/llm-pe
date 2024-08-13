@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "What about Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you tried vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have any interest in salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a restaurant that also serves food delivery services?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer salad restaurants with a breakfast and brunch menu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to try a chocolate cake?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nLe Pain Quotidien\nHeritage\nGrain Exchange\nIzumi\nA Tutti, Ristorante Italiano\nThe Milk House",
+            "A Tutti, Ristorante Italiano \nCastellino's \nMacaroni's Restaurant \nPrimoHoagies \nTalluto's Authentic Italian Food \nRistorante La Buca \nOteri's Italian Bakery | North 5th St \nFiorentina Pizzeria \nAl Dino's Pizza \nOlive Garden Italian Restaurant",
+            "A Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nBetty's Speakeasy \\n\nPrimoHoagies \\n\nNorth Bowl \\n\nFiore Fine Foods \\n\nEvan's Pizza",
+            "Monster Vegan \\n\nPrimoHoagies \\n\nThe QUICK FIXX \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nLisa's Kitchen \\n\nBetty's Speakeasy \\n\nTrolley Car Diner \\n\nThe Coffee Bar \\n\nGreen Leafs & Bananas",
+            "1. Monster Vegan\n2. The QUICK FIXX \n3. Tu's Tea & Banh Mi South Philly \n4. Green Leafs & Bananas\n5. Betty's Speakeasy\n6. Daleng Restaurant\n7. Fiore Fine Foods\n8. The Green Line Cafe\n9. PrimoHoagies\n10. A Tutti, Ristorante Italiano",
+            "1.  Monster Vegan\n2.  The QUICK FIXX\n3.  The Green Line Cafe\n4.  Spread Bagelry\n5.  Betty's Speakeasy\n6.  Macaroni's Restaurant\n7.  Jake's & Cooper's Wine Bar & Wine Shop\n8.  Roy-Pitz Barrel House\n9.  ZUzu's Kitchen\n10. A Tutti, Ristorante Italiano",
+            "- Monster Vegan \n- The QUICK FIXX \n- The Green Line Cafe \n- Green Leafs & Bananas \n- Fiore Fine Foods \n- Macaroni's Restaurant \n- PrimoHoagies \n- Zuzu's Kitchen \n- Daleng Restaurant \n- The Juice Merchant",
+            "Monster Vegan \\n\nThe QUICK FIXX \\n\nThe Juice Merchant \\n\nPrimoHoagies \\n\nCastellino's \\n\nLuvh Vegan Deli \\n\nSpread Bagelry \\n\nZuzu's Kitchen \\n\nMacaroni's Restaurant \\n\nA Tutti, Ristorante Italiano",
+            "Monster Vegan \\n\nVedge \\n\nHey Hummus \\n\nLuvh Vegan Deli \\n\nGreen Leafs & Bananas \\n\nThe QUICK FIXX \\n\nSpread Bagelry \\n\nTu's Tea & Banh Mi South Philly \\n\nBetty's Speakeasy \\n\nThe Green Line Cafe",
+            " Monster Vegan \nMood Indian Restaurant\nHey Hummus \nVedge \nThe Juice Merchant \nThe QUICK FIXX \nGreen Leafs & Bananas \nBenna's Cafe \nEssene Market & Caf\u00e9 \nLucky's Last Chance"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 80's or 90's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a classic drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's set in a futuristic science fiction world?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that's about computers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Piano (1993) \n2. Ant-Man (2015) \n3. August Rush (2007) \n4. Sure Thing, The (1985) \n5. The Proposition (2005) \n6. Secret of Kells, The (2009) \n7. Meet John Doe (1941) \n8. A.I. Artificial Intelligence (2001) \n9. Kontroll (2003) \n10. Drugstore Cowboy (1989)",
+            "****\n Movie Title: Monsters, Inc. (2001) \\n Genres: Adventure, Animation, Children, Comedy, Fantasy \\n Tags: Pixar, funny, Comedy, cute, animation, Animation, Disney, innovative, hilarious, John Goodman, Steve Buscemi, monsters, original, Oscar (Best Music - Original Score), Pixar animation, animated, Billy Crystal, CGI, Oscar (Best Music - Original Song), comedy\n****\n Movie Title: Lost in Translation (2003) \n Genres: Comedy, Drama, Romance \n Tags: atmospheric, Bill Murray, Scarlett Johansson, Melancholic, Japan, bittersweet, complex characters, reflective, loneliness, intelligent, tokyo, relationships, Amazing Cinematography, isolation, visually appealing, poignant, Sofia Coppola, boring, nocturnal, friendship\n****\n Movie Title: Runaway Train (1985) \\n Genres: Action, Adventure, Drama, Thriller \\n Tags: prison escape, Andrei Konchalovsky, Andrey Konchalovskiy, trains, Betamax, CLV, Director: Andrey Konchalovskiy, Eric Roberts, Jon Voight, Kenneth McMillan, Kyle T. Heffner, Rebecca De Mornay, T.K. Carter, Writer: Akira Kurosawa, Writer: Djordje Milicevic, Writer: Edward Bunker, Writer: Hideo Oguni, Writer: Paul Zindel, Writer: Ry\\u00fbz\\u00f4 Kikushima, alaska\n****\n Movie Title: August Rush (2007) \n Genres: Drama, Musical \n Tags: inspirational, power of music, music, love of music, thought-provoking, uplifting and compelling, unique, Freddie Highmore, Jonathan Rhys Meyers, Musical, KAF, Kaki King, Kirsten Sheridan, Robin Williams, builds up, children, different but very good, forbidden love, guitar, holes in the plot\n****\n Movie Title: Big Lebowski, The (1998) \n Genres: Comedy, Crime \n Tags: dark comedy, cult film, great dialogue, black comedy, satirical, Coen Brothers, coen brothers, quirky, Jeff Bridges, comedy, bowling, off-beat comedy, Steve Buscemi, Philip Seymour Hoffman, drugs, John Goodman, Cult classic, great soundtrack, marijuana, sarcasm\n****\n Movie Title: American Graffiti (1973) \n Genres: Comedy, Drama \n Tags: coming of age, George Lucas, rock and roll, friendship, teen, cars, 1960s, nocturnal, great soundtrack, AFI 100, Feel Good, california, classic, love, low budget, radio, wired 50 greatest soundtracks, 1950's, 20th Century, AFI #77\n****\n Movie Title: Control (2007) \n Genres: Drama \n Tags: music, joy division, black and white, suicide, biography, epilepsy, rock and roll, cinematography, true story, Anton Corbijn, EXTRAMARITAL AFFAIRS, Ian Curtis, beautiful, early punk, great acting, great music, hanging, heartwrenching, manchester, marriage\n****\n Movie Title: The Grapes of Wrath (1940) \\n Genres: Drama \n Tags: Great Depression, adapted from:book, Social Drama, based on a book, imdb top 250, Oscar (Best Directing), Oscar (Best Supporting Actress), depressing, poverty, John Ford, struggle, 100 Greatest Movies, Henry Fonda, John Steinbeck, Charley Grapewin, Jane Darwell, National Film Registry, author:John Steinbeck, AFI 100, americana\n****\n Movie Title: Umberto D. (1952) \n Genres: Drama \n Tags: Vittorio De Sica, Criterion, imdb top 250, meditative, BD-R, DVD-Video, Italian neorealism, Janus 50, bleak, despair, dog, dogs, downbeat, drab, economic depression, elderly, holes50s, hospital, human condition, hunger\n****\n Movie Title: Eragon (2006) \n Genres: Action, Adventure, Fantasy \n Tags: dragons, bad acting, cliche, based on a book, fantasy, predictable, teen, Jeremy Irons, John Malkovich, audience intelligence underestimated, Horrible adaptation of the book, Major dissapointment, Weak directing, destiny, legend, magic, A tribute movie butchered by the short sidedness, Nice adaptation of the book, coming of age, dialogue\n****",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. August Rush (2007)\n4. Last Action Hero (1993)\n5. St. Elmo's Fire (1985)\n6. How High (2001)\n7. The Big Red One (1980)\n8. Big Lebowski, The (1998)\n9. American Graffiti (1973)\n10. Brewster's Millions (1985)\n",
+            "1. August Rush (2007) \n2. Crimes and Misdemeanors (1989)\n3. The Secret of Kells (2009) \n4. Searching (2018) \n5. Meet John Doe (1941) \n6. Hurricane, The (1999) \n7. Stranger than Fiction (2006) \n8. Mr. Holmes (2015) \n9. Grapes of Wrath, The (1940) \n10. Umberto D. (1952)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952) \n3. August Rush (2007)\n4. Searching (2018) \n5. Homeward Bound: The Incredible Journey (1993)\n6. Crimes and Misdemeanors (1989)\n7. Stranger than Fiction (2006) \n8. Intolerable Cruelty (2003) \n9. Real Genius (1985) \n10. The Big Lebowski (1998)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Terminator 3: Rise of the Machines (2003)\n3. Delicatessen (1991)\n4. August Rush (2007)\n5. 50 First Dates (2004)\n6. A.I. Artificial Intelligence (2001)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. Intolerable Cruelty (2003)\n9. Mr. Holmes (2015)\n10. Lost in Translation (2003)",
+            "1. Term of Endearment (1983)\n2. No Man's Land (2001)\n3. The Departed (2006)\n4. Stranger Than Fiction (2006)\n5. Lost in Translation (2003)\n6. Intolerable Cruelty (2003)\n7. Bruce Almighty (2003)\n8. 5 Centimeters per Second (By\u014dsoku 5 senchim\u00eatoru) (2007)\n9. Enter the Void (2009)\n10. Darkman (1990)",
+            "1. The Big Lebowski (1998)\n2. Nightcrawler (2014)\n3. The Departed (2006)\n4. The Big Red One (1980)\n5. Cronos (1993)\n6. Umberto D. (1952)\n7. Black Robe (1991)\n8. American Graffiti (1973)\n9. The Grapes of Wrath (1940)\n10. Bruce Almighty (2003)\n",
+            "1. Searching (2018)\n2. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n3. August Rush (2007)\n4. The Last Action Hero (1993)\n5. Lost in Translation (2003)\n6. Secret of Kells, The (2009)\n7. The Princess Bride (1987)\n8. We Bought a Zoo (2011)\n9. Control (2007)\n10. Enter the Void (2009)",
+            "Monsters, Inc. (2001)\nAugust Rush (2007)\nThe Secret of Kells (2009)\nAnt-Man (2015)\nHomeward Bound: The Incredible Journey (1993)\nBig Red One, The (1980)\nReal Steel (2011)\nRobot & Frank (2012)\nMr. Holmes (2015)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Do you have any interest in children's movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a heist movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies about artists?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie with a deep musical soundtrack?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies that are slow-paced?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with a nice soundtrack but a visually appealing, fast-paced plot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a musical?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary about musicians?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies about jazz bands?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Terminator 3: Rise of the Machines (2003) \n3. Alita: Battle Angel (2019) \n4. A.I. Artificial Intelligence (2001) \n5. Timeline (2003) \n6. Ready Player One \n7. Real Steel (2011) \n8. American Graffiti (1973) \n9. King Kong (2005) \n10. Eragon (2006)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Ant-Man (2015)\n5. The Thomas Crown Affair (1968)\n6. Transporter 2 (2005)\n7. Bruce Almighty (2003)\n8. Intolerable Cruelty (2003)\n9. The Big Lebowski (1998)\n10. Face/Off (1997)",
+            " August Rush (2007) \n The Piano (1993)\n All Quiet on the Western Front (1930) \n How High (2001) \n Out of Sight (1998) \n Magnolia (1999) \n Home Alone: The Holiday Heist \n Meet John Doe (1941) \n What's Up, Doc? (1972) \n Bruce Almighty (2003)",
+            "1. August Rush (2007) \n2. One Hour Photo (2002) \n3. Chuck Berry: Hail! Hail! Rock 'n' Roll (1987)\n4. Dreamgirls (2006) \n5. Walking on Sunshine (2014) \n6. Radio (2003) \n7. That Thing You Do! (1996) \n8. 24 Hour Party People (2002) \n9. Control (2007) \n10. Grace of My Heart (1996) \n",
+            "1. August Rush (2007) \n2. One Hour Photo (2002) \n3. Man from Earth, The (2007) \n4. Magnolia (1999) \n5. Dangerous Liaisons (1988) \n6. A.I. Artificial Intelligence (2001) \n7. Hedwig and the Angry Inch (2001) \n8. Stranger than Fiction (2006) \n9. Walk the Line (2005) \n10. Whiplash (2014)",
+            "1. Lost in Translation (2003) \n2. A.I. Artificial Intelligence (2001) \n3. The Piano (1993) \n4. August Rush (2007) \n5. One Hour Photo (2002) \n6. The Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998) \n7. How High (2001) \n8. Boogie Nights (1997) \n9. Standing in the Shadows of Motown (2002)\n10. The Commitments (1991)",
+            "1. Out of Sight (1998)\n2. The Proposition (2005)\n3. August Rush (2007)\n4. Almost Famous (2000)\n5. Honey (2003)\n6. The Great Muppet Caper (1981)\n7. School of Rock (2003)\n8. Rock of Ages (2012)\n9. Sp\u0131n\u0308al Tap (1984)\n10. Purple Rain (1984)",
+            "August Rush (2007)\nMusical, Drama\nJimmy Fallon, Terrence Howard, Keri Russell, Robin Williams\n\nOne Hour Photo (2002) \nDrama, Thriller\nRobin Williams, Connie Nielsen, Michael Vartan\n\nThe Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998) \nDrama\nTim Roth, Pruitt Taylor Vince, M\u00e9lanie Thierry\n\nOnce (2007) \nDrama, Musical, Romance\nGlen Hansard, Mark\u00e9ta Irglov\u00e1, Dan Herdman\n\nBegin Again (2013) \nComedy, Drama, Music\nKeira Knightley, Mark Ruffalo, Hailee Steinfeld\n\nAcross the Universe (2007) \nDrama, Musical, Romance\nEvan Rachel Wood, Jim Sturgess, Joe Anderson\n\nFrank (2014) \nComedy, Drama, Music\nDomhnall Gleeson, Maggie Gyllenhaal, Michael Fassbender\n\nSing Street (2016) \nComedy, Drama, Music\nFerdia Walsh-Peelo, Lucy Boynton, Aidan Gillen\n\nThe Sapphires (2012) \nComedy, Drama, Music\nDeborah Mailman, Jessica Mauboy, Shari Sebbens\n\nPitch Perfect (2012) \nComedy, Drama, Music\nAnna Kendrick, Skylar Astin, Rebel Wilson",
+            "1. The Last Waltz (1978)\n2. Searching for Sugar Man (2012)\n3. Buena Vista Social Club (1999)\n4. Anvil! The Story of Anvil (2008)\n5. The Decline of Western Civilization Part II: The Metal Years (1988)\n6. 20 Feet from Stardom (2013)\n7. Muscle Shoals (2013)\n8. Amy (2015)\n9. One More Time with Feeling (2016)\n10. Echo in the Canyon (2019)",
+            "1. Lost in Translation (2003)\n2. Corporation, The (2003)\n3. Control (2007)\n4. Get Back (2021)\n5. Searching for Sugar Man (2012)\n6. 20 Feet from Stardom (2013)\n7. Once (2007)\n8. Buena Vista Social Club (1999)\n9. Jimi Hendrix (1973)\n10. The Wrecking Crew (2008)\n"
+        ]
+    }
+}

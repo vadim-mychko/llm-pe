@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in movies where one person pretends to be another?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that interests you in politics?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie that's dark and violent?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the movie set in the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies with robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a visually appealing movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that deal with corporations?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. Terminator 3: Rise of the Machines (2003)\n6. Face/Off (1997)\n7. Darkman (1990)\n8. Thomas Crown Affair, The (1968)\n9. Intolerable Cruelty (2003)\n10. Brewster's Millions (1985)",
+            "1. Meet John Doe (1941)\n2. The Corporation (2003)\n3. Grapes of Wrath, The (1940)\n4. American Graffiti (1973)\n5. Fahrenheit 9/11 (2004)\n6. Bulworth (1998)\n7. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)\n8. The Best of Enemies (2019)\n9. Wag the Dog (1997)\n10. Twelve Angry Men (1957)",
+            "Planet of the Apes (1968) \nAll Quiet on the Western Front (1930) \n1984 (1984) \nTaxi Driver (1976) \nMeet John Doe (1941) \nThe Grapes of Wrath (1940) \nThe Corporation (2003) \nMalcolm X (1992) \nMilk (2008) \nFahrenheit 9/11 (2004)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Darkman (1990) \n3. The Matrix (1999)\n4. Ready Player One \n5. A.I. Artificial Intelligence (2001) \n6. Wall-E (2008) \n7. Her (2013) \n8. Ex Machina (2014) \n9. Minority Report (2002) \n10. Blade Runner 2049 (2017)",
+            "1. Hackers (1995)\n2. The Matrix (1999)\n3. Mr. Robot (2015)\n4. The Social Network (2010)\n5. Cyberbully (2015)\n6. Snowden (2016)\n7. Imitation Game, The (2014)\n8. The Fifth Estate (2013)\n9. Black Mirror (2011)\n10. Silicon Valley (2014)",
+            "1. Alita: Battle Angel (2019)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ant-Man (2015)\n4. Ready Player One \n5. Big Red One, The (1980)\n6. Real Steel (2011)\n7. Robot & Frank (2012)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Corporation (2003)\n10. Control (2007)",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Corporation (2003)\n3. Ready Player One\n4. Real Steel (2011)\n5. Bicentennial Man (1999)\n6. Robot & Frank (2012)\n7. Wall-E (2008)\n8. Ex Machina (2014)\n9. Her (2013)\n10. The Terminator (1984)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Big Red One, The (1980) \n4. Blade Runner 2049 (2017) \n5. Brazil (1985) \n6. Children of Men (2006) \n7. Dark City (1998) \n8. Dredd (2012) \n9. Ex Machina (2014) \n10. Inception (2010)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Robot & Frank (2012)\n3. Real Steel (2011)\n4. Wall-E (2008)\n5. Ex Machina (2014)\n6. Her (2013)\n7. 2001: A Space Odyssey (1968)\n8. Blade Runner (1982)\n9. Minority Report (2002)\n10. Children of Men (2006)",
+            "1. The Corporation (2003) \n2. A.I. Artificial Intelligence (2001)\n3. Control (2007)\n4. Real Steel (2011)\n5. The Big Lebowski (1998)\n6. Brewster\u2019s Millions (1985)\n7. Bruce Almighty (2003)\n8. Real Genius (1985)\n9. Meet John Doe (1941)\n10. Ant-Man (2015)"
+        ]
+    }
+}
