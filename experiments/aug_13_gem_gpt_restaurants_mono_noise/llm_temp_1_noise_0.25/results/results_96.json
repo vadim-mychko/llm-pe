@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Would you be interested in South East Asian foods, such as Thai or Vietnamese?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a place that serves Pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American(New) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar with a cocktail menu?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar with a wine list?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar with beer on tap?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nPrimoHoagies\nDaleng Restaurant\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nFederal Donuts\nMong Kok Station\nThe Tasty Toast\nHeritage",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nHeritage \nSang Kee Peking Duck House \nThe Continental Restaurant and Martini Bar \nFiore Fine Foods \nParc \nAudrey Claire \nSister Muhammad's Kitchen",
+            "Water Works Restaurant & Lounge \nGrain Exchange \nSang Kee Peking Duck House \nRistorante La Buca \nCo-op Restaurant & Lounge \nRoy-Pitz Barrel House \nNorth Bowl \nTu's Tea & Banh Mi South Philly \nAudrey Claire \nParc",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Misconduct Tavern \\n\nThe Tavern Restaurant \\n\nMaison 208 \\n\nRistorante La Buca \\n\nLucky's Last Chance \\n\nFranklin's \\n\nJack's Firehouse \\n\nThe El Bar \\n\nJD Mcgillicuddy's Manayunk \\n\nMad River Manayunk",
+            "Sister Muhammad's Kitchen\nFederal Donuts\nKC's Pastries\nSakana\nRick's Breakfast & Lunch\nTokyo Japanese Restaurant\nCabrini Cafe\nMercato Cafe Bar\nChristy's on Second\nCafe & Restaurant\nRomantic Restaurant",
+            "Veda - Modern Indian Bistro \nFederal Donuts \nPearl's Oyster Bar \nMacaroni's Restaurant \nTavern On the Hill \nMisconduct Tavern \nThe Tavern Restaurant \nWishbone \nFederal Donuts \nFederal Donuts \nThe El Bar \nBistro SouthEast \nRoy-Pitz Barrel House \nCook and Shaker \nAldine \nJack's Firehouse \nChestnut 7 \nLucky's Last Chance \nFranklin's \nFounding Fathers Sports Bar & Grill \nJD Mcgillicuddy's Manayunk \nJake's & Cooper's Wine Bar & Wine Shop \nFederal Donuts",
+            "Federal Donuts \nMacaroni's Restaurant \nCanton 11 \nMalbec Argentine Steakhouse \nRistorante La Buca \nLaCroix Restaurant at The Rittenhouse \nLacroix Restaurant at The Rittenhouse \nLucky's Last Chance \nParc \nCook and Shaker",
+            "1. Vedage\n2. Misconduct Tavern\n3. Lokal Tavern\n4. Cabin\n5. 5 O'Clock Charlie's\n6. The Bards\n7. P.J. Whelihan's\n8. Huddle House\n9. LouLou\n10. Mitchell's Family Restaurants",
+            "1. Daleng Restaurant\n2. The Tavern Restaurant\n3. CO-OP Restaurant & Lounge\n4. Sang Kee Peking Duck House\n5. CJ & Eck's\n6. McMenamin's Tavern\n7. Wawa\n8. Blackbird Pizzeria\n9. Sang Kee Peking Duck House\n10. Founding Fathers Sports Bar & Grill"
+        ]
+    }
+}

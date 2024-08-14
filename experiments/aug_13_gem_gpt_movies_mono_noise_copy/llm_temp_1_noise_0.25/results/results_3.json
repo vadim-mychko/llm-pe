@@ -1,0 +1,58 @@
+{
+    "3": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a documentary about a corporation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a political message?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the protagonist is an animal?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in medieval times?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with vampires?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie where it snows?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with nudity?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n2. What's Up, Doc? (1972) \n3. Alita: Battle Angel (2019) \n4. King Kong (2005) \n5. American Graffiti (1973) \n6. Alfred Hitchcock Presents (1985\u20131989)\n7. The Hitchhiker's Guide to the Galaxy (2005) \n8. Batman Begins (2005) \n9. Full Metal Jacket (1987) \n10. Equilibrium (2002)",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985) \\n\n3. Pirates of the Caribbean: At World's End (2007) \\n\n4. Laura (1944) \\n\n5. Tomb Raider (2018) \\n\n6. August Rush (2007) \\n\n7. The Blair Witch Project (1999) \\n\n8. Santa Sangre (1989) \\n\n9. Bernie (2011) \\n\n10. The Naked Gun: From the Files of Police Squad!, The (1988) \\n",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. The Big Lebowski (1998)\n6. Hachiko: A Dog's Story (2009)\n7. The Hurricane (1999)\n8. American Graffiti (1973)\n9. Real Genius (1985)\n10. Bruce Almighty (2003)",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985) \\n\n3. Terminator 3: Rise of the Machines (2003) \\n\n4. Searching (2018) \\n\n5. Ant-Man (2015) \\n\n6. The Hurricane (1999) \\n\n7. Ready Player One \\n\n8. Departed, The (2006) \\n\n9. Nightcrawler (2014) \\n\n10. Bruce Almighty (2003) \\n",
+            "Monsters, Inc. (2001) \nPirates of the Caribbean: At World's End (2007) \nAugust Rush (2007) \nThe Blair Witch Project (1999) \nThe Naked Gun: From the Files of Police Squad!, The (1988) \nA.I. Artificial Intelligence (2001) \nMemento (2000) \nReady Player One \nNightcrawler (2014) \nThe Big Lebowski (1998)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Metropolis (2001)\n4. Ant-Man (2015)\n5. Alita: Battle Angel (2019)\n6. Real Steel (2011)\n7. Robot & Frank (2012)\n8. The Big Red One (1980)\n9. Timeline (2003)\n10. Eragon (2006)",
+            "1. Vikings\n2. Dangerous Liaisons\n3. Ant-Man\n4. Moby Dick\n5. Timeline\n6. American Graffiti\n7. Face/Off\n8. Lost in Translation\n9. The Grapes of Wrath\n10. A Boy in the Striped Pajamas",
+            "1. Boys in the Striped Pajamas, The (2008)\n2. Disaster Movie (2008)\n3. Eragon (2006)\n4. Face/Off (1997)\n5. Hurricane, The (1988)\n6. Intolerable Cruelty (2003)\n7. Moby Dick (1956)\n8. Nightcrawler (2014)\n9. Terminator 3: Rise of the Machines (2003)\n10. Von Ryan's Express (1965)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988)\n2. Airplane! (1980)\n3. What's Up, Doc? (1972)\n4. Stir Crazy (1980)\n5. Brewster's Millions (1985)\n6. The Jerk (1979)\n7. Fletch (1985)\n8. Dragged Across Concrete (2018)\n9. Beverly Hills Cop (1984)\n10. 48 Hrs. (1982)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Terminator 3: Rise of the Machines (2003)\n5. Beaches (1988)\n6. Twister (1996)\n7. Jaws (1975)\n8. Trainspotting (1996)\n9. The Truman Show (1998)\n10. The Sixth Sense (1999)"
+        ]
+    }
+}

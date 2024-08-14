@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in watching a serious drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about philosophy and faith?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see an older movie set during war time?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to check out a movie about an older man growing old and having memory problems?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something to laugh at?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a mix of comedy, drama, and romance?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in watching a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a comedy set in the 80s?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Grapes of Wrath, The (1940) \n2. Umberto D. (1952)\n3. Last Temptation of Christ, The (1988) \n4. Drama, WarAll Quiet on the Western Front (1930) \t\n5. Magnolia (1999)\t\n6. Searching (2018)\n7. Hurricane, The (1999) \n8. Control (2007) \n9. Mr. Holmes (2015) \n10. Last Supper, The (1995)",
+            "1. Stranger than Fiction (2006)\n2. Departed, The (2006)\n3. Magnolia (1999)\n4. Grapes of Wrath, The (1940)\n5. Enter the Void (2009)\n6. Boys Don't Cry (1999)\n7. Cach\u00e9 (Hidden) (2005)\n8. Corporation, The (2003)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Dog Day Afternoon (1975)",
+            "1. The Proposition (2005)\n2. Magnolia (1999)\n3. Land Before Time, The (1988)\n4. Europa (Zentropa) (1991)\n5. Meet John Doe (1941)\n6. What's Up, Doc? (1972)\n7. Revolutionary Road (2008)\n8. American Graffiti (1973)\n9. Real Genius (1985)\n10. Jane Eyre (1996)",
+            "1. The Secret of Kells (2009)\n2. The Man from Earth (2007)\n3. Magnolia (1999)\n4. What's Up, Doc? (1972)\n5. The Corporation (2003)\n6. Enter the Void (2009)\n7. Mr. Holmes (2015)\n8. Stranger than Fiction (2006)\n9. Grapes of Wrath, The (1940)\n10. Cronos (1993)\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. Bagdad Cafe (1987)\n3. The Big Lebowski (1998)\n4. The Departed (2006)\n5. Good Will Hunting (1997)\n6. Memento (2000)\n7. Parasite (Gisaengchung) (2019)\n8. Pulp Fiction (1994)\n9. The Royal Tenenbaums (2001)\n10. The Wolf of Wall Street (2013)",
+            "1. The Big Lebowski (1998)\n2. Real Genius (1985)\n3. Brewster's Millions (1985)\n4. American Graffiti (1973)\n5. Tenacious D in The Pick of Destiny (2006)\n6. What's Up, Doc? (1972)\n7. Delicatessen (1991)\n8. UHF (1989)\n9. Strange Than Fiction (2006)\n10. Intolerable Cruelty, The (2003)",
+            "- The Big Lebowski (1998)\n- American Graffiti (1973)\n- What's Up, Doc? (1972)\n- Stranger than Fiction (2006)\n- Real Genius (1985)\n- UHF (1989)\n- Airplane! (1980)\n- The Pink Panther (1963)\n- Shaun of the Dead (2004)\n- 48 Hrs. (1982)",
+            "1. Monty Python and the Holy Grail (1975)\n2. The Big Lebowski (1998)\n3. What's Up, Doc? (1972)\n4. American Graffiti (1973)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. Brewster's Millions (1985)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Meet John Doe (1941)\n10. Delicatessen (1991)",
+            "The Big Lebowski, The (1998) \nAmerican Graffiti (1973) \nIntolerable Cruelty (2003) \nReal Genius (1985) \nBruce Almighty (2003) \nKing Kong (2005) \nTenacious D in The Pick of Destiny (2006) \nEragon (2006) \nThe Boy in the Striped Pajamas, The (2008) \nMeet John Doe (1941)",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. American Graffiti (1973)\n4. Big Lebowski, The (1998)\n5. National Lampoon's Vacation (1983)\n6. Animal House (1978)\n7. Porky's (1981)\n8. Revenge of the Nerds (1984)\n9. Risky Business (1983)\n10. The Breakfast Club (1985)"
+        ]
+    }
+}

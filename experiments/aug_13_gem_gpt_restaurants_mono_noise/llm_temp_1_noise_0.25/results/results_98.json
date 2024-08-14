@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in restaurants with Italian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that offer sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some American dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Thai cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant with Vietnamese dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers both Thai and Vietnamese dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Vietnamese dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast \n Le Pain Quotidien",
+            "Daleng Restaurant\nCanton 11\nSang Kee Peking Duck House\nGolden Triangle\nBistro SouthEast\nMiga Korean BBQ & Sushi\nBaan Thai\nFederal Donuts\nCook and Shaker\nTu's Tea & Banh Mi South Philly",
+            " Water Works Restaurant & Lounge \nZuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nFederal Donuts \nHeritage",
+            "  Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nHeritage \nThe Milk House \nMaison 208 \nCO-OP Restaurant & Lounge \nNorth Bowl \nThe Blue Duck \nJack's Firehouse \nSpread Bagelry",
+            "1) Daleng Restaurant \n2) Mong Kok Station \n3) Fuji Mountain \n4) Canton 11 \n5) Tu's Tea & Banh Mi South Philly \n6) New York Gyro Truck \n7) Sister Muhammad's Kitchen \n8) KC's Pastries \n9) Pure Tacos \n10) Love & Honey Fried Chicken",
+            "Golden Triangle \nDaleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nBistro SouthEast \nMiga Korean BBQ & Sushi \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nAudrey Claire",
+            "Daleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nIzumi\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nCinCin Restaurant\nCanton 11\nFuji Mountain",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nGolden Triangle \\n\nVedge \\n\nCook and Shaker \\n\nZahav \\n\nBuddakan",
+            "Bistro SouthEast \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nCanton 11 \\n\nFederal Donuts \\n\nPaddy's Old City Pub",
+            "Daleng Restaurant\nBistro SouthEast\nFederal Donuts\nMiga Korean BBQ & Sushi\nFuji Mountain\nCanton 11\nSang Kee Peking Duck House\nTu's Tea & Banh Mi South Philly\nOishii Pok\u00e9\nAudrey Claire"
+        ]
+    }
+}

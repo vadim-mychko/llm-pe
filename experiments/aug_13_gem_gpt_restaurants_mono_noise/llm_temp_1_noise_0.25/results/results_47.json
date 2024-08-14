@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for anything with a vegan option?",
+                "response": "no"
+            },
+            {
+                "query": "Are you hungry for barbeque?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sushi as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you specifically looking for barbequed meat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about pizza?",
+                "response": "i cannot answer the query as it is not a yes or no question."
+            },
+            {
+                "query": "Are you looking for a Korean restaurant that serves barbeque but not sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Korean restaurant that also serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you hoping to find a Korean restaurant that also serves barbeque?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Tavern Restaurant \nBistro SouthEast \nFederal Donuts \nGolden Triangle \nSang Kee Peking Duck House \nTavern On the Hill \nBloomsday Cafe \nPaddy's Old City Pub \nNew York Gyro Truck  \nOlive Garden Italian Restaurant",
+            " Jack's Firehouse \\n\nFederal Donuts \\n\nFranklin's \\n\nMission Taqueria \\n\nLove & Honey Fried Chicken \\n\nSister Muhammad's Kitchen \\n\nFounding Fathers Sports Bar & Grill \\n\nThe Hot Spot \\n\nCooper's Tavern \\n\nJD Mcgillicuddy's Manayunk",
+            "1. Jack's Firehouse \n2. Franklin's \n3. Blue Duck Tavern \\n\n4. SouthGate \n5. Royal Boucherie \n6. Jack's Bar-B-Que \n7. Sonny's BBQ - Mt. Airy \n8. Smoke's BBQ \n9. Texas de Brazil \n10. The Fat Ham \\n",
+            " Miga Korean BBQ & Sushi \n Bistro SouthEast \n Korean Village \n Sambu \n Kanggye Restaurant \n Kong \n Kang Ho Dong Baekjeong \n Sura \n Han Yang \nTodamgol",
+            "Miga Korean BBQ & Sushi \nBistro SouthEast \nFederal Donuts \nSang Kee Peking Duck House \nThe Tasty Toast \nFuji Mountain \nCanton 11 \nJake's & Cooper's Wine Bar & Wine Shop \nZahav \nOishii Pok\u00e9",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nDaleng Restaurant\nHeritage\nGrain Exchange\nThe Green Line Cafe\nNorth Bowl\nFederal Donuts \nSuzy Fat's\nOishii Pok\u00e9",
+            "Miga Korean BBQ & Sushi \nBistro SouthEast \nMonster Vegan \nJack's Firehouse \nThe Blue Duck \\n\nThe Continental Restaurant and Martini Bar \\n\nBetty's Speakeasy\nDaleng Restaurant \nZuzu's Kitchen \nOishii Pok\u00e9 \nDim Sum House\n",
+            "Miga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nMad River Manayunk \\n\nFederal Donuts \\n\nJD Mcgillicuddy's Manayunk \\n\nGreen Leafs & Bananas \\n\nSister Muhammad's Kitchen \\n\nAmerican Primea \\n\nOishii Pok\u00e9 \\n\nMcMenamin's Tavern",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nGrain Exchange\nFuji Mountain\nThe Grill  Smuckers\nJack's Firehouse\nCanton 11\nDaleng Restaurant\nFederal Donuts\nOishii Pok\u00e9",
+            "Miga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nCantonese House \\n\nChinatown BBQ & Roast Duck \\n\nKalaya \\n\nMama Lay's Kitchen Cafe \\n\nMonica's Merion \\n\nTokyo Sushi House"
+        ]
+    }
+}

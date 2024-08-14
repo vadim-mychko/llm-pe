@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a fast food restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in getting sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches with vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying bagles?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in  a vegetarian deli?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Five Guys\nWingstop\nLove & Honey Fried Chicken\nLucky's Last Chance\nChickie's & Pete's\nBada Bean Cafe\nShake Shack\nWawa\nChick-fil-A\nPopeyes Louisiana Kitchen",
+            "1) Izumi \n2) Sushi Toichi  \n3) Fuji Mountain \n4) Misoya \n5) Miga Korean BBQ & Sushi \n6) Han Dynasty \n7) Anjin  \n8) Kick Axe Throwing, Bar & Kitchen \n9) Mad River Manayunk \n10) City Tap House University City",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "1. The Juice Merchant\n2. Betty's Speakeasy\n3. Philly Pretzel Factory \n4. Green Leafs & Bananas\n5. Spread Bagelry\n6. Trolley Car Diner \n7. Rita's Water Ice \n8. Parc \n9. Jake's & Cooper's Wine Bar & Wine Shop\n10. Sabrina's Cafe",
+            "1. The Tavern Restaurant \n2. Misconduct Tavern \n3. Jack's Firehouse \n4. Founding Fathers Sports Bar & Grill \n5. Franklin's \n6. Lucky's Last Chance \n7. CJ & Eck's \n8. JD Mcgillicuddy's Manayunk \n9. Paddy's Old City Pub \n10. Macaroni's Restaurant",
+            "The Tavern Restaurant \nMisconduct Tavern \nPaddy's Old City Pub \nVedge \nJake's & Cooper's Wine Bar & Wine Shop \nThe Green Line Cafe \nLu's Vegan Deli \nBetty's Speakeasy \nGreen Leafs & Bananas \nRistorante La Buca",
+            " PrimoHoagies \nThe Tasty Toast \nFive Guys \nLisa's Kitchen \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nThe Blue Duck \nMonster Vegan",
+            "The QUICK FIXX\nThe Green Line Cafe\nSpread Bagelry\nTu's Tea & Banh Mi South Philly\nKC's Pastries\nLisa's Kitchen\nGreen Leafs & Bananas\nLucky's Last Chance\nWawa\nLove & Honey Fried Chicken",
+            "Tu's Tea & Banh Mi South Philly \\n\nThe Blue Duck \\n\nMonster Vegan \\n\nJack's Firehouse \\n\nGreen Leafs & Bananas \\n\nLuhv Vegan Deli \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nBetty's Speakeasy \\n\nRoy-Pitz Barrel House",
+            "Luvh Vegan Deli \nMonster Vegan \nThe Green Line Cafe \nBlackbird Pizzeria \nSpread Bagelry \nTrolley Car Diner \nLisa's Kitchen \nGreen Leafs & Bananas \nThe QUICK FIXX \nBetty's Speakeasy"
+        ]
+    }
+}

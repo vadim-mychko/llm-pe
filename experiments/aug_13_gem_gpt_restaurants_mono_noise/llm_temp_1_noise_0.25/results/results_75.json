@@ -1,0 +1,58 @@
+{
+    "75": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in other types of Italian food besides pasta or pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer restaurants that have a fancy vibe?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Chinese restaurant?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "A Tutti, Ristorante Italiano \nDaleng Restaurant \nCastellino's \nPrimoHoagies \nTalluto's Authentic Italian Food \nMacaroni's Restaurant \nThe Blue Duck \nFiore Fine Foods \nBlackbird Pizzeria \nThe QUICK FIXX",
+            "A Tutti, Ristorante Italiano \nPrimoHoagies \nCastellino's \nTalluto's Authentic Italian Food \nPastaficio \nThe QUICK FIXX \nSabrina's Cafe \nFiore Fine Foods \nRistorante La Buca \nMacaroni's Restaurant",
+            "Parmesaniana\nFederal Donuts \nPhilly Pretzel Factory \nMacaroni's Restaurant \nThe QUICK FIXX \nAnthony's Cucina Fresca \nCaffe A Roma \nSabrina's Cafe \nFederal Donuts \nEclat Chocolate \nA Tutto, Ristorante Italiano\nLarimer\nGianni's Ristorante\nLacroix Restaurant at The Rittenhouse\nTeddy Souvlaki\nGran Caffe L'Aquila\nSara Bradley's \nJoe's Brick Oven Cafe\nTeresa's Cafe\nCaffe Primavera\nKanella Grill\nDolce Italian \nDolce & Clemente \nPrimadonna \nAgno Trattoria\nPrime Stache \nArturo's\nPositano Coast By Aldo Lamberti\nRistorante La Buca\nSovana Ristorante \nCapogiro \nZavino \nTalula's Garden\n  Sorellina\nSquare 1682\nHarvest\nFiore Fine Foods\nMoshulu\nZama\nTimo\nBud & Marilyn's",
+            "No Results Match Your Search",
+            "Here are the 10 most relevant restaurants for you:\n****\n name: Castellino's \n categories: Restaurants, Food, Sardinian, Italian, Delis, Pasta Shops, Specialty Food, International Grocery\n****\n name: CinCin Restaurant \n categories: Restaurants, Event Planning & Services, Pan Asian, Venues & Event Spaces, Chinese, Caterers, Asian Fusion\n****\n name: Daleng Restaurant \n categories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\n name: Fiore Fine Foods \n categories: Restaurants, Food, Pizza, Cafes, Bakeries, Desserts, Breakfast & Brunch, American (New), Italian, Coffee & Tea\n****\n name: Gran Caffe L'Aquila \n categories: Restaurants, Gelato, Coffee & Tea, Food, Italian, Bakeries\n****\n name: Izumi \n categories: Restaurants, Sushi Bars, Desserts, Food, Japanese\n****\n name: KC's Pastries \n categories: Restaurants, Chinese, Bakeries, Ethnic Food, Specialty Food, Food\n****\n name: La Buca \n categories: Restaurants, Seafood, Bars, Italian, Wine Bars, Nightlife\n****\n name: Macaroni's Restaurant \n categories: Restaurants, Nightlife, Beer Gardens, Italian, Pizza\n****\n name: Oteri's Italian Bakery | North 5th St \n categories: Restaurants, Shopping, Jewelry, Event Planning & Services, Desserts, Bakeries, Caterers, Food",
+            "1. Zuzu's Kitchen\n2. PrimoHoagies\n3. A Tutti, Ristorante Italiano\n4. Mong Kok Station\n5. Olive Garden Italian Restaurant\n6. Fiore Fine Foods\n7. Angelo's Pizza\n8. The QUICK FIXX\n9. Castellino's\n10. Trattoria Stella",
+            "Daleng Restaurant \\n\nCanton 11 \\n\nDim Sum House \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nTu's Tea & Banh Mi South Philly \\n\nCantina Dos Segundos \\n\nMiga Korean BBQ & Sushi \\n\nBloomsday Cafe \\n\nThe Grill  Smuckers",
+            "1. Ristorante La Buca \n2. Castellino's \n3. Fiore Fine Foods \n4. Strada\n5. Trattoria Carina \n6. Caffe Casta \n7. Mangia! \n8. La Porta \n9. Talula's Garden \n10. Alla Spina",
+            "Castellino's \nSardinian, Italian, Delis, Pasta Shops, Specialty Food, International Grocery\nRistorante La Buca \nSeafood, Bars, Italian, Wine Bars, Nightlife\nAldine \nNightlife, Breakfast & Brunch, American (New), Cocktail Bars, Bars\nThe El Bar \nDive Bars, Bars, American (New), Nightlife\nThe Continental Restaurant and Martini Bar \nAmerican (New), Lounges, Nightlife, Bars, Breakfast & Brunch\nRoy-Pitz Barrel House \nGastropubs, Pizza, Bars, Nightlife, Food, Breweries, Beer Bar, Brewpubs\nMacaroni's Restaurant \nNightlife, Beer Gardens, Italian, Pizza\nPaddy's Old City Pub \nAmerican (Traditional), Nightlife, Bars, Pubs\nJack's Firehouse \nAmerican (New), Nightlife, Barbeque, Bars\nGreen Leafs & Bananas \nSandwiches, Salad, Food, Fast Food, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies",
+            "1. Ristorante La Buca\n2. Castellino's \n3. Macaroni's Restaurant \n4. Lisa's Kitchen \n5. Luhv Vegan Deli \n6. Audrey Claire \n7. Fuji Mountain \n8. Sang Kee Peking Duck House \n9. Betty's Speakeasy \n10. Green Leafs & Bananas"
+        ]
+    }
+}

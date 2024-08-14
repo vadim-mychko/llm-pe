@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in an animated film that is visually stunning?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies that have a lot of action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an action movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an action comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a serious action movie from the 1980's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in action adventure movie with a lot of fighting and violence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about a war?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a movie set during World War II?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a war movie about a prison break?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. August Rush (2007) \n2. Miracle, The (1988) \n3. Lincoln (2012)\n4. Story of A Boy Who Wanted to Fly, The [La historia de un ni\u00f1o que quer\u00eda volar] (1988)\n5. Spirited Away (Sen to Chihiro no kamikakushi) (2001)\n6. Benny Loves You (2019)\n7. Secret of Kells, The (2009)\n8. Fantastic Mr. Fox, The (2009)\n9. Hundred Foot Journey, The (2014)\n10. Big Bad Wolf, The (2013)\n",
+            "1. A.I. Artificial Intelligence (2001) \\n\n2. American Graffiti (1973) \\n\n3. Battle Angel (2019) \\n\n4. Big Red One, The (1980) \\n\n5. Big Lebowski, The (1998) \\n\n6. Black Robe (1991) \\n\n7. Brewster's Millions (1985) \\n\n8. Control (2007) \\n\n9. Dangerous Liaisons (1988) \\n\n10. Departed, The (2006) \\n",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nAbraham Lincoln: Vampire Hunter (2012)\nThe Proposition (2005)\nAlita: Battle Angel (2019)\nTerminator 3: Rise of the Machines (2003)\nAnt-Man (2015)\nVon Ryan's Express (1965)\nReady Player One\nNightcrawler (2014)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Lost in Translation (2003)\n3. Departed, The (2006)\n4. Nightcrawler (2014)\n5. King Kong (2005)\n6. Big Red One, The (1980)\n7. Face/Off (1997)\n8. Men in Black (2019)\n9. Alita: Battle Angel (2019)\n10. Ready Player One (2018)\n",
+            "1. Clash of the Titans (1981)\n2. Ant-Man (2015) \n3. Terminator 3: Rise of the Machines (2003)\n4. Real Genius (1985)\n5. Transporter 2 (2005)\n6. Ready Player One (2018) \n7. Lost in Translation (2003)\n8. The Hurricane (1999)\n9. Big Red One, The (1980)\n10. Von Ryan's Express (1965)\n",
+            "Runaway Train (1985) \nTerminator 3: Rise of the Machines (2003) \nVon Ryan's Express (1965) \nTrapped (2002) \nFace/Off (1997) \nCommando (1985) \nEscape from New York (1981) \nDie Hard (1988) \nThe Terminator (1984) \nPredator (1987) ",
+            "Runaway Train (1985) \nThe Terminator (1984) \nDie Hard (1988) \nCobra (1986) \nCommando (1985) \nPredator (1987) \nThe Lost Boys (1987) \nThe Running Man (1987) \nMan on Fire (2004) \nUniversal Soldier (1992)",
+            " Terminator 3: Rise of the Machines (2003) \n Platoon (1986) \n Big Red One, The (1980)\n Von Ryan's Express (1965) \n Apocalypse Now (1979)\n Full Metal Jacket (1987)\n Black Robe (1991)\n Runaway Train (1985) \n All Quiet on the Western Front (1930)\n Paths of Glory (1957) ",
+            "1. All Quiet on the Western Front (1930)\n2. Battle of the Titans (1981)\n3. Big Red One, The (1980)\n4. Von Ryan's Express (1965)\n5. Runaway Train (1985)\n6. Lost World: Jurassic Park, The (1997)\n7. The Departed (2006)\n8. Man on Fire (2004)\n9. Shooter (2007)\n10. Gunfight at the O. K. Corral (1957)",
+            "1. The Big Red One, The (1980)\n2. Von Ryan's Express (1965)\n3. The Lost Battalion (2001)\n4. Black Robe (1991)\n5. All Quiet on the Western Front (1930)\n6. Europa Europa (1991)\n7. The Great Escape (1963)\n8. Fury (2014)\n9. 1917 (2019)\n10. Hacksaw Ridge (2016)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Mexican food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you seek a casual eatery?",
+                "response": "no"
+            },
+            {
+                "query": "How about a restaurant specializing in Hawaiian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant serving Korean food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a sandwich with your meal?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food that is American?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try a steakhouse?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for Italian food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nThe Tasty Toast \\n\nLe Pain Quotidien",
+            "Kokopelli Restaurant & Tequila Bar\nFederal Donuts\nVedge\nHey Hummus\nBenna's Cafe\nMiga Korean BBQ & Sushi\nIzumi\nTu's Tea & Banh Mi South Philly\nBlackbird Pizzeria\nFuji Mountain",
+            " Pure Tacos \\n\nAudrey Claire \\n\nOishii Pok\u00e9 \\n\nRival Bros Coffee \\n\nFiesta BBQ \\n\nMonte Cristo \\n\nErnesto's Mexican Restaurant / Cantina \\n\nHabib's \\n\nTaqueria Feliz \\n\nDistrito \\n",
+            "1. Oishii Pok\u00e9 \\n\n2. Audrey Claire \\n\n3. Ristorante La Buca \\n\n4. Pure Tacos \\n\n5. El Rey Taqueria \\n\n6. Cantina Dos Segundos \\n\n7. Coa \\n\n8. Distrito \\n\n9. El Limon \\n\n10. La Calaca Feliz \\n",
+            "1. Malbec Argentine Steakhouse \n2. Mexican Oishii Pok\u00e9 \n3. Pearl's Oyster Bar \n4. Bisto SouthEast \n5. Audrey Claire \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. Macaroni's Restaurant \n8. Golden Triangle \n9. Pure Tacos \n10. CinCin Restaurant",
+            "Canton 11 \nMiga Korean BBQ & Sushi \nBistro SouthEast \nRoyal Tavern Restaurant & Bar \nFitz \nDomo \nGaulisi Pizzeria \nMowMow \nMorgan's Pier \nSaffron Indian Kitchen\nHan Dynasty Chinese Restaurant\nKim's Tok Tok Restaurant\n",
+            "Miga Korean BBQ & Sushi \nBistro SouthEast \nFuji Mountain \nGolden Triangle \nSang Kee Peking Duck House \nDaleng Restaurant \nOishii Pok\u00e9 \nFederal Donuts \nVeda - Modern Indian Bistro \nA Tutti, Ristorante Italiano",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nCinCin Restaurant\nKokopelli Restaurant & Tequila Bar\nDaleng Restaurant\nGolden Triangle\nFuji Mountain\nCanton 11\nIzumi\nSang Kee Peking Duck House",
+            "Sang Kee Peking Duck House \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nPearl's Oyster Bar \\n\nDim Sum House \\n\nJack's Firehouse \\n\nJD Mcgillicuddy's Manayunk \\n\nFranklin's \\n\nNew York Gyro Truck \\n\nLisa's Kitchen",
+            " Vedge \nMiga Korean BBQ & Sushi \nBistro SouthEast \nPearl's Oyster Bar \nMalbec Argentine Steakhouse \nFederal Donuts \nRoy-Pitz Barrel House \nTrolley Car Diner \nJack's Firehouse \nLisa's Kitchen"
+        ]
+    }
+}

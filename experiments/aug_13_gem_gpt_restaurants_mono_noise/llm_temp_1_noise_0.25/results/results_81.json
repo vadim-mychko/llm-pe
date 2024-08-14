@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in French cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to eat somewhere that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer greasy fried chicken sandwiches or those from a traditional Italian deli?",
+                "response": "i cannot determine your preference based on the given item description."
+            },
+            {
+                "query": "Are you interested in a restaurant with a variety of vegetarian options?",
+                "response": "yes"
+            },
+            {
+                "query": "How do you feel about vegan and gluten-free sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer vegan cheese on your sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place to get vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a vegan deli with gluten-free options?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Lacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nThe Cheesecake Factory \nPearl's Oyster Bar \nVedge \nBardot \nAudrey Claire \nParc \nFederal Donuts \nWishbone",
+            "Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nDaleng Restaurant \nThe Tasty Toast \nChinatown Gourmet \nA Tutti, Ristorante Italiano \nThe Milk House \nThe Green Line Cafe \nBenna's Cafe",
+            " The Juice Merchant \nThe Tasty Toast \nPrimoHoagies \nDaleng Restaurant \nThe Green Line Cafe \nSpread Bagelry \nLisa's Kitchen \nLuvh Vegan Deli \nGreen Leafs & Bananas \nTrolley Car Diner",
+            " Germantown Garden \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nThe Green Line Cafe \nSpread Bagelry \nGreen Leafs & Bananas \nSteve's Prince of Steaks \nLisa's Kitchen \nPrimoHoagies",
+            "1. Mongo Kok Station\n2. Macaroni's Restaurant\n3. Lisa's Kitchen\n4, Spread Bagelry\n5. The Green Line Cafe\n6. Green Leafs & Bananas\n7. Steve's Prince of Steaks\n8. Trolley Car Diner\n9. Wawa\n10. Five Guys",
+            " PrimoHoagies\nMonster Vegan\nThe QUICK FIXX\nLuvh Vegan Deli\nGreen Leafs & Bananas\nSpread Bagelry \nLucky's Last Chance\nLove & Honey Fried Chicken\nJack's Firehouse\n Founding Fathers Sports Bar & Grill\n",
+            "Monster Vegan \nSpread Bagelry \nLuvh Vegan Deli \nVedge \nHey Hummus \nPure Tacos \nGreen Leafs & Bananas \nThe Green Line Cafe \nThe QUICK FIXX \nPrimoHoagies",
+            "1. Luhv Vegan Deli \n2. The Green Line Cafe \n3. Green Leafs & Bananas \n4. Lisa's Kitchen \n5. The QUICK FIXX \n6. Roy-Pitz Barrel House \n7. Love & Honey Fried Chicken \n8. Honeygrow \n9. PrimoHoagies \n10. Rustica Pizza and Pasta",
+            "Monster Vegan \\n\nBenna's Cafe \\n\nHey Hummus \\n\nVedge \\n\nThe Juice Merchant \\n\nLuvh Vegan Deli \\n\nThe Green Line Cafe \\n\nThe QUICK FIXX \\n\nBetty's Speakeasy \\n\nGran Caffe L'Aquila",
+            "Luvh Vegan Deli\nMonster Vegan\nGreen Leafs & Bananas\nThe QUICK FIXX\nVedge\nHey Hummus\nEssene Market & Caf\u00e9\nThe Juice Merchant\nThe Green Line Cafe\nSpread Bagelry"
+        ]
+    }
+}

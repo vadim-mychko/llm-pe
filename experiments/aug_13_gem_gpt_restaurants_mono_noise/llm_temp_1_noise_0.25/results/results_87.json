@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian pizza with a thin crust?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in other kinds of Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian beverages?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Wawa \nZuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts\nWater Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse",
+            " CinCin Restaurant \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nPasta\u043d\u043e\u0432\u0430 \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nTrolley Car Diner \nAudrey Claire",
+            "A Tutti, Ristorante Italiano\nMacaroni's Restaurant\nThe Blue Duck\nThe QUICK FIXX\nAudrey Claire \\n\nFederal Donuts \nPasta~bles \nFiore Fine Foods \nJoy & Juice: Chestnut Hill \nZavino \nPita Pocket Cafe \nTerakawa Ramen \nThe Juice Merchant \nSabrina's Cafe \nKubow \nPorta \nOliveto  \nAlma De Cuba \nThe White Dog Cafe \nAmada \nWm. Mulherin's Sons \nDowningtown Inn \nTalula's Garden \nEl Balconcito & Seafood House \nGypsy Blu \nThe Twisted Tail \nThe Wayward \nFork & Barrel  \nJon's Bar & Grill \nPipino Cafe BYOB \nLou's Pizza and Alehouse \nSiam Palace \nRazza Pizza Artigianale",
+            "****\n name: A Tutti, Ristorante Italiano \n categories: Restaurants, Pizza, Coffee & Tea, Italian, Food\n****\n name: PrimoHoagies \n categories: Restaurants, Specialty Food, Food, Sandwiches, Italian\n****\n name: Macaroni's Restaurant \n categories: Restaurants, Nightlife, Beer Gardens, Italian, Pizza\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs\n****\n name: Fiorella \n categories: Restaurants, American (New), Bars, Breakfast & Brunch, Italian, Lounges, Pubs, Nightlife, Pizza, Coffee & Tea\n****\n name: Pizzeria Stella \n categories: Restaurants, Pizza, Italian, Food, Beer & Wine\n****\n name: Fiore Fine Foods \n categories: Restaurants, Food, Pizza, Cafes, Bakeries, Desserts, Breakfast & Brunch, American (New), Italian, Coffee & Tea\n****\n name: Pizzeria Vetri \n categories: Restaurants, Pizza, Italian, Food, Beer & Wine\n****\n name: Roy-Pitz Barrel House \n categories: Restaurants, Gastropubs, Pizza, Bars, Nightlife, Food, Breweries, Beer Bar, Brewpubs\n****\n name: Roller Rink Pizza & Pub \n categories: Restaurants, Pizza, Seafood, Sports Bars, Breweries, Food, Sports Bar, Beer, Wine & Spirits, Bars",
+            " Zuzu's Kitchen \n A Tutti, Ristorante Italiano \n Macaroni's Restaurant \n Chestnut 7 \n Betty's Speakeasy \n Fiore Fine Foods \n Spread Bagelry \n Olive Garden Italian Restaurant \n Sang Kee Peking Duck House \n PrimoHoagies",
+            "A Tutti, Ristorante Italiano\nMacaroni's Restaurant\nZazu's Kitchen \nPrimoHoagies\nThe QUICK FIXX \nTalluto's Authentic Italian Food \nFederal Donuts \nChestnut 7 \nCafe L'Aube \nFiorentina \nCO-OP Restaurant & Lounge",
+            "Zuzu's Kitchen \nA Tutti, Ristorante Italiano \nPrimoHoagies \nTaluto's Authentic Italian Food \nMacaroni's Restaurant \nLaRosa Pizza \nOlive Garden Italian Restaurant \nBlackbird Pizzeria \nThe QUICK FIXX \nSabrina's Cafe",
+            "A Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nLisa's Kitchen \\n\nThe QUICK FIXX \\n\nFiore Fine Foods \\n\nSpread Bagelry \\n\nThe Green Line Cafe",
+            " A Tutti, Ristorante Italiano \\n\nLe Pain Quotidien \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nFiore Fine Foods \\n\nRival Bros Coffee \\n\nEvan's Pizza \\n\nBetty's Speakeasy \\n\nChestnut 7 \\n\nThe QUICK FIXX",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nThe QUICK FIXX \nVedge \nCastorino's \nPrimoHoagies \nLa Fontana della Citta \nLacroix Restaurant at The Rittenhouse \nMiga Korean BBQ & Sushi \nAudrey Claire"
+        ]
+    }
+}

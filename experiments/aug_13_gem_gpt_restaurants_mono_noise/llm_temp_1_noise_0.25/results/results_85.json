@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant nearby?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for seafood restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to grab a quick bite to eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with a full bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Asian fusion restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for Middle Eastern cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Mong Kok Station \n The Tasty Toast \n Le Pain Quotidien",
+            "Water Works Restaurant & Lounge\nFuji Mountain\nCanton 11\nKyutaro\nNew York Gyro Truck\nZeituni Restaurant and Grill\nMama Sushi\nPure Tacos\nSakura Japanese Restaurant\nScheeherazade",
+            "- Zuzu's Kitchen\n- Water Works Restaurant & Lounge\n- Daleng Restaurant\n- Federal Donuts\n- CinCin Restaurant\n- The Tasty Toast\n- Zuzu's Kitchen\n- The Juice Merchant\n- Golden Triangle\n- The Grill- Smuckers",
+            " Water Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nZuzu's Kitchen\nGolden Triangle\nDaleng Restaurant\nFederl Donuts\nThe Tasty Toast\nCO-OP Restaurant & Lounge\nCantina los Caballitos\nHeritage",
+            "Daleng Restaurant \\n\nLocal Tavern \\n\nFuji Mountain \\n\nGrain Exchange \\n\nCO-OP Restaurant & Lounge \\n\nCantonese \\n\nMacaroni's Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nFederal Donuts \\n\nPaddy's Old City Pub",
+            "1. Grain Exchange \n2. Bistro SouthEast \n3. Jake's & Cooper's Wine Bar & Wine Shop \n4. Roy-Pitz Barrel House \n5. Sabrina's Cafe \n6. Azure Restaurant & Bar \n7. Rouge \n8. The Gaslight \n9. Positano Coast by Aldo Lamberti \n10. The Prime Rib",
+            "Federal Donuts \nWawa \nFive Guys \nGreen Leafs & Bananas \nSpread Bagelry \nFounding Fathers Sports Bar & Grill \nThe Cheesecake Factory \nParc \nLove & Honey Fried Chicken \nMcMenamin's Tavern\n",
+            "Federal Donuts \nWawa \nQuiznos \nPhiladelphia Soft Pretzel Factory \n7-Eleven \nGreens & Beans Cafe \nLe Pain Quotidien \nStarbucks \nSubway \nMcDonald's",
+            " Zuzu's Kitchen\nGolden Triangle\nGermantown Garden\nThe Tasty Toast\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFuji Mountain\nMetropolitan Bakery\nThe Green Line Cafe",
+            " Federal Donuts \n Olive Garden Italian Restaurant \n Zuzu's Kitchen \n Wawa \n The Green Line Cafe \n The El Bar \n Jack's Firehouse \n Lisa's Kitchen \n The QUICK FIXX \n Blackbird Pizzeria"
+        ]
+    }
+}

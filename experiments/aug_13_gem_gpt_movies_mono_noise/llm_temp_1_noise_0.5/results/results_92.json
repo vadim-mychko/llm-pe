@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is part of a series?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a t.v. series adaptation that is set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action-adventure movie with artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about the future where people are controlled by their technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about virtual reality?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about people who play games based on a virtual reality?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see a movie based on a tv series adaptation?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pirates of the Caribbean: At World's End (2007) \\n\nClash of the Titans (1981) \\n\nHarry Potter and the Half-Blood Prince (2009) \\n\nThe Lord of the Rings: The Fellowship of the Ring (2001) \\n\nThe Matrix Reloaded (2003) \\n\nThe Matrix Revolutions (2003) \\n\nStar Wars: Episode III - Revenge of the Sith (2005) \\n\nShrek 2 (2004) \\n\nThe Dark Knight Rises (2012) \\n\nTerminator 3: Rise of the Machines (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Lost World: Jurassic Park, The (1997)\n3. Alita: Battle Angel (2019)\n4. Ant-Man (2015)\n5. Timeline (2003)\n6. Ready Player One \n7. Real Steel (2011)\n8. Face/Off (1997)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Matrix (1999)\n3. The Terminator (1984)\n4. Aliens (1986)\n5. Predator (1987)\n6. RoboCop (1987)\n7. The Abyss (1989)\n8. Starship Troopers (1997)\n9. Serenity (2005)\n10. Blade Runner 2049 (2017)",
+            "1. The Lost World: Jurassic Park (1997) \n2. Timeline (2003) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Big Red One (1980) \n5. Metropolis (2001) \n6. Ready Player One (2018) \n7. Planet of the Apes (2001) \n8. A.I. Artificial Intelligence (2001) \n9. Brother's Milton (1985) \n10. Real Genius (1985) ",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \n3. Real Steel (2011) \n4. The Big Red One (1980) \n5. Alien (1979) \n6. Face/Off (1997) \n7. Intolerable Cruelty (2003) \n8. King Kong (2005) \n9. The Grapes of Wrath (1940) \n10. Umberto D. (1952)\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Terminator 3: Rise of the Machines (2003)\n3. Ant-Man (2015)\n4. 2001: A Space Odyssey(1968)\n5. Ex Machina (2014)\n6. The Matrix (1999) \n7. Blade Runner (1982)\n8. Tron (1982)\n9. Ghost in the Shell(1995)\n10. Robot & Frank (2012)",
+            "Terminator 3: Rise of the Machines (2003) \\n\nA.I. Artificial Intelligence (2001) \\n\nAnt-Man (2015) \\n\nI, Robot (2004) \\n\nBlade Runner 2049 (2017) \\n\nMinority Report (2002) \\n\nHer (2013) \\n\nElysium (2013) \\n\nThe Matrix (1999) \\n\nEx Machina (2014)",
+            "1. Ready Player One\n2. A.I. Artificial Intelligence\n3. Ant-Man\n4. Real Steel\n5. Alita: Battle Angel\n6. The Matrix (1999)\n7. Minority Report (2002)\n8. Blade Runner (1982)\n9. Ex Machina (2014)\n10. Transcendence (2014)",
+            "1. Ready Player One\n2. A.I. Artificial Intelligence\n3. Terminator 3: Rise of the Machines\n4. Ant-Man\n5. Real Steel\n6. I, Robot\n7. Elysium\n8. Transcendence\n9. Upgrade\n10. Ex Machina",
+            "1. Ready Player One\n2. Terminator 3: Rise of the Machines\n3. I, Robot\n4. A.I. Artificial Intelligence\n5. The Matrix (1999)\n6. Strange Days (1995)\n7. Johnny Mnemonic (1995)\n8. The 13th Floor (1999)\n9. eXistenZ (1999)\n10. The Truman Show (1998)"
+        ]
+    }
+}

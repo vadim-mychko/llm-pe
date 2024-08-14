@@ -1,0 +1,58 @@
+{
+    "50": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place with breakfast and brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with Korean food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nMong Kok Station\u200e\nThe Tasty Toast\nLe Pain Quotidien",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nZuzu's Kitchen \\n\nPrimoHoagies \\n\nThe Tasty Toast \\n\nHeritage \\n\nThe Milk House \\n\nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Water Works Restaurant & Lounge \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nZuzu's Kitchen \nFederal Donuts \nGrain Exchange \nBaan Thai \nRistorante La Buca \nChestnut 7 ",
+            "Daleng Restaurant\nGrain Exchange\nCanton 11\nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9\nAudrey Claire \nRistorante La Buca\nEvan's Pizza \nA Tutti, Ristorante Italiano \nThe Juice Merchant",
+            "Daleng Restaurant \nGolden Triangle \nCanton 11 \nSang Kee Peking Duck House \nBistro SouthEast \nNew York Gyro Truck \nPure Tacos \nOishii Pok\u00e9 \nMiga Korean BBQ & Sushi \nChinatown Cookbook",
+            "Daleng Restaurant\nCanton 11\nSang Kee Peking Duck House\nMiga Korean BBQ & Sushi\nTrolley Car Diner\nGreen Leafs & Bananas\nOishii Pok\u00e9\nPure Tacos\nNew York Gyro Truck\nBetty's Speakeasy",
+            " Sang Kee Peking Duck House \n Tu's Tea & Banh Mi South Philly \n Lucky's Last Chance \n Love & Honey Fried Chicken \n Fiore Fine Foods \n Pure Tacos \n New York Gyro Truck \n KC's Pastries \n Sister Muhammad's Kitchen \n Hey Hummus",
+            "1. Fuji Mountain \n2. Rosso Pizzeria \n3. Bluestone Lane \n4. Street Kitchen Asian Bistro \n5. Hunan Kitchen \n6. Sakana Sushi House \n7. New Delhi Indian Restaurant \n8. Spice to Table \n9. Saffron Indian Kitchen \n10. Antica Brewing Company ",
+            " Golden Triangle \n Daleng Restaurant \n Izumi \n Fuji Mountain \n Canton 11 \n Dim Sum House \n Korean BBQ & Sushi \n Oishii Pok\u00e9 \n Pure Tacos \n KC's Pastries"
+        ]
+    }
+}

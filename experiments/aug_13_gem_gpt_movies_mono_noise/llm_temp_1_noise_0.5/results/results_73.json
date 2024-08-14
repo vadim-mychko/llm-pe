@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action or fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for a drama set in the 19th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a superhero?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action or thriller movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about crime?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy about crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime movie that is also set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the main character is a criminal?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Predators of the Heart (1976)\n2. Police Academy (1984)\n3. Paris, When It Sizzles (1964)\n4. Fargo (1996)\n5. Midnight Run (1988)\n6. The Buddy Holly Story (1978)\n7. A Simple Favor (2018)\n8. Murder by Death (1976)\n9. Fletch (1985)\n10. Foul Play (1978)",
+            "1. The Big Red One (1980)\n2. Europa (Zentropa) (1991)\n3. Mis\u00e9rables, Les (1998)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Platoon (1986)\n6. Blade (1998)\n7. Purge, The (2013)\n8. Gremlins 2: The New Batch (1990)\n9. Do the Right Thing (1989)\n10. Kill Bill: Vol. 1 (2003)",
+            "1. Umberto D. (1952)\n2. Laura (1944)\n3. August Rush (2007)\n4. Autumn Sonata (H\u00f6stsonaten) (1978)\n5. Dangerous Liaisons (1988)\n6. Mis\u00e9rables, Les (1998)\n7. Jane Eyre (1996)\n8. Moby Dick (1956)\n9. Thomas Crown Affair, The (1968)\n10. Grapes of Wrath, The (1940)",
+            "1. Von Ryan's Express \n2. Umberto D. \n3. Laura \n4. The Last Supper\n5. American Graffiti \n6. The Hurricane \n7. August Rush \n8. St. Elmo's Fire \n9. The Great Gatsby \n10. Mask",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Transporter 2 (2005)\n4. Nightcrawler (2014)\n5. Big Red One, The (1980)\n6. Trapped (2002)\n7. Face/Off (1997)\n8. Bruce Almighty (2003)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Bad Education (La mala educaci\u00f3n) (2004)\n3. Transporter 2 (2005)\n4. Nightcrawler (2014)\n5. Departed, The (2006)\n6. Trapped (2002)\n7. Face/Off (1997)\n8. Bruce Almighty (2003)\n9. Lost in Translation (2003)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Departed, The (2006) \n2. Intolerable Cruelty (2003) \n3. Brewster's Millions (1985) \n4. Face/Off (1997) \n5. Trapped (2002) \n6. Nightcrawler (2014) \n7. Delicatessen (1991) \n8. Before the Devil Knows You're Dead (2007) \n9. Drugstore Cowboy (1989) \n10. Bad Education (La mala educaci\u00f3n) (2004)",
+            "1. The Departed (2006)\n2. The Corporation (2003)\n3. Darkman (1990)\n4. Enter the Void (2009)\n5. Big Red One, The (1980)\n6. Nightcrawler (2014)\n7. Stranger than Fiction (2006)\n8. Breach (2007)\n9. Face/Off (1997)\n10. Crime and Misdemeanors (1989)",
+            "1. The Proposition (2005)\n2. Before the Devil Knows You're Dead (2007)\n3. No Man's Land (2001)\n4. Bad Education (La mala educaci\u00f3n) (2004)\n5. Breach (2007)\n6. Dangerous Liaisons (1988)\n7. Europa (Zentropa) (1991)\n8. Darkman (1990)\n9. The Departed (2006)\n10. Intolerable Cruelty (2003)",
+            "1. Departed, The (2006) \n2. Big Lebowski, The (1998) \n3. Intolerable Cruelty (2003) \n4. Face/Off (1997) \n5. Breach (2007) \n6. Crimes and Misdemeanors (1989) \n7. Darkman (1990)\n8. Thomas Crown Affair, The (1968) \n9. Corporation, The (2003) \n10. Enter the Void (2009)"
+        ]
+    }
+}

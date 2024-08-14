@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bagel sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich that is vegetarian or vegan?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a falafel sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a hot sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a pressed Cuban sandwich?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Federal Donuts \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nGrain Exchange \nSang Kee Peking Duck House \nBaan Thai",
+            " Lacroix Restaurant at The Rittenhouse \nGrain Exchange \nThe Green Line Cafe \nVedge \nHey Hummus \nCook and Shaker \nAldine \nBloomsday Cafe \nNorth Bowl \nRistorante La Buca",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nZuzu's Kitchen \\n\nGrain Exchange \\n\nFuji Mountain \\n\nIzumi \\n\nCinCin Restaurant",
+            " Golden Triangle \nDaleng Restaurant \nCanton 11 \nMiga Korean BBQ & Sushi \nThe Continental Restaurant and Martini Bar \nGreen Leafs & Bananas \nWawa \nRoy-Pitz Barrel House \nIzumi \nFuji Mountain ",
+            " PrimoHoagies \\n\nWawa \\n\nThe QUICK FIXX \\n\nQuiznos \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nGreen Leafs & Bananas \\n\nLisa's Kitchen \\n\nLuvh Vegan Deli \\n\nFive Guys",
+            "Macaroni's Restaurant \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nGreen Leafs & Bananas \nThe QUICK FIXX \nMonster Vegan \nThe Juice Merchant \nPrimoHoagies \nZuzu's Kitchen",
+            "The QUICK FIXX \\n\nMonster Vegan \\n\nThe Green Line Cafe \\n\nBenna's Cafe \\n\nHey Hummus \\n\nVedge \\n\nLuhv Vegan Deli \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nJake's & Cooper's Wine Bar & Wine Shop",
+            "1. The QUICK FIXX\n2. Blackbird Pizzeria\n3. Monster Vegan\n4. Luhv Vegan Deli\n5. Green Leafs & Bananas\n6. Hey Hummus\n7. Vedge\n8. The Juice Merchant\n9. Benna's Cafe\n10. Betty's Speakeasy",
+            "Luvh Vegan Deli \nMonster Vegan \nThe Green Line Cafe \nSpread Bagelry \nJack's Firehouse \nChickie's & Pete's \nLisa\u2019s Kitchen \nPrimoHoagies \nThe Blue Duck \nRoy-Pitz Barrel House",
+            "Monster Vegan \nThe QUICK FIXX \nThe Green Line Cafe \nSpread Bagelry \nLuhv Vegan Deli \nGreen Leafs & Bananas \nBetty's Speakeasy \nTrolley Car Diner \nJD Mcgillicuddy's Manayunk \nLisa's Kitchen"
+        ]
+    }
+}

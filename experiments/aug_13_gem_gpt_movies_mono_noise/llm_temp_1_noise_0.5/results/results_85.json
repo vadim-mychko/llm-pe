@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that has a twist of witchcraft?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in space?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that features giant robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about aliens?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on superheroes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Runaway Train (1985)\n4. Terminator 3: Rise of the Machines (2003)\n5. A.I. Artificial Intelligence (2001)\n6. Terminator 2: Judgment Day (1991)\n7. Timeline (2003)\n8. The Matrix (1999)\n9. The Fifth Element (1997)\n10. Ghostbusters (1984)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. Von Ryan's Express (1965)\n4. The Big Red One (1980)\n5. Trapped (2002)\n6. Face/Off (1997)\n7. King Kong (2005)\n8. Eragon (2006)\n9. Aliens (1986)\n10. Transporter 2 (2005)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Abraham Lincoln: Vampire Hunter (2012) \n4. Last Action Hero (1993) \n5. Man on Fire (2004) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. Clash of the Titans (1981) \n8. Alita: Battle Angel (2019) \n9. Terminator 3: Rise of the Machines (2003) \n10. Ant-Man (2015) ",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Real Steel (2011) \n4. Terminator 3: Rise of the Machines (2003) \n5. Alien (1979) \n6. Face/Off (1997) \n7. Timeline (2003) \n8. Ready Player One \n9. King Kong (2005) \n10. Matrix, The (1999)",
+            "A.I. Artificial Intelligence (2001) \nLost in Space (2018) \nAlien (1979) \nBlade Runner 2049 (2017) \nInterstellar (2014) \nPassengers (2016) \nGravity (2013) \nAd Astra (2019) \nArrival (2016) \nDune (2021) \nDune (1984)\n",
+            "1. Ant-Man (2015)\n2. A.I. Artificial Intelligence (2001)\n3. Terminator 3: Rise of the Machines (2003)\n4. Timeline (2003)\n5. Ready Player One\n6. Real Steel (2011)\n7. Trapped (2002)\n8. Robot & Frank (2012)\n9. Bruce Almighty (2003)\n10. King Kong (2005)",
+            "* Aliens (1986)\n* Star Wars: A New Hope (1977)\n* The Empire Strikes Back (1980)\n* Return of the Jedi (1983)\n* The Terminator (1984)\n* Robocop (1987)\n* Predator (1987)\n* Starship Troopers (1997)\n* Alien (1979)\n* Blade Runner (1982)",
+            "1. Lost in Space: The Movie (1998)\n2. Forbidden Planet (1956)\n3. The Last Starfighter (1984)\n4. Event Horizon (1997)\n5. Outland (1981)\n6. Sunshine (2007)\n7. Pandorum (2009)\n8. Moon (2009)\n9. Europa Report (2013)\n10. Ad Astra (2019)",
+            "1. Ready Player One \n\n2. Timeline (2003) \n\n3. The Terminator 3: Rise of the Machines (2003) \n\n4. Mission to Mars (2000)\n\n5. Apollo 11: First Steps Edition (IMAX) (2019) \n\n6. The Martian (2015) \n\n7. Alien (1979) \n\n8. Gravity (2013)\n\n9. Arrival (2016) \n\n10. Contact (1997)",
+            "1. Solaris (2002)\n2. 2001: A Space Odyssey (1968)\n3. Aliens (1986)\n4. The Martian (2015)\n5. Arrival (2016)\n6. Blade Runner 2049 (2017)\n7. Interstellar (2014)\n8. Guardians of the Galaxy (2014)\n9. Rogue One: A Star Wars Story (2016)\n10. Star Wars: The Last Jedi (2017)"
+        ]
+    }
+}

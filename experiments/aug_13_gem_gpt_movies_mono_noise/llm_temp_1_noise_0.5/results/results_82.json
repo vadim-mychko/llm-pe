@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a black comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a supernatural or religious theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that takes place during the 80s?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a time travel theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a detective, cop, or private investigator character?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Lost World: Jurassic Park, The (1997)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Runaway Train (1985)\n5. Last Temptation of Christ, The (1988)\n6. Abraham Lincoln: Vampire Hunter (2012)\n7. Blades of Glory (2007)\n8. Santa Sangre (1989)\n9. August Rush (2007)\n10. Blair Witch Project, The (1999)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. RoboCop (2014)\n4. Real Steel (2011) \n5. The Big Lebowski (1998) \n6. American Graffiti (1973) \n7. Face/Off (1997) \n8. Bruce Almighty (2003)\n9. King Kong (2005) \n10. 10 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Rush (2013)\n3. Iron Man (2008)\n4. War Dogs (2016)\n5. American Sniper (2014)\n6. Nightcrawler (2014)\n7. The Accountant (2016)\n8. Non-Stop (2014)\n9. Taken (2008)\n10. Furious 7 (2015)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Stranger than Fiction (2006)\n3. Real Genius (1985)\n4. Tomb Raider (2018)\n5. Delicatessen (1991)\n6. Corpse Bride (2005)\n7. American Graffiti (1973)\n8. Face/Off (1997)\n9. Black Robe (1991)\n10. Big Red One, The (1980)\n",
+            "1. August Rush (2007)\n2. Saving Mr. Banks (2013)\n3. The 40-Year-Old Virgin (2005)\n4. Twilight (2008)\n5. Legally Blonde (2001)\n6. Interstellar (2014)\n7. Top Gun: Maverick (2022)\n8. Manchester by the Sea (2016)\n9. Scott Pilgrim vs. the World (2010)\n10. The Secret Life of Walter Mitty (2013)",
+            "1. Dracula (Bram Stoker's Dracula) (1992) \n2. The Mothman Prophecies (2002) \n3. Gremlins 2: The New Batch (1990) \n4. Darkman (1990) \n5. Enter the Void (2009) \n6. Nightcrawler (2014) \n7. Trapped (2002) \n8. Cronos (1993) \n9. Martyrs (2008) \n10. The Last Supper (1995) ",
+            "1. The Last Temptation of Christ (1988)\n2. August Rush (2007)\n3. Mothman Prophecies, The (2002)\n4. Cronos (1993)\n5. Black Robe (1991)\n6. Darkman (1990)\n7. Trapped (2002)\n8. Gremlins 2: The New Batch (1990)\n9. Real Steel (2011)\n10. Brewster's Millions (1985)",
+            "A.I. Artificial Intelligence (2001)\nCronos (1993)\nDarkman (1990)\nEnter the Void (2009)\nGremlins 2: The New Batch (1990)\nThe Mothman Prophecies (2002)\nNightcrawler (2014)\nThe Burning (1981)\nThe Thing (1982)\nVideodrome (1983)",
+            "1. Gremlins 2: The New Batch (1990)\n2. St. Elmo's Fire (1985)\n3. The Sure Thing (1985)\n4. Brewster's Millions (1985)\n5. Runaway Train (1985)\n6. Real Genius (1985)\n7. The Last Dragon (1985)\n8. Cocoon (1985)\n9. The Fly (1986)\n10. Aliens (1986)\n",
+            "1. The Lost Boys (1987)\n2. Gremlins (1984)\n3. Fright Night (1985)\n4. A Nightmare on Elm Street (1984)\n5. Children of the Corn (1984)\n6. The Evil Dead (1981)\n7. The Thing (1982)\n8. Poltergeist (1982)\n9. The Howling (1981)\n10. American Werewolf in London (1981)"
+        ]
+    }
+}

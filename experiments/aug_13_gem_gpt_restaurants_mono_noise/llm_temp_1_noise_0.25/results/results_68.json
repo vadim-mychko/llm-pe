@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Would you like to try vegan cuisine this evening?",
+                "response": "yes"
+            },
+            {
+                "query": "How would you feel about some Korean barbeque?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat at a restaurant with a large selection of sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in something with seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you hoping to try a new pizzeria?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a pizza with a crispy or soft crust?",
+                "response": "i'm sorry, but i am unable to answer that question as it requires a personal preference."
+            },
+            {
+                "query": "Do you desire pizza with a variety of toppings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a buffet-style pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to have your pizza at a kid-friendly restaurant?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Monster Vegan\nBenna's Cafe\nHey Hummus\nVedge\nEssene Market & Caf\u00e9\nThe Juice Merchant\nGreen Leafs & Bananas\nLuvh Vegan Deli\nBlackbird Pizzeria\nThe QUICK FIXX",
+            "Monster Vegan \\n\nVedge \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nBenna's Cafe \\n\nNorth Bowl \\n\nMiga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli",
+            "Vedge  \nHey Hummus  \nBenna's Cafe  \nMonster Vegan  \nDaleng Restaurant  \nBistro SouthEast  \nTu's Tea & Banh Mi South Philly  \nBloomsbury Cafe \nThe Juice Merchant  \nGreen Leafs & Bananas",
+            "1. A Tutti, Ristorante Italiano\n2. Castellino's\n3. Fiore Fine Foods\n4. Gran Caffe L'Aquila\n5. Macaroni's Restaurant\n6. Monster Vegan\n7. PrimoHoagies\n8. Talluto's Authentic Italian Food\n9. The QUICK FIXX\n10. Trattoria Stella",
+            " 1. A Tutti, Ristorante Italiano \n 2. Daleng Restaurant \n 3. Fiore Fine Foods \n 4. Gran Caffe L'Aquila \n 5. Izumi \n 6. Le Pain Quotidien \n 7. PrimoHoagies \n 8. The Juice Merchant \n 9. Talluto's Authentic Italian Food \n 10. The QUICK FIXX",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge\nDaleng Restaurant \nPrimoHoagies\nCinCin Restaurant \nA Tutti, Ristorante Italiano \nCaffe L'Aube \nFiore Fine Foods \nGran Caffe L'Aquila",
+            "A Tutti, Ristorante Italiano \\n\nThe QUICK FIXX \\n\nZazu's Kitchen \\n\nPrimoHoagies \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nGran Caffe L'Aquila \\n\nThe Blue Duck \\n\nRoy-Pitz Barrel House \\n\nCinCin Restaurant",
+            "1. A Tutti, Ristorante Italiano \n2. Blackbird Pizzeria \n3. Fiore Fine Foods \n4. Gran Caffe L'Aquila \n5. Jack's Firehouse \n6. Macaroni's Restaurant \n7. Oteri's Italian Bakery | North 5th St \n8. Roy-Pitz Barrel House \n9. The Blue Duck \n10. The Continental Restaurant and Martini Bar",
+            "Tu's Tea & Banh Mi South Philly \nA Tutti, Ristorante Italiano \nOteri's Italian Bakery | North 5th St \nFiore Fine Foods \nCastellino's \nLisa's Kitchen \nPrimoHoagies \nOlive Garden Italian Restaurant \nDaleng Restaurant \nMacaroni's Restaurant",
+            "****\n name: Zuzu's Kitchen \n categories: Restaurants, Pizza, Salad, Sandwiches, Food Delivery Services, Food\n****\n name: A Tutti, Ristorante Italiano \n categories: Restaurants, Pizza, Coffee & Tea, Italian, Food\n****\n name: The QUICK FIXX \n categories: Restaurants, Pizza, Vegetarian, Salad, Italian\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs\n****\n name: Fiore Fine Foods \n categories: Restaurants, Food, Pizza, Cafes, Bakeries, Desserts, Breakfast & Brunch, American (New), Italian, Coffee & Tea\n****\n name: Evan's Pizza \n categories: Restaurants, Pizza, Food, Beer, Wine & Spirits\n****\n name: Blackbird Pizzeria \n categories: Restaurants, Desserts, Kosher, Pizza, Salad, Food, Vegan, Chicken Wings\n****\n name: PrimoHoagies \n categories: Restaurants, Specialty Food, Food, Sandwiches, Italian\n****\n name: Castellino's \n categories: Restaurants, Food, Sardinian, Italian, Delis, Pasta Shops, Specialty Food, International Grocery\n****\n name: Olive Garden Italian Restaurant \n categories: Restaurants, Salad, Bars, Nightlife, Italian, Wine Bars"
+        ]
+    }
+}

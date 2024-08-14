@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are interested in a pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for something more upscale, like a formal seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in mood for a casual seafood restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want bar food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nPrimoHoagies \nThe Milk House \nCinCin Restaurant \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station",
+            "Ristorante La Buca\nJack's Firehouse\nFederal Donuts\nChestnut 7\nFederal Donuts\nGolden Triangle\nDaleng Restaurant\nChinatown 11\nTalluto's Authentic Italian Food\nRoy-Pitz Barrel House",
+            "* Water Works Restaurant & Lounge \n* Grain Exchange \n* Daleng Restaurant \n* Bistrot SouthEast \n* Pearl's Oyster Bar \n* The Continental Restaurant and Martini Bar \n* Parc \n* Fiore Fine Foods \n* Audrey Claire \n* Evan's Pizza",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nWater Works Restaurant & Lounge \nHeritage \nKokopelli Restaurant & Tequila Bar \nIzumi \nA Tutti, Ristorante Italiano",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Zuzu's Kitchen \n PrimoHoagies \n Mong Kok Station \n The Tasty Toast",
+            " Mood Indian Restaurant\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nThe Juice Merchant\nRestaurant & Lounge Water Works\nThe Tasty Toast",
+            "Water Works Restaurant & Lounge \\n\nValley Green Inn \\n\nSang Kee Peking Duck House \\n\nBistro SouthEast \\n\nPearl's Oyster Bar \\n\nRistorante La Buca \\n\nFuji Mountain \\n\nOishii Pok\u00e9 \\n\nAudrey Claire \\n\nFederal Donuts",
+            "1. Water Works Restaurant & Lounge\n2. Founding Fathers Sports Bar & Grill\n3. Pearl's Oyster Bar\n4. Ristorante La Buca\n5. Audrey Claire\n6. Sang Kee Peking Duck House\n7. Bistro SouthEast\n8. Valley Green Inn\n9. CinCin Restaurant\n10. Oishii Pok\u00e9",
+            "Water Works Restaurant & Lounge \nPearl's Oyster Bar \nIzumi \nRistorante La Buca \nFuji Mountain \nCantonese Garden\nDaleng Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nAudrey Claire",
+            "1. Ristorante La Buca\n2. Water Works Restaurant & Lounge\n3. Valley Green Inn\n4. Bistro SouthEast\n5. Audrey Claire\n6. Pearl's Oyster Bar\n7. Izumi\n8. Fuji Mountain\n9. Canton 11\n10. Sang Kee Peking Duck House"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a steakhouse?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Japanese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a Japanese restaurant that offers sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Japanese Barbecue restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that offers Korean barbecue?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Japanese restaurant that serves ramen or other noodle dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a Japanese restaurant that serves dim sum or Cantonese dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle\nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nDaleng Restaurant \nThe Juice Merchant \nFuji Mountain \nSang Kee Peking Duck House \ncanton 11\nBaan Thai \nA Tutti, Ristorante Italiano",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Daleng Restaurant \n The Juice Merchant \n PrimoHoagies \n Zuzu's Kitchen \n Le Pain Quotidien \n CinCin Restaurant \n A Tutti, Ristorante Italiano",
+            " Zuzu's Kitchen\n Golden Triangle\n Water Works Restaurant & Lounge\n Germantown Garden\n Le Pain Quotidien\n CinCin Restaurant\n Lacroix Restaurant at The Rittenhouse\n Heritage\n Grain Exchange\n Daleng Restaurant",
+            "Izumi \nCanton 11 \nMiga Korean BBQ & Sushi \nFuji Mountain \nOishii Pok\u00e9 \nPearl's Oyster Bar \nRistorante La Buca \nSang Kee Peking Duck House \nTokyo Sushi Garden \nWasabi Sushi Bar",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nBenna's Cafe \nHey Hummus \nCinCin Restaurant \nVegan Monster \nNorth Bowl \nMalbec Argentine Steakhouse",
+            " Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nTokyo Noodle House \nOishii Pok\u00e9 \nIzakaya Nomad \nSushi at Center City \nMatsuri \nDouble Knot \nJapanica",
+            "Zuzu's Kitchen\nGolden Triangle\nIzumi\nA Tutti, Ristorante Italiano\nBaan Thai\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nOishii Pok\u00e9\nAudrey Claire\nParc",
+            "Izumi \nFuji Mountain \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nAudrey Claire \nRistorante La Buca \nPearl's Oyster Bar \nWater Works Restaurant & Lounge \nCinCin Restaurant \nNorth Bowl",
+            " Izumi \n Canton 11 \n Miga Korean BBQ & Sushi \n North Bowl \n Tu's Tea & Banh Mi South Philly \n Oishii Pok\u00e9 \n Gran Caffe L'Aquila \n Cafe L'Aube \n Parc\n Fuji Mountain ",
+            "Izumi \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nSang Kee Peking Duck House \\n\nRoy-Pitz Barrel House \\n\nGran Caffe L'Aquila \\n\nEvan's Pizza \\n\nThe Blue Duck \\n\nSister Muhammad's Kitchen \\n\nAudrey Claire"
+        ]
+    }
+}

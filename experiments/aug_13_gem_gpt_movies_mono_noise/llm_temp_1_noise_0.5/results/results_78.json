@@ -1,0 +1,58 @@
+{
+    "78": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an action or drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated or live-action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie adapted from a comic book?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch an adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about talking animals?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies about space travel?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about superheroes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Departed (2006)\n2. Terminator 3: Rise of the Machines (2003)\n3. A.I. Artificial Intelligence (2001)\n4. Big Red One, The (1980)\n5. Man from Earth, The (2007)\n6. No Man's Land (2001)\n7. Dangerous Liaisons (1988)\n8. Magnolia (1999)\n9. The Big Lebowski (1998)\n10. Brewster's Millions (1985)",
+            "1. Jack Reacher (2012)\n2. Captain Phillips (2013)\n3. Inception (2010)\n4. Avengers: Infinity War (2018)\n5. Tenet (2020)\n6. Hacksaw Ridge (2016)\n7. The Matrix (1999)\n8. Blade Runner 2049 (2017)\n9. The Martian (2015)\n10. The Prestige (2006)",
+            "1. Monsters, Inc. (2001) \n2. Last Temptation of Christ, The (1988) \n3. Pirates of the Caribbean: At World's End (2007) \n4. Laura (1944) \n5. Terminator 3: Rise of the Machines (2003) \n6. Blade Runner 2049 (2017) \n7. Ready Player One (2018) \n8. Big Hero 6 (2014) \n9. Enter the Void (2009) \n10. The Fall (2006)",
+            "1. Ready Player One\n2. Big Red One, The\n3. Nightcrawler\n4. Stranger than Fiction\n5. Real Steel\n6. Big Lebowski, The\n7. American Graffiti\n8. Face/Off\n9. Real Genius\n10. The Grapes of Wrath",
+            "1. Real Genius (1985)\n2. What's Up, Doc? (1972)\n3. The Big Lebowski (1998)\n4. Meet John Doe (1941)\n5. Brewster's Millions (1985)\n6. The Sure Thing (1985)\n7. American Graffiti (1973)\n8. Groundhog Day (1993)\n9. Airplane! (1980)\n10. Airplane II: The Sequel (1982)",
+            "1. Ant-Man (2015) \n2. Ready Player One\n3. Nightcrawler (2014) \n4. Real Steel (2011) \n5. End of Watch (2012) \n6. Jingle All the Way (1996) \n7. Moon (2009) \n8. Don Jon (2013) \n9. Real Genius (1985) \n10. Superbad (2007) ",
+            "1. Real Steel (2011) \n2. Ant-Man (2015) \n3. Pirates of the Caribbean: At World's End (2007) \n4. The Last Action Hero (1993) \n5. Terminator 3: Rise of the Machines (2003) \n6. Superman II (1980) \n7. Transporter 2 (2005) \n8. Ready Player One \n9. Blade II (2002) \n10. X-Men (2000)\n",
+            " Ant-Man (2015)\nReady Player One \nThe Big Lebowski (1998)\nBruce Almighty (2003)\nBad Education (La mala educaci\u00f3n) (2004)\nTenacious D in The Pick of Destiny (2006)\nBrewster's Millions (1985)\nThe Sure Thing (1985)\nIntolerable Cruelty (2003)\nWhat's Up, Doc? (1972)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Ready Player One \n4. Alita: Battle Angel (2019) \n5. Robot & Frank (2012) \n6. Terminator 3: Rise of the Machines (2003) \n7. Star Wars \n8. Starship Troopers (1997) \n9. Sunshine (2007) \n10. Gravity (2013)\n''''",
+            "1. Ant-Man (2015)\n2. Ready Player One\n3. Real Steel (2011)\n4. Starship Troopers (1997)\n5. Moon (2009)\n6. Gravity (2013)\n7. The Martian (2015)\n8. Interstellar (2014)\n9. Apollo 13 (1995)\n10. Armageddon (1998)"
+        ]
+    }
+}

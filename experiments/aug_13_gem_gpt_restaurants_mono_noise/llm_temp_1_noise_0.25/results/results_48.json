@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy american food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in something fast like a burger or pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a chicken burger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a chicken burger?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a cheeseburger?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for fries with your cheeseburger?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a hamburger?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Izumi \nSamurai Sushi Japanese Restaurant\nSushi Bar Kyoto Walnut \nOishii Pok\u00e9 \nFuji Mountain \nMiga Korean BBQ & Sushi \nCanton 11 \nSang Kee Peking Duck House \nGran Caffe L'Aquila \nCinCin Restaurant",
+            "Roy-Pitz Barrel House \\n\nCook and Shaker \\n\nZinburger Wine & Burger Bar \\n\nPearl's Oyster Bar \\n\nFounding Fathers Sports Bar & Grill \\n\nWawa \\n\nTwin Star Mexicans Cantina \\n\nVedge \\n\nThe Green Line Cafe \\n\nThe El Bar",
+            "Federal Donuts \nLucky's Last Chance \nThe QUICK FIXX \nFive Guys \nMisconduct Tavern \nThe Blue Duck \nBlackbird Pizzeria \nJack's Firehouse \nLisa's Kitchen \nSteve's Prince of Steaks",
+            "Water Works Restaurant & Lounge\nVeda - Modern Indian Bistro\nBistro SouthEast\nFederal Donuts\nThe Blue Duck\nBenna's Cafe\nFive Guys\nRoy-Pitz Barrel House\nBlackbird Pizzeria\nParc",
+            "Germantown Garden\nThe Tasty Toast\nFive Guys\nMisconduct Tavern\nThe Blue Duck\nThe QUICK FIXX\nBlackbird Pizzeria\nCook and Shaker\nThe El Bar\nSteve's Prince of Steaks",
+            "Five Guys\nLisa's Kitchen\nWawa\nWishbone\nBlackbird Pizzeria\nFranklin's\nLucky's Last Chance\nLove & Honey Fried Chicken\nJack's Firehouse\nBetty's Speakeasy",
+            "Five Guys \\n\nThe Blue Duck \\n\nThe Tavern Restaurant \\n\nMisconduct Tavern \\n\nRoy-Pitz Barrel House \\n\nWishbone \\n\nBlackbird Pizzeria \\n\nLisa's Kitchen \\n\nFranklin's \\n\nJack's Firehouse",
+            "- Five Guys \\n\n- Misconduct Tavern \\n\n- Lisa's Kitchen \\n\n- Franklin's \\n\n- Steve's Prince of Steaks \\n\n- The El Bar \\n\n- Federal Donuts \\n\n- The Blue Duck\n- Mad River Manayunk \\n\n- Lucky's Last Chance",
+            "South Street Cheesesteaks \\n\nThe Blue Duck \\n\nMisconduct Tavern \\n\nMacaroni's Restaurant \\n\nLisa's Kitchen \\n\nFive Guys \\n\nJack's Firehouse \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nSteve's Prince of Steaks\n''''",
+            "Five Guys \\n\nFederal Donuts \\n\nLisa's Kitchen \\n\nFranklin's \\n\nMisconduct Tavern \\n\nThe Blue Duck \\n\nThe Cheesecake Factory \\n\nThe El Bar \\n\nLucky's Last Chance \\n\nJack's Firehouse"
+        ]
+    }
+}

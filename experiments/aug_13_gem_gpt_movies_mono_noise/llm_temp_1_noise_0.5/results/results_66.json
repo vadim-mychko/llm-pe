@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something that has famous actors you can watch with your friends?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you more into anime films like Ponyo, Spirited Away and My Neighbor Totoro, or more into western animated films like Moana, Frozen and Toy Story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a spy movie?",
+                "response": "no"
+            },
+            {
+                "query": "How about a western animated film based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dark movie about computers like Tron?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime drama about a kidnapling like Trapped?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie starring animals like Homeward Bound?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Agatha Christie's Marple (ITV series)\n4. Death on the Nile (1978)\n5. Cronos (1993)\n6. Terminator 3: Rise of the Machines (2003)\n7. Darkman (1990)\n8. Delicatessen (1991)\n9. Black Robe (1991)\n10. Umberto D. (1952)\n",
+            "1. Monsters, Inc. (2001)\n2. Secret of Kells, The (2009)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Land Before Time, The (1988)\n5. Spirited Away (Sen to Chihiro no kamikakushi) (2001)\n6. My Neighbor Totoro (Tonari no Totoro) (1988)\n7. Homeward Bound: The Incredible Journey (1993)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. Princess Mononoke (Mononoke-hime) (1997)\n10. Kiki's Delivery Service (Majo no takky\u00fbbin) (1989)\n",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Laura (1944)\n6. Last Temptation of Christ, The (1988)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. Santa Sangre (1989)\n9. August Rush (2007)\n10. Blair Witch Project, The (1999)",
+            "1. Matilda (1996) \nTags: Danny DeVito, Mara Wilson, childhood, family, good adaptation, funny, heartwarming, kids in charge, bully, dancing, based on a book, school, phsyical comedy, charming, friendship\n2. Bridge to Terabithia (2007) \nTags: based on a book, adventure, drama, childhood, fantasy, Joshua Hutcherson, fun, AnnaSophia Robb, family, imagination, CGI, kids in charge, magic, coming of age, bullying, Narnia, Grief, friendship, movies about bullying\n3. Fantastic Mr. Fox (2009) \nGenres: Animation, Adventure, Comedy, Crime, Drama, Family \nTags: stop motion animation, based on a book, Wes Anderson, Wes Anderson style, claymation, animals, child star, great ending, animal movie, anthropomorphic animals, anthropomorphism, british, coming-of-age, crime, dark humor, dry humor, family film, fox, funny animals\n4. Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005) \nTags: fantasy, adventure, magic, Action, family, Tilda Swinton, Disney, Lion, Aslan, Good vs. Evil, big budget, based on a book, establishing a new mythos, chronicles of narnia, evil queen, fight scene, friendship, kids in charge, knights, epic fantasy, Religion\n5. Secret Life of Walter Mitty, The (2013) \nTags: daydream, Ben Stiller, office worker, escape from boring life, choosing the path less travelled, inspiration, adventure, great cinematography, screenplay, visually appealing, embracing life, based on a book, battle: not fighting the good fight, camaraderie, creative job, engaging conversation\n6. The Boxtrolls (2014) \nTags: stop motion animation, children, animation, Laika Entertainment, intriguing story, good animation, funny, Anthony Stacchi, Ben Kingsley, Dick In A Box, feel-good, halloween, humor, monster, stop-motion, dark, optimisim, orphans, standing up for the little guy, warmth\n7. Ratatouille (2007) \nGenres: Animation, Adventure, Comedy, Drama, Family \nTags: Disney Pixar, animation, food, Pixar, a feel-good movie, adventure, Animal Adventure, friendship, good editing, great soundtrack, good food, good storyline, inspiring story, mouse, paris, Pete Docter, guy being a chef, importance of courage and ambition, kitchen and cooking\n8. Corpse Bride (2005) \nTags: Tim Burton, stop motion animation, spooky, Corpse, macabre, Death, supernatural, animation, music, soundtrack, dancing, dour, gothic, marriage, kuromi, Robbie Coltrane, and DEATH, stop motion, zombies\n9. Shaun the Sheep Movie (2015) \nTags: Shaun the Sheep, stop motion animation, British, claymation, bite-sized british humor, ingeninus, sheep, Oscar Nominee, addictive, cute, flock of sheep, family film, funny, great animation, Hard T oFind English language, hilarious, kind heart, lovable, minimal dialog, heartwarming, stop motion\n10. Sing (2016) \nTags: animation, animals, comedy, more singing, broad humor, likeable characters, terrible rapping, disney type comedy, dream, singing, audience participation, celebrity voice cast, Get A Job, musical, trash pandas, that family feel, sob stories\n''''",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Secret of Kells, The (2009)\n5. Alita: Battle Angel (2019)\n6. Land Before Time, The (1988)\n7. A.I. Artificial Intelligence (2001)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Grapes of Wrath (1940)\n10. Cronos (1993)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Tomb Raider (2018)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. The Proposition (2005)\n8. How High (2001)\n9. The Secret of Kells (2009)\n10. Eragon (2006)",
+            "1. Spirited Away (2001)\n2. The Incredibles (2004)\n3. Toy Story 2 (1999)\n4. Frozen (2013)\n5. The Lion King (1994)\n6. Inside Out (2015)\n7. Despicable Me (2010)\n8. Finding Nemo (2003)\n9. Wall-E (2008)\n10. How to Train Your Dragon (2010)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. The Piano (1993)\n6. One Hour Photo (2002)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. Last Temptation of Christ, The (1988)\n9. Dracula (Bram Stoker's Dracula) (1992)\n10. All Quiet on the Western Front (1930)",
+            "1. **Lost in Translation (2003)**\n2. **Cronos (1993)**\n3. **Jane Eyre (1996)**\n4. **Umberto D. (1952)**\n5. **Black Robe (1991)**\n6. **Bruce Almighty (2003)**\n7. **Grapes of Wrath, The (1940)**\n8. **Eragon (2006)**\n9. **Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)**\n10. **5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)**",
+            "****\n Moana (2016) \n Genres: Action, Adventure, Animation, Comedy, Musical \n Tags: adventure, Animated, journey, Polynesian, anthropomorphic animals, Awesome Animation, Disney, Dwayne The Rock Johnson, humour, CGI Animation, Maui, Moana\n****\n Frozen (2013) \n Genres: Adventure, Animation, Comedy, Family, Fantasy, Musical, Romance \n Tags: adventure, Disney, Special powers, fantasy, Magic, Anna, Arendelle, Beautiful animation, Character Development, Elsa, Family Ties, Frozen, Humor, Let It Go, Mental Illness, Norway, Sisterhood\n****\n Toy Story (1995) \n Genres: Adventure, Animation, Comedy, Family, Fantasy, Sport \n Tags: classic, animation, Pixar, Woody, AFI 100 (Thrills), AFI 100 (Laughs), Children's classic, cinematically-significant, Ed Catmull, Friend, Harry Shearer, friendship, Innovative In Animation, love, Nostalgia, Parody, Personal Sacrifice, Quandary Of the Same Named Doll, Real, Revolutionary, second, Tim Allen, Tom Hanks, Toy\n****\n The Land Before Time (1988) \n Genres: Adventure, Animation, Children, Fantasy \n Tags: dinosaurs, friendship, classic, animation, nostalgic, Don Bluth, animated, Can't remember, Tyls\u00c3\u00a4, coming of age, coming-of-age, dead mother, dinosaur, earthquake, franchise, loss of loved one, my favourite kids movie, orphaned cartoon character, prehistoric, primitive time\n****\n Homeward Bound: The Incredible Journey (1993) \n Genres: Adventure, Children, Drama \n Tags: family, adventure, nostalgic, animals, feel-good, talking animals, dogs, Michael J. Fox, heartwarming, journey, loyalty, nature, Courage, Duwayne Dunham, Forest, HBO, Journey, Mountain, Seen 2019, animal movie\n****\n The Nightmare Before Christmas (1993) \n Genres: Animation, Children, Fantasy, Musical \n Tags: Animated, Magic, action adventure, Tim Burton, Christmas, Danny Elfman, Family movie, Ghostly, Gothic, Halloween, Henry Selick, Musical, Stop-motion, archetype, artistic, atmospheric, beautiful color palettes, bizarre, Burton, Burtonesque, childhood, christmas, creepy, CUTE, cult, dark, dark humor, Father, Ghosts, great, halloween\n****\n Spirited Away (2001) \n Genres: Animation, Adventure, Drama, Family, Fantasy \n Tags: Thought-provoking, fantasy, Animated, Spirited Away, adventure, bizzare, Artistic, Beauty, coming of age, Dark, dreamlike, Emotional, Father, folklore, Ghosts, girlfriends, growing up, highschool, imagination, loss of parents, Majo no takkyubin, Miyazaki, My Neighbor Totoro, Naive, Nature, Relation, Sorcery, Special powers, Travel, witches\n****\n Moana (2016) \n Genres: Action, Adventure, Animation, Comedy, Musical \n Tags: adventure, Animated, journey, Polynesian, anthropomorphic animals, Awesome Animation, Disney, Dwayne The Rock Johnson, humour, CGI Animation, Maui, Moana\n****\n Toy Story 4 (2019) \n Genres: Animation, Adventure, Comedy, Family, Fantasy \n Tags: Woody, Toy Story, comedy, fourth, Adventure, child's POV, CGI Animation, Don Rickles, Forky, Funny, Humor, Journey, Nostalgic, Tom Hanks, Tony Hale, anxiety, anthropomorphism, children stereotypes, disney, friendship, friendship in decline, gone wrong, insulting portrayal of disability, loss, loyalty, Modern Family, Old Age, Pixar love, realistic, sexism, trauma triggering\n****\n How to Train Your Dragon (2010) \n Genres: Action, Animation, Adventure, Comedy, Family, Fantasy \n Tags: Dragon, dragons, Animated, adventure, Berk, Cartoonish, Hiccup, kids-movie, Light hearted, Love, Parent-child, pixar-ish, stop-motion, Vikings, animation, Clever dragon, coming of age, Cute, feel good, Family adventure, Medieval, Outcast, outcast becomes hero, Premise, relationships, Unique"
+        ]
+    }
+}

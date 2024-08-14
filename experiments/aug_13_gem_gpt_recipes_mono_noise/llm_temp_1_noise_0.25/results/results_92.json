@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer to eat dessert?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sausages?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like nuts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like apples?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like bananas?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nLow sugar applesauce cupcakes\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nBlueberry pie made with blueberries and a cinnamon crumble\n****\nNorway cake with lingonberry and whipped cream layers\n****\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\nPeach cobbler dessert containing whole wheat flour\n****\nPeppermint chocolate bonbon\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk****\n'''",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked spinach quiche containing bacon\nPork chops glazed with milk and cooked without nuts\nClassic salad with creamy caesar dressing and croutons\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nPeach cobbler dessert containing whole wheat flour",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Grilled chicken with lemon sauce\n7. Roasted almonds\n8. Chicken cooked and flavored with lemon sauce\n9. Spanish rice with chicken breast\n10. Baked chicken breasts with mozzarella and bacon",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Low sugar applesauce cupcakes\n4. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. Roasted almonds\n7. Homemade soup with chicken, noodles, and spices\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Grilled chicken made with lemon sauce",
+            " Chocolate and orange-flavoured smoothie\n****\n Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\n Sugar-free peanut butter cookies\n****\n Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\n Low sugar applesauce cupcakes\n****\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n Slushie drink made from orange juice blended with ice\n****\n Low fat coconut alcohol-free cocktail\n****\n Low fat sweet potato fries made with cajun seasoning\n****",
+            "1. Chocolate and orange-flavoured smoothie\n2. Low sugar applesauce cupcakes\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Peach cobbler dessert containing whole wheat flour\n8. Baked spinach quiche containing bacon\n9. Berry cobbler that uses frozen mixed berries\n10. Sweet salad made with corn and three types of beans\n'''",
+            "1. Low sugar applesauce cupcakes\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Chocolate and orange-flavoured smoothie\n4. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n5. Norway cake with lingonberry and whipped cream layers\n6. Sugar-free peanut butter cookies\n7. Blackberry jam\n8. Peach cobbler dessert containing whole wheat flour\n9. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n'''",
+            "Chicken breasts stuffed with bacon and mozzarella\nLow fat baked breakfast pie made with sausage (pork) and apples\nCreamy base with dill flavoring, eggs, and noodles\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nBaked breakfast bars made with nuts and seeds\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPork chops glazed with milk and cooked without nuts\nBaked mozzarella cheese sticks with marinara sauce",
+            "1. Low sugar applesauce cupcakes\n2. Peach cobbler dessert containing whole wheat flour\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n5. Banana bread made with whole wheat flour and walnuts\n6. Gluten-free, egg-free, dairy-free, nut-free fudge\n7. oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. Baked breakfast bars made with nuts and seeds\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Smoothie made from banana puree with milk\n",
+            "Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeach cobbler dessert containing whole wheat flour\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBanana bread made with whole wheat flour and walnuts\nBaked breakfast bars made with nuts and seeds\nLow fat sweet potato fries made with cajun seasoning\nRoasted almonds\nSweet salad made with corn and three types of beans\nChicken cooked and flavored with lemon sauce\n'''"
+        ]
+    }
+}

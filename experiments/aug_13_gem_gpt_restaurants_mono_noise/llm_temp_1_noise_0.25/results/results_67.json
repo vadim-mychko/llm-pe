@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan or vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast or brunch options?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to order sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see restaurants that serve pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see places close to your current location?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for coffee or tea on top of the pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see restaurants that have American food options other than pizza?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "Fuji Mountain \nLacroix Restaurant at The Rittenhouse \nPearl's Oyster Bar \nRoy-Pitz Barrel House \nVedge \nWegmans \nZuzu's Kitchen \nBaan Thai \nDim Sum House \nTu's Tea & Banh Mi South Philly",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Tasty Toast \nCinCin Restaurant \nGrain Exchange \nIzumi \nA Tutti, Ristorante Italiano \nThe Milk House",
+            "Water Works Restaurant & Lounge \nThe Tasty Toast \nThe Milk House \nThe Grill  Smuckers \nThe Tavern Restaurant \nOlive Garden Italian Restaurant \nBenna's Cafe \nRoy-Pitz Barrel House \nThe Blue Duck \nThe El Bar",
+            "Lacroix Restaurant at The Rittenhouse \nThe Blue Duck \nAudrey Claire \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nRoy-Pitz Barrel House \nMacaroni's Restaurant \nBlackbird Pizzeria \nZuzus Kitchen \nChestnut 7",
+            "1. Zuzu's Kitchen \n2. A Tutti, Ristorante Italiano \n3. Macaroni's Restaurant \n4. Evan's Pizza \n5. Blackbird Pizzeria \n6. Fiore Fine Foods \n7. Chestnut 7 \n8. The QUICK FIXX \n9. Betty's Speakeasy \n10. Audrey Claire ",
+            "Zuzu's Kitchen\nLacroix Restaurant at The Rittenhouse\nThe Tasty Toast\nA Tutti, Ristorante Italiano\nFederal Donuts\nOlive Garden Italian Restaurant\nFiore Fine Foods\nChestnut 7\nThe Cheesecake Factory\nAngelina's Pizza",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. The Tasty Toast \n3. Grain Exchange \n4. Mugshots Coffeehouse \n5. Five Guys \n6. Misconduct Tavern \n7. Roy-Pitz Barrel House \n8. Blackbird Pizzeria \n9. The QUICK FIXX \n10. Betty's Speakeasy",
+            " Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nMiga Korean BBQ & Sushi \\n\nFreddy & Tony's Pizza \\n\nD'Allesandro's Steaks & Hoagies \\n\nEvan's Pizza \\n\nLuigi's Italian Restaurant \\n\nPoppy's Pizzeria \\n\nVince's Pizza \\n\nChestnut 7",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Local Tavern \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n The Juice Merchant \n Mong Kok Station \n Le Pain Quotidien \n CinCin Restaurant "
+        ]
+    }
+}

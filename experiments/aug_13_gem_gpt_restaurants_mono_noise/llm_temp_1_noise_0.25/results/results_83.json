@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Do you like vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider Italian bakeries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bakery that also serves food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bakery that serves desserts like cakes, cookies, and pastries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in finding a bakery that serves Italian desserts?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant\nGolden Triangle \nFederal Donuts\nChinatown 11\nMalbec Argentine Steakhouse \nCinCin Restaurant \nFederal Donuts\nThe Green Line Cafe \nThe Cheesecake Factory\n Fuji Mountain",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            "1. Water Works Restaurant & Lounge\n2. Germantown Garden\n3. Lacroix Restaurant at The Rittenhouse\n4. Golden Triangle\n5. Daleng Restaurant\n6. Heritage\n7. Bistro SouthEast\n8. Canton 11\n9. Macaroni's Restaurant\n10. Pearl's Oyster Bar",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "1. A Tutti, Ristorante Italiano \n2. PrimoHoagies \n3. Ristorante La Buca \n4. Talluto's Authentic Italian Food \n5. Macaroni's Restaurant \n6. Castellino's \n7. Fiore Fine Foods \n8. Jack's Firehouse \n9. Founding Fathers Sports Bar & Grill \n10. Spread Bagelry",
+            " Talluto's Authentic Italian Food\n Castellino's\n A Tutti, Ristorante Italiano\n Ristorante La Buca\n Macaroni's Restaurant\n Fiore Fine Foods\n Oteri's Italian Bakery | North 5th St\n Lisa's Kitchen\n Betty's Speakeasy\n Olive Garden Italian Restaurant",
+            " Oteri's Italian Bakery | North 5th St\nTalluto's Authentic Italian Food\nA Tutti, Ristorante Italiano\nPrimoHoagies\nThe QUICK FIXX\nCastellino's\nFiore Fine Foods\nLisa's Kitchen\nMacaroni's Restaurant\nOlive Garden Italian Restaurant",
+            " Fiore Fine Foods \n A Tutti, Ristorante Italiano \n Blackbird Pizzeria \n Talutto's Authentic Italian Food \n Castellino's \n The QUICK FIXX \n Betty's Speakeasy \n Oteri's Italian Bakery | North 5th St \n Macaroni's Restaurant \n Parc",
+            "1. Fiore Fine Foods\n2. Betty's Speakeasy\n3. Oteri's Italian Bakery | North 5th St\n4. Gran Caffe L'Aquila\n5. Chestnut 7\n6. The QUICK FIXX\n7. Ristorante La Buca\n8. Macaroni's Restaurant\n9. Jake's & Cooper's Wine Bar & Wine Shop\n10. A Tutti, Ristorante Italiano",
+            "1. Fiore Fine Foods \n2. Betty's Speakeasy \n3. Oteri's Italian Bakery | North 5th St \n4. Gran Caffe L'Aquila \n5. KC's Pastries \n6. Blackbird Pizzeria \n7. Cafe L'Aube \n8. Le Pain Quotidien \n9. A Tutti, Ristorante Italiano \n10. Olive Garden Italian Restaurant"
+        ]
+    }
+}

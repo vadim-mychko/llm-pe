@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Are you into italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like something American?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a tavern?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for any sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have any interest in Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food with burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for food with chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nDaleng Restaurant \nFederal Donuts \nMong Kok Station",
+            " Golden Triangle \n Daleng Restaurant \n Canton 11 \n Sang Kee Peking Duck House \n Baan Thai \n Dim Sum House \n KC's Pastries \n Oishii Pok\u00e9 \n Cafe L'Aube \n Gran Caffe L'Aquila",
+            "Canton 11 \n Dim Sum House \n The Blue Duck \n Zavino \n The Saloon \n The Tap Room on 19th \n The El Bar \n Ristorante La Buca \n The Chestnut Club \n  JLicks\n'''",
+            "Fuji Mountain \nThe Continental Restaurant and Martini Bar \nBloomsday Cafe \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nFederal Donuts \nJack's Firehouse \nThe QUICK FIXX \nCock and Shaker \nFederal Donuts",
+            " Daleng Restaurant\nGolden Triangle\nGermantown Garden\nWater Works Restaurant & Lounge\nMong Kok Station\nFuji Mountain\nCanton 11\nTavern On the Hill\nMalbec Argentine Steakhouse\nPearl's Oyster Bar",
+            "Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nThe Juice Merchant \nThe Milk House \nValley Green Inn \nMugshots Coffeehouse \nMing Korean BBQ & Sushi \nMisconduct Tavern",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGermantown Garden\nLacroix Restaurant at The Rittenhouse\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            " Zuzu's Kitchen \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nA Tutti, Ristorante Italiano \nOishii Pok\u00e9 \nEvan's Pizza \nBlackbird Pizzeria \nThe QUICK FIXX \nKC's Pastries",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nDaleng Restaurant \nThe Tasty Toast \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House",
+            "Daleng Restaurant \nLacroix Restaurant at The Rittenhouse \nChinatown Beer Garden\nA Tutti, Ristorante Italiano \nRoy-Pitz Barrel House \nWater Works Restaurant & Lounge \nTu's Tea & Banh Mi South Philly \nZuzu's Kitchen \nGolden Triangle \nVeda - Modern Indian Bistro"
+        ]
+    }
+}

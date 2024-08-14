@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an action movie with violence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set during World War II?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a historical drama about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a historical drama about advanced technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a war other than World War 2?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war movie that deals with technology, war machine or military strategy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a war movie that is still based on true events?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a historical drama set during World War I?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something older, like a Civil War movie about a war machine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a historical drama about an American Civil War?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. Stranger than Fiction (2006)\n3. Corpse (2003)\n4. Proposition, The (2005)\n5. Bernie (2011)\n6. Enter the Void (2009)\n7. Love Me If You Dare (2003)\n8. Lost in Translation (2003)\n9. Secret of Kells, The (2009)\n10. Control (2007)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985)\nTomb Raider (2018) \nSanta Sangre (1989) \nThe Piano (1993) \nBernie (2011) \nThe Man from Earth (2007) \nThe Big Red One (1980) \nMr. Holmes (2015) \nA.I. Artificial Intelligence (2001)",
+            "1. Real Steel (2011) \\n\n2. Terminator 3: Rise of the Machines (2003) \\n\n3. The Terminator (1984) \\n\n4. T2: Judgment Day (1991) \\n\n5. Ready Player One \\n\n6. Ex Machina (2014) \\n\n7. Tron: Legacy (2010) \\n\n8. The Matrix (1999) \\n\n9. Upgrade (2018) \\n\n10. A.I. Artificial Intelligence (2001) \\n",
+            "1. Mr. Holmes (2015)\n2. A.I. Artificial Intelligence (2001)\n3. Robot & Frank (2012)\n4. The Corporation (2003)\n5. The Grapes of Wrath (1940)\n6. Real Steel (2011)\n7. American Graffiti (1973)\n8. The Boy in the Striped Pajamas (2008)\n9. Terminator 3: Rise of the Machines (2003)\n10. Timeline (2003)",
+            "Terminator 3: Rise of the Machines (2003) \nSaving Private Ryan (1998) \nThe Big Red One (1980) \nEuropa (Zentropa) (1991) \nVon Ryan's Express (1965) \nKing Kong (2005) \nGremlins 2: The New Batch (1990) \nDarkman (1990) \nThe Crown Affair - Thomas Crown Affair, The (1968) \nMoby Dick (1956)",
+            "1. Meet John Doe (1941) \n2. The Grapes of Wrath (1940) \n3. Europa (Zentropa) (1991) \n4. All Quiet on the Western Front (1930) \n5. The Corporation (2003) \n6. Real Steel (2011) \n7. The Iron Giant (1999) \n8. Colossus: The Forbin Project (1970) \n9. A.I. Artificial Intelligence (2001) \n10. RoboCop (1987) ",
+            "Control (2007) \nThomas Crown Affair, The (1968) \nThe Man from Earth (2007) \n127 Hours (2010) \nBrewster's Millions (1985) \nReal Genius (1985) \nTron: Legacy (2010) \nOctober Sky (1999) \nHidden Figures (2016) \nApollo 13 (1995)",
+            "1. 50 First Dates (2004)\n2. What's Up, Doc? (1972)\n3. Tom Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Last Temptation of Christ, The (1988)\n6. The Lost World: Jurassic Park (1997)\n7. Laura (1944)\n8. Abraham Lincoln: Vampire Hunter (2012)\n9. Love Me If You Dare (Jeux d'enfants) (2003)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Guns of August\n2. Merry Christmas (Joyeux No\u00ebl)\n3. Flags of Our Fathers\n4. Letters from Iwo Jima\n5. The Thin Red Line\n6. Dunkirk\n7. 1917\n8. Testament of Youth\n9. Regeneration\n10. Journey's End",
+            "Abraham Lincoln: Vampire Hunter (2012)  \nBig Red One, The (1980) \\n\nReal Steel (2011)  \nGettysburg (1993)  \nGlory (1989)  \nGods and Generals (2003)  \nLieutenant Colonel Bull Randle, C.S.A. (1979)  \nRapa Nui (1994)  \nRob Roy (1995)  \nSandler's Great War Movie (1924)"
+        ]
+    }
+}

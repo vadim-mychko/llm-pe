@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a bagel shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a chicken shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sandwich shop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Japanese restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer traditional American food or modern American food?",
+                "response": "it is not clear from the item description whether the restaurant serves traditional american food or modern american food."
+            },
+            {
+                "query": "Okay, here is another question: Are you interested in a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups and salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Water Works Restaurant & Lounge \\n\nGrain Exchange \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n\nChestnut 7 \\n\nOishii Pok\u00e9 \\n\nPure Tacos \\n\nGran Caffe L'Aquila \\n\nRoy-Pitz Barrel House\nFederal Donuts",
+            "Oishii Pok\u00e9 \\n\nIzumi \\n\nFuji Mountain \\n\nRoy-Pitz Barrel House \\n\nThe Continental Restaurant and Martini Bar \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nPearl's Oyster Bar \\n\nThe El Bar \\n\nFounding Fathers Sports Bar & Grill",
+            "Dim Sum House \nRistorante La Buca \nTavern On the Hill \nVedge \nMalbec Argentine Steakhouse \nJack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nSpread Bagelry \nLis's Kitchen",
+            "Mood Indian Restaurant\nLocal Tavern\nWater Works Restaurant & Lounge\nZuzu's Kitchen\nGolden Triangle\nFuji Mountain\nCanton 11\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly\nRoy-Pitz Barrel House",
+            "Fuji Mountain\nCanton 11\nSang Kee Peking Duck House\nMiga Korean BBQ & Sushi\nWawa\nThe QUICK FIXX\nOishii Pok\u00e9\nBetty's Speakeasy\nNew York Gyro Truck\nThe Fresh Grocer - Progress Plaza",
+            "1. Water Works Restaurant & Lounge\n2. Germantown Garden \n3. Lacroix Restaurant at The Rittenhouse\n4. The Tasty Toast \n5. The Milk House \n6. The Grill  Smuckers\n7. CO-OP Restaurant & Lounge\n8. The Continental Restaurant and Martini Bar \n9. The Blue Duck \n10. Pearl's Oyster Bar",
+            " Lacroix Restaurant at The Rittenhouse\nHeritage \nThe Milk House\nThe Grill  Smuckers \nThe Tavern Restaurant \nThe Continental Restaurant and Martini Bar \nVedge \nThe Blue Duck \nMacaroni's Restaurant\nFranklin's \n Founding Fathers Sports Bar & Grill\nThe Cheesecake Factory \nAudrey Claire",
+            " Pearl's Oyster Bar \\n\nMacaroni's Restaurant \\n\nZuzus Kitchen \\n\nThe Blue Duck \\n\nThe Fresh Grocer - Progress Plaza \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe El Bar \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nTrolley Car Diner",
+            "1. The Tavern Restaurant\n2. Mad River Manayunk\n3. Paddy's Old City Pub\n4. Misconduct Tavern\n5. Founders Fahers Sports Bar & Grill\n6. Chestnut 7 \n7. Green Leafs & Bananas \n8. Steve's Prince of Steaks\n9. Trolley Car Diner \n10. Spread Bagelry",
+            "The Tavern Restaurant \nCO-OP Restaurant & Lounge \nValley Green Inn \nJack's Firehouse \nThe Grill - Smuckers \nThe Tasty Toast \nLove & Honey Fried Chicken \nMacaroni's Restaurant \nWishbone \nRed Lobster"
+        ]
+    }
+}

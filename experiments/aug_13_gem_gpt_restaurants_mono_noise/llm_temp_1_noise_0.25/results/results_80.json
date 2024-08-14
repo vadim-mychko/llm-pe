@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Do places with pizza interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for either sandwiches or burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Does a salad option sound appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants with gluten-free food options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve american cuisines?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that offer a food delivery service?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants that serve chicken wings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nSang Kee Peking Duck House \\n\nDim Sum House \\n\nRistorante La Buca \\n\nTu's Tea & Banh Mi South Philly \\n\nParc \\n\nOteri's Italian Bakery | North 5th St \\n\nA Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant",
+            "Vedge \nMonster Vegan \nHey Hummus \nBenna's Cafe \nThe Juice Merchant \nGreen Leafs & Bananas \nLuvh Vegan Deli \nTrolley Car Diner \nThe Green Line Cafe \nEssen",
+            "1. Monster Vegan \n2. Vedge \n3. Benna's Cafe \n4. Essene Market & Caf\u00e9 \n5. The QUICK FIXX \n6. Blackbird Pizzeria \n7. Luhv Vegan Deli \n8. Pure Tacos \n9. Love & Honey Fried Chicken \n10. Cafe L'Aube",
+            "Vedge \nMonster Vegan \nBenna's Cafe \nHey Hummus \nThe Green Line Cafe \nMaluvern Pizza & Cafe \nThe QUICK FIXX \nLuvh Vegan Deli \nSpread Bagelry \nBlackbird Pizzeria",
+            "1. Monster Vegan \n2. Hey Hummus \n3. Vedge \n4. The QUICK FIXX \n5. LongHorn Steakhouse \n6. Lisa's Kitchen \n7. Luhv Vegan Deli \n8. Green Leafs & Bananas \n9. The Green Line Cafe \n10. Spread Bagelry",
+            "Monster Vegan \nVedge \nHey Hummus \nBlackbird Pizzeria \nLuvh Vegan Deli \nGran Caffe L'Aquila \nThe Green Line Cafe \nEssen Market & Caf\u00e9 \nBenna's Cafe \nPure Tacos",
+            "Monster Vegan \nBenna's Cafe \nHey Hummus \nCook and Shaker \nVedge \nBloomsday Cafe \nCinCin Restaurant \nGrain Exchange \nFounding Fathers Sports Bar & Grill \nThe Blue Duck",
+            "* Pane-America Restaurant\n* Luckys Last Chance\n* Honeygrow\n* Dirty Franks\n* Jake & Co Craft Beer Bar & Kitchen\n* Bar Bombon\n* Liberty Kitchen\n* Taproom on 19th\n* Fitz & Starts\n* The Bottle Shop",
+            "Wishbone \\n\nMad River Manayunk \\n\nFive Guys \\n\nSouthGate \\n\nBetty's Speakeasy \\n\nSister Muhammad's Kitchen \\n\nLove & Honey Fried Chicken \\n\nGreen Leafs & Bananas \\n\nLisa's Kitchen \\n\nRittenhouse Grill",
+            "Love & Honey Fried Chicken \\n\nWing Stop \\n\nMonster Vegan \\n\nFranklin's \\n\nCook and Shaker \\n\nJD Mcgillicuddy's Manayunk \\n\nWishbone \\n\nMisconduct Tavern \\n\nSouth Philly Barbacoa \\n\nJack's Firehouse"
+        ]
+    }
+}

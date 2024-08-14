@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a restaurant with vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a good bar or nightlife spot?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that serves chicken wings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a dive bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar with chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer American or Italian sandwiches?",
+                "response": "american"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nThe Green Line Cafe \\n\nThe Juice Merchant \\n\nIzumi \\n\nSang Kee Peking Duck House \\n\nBloomsday Cafe",
+            "The Green Line Cafe \nThe Tavern Restaurant \nFederal Donuts \nBenna's Cafe \nNorth Bowl \nMad River Manayunk \nThe Blue Duck \nJD Mcgillicuddy's Manayunk \n Founding Fathers Sports Bar & Grill \nMcMenamin's Tavern",
+            "Wishbone\nVedge\nRoy-Pitz Barrel House\nFederal Donuts\nGrain Exchange\nThe Tavern Restaurant\nKokopelli Restaurant & Tequila Bar\nHeritage\nBloomsday Cafe\nLove & Honey Fried Chicken",
+            "Wishbone \nFounding Fathers Sports Bar & Grill \nLucky's Last Chance \nFive Guys \nMisconduct Tavern \nThe Tavern Restaurant \nMad River Manayunk \nJack's Firehouse \nFederal Donuts \nFranklin's",
+            " Wishbone\nJack's Firehouse\nFranklin's\nPaddy's Old City Pub\nJD Mcgillicuddy's Manayunk\nLucky's Last Chance\nFounding Fathers Sports Bar & Grill\nChestnut 7\nThe El Bar\nMisconduct Tavern",
+            "Jack's Firehouse\nEl Bar\nFounding Fathers Sports Bar & Grill\nWishbone\nFranklin's\nJD Mcgillicuddy's Manayunk\nMacaroni's Restaurant\nChestnut 7\nPaddy's Old City Pub\nMcMenamin's Tavern",
+            " Jack's Firehouse \\n\nPearl's Oyster Bar \\n\nFranklin's \\n\nThe Green Line Cafe \\n\nAudrey Claire \nLucky's Last Chance \\n\nLove & Honey Fried Chicken\nJD Mcgillicuddy's Manayunk \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\n Founding Fathers Sports Bar & Grill \\n",
+            "The El Bar\nWishbone\nFranklin's\nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nChestnut 7\nOteri's Italian Bakery | North 5th St\nMcMenamin's Tavern\nCJ & Eck's\nRival Bros Coffee",
+            "Misconduct Tavern\nFranklin's\nNorth Bowl\nFounding Fathers Sports Bar & Grill\nJD Mcgillicuddy's Manayunk\nThe Continental Restaurant and Martini Bar\nRepublic\nMcGillin's Olde Ale House\nHavana\nThe Irish Pol\n",
+            "American Saloon \\n\nThe El Bar \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nMisconduct Tavern \\n\nThe Tavern Restaurant \\n\nFounding Fathers Sports Bar & Grill \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nGermantown Garden"
+        ]
+    }
+}

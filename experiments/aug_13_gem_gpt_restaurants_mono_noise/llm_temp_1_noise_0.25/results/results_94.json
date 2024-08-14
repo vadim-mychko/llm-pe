@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer American style food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi or ramen?",
+                "response": "no"
+            },
+            {
+                "query": "Does BBQ sound appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Would you consider Burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a food truck?",
+                "response": "no"
+            },
+            {
+                "query": "How about Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Vietnamese dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \nGolden Triangle \nWater Works Restaurant & Lounge \nA Tutti, Ristorante Italiano \nGermantown Garden \nZuzu's Kitchen \nFederal Donuts \nMong Kok Station \nIzumi \nPearl's Oyster Bar",
+            "Water Works Restaurant & Lounge \nDaleng Restaurant \nGolden Triangle \nThe Tasty Toast \nSang Kee Peking Duck House \nMisconduct Tavern \nCastellino's \nBaan Thai \nMisconduct Tavern \nCinCin Restaurant",
+            "- The QUICK FIXX\n- Blackbird Pizzeria\n- Fiore Fine Foods\n- Gran Caffe L'Aquila\n- Lisa's Kitchen\n- Sang Kee Peking Duck House\n- Tavern On the Hill\n- The El Bar\n- Izumi\n- Roy-Pitz Barrel House",
+            " The Continental Restaurant and Martini Bar\n Blackbird Pizzeria \n Chestnut 7 \n Water Works Restaurant & Lounge \n Dim Sum House \n Olive Garden Italian Restaurant\n Fiore Fine Foods \n Evan's Pizza \n Betty's Speakeasy\nAudrey Claire",
+            " Water Works Restaurant & Lounge \nPearl's Oyster Bar \nFuji Mountain \nRistorante La Buca \nAudrey Claire \nThe QUICK FIXX \nGolden Triangle \nLongbranch \nIndeblue \nCantina Dos Segundos",
+            " Golden Triangle \nDaleng Restaurant \nCanton 11 \nCO-OP Restaurant & Lounge \nJake's & Cooper's Wine Bar & Wine Shop \nEvan's Pizza \nThe QUICK FIXX \nCook and Shaker \nFederal Donuts \n Chestnut 7",
+            "Canton 11 \nDim Sum House \nSang Kee Peking Duck House \nMiga Korean BBQ & Sushi \nGolden Triangle \nDaleng Restaurant \nBistro SouthEast \nMood Indian Restaurant \nLacroix Restaurant at The Rittenhouse \nBaan Thai \nIzumi",
+            "1. Zuzu's Kitchen\n\n2. Golden Triangle\n\n3. Water Works Restaurant & Lounge\n\n4. Lacroix Restaurant at The Rittenhouse\n\n5. Germantown Garden\n\n6. PrimoHoagies\n\n7. Daleng Restaurant\n\n8. The Juice Merchant\n\n9. Federal Donuts\n\n10. Mong Kok Station",
+            "Daleng Restaurant \nBistro SouthEast \nGrain Exchange \nMiga Korean BBQ & Sushi \nCitron & Rose \nParc \nSang Kee Peking Duck House \nIzumi \nCanton 11 \nThuy Asian Restaurant\n'''",
+            "Bistro SouthEast\nDaleng Restaurant \nThai MEE UP\nBaan Thai \nMiga Korean BBQ & Sushi \nChinatown Square \nPad Thai \nTommy Up\nThe Grille at 1908 \nPattaya BYOB"
+        ]
+    }
+}

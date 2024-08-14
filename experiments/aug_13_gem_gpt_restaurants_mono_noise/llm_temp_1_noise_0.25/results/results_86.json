@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian cuisine or vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a restaurant with both Italian and vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant with only vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian restaurants at the moment?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian pizzerias?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Italian restaurants that also serve American (New) cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer restaurants that include salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian restaurants that also serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you considering restaurants that may include burgers as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want Italian restaurants that have chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "A Tutti, Ristorante Italiano \nPrimoHoagies \nMonster Vegan \nVedge \nHey Hummus \nEssene Market & Caf\u00e9 \nCastellino's \nTalluto's Authentic Italian Food \nMargariti Restaurant & Wine Bar \nZavino Italian Kitchen",
+            "Monster Vegan \nVedge \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nThe QUICK FIXX \nBellina Cucina \nThe Green Line Cafe \nA Tutti, Ristorante Italiano \nVerde \nAudrey Claire",
+            "A Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nCastellino's \nPastaficio \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nBlackbird Pizzeria \nThe QUICK FIXX \nAudrey Claire \nOteri's Italian Bakery | North 5th St",
+            " A Tutti, Ristorante Italiano \n Macaroni's Restaurant \n Castellino's \n Talluto's Authentic Italian Food \n Ristorante La Buca \n PrimoHoagies \n The QUICK FIXX \n Olive Garden Italian Restaurant \n Fiore Fine Foods \n Zazu's Kitchen",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods \n3. Macaroni's Restaurant \n4. Pizzeria Stella \n5. Chestnut 7 \n6. The Blue Duck \n7. South Philly Barbacoa \n8. Sabrina's Cafe \n9. Suraya \n10. Zama",
+            "A Tutti, Ristorante Italiano\nTacconelli's Pizzeria BYOB\nPizzeria Stella\n Fiore Fine Foods \n Fette Sau \nOsteria \nIl Pittore \nRoman Delight \nSabrina's Cafe\nCaffe Aldo Lamberti",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nTalluto's Authentic Italian Food\nCastellino's\nMacaroni's Restaurant\nFiore Fine Foods\nEvan's Pizza\nBlackbird Pizzeria\nThe QUICK FIXX\nBetty's Speakeasy\nChestnut 7",
+            "1. A Tutti, Ristorante Italiano \n2. Castellino's \n3. CinCin Restaurant \n4. Fiore Fine Foods \n5. Ristorante La Buca \n6. PrimoHoagies \n7. Talluto's Authentic Italian Food \n8. Fiore Fine Foods \n9. Fiore Fine Foods \n10. Fiore Fine Foods",
+            "Daleng Restaurant \\n\nFederal Donuts \\n\nPrimoHoagies \\n\nZuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nDi Bruno Bros. \\n\nThe QUICK FIXX \\n\nGran Caffe L'Aquila",
+            "* A Tutti, Ristorante Italiano \n* Zuzu's Kitchen \n* The QUICK FIXX \n* Fiore Fine Foods \n* PrimoHoagies \n* Daleng Restaurant \n* Blackbird Pizzeria \n* Castellino's \n* Luhv Vegan Deli \n* Lisa's Kitchen\n* Bella Vista Birra \n* Green Leafs & Bananas \n* Jacks Firehouse \n* Chestnut 7 \n* Oishii Pok\u00e9 \n* Bistro SouthEast \n* Pizzeria Stella \n* Fiore Fine Foods \n* Lara Mia Philadelphia \n* Trattoria Carina \n* Luna Cafe \n* Spread Bagelry \n* The Bygone \n* Parc \n* Fiore Fine Foods \n* Caffe Rovigliano \n* Cafe L'Aube \n* Tinto \n* Cafe Ole \n* Nomad Pizza \n* Cantina Los Caballitos \n* Pizzeria Beddia \n* Her Place Supper Club \n* Eagle Pizza \n* Ristorante Museo \n* Hungry Pigeon \n* Vespa \n* Circles Cafe and Catering \n* Forto \n* Geechee Girl Rice Cafe & Catering \n* The Foodery \n* Bufad \n* La Forchetta Ristorante Pizzeria \n* Pizzeria Stella \n* Ike's Cheesesteaks \n* Brick and Mortar \n* Original 13 Ciderworks \n* Pastificio Homemade Pasta \n* La Bottega Di Gerri \n* Pizzeria Beddia \n* Brick and Mortar \n* Panorama \n* Blackbird Pizzeria \n* Donia's Lebanese Cuisine \n* The Green Line Cafe \n* The Abbaye"
+        ]
+    }
+}

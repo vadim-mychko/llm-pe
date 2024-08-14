@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something vegetarian?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Italian sandwiches or vegan sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see options for non-vegan sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer sandwiches with meat or vegetarian?",
+                "response": "i cannot determine your preference based on the given item description."
+            },
+            {
+                "query": "Do you have any interest in American sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for deli sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a vegetarian burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches with fish?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Mood Indian Restaurant\nThe Juice Merchant\nHey Hummus\nVedge\nMonster Vegan\nBenna's Cafe\nEssene Market & Caf\u00e9\nGreen Leafs & Bananas\nLuhv Vegan Deli\nThe Green Line Cafe",
+            " Vedge \\n\nMonster Vegan \\n\nBenna's Cafe \\n\nHey Hummus \\n\nThe QUICK FIXX \\n\nLuhv Vegan Deli \\n\nSister Muhammad's Kitchen \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nCafe L'Aube",
+            "Monster Vegan \nVedge \nThe QUICK FIXX \nLuvh Vegan Deli \nSpread Bagelry \nThe Green Line Cafe \nBetty's Speakeasy \nBlackbird Pizzeria \nThe Juice Merchant \nBenna's Cafe",
+            "Monster Vegan \nBeena's Cafe \nVedge \nThe Juice Merchant \nThe Green Line Cafe \nBlackbird Pizzeria \nThe QUICK FIXX \nLuvh Vegan Deli \nSpread Bagelry \nAudrey Claire",
+            "Monster Vegan \\n\nVedge \\n\nHey Hummus \\n\nBetty's Speakeasy \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nCafe L'Aube \\n\nJack's Firehouse \\n\nDim Sum House",
+            "- Monster Vegan \n- Luhv Vegan Deli \n- Green Leafs & Bananas \n- Spread Bagelry \n- The QUICK FIXX \n- The Green Line Cafe \n- PrimoHoagies \n- The Juice Merchant \n- Betty's Speakeasy \n- Zuzu's Kitchen",
+            "Monster Vegan\nLuvh Vegan Deli\nBlackbird Pizzeria\nThe Blue Duck\nBetty's Speakeasy\nSpread Bagelry\nCafe L'Aube\nThe Green Line Cafe\nGran Caffe L'Aquila\nGreen Leafs & Bananas",
+            "Cafe L'Aube\nVera - Modern Indian Bistro\nThe QUICK FIXX\nGreen Leafs & Bananas\nThe Juice Merchant\nLuhu Vegan Deli\nThe Green Line Cafe\nSpread Bagelry\nEssene Market & Caf\u00e9\nJake's & Cooper's Wine Bar & Wine Shop",
+            "The Green Line Cafe \\n\nSister Muhammad's Kitchen \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe QUICK FIXX \\n\nRoys-Pitz Barrel House \\n\nTrolley Car Diner \\n\nSteve's Prince of Steaks \\n\nBlackbird Pizzeria \\n\nBistro SouthEast \\n",
+            "1. Green Leafs & Bananas \n2. The Green Line Cafe \n3. Spread Bagelry \n4. Lisa's Kitchen \n5. Jack's Firehouse\n6. Chestnut 7 \n7. Founding Fathers Sports Bar & Grill \n8. CJ & Eck's \n9. Love & Honey Fried Chicken \n10 Zuzu's Kitchen "
+        ]
+    }
+}

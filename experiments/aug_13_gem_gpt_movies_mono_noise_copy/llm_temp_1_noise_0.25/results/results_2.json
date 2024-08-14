@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "What kind of movie are you interested in seeing, something with action, drama, comedy, or something else?",
+                "response": "something with action, drama, or comedy."
+            },
+            {
+                "query": "Do you prefer older movies or newer movies?",
+                "response": "older movies"
+            },
+            {
+                "query": "Is there a specific decade you're interested in?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies from the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 1970's or 1960's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie from the 1970's, 1960's, or 1950's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you primarily looking for action-packed movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in musicals right now?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in documentaries at the moment?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fantasy movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003) \n2. The Departed (2006) \n3. Nightcrawler (2014) \n4. Big Lebowski, The (1998) \n5. Bruce Almighty (2003) \n6. Real Genius (1985)\n7. Tenacious D in The Pick of Destiny (2006) \n8. Eragon (2006) \n9. Boy in the Striped Pajamas, The (2008) \n10. American Graffiti (1973)",
+            "1. Tomb Raider (2018)\n2. Laura (1944)\n3. Terminator 3: Rise of the Machines (2003)\n4. Man from Earth, The (2007)\n5. Homeward Bound: The Incredible Journey (1993)\n6. Thomas Crown Affair, The (1968)\n7. The Big Red One (1980)\n8. Brewster's Millions (1985)\n9. The Grapes of Wrath (1940)\n10. Black Robe (1991)",
+            "1. Taxi Driver (1976)\n2. The Godfather (1972)\n3. The Dark Knight (2008)\n4. The Shawshank Redemption (1994)\n5. Schindler's List (1993)\n6. Pulp Fiction (1994)\n7. The Good, the Bad and the Ugly (1966)\n8. The Lord of the Rings: The Fellowship of the Ring (2001)\n9. Star Wars: Episode IV - A New Hope (1977)\n10. Raiders of the Lost Ark (1981)",
+            "1. Eraserhead (1977)\n2. The Thing (1982)\n3. Brazil (1985)\n4. Aliens (1986)\n5. The Fly (1986)\n6. RoboCop (1987)\n7. Die Hard (1988)\n8. Akira (1988)\n9. Beetlejuice (1988)\n10. Who Framed Roger Rabbit (1988)",
+            "1. A Trip to the Moon (1902)\n2. The Cabinet of Dr. Caligari (1920)\n3. Metropolis (1927)\n4. Frankenstein (1931)\n5. Dracula (1931)\n6. King Kong (1933)\n7. Snow White and the Seven Dwarfs (1937)\n8. The Wizard of Oz (1939)\n9. Gone with the Wind (1939)\n10. Citizen Kane (1941)",
+            "1. Laura (1944)\n2. Pirates of the Caribbean: At World's End (2007)\n3. The Conversation (1974)\n4. Terminator 3: Rise of the Machines (2003)\n5. The Big Lebowski (1998)\n6. Big Red One, The (1980)\n7. The Thomas Crown Affair (1968)\n8. Butch Cassidy and the Sundance Kid (1969)\n9. American Graffiti (1973)\n10. Real Genius (1985)",
+            "1. Brewster's Millions (1985)\n2. Real Genius (1985)\n3. What's Up, Doc? (1972)\n4. Enter the Void (2009)\n5. Strange than Fiction (2006)\n6. A.I. Artificial Intelligence (2001)\n7. Jane Eyre (1996)\n8. Magnolia (1999)\n9. Last Supper, The (1995)\n10. Terminator 3: Rise of the Machines (2003)\n",
+            "1. A.I. Artificial Intelligence (2001)\n2. Darkman (1990)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Meet John Doe (1941)\n5. Timeline (2003)\n6. The Grapes of Wrath (1940)\n7. Umberto D. (1952)\n8. Black Robe (1991)\n9. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n10. Eragon (2006)",
+            "1. All Quiet on the Western Front (1930)\n2. American Graffiti (1973)\n3. The Grapes of Wrath (1940)\n4. Meet John Doe (1941)\n5. Big Red One, The (1980)\n6. The Big Lebowski (1998)\n7. Bruce Almighty (2003)\n8. Tomb Raider (2018)\n9. What's Up, Doc? (1972)\n10. Real Genius (1985)",
+            "1. Drugstore Cowboy (1989)\n2. Meet John Doe (1941)\n3. The Godfather Part II (1974)\n4. Apocalypse Now (1979)\n5. MASH (1970)\n6. A Man for All Seasons (1966)\n7. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)\n8. The Wild Bunch (1969)\n9. Butch Cassidy and the Sundance Kid (1969)\n10. Easy Rider (1969)"
+        ]
+    }
+}

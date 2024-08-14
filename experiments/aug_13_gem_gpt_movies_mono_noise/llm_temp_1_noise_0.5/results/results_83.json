@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in an animated movie for children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie in Color or Black & White?",
+                "response": "black & white"
+            },
+            {
+                "query": "Are you looking for a classic movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie which discusses religion?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with an all star cast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a musical movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a German movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about an Artificial Intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a biographical movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1.  Tomb Raider (2018) \n2.  Pirates of the Caribbean: At World's End (2007) \n3.  The Proposition (2005) \n4.  Lost World: Jurassic Park, The (1997) \n5.  Alita: Battle Angel (2019) \n6.  Ant-Man (2015) \n7.  Timeline (2003) \n8.  Ready Player One \n9.  Big Red One, The (1980) \n10. Brewster's Millions (1985)",
+            "1. Runaway Train (1985)\n2. Laura (1944)\n3. Pilgrimage (2017)\n4. Casablanca (1942)\n5. Come and See (1985)\n6. Schindler's List (1993)\n7. The Thin Red Line (1998)\n8. Hope and Glory (1987)\n9. The Elephant Man (1980)\n10. The Goat (2016)",
+            "1. Runaway Train (1985)\n2. Laura (1944)\n3. The Last Temptation of Christ (1988)\n4. The Piano (1993)\n5. August Rush (2007)\n6. Martyrs (2008)\n7. One Hour Photo (2002)\n8. Before the Devil Knows You're Dead (2007)\n9. The Man From Earth (2007)\n10. The Mothman Prophecies (2002)",
+            "Laura (1944) \\n\nLast Temptation of Christ, The (1988) \\n\nThe Piano (1993) \\n\nMagnolia (1999) \\n\nMis\u00e9rables, Les (1998) \\n\nA.I. Artificial Intelligence (2001) \\n\nGrapes of Wrath, The (1940) \\n\nLost in Translation (2003) \\n\nUmberto D. (1952) \\n\nBlack Robe (1991)",
+            "Runaway Train (1985) \\n\nLaura (1944) \\n\nLast Temptation of Christ, The (1988) \\n\nSanta Sangre (1989) \\n\nThe Piano (1993) \\n\nMartyrs (2008) \\n\nAutumn Sonata (H\u00f6stsonaten) (1978) \\n\nMan on Fire (2004) \\n\nBefore the Devil Knows You're Dead (2007) \\n\nAll Quiet on the Western Front (1930)",
+            "1. Runaway Train (1985)\n2. Laura (1944)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. Autumn Sonata (H\u00f6stsonaten) (1978)\n6. Cocoon (1985)\n7. No Man's Land (2001)\n8. Secret of Kells, The (2009)\n9. Missing (1982)\n10. American Graffiti (1973)",
+            "*****\n1. Piano, The (1993)\n2. Terms of Endearment (1983)\n3. Singin' in the Rain (1952)\n4. La La Land (2016)\n5. The Greatest Showman (2017)\n6. Mamma Mia! (2008)\n7. West Side Story (1961)\n8. Chicago (2002)\n9. Dreamgirls (2006)\n10. Moulin Rouge! (2001)\n*****",
+            "1. Orpheus (1950)\n2. The Piano (1993)\n3. August Rush (2007)\n4. Midnight in the Garden of Good and Evil (1997)\n5. The Sound of Music (1965)\n6. Purple Rain (1984)\n7. The Rocky Horror Picture Show (1975)\n8. Jesus Christ Superstar (1973)\n9. Buddy Holly Story, The (1978)\n10. Breaking Away (1979)",
+            "1. The Piano (1993) \\n\n2. Jesus Christ Superstar (1973) \\n\n3. Amadeus (1984) \\n\n4. El Cantante (2006) \\n\n5. Sgt. Pepper's Lonely Hearts Club Band (1978) \\n\n6. Hair (1979) \\n\n7. Fun Home (2017) \\n\n8. The Music Man (1962) \\n\n9. Evita (1996) \\n\n10. Moulin Rouge (2001) \\n",
+            "1. Moby Dick (1956)\n2. Betty (1992)\n3. Much Ado About Nothing (1993)\n4. Cabaret (1972)\n5. Amadeus (1984)\n6. American Splendor (2003)\n7. The Days of Wine and Roses (1962)\n8. Manchester by the Sea (2016)\n9. Taxi Driver (1976)\n10. Lost in Translation (2003)"
+        ]
+    }
+}

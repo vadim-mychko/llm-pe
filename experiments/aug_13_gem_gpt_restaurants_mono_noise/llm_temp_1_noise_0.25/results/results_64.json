@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer American or French breakfast and brunch?",
+                "response": "american"
+            },
+            {
+                "query": "Are you looking for coffee and tea with your breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American dinner food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a steakhouse for your dinner?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food for dinner?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood for your dinner?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nBistro SouthEast \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nEvan's Pizza \\n\nBetty's Speakeasy \\n\nSpread Bagelry \\n\nRival Bros Coffee \\n\nGran Caffe L'Aquila \\n",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nFederal Donuts\nThe Juice Merchant\nA Tutti, Ristorante Italiano\nThe Milk House\nSang Kee Peking Duck House",
+            " The Fresh Grocer - Progress Plaza \nThe Tasty Toast \nZuzu's Kitchen \nThe Milk House \nThe Grill  Smuckers \nVedge \nBenna's Cafe \nThe El Bar \nBetty's Speakeasy \nThe Green Line Cafe",
+            " The Blue Duck\n The Grill  Smuckers \n The Milk House \n The Tasty Toast \n Veda - Modern Indian Bistro \n CO-OP Restaurant & Lounge \n The Continental Restaurant and Martini Bar \nAldine \nPearl's Oyster Bar\nTrolley Car Diner",
+            "The Tasty Toast \nThe Grill  Smuckers \nThe Milk House \nTalbotto's Authentic Italian Food \nTrolley Car Diner \nSpread Bagelry \nLisa's Kitchen \nThe Blue Duck \nAudrey Claire \nBetty's Speakeasy",
+            " The Tasty Toast \\n\nThe Grill  Smuckers \\n\nLacroix Restaurant at The Rittenhouse \\n\nThe Tavern Restaurant \\n\nPearl's Oyster Bar \\n\nThe Blue Duck \\n\nJack's Firehouse \\n\nFederal Donuts \\n\nThe Cheesecake Factory \\n\nAudrey Claire",
+            "The Green Line Cafe\nPearl's Oyster Bar\nTrolley Car Diner\nThe Continental Restaurant and Martini Bar\nThe Blue Duck\nThe Grill  Smuckers\nThe Tavern Restaurant\nThe Milk House\nValley Green Inn\nThe Fresh Grocer - Progress Plaza\nCj & Eck's\nEvan's Pizza\nParc\nFiore Fine Foods\nSteve's Prince of Steaks\nFounding Fathers Sports Bar & Grill\nLe Pain Quotidien\nChestnut 7\nGreen Leafs & Bananas",
+            " The Grill  Smuckers \nThe Blue Duck \n The Tasty Toast \nTrolley Car Diner \nDaleng Restaurant \nBaan Thai \nBenna's Cafe \nBloomsday Cafe \nMacaroni's Restaurant \nFountain Porter \nCook and Shaker \nThe Continental Restaurant and Martini Bar \nParc \nAudrey Claire \n Green Leafs & Bananas \nSpread Bagelry \n The Green Line Cafe",
+            "The Blue Duck \\n\nBenna's Cafe \\n\nThe Grill  Smuckers \\n\nThe Juice Merchant \\n\nThe Tasty Toast \\n\nSister Muhammad's Kitchen \\n\nTrolley Car Diner \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nGermantown Garden",
+            "The Blue Duck \nThe Tasty Toast \nThe Grill  Smuckers \nThe Milk House \nBloomsday Cafe \nJack's Firehouse \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nFounding Fathers Sports Bar & Grill \nFranklin's"
+        ]
+    }
+}

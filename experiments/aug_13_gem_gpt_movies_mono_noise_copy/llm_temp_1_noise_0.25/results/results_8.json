@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Is the kind of movie you have in mind paranormal?",
+                "response": "no"
+            },
+            {
+                "query": "Could you be interested in a film that is very visually appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would a movie about animals interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to select a movie with action scenes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Would a crime movie interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fun crime movie set in the 1980's, with action and zero paranormal activity?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Homeward Bound: The Incredible Journey (1993)\n4. The Land Before Time (1988)\n5. American Graffiti (1973)\n6. Big Lebowski, The (1998)\n7. Real Genius (1985)\n8. Addams Family Values (1993)\n9. What's Up, Doc? (1972)\n10. Ghostbusters (1984)",
+            "Monsters, Inc. (2001)\nPirates of the Caribbean: At World's End (2007)\nAugust Rush (2007)\nAnt-Man (2015)\nBig Lebowski, The (1998)\nAmerican Graffiti (1973)\nKing Kong (2005)\nGrapes of Wrath, The (1940)\nJane Eyre (1996)\nEragon (2006)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Intolerable Cruelty (2003)\n4. Lost in Translation (2003)\n5. Stranger than Fiction (2006)\n6. Control (2007)\n7. Departed, The (2006)\n8. Saint Elmo's Fire (1985)\n9. The Sure Thing (1985)\n10. Breakfasdt at Tiffany's (1961)",
+            "1. Monsters, Inc. (2001)\n2. Prisoners of the Lost Universe (1983)\n3. Terminator 3: Rise of the Machines (2003)\n4. Titanic (1997)\n5. Ant-Man (2015)\n6. Man of Steel (2013)\n7. Fast Five (2011)\n8. Jurassic World (2015)\n9. The Avengers (2012)\n10. Captain America: The Winter Soldier (2014)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Gremlins 2: The New Batch (1990) \n3. Real Genius (1985) \n4. Brewster's Millions (1985) \n5. Runaway Train (1985) \n6. Sure Thing, The (1985) \n7. St. Elmo's Fire (1985) \n8. The Big Red One (1980) \n9. Cocoon (1985) \n10. American Graffiti (1973)",
+            "Runaway Train (1985)\nAmerican Graffiti (1973)\nThe Big Red One (1980)\nBrewster's Millions (1985)\nCocoon (1985)\nReal Genius (1985)\nSure Thing, The (1985)\nSt. Elmo's Fire (1985)\nVon Ryan's Express (1965)\nThe Proposition (2005)\nSearching (2018)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Runaway Train (1985)\n3. St. Elmo's Fire (1985)\n4. Sure Thing, The (1985)\n5. Cocoon (1985)\n6. Real Genius (1985)\n7. Brewster's Millions (1985)\n8. Big Red One, The (1980)\n9. Von Ryan's Express (1965)\n10. American Graffiti (1973)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Rush Hour (1998)\n3. Big Trouble in Little China (1986)\n4. Rambo: First Blood (1982)\n5. Die Hard (1988)\n6. Lethal Weapon (1987)\n7. Predator (1987)\n8. RoboCop (1987)\n9. The Terminator (1984)\n10. Commando (1985)",
+            "1. Terminator 3: Rise of the Machines\n2. Big Red One, The\n3. Red Dawn\n4. Brewster's Millions\n5. Sixteen Candles\n6. Real Genius\n7. Teen Wolf\n8. E.T.: The Extra-Terrestrial\n9. The Goonies\n10. Footloose",
+            "1. Runaway Train (1985) \n2. Brewster's Millions (1985) \n3. The Sure Thing (1985) \n4. Real Genius (1985) \n5. St. Elmo's Fire (1985) \n6. Cocoon (1985) \n7. American Graffiti (1973) \n8. What's Up, Doc? (1972) \n9. The Naked Gun: From the Files of Police Squad!, The (1988) \n10. Corpse Bride (2005)"
+        ]
+    }
+}

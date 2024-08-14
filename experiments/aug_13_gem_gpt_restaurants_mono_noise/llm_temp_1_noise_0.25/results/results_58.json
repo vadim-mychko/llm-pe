@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Do you like cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in places that have pastries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer traditional over modern cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or a restaurant that serves American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer burgers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Tasty Toast\n2. The Blue Duck\n3. Steve's Prince of Steaks\n4. Daleng Restaurant\n5. Sang Kee Peking Duck House\n6. The QUICK FIXX\n7. Trolley Car Diner\n8. Tu's Tea & Banh Mi South Philly\n9. KC's Pastries\n10. Canton 11",
+            "Lacroix Restaurant at The Rittenhouse\nMacaroni's Restaurant\nWater Works Restaurant & Lounge\nPearl's Oyster Bar\nAudrey Claire\nParc\nFederal Donuts\nGolden Triangle\nWawa\nCanton 11",
+            "Grain Exchange \nZuzu's Kitchen \nThe Tasty Toast \nMiga Korean BBQ & Sushi \nMacaroni's Restaurant \nTu's Tea & Banh Mi South Philly \nBaan Thai \nDaleng Restaurant \nEvan's Pizza \nDim Sum House",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nDaleng Restaurant \nOishii Pok\u00e9 \nGran Caffe L'Aquila \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nFederal Donuts \nPearl's Oyster Bar",
+            " Water Works Restaurant & Lounge \nDaleng Restaurant \nThe Tasty Toast \nIzumi \nThe Continental Restaurant and Martini Bar \nJake's & Cooper's Wine Bar & Wine Shop \n Pearl's Oyster Bar \nLucretia's Kitchen & Bar \nAudrey Claire \nGran Caffe L'Aquila",
+            "Zuzu's Kitchen\nDaleng Restaurant\nThe Juice Merchant\nGermantown Garden\nLacroix Restaurant at The Rittenhouse\nWater Works Restaurant & Lounge\nGrand Caffe L'Aquila\nA Tutti, Ristorante Italiano\nRoy-Pitz Barrel House\nJake's & Cooper's Wine Bar & Wine Shop",
+            "1. Heritage \n2. Maison 208 \n3. The El Bar \n4. The Blue Duck \n5. Essene Market & Caf\u00e9 \n6. Hey Hummus \n7. Mad River Manayunk \n8. CJ & Eck's \n9. Jack's Firehouse \n10. Chestnut 7",
+            " Lacroix Restaurant at The Rittenhouse \\n\nWater Works Restaurant & Lounge \\n\nPearl's Oyster Bar \\n\nAudrey Claire \\n\nThe Grill  Smuckers \\n\nThe Tavern Restaurant \\n\nParc \\n\nThe Milk House \\n\nJack's Firehouse \\n\nFounding Fathers Sports Bar & Grill \n",
+            "The Blue Duck\nFranklin's\nMisconduct Tavern\nWishbone\nFederal Donuts\nJack's Firehouse\nLisa's Kitchen\nBetty's Speakeasy\nChestnut 7\nLucky's Last Chance"
+        ]
+    }
+}

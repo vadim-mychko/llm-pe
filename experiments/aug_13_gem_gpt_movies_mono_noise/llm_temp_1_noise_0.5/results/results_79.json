@@ -1,0 +1,58 @@
+{
+    "79": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a documentary about society or economics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is at least 13 years old?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in foreign horror films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with children?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about children who go on an adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy about a family or an action film set in the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy or drama about children that was made before 2010?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a family friendly action film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie about animals?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Interview with a Vampire (1994)  \n2. The Tango Lesson (1997)  \n3. 12 Monkeys (1995)  \n4. Battle Royale (2000)  \n5. The Red Violin (1998)  \n6. The Piano Teacher (2001)  \n7. Perfect Blue (1997)  \n8. The White Ribbon (2009)  \n9. Cach\u00e9 (Hidden) (2005)  \n10. Demonlover (2002)",
+            "1. The Proposition (2005)\n2. Before the Devil Knows You're Dead (2007)\n3. The Man from Earth (2007)\n4. We Bought a Zoo (2011)\n5. Breach (2007)\n6. Alita: Battle Angel (2019)\n7. Europa (Zentropa) (1991)\n8. Control (2007)\n9. Big Red One, The (1980)\n10. Robot & Frank (2012)",
+            "1. Tenacious D in The Pick of Destiny (2006)\n2. Black Robe (1991)\n3. Darkman (1990)\n4. Intolerable Cruelty (2003)\n5. Brewsters Millions (1985)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Stranger than Fiction (2006)\n8. The Last Supper (1995)\n9. The Proposition (2005)\n10. The Emperor's Club (2002)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. August Rush (2007) \n4. The Piano (1993) \n5. Land Before Time, The (1988) \n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n7. Homeward Bound: The Incredible Journey (1993) \n8. Stranger than Fiction (2006) \n9. Robot & Frank (2012) \n10. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008) ",
+            "1. Monsters, Inc. (2001) \n2. The Land Before Time (1988)\n3. Homeward Bound: The Incredible Journey (1993)\n4. August Rush (2007)\n5. How High (2001) \n6. The Sure Thing (1985) \n7. Big Red One, The (1980)\n8. American Graffiti (1973)\n9. Brewster's Millions (1985) \n10. Real Genius (1985)",
+            "1. Monsters, Inc. (2001) \n2. A.I. Artificial Intelligence (2001)\n3. Terminator 3: Rise of the Machines (2003) \n4. The Last Action Hero (1993) \n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n6. Ant-Man (2015) \n7. Homeward Bound: The Incredible Journey (1993)\n8. Real Steel (2011) \n9. Trapped (2002)\n10. Brewster's Millions (1985)\n",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. The Secret of Kells (2009)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Homeward Bound: The Incredible Journey (1993)\n6. Stranger than Fiction (2006)\n7. Robot & Frank (2012)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. Eragon (2006)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Terms of Endearment (1983)\n2. Amadeus (1984)\n3. The Princess Bride (1987)\n4. Big (1988)\n5. Home Alone (1990)\n6. Jurassic Park (1993)\n7. Toy Story (1995)\n8. The Sixth Sense (1999)\n9. The Incredibles (2004)\n10. Up (2009)",
+            "1. August Rush (2007)\n2. Homeward Bound: The Incredible Journey (1993)\n3. The Land Before Time (1988)\n4. The Secret of Kells (2009\n5. Real Steel (2011)\n6. Ponyo (2008)\n7. Ratatouille (2007)\n8. Tangled (2010)\n9. Toy Story 3 (2010)\n10. Bolt (2008)",
+            "1. Monsters, Inc. (2001) \n2. Land Before Time, The (1988) \n3. Homeward Bound: The Incredible Journey (1993) \n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n5. Ant-Man (2015) \n6. Real Steel (2011) \n7. Robot & Frank (2012) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. The Secret of Kells (2009) \n10. Sure Thing, The (1985)"
+        ]
+    }
+}

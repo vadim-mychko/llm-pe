@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a 20th century war movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a 21st century movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie by Steven Spielberg?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies about adventure, fantasy, special effects or superheroes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 2000s?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies about time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a 2000s movie by Steven Spielberg about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with lots of action?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Terminator (1984)\n2. Terminator 2: Judgment Day (1991)\n3. Last Action Hero (1993)\n4. Speed (1994)\n5. Die Hard (1988)\n6. The Bourne Identity (2002)\n7. Heat (1995)\n8. Inception (2010)\n9. The Dark Knight (2008)\n10. Kill Bill Vol. 1 (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Meet John Doe (1941)\n3. Intolerable Cruelty (2003)\n4. Delicatessen (1991)\n5. Mr. Holmes (2015)\n6. Robot & Frank (2012)\n7. Brewster's Millions (1985)\n8. Face/Off (1997)\n9. Last Supper, The (1995)\n10. Bruce Almighty (2003)",
+            "1. Tomb Raider (2018) \n2. The Last Action Hero (1993) \n3. One Hour Photo (2002) \n4. The Man from Earth (2007) \n5. The Secret of Kells (2009) \n6. Searching (2018) \n7. Ready Player One (2018) \n8. Stranger than Fiction (2006) \n9. Real Steel (2011) \n10. Mr. Holmes (2015) \n11. Robot & Frank (2012) \n12. Bruce Almighty (2003) \n13. Real Genius (1985) \n14. Nightcrawler (2014) \n15. Big Lebowski, The (1998)\n16. Tenacious D in The Pick of Destiny (2006) \n17. Eragon (2006) \n18. Boy in the Striped Pajamas, The (2008) \n",
+            "1.\tReady Player One\n2.\tMr. Holmes\n3.\tBruce Almighty\n4.\tHow High\n5.\tThe Sure Thing\n6.\tSt. Elmo's Fire\n7.\tMemento\n8.\tThe Big Red One\n9.\tSaving Private Ryan\n10.\tThe Hurricane",
+            "1. Saving Private Ryan (1998)\n2. Minority Report (2002)\n3. War of the Worlds (2005)\n4. Indiana Jones and the Kingdom of the Crystal Skull (2008)\n5. Bridge of Spies (2015)\n6. West Side Story (2021)\n7. The Fabelmans (2022)",
+            "Terminators 3: Rise of the Machines (2003)\nA.I. Artificial Intelligence (2001)\nReal Steel (2011)\nReady Player One \nNightcrawler (2014)\nThe Big Red One (1980)\nBruce Almighty (2003)\nKing Kong (2005)\nEragon (2006)\nMr. Holmes (2015)",
+            "Searching (2018) \nAnt-Man (2015) \nReal Steel (2011) \nStranger than Fiction (2006) \nMr. Holmes (2015) \nRobot & Frank (2012) \nThe Last Supper, The (1995) \nBruce Almighty (2003) \nUmberto D. (1952) \nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \nEragon (2006)",
+            "Searching (2018) \n\n\nEragon (2006) \n\n\nThe Boy in the Striped Pajamas (2008) \n\n\nReal Steel (2011) \n\n\nThe Mothman Prophecies (2002) \n\n\nAlita: Battle Angel (2019) \n\n\nBlack Robe (1991) \n\n\nBruce Almighty (2003) \n\n\nKing Kong (2005) \n\n\nMan from Earth, The (2007)",
+            "1. Eragon (2006) \n2. Mr. Holmes (2015) \n3. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)  \n4. Real Steel (2011) \n5. Ant-Man (2015) \n6. Robot & Frank (2012) \n7. Hitchhock (2012)\n8. Super 8 (2011)\n9. War Horse (2011)\n10. The Adventures of Tintin (2011)\n",
+            "1. The Terminal (2004)\n2. Man from Earth, The (2007)\n3. Searching (2018)\n4. The Departed (2006)\n5. Mr. Holmes (2015)\n6. The Prestige (2006)\n7. The King's Speech (2010)\n8. Inglourious Basterds (2009)\n9. Slumdog Millionaire (2008)\n10. The Lord of the Rings: The Return of the King (2003)"
+        ]
+    }
+}

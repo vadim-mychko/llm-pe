@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches too?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that serves pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in getting a pizza with your burger?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nKC's Pastries \nDim Sum House \nMiga Korean BBQ & Sushi \nBistro SouthEast \nIzumi \nOishii Pok\u00e9",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nFederal Donuts \nThe Tasty Toast ",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nDaleng Restaurant \nGermantown Garden \nFederal Donuts \nThe Juice Merchant \nThe Tasty Toast \nPrimoHoagies",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. PrimoHoagies \n6. Daleng Restaurant \n7. Germantown Garden \n8. Federal Donuts \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "Golden Triangle \nMalaysian\nBurmese\nAsian Fusion\nThai\nLacroix Restaurant at The Rittenhouse \nBrazilian\nAmerican (New)\nFrench\nAsian Fusion\nWater Works Restaurant & Lounge \nSeafood\nMediterranean\nAmerican (New)\nZuzu's Kitchen \nPizza\nSalad\nSandwiches\nDaleng Restaurant \nCambodian\nThai\nVietnamese\nAsian Fusion\nLe Pain Quotidien \nBakeries\nBreakfast & Brunch\nCoffee & Tea\nBelgian\nFrench\nChinatown 11 \nDim Sum\nCantonese\nSzechuan\nCocktail Bars\nNightlife\nKaraoke\nSushi Bars\nThe Juice Merchant \nVegan\nSalad\nSandwiches\nFederal Donuts \nDonuts\nChicken Wings\nPrimaHoagies \nSandwiches\nItalian\nA Tutti, Ristorante Italiano \nPizza\nCoffee & Tea\nItalian",
+            "1. Grindcore House\n2. Lucky's Last Chance\n3. Lisa's Kitchen\n4. In-N-Out Burger\n5. Wishbone\n6. Franklin's\n7. Five Guys\n8. Federal Donuts \n9. Misconduct Tavern \n10. Founding Fathers Sports Bar & Grill",
+            "Freddy's Frozen Custard & Steakburgers\nFive Guys\nShake Shack\nBurgers 'n' Beer\nThe Burger Joint At The Linwood\nBarclay Prime\nLeda & The Swan\nLucky's Last Chance\nBurgerFi\nStockholm Gastropub",
+            "1. Blackbird Pizzeria\n2. Chestnut 7\n3. Evan's Pizza\n4. Fiore Fine Foods\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Roy-Pitz Barrel House\n7. The Blue Duck\n8. The QUICK FIXX\n9. Vedge\n10. Zuzu's Kitchen",
+            "- Fiore Fine Foods\n- Chestnut 7\n- The QUICK FIXX\n- Blackbird Pizzeria\n- Fiore Fine Foods\n- Evan's Pizza\n- Roy-Pitz Barrel House\n- Jack's Firehouse\n- Tavern On the Hill\n- Macaroni's Restaurant"
+        ]
+    }
+}

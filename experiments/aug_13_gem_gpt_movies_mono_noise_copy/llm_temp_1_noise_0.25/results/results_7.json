@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a horror movie with a psychological element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie with a lot of background action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you a fan of war movies with a focus on realism?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sports action movie with a father-son relationship angle?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a foreign film where the main characters are engaged in an Ocean's Eleven style heist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with car races and physical action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fantasy action film involving a woman on a quest?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary about corporations?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a buddy cop movie where the characters are complete opposites?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy where the main character is pursuing a woman during the holiday season?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. Last Temptation of Christ, The (1988)\n6. Piano, The (1993)\n7. Laura (1944)\n8. Terms of Endearment (1983)\n9. Runaway Train (1985)\n10. Proposition, The (2005)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. Alita: Battle Angel (2019)\n4. Ready Player One\n5. Face/Off (1997)\n6. Ant-Man (2015)\n7. Clash of the Titans (1981)\n8. King Kong (2005)\n9. Real Steel (2011)\n10. The Big Red One (1980)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Last Action Hero (1993)\n3. Aliens (1986)\n4. Lost World: Jurassic Park, The (1997)\n5. Man on Fire (2004)\n6. Transporter 2 (2005)\n7. Clash of the Titans (1981)\n8. Face/Off (1997)\n9. King Kong (2005)\n10. Real Genius (1985)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. King Kong (2005)\n3. Face/Off (1997)\n4. Alita: Battle Angel (2019)\n5. Transporter 2 (2005)\n6. Men in Black 2 (2012)\n7. RoboCop (2014)\n8. Big Red One, The (1980)\n9. Independence Day: Resurgence (2016)\n10. Lone Survivor (2013)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Transporter 2 (2005)\n4. Nightcrawler (2014)\n5. Face/Off (1997)\n6. King Kong (2005)\n7. Clash of the Titans (1981)\n8. Ant-Man (2015)\n9. Ready Player One\n10. The Big Red One, The (1980)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Big Red One, The (1980) \n3. Von Ryan's Express (1965) \n4. Clash of the Titans (1981) \n5. Face/Off (1997) \n6. Ready Player One \n7. Transporter 2 (2005) \n8. Robot & Frank (2012) \n9. Intolerable Cruelty (2003) \n10. Ant-Man (2015) \n",
+            " Terminator 3: Rise of the Machines (2003) \\n\nAnt-Man (2015) \\n\nReal Steel (2011) \\n\nTransporter 2 (2005) \\n\nKing Kong (2005) \\n\nFace/Off (1997) \\n\nBig Red One, The (1980) \\n\nAbraham Lincoln: Vampire Hunter (2012) \\n\nThe Land Before Time (1988) \\n\nClash of the Titans (1981)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Alita: Battle Angel (2019) \n3. Ant-Man (2015) \n4. Black Robe (1991) \n5. Clash of the Titans (1981) \n6. Darkman (1990) \n7. Face/Off (1997) \n8. Gremlins 2: The New Batch (1990) \n9. King Kong (2005) \n10. Lost World: Jurassic Park, The (1997) ",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Face/Off (1997)\n3. The Last Action Hero (1993)\n4. Clash of the Titans (1981)\n5. Ant-Man (2015)\n6. Big Red One, The (1980)\n7. King Kong (2005)\n8. Transporter 2 (2005)\n9. Trapped (2002)\n10. Brewster's Millions (1985)",
+            "1. Searching (2018)\n2. Ant-Man (2015)\n3. Terminator 3: Rise of the Machines (2003)\n4. Transporter 2 (2005)\n5. Nightcrawler (2014)\n6. The Big Lebowski (1998)\n7. American Graffiti (1973)\n8. Face/Off (1997)\n9. Real Genius (1985)\n10. Eragon (2006)\n"
+        ]
+    }
+}

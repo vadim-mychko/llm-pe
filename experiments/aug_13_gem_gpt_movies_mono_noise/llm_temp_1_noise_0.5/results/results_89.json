@@ -1,0 +1,58 @@
+{
+    "89": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a foreign film about a cross-dressing singer?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a drama or a comedy?",
+                "response": "comedy"
+            },
+            {
+                "query": "Are you looking for a black and white film about a subject other than music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from 2008?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about war?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a black comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Is pain torture central to the plot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a black comedy with British actors?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies with a science fiction element?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about friendship?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "*****\n1. Cage aux Folles, La (1978) \n2. Ran (1985) \n3. Europa (Zentropa) (1991)  \n4. Delicatessen (1991)  \n5. Black Robe (1991)  \n6. Chungking Express (Chung Hing sam lam) (1994) \n7. Love Me If You Dare (Jeux d'enfants) (2003) \n8. Control (2007) \n9. Enter the Void (2009)\n10. Secret of Kells, The (2009)  \n*****",
+            "1. Cage aux Folles, La (1978)\n2. The Secret of Kells (2009)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Europa (Zentropa) (1991)\n5. Delicatessen (1991)\n6. Paris Is Burning (1990)\n7. Lost in Translation (2003)\n8. La Vie en Rose (2007)\n9. Dangerous Liaisons (1988)\n10. What's Up, Doc? (1972)",
+            "1. Cage aux Folles, La (1978)\n\n2. What's Up, Doc? (1972)\n\n3. Delicatessen (1991)\n\n4. Brewster's Millions (1985)\n\n5. Real Genius (1985)\n\n6. Intolerable Cruelty (2003)\n\n7. The Big Lebowski (1998)\n\n8. American Graffiti (1973)\n\n9. Brewster's Millions (1985)\n\n10. Tenacious D in The Pick of Destiny (2006)\n",
+            "Cage aux Folles, La (1978) \nDirty Rotten Scoundrels (1988)\nHow High (2001)\nI Now Pronounce You Chuck and Larry (2007)\nLove Me If You Dare (2003)\nMr. Mom (1983)\nA Very Brady Sequel (1996)\nWeekend at Bernie's (1989)\nWhat About Bob? (1991)\nYoung Frankenstein (1974)\n",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Bad Education (La mala educaci\u00f3n) (2004)\n3. Boys in the Band, The (2020)\n4. Goodbye Berlin (Auf wiedersehen Berlin) (1999)\n5. Love Me If You Dare (Jeux d'enfants) (2003)\n6. Daughters of the Dust (1991)\n7. Tongues Untied (1989)\n8. Tomboy (2011)\n9. Boy Erased (2018)\n10. Paris is Burning (1991)",
+            "1. Cage aux Folles, La (1978)\n2. Intolerable Cruelty (2003)\n3. Delicatessen (1991)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. The Last Supper (1995)\n7. Bruce Almighty (2003)\n8. Black Robe (1991)\n9. Boy in the Striped Pajamas, The (2008)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Cage aux Folles, La (1978)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. Ulysses' Gaze (1995)\n5. Love Me If You Dare (Jeux d'enfants) (2003)\n6. Intolerable Cruelty (2003)\n7. Brewster's Millions (1985)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Cabinet of Dr. Caligari (1920)\n10. Life Is Beautiful (1997)",
+            " Cage aux Folles, La (1978)\nEuropa (Zentropa) (1991)\nMis\u00e9rables, Les (1998)\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nThe Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\nIntolerable Cruelty (2003)\nDelicatessen (1991)\nBad Education (La mala educaci\u00f3n) (2004)\nThe Last Supper (1995)\nStranger than Fiction (2006)",
+            "The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \nSecret of Kells, The (2009) \nMr. Holmes (2015) \nIntolerable Cruelty (2003) \nStranger than Fiction (2006) \nDeparted, The (2006) \nBefore the Devil Knows You're Dead (2007) \nBurn After Reading (2008) \nNo Man's Land (2001) \nThe Big Lebowski (1998)",
+            "1. Cage aux Folles, La (1978) \n2. Breach (2007) \n3. Big Lebowski, The (1998) \n4. Brewster's Millions (1985) \n5. Lost in Translation (2003) \n6. Thomas Crown Affair, The (1968) \n7. The Proposition (2005) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. Big Red One, The (1980) \n10. Ingmar Bergman (Autumn Sonata) (1978)\n"
+        ]
+    }
+}

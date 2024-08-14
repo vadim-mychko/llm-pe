@@ -1,0 +1,58 @@
+{
+    "62": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking places that serve barbeque?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking places that serve any alcohol?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle\nWater Works Restaurant & Lounge\nDaleng Restaurant\nLe Pain Quotidien\nA Tutti, Ristorante Italiano\nMugshots Coffeehouse\nBistro SouthEast\nBaan Thai\nThe QUICK FIXX\nRistorante La Buca",
+            "Daleng Restaurant\nGolden Triangle\nBistro SouthEast\nBaan Thai\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nThe QUICK FIXX\nLisa's Kitchen\nGreen Leafs & Bananas\nLuHV Vegan Deli",
+            "Daleng Restaurant \nGolden Triangle \nBistro SouthEast \nBaan Thai \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nThe Fresh Grocer - Progress Plaza \nKC's Pastries \nLucky's Last Chance",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nCanton 11 \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nMiga Korean BBQ & Sushi \nGrain Exchange \nA Tutti, Ristorante Italiano \nGolden Triangle",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nMong Kok Station \nChinatown 11 \nZuzu's Kitchen \nA Tutti, Ristorante Italiano \nOishii Pok\u00e9",
+            "Daleng Restaurant \nBistro SouthEast \nMong Kok Station \nGolden Triangle \nTu's Tea & Banh Mi South Philly \nSang Kee Peking Duck House \nCanton 11 \nBaan Thai \nOishii Pok\u00e9 \nMiga Korean BBQ & Sushi",
+            " Bistro SouthEast \\n\n Daleng Restaurant \\n\n Tu's Tea & Banh Mi South Philly \\n\n Le Pain Quotidien \\n\n Sang Kee Peking Duck House \\n\n Fuji Mountain \\n\n CinCin Restaurant \\n\n Canton 11 \\n\n Dim Sum House \\n\n Vedge",
+            "Daleng Restaurant\nBistro SouthEast\nTu's Tea & Banh Mi South Philly\nMonster Vegan\nThe QUICK FIXX\nVedge\nThe Juice Merchant\nHey Hummus\nBenna's Cafe\nThe Green Line Cafe",
+            "Daleng Restaurant\nBistro SouthEast\nTu's Tea & Banh Mi South Philly\nSang Kee Peking Duck House\nVeda - Modern Indian Bistro\nBaan Thai\nThe Juice Merchant\nGreen Leafs & Bananas\nFederal Donuts\nFuji Mountain",
+            "Daleng Restaurant \\n\nBistro SouthEast \\n\nTu's Tea & Banh Mi South Philly \\n\nGreen Leafs & Bananas \\n\nThe Fresh Grocer - Progress Plaza \\n\nEssen \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nKC's Pastries \\n\nPure Tacos \\n"
+        ]
+    }
+}

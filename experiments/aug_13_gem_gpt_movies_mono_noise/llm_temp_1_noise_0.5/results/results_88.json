@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie set in the 1980's?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about rock and roll?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking to watch a movie with a twist ending?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a movie about a particular genre?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a crime comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a coming-of-age movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a teen movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about friendship?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Proposition (2005) \n2. The Running Man (1987) \n3. Runaway Train (1985) \n4. The Lost Boys (1987) \n5. Pink Floyd - The Wall (1982) \n6. Conan the Barbarian (1982) \n7. Terminator 2: Judgment Day (1991) \n8. RoboCop (1987) \n9. The Thing (1982) \n10. Aliens (1986)",
+            "1. Real Genius (1985)\n2. Runaway Train (1985)\n3. Brewster's Millions (1985)\n4. Sure Thing, The (1985)\n5. St. Elmo's Fire (1985)\n6. Weird Al (1989)\n7. UHF (1989)\n8. Coming to America (1988)\n9. The Naked Gun: From the Files of Police Squad! (1988)\n10. Big (1988)",
+            "Real Genius (1985)\nSure Thing, The (1985)\nSt. Elmo's Fire (1985)\nRunaway Train (1985)\nBrewster's Millions (1985)\nCocoon (1985)\nBack to the Future (1985)\nVolunteers (1985)\nBetter Off Dead (1985)\nThe Breakfast Club (1985)",
+            "1. The Big Lebowski (1998)\n2. American Graffiti (1973)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. Sure Thing, The (1985)\n6. Runaway Train (1985)\n7. Volunteers (1985)\n8. Spies Like Us (1985)\n9. Caddyshack (1980)\n10. Airplane! (1980)\n''''",
+            "1. Brewster's Millions (1985) \n2. Fletch (1985)\n3. Real Genius (1985)\n4. St. Elmo's Fire (1985) \n5. Sure Thing, The (1985)\n6. Runaway Train (1985) \n7. The Breakfast Club (1985) \n8. Weird Science (1985) \n9. Cocoon (1985) \n10. American Graffiti (1973)\n''''",
+            "1. Real Genius (1985)\n2. Brewster's Millions (1985)\n3. Runaway Train (1985)\n4. Sure Thing, The (1985)\n5. Cocoon (1985)\n6. St. Elmo's Fire (1985)\n7. Police Academy (1984)\n8. Ghostbusters (1984)\n9. Sixteen Candles (1984)\n10. The Terminator (1984)",
+            "1. Real Genius (1985)\n2. American Graffiti (1973)\n3. Sure Thing, The (1985)\n4. Brewster's Millions (1985)\n5. Runaway Train (1985)\n6. St. Elmo's Fire (1985)\n7. Cocoon (1985)\n8. Volunteers (1985)\n9. Weird Science (1985)\n10. Back to the Future (1985)",
+            "1. Sure Thing, The (1985) \n2. Real Genius (1985) \n3. Runaway Train (1985) \n4. American Graffiti (1973) \n5. St. Elmo's Fire (1985) \n6. Brewster's Millions (1985) \n7. Cocoon (1985) \n8. What's Up, Doc? (1972) \n9. The Big Red One (1980) \n10. Trapped (2002)",
+            "Real Genius (1985)\nThe Sure Thing (1985)\nSt. Elmo's Fire (1985)\nRunaway Train (1985)\nBreakfast Club (1985)\nBrewster's Millions (1985)\nCocoon (1985)\nAfter Hours (1985)\nThe Big Chill (1983)\nTerms of Endearment (1983)",
+            "1. Runaway Train (1985) \\n\n2. Real Genius (1985) \\n\n3. St. Elmo's Fire (1985) \\n\n4. What's Up, Doc? (1972) \\n\n5. American Graffiti (1973) \\n\n6. Brewster's Millions (1985) \\n\n7. The Sure Thing (1985) \\n\n8. Cocoon (1985) \\n\n9. Strange Science (1985) \\n\n10. Porky's Revenge (1985)"
+        ]
+    }
+}

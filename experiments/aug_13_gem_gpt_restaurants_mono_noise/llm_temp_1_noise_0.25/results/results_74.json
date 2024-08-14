@@ -1,0 +1,58 @@
+{
+    "74": {
+        "conv_hist": [
+            {
+                "query": "Would you be interested in a place that serves burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a hot dog vendor?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer restaurants that serve chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer dining at vegan restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try some pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve Chinese food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Misconduct Tavern\nLisa's Kitchen\nThe Blue Duck\nFranklin's\nChestnut 7\nLuvh Vegan Deli\nSpread Bagelry\nLucky's Last Chance\nCinCin Restaurant\nLove & Honey Fried Chicken",
+            "Jack's Firehouse \nLisa's Kitchen \nFranklin's \nWawa \nLucky's Last Chance \nLove & Honey Fried Chicken \nCJ & Eck's \nSteve's Prince of Steaks \nLuvh Vegan Deli \nNew York Gyro Truck",
+            "Wishbone\nFranklin's\nJack's Firehouse\nPaddy's Old City Pub\nThe Blue Duck\nThe Tavern Restaurant\nMisconduct Tavern\nFive Guys\nLucky's Last Chance\nLisa's Kitchen\nSteve's Prince of Steaks",
+            "Lucky's Last Chance \\n\nFederal Donuts \\n\nMcMenamin's Tavern \\n\nJack's Firehouse \\n\nKernel \\n\nFranklin's \\n\nKong Brewpub \\n\nJD Mcgillicuddy's Manayunk \\n\nSabrina's Cafe \\n\nWishbone",
+            "1. Lucky's Last Chance \n2. Lisa's Kitchen \n3. Mad River Manayunk \n4. Franklin's \n5. Betty's Speakeasy \n6. The Blue Duck \n7. Five Guys \n8. Jack's Firehouse \n9. Love & Honey Fried Chicken \n10. The Continental Restaurant and Martini Bar",
+            "1. Lucky's Last Chance\n2. Mad River Manayunk\n3. Royale Pub \n4. Green Leafs & Bananas\n5. Steve's Prince of Steaks\n6. Franklin's\n7. Founders Ale House\n8. Black Sheep Pub\n9. Woody's\n10. London Grill",
+            "1. Lucky's Last Chance \n2. Steve's Prince of Steaks \n3. Lisa's Kitchen \n4. Mission Taqueria \n5. Blackbird Pizzeria \n6. Founding Fathers Sports Bar & Grill \n7. Mad River Manayunk \n8. Franklin's \n9. CJ & Eck's \n10. Green Leafs & Bananas ",
+            "1. Steve's Prince of Steaks \n2. Lucky's Last Chance \n3. Franklin's \n4. Betty's Speakeasy \n5. New York Gyro Truck \n6. Green Leafs & Bananas \n7. Blackbird Pizzeria \n8. Lisa's Kitchen \n9. The QUICK FIXX \n10. The Green Line Cafe\n",
+            "Lucky's Last Chance \nMcMenamin's Tavern \nFranklin's \nJD Mcgillicuddy's Manayunk \nJack's Firehouse \nThe El Bar \nBetty's Speakeasy \nBlackbird Pizzeria \nSteve's Prince of Steaks \nJack's Firehouse\n Franklin's \nJD Mcgillicuddy's Manayunk",
+            "Paddy's Old City Pub\nMisconduct Tavern\nFive Guys\nSteve's Prince of Steaks\nLucky's Last Chance\nThe QUICK FIXX\nLisa's Kitchen\nBetty's Speakeasy\nJack's Firehouse\nNew York Gyro Truck"
+        ]
+    }
+}

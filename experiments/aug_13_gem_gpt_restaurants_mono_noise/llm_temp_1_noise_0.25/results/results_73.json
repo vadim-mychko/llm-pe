@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a wine bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in interested in cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for quick service restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would a cafe be a good fit?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food trucks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Tu's Tea & Banh Mi South Philly \\n\nA Tutti, Ristorante Italiano \\n\nPrimoHoagies \\n\nCastellino's \\n\nOlive Garden Italian Restaurant \\n\nNorth Bowl \\n\nMacaroni's Restaurant \\n\nBetty's Speakeasy \\n\nRistorante La Buca \\n\nOteri's Italian Bakery | North 5th St",
+            "A Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nFiore Fine Foods \\n\nThe QUICK FIXX \\n\nSpread Bagelry \\n\nPasta Arigato \\n\nDolce Sueno \\n\nAntonella Pastina",
+            "**Italian Restaurants without Wine Bars or Cheesesteaks**\n\n1. A Tutti, Ristorante Italiano\n2. Talluto's Authentic Italian Food\n3. Castellino's\n4. Olive Garden Italian Restaurant\n5. Macaroni's Restaurant\n6. Ristorante La Buca\n7. Fiore Fine Foods\n8. Gran Caffe L'Aquila",
+            "1. A Tutti, Ristorante Italiano \n2. PrimoHoagies \n3. Castellino's \n4. Talluto's Authentic Italian Food \n5. Macaroni's Restaurant \n6. Fiore Fine Foods \n7. The QUICK FIXX \n8. Lisas Kitchen \n9. Ristorante La Buca \n10. Chestnut 7",
+            " PrimoHoagies \\n\nA Tutti, Ristorante Italiano \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nMacaroni's Restaurant \\n\nFiore Fine Foods \\n\nThe QUICK FIXX \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks \\n\nRistorante La Buca",
+            " PrimoHoagies\nA Tutti, Ristorante Italiano\nTalluto's Authentic Italian Food\nCastellino's\nMacaroni's Restaurant\nThe QUICK FIXX\nChestnut 7\nOteri's Italian Bakery | North 5th St\nLove & Honey Fried Chicken\nCafe L'Aube",
+            "Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nGolden Triangle \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nHeritage \\n\nDaleng Restaurant \\n\nThe Tasty Toast \\n\nLe Pain Quotidien",
+            "1. Olive Garden Italian Restaurant\n2. Talutto's Authentic Italian Food\n3. A Tutti, Ristorante Italiano\n4. Castellino's\n5. PrimoHoagies\n6. The QUICK FIXX\n7. Fiore Fine Foods\n8. Gran Caffe L'Aquila\n9. Lucky's Last Chance\n10. Audrey Claire",
+            "1. Fiore Fine Foods\n2. A Tutti, Ristorante Italiano\n3. Macaroni's Restaurant\n4. Olive Garden Italian Restaurant\n5. PrimoHoagies\n6. Ristorante La Buca\n7. Talutto's Authentic Italian Food\n8. The Cheesecake Factory\n9. Castellino's\n10. Oteri's Italian Bakery | North 5th St",
+            "1. Lacroix Restaurant at The Rittenhouse\n2. Italian Restaurant\n3. Local Tavern\n4. Mood Indian Restaurant\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. A Tutti, Ristorante Italiano \n9. Sang Kee Peking Duck House\n10. The Milk House\n"
+        ]
+    }
+}

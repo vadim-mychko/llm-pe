@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to trying Vietnamese sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salad sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Local Tavern \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nDaleng Restaurant \\n\nWater Works Restaurant & Lounge \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nZuzu's Kitchen",
+            "1. Zuzu's Kitchen\\n\n2. Golden Triangle\\n\n3. Federal Donuts\\n\n4. Grain Exchange\\n\n5. Sang Kee Peking Duck House\\n\n6. The Tavern Restaurant\\n\n7. Paddy's Old City Pub\\n\n8. Canton 11\\n\n9. Federal Donuts\\n\n10. Roy-Pitz Barrel House",
+            "PrimoHoagies \nThe Tasty Toast\nDiBruno Bros.\nThe Grilled Cheese and Co.\nCapogiro Gelato Artisans\nTattooed Mom\nSabrina's Cafe\nSoup Kitchen Cafe\nSweet Amalia \nGood Karma Cafe",
+            "1. Germantown Garden \n2. Federal Donuts \n3. PrimoHoagies \n4. The Tasty Toast \n5. Daleng Restaurant \n6. Sang Kee Peking Duck House \n7. Lisa's Kitchen \n8. Green Leafs & Bananas \n9. Steve's Prince of Steaks \n10. The Blue Duck",
+            "Zuzu's Kitchen \nPrimoHoagies \nGreen Leafs & Bananas \nThe QUICK FIXX \nThe Green Line Cafe \nSpread Bagelry \nLisa's Kitchen \nWater Works Restaurant & Lounge \nThe Blue Duck \nLuvh Vegan Deli",
+            "1. Tu's Tea & Banh Mi South Philly\n2. The Green Line Cafe\n3. Spread Bagelry\n4. Wawa\n5. Lisa's Kitchen\n6. Green Leafs & Bananas\n7. Steve's Prince of Steaks\n8. Luhv Vegan Deli\n9. Trolley Car Diner\n10. Daleng Restaurant",
+            "1. Tu's Tea & Banh Mi South Philly\n2. Green Leafs & Bananas\n3. The Green Line Cafe\n4. Spread Bagelry\n5. Oishii Pok\u00e9\n6. Founding Fathers Sports Bar & Grill\n7. Chestnut 7\n8. The Cheesecake Factory\n9. KC's Pastries\n10. Pure Tacos\n",
+            "1. Daleng Restaurant \n2. Bistro SouthEast \n3. Tu's Tea & Banh Mi South Philly \n4. The Green Line Cafe \n5. Green Leafs & Bananas \n6. Spread Bagelry \n7. Ristorante La Buca \n8. Steve's Prince of Steaks \n9. Luhv Vegan Deli \n10. Lisa's Kitchen ",
+            " 1. PrimoHoagies\n2. The QUICK FIXX\n3. Green Leafs & Bananas\n4. The Green Line Cafe \n5. Spread Bagelry\n6. Trolley Car Diner\n7. Tu's Tea & Banh Mi South Philly\n8. Macaroni's Restaurant\n9. Sister Muhammad's Kitchen\n10. Lisa's Kitchen\n",
+            "The Blue Duck \\n\nTrolley Car Diner \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nVedge \\n\nMonster Vegan \\n\nThe QUICK FIXX \\n\nLuvh Vegan Deli \\n\nSandwich\nSister Muhammad's Kitchen \\n\nGreen Leafs & Bananas"
+        ]
+    }
+}

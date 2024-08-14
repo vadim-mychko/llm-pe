@@ -1,0 +1,58 @@
+{
+    "88": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an Indian restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you serve any Korean dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a buffet or a la carte restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Malaysian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering any American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a casual restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a bar or restaurant with a lounge?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering any Italian cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Mood Indian Restaurant \\n\nDaleng Restaurant \\n\nVeda - Modern Indian Bistro \\n\nKokopelli Restaurant & Tequila Bar \\n\nBistro SouthEast \\n\nLaCroix Restaurant at The Rittenhouse \\n\nCinCin Restaurant \\n\nGrain Exchange \\n\nMalbec Argentine Steakhouse \\n\nVedge",
+            "Mood Indian Restaurant \\n\nBistro SouthEast \\n\ndaleng Restaurant \\n\nHeritage \\n\nIzumi \\n\nVeda - Modern Indian Bistro \\n\nMalbec Argentine Steakhouse \\n\nChakra \\n\nIndia's Restaurant \\n\nMiga Korean BBQ & Sushi",
+            "Mood Indian Restaurant \\n\nVeda - Modern Indian Bistro \\n\nCafe L'Aube \\n\nMonster Vegan \\n\nDaleng Restaurant \\n\nMiga Korean BBQ & Sushi \\n\nZuzu's Kitchen \\n\nBistro SouthEast \\n\nGrain Exchange \\n\nBaan Thai",
+            "Mood Indian Restaurant \nDaleng Restaurant \nGolden Triangle \nBistro SouthEast \nMiga Korean BBQ & Sushi \nZuzu's Kitchen \nBaan Thai \nVeda - Modern Indian Bistro \nTu's Tea & Banh Mi South Philly \nPearl's Oyster Bar ",
+            "Mood Indian Restaurant\nGolden Triangle\nDaleng Restaurant\nThe Tasty Toast\nLe Pain Quotidien\nHeritage\nVeda - Modern Indian Bistro\nBaan Thai\nCanton 11\nMiga Korean BBQ & Sushi",
+            "Mood Indian Restaurant\nDaleng Restaurant\nHeritage\nVeda - Modern Indian Bistro\nBistro SouthEast\nBaan Thai\nCanton 11\nMalbec Argentine Steakhouse\nJake's & Cooper's Wine Bar & Wine Shop\nPearl's Oyster Bar",
+            "Mood Indian Restaurant \\n\nVeda - Modern Indian Bistro \\n\nBuddakan \\n\nThe Indian Restaurant \\n\nThe Tandoor \\n\nZaika Indian Grill \\n\nIndeblue Restaurant \\n\nIndian Peak \\n\nMasala Kitchen Indian Fusion Restaurant \\n\nCurry Cafe Indian Cuisine",
+            " Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nVeda - Modern Indian Bistro \\n\nA Tutti, Ristorante Italiano \\n\nThe Blue Duck \\n\nThe Milk House \\n\nCinCin Restaurant \\n\nThe Tavern Restaurant \\n\nTrolley Car Diner \\n\nLove & Honey Fried Chicken",
+            "Mood Indian Restaurant\nVeda - Modern Indian Bistro\nSang Kee Peking Duck House\nDaleng Restaurant\nZuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Cheesecake Factory\nHeritage",
+            "Veda - Modern Indian Bistro \\n\nDaleng Restaurant \\n\nMonster Vegan \\n\nThe Juice Merchant \\n\nGreen Leafs & Bananas \\n\nSister Muhammad's Kitchen \\n\nThe QUICK FIXX \\n\nLisa's Kitchen \\n\nThe Green Line Cafe \\n\nSpread Bagelry"
+        ]
+    }
+}

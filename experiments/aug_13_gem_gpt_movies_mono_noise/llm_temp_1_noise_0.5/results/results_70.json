@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a movie that deals with technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a sad drama?\n++++",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with elements of horror?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a movie about vampires?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a historical drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you open to war or horror movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie from the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a murder mystery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with supernatural elements and advanced technology?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. Blade Runner (1982)\n3. Computer Chess (2013)\n4. Colossus: The Forbin Project (1970)\n5. Dark City (1998)\n6. Ghost in the Shell (1995)\n7.  Code 46 (2003)\n8. A Bug's Life (1998)\n9.  Chappie (2015)\n10. Her (2013)",
+            "1. Monsters, Inc. (2001)\n2. Gone Girl (2014)\n3. The Man from Earth (2007)\n4. The Departed (2006)\n5. Blowing Up Balloons (1976)\n6. Instant Messenger (2017)\n7. Terminator 3: Rise of the Machines (2003)\n8. Little Accidents (2014)\n9. Ready Player One (2018)\n10. Eragon (2006)",
+            "1. The Last Temptation of Christ (1988)\n2. Martyrs (2008)\n3. The Ring (2002)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. The Mothman Prophecies (2002)\n6. Gremlins 2: The New Batch (1990)\n7. Darkman (1990)\n8. Enter the Void (2009)\n9. Nightcrawler (2014)\n10. Cronos (1993)",
+            "1. Nightcrawler (2014) \\n\n2. Enter the Void (2009) \\n\n3. Cronos (1993) \\n\n4. Delicatessen (1991) \\n\n5. Gremlins 2: The New Batch (1990) \\n\n6. Darkman (1990) \\n\n7. Trapped (2002) \\n\n8. Last Supper, The (1995) \\n\n9. The Mothman Prophecies (2002) \\n\n10. Enter the Void (2009)\n",
+            "1. Cronos (1993)\n2. Lost in Translation (2003)\n3. Tenacious D in The Pick of Destiny (2006)\n4. The Last Supper (1995)\n5. Darkman (1990)\n6. Mothman Prophecies, The (2002)\n7. Face/Off (1997)\n8. Nightcrawler (2014)\n9. Ars\u00e9ne Lupin (2004)\n10. Enter the Void (2009)\n",
+            "1. Metropolis (2001) \n2. Corporation, The (2003) \n3. Hackers (1995) \n4. Real Steel (2011) \n5. Terminator 3: Rise of the Machines (2003) \n6. Alita: Battle Angel (2019) \n7. Ready Player One \n8. Tron: Legacy (2010) \n9. Robot & Frank (2012) \n10. Ant-Man (2015)",
+            "1. The Terminator (1985)\n2. Terminator 3: Rise of the Machines (2003)\n3. Darkman (1990)\n4. Nightcrawler (2014)\n5. Enter the Void (2009)\n6. Cabin Fever (2002)\n7. Kill List (2011)\n8. Tucker and Dale vs Evil (2010)\n9. Dr. Giggles (1992)\n10. Alive (1993)",
+            "1. The Last Horror Film (1982) \n2. Inferno (1980) \n3. The Beyond (1981) \n4. Just Before Dawn (1981) \n5. The Burning (1981) \n6. Night of the Demon (1957) \n7. Demons (1985) \n8. The Evil Dead (1981) \n9. Chopping Mall (1986) \n10. Re-Animator (1985)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. Nightcrawler (2014)\n4. Face/Off (1997)\n5. Last Action Hero (1993)\n6. Cronos (1993)\n7. Robot & Frank (2012)\n8. Big Red One, The (1980)\n9. The Land Before Time (1988)\n10. Are we there yet? (2005)",
+            "1. Mothman Prophecies, The (2002)\n2. Europa (Zentropa) (1991)\n3. Terminator 3: Rise of the Machines (2003)\n4. Darkman (1990)\n5. Nightcrawler (2014)\n6. The Thing (The Thing from Another World) (1982)\n7. Cabin Fever (2002)\n8. Night of the Creeps (1986)\n9. Would You Rather (2012)\n10. 14 Cameras (2018)"
+        ]
+    }
+}

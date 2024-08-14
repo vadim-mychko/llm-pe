@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Do you like German food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like Hawaiian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to eating at a French restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to order food from a Chinese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves vegan dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at a restaurant that serves Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves Vietnamese cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nBloomsday Cafe \nCafe L'Aube \nCO-OP Restaurant & Lounge \nGrain Exchange \nJake's & Cooper's Wine Bar & Wine Shop \nMalbec Argentine Steakhouse \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly",
+            " Lacroix Restaurant at The Rittenhouse \nLe Pain Quotidien \nThe Tasty Toast \nThe Milk House \nVedge \nFederal Donuts \nThe Continental Restaurant and Martini Bar \nPearl's Oyster Bar \nThe Blue Duck \nAudrey Claire",
+            "1. The Cheesecake Factory\n2. Lacroix Restaurant at The Rittenhouse\n3. Ristorante La Buca\n4.Audrey Claire\n5. Tavern On the Hill\n6. Olive Garden Italian Restaurant\n7. Parc\n8. Founding Fathers Sports Bar & Grill\n9. Gran Caffe L'Aquila\n10. Fiore Fine Foods",
+            "Lacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nMong Kok Station \nChinChin Restaurant \nVeda - Modern Indian Bistro \nGrain Exchange \nBistro SouthEast \nTavern On the Hill \nMacaroni's Restaurant \nDim Sum House",
+            "1. Daleng Restaurant\n2. Golden Triangle\n3. Bistro SouthEast\n4. Baan Thai\n5. Asian Fusion\n6. Tu's Tea & Banh Mi South Philly\n7. Ristorante La Buca\n8. Parc\n9. Lucky's Last Chance\n10. Luhv Vegan Deli",
+            "Golden Triangle \nDaleng Restaurant \nLacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nThe Tasty Toast \nIzumi \nA Tutti, Ristorante Italiano \nBistro SouthEast \nBaan Thai \nCanton 11",
+            "Daleng Restaurant \nBistro SouthEast \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nBaan Thai \nOishii Pok\u00e9 \nCinCin Restaurant \nGolden Triangle \nLacroix Restaurant at The Rittenhouse",
+            "Golden Triangle \nDaleng Restaurant \nChinatown 11 \nBistro SouthEast \nMiga Korean BBQ & Sushi \nSang Kee Peking Duck House \nDim Sum House \nBaan Thai \nOishii Pok\u00e9 \nKC's Pastries",
+            "CinCin Restaurant \n Lacroix Restaurant at The Rittenhouse \n Golden Triangle \n Bistro SouthEast \n Daleng Restaurant \n The QUICK FIXX \n Miga Korean BBQ & Sushi \n Izumi \n Canton 11 \n Fuji Mountain",
+            " Lacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nGolden Triangle \nBistro SouthEast \nVeda - Modern Indian Bistro \nCinCin Restaurant \nMiga Korean BBQ & Sushi \nIzumi \nBaan Thai \nCanton 11"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a restaurant that serves vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to an American spot?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in finding a restaurant that is a gastropub?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer chicken wings or burgers?",
+                "response": "i cannot answer the query as it is not a yes or no question."
+            },
+            {
+                "query": "Are you interested in a restaurant that has a large beer selection?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that has karaoke?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go somewhere that serves barbeque?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nLe Pain Quotidien \nCinCin Restaurant \nMong Kok Station \nA Tutti, Ristorante Italiano \nCanton 11 \nMacaroni's Restaurant \nBlackbird Pizzeria",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nCinCin Restaurant",
+            "Local Tavern \nGolden Triangle \nBardascino Neighborhood Restaurant & Wine Bar \nMaison 208 \nFederal Donuts \nEssene Market & Cafe \nJake's & Coopers Wine Bar \nThe Juice Merchant \nPrimeHoagies \nVedge",
+            "1. Jack's Firehouse\n2. Franklin's\n3. Founding Fathers Sports Bar & Grill\n4. Chestnut 7\n5. The Green Line Cafe\n6. Parc\n7. McMenamin's Tavern\n8. CJ & Eck's\n9. Olive Garden Italian Restaurant\n10. Trolley Car Diner",
+            "The Grill  Smuckers \\n\nThe Tavern Restaurant \\n\nValley Green Inn \\n\nJack's Firehouse \\n\nFederal Donuts \\n\nChickie's & Pete's \\n\nBenna's Cafe \\n\nWishbone \\n\nLucky's Last Chance\nLove & Honey Fried Chicken",
+            "Roy-Pitz Barrel House \nGrain Exchange \nCO-OP Restaurant & Lounge \nThe Continental Restaurant and Martini Bar \nFounding Fathers Sports Bar & Grill \nMad River Manayunk \nFranklin's \nThe Tavern Restaurant \nPaddy's Old City Pub \nJD Mcgillicuddy's Manayunk",
+            "Roy-Pitz Barrel House \\n\nFederal Donuts \\n\nGrain Exchange \\n\nIndependence Beer Garden \\n\nTrestle Inn - Fishtown \\n\nDevil's Den \\n\nMisconduct Tavern \\n\nMad River Manayunk \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk",
+            "Roy-Pitz Barrel House \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill \\n\nThe Blue Duck \\n\nBlackbird Pizzeria \\n\nHeritage \\n\nGrain Exchange \\n\nThe Continental Restaurant and Martini Bar \\n\nMcMenamin's Tavern \\n\nChestnut 7",
+            "Roy-Pitz Barrel House \\n\nGrain Exchange \\n\nFounding Fathers Sports Bar & Grill \\n\nThe Green Line Cafe \\n\nFranklin's \\n\nThe El Bar \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nJack's Firehouse \\n\nChestnut 7 \\n\nMcMenamin's Tavern\n",
+            "Grain Exchange \nRoy-Pitz Barrel House \nFranklin's \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nMisconduct Tavern \nThe Tavern Restaurant \nPaddy's Old City Pub \nMad River Manayunk"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Have you tried looking for brunch places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for coffee and tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan or vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for restaurants with burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nWater Works Restaurant & Lounge \nZuzu's Kitchen \nCinCin Restaurant \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nThe Milk House \nCO-OP Restaurant & Lounge \nRoy-Pitz Barrel House",
+            "1. The Juice Merchant \n2. Benna's Cafe \n3. The Tasty Toast \n4. The Milk House \n5. PrimoHoagies \n6. Tu's Tea & Banh Mi South Philly \n7. Sugar Cube Cafe \n8. Betty's Speakeasy \n9. Spread Bagelry \n10. The Green Line Cafe ",
+            "The Blue Duck \nThe Tasty Toast \nLacroix Restaurant at The Rittenhouse \nThe Grill  Smuckers \nParc \nAudrey Claire \nFiore Fine Foods \nThe Milk House \nThe Green Line Cafe \nGran Caffe L'Aquila",
+            "- The Tasty Toast \n- The Milk House \n- Mugshots Coffeehouse \n- Benna's Cafe \n- Bloomsday Cafe \n- Fiore Fine Foods \n- Fiore Fine Foods \n- Green Leafs & Bananas \n- Betty's Speakeasy \n- The Green Line Cafe",
+            "1. The Tasty Toast \n2. The Milk House \n3. The Grill  Smuckers \n4. CO-OP Restaurant & Lounge \n5. The Continental Restaurant and Martini Bar \n6. Pearl's Oyster Bar \n7. The Blue Duck \n8. Aldine \n9. Cook and Shaker \n10. Fiore Fine Foods",
+            "1. Zuzu's Kitchen \n2. The Tasty Toast \n3. The Milk House \n4. The Grill  Smuckers \n5. Benna's Cafe \n6. Fiore Fine Foods\n7. Sister Muhammad's Kitchen \n8. Trolley Car Diner \n9. The Green Line Cafe \n10. CJ & Eck's ",
+            "1. The Tasty Toast \\n\n2. The Grill  Smuckers \\n\n3. The Blue Duck \\n\n4. Parc \\n\n5. The El Bar \\n\n6. Founding Fathers Sports Bar & Grill \\n\n7. Green Leafs & Bananas \\n\n8. Lisa's Kitchen \\n\n9. Jack's Firehouse \\n\n10. Audrey Claire",
+            "Federal Donuts\nThe Tasty Toast\nThe Milk House\nThe Green Line Cafe\nFlour and Grains Bakeshop & Cafe\nCafe L'Aube\nWishbone\nLocal Tavern\nThe Continental Restaurant and Martini Bar\nFederal Donuts\nThe Blue Duck",
+            "****\n name: The Tavern Restaurant \n categories: Restaurants, Nightlife, American (Traditional), Bars, Burgers, Cocktail Bars, American (New)\n****\n name: Veda - Modern Indian Bistro \n categories: Restaurants, Tapas/Small Plates, Bars, Nightlife, Cocktail Bars, Indian, Breakfast & Brunch\n****\n name: Maison 208 \n categories: Restaurants, Nightlife, French, American (New), Bars\n****\n name: Tavern On the Hill \n categories: Restaurants, Nightlife, American (New), American (Traditional), Bars, Pubs, Lounges\n****\n name: Paddy's Old City Pub \n categories: Restaurants, American (Traditional), Nightlife, Bars, Pubs\n****\n name: Misconduct Tavern \n categories: Restaurants, American (Traditional), Bars, Burgers, Nightlife\n****\n name: Jake's & Cooper's Wine Bar & Wine Shop \n categories: Restaurants, Cocktail Bars, Wine Bars, American (New), Pizza, Tapas Bars, Beer, Wine & Spirits, Nightlife, Food, Bars\n****\n name: Mad River Manayunk \n categories: Restaurants, Bars, American (Traditional), Sports Bars, Nightlife\n****\n name: Ristorante La Buca \n categories: Restaurants, Seafood, Bars, Italian, Wine Bars, Nightlife\n****\n name: Chestnut 7 \n categories: Restaurants, Pizza, American (New), Bars, Burgers, Nightlife, Pubs",
+            "Jake's & Cooper's Wine Bar & Wine Shop \nPearl's Oyster Bar \nParc \nRistorante La Buca \nCj & Eck's \nMcMenamin's Tavern \nJack's Firehouse \nFranklin's \nBlackbird Pizzeria \nLucky's Last Chance "
+        ]
+    }
+}

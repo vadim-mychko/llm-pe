@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Do you like movies set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie children might like?",
+                "response": "yes"
+            },
+            {
+                "query": "Can you think of any comedies intended for children that you might like?",
+                "response": "no"
+            },
+            {
+                "query": "I am not sure I understand. You said you are looking for a movie children might like, but then you said you cannot think of any comedies intended for children that you might like. Can you clarify?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch an animated film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated adventure film?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the adventure from kids' books about space, dinosaurs, or teddy bears?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for adventures through space, dinosaurs, or cute animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated adventure film about dinosaurs?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Before the Devil Knows You're Dead (2007) \n2. Breach (2007) \n3. Magnolia (1999) \n4. Strangers than Fiction (2006) \n5. Intolerable Cruelty (2003) \n6. The Last Supper (1995) \n7. Cronos (1993) \n8. Terminator 3: Rise of the Machines (2003) \n9. A.I. Artificial Intelligence (2001) \n10. Robot & Frank (2012) \n",
+            "1. Lost in Translation (2003) \n2. Enter the Void (2009) \n3. Nightcrawler (2014) \n4. Control (2007) \n5. Stranger than Fiction (2006) \n6. Real Steel (2011) \n7. Robot & Frank (2012) \n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n9. Face/Off (1997) \n10. Big Lebowski, The (1998) ",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Land Before Time, The (1988)\n4. Sure Thing, The (1985)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Homeward Bound: The Incredible Journey (1993)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nAugust Rush (2007)\nBlair Witch Project, The (1999)\nAnt-Man (2015)\nHomeward Bound: The Incredible Journey (1993)\nBig Red One, The (1980)\nAmerican Graffiti (1973)\nReal Genius (1985)\nBruce Almighty (2003)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Land Before Time (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Hachiko: A Dog's Story (2009)\n6. Big Red One, The (1980)\n7. Real Genius (1985)\n8. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n9. American Graffiti (1973)\n10. Brewster's Millions (1985)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. The Land Before Time (1988)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Hachiko: A Dog's Story (2009)\n6. Real Steel (2011)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Monsters, Inc. (2001) \n2. The Land Before Time (1988) \n3. Homeward Bound: The Incredible Journey (1993) \n4. How High (2001) \n5. The 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n6. Eragon (2006) \n7. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n8. August Rush (2007) \n9. The Secret of Kells (2009) \n10. Big Red One, The (1980)\n",
+            "1. Monsters, Inc. (2001)\n2. Land Before Time, The (1988)\n3. Ant-Man (2015)\n4. Homeward Bound: The Incredible Journey (1993)\n5. A.I. Artificial Intelligence (2001)\n6. Big Red One, The (1980)\n7. Robot & Frank (2012)\n8. King Kong (2005)\n9. Jane Eyre (1996)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Ant-Man (2015)\n4. A.I. Artificial Intelligence (2001)\n5. The Land Before Time (1988)\n6. Homeward Bound: The Incredible Journey (1993)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n9. Secret of Kells, The (2009)\n10. Robot & Frank (2012)",
+            " Monsters, Inc. (2001) \n\n The Land Before Time (1988) \n\n Ant-Man (2015) \n\n Homeward Bound: The Incredible Journey (1993)\n\n Big Red One, The (1980) \n\n Real Steel (2011) \n\n Brewster's Millions (1985) \n\n Real Genius (1985) \n\n\n The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n\n Umberto D. (1952)"
+        ]
+    }
+}

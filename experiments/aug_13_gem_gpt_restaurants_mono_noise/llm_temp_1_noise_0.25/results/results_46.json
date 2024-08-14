@@ -1,0 +1,58 @@
+{
+    "46": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want something with Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something in particular?",
+                "response": "no"
+            },
+            {
+                "query": "Do any of these items sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian or vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sports related food like chicken wings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nDim Sum House \\n\nLe Pain Quotidien \\n\nA Tutti, Ristorante Italiano \\n\nZuzus Kitchen  \\n\nFiooe Fine Foods  \\n\nEvan's Pizza ",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Juice Merchant \n8. Mong Kok Station \n9. Le Pain Quotidien \n10. CinCin Restaurant",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nThe Tasty Toast",
+            "Sushi Bars: Izumi\nAuthentic Italian Cuisine: Talluto's Authentic Italian Food\nShanghainese Cuisine: Sang Kee Peking Duck House\nSichuan Cuisine: Canton 11\nIndian Cuisine: Veda - Modern Indian Bistro\nKorean Cuisine: Miga Korean BBQ & Sushi\nPizza: Fiore Fine Foods\nFine American Cuisine: The Blue Duck\nBreakfast & Brunch: The Tasty Toast\nJuice & Smoothies: The Juice Merchant\n",
+            "Zuzu's Kitchen \\n\nWater Works Restaurant & Lounge \\n\nThe Juice Merchant \\n\nGrain Exchange \\n\nThe Tasty Toast \\n\nA Tutti, Ristorante Italiano \\n\nThe Blue Duck \\n\nRoy-Pitz Barrel House \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "- Water Works Restaurant & Lounge\n- Zuzu's Kitchen\n- Golden Triangle\n- The Green Line Cafe\n- Spread Bagelry\n- Daleng Restaurant\n- Olive Garden Italian Restaurant\n- The Continental Restaurant and Martini Bar\n- The Cheesecake Factory\n- Parc",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nThe Juice Merchant \nFederal Donuts \nPrimeHoagies \nIzumi \nThe Milk House \nMugshots Coffeehouse \nThe Grill  Smuckers",
+            "Paddy's Old City Pub \nMad River Manayunk \nFranklin's \nCJ & Eck's \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nMisconduct Tavern \nThe Tavern Restaurant \nFederal Donuts \nMacaroni's Restaurant",
+            "Federal Donuts \nLucky's Last Chance \n\nFranklin's \nJack's Firehouse \nFounding Fathers Sports Bar & Grill \nJD Mcgillicuddy's Manayunk \nMad River Manayunk \nPaddy's Old City Pub \nMisconduct Tavern \nThe Grill  Smuckers "
+        ]
+    }
+}

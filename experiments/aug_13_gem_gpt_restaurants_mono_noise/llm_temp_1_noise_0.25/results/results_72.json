@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a restaurant with pizza or pasta?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Italian or American pizza?",
+                "response": "i cannot answer the query as it is not a yes or no question."
+            },
+            {
+                "query": "Are you looking for a French restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Thai restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Hot Dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for American desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vegetarian desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nA Tutti, Ristorante Italiano\nPrimoHoagies\nGolden Triangle\nFederal Donuts \nLaCroix Restaurant at The Rittenhouse\nMacaroni's Restaurant\nJake's & Cooper's Wine Bar & Wine Shop \nParc \nChestnut 7",
+            "Zuzu's Kitchen \nThe QUICK FIXX \nA Tutti, Ristorante Italiano \n Fiore Fine Foods \nBlackbird Pizzeria \n Chestnut 7 \n Vedge \nMonster Vegan \n Roy-Pitz Barrel House \n Evan's Pizza",
+            " A Tutti, Ristorante Italiano\nZuzu's Kitchen\nMacaroni's Restaurant\nFiore Fine Foods\n Chestnut 7\nEvan's Pizza\nBlackbird Pizzeria\nThe QUICK FIXX\nPasta Pomodoro\nParc Bistro-Brasserie",
+            "A Tutti, Ristorante Italiano \nMacaroni's Restaurant \nOlive Garden Italian Restaurant \nTalluto's Authentic Italian Food \nThe QUICK FIXX \nChestnut 7 \nFiore Fine Foods \nOteri's Italian Bakery | North 5th St \nParc \nEvan's Pizza",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nGolden Triangle\nThe Juice Merchant\nCinCin Restaurant\nThe Tasty Toast\nThe QUICK FIXX\nBetty's Speakeasy\nPure Tacos\nBaan Thai",
+            "Zuzu's Kitchen\nThe Tasty Toast\nFederal Donuts\nGran Caffe L'Aquila\nCastellino's\nMacaroni's Restaurant\nChestnut 7\nEvan's Pizza\nCinCin Restaurant\nThe QUICK FIXX\nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen \\n\nA Tutti, Ristorante Italiano \\n\nGolden Triangle \\n\nPizzeria Stella \\n\nThe Blue Duck \\n\nChestnut 7 \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nEvan's Pizza",
+            " A Tutti, Ristorante Italiano \nBlackbird Pizzeria \nBetty's Speakeasy \nOteri's Italian Bakery | North 5th St \nThe Cheesecake Factory \nZuzu's Kitchen \nChestnut 7 \nRoy-Pitz Barrel House \nPaseo Real Media \nJake's & Cooper's Wine Bar & Wine Shop",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nThe QUICK FIXX \nLa Buca \nParc \nRistorante La Buca \nBetty's Speakeasy \nOteri's Italian Bakery | North 5th St \nAudrey Claire",
+            "Blackbird Pizzeria\nRistorante La Buca\nA Tutti, Ristorante Italiano\nPasta Shop\nRival Bros Coffee\nGran Caffe L'Aquila\nParc\nAudrey Claire\nThe Cheesecake Factory\nOlive Garden Italian Restaurant"
+        ]
+    }
+}

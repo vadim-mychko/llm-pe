@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Searching for food, are you interested in a place that has salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Vietnamese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food that is Japanese?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for food that's non-vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Is a food that serves Vietnamese cuisine, non-spicy, and non-vegetarian OK?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that has Korean BBQ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something American?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nThe Tasty Toast\nLe Pain Quotidien",
+            " Zuzu's Kitchen\\n\nGolden Triangle\\n\nWater Works Restaurant & Lounge\\n\nLacroix Restaurant at The Rittenhouse\\n\nRivera Caterers\\n\nThe Juice Merchant\\n\nGrain Exchange\\n\nFederal Donuts\\n\nA Tutti, Ristorante Italiano\\n\nFuji Mountain",
+            "Vedge \nHey Hummus \nPasta & Provisions \nThe Blue Duck \nSteve's Prince of Steaks \nThe Cheesecake Factory \nLove & Honey Fried Chicken \nCinCin Restaurant \nBlackbird Pizzeria \nRoy-Pitz Barrel House ",
+            "1. Daleng Restaurant  \n2. Bistro SouthEast  \n3. Tu's Tea & Banh Mi South Philly  \n4. Miga Korean BBQ & Sushi  \n5. Lacroix Restaurant at The Rittenhouse  \n6. The Juice Merchant  \n7. Vernick Food & Drink  \n8. Baan Thai  \n9. Zahav  \n10. Han Dynasty Restaurant",
+            "Daleng Restaurant\nBistro SouthEast\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nGrain Exchange\nFive Guys\nIzumi\nBaan Thai\nFederal Donuts\nGolden Triangle",
+            "Bistro SouthEast\nDaleng Restaurant \nSang Kee Peking Duck House \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nDim Sum House \nKC's Pastries \nOishii Pok\u00e9 \nAudrey Claire\nNew York Gyro Truck",
+            "Daleng Restaurant \nBistro SouthEast \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nBaan Thai \nFederal Donuts \nKC's Pastries \nGran Caffe L'Aquila \nThe Fresh Grocer - Progress Plaza \nEssene Market & Caf\u00e9",
+            "1. Daleng Restaurant \n2. Bistro SouthEast \n3. Miga Korean BBQ & Sushi \n4. Tu's Tea & Banh Mi South Philly \n5. KC's Pastries\n6. Parc \n7. Gran Caffe L'Aquila \n8. Steve's Prince of Steaks \n9. The Green Line Cafe \n10. Dim Sum House",
+            "1. Daleng Restaurant \n2. Bistro SouthEast \n3. Miga Korean BBQ & Sushi \n4. Tu's Tea & Banh Mi South Philly \n5. Golden Triangle \n6. Baan Thai \n7. Mong Kok Station \n8. Canton 11 \n9. Sang Kee Peking Duck House \n10. Oishii Pok\u00e9",
+            "1. Bistro SouthEast \\n\n2. Daleng Restaurant \\n\n3. Golden Triangle \\n\n4. Heritage \\n\n5. The Blue Duck \\n\n6. Pearl's Oyster Bar \\n\n7. The Milk House \\n\n8. Zuberi \\n\n9. The Grill Smuckers \\n\n10. Audrey Claire"
+        ]
+    }
+}

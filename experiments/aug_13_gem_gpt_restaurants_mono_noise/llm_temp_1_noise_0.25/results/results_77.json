@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Do you like Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to ethnic food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in spicy cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in juice bars or smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "System: Would you be interested in a vegetarian option?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for casual eateries such as cafes or coffee shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to Italian food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nZuzu's Kitchen \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nGrain Exchange \\n\nBistro SouthEast \\n\nBaan Thai \\n\nCanton 11 \\n\nFederal Donuts",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            " Water Works Restaurant & Lounge\nBloomingdale's \nFundings Food & Wine \nZuzu's Kitchen \nCinnamon Bistro \nAero Coffee Roasters \nUpstairs at The Kimberly \nThe Smorgasbord \nBavette La Boucherie \nRED\nBud & Marilyn's\nEataly\nThe Pink Pig\nThe Odeon\nPrune Restaurant\nM Wells Steakhouse \nLafayette\nCaf\u00e9 Altro Paradiso\nBar Belly",
+            "1. Federal Donuts \n2. The Juice Merchant \n3. Sang Kee Peking Duck House \n4. Bistro SouthEast \n5. Canton 11 \n6. Miga Korean BBQ & Sushi \n7. Oishii Pok\u00e9 \n8. Pure Tacos \n9. Green Leafs & Bananas \n10. New York Gyro Truck",
+            " Daleng Restaurant \nGolden Triangle \nCinCin Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nBaan Thai \nCanton 11 \nTu's Tea & Banh Mi South Philly \nPure Tacos \nOishii Pok\u00e9",
+            " Golden Triangle \n Daleng Restaurant \n Sang Kee Peking Duck House \n Canton 11 \n Malbec Argentine Steakhouse \n Hey Hummus \n Fiore Fine Foods \n Tu's Tea & Banh Mi South Philly \n Oishii Pok\u00e9 \n Pure Tacos",
+            " Daleng Restaurant \nGolden Triangle \nCanton 11 \nMiga Korean BBQ & Sushi \nBistro SouthEast \nPure Tacos \nSang Kee Peking Duck House \nBaan Thai \nEvan's Pizza \nThe Fresh Grocer - Progress Plaza",
+            "1. Canton 11\n2. Dim Sum House\n3. Sang Kee Peking Duck House\n4. Tu's Tea & Banh Mi South Philly\n5. Korean BBQ & Sushi\n6. Pure Tacos\n7. Daleng Restaurant\n8. Bistro SouthEast\n9. Grace Tavern\n10. Audrey Claire",
+            "Daleng Restaurant \nCanton 11 \nGolden Triangle \nSaang Kee Peking Duck House \nBistro SouthEast \nMiga Korean BBQ & Sushi \nPure Tacos \nOishii Pok\u00e9 \nNew York Gyro Truck \nAudrey Claire",
+            "Golden Triangle \\n\nCanton 11 \\n\nBaan Thai \\n\nDim Sum House \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nSang Kee Peking Duck House \\n\nVista Thai \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi"
+        ]
+    }
+}

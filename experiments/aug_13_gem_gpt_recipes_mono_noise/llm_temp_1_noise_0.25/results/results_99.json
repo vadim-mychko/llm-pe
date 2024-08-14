@@ -1,0 +1,58 @@
+{
+    "99": {
+        "conv_hist": [
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": " Do you like alcoholic drinks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in low fat cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like baked goods?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "2-ingredient yogurt from scratch\nVery low-fat assortment of shredded vegetables with seasoning\nLow sugar applesauce cupcakes\nLow fat sweet potato fries made with cajun seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nLow-fat coconut alcohol-free cocktail\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nMozzarella dip recipe\n'''",
+            "1. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n2. Tofu, noodles and vegetables Bento\n3. Vegetable and chicken soup\n4. Vegetable and bean soup made with broccoli and beans\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Roasted almonds\n7. Low fat assorted fruit dessert\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Raw vegetable assortment with seasoning\n10. Simple creamy oyster soup\n",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Vegetable soup with chicken\n5. Soup made with ground turkey that is low fat, high carb\n6. Crispy tofu nuggets\n7. Mildly spicy chili recipe\n8. Sweet salad made with corn and three types of beans\n9. Chow Mein stir fry rice\n10. Gochujang rice cake with vegetables\n",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Soup made with cabbage, carrots, potatoes, and onions\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Garlic bread with cheddar, green onions, and mayonnaise\n7. Roasted almonds\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Stir-fried tofu, noodles and vegetables Bento\n10. Veggie burger that is grilled and cooked with cheese, lettuce, tomato, onions",
+            "- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Grilled salmon seasoned with salt and pepper\n- Sweet salad made with corn and three types of beans\n- Very low-fat assortment of shredded vegetables with seasoning\n- Roasted almonds\n- Plain oatmeal\n- Vegetable Curry\n- Low carb slow-cooker cheeseburger soup\n- Supreme pizza",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nGrilled salmon seasoned with salt and pepper\n****\nBaked spinach quiche containing bacon\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese and olive appetizer made to look like an eyeball\n'''",
+            "1. Assorted cheese soup with chicken\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Parmesan\n4. Mozzarella dip recipe\n5. Vegetarian stir-fry\n6. Bang bang cauliflower bites\n7. Baked chicken covered with tomato sauce and mozzarella\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Grilled flat bread with ricotta and peaches",
+            "10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Vegetarian spring rolls made with rice paper wrappers, filled with rice noodles, tofu, and vegetables\n8. Grilled salmon seasoned with salt and pepper\n7. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n6. Broccoli cauliflower bake made with shredded cauliflower, broccoli, and cheese\n5. Strawberry smoothie made with bananas, strawberries, yogurt and milk\n4. Cheesy mashed cauliflower in the cauliflower steaming microwave bowl without cheese sauce\n3. Blender carrot coconut soup\n2. Banana bread made with whole wheat flour and walnuts\n1. Roasted almonds",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Roasted almonds\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Peppermin chocolate bonbon\n7. Almonds coated with butter and salt\n8. Cheese and crackers\n9. Baked mozarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n**** \nCheese and vegetable soup with a beer broth\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nCheese with crackers\n****\nVegetarian mac & cheese with cauliflower\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\n Mozzarella dip recipe\n****\n Low fat diced baked or fried potatoes\n**** \nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nEasy lemon squares\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n****\n"
+        ]
+    }
+}

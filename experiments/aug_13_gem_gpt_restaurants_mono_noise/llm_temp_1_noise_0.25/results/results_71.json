@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a place that has sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you searching for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food with Indian flavors?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to order from a restaurant that has food from multiple different cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Mexican restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Is seafood appealing to you?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place that has both seafood and Mexican?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant with American and seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in search of a seafood restaurant with American food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "****\n name: Fuji Mountain \n categories: Restaurants, Karaoke, Bars, Nightlife, Japanese, Sushi Bars\n****\n name: Golden Triangle \n categories: Restaurants, Malaysian, Burmese, Asian Fusion, Thai\n****\n name: Valley Green Inn \n categories: Restaurants, American (Traditional), Event Planning & Services, American (New), Seafood, Venues & Event Spaces\n****\n name: Daleng Restaurant \n categories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\n name: Castellino's \n categories: Restaurants, Food, Sardinian, Italian, Delis, Pasta Shops, Specialty Food, International Grocery\n****\n name: Sang Kee Peking Duck House \n categories: Restaurants, Noodles, Dim Sum, Hong Kong Style Cafe, Cantonese, Food, Barbeque, Juice Bars & Smoothies, Chinese\n****\n name: Bivouac Cidery & Tap Room \n categories: Restaurants, Food, American (New), American (Traditional), Cidery, Beer, Wine & Spirits, Coffee & Tea, Wine Bars, Cider\n****\n name: Heritage \n categories: Restaurants, American (New), Arts & Entertainment, Jazz & Blues, Nightlife, Bars\n****\n name: La Fontana della Citta \n categories: Restaurants, Food, Middle Eastern, Pizza, Italian, Arabic, Lebanese, Mediterranean\n****\n name: Grain Exchange \n categories: Restaurants, American (New), Nightlife, American (Traditional), Pubs, Southern, Bars, Gastropubs",
+            "Federal Donuts\nZuzu's Kitchen\nFederal Donuts\nChinatown 11\nThe QUICK FIXX\nEvan's Pizza\nAudrey Claire\nFiore Fine Foods\nIzumi\nA Tutti, Ristorante Italiano",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nThe Tasty Toast \nCinCin Restaurant \nHeritage \nGrain Exchange \nThe Grill  Smuckers \nBistro SouthEast",
+            "Daleng Restaurant \\n\nThe Tasty Toast \\n\nThe Tavern Restaurant \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nLe Pain Quotidien \\n\nHeritage \\n\nGrain Exchange \\n\nPaddy's Old City Pub \\n\nMisconduct Tavern",
+            "1. The Blue Duck \n2. The Continental Restaurant and Martini Bar \n3. Pearl's Oyster Bar \n4. Federal Donuts \n5. Blackbird Pizzeria \n6. Parc \n7. The Cheesecake Factory \n8. Franklin's \n9. Steve's Prince of Steaks \n10. Betty's Speakeasy",
+            " Pure Tacos\nOishii Pok\u00e9 \nMexican Post \nLa Calaca Feliz \nCantina Dos Segundos \nEl Rey \nDistrito \nSouth Philly Barbacoa \nJose Pistola's \nCondron Street\nLos Gallos Mexican Restaurant",
+            "Oishii Pok\u00e9 \nPearl's Oyster Bar \nMacaroni's Restaurant \nWater Works Restaurant & Lounge \nValley Green Inn \nThe Grill  Smuckers \nAudrey Claire \nThe Continental Restaurant and Martini Bar \nThe Blue Duck \nThe El Bar",
+            "1. Golden Triangle \n2. Water Works Restaurant & Lounge \n3. Bistro SouthEast \n4. Silver Diner\n5. The Juice Merchant \n6. Fuji Mountain \n7. Baan Thai \n8. Sang Kee Peking Duck House  \n9. Oishii Pok\u00e9 \n10. Green Leafs & Bananas",
+            "Water Works Restaurant & Lounge \nRistorante La Buca \nPearl's Oyster Bar \nFounding Fathers Sports Bar & Grill \nParc \nAudrey Claire \nOishii Pok\u00e9 \nFiore Fine Foods \nGreen Leafs & Bananas \nThe Cheesecake Factory",
+            "1. Pearl's Oyster Bar\n2. Audrey Claire\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. CO-OP Restaurant & Lounge\n6. The Milk House\n7. The Continental Restaurant and Martini Bar\n8. Chestnut 7\n9. The Blue Duck\n10. PrimoHoagies"
+        ]
+    }
+}

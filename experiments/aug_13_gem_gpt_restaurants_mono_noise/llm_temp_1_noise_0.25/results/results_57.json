@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a place to grab a sandwich?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a cheesesteak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get breakfast?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place that offers Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a salad with your Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a pasta or other italian dishes?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " PrimoHoagies \\n\nLisa's Kitchen \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nFederal Donuts \\n\nRoy-Pitz Barrel House \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nJack's Firehouse \\n",
+            " The Green Line Cafe\nSpread Bagelry\nThe QUICK FIXX\nFive Guys\nMonster Vegan\nPrimoHoagies\nLisa's Kitchen\nFederal Donuts\nTu's Tea & Banh Mi South Philly\nGreen Leafs & Bananas",
+            "Green Leafs & Bananas\nLisa's Kitchen\nSpread Bagelry\nThe Green Line Cafe\nPrimoHoagies\nLove & Honey Fried Chicken\nMonster Vegan\nThe QUICK FIXX\nBaan Thai\nLuvh Vegan Deli",
+            "1. PrimoHoagies \n2. Spread Bagelry \n3. The Blue Duck \n4. Green Leafs & Bananas \n5. The Cheesecake Factory \n6. Lisa's Kitchen \n7. Misconduct Tavern \n8. The Green Line Cafe \n9. Five Guys \n10. Steve's Prince of Steaks",
+            " The Green Line Cafe\nSpread Bagelry\n PrimoHoagies \nLisa's Kitchen \nJack's Firehouse \nThe Blue Duck \nFederal Donuts\nLucky's Last Chance \nLove & Honey Fried Chicken \nMcMenamin's Tavern",
+            "PrimoHoagie's \nThe Blue Duck \nThe Green Line Cafe \nThe QUICK FIXX \nLisa's Kitchen \nGreen Leafs & Bananas \nSpread Bagelry \nWawa \nBetty's Speakeasy \nTrolley Car Diner",
+            " 1. PrimoHoagies \n 2. Zuzu's Kitchen \n 3. The Juice Merchant \n 4. The QUICK FIXX \n 5. A Tutti, Ristorante Italiano \n 6. Macaroni's Restaurant \n 7. Talluto's Authentic Italian Food \n 8. Castellino's \n 9. Fiore Fine Foods \n10. Evan's Pizza",
+            "Talluto's Authentic Italian Food \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nA Tutti, Ristorante Italiano \\n\nOteri's Italian Bakery | North 5th St \\n\nCastellino's \\n\nRistorante La Buca \\n\nLucca Restaurant \\n\nFiorella \\n\nSabrina's Cafe",
+            " A Tutti, Ristorante Italiano \nPrimoHoagies \n Castellino's \n Talluto's Authentic Italian Food \n Fiore Fine Foods \n Macaroni's Restaurant \n The QUICK FIXX \n Founding Fathers Sports Bar & Grill \n Ristorante La Buca \n Oteri's Italian Bakery | North 5th St",
+            "Castellino's\nTalluto's Authentic Italian Food \nRistorante La Buca\nA Tutti, Ristorante Italiano \nLacroix Restaurant at The Rittenhouse \nCinCin Restaurant \nAudrey Claire \nVeda - Modern Indian Bistro\nMonster Vegan \nLuisa's Kitchen"
+        ]
+    }
+}

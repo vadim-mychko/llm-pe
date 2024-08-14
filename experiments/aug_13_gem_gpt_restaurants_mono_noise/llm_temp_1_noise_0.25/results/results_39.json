@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying Thai or Vietnamese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pho?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like bubble tea?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "What about Cambodian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a place with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nDaleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nMiga Korean BBQ & Sushi \nBistro SouthEast \nOishii Pok\u00e9 \nPure Tacos \nMalbec Argentine Steakhouse \nOteri's Italian Bakery | North 5th St",
+            "Daleng Restaurant \nBistro SouthEast \nBaan Thai \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nFederal Donuts \nCanton 11 \nSang Kee Peking Duck House \nPho 75 - Vietnamese Restaurant \nPho Ha & Teri",
+            " Daleng Restaurant \\n\nBistro SouthEast \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nGran Caffe L'Aquila \\n\nAudrey Claire \\n\nEssen Market & Caf\u00e9 \\n\nThe Fresh Grocer - Progress Plaza \\n\nKC's Pastries",
+            "Daleng Restaurant \\n\nBistro SouthEast \\n\nBaan Thai \\n\nTu's Tea & Banh Mi South Philly  \\n\nCanton 11  \\n\nDim Sum House  \\n\nKC's Pastries \nThe QUICK FIXX \\n\nEvan's Pizza \\n\nFiore Fine Foods",
+            " Daleng Restaurant\n Bistro SouthEast\n Mong Kok Station\n Baan Thai\n Canton 11\n Miga Korean BBQ & Sushi\n Tu's Tea & Banh Mi South Philly\n Pure Tacos\n Golden Triangle\n Oishii Pok\u00e9",
+            "Daleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nGolden Triangle \nOishii Pok\u00e9 \nFederal Donuts",
+            " Daleng Restaurant \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nBistro SouthEast \nBaan Thai \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nDim Sum House \nCanton 11",
+            " Daleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nSang Kee Peking Duck House\nGolden Triangle\nChinatown 11\nBaan Thai\nDim Sum House\nLucky's Last Chance",
+            " Daleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nDim Sum House \nKC's Pastries \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi \nBistro SouthEast \nGolden Triangle \nFederal Donuts",
+            " Daleng Restaurant \nCanton 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nKC's Pastries \nNew York Gyro Truck \nBaan Thai \nBistro SouthEast \nGreen Leafs & Bananas"
+        ]
+    }
+}

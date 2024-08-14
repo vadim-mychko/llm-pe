@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Does \"steak\" interest you at all?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place that offers pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer restaurants that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want salad with your order?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sandwiches or burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a vegetarian burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a burger place with fries?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar that primarily serves burgers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nThe Continental Restaurant and Martini Bar \nThe Milk House \nCook and Shaker \nOishii Pok\u00e9 \nAudrey Claire \nJack's Firehouse \nThe Green Line Cafe \nLove & Honey Fried Chicken \nLucky's Last Chance",
+            "The Cheesecake Factory\nThe Blue Duck\nJack's Firehouse\nBlackbird Pizzeria\nThe Tasty Toast\nBenna's Cafe\nFederals Donuts\nRoy-Pitz Barrel House\nLe Pain Quotidien\nGrain Exchange\nPearl's Oyster Bar",
+            "1. Federal Donuts \n2. The Blue Duck \n3. Lisa's Kitchen \n4. Steve's Prince of Steaks \n5. Founding Fathers Sports Bar & Grill \n6. The Cheesecake Factory \n7. Love & Honey Fried Chicken \n8. Rival Bros Coffee \n9. Gran Caffe L'Aquila \n10. CJ & Eck's",
+            "The Continental Restaurant and Martini Bar\nChez Frog\nDave's BBQ\nCarlo's Bakery\nThe Franklin Fountain\nThe Original SoupMan\nMica\nTermini Brothers Bakery\nSabrina's Cafe\nSchmidt's Commons\n",
+            "- Misconduct Tavern\n- Paddy's Old City Pub\n- Macaroni's Restaurant\n- Lisa's Kitchen\n- The Green Line Cafe\n- CJ & Eck's\n- Founding Fathers Sports Bar & Grill\n- Spread Bagelry\n- Love & Honey Fried Chicken\n- Trolley Car Diner",
+            " Lisa's Kitchen \n Luhv Vegan Deli \n Spread Bagelry \n Love & Honey Fried Chicken \n Five Guys \n Misconduct Tavern \n The Tavern Restaurant \n Paddy's Old City Pub \n Green Leafs & Bananas \n Founding Fathers Sports Bar & Grill",
+            "1. PrimoHoagies \\n\n2. Lisas Kitchen \\n\n3. Five Guys \\n\n4. Luhv Vegan Deli \\n\n5. Spread Bagelry \\n\n6. Green Leafs & Bananas \\n\n7. The Green Line Cafe \\n\n8. CJ & Eck's \\n\n9. The Blue Duck \\n\n10. The Cheesecake Factory\n",
+            "Macaroni's Restaurant\nTrolley Car Diner\nChickie's & Pete's\nGreen Leafs & Bananas\nThe Blue Duck\nThe Continental Restaurant and Martini Bar\nFederal Donuts\nLisa's Kitchen\nSteve's Prince of Steaks\nThe Green Line Cafe\nSpread Bagelry",
+            "1. Five Guys\n2. Franklin's\n3. Lisa's Kitchen\n4. Misconduct Tavern\n5. Founding Fathers Sports Bar & Grill\n6. Blackbird Pizzeria\n7. Chickie's & Pete's\n8. Jack's Firehouse\n9. JD Mcgillicuddy's Manayunk\n10. Lucky's Last Chance",
+            "Silver Diner\nThe Green Line Cafe\nSpread Bagelry\nThe Bullroast Coffee and Beer Co\nRivera's Italian Deli\nLisa's Kitchen\nThe Good Dog Bar\nBistro SouthEast\nZesto Waffles & Whiskey\nGrace Tavern"
+        ]
+    }
+}

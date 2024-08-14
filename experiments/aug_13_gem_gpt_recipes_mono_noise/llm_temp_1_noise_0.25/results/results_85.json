@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Do you like food spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood other than fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Broccoli and cheddar soup\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Pork chops glazed with milk and cooked without nuts\n9. Classic salad with creamy caesar dressing and croutons\n10. Spinach dip recipe\n'''",
+            " Very low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nLow fat diced baked or fried potatoes\nGrilled salmon seasoned with salt and pepper\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nItalian salad made from romain lettuce, artichokes, and tomatoes\nLow fat sweet potato fries made with cajun seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nPeppermint chocolate bonbon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\n''''",
+            " \n1. Low fat diced baked or fried potatoes\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat smoothies made with greek yogurt, and pineapple\n4. Cream cheese\n5. Mozzarella cheese\n6. Assorted cheese\n7. Low fat baked breakfast pie made with sausage (pork) and apples\n8. Garlic bread with cheddar, green onions, and mayonnaise\n9. Cheese with crackers\n10. Peach cobbler dessert containing whole wheat flour",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Soup made with shrimp, onions, and scallops\n7. Fried shrimp and scallops\n8. Fish soup made with dill, noodles and cream\n9. Low-fat assortment of shredded vegetables with seasoning\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nSushi with poke sauce\nFried shrimp and scallops\nSpicy shrimp soup\nShrimp with a spicy sauce\nShrimp stir fry\nGrilled fish\nSalmon burgers\nFish and chips\nFish tacos\nPoke\nCeviche\nFish soup\nFish stew",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Fried shrimp and scallops\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Simple creamy oyster soup\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Seafood gumbo made with shrimp, crab meat, and crawfish\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****",
+            "- Grilled salmon seasoned with salt and pepper\n- Salmon roasted with olive oil, chives, and tarragon leaves\n- Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n- Salmon fillets grilled in a pan with herbs and spices\n- Fried shrimp and scallops\n- Cream cheese and chive stuffed salmon fillets\n- Vietnamese-style grilled pork belly\n- Shrimp scampi\n- Scallops seared in butter\n- Grilled scallops with lemon butter sauce",
+            " Salmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nBeef stew made with beef, carrots and potatoes\nChicken breasts stuffed with bacon and mozzarella\nChopped French duck confit preserved by duck oil\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLarge portion fries with gravy and bacon\nBaked mozzarella cheese sticks with marinara sauce\n",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Beef stew made with beef, carrots and potatoes\n6. Soup made with shrimp, onions, and scallops\n7. Chopped French duck confit preserved by duck oil\n8. Baked spinach quiche containing bacon\n9. Chicken cooked and flavored with lemon sauce\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival"
+        ]
+    }
+}

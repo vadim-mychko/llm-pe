@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer movies that are fast-paced or slow-paced?",
+                "response": "i cannot determine your preference based on the given item description."
+            },
+            {
+                "query": "Would you prefer to watch a film that has one continuous story or multiple storylines?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in comedy or drama movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer to see a movie that is focused on a particular time period or a movie that is set in the present?",
+                "response": "i prefer to see a movie that is focused on a particular time period."
+            },
+            {
+                "query": "Are you interested in movies that are primarily set in a fantasy world?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies that are primarily set in urban settings?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is made mostly using animation?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in watching a movie that's set in the 70s or 80s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about dinosaurs?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie with a female protagonist?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. Santa Sangre (1989)\n7. August Rush (2007)\n8. Blair Witch Project, The (1999)\n9. Martyrs (2008)\n10. Piano, The (1993)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Big Red One, The (1980)\n3. Nightcrawler (2014)\n4. Delicatessen (1991)\n5. Brewster's Millions (1985)\n6. Shooter (2007)\n7. Grapes of Wrath, The (1940)\n8. Black Robe (1991)\n9. Hannibal (2001)\n10. Eragon (2006)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. Out of Sight (1998)\n7. The Sure Thing (1985)\n8. What's Up, Doc? (1972)\n9. The Thomas Crown Affair (1968)\n10. The Big Lebowski (1998)",
+            "1. American Graffiti (1973)\n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. Grapes of Wrath, The (1940)\n5. Black Robe (1991)\n6. Jane Eyre (1996)\n7. Big Red One, The (1980)\n8. Umberto D. (1952)\n9. All Quiet on the Western Front (1930)\n10. Von Ryan's Express (1965)",
+            "Tomb Raider (2018) \nReign of Assassins (2010) \nAbraham Lincoln: Vampire Hunter (2012) \nThe Lord of the Rings: The Return of the King (2003) \nThe NeverEnding Story (1984) \nPan's Labyrinth (El laberinto del fauno) (2006) \nThe Princess Bride (1987) \nLegend (1985) \nWillow (1988) \nThe Secret of Kells (2009)",
+            "1. Control (2007)\n2. Europa (Zentropa) (1991)\n3. A.I. Artificial Intelligence (2001)\n4. Jane Eyre (1996)\n5. Lost in Translation (2003)\n6. Eragon (2006)\n7. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n8. Tenacious D in The Pick of Destiny (2006)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Mr. Holmes (2015)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. Fantastic Mr. Fox (2009)\n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n5. Metropolis (2001)\n6. Secret of Kells, The (2009)\n7. Land Before Time, The (1988)\n8. How High (2001)\n9. UHF (1989)\n10. Gremlins 2: The New Batch (1990)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Terminator 3: Rise of the Machines (2003)\n4. A.I. Artificial Intelligence (2001)\n5. King Kong (2005)\n6. Tenacious D in The Pick of Destiny (2006)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. Big Lebowski, The (1998)\n9. Enter the Void (2009)\n10. Cronos (1993)",
+            "The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nEragon (2006)\nLand Before Time, The (1988)\n101 Dalmatians (1961)\nClash of the Titans (1981)\nMothra (1961)\nAnt-Man (2015)\nReal Steel (2011)\nA.I. Artificial Intelligence (2001)\nReady Player One",
+            "1. Jurassic Park: The Lost World.\n2. Tomb Raider.\n3. Pirates of the Caribbean: At World's End.\n4. Laura.\n5. Ant-Man.\n6. Volcano.\n7. August Rush.\n8. Meet John Doe.\n9. Timeline.\n10. Mister Rogers' Neighborhood (DVD)."
+        ]
+    }
+}

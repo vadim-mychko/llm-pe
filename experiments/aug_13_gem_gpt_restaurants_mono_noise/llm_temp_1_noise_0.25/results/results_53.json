@@ -1,0 +1,58 @@
+{
+    "53": {
+        "conv_hist": [
+            {
+                "query": "Is American food something you're looking for?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in the Juice Merchant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a salad?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that offer juice bars?",
+                "response": "no"
+            },
+            {
+                "query": "Does  \"Mong kok station\" interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like donuts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nFuji Mountain \\n\nGolden Triangle \\n\nCanton 11 \\n\nDaleng Restaurant \\n\nWater Works Restaurant & Lounge \\n\nThe Juice Merchant \\n\nVeda - Modern Indian Bistro \\n\nBistro SouthEast",
+            "Daleng Restaurant \nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nPrimoHoagies \nZuzu's Kitchen \nThe QUICK FIXX \nLisa's Kitchen \nGreen Leafs & Bananas \nThe Green Line Cafe",
+            "1. The Juice Merchant \\n\n2. The Green Line Cafe \\n\n3. The QUICK FIXX \\n \n4. Castellino's \\n\n5. Benna's Cafe \\n \n6. Essene Market & Caf\u00e9 \\n\n7. Spread Bagelry  \\n\n8. KC's Pastries  \\n \n9. Luhv Vegan  \\n\n10. Monster Vegan \\n",
+            "The Juice Merchant\nDim Sum House\nBlackbird Pizzeria\nFederal Donuts\nLisa's Kitchen\nThe Cheesecake Factory\nTrolley Car Diner\nPaddy's Old City Pub\nBleu Duck\nRistorante La Buca",
+            "1. The Juice Merchant\n2. Bread's Sandwich Co\n3. Spread Bagelry\n4. Monster Vegan\n5. Fiore Fine Foods\n6. Lucky's Last Chance\n7. Love & Honey Fried Chicken\n8. Lisa's Kitchen\n9. Luhv Vegan Deli\n10. The QUICK FIXX",
+            "1. The Juice Merchant\n2. Zuzu's Kitchen\n3. PrimoHoagies\n4. The Tasty Toast\n5. Spread Bagelry\n6. The Green Line Cafe\n7. Luhv Vegan Deli\n8. Lisa's Kitchen\n9. Trolley Car Diner\n10. Steve's Prince of Steaks\n'''",
+            "The Juice Merchant \nZuzu's Kitchen \nPrimoHoagies \nSpread Bagelry \nThe Green Line Cafe \nThe QUICK FIXX \nWawa \nGreen Leafs & Bananas \nThe Cheesecake Factory \nLisa's Kitchen\n",
+            "The Juice Merchant \n Zuzu's Kitchen \n Golden Triangle \n Mona's Kitchen \nDaleng Restaurant \n Federal Donuts \n PrimoHoagies \n Canton 11 \n North Bowl \n Baan Thai",
+            "The Juice Merchant \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nLisa's Kitchen \nPrimoHoagies \nThe QUICK FIXX \nLuvh Vegan Deli \nBetty's Speakeasy \nGreat Caesars Salad Co",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nDaleng Restaurant \nLacroix Restaurant at The Rittenhouse \nPrimoHoagies \nThe Tasty Toast \nFederal Donuts \nLe Pain Quotidien \nCinCin Restaurant"
+        ]
+    }
+}

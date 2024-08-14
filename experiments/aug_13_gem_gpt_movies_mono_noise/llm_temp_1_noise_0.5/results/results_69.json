@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for a light-hearted comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you feel like watching a drama with a complex plot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie with thought-provoking themes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in action or adventure?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for action that includes dinosaurs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie rated R?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a fantasy element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie where the main character solves a mystery or unfolds a conspiracy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie that's high energy?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Stranger than Fiction (2006)\n2. Runaway Train (1985)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. Big Red One, The (1980)\n5. Darkman (1990)\n6. Who am I (1998)\n7. Crimes and Misdemeanors (1989)\n8. The Conversation (1974)\n9. Brazil (1985)\n10. Nightcrawler (2014)",
+            "1. Corpse in freezer\n2. Non-linear timeline\n3. Mind bending\n4. Religious themes\n5. Cross-dressing\n6. Mayhem\n7. Intolerance\n8. Moral ambiguity\n9. Heartbreaking\n10. Disrespect",
+            "1. No Country for Old Men (2007)\n2. There Will Be Blood (2007)\n3. The Dark Knight (2008)\n4. The Master (2012)\n5. Prisoners (2013)\n6. Sicario (2015)\n7. Hell or High Water (2016)\n8. Wind River (2017)\n9. The Power of the Dog (2021)\n10. The Banshees of Inisherin (2022)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Von Ryan's Express (1965)\n4. Transporter 2 (2005)\n5. Face/Off (1997)\n6. King Kong (2005)\n7. Eragon (2006)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Clash of the Titans (1981)\n10. Big Red One, The (1980)\n",
+            "Tomb Raider (2018) \n Pirates of the Caribbean: At World's End (2007) \n Abraham Lincoln: Vampire Hunter (2012) \n Last Action Hero (1993) \n Man on Fire (2004) \n Terminator 3: Rise of the Machines (2003) \n Ant-Man (2015) \n Ready Player One\nNightcrawler (2014) \nFace/Off (1997)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Abraham Lincoln: Vampire Hunter (2012) \n3. Terminator 3: Rise of the Machines (2003) \n4. Ant-Man (2015) \n5. Von Ryan's Express (1965) \n6. Timeline (2003) \n7. Real Steel (2011) \n8. The Big Lebowski (1998) \n9. Trapped (2002) \n10. Face/Off (1997)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Man on Fire (2004)\n3. Clash of the Titans (1981)\n4. Ant-Man (2015)\n5. Alita: Battle Angel (2019)\n6. Ready Player One\n7. Transporter 2 (2005)\n8. Nightcrawler (2014)\n9. Departed, The (2006)\n10. Face/Off (1997)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Man on Fire (2004) \n3. Von Ryan's Express (1965) \n4. The Land Before Time (1988) \n5. Clash of the Titans (1981)\n6. Big Red One, The (1980) \n7. Black Robe (1991) \n8. King Kong (2005) \n9. Face/Off (1997)\n10. Intolerable Cruelty (2003)",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. American Graffiti (1973) \n3. Terminator 3: Rise of the Machines (2003) \n4. Kung Fu Hustle (2004) \n5. Jurassic Park (1993) \n6. The Matrix (1999) \n7. Meet John Doe (1941) \n8. The Dark Knight (2008) \n9. Indiana Jones and the Raiders of the Lost Ark (1981) \n10. The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Von Ryan's Express (1965)\n4. Transporter 2 (2005)\n5. Tomb Raider (2018)\n6. The Land Before Time (1988)\n7. Clash of the Titans (1981)\n8. Real Steel (2011)\n9. Bruce Almighty (2003)\n10. Jaws (1975)"
+        ]
+    }
+}

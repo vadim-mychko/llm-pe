@@ -1,0 +1,58 @@
+{
+    "5": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in video game adaptations like \"Tomb Raider\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fantasy adventure movies like \"Pirates of the Caribbean: At World's End\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an atmospheric black and white film noir?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a western crime drama like \"The Proposition\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary movie about corporate greed?",
+                "response": "no"
+            },
+            {
+                "query": "Are you currently interested in a movie with disabled characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a low budget movie with the found footage technique, like \"The Blair Witch Project\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in a mood for a black comedy that skewers divorce lawyers like \"Intolerable Cruelty\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for something visually appealing like \"The Secret of Kells\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you currently in the mood for a movie that deals with the Holocaust, such as \"Boy in the Striped Pyjamas\"?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. The Blair Witch Project (1999)\n7. Piano, The (1993)\n8. Terms of Endearment (1983)\n9. The Naked Gun: From the Files of Police Squad! (1988)\n10.Dracula (Bram Stoker's Dracula) (1992)",
+            "1. August Rush (2007) \n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007) \n5. Blair Witch Project, The (1999) \n6. Martyrs (2008) \n7. Piano, The (1993) \n8. Bernie (2011) \n9. Terms of Endearment (1983) \n10. Naked Gun: From the Files of Police Squad!, The (1988)",
+            "1. Laura (1944) \n2. Last Temptation of Christ, The (1988) \n3. Piano, The (1993) \n4. Autumn Sonata (H\u00f6stsonaten) (1978) \n5. Drugstore Cowboy (1989) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. Secret of Kells, The (2009) \n8. Dangerous Liaisons (1988) \n9. Europa (Zentropa) (1991) \n10. Delicatessen (1991)",
+            "1. The Land Before Time (1988) \n2. Terminator 3: Rise of the Machines (2003) \n3. Titanic (1997)\n4. The Terminator (1984) \n5. The Dark Knight (2008)\n6. Indiana Jones and the Raiders of the Lost Ark (1981)\n7. Jaws (1975)\n8. Jurassic Park (1993)\n9. Batman Begins (2005)\n10. Back to the Future (1985)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. National Lampoon's Vacation (1983)\n4. National Lampoon's Christmas Vacation (1989)\n5. Ferris Bueller's Day Off (1986)\n6. Planes, Trains & Automobiles (1987)\n7. Home Alone (1990)\n8. Elf (2003)\n9. A Christmas Story (1983)\n10. Love Actually (2003)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Laura (1944) \n4. August Rush (2007) \n5. Blair Witch Project, The (1999)\n6. The Piano (1993) \n7. Terms of Endearment (1983) \n8. Bernie (2011) \n9. One Hour Photo (2002) \n10. All Quiet on the Western Front (1930)\n",
+            "1. August Rush (2007)\n2. Martyrs (2008)\n3. The Lost World: Jurassic Park (1997)\n4. The Man from Earth (2007)\n5. Secret of Kells, The (2009)\n6. Searching (2018)\n7. Hachiko: A Dog's Story (2009)\n8. The Hurricane (1999)\n9. The Big Red One (1980)\n10. Nightcrawler (2014)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. August Rush (2007)\n5. Bad Education (La mala educaci\u00f3n) (2004)\n6. Before the Devil Knows You're Dead (2007)\n7. Bernie (2011)\n8. Bottle Rocket (1996)\n9. Breach (2007)\n10. Brewster's Millions (1985)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Remember the Titans (2000)\n5. Ghost (1990)\n6. The Sandlot (1993)\n7. Step Brothers (2008)\n8. Crazy, Stupid, Love. (2011)\n9. Guardians of the Galaxy (2014)\n10. Forrest Gump (1994)",
+            "1. Monsters, Inc. (2001)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. Bernie (2011)\n6. One Hour Photo (2002)\n7. Man on Fire (2004)\n8. We Bought a Zoo (2011)\n9. Chungking Express (Chung Hing sam lam) (1994)\n10. Magnolia (1999)"
+        ]
+    }
+}

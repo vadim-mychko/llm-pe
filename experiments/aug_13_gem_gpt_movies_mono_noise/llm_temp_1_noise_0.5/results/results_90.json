@@ -1,0 +1,58 @@
+{
+    "90": {
+        "conv_hist": [
+            {
+                "query": "Is this movie a fantasy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with strong female leads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a complex plot?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you thinking of a movie that has a large body count?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a movie that is set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a disturbing movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie with a clever story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features robots or androids?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a film adaptation of a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a twist ending?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Matrix (1999)\n3. Transformers (2007)\n4. Pirates of the Caribbean: The Curse of the Black Pearl (2003)\n5. Harry Potter and the Sorcerer's Stone (2001)\n6. The Lord of the Rings: The Fellowship of the Ring (2001)\n7. Spider-Man (2002)\n8. X-Men (2000)\n9. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)\n10. Avatar (2009)",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. The Blair Witch Project (1999) \n5. Terms of Endearment (1983) \n6. Proposition, The (2005) \n7. Naked Gun: From the Files of Police Squad!, The (1988) \n8. One Hour Photo (2002) \n9. Before the Devil Knows You're Dead (2007) \n10. St. Elmo's Fire (1985)",
+            "1. Departed, The (2006)\n2. Lost in Translation (2003)\n3. Stranger than Fiction (2006)\n4. Out of Sight (1998)\n5. No Man's Land (2001)\n6. Terminator 3: Rise of the Machines (2003)\n7. Magnolia (1999)\n8. Nightcrawler (2014)\n9. Crimes and Misdemeanors (1989)\n10. Before the Devil Knows You're Dead (2007)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Departed (2006)\n3. Control (2007)\n4. Prisoner of the Caucauses (1967)\n5. The Big Red One (1980)\n6. Stranger than Fiction (2006)\n7. Intolerable Cruelty (2003)\n8. Black Robe (1991)\n9. Grapes of Wrath, The (1940)\n10. Meet John Doe (1941)",
+            "1. Departed, The (2006) \n2. Stranger than Fiction (2006) \n3. Lost in Translation (2003) \n4. Nightcrawler (2014) \n5. Intolerable Cruelty (2003) \n6. Black Robe (1991) \n7. Terminator 3: Rise of the Machines (2003) \n8. Time, The (2006) \n9. Control (2007) \n10. The Last Supper (1995) ",
+            "1. The Departed (2006)\n2. Stranger than Fiction (2006)\n3. Nightcrawler (2014)\n4. Ready Player One\n5. The Hurricane (1999)\n6. Lost Translation (2003)\n7. The Big Lebowski (1998)\n8. Terminator 3: Rise of the Machines (2003)\n9. No Man's Land (2001)\n10. The Matrix (1999)",
+            "1. The Grapes of Wrath (1940) \n2. Lost in Translation (2003) \n3. The Big Lebowski (1998) \n4. The Terminal (1999) \n5. The Departed (2006) \n6. Blood Simple (1984)\n7. Nightcrawler (2014) \n8. The Man from Earth (2007)\n9. The Iron Giant (1999)\n10. Stranger than Fiction (2006) \n",
+            "1. The Departed (2006)\n2. The Big Lebowski (1998)\n3. Intolerable Cruelty (2003)\n4. American Graffiti (1973)\n5. Grapes of Wrath, The (1940)\n6. Lost in Translation (2003)\n7. Umberto D. (1952)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Darkman (1990)\n10. Von Ryan's Express (1965)\n",
+            "1. The Departed (2006)\n2. The Hurricane (1999)\n3. No Man's Land (2001)\n4. Strange than Fiction (2006)\n5. Antes the Devil Knows You're Dead (2007)\n6. Darkman (1990)\n7. Black Robe (1991)\n8. Man from Earth, The (2007)\n9. The Intolerable Cruelty (2003)\n10. Breach (2007)",
+            "1. Departed, The (2006)\n2. Stranger than Fiction (2006)\n3. Nightcrawler (2014)\n4. Terminator 3: Rise of the Machines (2003)\n5. The Hurricane (1999)\n6. Terminator 2 (1991)\n7. Rush Hour (1998)\n8. Face/Off (1997)\n9. Minority Report (2002)\n10. Total Recall (1990)"
+        ]
+    }
+}

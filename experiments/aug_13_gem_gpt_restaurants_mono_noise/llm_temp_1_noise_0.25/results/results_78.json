@@ -1,0 +1,58 @@
+{
+    "78": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a fast food option?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a burger today?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in tacos?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a Mexican restaurant that serves tacos?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that is vegan?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant that serves tacos?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Five Guys \n2. Wawa \n3. Auntie Anne's \n4. Chick-fil-A \n5. Popeyes Louisiana Kitchen \n6. Arby's\n7. Chipotle Mexican Grill \n8. McDonald's \n9. Dunkin' \n10. Taco Bell",
+            " Five Guys\nWishbone\nJack's Firehouse\nFranklin's\nJD Mcgillicuddy's Manayunk\nTrolley Car Diner\nThe Green Line Cafe\nSpread Bagelry\nWawa\nLove & Honey Fried Chicken",
+            "Five Guys\nWawa\nWishbone\nChick-fil-A\nRoy-Pitz Barrel House\nFreddy's Frozen Custard & Steakburgers\nBetty's Speakeasy\nMad River Manayunk\nJD Mcgillicuddy's Manayunk\nFranklin's",
+            " Five Guys\nWawa\nOlive Garden Italian Restaurant\nMacaroni's Restaurant\nWishbone\nFranklin's\nJD Mcgillicuddy's Manayunk\nTrolley Car Diner\nThe Cheesecake Factory\nThe Green Line Cafe",
+            "Freddy & Betsy's\nFive Guys\nWawa\nSubway\nGreen Leafs & Bananas\nTaste of Hungary\nPrimos Hoagies\nLucky's Last Chance\nSpread Bagelry\nThe Green Line Cafe",
+            "Pure Tacos \nOishii Pok\u00e9 \nBistro SouthEast \nFederal Donuts \nCinco De Mayo \nLa Chingona \nEl Taco Joint \n Cantina Dos Segundos \nCondado Tacos \n Casa Enrique \n Ixta\n Buena Onda",
+            " Pure Tacos \n Oishii Pok\u00e9 \n Bistro SouthEast \n Taco Bell \n Mad Mex \nQdoba Mexican Grill \n Chipotle Mexican Grill \n El Rey Taqueria \n La Calaca Feliz \n Taqueria El Poblano",
+            "1. Oishii Pok\u00e9\n2. Miss Rachel's Pantry \n3. Di Bruno Bros. \n4. Target \n5. Wegmans \n6. Whole Foods Market \n7. Trader Joe's\n8. ALDI \n9. Lidl\n10. Acme",
+            "1. Vedge \n2. Hey Hummus \n3. Monster Vegan \n4. Benna's Cafe \n5. Luhv Vegan Deli \n6. Green Leafs & Bananas \n7. Oishii Pok\u00e9 \n8. Spread Bagelry \n9. Pure Tacos \n10. Love & Honey Fried Chicken",
+            " Pure Tacos \nAudrey Claire \nLove & Honey Fried Chicken \nTrolley Car Diner \nBenna's Cafe \nVedge \nEssen Market & Caf\u00e9 \nFederal Donuts \nNorth Bowl \nMonster Vegan"
+        ]
+    }
+}

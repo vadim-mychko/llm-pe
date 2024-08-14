@@ -1,0 +1,58 @@
+{
+    "65": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about an old woman taking care of her sick husband?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 50's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a war or terror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a feel-good movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a dog in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a documentary or a movie set in a specific country?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy or a dark movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a computer?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with black characters?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terms of Endearment (1983) \n2. August Rush (2007)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n4. Grapes of Wrath, The (1940) \n5. Umberto D. (1952) \n6. Norma Rae (1979) \n7. Still Alice (2014)\n8. Away from Her (2006) \n9. The Burning Season (1994) \n10. Irreplaceable You (2018)\n",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. A.I. Artificial Intelligence (2001)\n3. Gannibal (2006)\n4. Face/Off (1997)\n5. Terminator 3: Rise of the Machines (2003)\n6. Real Steel (2011) \n7. Real Genius (1985) \n8. RoboCop (1987)\n9. The Terminator (1984)\n10. The Terminator (2015)",
+            "1. August Rush (2007)\n2. Big Red One, The (1980)\n3. Amadeus (1984)\n4. The Burmese Harp (Biruma no tategoto) (1956)\n5. Come and See (Idi i smotri) (1985)\n6. Cronos (1993)\n7. Delicatessen (1991)\n8. Europa (Zentropa) (1991)\n9. The Battle of Algiers (La battaglia di Algeri) (1966)\n10. Onibaba (1964)",
+            "1. August Rush (2007)\n2. The Sure Thing (1985)\n3. What's Up, Doc? (1972)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Control (2007)\n6. Stranger than Fiction (2006)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. The Last Supper (1995)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. August Rush (2007)\n4. One Hour Photo (2002)\n5. The Last Action Hero (1993)\n6. All Quiet on the Western Front (1930)\n7. Bad Education (La mala educaci\u00f3n) (2004)\n8. Secret of Kells, The (2009)\n9. Love Me If You Dare (Jeux d'enfants) (2003)\n10. Avrupa (Zentropa) (1991)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Bruce Almighty (2003) \n3. Clash of the Titans (1981) \n4. Crimes and Misdemeanors (1989) \n5. Dogma (1999) \n6. Enter the Void (2009) \n7. King Kong (2005) \n8. Last Temptation of Christ, The (1988) \n9. Lost in Translation (2003) \n10. Umberto D. (1952)",
+            "1. The Thing (1982)\n2. Terminator (1984)\n3. Aliens (1986)\n4. Back to the Future (1985)\n5. Gremlins (1984)\n6. The Terminator (1984)\n7. Blade Runner (1982)\n8. Top Gun (1986)\n9. Raiders of the Lost Ark (1981)\n10. E.T. the Extra-Terrestrial (1982)\n",
+            "1. Sure Thing, The (1985) \n2. Runaway Train (1985) \n3. Cocoon (1985)\n4. Brewster's Millions (1985) \n5. Real Genius (1985) \n6. St. Elmo's Fire (1985) \n7. The Last Dragon (1985)\n8. Transylvania 6-5000 (1985) \n9. Fletch (1985) \n10. Back to the Future (1985)\n",
+            "Terminator 3: Rise of the Machines (2003) \nR",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Highlander (1986)\n4. Face/Off (1997)\n5. City Heat (1984)\n6. Dune (1984)\n7. Conan the Barbarian (1982)\n8. Gremlins (1984)\n9. Big Trouble in Little China (1986)\n10. Stranger Things (1983)"
+        ]
+    }
+}

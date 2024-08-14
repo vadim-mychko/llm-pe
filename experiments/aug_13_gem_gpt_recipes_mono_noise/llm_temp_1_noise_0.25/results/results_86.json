@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to cook?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like breakfast foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Korean soup containing beef brisket and flavoured with red pepper powder \\n\nMildly spicy chili recipe \\n\nSpicy tofu, noodles and vegetables Bento \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nSpicy chowder \\n\nVery low-fat assortment of shredded vegetables with seasoning\\n\nBuffalo cauliflower \\n\nTofu, mushroom and tomatoes poke \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nButtermilk biscuit breakfast sandwich with bacon, egg, cheese, and spicy jalapeno salsa\n",
+            " Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSandwich made with: grilled / broiled marinated chicken\nLarge portion fries with gravy and bacon\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked breakfast bars made with nuts and seeds",
+            "Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\n****",
+            " Shredded barbecued pork shoulder\n Korean soup containing beef brisket and flavoured with red pepper powder\n Pork chops glazed with milk and cooked without nuts\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n Meatballs made with ground beef and ground pork\n Large portion fries with gravy and bacon\n Low fat peanut butter cookies\n Mozzarella dip recipe\n Low sugar applesauce cupcakes\n Pickled hot sauce",
+            "1. Low fat baked breakfast pie made with sausage (pork) and apples\n2. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n3. Shredded barbecued pork shoulder\n4. Pulled pork Hawaiian pizza containing: pineapple\n5. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n6. Meatballs made with ground beef and ground pork\n7. High protein skillet with rice and vegetables\n8. Sandwich made with: grilled / broiled marinated chicken\n9. Pork chops glazed with milk and cooked without nuts\n10. Spicy pork tenderloin with gingersnap coating\n'''",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Queso made from melted cheese and chili peppers\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Low-fat shredded vegetables with seasoning\n6. Barbecue spare ribs\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Grilled pork tenderloin\n9. Easy melt-in-your-mouth fried pork belly\n10. Pork soup with barley\n11. Pork and vegetable stir-fry",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nLow fat baked breakfast pie made with sausage (pork) and apples\nChicken breasts stuffed with bacon and mozzarella\nLarge portion fries with gravy and bacon\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBacon and cheddar egg sandwich\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nBacon, lettuce, and tomato sandwich\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n'''",
+            "Cheese with crackers\nPork chops glazed with milk and cooked without nuts\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nLow fat baked breakfast pie made with sausage (pork) and apples\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nBaked spinach quiche containing bacon\nShredded barbecued pork shoulder\nChicken breasts stuffed with bacon and mozzarella\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n4. Baked mozzarella cheese sticks with marinara sauce\n5. Pork chops glazed with milk and cooked without nuts\n6. Shredded barbecued pork shoulder\n7. Chicken breasts stuffed with bacon and mozzarella\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Sticky rice wrapped pork shoulder for Chinese dragon boat festival",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat breakfast pie made with sausage (pork) and apples\nShredded barbecued pork shoulder\nSpicy chili recipe\nLow fat baked breakfast bars made with nuts and seeds\nDigestion-friendly waffles\nPeach cobbler dessert containing whole wheat flour\nPork chops glazed with milk and cooked without nuts\nRoasted almonds\nSpaghetti noodles with mussels, anchovy fillets, and capers"
+        ]
+    }
+}

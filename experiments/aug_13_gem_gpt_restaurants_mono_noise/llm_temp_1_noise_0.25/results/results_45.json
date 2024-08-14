@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for sandwich shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food trucks?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dessert place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in restaurants with a lounge?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer to go to a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for cocktail bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pubs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for venues that host events?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in night life?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Water Works Restaurant & Lounge \n\nZuzu's Kitchen \n\nGrain Exchange \n\nFuji Mountain \n\nTavern On the Hill \n\nMalbec Argentine Steakhouse \n\nRoy-Pitz Barrel House \n\nTapas/Small Plates \n\nCinCin Restaurant \n\nEl Bar",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n The Juice Merchant \n The Tasty Toast \n Le Pain Quotidien \n Federal Donuts \nHeritage \n The Milk House",
+            "The Continental Restaurant and Martini Bar\nOlive Garden Italian Restaurant\nEvan's Pizza\nBellina\nLa Piazza Al Forno\nSabrina's Cafe\nThe QUICK FIXX\nPastaficio\nSalvatore Pizza Cafe\nValanni Restaurant",
+            "1. Water Works Restaurant & Lounge \n2. The Milk House\n3. The Grilled Pizza\n4. Brindisa\n5. White Dog Cafe Logan Square\n6.  Square Diner\n7. Wrigleyville North\n8 . CHICAGO Q\n9. Roister\n10. Topolobampo",
+            "Maison 208 \\n\nThe Continental Restaurant and Martini Bar \\n\nPearl's Oyster Bar \\n\nLibert\u00e9 Lounge \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nWishbone \\n\nAldine \\n\nCook and Shaker \\n\nFranklin's \\n\nChestnut 7",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nFederal Donuts \nThe Milk House \nThe Tavern Restaurant \nValverde \nCO-OP Restaurant & Lounge \nCinCin Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nAudrey Claire",
+            "Lacroix Restaurant at The Rittenhouse \nCO-OP Restaurant & Lounge \nFounding Fathers Sports Bar & Grill \nJack's Firehouse \nHeritage \nGran Caffe L'Aquila \nJake's & Cooper's Wine Bar & Wine Shop \nFountain Porter \nThe Continental Restaurant and Martini Bar \nCinCin Restaurant",
+            "Grain Exchange \nFounding Fathers Sports Bar & Grill \nThe El Bar \nMadison Tap House \nRush Hour \nCosmi's Deli & Catering \nJack's Firehouse \nNorth Bowl \nMeet \nLibert\u00e9 Lounge \nMorgan's Pier",
+            " Lacroix Restaurant at The Rittenhouse \nAudrey Claire \nRistorante La Buca \nCinCin Restaurant \nJake's & Cooper's Wine Bar & Wine Shop \nParc \nCook and Shaker \nGrain Exchange \nSouthGate \nTalluto's Authentic Italian Food",
+            "1. Water Works Restaurant & Lounge\n2. Lacroix Restaurant at The Rittenhouse\n3. CO-OP Restaurant & Lounge\n4. The Continental Restaurant and Martini Bar\n5. Jake's & Cooper's Wine Bar & Wine Shop\n6. Macaroni's Restaurant\n7. The QUICK FIXX\n8. Betty's Speakeasy\n9. Chestnut 7\n10. Audrey Claire"
+        ]
+    }
+}

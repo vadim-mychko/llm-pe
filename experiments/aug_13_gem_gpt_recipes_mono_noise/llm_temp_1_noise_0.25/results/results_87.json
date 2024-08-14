@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chocolate?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Pork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat diced baked or fried potatoes\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nShredded barbecued pork shoulder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nChopped French duck confit preserved by duck oil\nDog food made from pork, green beans, cheddar cheese and brown rice\nPork lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nEggs and sausage with corned beef hash\n''''",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Shredded barbecued pork shoulder\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roasted almonds\n****\n Low fat diced baked or fried potatoes\n****\n Low-fat coconut alcohol-free cocktail\n****\n Chopped French duck confit preserved by duck oil\n****\n Hot pot that is not spicy\n****\n Dog food made from pork, green beans, cheddar cheese and brown rice",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nGrilled pork chops with brown sugar and cinnamon\n****\nShredded barbecued pork shoulder\n****\nRoast pork with orange and applesauce\n****\nBaked pork schnitzel with low-fat potato salad\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nPork carnitas\n****\nPolenta with sliced turkey, zucchini, and pork\n****\nPepper and pork stir-fry\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nLow fat pork tenderloin seasoned with paprika, cumin, garlic, and cayenne\n****\n\nOther recipes:\n\nPork chops glazed with milk and cooked without nuts\n****\nFried pork chops in classic bread crumbs\n****\nPork meatballs with roasted eggplant\n****\nPork lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nCream cheese pork spread\n****\nPork chile verde omelet\n****\nPork steak with mushroom, onion, sweet pepper, and red wine gravy\n****\nPork and cod fillets with black beans and roasted red pepper sauce\n****\nMango and pork tacos\n****\nPork chops with black peppercorn gravy\n****\nPork scallopini with lemon sauce\n****\nPork loin with grilled apples and onions\n****\nPork chops with lemon caper sauce\n****\nAsian pork chops\n****\nPork burgers with pineapple mayonnaise\n****\nCaramelized pork chops with spiced apples and maple syrup\n****\nGrilled pork chops with chimichurri sauce",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nShredded barbecued pork shoulder\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nSoup made with ground turkey that is low fat, high carb\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpanish rice with chicken breast\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n'''",
+            "Peppermint chocolate bonbon \\n\nAlmonds coated with butter and salt \\n\nPork chops glazed with milk and cooked without nuts \\n\nSpicy eggplant and zucchini salad \\n\nSticky rice wrapped pork shoulder for Chinese dragon boat festival \\n\nKorean soup containing beef brisket and flavoured with red pepper powder \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nShredded barbecued pork shoulder \\n\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce \\n\nTaiwanese deep fried crispy chicken cutlets",
+            " Pork chops glazed with milk and cooked without nuts\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSmothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nPeach cobbler dessert ",
+            " Grilled pork chops glazed with milk and cooked without nuts\n****\n Fried shrimp and scallops\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Chocolate and orange-flavoured smoothie\n****\n Smoothies made from banana puree with milk\n****\n Blueberry and vanilla filling surrounded by cake\n****\n Low sugar applesauce cupcakes\n****\n Homemade soup with chicken, noodles, and spices\n****\n Chicken cooked and flavored with lemon sauce",
+            "Pork chops glazed with milk and cooked without nuts \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSpicy chili recipe \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nLarge portion fries with gravy and bacon \\n\nLow fat smoothies made with greek yogurt, and pineapple \\n\nSmoothie made from fruit juice and bananas \\n\nSmoothie made from banana puree with milk \\n\nChocolate and orange-flavoured smoothie \\n\nLow sugar applesauce cupcakes",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Baked spinach quiche containing bacon\n3. Shredded barbecued pork shoulder\n4. Chow mein noodles with pork\n5. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n6. Strawberry banana smoothie\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPork chops glazed with milk and cooked without nuts\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast\nStir-fried tofu, noodles and vegetables Bento\nRoasted almonds\nBanana bread made with whole wheat flour and walnuts"
+        ]
+    }
+}

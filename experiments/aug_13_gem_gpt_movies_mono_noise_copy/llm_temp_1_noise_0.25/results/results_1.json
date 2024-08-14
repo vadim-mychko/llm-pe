@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Do you like kids movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a science fiction movie with a dystopian setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of action?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie about the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a lot of special effects?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie about technology?\n++++",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action-packed sci-fi movie with special effects-heavy about a dystopian future with advanced technology?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie with virtual reality?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pirates of the Caribbean: At World's End (2007) \nLast Temptation of Christ, The (1988) \nAbraham Lincoln: Vampire Hunter (2012) \nSanta Sangre (1989) \nThe Proposition (2005) \nBernie (2011) \nNaked Gun: From the Files of Police Squad!, The (1988) \nOne Hour Photo (2002) \nDracula (Bram Stoker's Dracula) (1992)\nMan on Fire (2004)",
+            "1. Ready Player One\n2. A.I. Artificial Intelligence\n3. Timeline\n4. Matrix, The (1999)\n5. Blade Runner (1982)\n6. Inception (2010)\n7. Minority Report (2002)\n8. Brazil (1985)\n9. Gattaca (1997)\n10. World on a Wire, The (Welt am Draht, Die) (1973)",
+            "1. Ready Player One \n2. Terminator 3: Rise of the Machines \n3. Ant-Man \n4. Alita: Battle Angel \n5. Timeline \n6. The Matrix (1999) \n7. Darkman\n8. The Island (2005) \n9. Serenity (2005) \n10.  District 9 (2009)",
+            "1. Ready Player One\n2. Timeline (2003)\n3. Ant-Man (2015)\n4. Darkman (1990)\n5. Alita: Battle Angel (2019)\n6. Terminator 3: Rise of the Machines (2003)\n7. A.I. Artificial Intelligence (2001)\n8. Real Steel (2011)\n9. Corporation, The (2003)\n10. Matrix, The (1999)",
+            "1. Blade Runner (1982)\n2. Terminator 2: Judgment Day (1991)\n3. Minority Report (2002)\n4. Total Recall (1990)\n5. The Matrix (1999)\n6. Mad Max: Fury Road (2015)\n7. V for Vendetta (2005)\n8. Children of Men (2006)\n9. Wall-E (2008)\n10. Alien (1979)",
+            "1. Ready Player One \n2. Terminator 3: Rise of the Machines \n3. Ant-Man \n4. Matrix, The \n5. Blade Runner \n6. Total Recall \n7. Starship Troopers \n8. Minority Report \n9. RoboCop \n10. Blade Runner 2049",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Terminator 3: Rise of the Machines (2003)\n3. Minority Report (2002)\n4. Ready Player One (2018)\n5. Ex Machina (2014)\n6. Blade Runner (1982)\n7. Arrival (2016)\n8. Cloud Atlas (2012)\n9. Children of Men (2006)\n10. Metropolis (2001)",
+            "1. Ready Player One\n2. Minority Report\n3. The Matrix\n4. Terminator 2: Judgment Day\n5. Ex Machina\n6. Blade Runner\n7. Back to the Future\n8. District 9\n9. The Fifth Element\n10. Children of Men",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. Ant-Man (2015) \\n\n3. Ready Player One \\n\n4. Alita: Battle Angel (2019) \\n\n5. Real Steel (2011) \\n\n6. The Matrix (1999)\n7. Blade Runner (1982)\n8. The Terminator (1984)\n9. Metropolis (2001)\n10. Tron: Legacy (2010)",
+            "1. Real Steel (2011) \n2. Ready Player One \n3. Terminator 3: Rise of the Machines (2003) \n4. Timeline (2003) \n5. Starship Troopers (1997) \n6. I, Robot (2004) \n7. Transformers (2007) \n8. Avatar (2009) \n9. Mad Max: Fury Road (2015) \n10. Pacific Rim: Uprising (2018) "
+        ]
+    }
+}

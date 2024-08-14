@@ -1,0 +1,58 @@
+{
+    "65": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Moroccan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like restaurants that serve American-style food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in delis?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bars or pubs?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in places that serve chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \\n\nZuzu's Kitchen \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nVeda - Modern Indian Bistro \\n\nThe Juice Merchant \\n\nGermantown Garden \\n\nWater Works Restaurant & Lounge \\n\nFederal Donuts \\n\nCinCin Restaurant",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nLe Pain Quotidien \\n\nThe Juice Merchant \\n\nMong Kok Station \\n\nPrimoHoagies",
+            "* Green Leafs & Bananas\n* Bloomsday Cafe\n* Fountain Porter \n* Cook and Shaker\n* The Green Line Cafe \n* Spread Bagelry\n* Green Leafs & Bananas \n* Drinker's Pub\n* Black Sheep Pub\n* Memphis Taproom \n* Smoke's Jazz & Supper Club",
+            "Grain Exchange \nFederal Donuts \nMonster Vegan \nThe QUICK FIXX \nThe Green Line Cafe \nAudrey Claire \nGran Caffe L'Aquila \nBenna's Cafe \nHey Hummus \nZuzu's Kitchen",
+            "1. The Green Line Cafe\n2. Kokopelli Restaurant & Tequila Bar\n3. Green Leafs & Bananas\n4. Cafe L'Aube\n5. Fuji Mountain\n6. CO-OP Restaurant & Lounge\n7. The Continental Restaurant and Martini Bar\n8. Founding Fathers Sports Bar & Grill\n9. Misconduct Tavern\n10. Chestnut 7",
+            " Canton 11 \n Dim Sum House \n Federal Donuts \n Grain Exchange \n Jade Kitchen \n Lucky's Last Chance \n McMenamin's Tavern \n Misconduct Tavern \n Paddy's Old City Pub \n The Continental Restaurant and Martini Bar",
+            " Water Works Restaurant & Lounge \nGolden Triangle \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nIzumi \nThe Tasty Toast \nCinCin Restaurant \nGrain Exchange \nVeda - Modern Indian Bistro \nThe Grill  Smuckers",
+            "Founding Fathers Sports Bar & Grill \nMcMenamin's Tavern \nPaddy's Old City Pub \nMad River Manayunk \nMisconduct Tavern \nThe Tavern Restaurant \nJD Mcgillicuddy's Manayunk \nFranklin's \nThe QUICK FIXX \nFuji Mountain",
+            "Paddy's Old City Pub\nMcMenamin's Tavern\nMisconduct Tavern\nFounding Fathers Sports Bar & Grill\nMadison at the Warehouse Hotel\nThe Tavern Restaurant\nFranklin's\nJD Mcgillicuddy's Manayunk\nMud Island Coffee Roasters\nThe Blue Duck\n",
+            "Jack's Firehouse \nSister Muhammad's Kitchen \nSteve's Prince of Steaks \nThe El Bar \nThe Juice Merchant \nThe Milk House \nThe Tavern Restaurant \nLokal Biergarten \nCatherine's \nHavana \nZavino\n"
+        ]
+    }
+}

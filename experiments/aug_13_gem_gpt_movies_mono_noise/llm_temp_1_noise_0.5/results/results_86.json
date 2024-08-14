@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any animated movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for something cute?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an anime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more into action movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in action-adventure movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more interested in anime or live-action movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a live-action action-adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie like Rise of Tomb Raider?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. August Rush (2007) \n4. The Blair Witch Project (1999) \n5. The Piano (1993) \n6. Cocoon (1985) \n7. Metropolis (2001) \n8. The Secret of Kells (2009)\n9. The Land Before Time (1988)\n10. Homeward Bound: The Incredible Journey (1993)",
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. Pirates of the Caribbean: At World's End (2007)\n4. The Land Before Time (1988)\n5. August Rush (2007)\n6. The Secret of Kells (2009)\n7. Chungking Express (Chung Hing sam lam) (1994)\n8. Alita: Battle Angel (2019)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Homeward Bound: The Incredible Journey (1993)",
+            "Monsters, Inc. (2001)\nLand Before Time, The (1988)\nHomeward Bound: The Incredible Journey (1993)\nBrave Little Toaster, The (1987)\nIron Giant, The (1999)\nMadagascar (2005)\nEmperor's New Groove, The (2000)\nPinocchio (1940)\nFinding Nemo (2003)\n101 Dalmatians (1961)",
+            "****\n1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Blair Witch Project, The (1999)\n6. Martyrs (2008)\n7. Last Action Hero (1993)\n8. Man on Fire (2004)\n9. Terminator 3: Rise of the Machines (2003)\n10. Ant-Man (2015)\n****",
+            "1. Alita: Battle Angel (2019)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ant-Man (2015)\n4. Ready Player One\n5. Real Steel (2011)\n6. Face/Off (1997)\n7. King Kong (2005)\n8. Eragon (2006)\n9. Tenacious D in The Pick of Destiny (2006)\n10. The Lost World: Jurassic Park (1997)",
+            "Tomb Raider (2018) \\n\nAlita: Battle Angel (2019) \\n\nTerminator 3: Rise of the Machines (2003) \\n\nFace/Off (1997) \\n\nLast Action Hero (1993) \\n\nKing Kong (2005) \\n\nReal Genius (1985) \\n\nTransformers (2007) \\n\nLand Before Time, The (1988) \\n\nAnt-Man (2015) \\n",
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. The Thomas Crown Affair (1968) \\n\n3. The Man from Earth (2007) \\n\n4. A.I. Artificial Intelligence (2001) \\n\n5. Real Genius (1985) \\n\n6. The Terminator (1984) \\n\n7. RoboCop (1987) \\n\n8. The Matrix (1999) \\n\n9. 2001: A Space Odyssey (1968) \\n\n10. Blade Runner (1982) \\n",
+            "1. Monsters, Inc. (2001)\n2. Tomb Raider (2018)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. The Man from Earth (2007)\n5. Ant-Man (2015)\n6. A.I. Artificial Intelligence (2001)\n7. Nightcrawler (2014)\n8. Real Steel (2011)\n9. Robot & Frank (2012)\n10. Face/Off (1997)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Ant-Man (2015) \n5. Ready Player One \n6. Control (2007)\n7. Transporter 2 (2005)\n8. Real Steel (2011) \n9. Robot & Frank (2012) \n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Terminator 3: Rise of the Machines (2003)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Man on Fire (2004)\n6. Alita: Battle Angel (2019)\n7. Ant-Man (2015)\n8. Transporter 2 (2005)\n9. Bruce Almighty (2003)\n10. Black Robe (1991)"
+        ]
+    }
+}

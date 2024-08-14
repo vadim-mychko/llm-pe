@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for movies where the main character goes on an adventure?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for animated movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie from the 80s?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a war movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie where AI is the main focus?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the main character is a robot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie where World War II is the central theme?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that has adventure, is from the 80's, and based on a classic book?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. **The Land Before Time (1988)**\n2. **Clash of the Titans (1981)**\n3. **Terminator 3: Rise of the Machines (2003)**\n4. **King Kong (2005)**\n5. **Lost in Translation (2003)**\n6. **5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)**\n7. **Eragon (2006)**\n8. **The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)**\n9. **Homeward Bound: The Incredible Journey (1993)**\n10. **The Hurricane (1999)**",
+            "1. Tomb Raider (2018)\n2. Lost World: Jurassic Park, The (1997)\n3. Man on Fire (2004)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Rush Hour (1998)\n6. Clash of the Titans (1981)\n7. Out of Sight (1998)\n8. Terminator 3: Rise of the Machines (2003)\n9. Ready Player One (2018)\n10. Ant-Man (2015)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Sure Thing, The (1985)\n3. Ghostbusters (1984)\n4. Red Dawn (1984)\n5. The Transformers: The Movie (1986)\n6. Flight of the Navigator (1986)\n7. The Last Starfighter (1984)\n8. Explorers (1985)\n9. Cocoon (1985)\n10. Indiana Jones and the Temple of Doom (1984)",
+            "1. Cast Away (2000) \\n\n2. Saving Private Ryan (1998) \\n\n3. The Lord of the Rings: The Fellowship of the Ring (2001) \\n\n4. The Shawshank Redemption (1994) \\n\n5. Forrest Gump (1994) \\n\n6. The Intouchables (2011) \\n\n7. Life is Beautiful (1997) \\n\n8. The Green Mile (1999) \\n\n9. Good Will Hunting (1997) \\n\n10. The Pursuit of Happyness (2006)",
+            "1. The Lost World: Jurassic Park (1997)\n2. The Big Red One (1980)\n3. Von Ryan's Express (1965)\n4. St. Elmo's Fire (1985)\n5. Runaway Train (1985)\n6. Sure Thing, The (1985)\n7. Red Dawn (1984)\n8. The Terminator (1984)\n9. The Thing (1982)\n10. The Beastmaster (1982)",
+            "1. St. Elmo's Fire (1985)\n2. The Big Red One (1980)\n3. Runaway Train (1985)\n4. Red Dawn (1984)\n5. The Terminator (1984)\n6. Top Gun (1986)\n7. Aliens (1986)\n8. Die Hard (1988)\n9. Platoon (1986)\n10. The Hunt for Red October (1990)",
+            "Tomb Raider (2018)\nRunaway Train (1985)\nThe Land Before Time (1988)\nTerminator 3: Rise of the Machines (2003)\nWhat's Up, Doc? (1972)\n Von Ryan's Express (1965)\n The Big Red One (1980)\n Black Robe (1991)\n Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. **Saving Private Ryan (1998)** \\\nGenres: Action, Adventure, Drama, War \\\nTags: Omaha beach, World War II, Tom Hanks, Steven Spielberg, Spielberg, Matt Damon, war film, war, war movie, war history, soldier, Academy Award for Best Director, soldiers, Saving Private Ryan, invasion of Normandy, brother, D-day\n2. **Schindler's List (1993)** \\\nGenres: Biography, Drama, History, War \\\nTags: holocaust, Oscar (Best Picture), genocide, Steven Spielberg, Liam Neeson, Best Picture, nazis, Oskar Schindler, AFI 100, concentration camp, black and white, Oscar (Best Directing), touching, based on a true story, Oskar Schindler story, Oskar Schindler's story, optimism amid horror, propaganda\n3. **The Thin Red Line (1998)** \\\nGenres: Drama, War \\\nTags: war, war film, war movie, soldier, Terrence Malick, war is hell, Great Cast, Sean Penn, John Cusack, cinematography, Guadalcanal Campaign, brutal, death of loved one, humanity, human in war, infantry soldier, James Caviezel, Pacific theatre\n4. **Apocalypse Now (1979)** \\\nGenres: Drama, War \\\nTags: war film, war movie, vietnam war, Francis Ford Coppola, saga, epic, violent, Marlon Brando, Martin Sheen, capitalism imperialism, Heart of Darkness, US army, vietnam, jungle, loss of innocence, fascist, oscar nominated, soldiers\n5. **Platoon (1986)** \\\nGenres: Drama, War \\\nTags: war film, war movie, soldier, Vietnam War, Charlie Sheen, violent, Tom Berenger, controversial scenes, controversial, oscar nominated, oscar, Oliver Stone, addiction, drugs, prostitution, father figure, gore, morality of war\n6. **Full Metal Jacket (1987)** \\\nGenres: Drama, War \\\nTags: war film, war movie, soldier, Vietnam War, Stanley Kubrick, violence, drill instructor, dehumanisation, Matthew Modine, boot camp, brutal, bleak, adaptation, story adaptation, non-fiction, psychological, PTSD, Adaptations\n7. **The Hurt Locker (2008)** \\\nGenres: Drama, Thriller, War \\\nTags: war film, war movie, soldier, suspenseful, Iraq war, bomb squad, immersive, adrenaline rush,Kathryn Bigelow, oscar winner, action scene, impulsive, interclan warfare, bomb, bomb disposal, character study, intense, journey\n8. **Dunkirk (2017)** \\\nGenres: Action, Drama, History, Thriller, War \\\nTags: war film, war movie, soldier, World War II, Christopher Nolan, immersive, excellent cinematography, exellent cinematography, historical event, British history, cinematography, based on historical events, cinematography is awesome, dark times, Dunkirk evacuation, evacuating\n9. **1917 (2019)** \\\nGenres: Drama, Thriller, War \\\nTags: war film, war movie, soldier, amazing cinematography, World War I, Sam Mendes, cinematography bravura, technically amazing cinematography, bravura cinematography visually impressive, stunning cinematography, early cinema, German, writer:Krysty Wilson-Cairns, writer:Sam Mendes\n10. **Paths of Glory (1957)** \\\nGenres: Drama, Thriller, War \\\nTags: war film, war movie, soldier, Stanley Kubrick, Kirk Douglas, troops, execution, french, antiwar movie, accuse, accused, Christ, court-martial, crime, disrespect, duty, execution firing squad, French Army, Generall, great dialogue\n''''",
+            "1. Tomb Raider (2018) \n2. Lost in Translation (2003) \n3. Pirates of the Caribbean: At World's End (2007) \n4. American Graffiti (1973) \n5. Von Ryan's Express (1965) \n6. Big Red One, The (1980) \n7. Black Robe (1991) \n8. Real Genius (1985) \n9. Enter the Void (2009) \n10. Terminator 3: Rise of the Machines (2003)",
+            "1. All Quiet on the Western Front (1930) \n2. Runaway Train (1985) \n3. Von Ryan's Express (1965) \n4. Big Red One, The (1980)\n5. The Grapes of Wrath (1940) \n6. Black Robe (1991) \n7. Apocalypse Now (1979)\n8. Das Boot (1981)\n9. Come and See (1985)\n10. Platoon (1986)"
+        ]
+    }
+}

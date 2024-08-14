@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Could you be looking for any kind of sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want deli sandwiches with meat, vegan sandwiches, or a different kind of sandwich?",
+                "response": "different kind of sandwich"
+            },
+            {
+                "query": "Are you looking for bagels?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a burger?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for steak sandwiches or hoagies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pasta shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cheesesteaks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches with Italian-style fillings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegetarian sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "PrimoHoagies \\n\nThe Juice Merchant \\n\nZuzu's Kitchen \\n\nFederal Donuts \\n\nThe Tasty Toast \\n\nDaleng Restaurant \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \\n\nThe Green Line Cafe",
+            "Zuzu's Kitchen \nGolden Triangle \nThe Juice Merchant \nFederal Donuts \nPrimoHoagies \nThe Tasty Toast \nLe Pain Quotidien \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nMonster Vegan",
+            "Zuzu's Kitchen \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nRoy-Pitz Barrel House \\n\nThe QUICK FIXX \\n\nFiore Fine Foods \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nBenna's Cafe \\n\nThe Grilled Cheese & Onion Co",
+            "The QUICK FIXX \nZuzu's Kitchen \nThe Green Line Cafe \nThe Blue Duck \nPrimoHoagies \nLisa's Kitchen \nCook and Shaker \nGreen Leafs & Bananas \nSpread Bagelry \nThe Cheesecake Factory",
+            "The Green Line Cafe \\n\nSpread Bagelry \\n\nThe QUICK FIXX \\n\nBetty's Speakeasy \\n\nEvan's Pizza \\n\nFive Guys \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nGreen Leafs & Bananas \\n\nPrimoHoagies",
+            "PrimoHoagies \nDaleng Restaurant \nThe Tasty Toast \nFederal Donuts \nFuji Mountain \nMonster Vegan \nThe Blue Duck \nWishbone \nBetty\u2019s Speakeasy \nSteve\u2019s Prince of Steaks",
+            "PrimoHoagies \nLisa's Kitchen \nSteve's Prince of Steaks \nThe Green Line Cafe \nSpread Bagelry \nLuvh Vegan Deli \nThe QUICK FIXX \nJack's Firehouse \nFederal Donuts \nGran Caffe L'Aquila",
+            "PrimoHoagies \nThe Continental Restaurant and Martini Bar \nRoy-Pitz Barrel House \nWishbone \nJack's Firehouse \nThe Tavern Restaurant \nMcMenamin's Tavern \nFranklin's \nFounding Fathers Sports Bar & Grill \nSteve's Prince of Steaks\n'''",
+            "Moe's Bar & Grill \nSpread Bagelry \n PrimoHoagies \nPaesano\u2019s Deli and Wine Bar \nDaleng Restaurant \nHoneygrow\nThe Juice Merchant \nWawa \nGreen Leafs & Bananas \nSabrina\u2019s Cafe \nThe Bagel Place",
+            " Zuzu's Kitchen \nThe Juice Merchant \nPrimoHoagies \nThe Tasty Toast \nFederal Donuts \nMonster Vegan \nGreen Leafs & Bananas \nThe Green Line Cafe \nVedge \nLuvz Vegan Deli"
+        ]
+    }
+}

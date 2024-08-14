@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see options for breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for food trucks?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for somewhere to get sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for events that are recommended?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see options for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for bars?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Golden Triangle \n2. Zuzu's Kitchen \n3. Water Works Restaurant & Lounge \n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden \n6. Daleng Restaurant \n7. The Tasty Toast \n8. Valley Green Inn \n9. Talluto's Authentic Italian Food \n10. Olive Garden Italian Restaurant",
+            "Golden Triangle \nZuzu's Kitchen \nWater Works Restaurant & Lounge \nDaleng Restaurant \nFederal Donuts \nIzumi \nSang Kee Peking Duck House \nCanton 11 \nEvan's Pizza \nBlackbird Pizzeria",
+            "Lacroix Restaurant at The Rittenhouse\nHeritage \nMacaroni's Restaurant \nNeshaminy Creek Brewing Company \nFranklin's \nDim Sum House \nChick's Cafe \nGran Caffe L'Aquila \nFederal Donuts \nThe QUICK FIXX",
+            "Mood Indian Restaurant \nDaleng Restaurant \nZuzu's Kitchen\nGolden Triangle \nWater Works Restaurant & Lounge \nFederal Donuts \nSang Kee Peking Duck House \nCanton 11\nWawa\nPearl's Oyster Bar",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzus Kitchen \nPrimoHoagies \nGermantown Garden \nThe Tasty Toas\nLe Pain Quotidien  \nCinCin Restaurant \nHeritage \nFederal Donuts \nKokopelli Restaurant & Tequila Bar",
+            "Sang Kee Peking Duck House \\n\nTavern On the Hill \\n\nCanton 11 \\n\nTrolley Car Diner \\n\nMacaroni's Restaurant \\n\nNew York Gyro Truck \\n\nDim Sum House \\n\nChestnut 7 \\n\nLove & Honey Fried Chicken \\n\nOteri's Italian Bakery | North 5th St\n",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nGrain Exchange \nBistro SouthEast \nMalbec Argentine Steakhouse \nMandarin Garden \nHibachi Grill Supreme Buffet \nPearl's Oyster Bar \nA Tutti, Ristorante Italiano \nCinCin Restaurant ",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGermantown Garden \\n\nZuzu's Kitchen \\n\nDaleng Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nFederal Donuts \\n\nThe Tasty Toast \\n\nFederal Donuts \\n\nIzumi",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nFederal Donuts \nThe Juice Merchant \nMong Kok Station \nLe Pain Quotidien \nCinnamon Toast",
+            "Mood Indian Restaurant\nDaleng Restaurant\nThe Juice Merchant\nMong Kok Station\nThe Tasty Toast\nGrain Exchange\nFederal Donuts\nBaan Thai\nSushi Zone\nHibachi To Go"
+        ]
+    }
+}

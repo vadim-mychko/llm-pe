@@ -1,0 +1,58 @@
+{
+    "91": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork meat?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Salmon fillets grilled in a pan with herbs and spices\n5. High protein skillet with rice and vegetables\n6. Beef stew made with beef, carrots and potatoes\n7. Queso made from melted cheese and chili peppers\n8. Pork chops glazed with milk and cooked without nuts\n9. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n10. Stuffed chicken breasts with asparagus and cheese",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Fried shrimp and scallops\n5. Pork chops glazed with milk and cooked without nuts\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Italian salad made from romain lettuce, artichokes, and tomatoes\n8. Veggie stir-fry with zucchini, red onion, carrots, celery and broccoli\n9. Low fat diced baked or fried potatoes\n10. Chicken cooked and flavored with lemon sauce",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nQueso made from melted cheese and chili peppers\nChopped French duck confit preserved by duck oil\nLow fat sweet potato fries made with cajun seasoning\nPeppermint chocolate bonbon\nAlmond coated with butter and salt\nPork chops glazed with milk and cooked without nuts",
+            " Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPeppermint chocolate bonbon\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nRoast turkey with plum sauce\nAlmonds coated with butter and salt\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Stir-fried tofu, noodles and vegetables Bento\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nLow-fat coconut alcohol-free cocktail\nTofu, mushroom and tomatoes Poke\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nPeach cobbler dessert containing whole wheat flour\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nFried shrimp and scallops",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Taiwanese deep fried crispy chicken cutlets\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Roasted almonds\n7. Mozzarella dip recipe\n8. Cheese with crackers\n9. Baked mozzarella cheese sticks with marinara sauce\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Taiwanese deep fried crispy chicken cutlets\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Baked mozzarella cheese sticks with marinara sauce\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Large portion fries with gravy and bacon",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nYogurt from scratch\nPeppermint chocolate bonbon\nHot pot that is not spicy\nLow fat coconut alcohol-free cocktail\nPeach cobbler dessert containing whole wheat flour\nChicken breasts stuffed with bacon and mozzarella\nQueso made from melted cheese and chili peppers\nRoast turkey with plum sauce",
+            " 1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low fat assorted fruit dessert\n3. Smoothies made from fruit juice and bananas\n4. Low sugar applesauce cupcakes\n5. 2-ingredient yogurt from scratch\n6. Calcium-rich soup made with broccoli and beans\n7. Gluten-free, egg-free, dairy-free, nut-free fudge\n8. Almonds coated with butter and salt\n9. Low fat diced baked or fried potatoes\n10. Roasted almonds\n''''",
+            "**** High protein skillet with rice and vegetables ****\n**** Chinese salad made of eggplant and zucchini, flavoured with soy sauce ****\n**** Queso made from melted cheese and chili peppers **** \n**** Garlic bread with cheddar, green onions, and mayonnaise **** \n**** Mildly spicy chili recipe **** \n**** Soup made with onions, carrots, and celery ribs **** \n**** Fried shrimp and scallops **** \n**** Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar **** \n**** Salmon roasted with olive oil, chives, and tarragon leaves **** \n**** Spaghetti noodles with mussels, anchovy fillets, and capers ****"
+        ]
+    }
+}

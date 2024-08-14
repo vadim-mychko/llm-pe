@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan or gluten-free restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more into burgers or steaks?",
+                "response": "burgers"
+            },
+            {
+                "query": "Are you looking for fried chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soul food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Is ethnic food interesting to you?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Grain Exchange \nFederal Donuts \nCanton 11 \nWater Works Restaurant & Lounge \nRistorante La Buca \nPearl's Oyster Bar \nIzumi \nFuji Mountain \nFranklin's \nDaleng Restaurant",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGrain Exchange\nThe Juice Merchant\nFederal Donuts\nGermantown Garden\nFuji Mountain\nCastellino's\nRistorante La Buca",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station\n11. The Tasty Toast",
+            "1. Fuji Mountain \n2. The El Bar \n3. Jack's Firehouse \n4. Malbec Argentine Steakhouse \n5. Founding Fathers Sports Bar & Grill \n6. Franklin's \n7. JD Mcgillicuddy's Manayunk \n8. Olive Garden Italian Restaurant \n9. Wawa \n10. Five Guys",
+            "Five Guys\nFederal Donuts\nJack's Firehouse\nLisa's Kitchen\nFranklin's\nLucky's Last Chance\nLove & Honey Fried Chicken\nMisconduct Tavern\nThe Blue Duck\nThe Tavern Restaurant",
+            "Love & Honey Fried Chicken\nJack's Firehouse\nWishbone\nLisa's Kitchen\nFederal Donuts\nFranklin's\nMad River Manayunk\nFive Guys\nPaddy's Old City Pub\nMisconduct Tavern\n",
+            "Wishbone \nFederal Donuts \nFive Guys \nThe Tavern Restaurant \nRoy-Pitz Barrel House \nThe QUICK FIXX \nChickie's & Pete's \nLisa's Kitchen \nLucky's Last Chance \nLove & Honey Fried Chicken",
+            "Love & Honey Fried Chicken \\n\nWishbone \\n\nBetty's Speakeasy \\n\nJack's Firehouse \\n\nFranklin's \\n\nMiga Korean BBQ & Sushi \\n\nJD Mcgillicuddy's Manayunk \\n\nRoy-Pitz Barrel House \\n\nMisconduct Tavern \\n\nFive Guys",
+            " Wishbone \n Five Guys \n Blackbird Pizzeria \n Franklin's \n Lisa's Kitchen \n Jack's Firehouse \n Founding Fathers Sports Bar & Grill \n Burgers from Bobby Flay \n The Blue Duck \n Chestnut 7"
+        ]
+    }
+}

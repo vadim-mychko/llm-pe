@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer fruit or vegetable-based dishes?",
+                "response": "vegetable-based dishes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Beef stew made with beef, carrots and potatoes\n5. Soup made with ground turkey that is low fat, high carb\n6. South African vegetable curry flavoured with curry powder and ground tumeric\n7. Assorted cheese soup with chicken\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Soup made with vegetables and chicken\n10. Calcium-rich soup made with broccoli and beans",
+            " High protein skillet with rice and vegetables\n****\n Queso made from melted cheese and chili peppers\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Soup made with shrimp, onions, and scallops\n****\n Soup made from onions, carrots, and celery ribs\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Soup made with vegetables and chicken\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n''''",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nHigh protein skillet with rice and vegetables\nVegetable-based soup with a beer broth\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nAssorted cheese soup with chicken\nCalcium-rich soup made with broccoli and beans\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb",
+            " South African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nGrilled salmon seasoned with salt and pepper\nHigh protein skillet with rice and vegetables\nQueso made from melted cheese and chili peppers\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nRamen noodles made from scratch made with: wheat flour, baking soda, and water",
+            " Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Mildly spicy chili recipe\n****\n High protein skillet with rice and vegetables\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Beef stew made with beef, carrots and potatoes\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Grilled salmon seasoned with salt and pepper",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n Roast turkey with plum sauce\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Roasted almonds\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Taiwanese deep fried crispy chicken cutlets\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Korean soup containing beef brisket and flavoured with red pepper powder\n****\n Polish sausage with fermented cabbage\n****\n Lamb chop in lemon garlic sauce\n****\n Hot pot that is not spicy\n****\n Beef burger with avocado and bacon on white bun\n****\n Southwest turkey chili",
+            "Grilled salmon seasoned with salt and pepper \nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \nSalmon roasted with olive oil, chives, and tarragon leaves \nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \nSpicy chili recipe \nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu \nStir-fried tofu, noodles and vegetables Bento \nChicken cooked and flavored with lemon sauce \nKorean soup containing beef brisket and flavoured with red pepper powder \nBaked breakfast pie made with sausage (pork) and apples",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Korean soup containing beef brisket and flavoured with red pepper powder\n4. Hot pot that is not spicy\n5. Grilled salmon seasoned with salt and pepper\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. High protein skillet with rice and vegetables\n9. Meatballs made with ground beef and ground pork\n10. Pork chops glazed with milk and cooked without nuts",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Spicy Korean soup with beef brisket and flavoured with red pepper powder\n3. Calcium-rich soup made with broccoli and beans\n4. Assorted cheese soup with chicken\n4. Soup made from shrimp, onions, and scallops\n5. Soup made with vegetables and chicken\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with ground turkey that is low fat, high carb\n9. Mildly spicy chili recipe\n10. Soup made with onions, carrots, and celery ribs",
+            "****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nSoup made with ground turkey that is low fat, high carb\n****\nMildly spicy chili recipe\n****\nSpicy Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nHomemade soup with chicken, noodles, and spices\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBeef stew made with beef, carrots and potatoes\n****\nVegetable and chicken soup\n****\nSoup made with shrimp, onions, and scallops"
+        ]
+    }
+}

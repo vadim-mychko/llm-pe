@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for somesthing vegan?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want salads with your food order?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast or brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Have you considered Mexican food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Have you considered Italian fare?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to have some beer with your food order?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in something spicy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Monster Vegan \nVedge \nVegan - Siciliano Vegan Pastry & Pizzeria \nBenna's Cafe \nNorth Bowl \nHey Hummus \nGreen Leafs & Bananas \nLuhv Vegan Deli \nPure Tacos \nThe QUICK FIXX \nBlackbird Pizzeria",
+            "Vedge \nMonster Vegan \nHey Hummus \nBenna's Cafe \nNorth Bowl \nLuhv Vegan Deli \nCook and Shaker \nBetty's Speakeasy \nBlackbird Pizzeria \nThe QUICK FIXX",
+            "Essen Market & Caf\u00e9 \nVedge \nBenna's Cafe \nMonster Vegan \nLuhv Vegan Deli \nThe Green Line Cafe \nGreen Leafs & Bananas \nBetty's Speakeasy \nThe Juice Merchant \nHey Hummus",
+            " Vedge \nMonster Vegan \nBenna's Cafe \nHey Hummus \nLuvh Vegan Deli \nGreen Leafs & Bananas \nThe Green Line Cafe \nSister Muhammad's Kitchen \nThe QUICK FIXX \nBlackbird Pizzeria",
+            "Vedge \nGreen Leafs & Bananas \nSpread Bagelry \nMonster Vegan \nHey Hummus \nBenna's Cafe \nBarley & Bread \nThe Juice Merchant \nOishii Pok\u00e9 \nPure Tacos",
+            "Vedge \nVegan Monster \nHey Hummus \nBenna's Cafe \nGreen Leafs & Bananas \nLuvh Vegan Deli \nGran Caffe L'Aquila \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nPure Tacos ",
+            "Oishii Pok\u00e9 \nGreen Leafs & Bananas\nFelipe's Taqueria \nPure Tacos \nRistorante La Buca \nAudrey Claire  \nFederal Donuts \nMonster Vegan \nBenna's Cafe \nVedge",
+            " Pizzeria Blackbird\nThe QUICK FIXX\nA Tutti, Ristorante Italiano\nFederal Donuts\nDaleng Restaurant\nFuji Mountain\nCantonese Garden\nOishii Pok\u00e9\nPure Tacos",
+            "Daleng Restaurant\nCinCin Restaurant\nPearl's Oyster Bar\nDim Sum House\nKelly's Tavern\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nAudrey Claire\nFuji Mountain\nFederal Donuts",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nFuji Mountain \\n\nImperial Inn Chinese Restaurant \\n\nBaan Thai \\n\nVedge \\n\nContinenal Midtown \\n\nEssen Market & Cafe \\n\nMIGA Korean BBQ \\n\nCherry Street Tavern"
+        ]
+    }
+}
