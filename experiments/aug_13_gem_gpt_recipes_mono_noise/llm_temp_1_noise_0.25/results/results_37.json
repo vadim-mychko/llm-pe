@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer spicy salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any low-fat foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer your chicken to be baked or fried?",
+                "response": "n/a"
+            },
+            {
+                "query": "Are you interested in pork?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in trying tofu?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in squash, zucchini or tomatoes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying any soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in milkshakes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Grilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n2-ingredient yogurt from scratch\nChicken Breasts Stuffed with Bacon and Mozzarella\nBaked spinach quiche containing bacon\nMildly spicy chili recipe\nBaked breakfast bars made with nuts and seeds\n'''",
+            "Low fat sweet potato fries made with cajun seasoning\nLow fat diced baked or fried potatoes\nLow fat smoothies made with greek yogurt, and pineapple\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nMildly spicy chili recipe\nCreamy base with dill flavoring, eggs, and noodles\nGrilled salmon seasoned with salt and pepper\nChicken breasts stuffed with bacon and mozzarella",
+            " Low fat diced baked or fried potatoes\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n 2-ingredient yogurt from scratch\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Low fat smoothies made with greek yogurt, and pineapple\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Low-fat coconut alcohol-free cocktail\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low fat assorted fruit dessert",
+            "2-ingredient yogurt from scratch\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSpaghetti noodles with mussels, anchovy fillets, and capers\nAlmonds coated with butter and salt",
+            "Baked breakfast bars made with nuts and seeds\nLow fat sweet potato fries made with cajun seasoning\nLow sugar applesauce cupcakes\nGrilled salmon seasoned with salt and pepper\nLow fat baked breakfast pie made with sausage (pork) and apples\n2-ingredient yogurt from scratch\nVery low-fat assortment of shredded vegetables with seasoning\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nCalcium-rich soup made with broccoli and beans\nLow fat diced baked or fried potatoes",
+            "Very low-fat assortment of shredded vegetables with seasoning\nSmoothie made from fruit juice and bananas\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat assorted fruit dessert\nCreamy base with dill flavoring, eggs, and noodles\nGarlic bread with cheddar, green onions, and mayonnaise\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail",
+            "Very low-fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nCreamy base with dill flavoring, eggs, and noodles",
+            "1. Low-fat coconut alcohol-free cocktail\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Soup made with ground turkey that is low fat, high carb\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat diced baked or fried potatoes\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. 2-ingredient yogurt from scratch\n8. Strawberry milkshake\n9. Low-sugar applesauce cupcakes\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n2. Grilled squash, zucchinis, tomatoes seasoned with balsamic vinegar and herbs\n3. 2-ingredient yogurt from scratch\n4. Low fat chopped sweet potato fries made with cajun seasoning\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Low-fat coconut alcohol-free cocktail\n7. Low fat baked breakfast pie made with sausage and apples\n8. Low fat assorted fruit dessert\n9. Low fat breakfast pie made with sausage (pork) and apples\n10. Low fat diced baked or fried potatoes\n'''",
+            " Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n2-ingredient yogurt from scratch\n****\nLow fat diced baked or fried potatoes\n****\nSimple creamy oyster soup\n****\nHomemade soup with chicken, noodles, and spices\n****\nSmoothie made from fruit juice and bananas\n****\nSmoothie made from banana puree with milk\n****\nLow sugar applesauce cupcakes\n****\nLow fat smoothies made with greek yogurt, and pineapple"
+        ]
+    }
+}

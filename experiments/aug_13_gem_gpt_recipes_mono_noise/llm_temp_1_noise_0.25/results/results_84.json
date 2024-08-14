@@ -1,0 +1,58 @@
+{
+    "84": {
+        "conv_hist": [
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nLow fat smoothies made with greek yogurt, and pineapple\n****\nPeppermint chocolate bonbon\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nFried shrimp and scallops\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSpanish rice with chicken breast\n****",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Chicken cooked and flavored with lemon sauce\n3. Mildly spicy chili recipe\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Sausage (pork), peaches and green onion dish\n6. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Chicken breasts stuffed with bacon and mozzarella\n9. Vegetable curry flavoured with curry powder and ground tumeric\n10. Salmon fillets grilled in a pan with herbs and spices",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nHigh protein skillet with rice and vegetables\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSlushie drink made from orange juice blended with ice\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nAlmonds coated with butter and salt\nPolish sausage with fermented cabbage\nAssorted cheese soup with chicken\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "1. Simple creamy oyster soup\n2. Peach cobbler dessert containing whole wheat flour\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Grilled salmon seasoned with salt and pepper\n5. Classic salad with creamy caesar dressing and croutons\n6. Roasted almonds\n7. Pork shoulder glazed with milk and cooked without nuts\n8. Chicken cooked and flavored with lemon sauce\n9. Soup made with cabbage, carrots, potatoes, and onions\n10. Sweet salad made with corn and three types of beans\n",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. 2-ingredient yogurt from scratch\n5. Low sugar applesauce cupcakes\n6. Sugar-free peanut butter cookies\n7. Jam made from blackberries, lemon juice, and sugar\n8. Noodle made with egg with a mixture of turkey, bacon, chicken broth\n9. Baked breakfast bars made with nuts and seeds\n10. Roasted almonds",
+            " Chocolate and orange-flavoured smoothie\n****\n Slushie drink made from orange juice blended with ice\n****\n Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\n Peppermint chocolate bonbon\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Classic salad with creamy caesar dressing and croutons\n****\n Sweet salad made with corn and three types of beans\n****\n Low fat assorted fruit dessert\n****\n Sugar-free peanut butter cookies\n****",
+            " Chocolate and orange-flavoured smoothie\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nVery low-fat assortment of shredded vegetables with seasoning\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n Norway cake with lingonberry and whipped cream layers\n Spaghetti noodles with mussels, anchovy fillets, and capers\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n Mozzarella dip recipe\n",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nLow sugar applesauce cupcakes \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nNorway cake with lingonberry and whipped cream layers \\n\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nPeppermint chocolate bonbon \\n\nPeach cobbler dessert containing whole wheat flour \\n\nGluten-free, egg-free, dairy-free, nut-free fudge \\n\nAlmonds coated with butter and salt\n''''",
+            " Chocolate and orange-flavoured smoothie\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nCheese and olive appetizer made to look like an eyeball\nStrawberry and fig jam\nGluten-free, egg-free, dairy-free, nut-free fudge\nMango habanero hot wings\n'''",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nJam made from blackberries, lemon juice, and sugar\nNorway cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nPeach cobbler dessert containing whole wheat flour\nPeppermint chocolate bonbon\n'''"
+        ]
+    }
+}

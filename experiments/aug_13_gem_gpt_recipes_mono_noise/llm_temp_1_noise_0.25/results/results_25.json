@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer stir-fried dishes or soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dairy products?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet or savoury foods?",
+                "response": "savoury"
+            },
+            {
+                "query": "Are you interested in trying low-fat dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Are you a vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Do you eat seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes with chicken?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made from onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made from vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices",
+            "1. Mozzarella cheese sticks with marinara sauce\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Cheese and crackers\n8. Cheeseburger macaroni and cheese with grated Parmesan cheese\n9. Baked breakfast bars made with nuts and seeds\n10. Mozzarella dip recipe\n'''",
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. Meatballs made with ground beef and ground pork\n4. Cheese with crackers\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Grilled salmon seasoned with salt and pepper\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Salmon fillets grilled in a pan with herbs and spices\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Baked spinach quiche containing bacon",
+            "Chicken breasts stuffed with bacon and mozzarella\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked cheese sticks with marinara sauce\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nLarge portion fries with gravy and bacon\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nGrilled salmon seasoned with salt and pepper\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with onions, carrots, and celery ribs\n****\nBaked breakfast bars made with nuts and seeds\n****",
+            "Pork chops glazed with milk and cooked without nuts \nChicken cooked and flavored with lemon sauce \nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves \nBeef stew made with beef, carrots and potatoes\n Queso made from melted cheese and chili peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nFried shrimp and scallops\nLarge portion fries with gravy and bacon",
+            "Baked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nPeppermint chocolate bonbon\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers\nQueso made from melted cheese and chili peppers\nCreamy base with dill flavoring, eggs, and noodles\nMeatballs made with ground beef and ground pork",
+            "****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nQueso made from melted cheese and chili peppers\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nMozzarella dip recipe\n****\nPork chops glazed with milk and cooked without nuts\n****\nLarge portion fries with gravy and bacon\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCheese and vegetable soup with a beer broth\n****\nMildly spicy chili recipe",
+            "Cheese and olive appetizer made to look like an eyeball\nPork chops glazed with milk and cooked without nuts\nPeppermint chocolate bonbon\nChicken cooked and flavored with lemon sauce\nBread made swiss style with swiss cheese\nSandwich made with: grilled / broiled marinated chicken\nBaked mozzarella cheese sticks with marinara sauce \nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nCheese with crackers",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n\n2. Cheese and olive appetizer made to look like an eyeball\n\n3. Mozzarella dip recipe\n\n4. Baked mozzarella cheese sticks with marinara sauce\n\n5. Stuffed mushrooms\n\n6. Cream cheese spread dip\n\n7. Cheese and vegetable soup with a beer broth\n\n8. Veggie burger made with peppers, carrots, and squash\n\n9. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n\n10. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "Chicken breasts stuffed with bacon and mozzarella\nHigh protein skillet with rice and vegetables\nChicken cooked and flavored with lemon sauce\nChicken and vegetable stir-fry made with carrots, celery, bell peppers and tofu\nGrilled salmon seasoned with salt and pepper\nBaked chicken fingers with onion rings\nCrispy waffles with fried chicken and melted cheese\nGarlic parmesan roasted potatoes with cooked spinach\nCheesy baked macaroni and cheese with breadcrumbs\nLow-fat fruit smoothie with berries, almond milk and Greek yogurt\nBaked butternut squash mac and cheese with Italian bread crumbs\nBaked root vegetable vegetarian stir-fry\nRoasted chicken thighs with crispy potatoes and vegetables"
+        ]
+    }
+}

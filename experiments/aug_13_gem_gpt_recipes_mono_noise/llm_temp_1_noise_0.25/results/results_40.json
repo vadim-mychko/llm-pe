@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Do you dislike dairy products?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Could you tell me if you're interested in trying cuisine from other parts of the world?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you partial to plant-based protein sources?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying Turkish cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Can you tell me how you feel about dishes based on pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you lean towards trying cuisine other than Chinese?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying Japanese cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Mozzarella cheese sticks with marinara sauce\n2. Meatballs made with ground beef and ground pork\n3. Pork chops glazed with milk and cooked without nuts\n4. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n5. Poke of tofu, mushroom and tomatoes\n6. Grilled salmon seasoned with salt and pepper\n7. 2-ingredient yogurt from scratch\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Very low-fat assortment of shredded vegetables with seasoning\n'''",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Baked spinach quiche containing bacon\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Mozzarella dip recipe\n8. Peach cobbler dessert containing whole wheat flour\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Baked mozzarella cheese sticks with marinara sauce\n'''",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSpaghetti noodles with mussels, anchovy fillets, and capers \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nBaked mozzarella cheese sticks with marinara sauce \\n\nStir-fried tofu, noodles and vegetables Bento \\n\nTaiwanese deep fried crispy chicken cutlets",
+            "**** High protein skillet with rice and vegetables\n**** Low sugar applesauce cupcakes\n**** Queso made from melted cheese and chili peppers\n**** Low fat sweet potato fries made with cajun seasoning \n**** Very low-fat assortment of shredded vegetables with seasoning\n**** Low fat baked breakfast pie made with sausage (pork) and apples\n**** High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n**** South African vegetable curry flavoured with curry powder and ground tumeric\n**** Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n**** Chinese salad made of eggplant and zucchini, flavoured with soy sauce",
+            " South African vegetable curry flavoured with curry powder and ground tumeric\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nSoup made with ground turkey that is low fat, high carb\n****\nVegetable soup with chicken\n****\nFried tofu, noodles and vegetables Bento\n****\n5-fruit salad made of oranges, strawberries, blackberries, grapes, and pears\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nVery hot Korean soup with beef brisket\n****\nSmoothie made from bananas with milk\n****",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Soup made with vegetables and chicken\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n5. Low fat sweet potato fries made with cajun seasoning\n6. Healthy stir-fried tofu, noodles and vegetables\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. 2-ingredient yogurt from scratch\n10. Low fat assorted fruit dessert",
+            "1. Korean soup containing beef brisket and flavoured with red pepper powder\n2. Spicy chili recipe\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. South African vegetable curry flavoured with curry powder and ground tumeric\n5. Soup made with ground turkey that is low fat, high carb\n6. Calcium-rich soup made with broccoli and beans\n7. Cheese and vegetable soup with a beer broth\n8. Soup made with shrimp, onions, and scallops\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Creamy base with dill flavoring, eggs, and noodles\nNorwegain cake with lingonberry and whipped cream layers\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nStir-fried tofu, noodles and vegetables Bento\nMildly spicy chili recipe\nVery low-fat assortment of shredded vegetables with seasoning\nSpicy beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nKorean soup containing beef brisket and flavoured with red pepper powder\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nMozzarella dip recipe",
+            "Korean soup containing beef brisket and flavoured with red pepper powder\nVery low-fat assortment of shredded vegetables with seasoning\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nSpinach quiche with bacon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nCreamy base with dill flavoring, eggs, and noodles",
+            " Korean soup containing beef brisket and flavoured with red pepper powder \n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce \n****\n Spaghetti noodles with mussels, anchovy fillets, and capers \n****\n Low fat sweet potato fries made with cajun seasoning \n****\n Very low-fat assortment of shredded vegetables with seasoning \n****\n Vegetarian macroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning \n****\n Stir-fried tofu, noodles and vegetables Bento \n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu \n****\n Japanese-inspired soup made from shrimp, onions, and scallops \n****"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "2": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "How do you feel about Korean food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see restaurants that offer sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered Indian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for vegetarian options as well?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in trying vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mediterranean cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Golden Triangle\n2. The Cheesecake Factory\n3. Federal Donuts\n4. Fat Salmon\n5. Oishii Pok\u00e9\n6. Spread Bagel\n7. Olive Garden\n8. Cantina Los Caballeros\n9. Audrey Claire\n10. Parc",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nDaleng Restaurant \nFederal Donuts \nHeritage",
+            "1. Malbec Argentine Steakhouse\n2. Fuji Mountain\n3. Canton 11\n4. Bistro SouthEast\n5. Roy-Pitz Barrel House\n6. Mad River Manayunk\n7. Macaroni's Restaurant\n8. Pearl's Oyster Bar\n9. JD Mcgillicuddy's Manayunk\n10. Franklin's\n11. Miga Korean BBQ & Sushi\n12. Oishii Pok\u00e9",
+            " Zuzu's Kitchen\n The Toasty Toast\n The Milk House\n Olive Garden Italian Restaurant\n Macaroni's Restaurant\n The Blue Duck\n Fiore Fine Foods\n Cook and Shaker\n Aldine\n Parc\n Le Pain Quotidien\n The Tasty Toast\n Rittenhouse Grill\n The Continental Restaurant and Martini Bar\n Buddakan\n Panorama\n Lacroix Restaurant at The Rittenhouse\n Amis Trattoria\n Han Dynasty\n Oyster House\n Zahav\n Talula's Garden\n Sampan\n Marigold Kitchen\n Sabrina's Cafe",
+            "1. Zuzu's Kitchen \n2. PrimoHoagies \n3. The Tasty Toast \n4. The Juice Merchant \n5. CinCin Restaurant \n6. The Green Line Cafe \n7. Betty's Speakeasy \n8. Spread Bagelry \n9. Green Leafs & Bananas \n10. Lisa's Kitchen",
+            "1. The QUICK FIXX\n2. Amoroso's Bakery \n3. Le Pain Quotidien \n4. Fiore Fine Foods \n5. Steve's Prince of Steaks \n6. PrimoHoagies \n7. Spread Bagelry \n8. The Green Line Cafe \n9. Green Leafs & Bananas \n10. Lisa's Kitchen \n",
+            " PrimoHoagies \n The QUICK FIXX \n Lisa's Kitchen \n Green Leafs & Bananas \n Subway \n Spread Bagelry \n Chickie's & Pete's \n The Green Line Cafe \n City View Tavern \n Olive Garden Italian Restaurant",
+            " Daleng Restaurant \n****\n PrimoHoagies \n****\n Zuzu's Kitchen \n****\n The Tavern Restaurant \n****\n Misconduct Tavern \n****\n Macaroni's Restaurant \n****\n A Tutti, Ristorante Italiano \n****\n Blackbird Pizzeria \n****\n The QUICK FIXX \n****\n Monster Vegan",
+            "1. Monster Vegan \n2. The QUICK FIXX \n3. PrimoHoagies \n4. Lisa's Kitchen \n5. Spread Bagelry \n6. The Green Line Cafe \n7. Gran Caffe L'Aquila \n8. Zuzu's Kitchen \n9. Fiore Fine Foods \n10. Betty's Speakeasy",
+            "PrimoHoagies \nZuzu's Kitchen \nThe Tasty Toast \nThe Juice Merchant \\n\nThe QUICK FIXX \\n\nLuvh Vegan Deli \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry \nThe Green Line Cafe \nLisa's Kitchen \nTrolley Car Diner"
+        ]
+    }
+}

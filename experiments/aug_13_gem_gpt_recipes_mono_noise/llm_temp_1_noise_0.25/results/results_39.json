@@ -1,0 +1,58 @@
+{
+    "39": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer sweet or savory flavors?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have any dietary restrictions?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like international cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer chicken or fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish or pork better?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you like pork better than vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables better than fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetables or pork?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Soup made with onions, carrots, and celery ribs\n4. Chowder made with ground fish\n5. Clam chowder\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Pepper steak that includes bell peppers, yellow onions, ginger root, sliced green onions, instant chicken bouillon granules, soy sauce, cornstarch, sesame oil, and ground black pepper\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Chicken cook and flavored with lemon sauce\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n'''",
+            "1. Roasted almonds\n2. Mozzarella cheese sticks with marinara sauce\n3. Meatballs made with ground beef and ground pork\n4. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n5. Pork chops glazed with milk and cooked without nuts\n6. Mildly spicy chili recipe\n7. Grilled salmon seasoned with salt and pepper\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n10. Soup made with shrimp, onions, and scallops\n'''''",
+            "- Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n- Soup made with cabbage, carrots, potatoes, and onions\n- 2-ingredient yogurt from scratch\n- High protein skillet with rice and vegetables\n- Grilled salmon seasoned with salt and pepper\n- Poke of tofu, mushroom and tomatoes\n- Beef stew made with beef, carrots and potatoes\n- Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n- Very low-fat assortment of shredded vegetables with seasoning\n- Queso made from melted cheese and chili peppers",
+            " Fried shrimp and scallops\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Shredded barbecued pork shoulder\n****\n Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n Chopped French duck confit preserved by duck oil\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nLarge portion fries with gravy and bacon\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Roast pork chops glazed with milk and cooked without nuts\n4. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n5. Pork chops glazed with milk and cooked without nuts\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n8. Spicy pulled pork stew\n9. Shredded barbecued pork\n10. Sausage (pork) breakfast casserole made with cornbread mix, eggs, bell peppers, and onions",
+            "****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nLarge portion fries with gravy and bacon\n****\nBaked breakfast pie made with sausage (pork) and apples\n****\nLow fat diced baked or fried potatoes\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nGerman pork cooked with sauerkraut\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nBacon and onion grilled cheese sandwiches with barbeque sauce\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\nChopped French duck confit preserved by duck oil\n****\nDog food made from pork, green beans, cheddar cheese and brown rice\n****",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roasted almonds\n6. Large portion fries with gravy and bacon\n7. Low fat sweet potato fries made with cajun seasoning\n8. Dog food made from pork, green beans, cheddar cheese and brown rice\n9. Peach cobbler dessert containing whole wheat flour\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nChopped French duck confit preserved by duck oil\n****\nLow fat sweet potato fries made with cajun seasoning\n****\n**Shredded barbecued pork shoulder**\n****\nPork chops glazed with milk and cooked without nuts\n****\nRoast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\n****\n**Baked breakfast bars made with nuts and seeds**\n****\nMeatballs made with ground beef and ground pork\n****\nAlmonds coated with butter and salt\n****\nLow sugar applesauce cupcakes\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nAssorted cheese soup with chicken\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nBeef stew made with beef, carrots and potatoes\n****\nBerry cobbler that uses frozen mixed berries\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n**Calcium-rich soup made with broccoli and beans**\n****\n**Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese**\n****\nCheese and crackers\n****\nCheese and olive appetizer made to look like an eyeball\n****\nCheesecake made with cream cheese\n****\n**Chicken breasts stuffed with bacon and mozzarella**\n****\n**Creamy base with dill flavoring, eggs, and noodles**\n****\n**Fried shrimp and scallops**\n****\n**Garlic bread with cheddar, green onions, and mayonnaise**\n****\nGrilled salmon seasoned with salt and pepper\n****\n**High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu**\n****\nHomemade soup with chicken, noodles, and spices\n****\n**Italian salad made from romain lettuce, artichokes, and tomatoes**\n****\nJam made from blackberries, lemon juice, and sugar\n****\nLarge portion fries with gravy and bacon\n****\n**Low fat alcoholic-free pina colada**\n****\n**Low fat baked breakfast pie made with sausage (pork) and apples**\n****\n**Low-fat coconut alcohol-free cocktail**\n****\n**Mildly spicy chili recipe**\n****\n**Mozzarella dip recipe**\n****\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n****\nPeanut butter cookies\n****\n**Peach cobbler dessert containing whole wheat flour**\n****\n**Peppermint chocolate bonbon**\n****\n**Pork chops cooked with pineapple**\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nRoast turkey with plum sauce\n****\n**Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime**\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\n**Sandwich made with: grilled / broiled marinated chicken**\n****\n**Simple creamy oyster soup**\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n**Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce**\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\n**Stir-fried tofu, noodles and vegetables Bento**\n****\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n****\nSugar-free peanut butter cookies\n****\n**Sweet salad made with corn and three types of beans**\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\n",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Shredded barbecued pork shoulder\n3. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n4. Pork chops glazed with milk and cooked without nuts\n5. Roast pork sandwich with mozzarella, banana pepper rings and romaine lettuce\n6. Polish sausage with fermented cabbage\n7. Meatballs made with ground beef and ground pork\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned"
+        ]
+    }
+}

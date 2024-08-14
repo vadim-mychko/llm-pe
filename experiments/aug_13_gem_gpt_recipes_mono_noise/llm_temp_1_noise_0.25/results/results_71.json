@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies or shakes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like orange-flavored desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat-based desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts that are baked?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese-based desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts that are chilled or frozen?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Low-fat sweet potato fries made with cajun seasoning\n2. Large portion fries with gravy and bacon\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Mozzarella dip recipe\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Sandwich made with: grilled / broiled marinated chicken\n7. Smoothies made from fruit juice and bananas\n8. Assorted cheese soup with chicken\n9. Pulled pork tacos\n10. Creamy base with dill flavoring, eggs, and noodles",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Fried shrimp and scallops\n3. Almonds coated with butter and salt\n4. Cheese and crackers\n5. Low fat diced baked or fried potatoes\n6. Low-fat coconut alcohol-free cocktail\n7. Cheese with vegetable soup with a beer broth\n8. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n9. Mozzarella dip recipe\n10. Spanish rice with chicken breast",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nFried shrimp and scallops\nPork chops glazed with milk and cooked without nuts\nKorean soup containing beef brisket and flavoured with red pepper powder\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nMozzarella dip recipe\nBaked mozzarella cheese sticks with marinara sauce\n'''",
+            "Grilled salmon seasoned with salt and pepper\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMildly spicy chili recipe\nVery low-fat assortment of shredded vegetables with seasoning\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPeppermint chocolate bonbon\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSweet salad made with corn and three types of beans\nCheese and vegetable soup with a beer broth\nRoasted almonds",
+            " Chocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nNorwegian cake with lingonberry and whipped cream layers\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nLow fat assorted fruit dessert\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nBerry cobbler that uses frozen mixed berries\nSlushie drink made from orange juice blended with ice",
+            "Norway cake with lingonberry and whipped cream layers\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nOrange-flavored smoothie\nPumpkin dessert pie filled with a sweet pumpkin spice based custard\nChocolate and orange-flavoured smoothie\nCheesecake made with cream cheese\nPeach cobbler dessert containing whole wheat flour\nSlushie drink made from orange juice blended with ice\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n Baked applesauce cupcakes",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Norway cake with lingonberry and whipped cream layers\n3. Orange pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n4. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n5. Low sugar applesauce cupcakes\n6. Baked breakfast bars made with nuts and seeds\n7. Peanut butter cookies\n8. Baked spinach quiche containing bacon\n9. Pork chops glazed with milk and cooked without nuts\n10. Roasted almonds",
+            "Dog food made from pork, green beans, cheddar cheese and brown rice\nSugar-free peanut butter cookies\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nBaked breakfast bars made with nuts and seeds\nPeppermint chocolate bonbon\nBaked spinach quiche containing bacon\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nPeach cobbler dessert containing whole wheat flour\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nGluten-free, egg-free, dairy-free, nut-free fudge\nMilkshake made with fresh strawberries and ice cream\nCheese and crackers\nKorean soup containing beef brisket and flavoured with red pepper powder\nHot pot that is not spicy\nEggless sauerkraut cake\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nJam made from blackberries, lemon juice, and sugar\nFried shrimp and scallops\nPork chops glazed with milk and cooked without nuts\nSoup made with onions, carrots, and celery ribs\nSandwich made with: grilled / broiled marinated chicken\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nAlmonds coated with butter and salt\nChocolate and orange-flavoured smoothie\nHomemade soup with chicken, noodles, and spices\nMushy peas that are soft\nSmoothie made from banana puree with milk\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nRoast turkey with plum sauce\nHomemade soup with chicken, noodles, and spices\nMozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\n",
+            "1. Cheesecake made with cream cheese\n2. Baked mozzarella cheese sticks with marinara sauce\n3. Mozzarella dip recipe\n4. Meatballs made with ground beef and ground pork\n5. Macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n6. Queso made from melted cheese and chili peppers\n7. Cheese and vegetable soup with a beer broth\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Assortment of cheese soup with chicken\n10. Assorted cheese soup with chicken\n'''",
+            "1. Cheesecake made with cream cheese\n2. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n3. Chocolate and orange-flavoured smoothie\n4. Orange juice blended with ice\n5. Sugar-free peanut butter cookies\n6. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n7. Low sugar applesauce cupcakes\n8. Jam made from blackberries, lemon juice, and sugar\n9. Norway cake with lingonberry and whipped cream layers\n10. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar"
+        ]
+    }
+}

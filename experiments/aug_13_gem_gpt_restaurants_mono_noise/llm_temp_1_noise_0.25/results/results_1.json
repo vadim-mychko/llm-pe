@@ -1,0 +1,58 @@
+{
+    "1": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in trying ethnic food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cocktails?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer more traditional or modern American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you had Japanese food before?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food that is gluten-free?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for places to get pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place that has a lounge or bar area?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer something that serves Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places with a coffee bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Germantown Garden \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n The Tasty Toast \n Le Pain Quotidien \n A Tutti, Ristorante Italiano \n The Milk House",
+            "1. CinCin Restaurant \n2. The Continental Restaurant and Martini Bar \n3. CO-OP Restaurant & Lounge \n4. Jake's & Cooper's Wine Bar & Wine Shop \n5. Cook and Shaker \n6. Aldine \n7. Maison 208 \n8. Tavern On the Hill \n9. Canton 11 \n10. Buckminster's",
+            " The Continental Restaurant and Martini Bar \n Cook and Shaker \nAldine \nWishbone \nCHESTNUT 7\nFranklin's \nFounding Fathers Sports Bar & Grill \nJack's Firehouse \nParc",
+            " Izumi \nFuji Mountain \nFederal Donuts \nPearl's Oyster Bar \nMiga Korean BBQ & Sushi \nMacaroni's Restaurant \nChinatown Garden \nA Tutti, Ristorante Italiano \nAudrey Claire \nBenna's Cafe \nOishii Pok\u00e9",
+            "Izumi \\n\nFuji Mountain \\n\nMiga Korean BBQ & Sushi \\n\nDaleng Restaurant \\n\nBenna's Cafe \\n\nTrolley Car Diner \\n\nPure Tacos \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nThe Cheesecake Factory",
+            " Izumi \n Fuji Mountain \n Benna's Cafe \n The QUICK FIXX \n Betty's Speakeasy \n The Juice Merchant \n Blackbird Pizzeria \n Pure Tacos \n Bloomsday Cafe \n North Bowl",
+            "- The Blue Duck \n- Macaroni's Restaurant \n- The Continental Restaurant and Martini Bar \n- Tavern On the Hill \n- Parc \n- Buddakan \n- Blackbird Pizzeria \n- Ristorante La Buca \n- Izumi \n- Jake's & Cooper's Wine Bar & Wine Shop",
+            " Ristorante La Buca \\n\nCinCin Restaurant \\n\nLocal Tavern \\n\nFuji Mountain \\n\nMonster Vegan \\n\nBaan Thai \\n\nCanton 11 \\n\nHey Hummus \\n\nPearl's Oyster Bar \\n\nIzumi",
+            "Blackbird Pizzeria \nThe QUICK FIXX \nDim Sum House \nFuji Mountain \nCanton 11 \nFonding Fathers Sports Bar & Grill \nGreen Leafs & Bananas \nLuvh Vegan Deli \nOishii Pok\u00e9 \nLucky's Last Chance",
+            "1. The QUICK FIXX \\n\n2. Blackbird Pizzeria \\n\n3. Jack's Firehouse \\n\n4. Federal Donuts \\n\n5. The Blue Duck \\n\n6. Jake's & Cooper's Wine Bar & Wine Shop \\n\n7. Spread Bagelry \\n\n8. Wawa \\n\n9. Rival Bros Coffee \\n\n10. Bloomsday Cafe "
+        ]
+    }
+}

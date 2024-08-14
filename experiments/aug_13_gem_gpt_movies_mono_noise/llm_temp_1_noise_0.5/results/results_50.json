@@ -1,0 +1,58 @@
+{
+    "50": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that's also a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an animated children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies that are only available on digital streaming services?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy about music?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seeing a musical with a quirky romantic subplot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy about friends?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy about crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a comedy about a parent-child relationship?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Stranger than Fiction (2006)\n2. Big Lebowski, The (1998)\n3. Intolerable Cruelty (2003)\n4. Lost in Translation (2003)\n5. Magnolia (1999)\n6. Terminator 3: Rise of the Machines (2003)\n7. Crimes and Misdemeanors (1989)\n8. The Departed (2006)\n9. Secret of Kells, The (2009)\n10. American Graffiti (1973)",
+            "1. Real Genius (1985) \n2. American Graffiti (1973) \n3. Intolerable Cruelty (2003) \n4. Face/Off (1997) \n5. What's Up, Doc? (1972) \n6. Brewsters Millions (1985) \n7. Tenacious D in The Pick of Destiny (2006) \n8. The Big Lebowski (1998) \n9. Sure Thing, The (1985) \n10. Bruce Almighty (2003)\n",
+            "Monsters, Inc. (2001)\nThe Sure Thing (1985)\nWhat's Up, Doc? (1972)\nAmerican Graffiti (1973)\nThe Big Lebowski (1998)\nBruce Almighty (2003)\nReal Genius (1985)\nBrewster's Millions (1985)\nSt. Elmo's Fire (1985)\nFive Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. The Big Lebowski (1998) \n2. The Man from Earth (2007) \n3. Meet John Doe (1941) \n4. Real Steel (2011) \n5. Intolerable Cruelty (2003) \n6. What's Up, Doc? (1972) \n7. The Sure Thing (1985) \n8. Control (2007) \n9. Drugstore Cowboy (1989) \n10. Brewster's Millions (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Arsenic and Old Lace (1944)\n3. What's Up, Doc? (1972)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. American Graffiti (1973)\n8. Big Lebowski, The (1998)\n9. Stranger than Fiction (2006)\n10. Control (2007)",
+            "1. Magic Mike's Last Dance (2023)\n2. Oh Hell (2023)\n3. Cathy's Curse (2023)\n4. Boogie (2021)\n5. Impractical Jokers: The Movie (2020)\n6. The Lovebirds (2020)\n7. The King of Staten Island (2020)\n8. Eurovision Song Contest: The Story of Fire Saga (2020)\n9. Eurovision Song Contest: The Story of Fire Saga (2020)\n10. Bad Trip (2020)",
+            "1. The Big Lebowski (1998)\n2. The Sure Thing (1985)\n3. What's Up, Doc? (1972)\n4. American Graffiti (1973)\n5. Face/Off (1997)\n6. Bruce Almighty (2003)\n7. Real Genius (1985)\n8. Tenacious D in The Pick of Destiny (2006)\n9. Intolerable Cruelty (2003)\n10. Brewster's Millions (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988) \n2. UHF (1989) \n3. What's Up, Doc? (1972) \n4. Brewster's Millions (1985) \n5. Real Genius (1985) \n6. The Big Lebowski (1998) \n7. American Graffiti (1973) \n8. Tenacious D in The Pick of Destiny (2006)\n9. Intolerable Cruelty (2003) \n10. Face/Off (1997)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. August Rush (2007)\n3. The Sure Thing (1985)\n4. Brewster's Millions (1985)\n5. American Graffiti (1973)\n6. Real Genius (1985)\n7. The Secret of Kells (2009)\n8. What's Up, Doc? (1972)\n9. Intolerable Cruelty (2003)\n10. Face/Off (1997)",
+            "1. Real Genius (1985)\n2. Brewster's Millions (1985)\n3. Harsh Times (2005)\n4. Delicatessen (1991)\n5. Monty Python and the Holy Grail (1975)\n6. Tampopo (1985)\n7. UHF (1989)\n8. What We Do in the Shadows (2014)\n9. A Fish Called Wanda (1988)\n10. Airplane! (1980)"
+        ]
+    }
+}

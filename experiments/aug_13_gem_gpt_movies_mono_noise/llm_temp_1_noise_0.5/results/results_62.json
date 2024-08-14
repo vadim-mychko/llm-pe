@@ -1,0 +1,58 @@
+{
+    "62": {
+        "conv_hist": [
+            {
+                "query": "Do you want to watch a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies about science fiction or supernatural events?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a historical movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about the American Civil War?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer movies with a slow pace and mellow mood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about drugs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about strong historical women?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about aliens?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. Ant-Man (2015)\n4. The Big Red One (1980)\n5. Clash of the Titans (1981)\n6. Face/Off (1997)\n7. King Kong (2005)\n8. Lost in Translation (2003)\n9. Nightcrawler (2014)\n10. Transporter 2 (2005)\n",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \n3. Terminator 2: Judgment Day (1991) \n4. Drugstore Cowboy (1989) \n5. Dracula (Bram Stoker's Dracula) (1992) \n6. Bad Education (La mala educaci\u00f3n) (2004) \n7. Mothman Prophecies, The (2002) \n8. Delicatessen (1991) \n9. Big Trouble in Little China (1986)\n10. Face/Off (1997) \n''''",
+            "Tomb Raider (2018)\nClash of the Titans (1981)\nEuropa (Zentropa) (1991)\nVon Ryan's Express (1965)\nThomas Crown Affair, The (1968)\nBig Red One, The (1980)\nAmerican Graffiti (1973)\nBlack Robe (1991)\nUmberto D. (1952)\nGrapes of Wrath, The (1940)",
+            "1. Tomb Raider (2018)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. Proposition, The (2005)\n4. Alita: Battle Angel (2019)\n5. Dangerous Liaisons (1988)\n6. Terminator 3: Rise of the Machines (2003)\n7. Von Ryan's Express (1965)\n8. Timeline (2003)\n9. Big Red One, The (1980)\n10. Mr. Holmes (2015)",
+            "Abraham Lincoln: Vampire Hunter (2012) \n\nThe Proposition (2005) \n\nMeet John Doe (1941) \n\nVon Ryan's Express (1965) \n\nThe Hurricane (1999)\n\nBig Red One, The (1980) \n\nAmerican Graffiti (1973) \n\nBrewster's Millions (1985) \n\nGrapes of Wrath, The (1940) \n\nBlack Robe (1991)",
+            "1. Lincoln (2012) \\n\n2. The Proposition (2005) \\n\n3. Gentlemen of Fortune (Dzhentlmeny udachi) (1972) \\n\n4. Meet John Doe (1941) \\n\n5. Big Red One, The (1980) \\n\n6. Last Supper, The (1995) \\n\n7. The Grapes of Wrath (1940) \\n\n8. Black Robe (1991) \\n\n9. Umberto D. (1952) \\n\n10. Eragon (2006) \\n",
+            "1. Abraham Lincoln: Vampire Hunter (2012)\n2. Proposition, The (2005)\n3. Gladiator (2000)\n4. Braveheart (1995)\n5. Good Will Hunting (1997)\n6. Shawshank Redemption, The (1994)\n7. Life Is Beautiful (1997)\n8. A Beautiful Mind (2001)\n9. Pianist, The (2002)\n10. Schindler's List (1993)\n",
+            "1. Abraham Lincoln: Vampire Hunter (2012)\n2. The Proposition (2005)\n3. Breah (2007)\n4. Von Ryan's Express (1965)\n5. Timeline (2003)\n6. The Big Red One (1980)\n7. Brewster's Millions (1985)\n8. The Grapes of Wrath (1940)\n9. Black Robe (1991)\n10. The Boy in the Striped Pajamas (2008)\n",
+            "Abraham Lincoln: Vampire Hunter (2012) \\n\nAll Quiet on the Western Front (1930) \\n\nClash of the Titans (1981) \\n\nEuropa (Zentropa) (1991) \\n\nGremlins 2: The New Batch (1990) \\n\nLand Before Time, The (1988) \\n\nMeet John Doe (1941) \\n\nReal Steel (2011) \\n\nThe Thomas Crown Affair (2014) \\n\nThe Terminator (2003)",
+            "1. Abraham Lincoln: Vampire Hunter (2012)\n2. Glory (1989)\n3. Gettysburg (1993)\n4. Lincoln (2012)\n5. The Alamo (1960)\n6. Tombstone (1993)\n7. Dances with Wolves (1990)\n8. 12 Years a Slave (2013)\n9. The Last Samurai (2003)\n10. Apocalypto (2006)\n"
+        ]
+    }
+}

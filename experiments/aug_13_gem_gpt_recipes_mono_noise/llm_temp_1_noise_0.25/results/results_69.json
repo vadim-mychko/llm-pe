@@ -1,0 +1,58 @@
+{
+    "69": {
+        "conv_hist": [
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you usually prefer fish over vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fruit?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer vegetables over noodles?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like oysters?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet smoothies over savory smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruit smoothies?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nPork chops glazed with milk and cooked without nuts\nBeef stew made with beef, carrots and potatoes\nHomemade soup with chicken, noodles, and spices\nChicken cooked and flavored with lemon sauce\n****",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nVery low-fat assortment of shredded vegetables with seasoning\nVegetable curry flavoured with curry powder and ground tumeric \nBaked spinach quiche containing bacon\nSpaghetti noodles with mussels, anchovy fillets, and capers\nAssorted cheese soup with chicken",
+            " Smoothie made from fruit juice and bananas\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nLow sugar applesauce cupcakes\nLow fat assorted fruit dessert\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nSweet salad made with corn and three types of beans\nBerry cobbler that uses frozen mixed berries\n5 fruits salad: oranges, strawberries, blackberries, grapes, and pears\nLow fat sweet potato fries made with cajun seasoning\n'''",
+            "1. Shredded barbecued pork shoulder\n2. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n3. Chicken cooked and flavored with lemon sauce\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Very low fat baked apple tart with no crust or sugar added\n6. **Homemade soup with chicken, noodles, and spices**\n7. Mildly spicy chili recipe\n8. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Roasted almonds",
+            " Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow fat smoothies made with greek yogurt, and pineapple\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nSoup made with ground turkey that is low fat, high carb\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with vegetables and chicken\nSoup made with onions, carrots, and celery ribs\n''''",
+            "1. **Very low-fat assortment of shredded vegetables with seasoning**\n2. **Grilled vegetables seasoned with balsamic vinegar and herbs**\n3. **Grilled salmon seasoned with salt and pepper**\n4. **Salmon fillets grilled in a pan with herbs and spices**\n5. **Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs**\n6. **Fruit salad made with pear, grapes, and bananas.**\n7. **5 Fruit Salad**\n8. **Low fat assorted fruit dessert**\n9. **Very low-fat assortment of shredded vegetables with seasoning**\n10. **Salad made from 5 fruits**",
+            "Smoothie made from banana puree with milk\nSmoothie made from fruit juice and bananas\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBerry cobbler that uses frozen mixed berries\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\n",
+            "1. Smoothie made from fruit juice and bananas\n2. Smoothies made with banana puree with milk\n3. Smoothie made from orange juice blended with ice\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Chocolate and orange-flavoured smoothie\n6. Soup made with cabbage, carrots, potatoes, and onions\n7. Soup made with ground turkey that is low fat, high carb\n8. Creamy base with dill flavoring, eggs, and noodles\n9. South African vegetable curry flavoured with curry powder and ground tumeric\n10. Very low-fat assortment of shredded vegetables with seasoning\n",
+            "1. Smoothie made from fruit juice and bananas\n2. Low sugar applesauce cupcakes\n3. Mildly spicy chili recipe\n4. Sweet salad made with corn and three types of beans\n5. Fruit smoothie made from banana puree with milk\n6. Low fat assorted fruit dessert\n7. Peach cobbler dessert containing whole wheat flour\n8. Berry cobbler that uses frozen mixed berries\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Cheese and olive appetizer made to look like an eyeball",
+            "1. Smoothies made from banana puree with milk\n2. Smoothie made from banana puree with milk\n3. Smoothies made with fruit juice and bananas\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Chocolate and orange-flavoured smoothie\n6. Low fat assorted fruit dessert\n7. Assorted cheese soup with chicken\n8. Vegetable and chicken soup\n9. Chicken cooked and flavored with lemon sauce\n10. Sweet salad made with corn and three types of beans\n'''"
+        ]
+    }
+}

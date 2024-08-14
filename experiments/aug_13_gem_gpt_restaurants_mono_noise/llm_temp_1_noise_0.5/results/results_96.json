@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for salad?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Italian desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Mexican food?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Heritage \\n2. Federal Donuts \\n3. Olive Garden Italian Restaurant \\n4. The Cheesecake Factory \\n5. The Blue Duck \\n6. Fiore Fine Foods \\n7. Blackbird Pizzeria \\n8. Franklin's \\n9. Spread Bagelry \\n10. Oteri's Italian Bakery | North 5th St",
+            "****\n name: A Tutti, Ristorante Italiano \n****\n name: Talluto's Authentic Italian Food \n****\n name: Fiore Fine Foods \n****\n name: Macaroni's Restaurant \n****\n name: Ristorante La Buca \n****\n name: The QUICK FIXX \n****\n name: Audrey Claire \n****\n name: Trattoria Stella \n****\n name: Oteri's Italian Bakery | North 5th St \n****\n name: Mugshots Coffeehouse \n****\n name: Castellino's \n****\n name: Founding Fathers Sports Bar & Grill \n****\n name: Rival Bros Coffee \n****\n name: Gran Caffe L'Aquila",
+            "1. Talluto's Authentic Italian Food \n2. A Tutti, Ristorante Italiano \n3. Castellino's \n4. Zazu's Kitchen \n5. The QUICK FIXX \n6. Fiore Fine Foods \n7. Chef Franco Ristorante \n8. Oteri's Italian Bakery | North 5th St \n9. Ristorante Panorama \n10. PrimoHoagies \n11. Macaroni's Restaurant",
+            "Lacroix Restaurant at The Rittenhouse \nPrimoHoagies \nBellina Alimentari \nA Tutti, Ristorante Italiano \nCastellino's \nTalluto's Authentic Italian Food \nRistorante La Buca \nFiore Fine Foods \nOteri's Italian Bakery | North 5th St \nGran Caffe L'Aquila",
+            "1. Ristorante La Buca\n2. CinCin Restaurant\n3. Talluto's Authentic Italian Food\n4. A Tutti, Ristorante Italiano\n5. PrimoHoagies\n6. Olive Garden Italian Restaurant\n7. Castellino's\n8. Le Pain Quotidien\n9. Macaroni's Restaurant\n10. Fiore Fine Foods",
+            "A Tutti, Ristorante Italiano \\n\nCastellino's \\n\nRistorante La Buca \\n\nDaleng Restaurant \\n\nMommo Mare \\n\nThe QUICK FIXX \\n\nOteri's Italian Bakery | North 5th St \\n\nBocconcino Gourmet Pizza Napoletana Avignone \\n\nLa Colomba Ristorante Italiano \\n\nSolea \\n",
+            "A Tutti, Ristorante Italiano \nRistorante La Buca \nGran Caffe L'Aquila \nTalluto's Authentic Italian Food \nCastellino's \nFiore Fine Foods \nMacaroni's Restaurant \nThe QUICK FIXX \nOteri's Italian Bakery | North 5th St \nOlive Garden Italian Restaurant",
+            "1. Fiore Fine Foods\n2. Blackbird Pizzeria\n3. Betty's Speakeasy\n4. Ristorante La Buca \n5. Spread Bagelry\n6. Tu's Tea & Banh Mi South Philly\n7. Macaroni's Restaurant \n8. Fiore Artisan Gelato & Chocolate \n9. Gran Caffe L'Aquila\n10. Oteri's Italian Bakery | North 5th St\n",
+            "Ristorante La Buca \\n\nCastellino's \\n\nTalluto's Authentic Italian Food \\n\nA Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nFiorentina Wood Fired Pizzeria, Mozzarella & Wine Bar \\n\nZavino - Expressway \\n\nGran Caffe L'Aquila \\n\nParc \\n\nMalbec Argentine Steakhouse",
+            "1. Audrey Claire \n2. Olive Garden Italian Restaurant \n3. Federal Donuts \n4. Fiore Fine Foods \n5. The Blue Duck \n6. Franklin's \n7. Lucha Cartel \n8. El Rey \n9. Jose Pistola \n10. Taco Riico"
+        ]
+    }
+}

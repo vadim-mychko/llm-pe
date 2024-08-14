@@ -1,0 +1,58 @@
+{
+    "21": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something Italian?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for items that are sushi or Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that is more vegetarian oriented?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to search for items that fall into the American cuisine type?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a vegan restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a Indian vegetarian restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Does your desired cuisine contain Korean?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nLe Pain Quotidien \nCinCin Restaurant \nMong Kok Station \nA Tutti, Ristorante Italiano \nCanton 11 \nMacaroni's Restaurant \nRistorante La Buca",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLacroix Restaurant at The Rittenhouse \nCinCin Restaurant",
+            "1. The Tasty Toast\n2. Veda - Modern Indian Bistro \n3. Castellino's \n4. Misconduct Tavern \n5. Cantina Dos Segundos\n6. North Bowl \n7. Benna's Cafe \n8. Hey Hummus\n9. The Blue Duck \n10. Smoke's BBQ",
+            "1. The Continental Restaurant and Martini Bar \n2. Maison 208 \n3. Izumi \n4. Pearl's Oyster Bar \n5. Royal Blue \n6. Water Works Restaurant & Lounge \n7. Fiore Fine Foods \n8. Ristorante La Buca \n9. Pure Tacos \n10. Cinque Terre",
+            "Vedge \\n\nMonster Vegan \\n\nNorth Bowl \\n\nHey Hummus \\n\nEssene Market & Caf\u00e9 \\n\nGreen Leafs & Bananas \\n\nBetty's Speakeasy \\n\nLuhv Vegan Deli \\n\nThe Green Line Cafe \\n\nAudrey Claire \\n",
+            "1. Monster Vegan \n2. Vedge \n3. Hey Hummus \n4. The Green Line Cafe \n5. Green Leafs & Bananas \n6. Luhv Vegan Deli \n7. Pure Tacos \n8. Benna's Cafe \n9. Daleng Restaurant \n10. The QUICK FIXX",
+            "Vedge \nHey Hummus \nMonster Vegan \nEvan's Pizza \nThe QUICK FIXX \nLuhv Vegan Deli \nBetty's Speakeasy \nBenna's Cafe \nGreen Leafs & Bananas \nZuzu's Kitchen",
+            "1. Veda - Modern Indian Bistro \n2. Essene Market & Caf\u00e9 \n3. Vedge \n4. Hey Hummus \n5. Monster Vegan \n6. Benna's Cafe \n7. Luhv Vegan Deli \n8. Blackbird Pizzeria \n9. The QUICK FIXX \n10. Pure Tacos",
+            "Mood Indian Restaurant\nThe Juice Merchant \nVeda - Modern Indian Bistro \nMonster Vegan \nVedge \nHey Hummus \nEssene Market & Caf\u00e9 \nLuhu Vegan Deli \nPure Tacos \nBenna's Cafe",
+            "Vedge \nMonster Vegan \nBenna's Cafe \nHey Hummus \nGreen Leafs & Bananas \nLuhv Vegan Deli \nPure Tacos \nCafe L'Aube \nThe FRESH Grocer - Progress Plaza \nGran Caffe L'Aquila "
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want options for dining with breakfast options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sushi?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining with a full bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer dining options with full liquor bars and nightlife?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are popular cocktail bar options of interest?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining options with live music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in beer gardens?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American gastropub options with a full bar and lively nightlife?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \n Daleng Restaurant \n Lacroix Restaurant at The Rittenhouse \n Water Works Restaurant & Lounge \n Izumi \n Bistro SouthEast \n Canton 11 \n Pearl's Oyster Bar \n Malbec Argentine Steakhouse \n The QUICK FIXX",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nFederal Donuts \nMong Kok Station\nThe Tasty Toast\nLe Pain Quotidien",
+            "Watermark Restaurant & Lounge \nDaleng Restaurant \nGolden Triangle \nBaan Thai \nFuji Mountain \nRistorante La Buca \nCanton 11 \nPearl's Oyster Bar \nMalbec Argentine Steakhouse \nAudrey Claire",
+            "1. CO-OP Restaurant & Lounge \n2. Lacroix Restaurant at The Rittenhouse \n3. Franklin's \n4. Founding Fathers Sports Bar & Grill \n5. Paddy's Old City Pub \n6. Green Leafs & Bananas \n7. Blackbird Pizzeria \n8. Mad River Manayunk \n9. Heritage \n10. Ved\n",
+            "1. Lacroix Restaurant at The Rittenhouse \n2. Mong Kok Station \n3. The Tasty Toast \n4. Kokopelli Restaurant & Tequila Bar \n5. Izumi \n6. Sang Kee Peking Duck House \n7. Dim Sum House \n8. Ristorante La Buca \n9. Love & Honey Fried Chicken \n10. CJ & Eck's",
+            "The Tavern Restaurant \nBistro SouthEast \nThe Cheesecake Factory \n Founding Fathers Sports Bar & Grill \nHeritage \nJack's Firehouse \nJD Mcgillicuddy's Manayunk \nFranklin's \nValley Green Inn \nLacroix Restaurant at The Rittenhouse",
+            "Federal Donuts \nTavern On the Hill \nMad River Manayunk \nFranklin's \nThe El Bar \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill \nChestnut 7 \nLucky's Last Chance \nMcMenamin's Tavern",
+            " Founding Fathers Sports Bar & Grill\nWarmdaddy's Restaurant & Bar\nQueen & Rook Game Cafe\nTrestle Inn\nO'Neill's Pub\nThe Ugly American Bar & Grille\nLucky's Last Chance\nMcGillin's Olde Ale House\nFergie's Pub\nBob & Barbara's Lounge",
+            "- Water Works Restaurant & Lounge\n- Heritage\n- CinCin Restaurant\n- Kokopelli Restaurant & Tequila Bar\n- Grain Exchange\n- Veda - Modern Indian Bistro\n- The Tavern Restaurant\n- Maison 208\n- CO-OP Restaurant & Lounge\n- Misconduct Tavern",
+            "Grain Exchange \\n\nRoy-Pitz Barrel House \\n\nJack's Firehouse \\n\nLove & Honey Fried Chicken \\n\nLucky's Last Chance \\n\nFranklin's \\n\nThe El Bar \\n\nJack's Firehouse \\n\nJD Mcgillicuddy's Manayunk \\n\nFounding Fathers Sports Bar & Grill"
+        ]
+    }
+}

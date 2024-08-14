@@ -1,0 +1,58 @@
+{
+    "25": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in authentic Spanish food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in trying vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a place with sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in having a salad with your sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "CinCin Restaurant \n Lacroix Restaurant at The Rittenhouse \n The Juice Merchant \n Daleng Restaurant \n Le Pain Quotidien \n CO-OP Restaurant & Lounge \n Vedge \n Tu's Tea & Banh Mi South Philly \nAudrey Claire \n Parc",
+            "Daleng Restaurant \\n\nBistro SouthEast \\n\nMiga Korean BBQ & Sushi \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nKC's Pastries \\n\nOishii Pok\u00e9 \\n\nAudrey Claire \\n\nPure Tacos",
+            "Daleng Restaurant \nGolden Triangle \nFederal Donuts \nCanton 11 \nMiga Korean BBQ & Sushi \nFederal Donuts \nBistro SouthEast \nSang Kee Peking Duck House \nOishii Pok\u00e9 \nTu's Tea & Banh Mi South Philly",
+            "Daleng Restaurant \nFuji Mountain \nMong Kok Station \nSang Kee Peking Duck House \nCanton 11 \nTu's Tea & Banh Mi South Philly \nDim Sum House \nNew York Gyro Truck \nPure Tacos \nKC's Pastries",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nMong Kok Station \nFederal Donuts \n Heritage \nKokopelli Restaurant & Tequila Bar",
+            "1. The Sandwich Factory \n2. PrimoHoagies \n3. Lisa's Kitchen \n4. Luhv Vegan Deli \n5. The Green Line Cafe \n6. Spread Bagelry \n7. The QUICK FIXX \n8. The Milk House \n9. Fiore Fine Foods \n10. The Continental Restaurant and Martini Bar",
+            "1. Steve's Prince of Steaks \\n\n2. Luhv Vegan Deli \\n\n3. Betty's Speakeasy \\n\n4. Wishbone \\n\n5. Blackbird Pizzeria \\n\n6. Spread Bagelry \\n\n7. Wawa \\n\n8. The Green Line Cafe \\n\n9. Green Leafs & Bananas \n10. Lisa's Kitchen\n",
+            "Dim Sum House \nThe QUICK FIXX \nCanton 11 \nSang Kee Peking Duck House \nTu's Tea & Banh Mi South Philly \nKC's Pastries \nSpead Bagelry \nThe Cheesecake Factory \nTrolley Car Diner \nJD Mcgillicuddy's Manayunk \nGreen Leafs & Bananas \nWawa\n",
+            " PrimalHoagies \n The QUICK FIXX \n Green Leafs & Bananas \n Steve's Prince of Steaks \n The Blue Duck \n Lisa's Kitchen \n Trolley Car Diner \n The Green Line Cafe \n Spread Bagelry \n Wawa \n Oishii Pok\u00e9",
+            "Wishbone \\n\nSmashburger \\n\nLisa's Kitchen \\n\nFranklin's \\n\nBarcade \\n\nJD Mcgillicuddy's Manayunk \\n\nChickie's & Pete's \\n\nLuke Wholey's Gold Star Beer Garden \\n\nThe El Bar \\n\nMisconduct Tavern"
+        ]
+    }
+}

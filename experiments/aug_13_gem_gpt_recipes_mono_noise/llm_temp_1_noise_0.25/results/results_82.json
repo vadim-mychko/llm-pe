@@ -1,0 +1,58 @@
+{
+    "82": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer food that is baked or grilled?",
+                "response": "it is not specified in the item description whether the meatloaf is baked or grilled, so i cannot provide a preference."
+            },
+            {
+                "query": "Would you prefer pork or turkey meatloaf?",
+                "response": "i cannot answer that query as it is not a yes or no question. please ask a yes or no question."
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled salmon?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Turkey with plum sauce\n8. Roasted almonds\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Baked mozzarella cheese sticks with marinara sauce",
+            "1.  Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2.  Shredded barbecued pork shoulder\n3.  Pork chops glazed with milk and cooked without nuts\n4.  Very low-fat assortment of shredded vegetables with seasoning\n5.  Baked breakfast bars made with nuts and seeds\n6.  Low fat baked breakfast pie made with sausage (pork) and apples\n7.  Meatballs made with ground beef and ground pork\n8.  Low fat diced baked or fried potatoes\n9.  Chicken cooked and flavored with lemon sauce\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            " Shredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nLow fat diced baked or fried potatoes\nMozzarella cheese sticks with marinara sauce\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n",
+            "1. Low fat diced baked or fried potatoes\n2. Potato fries with gravy and bacon\n3. Baked spinach quiche containing bacon\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Pork chops glazed with milk and cooked without nuts\n6. Beef stew made with beef, carrots and potatoes\n7. Roast turkey with plum sauce\n8. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n9. Cheese with crackers\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            " Pork chops glazed with milk and cooked without nuts\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****\nChicken cooked and flavored with lemon sauce\n****\nRoasted almonds\n****\nFried shrimp and scallops\n****\nSandwich made with: grilled / broiled marinated chicken\n****\nChocolate and orange-flavoured smoothie\n****\nAssorted cheese soup with chicken\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " Grilled salmon seasoned with salt and pepper\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Pork chops glazed with milk and cooked without nuts\n****\n Roast turkey with plum sauce\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Spanish rice with chicken breast\n****\n Low fat diced baked or fried potatoes",
+            "1. Chicken breasts stuffed with bacon and mozzarella\n2. Beef stew made with beef, carrots and potatoes\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Meatballs made with ground beef and ground pork\n5. Grilled salmon seasoned with salt and pepper\n6. Pork chops glazed with milk and cooked without nuts\n7. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "Pork chops glazed with milk and cooked without nuts\nChicken cooked and flavored with lemon sauce\nChicken breasts stuffed with bacon and mozzarella\nLow fat sweet potato fries made with cajun seasoning\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nPeppermint chocolate bonbon\nGrilled salmon seasoned with salt and pepper\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\nSmoothie made from banana puree with milk\nBerry cobbler that uses frozen mixed berries",
+            "Chicken breasts stuffed with bacon and mozzarella\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef stew made with beef, carrots and potatoes\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBaked mozzarella cheese sticks with marinara sauce\nPork chops glazed with milk and cooked without nuts\nMozzarella dip recipe",
+            "Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nPork chops glazed with milk and cooked without nuts\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nBeef stew made with beef, carrots and potatoes\nChicken breasts stuffed with bacon and mozzarella\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBaked mozzarella cheese sticks with marinara sauce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nPeppermint chocolate bonbon"
+        ]
+    }
+}

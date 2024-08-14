@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Do you like snacks?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Salmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nChicken breasts stuffed with bacon and mozzarella\nPeppermint chocolate bonbon\nCheesecake made with cream cheese\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nChocolate and orange-flavoured smoothie\n",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nClassic salad with creamy caesar dressing and croutons\nBroccoli and cheddar cheese soup\n'''",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Grilled salmon seasoned with salt and pepper\n3. Low sugar applesauce cupcakes\n4. Shredded barbecued pork shoulder\n5. Roasted almonds\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Mozzarella dip recipe\n9. Meatballs made with ground beef and ground pork\n10. Baked mozzarella cheese sticks with marinara sauce\n''''",
+            "1. Beef stew made with beef, carrots and potatoes\n2. Grilled salmon seasoned with salt and pepper\n3. Poke of tofu, mushroom and tomatoes\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Chopped French duck confit preserved by duck oil\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Italian salad made from romain lettuce, artichokes, and tomatoes\n10. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n'''",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nShredded barbecued pork shoulder\nPork chops glazed with milk and cooked without nuts\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nMeatballs made with ground beef and ground pork",
+            "Pork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nChicken breasts stuffed with bacon and mozzarella\nBeef stew made with beef, carrots and potatoes\nMeatballs made with ground beef and ground pork\nBaked breakfast pie made with sausage (pork) and apples\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nShredded barbecued pork shoulder\nRoast turkey with plum sauce",
+            "1. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Shredded barbecued pork shoulder\n4. Fried shrimp and scallops\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Taiwanese deep fried crispy chicken cutlets\n10. Meatballs made with ground beef and ground pork\n",
+            "Beef stew made with beef, carrots and potatoes\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChopped French duck confit preserved by duck oil\n'''",
+            "Beef stew made with beef, carrots and potatoes\nHigh protein skillet with rice and vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nShredded barbecued pork shoulder\nBaked breakfast bars made with nuts and seeds\nRoast turkey with plum sauce\nPeppermint chocolate bonbon\nSteak fajitas seasoned with onion and bell peppers\nChicken breasts stuffed with bacon and mozzarella",
+            "1. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. Grilled salmon seasoned with salt and pepper\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Beef stew made with beef, carrots and potatoes\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Low fat diced baked or fried potatoes\n9. Shredded barbecued pork shoulder\n10. Breakfast egg, bean, and cheese burrito with jalapeno peppers"
+        ]
+    }
+}

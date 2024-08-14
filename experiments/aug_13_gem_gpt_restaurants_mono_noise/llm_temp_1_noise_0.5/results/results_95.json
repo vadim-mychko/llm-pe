@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for gluten-free options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Could you be interested in cheesesteaks?",
+                "response": "yes"
+            },
+            {
+                "query": "Do sandwiches sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you intersted in subs specifically?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer chicken sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like turkey or ham sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for hot dogs or burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for meatball sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Golden Triangle \nGrain Exchange \nOishii Pok\u00e9 \nZuzu's Kitchen \nThe Tasty Toast \nThe Milk House \nThe Green Line Cafe \nThe Blue Duck \nBloomsday Cafe \nThe Grill  Smuckers",
+            "1. Daleng Restaurant\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Kokopelli Restaurant & Tequila Bar\n5. Veda - Modern Indian Bistro\n6. Canton 11\n7. Miga Korean BBQ & Sushi\n8. Sang Kee Peking Duck House\n9. Bistro SouthEast\n10. Malbec Argentine Steakhouse",
+            "Steve's Prince of Steaks\nThe Tasty Toast\nGeno's Steaks\nPat's King of Steaks\nJim's Steaks South Street\nIshkabibble's\nSonny's Famous Steaks\nLee's Hoagie House\nCarmen's Famous Italian Hoagies & Cheesesteaks\nDalessandro's Steaks and Hoagies",
+            "Sister Muhammad's Kitchen \n Steve's Prince of Steaks \n The Juice Merchant \n PrimoHoagies \n Lisa's Kitchen \n Luhv Vegan Deli \n Green Leafs & Bananas \n The Green Line Cafe \n The QUICK FIXX \n Spread Bagelry",
+            "The Blue Duck \nSteve's Prince of Steaks \nPrimoHoagies \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nThe QUICK FIXX \nTrolly Car Diner \nLuvv Vegan Deli \nThe Tasty Toast",
+            "The QUICK FIXX \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nSteve's Prince of Steaks \nThe Blue Duck \nLove & Honey Fried Chicken \nFederal Donuts \nGreen Leafs & Bananas \nLucky's Last Chance",
+            "Steve's Prince of Steaks \nLisa's Kitchen \nMisconduct Tavern \nThe Blue Duck \nGreen Leafs & Bananas \nSpread Bagelry \nThe Green Line Cafe \nLuvh Vegan Deli \nLove & Honey Fried Chicken \nThe QUICK FIXX",
+            "The Blue Duck \\n\nFive Guys \\n\nLis's Kitchen \\n\nRoy-Pitz Barrel House \\n\nThe Green Line Cafe \\n\nFranklin's \\n\nThe Grilled Cheez Truck \\n\nSpread Bagelry \\n\nChick's Cafe Restaurant \\n\nCalifornia Cheesesteak Co \nWawa\n",
+            "Steve's Prince of Steaks \\n\nLisa's Kitchen \\n\nJack's Firehouse \\n\nPrimoHoagies \\n\nThe Blue Duck \\n\nMonster Vegan \\n\nBlackbird Pizzeria \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe \\n\nSpread Bagelry",
+            "Steve's Prince of Steaks \nPrioHoagies \nDim Sum House \nFirehouse Restaurant \nCastellino's \nLuvh Vegan Deli \nSubway \n Jersey Mike's Subs \n Quiznos \n Jack's Firehouse"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savory dishes or sweet dishes?",
+                "response": "savory dishes"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like egg-based dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pasta dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer grilled or pan fried seafood?",
+                "response": "n/a"
+            },
+            {
+                "query": "Do you enjoy mild-flavored seafood dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy dishes that contain shrimp?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Bread made swiss style with swiss cheese\n- Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n- Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n- Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n- Low fat diced baked or fried potatoes\n- Cheese and vegetable soup with a beer broth\n- Mozzarella sticks\n- Mozzarella dip recipe\n- Meatballs made with ground beef and ground pork",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n High protein skillet with rice and vegetables\n****\n Beef stew made with beef, carrots and potatoes\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Shredded barbecued pork shoulder\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n South African vegetable curry flavoured with curry powder and ground tumeric",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nChicken breasts stuffed with bacon and mozzarella\nCheese with crackers\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nRoast turkey with plum sauce\nCreamy base with dill flavoring, eggs, and noodles\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n''''",
+            " High protein skillet with rice and vegetables \n Chinese salad made of eggplant and zucchini, flavoured with soy sauce \n Large portion fries with gravy and bacon \n Beef stew made with beef, carrots and potatoes \n Grilled salmon seasoned with salt and pepper \n Poke of tofu, mushroom and tomatoes \n Queso made from melted cheese and chili peppers \n Low fat baked breakfast pie made with sausage (pork) and apples \n Chicken breasts stuffed with bacon and mozzarella \n Chopped French duck confit preserved by duck oil",
+            "1. Grilled salmon seasoned with salt and pepper\n2. Salmon roasted with olive oil, chives, and tarragon leaves\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n5. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Baked breakfast bars made with nuts and seeds\n8. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Mozzarella dip recipe\n",
+            "Fried shrimp and scallops\nSalmon fillets grilled in a pan with herbs and spices\nSpaghetti noodles with mussels, anchovy fillets, and capers\nGrilled salmon seasoned with salt and pepper\nSoup made with shrimp, onions, and scallops\nSalmon roasted with olive oil, chives, and tarragon leaves\nNorway cake with lingonberry and whipped cream layers\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nCreamy base with dill flavoring, eggs, and noodles\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nBaked salmon seasoned with garlic, onion, cumin, dill, and lime\n</blockquote>",
+            " Soup made with shrimp, onions, and scallops\n****\n Grilled salmon seasoned with salt and pepper\n****\n Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Seafood soup\n****\n Simple creamy oyster soup\n****\n Smoked salmon and cream cheese spread\n****\n Tuna sandwich\n****",
+            " Fried shrimp and scallops\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Spaghetti noodles with mussels, anchovy fillets, and capers\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon fillets grilled in a pan with herbs and spices\n****\n Soup made with shrimp, onions, and scallops\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Cheese with crackers\n****\n Low fat assorted fruit dessert",
+            "****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\nFried shrimp and scallops\n****\nSpaghetti noodles with mussels, anchovy fillets, and capers\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nSoup made with shrimp, onions, and scallops\n****\nGrilled salmon seasoned with salt and pepper\n****\nSalmon fillets grilled in a pan with herbs and spices\n****",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSimple creamy oyster soup\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork\nThai-styled gluten-free chicken stir fry\nScorched greens rice with sprouts\nFried banana with ice cream served on top\nSpicy bulgogi (marinated beef) recipe\nHomemade pork bone soup\nBanana bread made with whole wheat flour and walnuts\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nFried clams with lemon and butter\nMalaysian hot-style asam laksa with shrimp paste and spicy fish broth\nCoconut shrimp with chili lime dipping sauce\nSpicy drunken noodles with shrimp\nPan fried halibut with lemon sauce\nHealthy rice noodles stir-fry with shrimp and eggs\nSaut\u00e9ed tiger prawns with Japanese stir fry sauce\nLouisiana fried shrimp\nGarlic butter shrimp over angel hair pasta\nMustard crusted salmon\nCrab legs\nSpicy salmon\nSalmon cooker with teriyaki and hoisin sauce\nPoached salmon\nGrilled salmon with lemon and dill\nPasta with lemon cream sauce\nShrimp stir-fry\nLemon-Herb Grilled Salmon\nBaked salmon with lemon pepper\nCheesy crab pasta\nWhole roasted salmon with lemon and herbs\nBaked feta pasta with cherry tomatoes"
+        ]
+    }
+}

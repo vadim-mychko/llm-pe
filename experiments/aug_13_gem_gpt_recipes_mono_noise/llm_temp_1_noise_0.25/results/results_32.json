@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweets?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like starchy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups made with vegetables and beans?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. High protein skillet with rice and vegetables\n2. Queso made from melted cheese and chili peppers\n3. Grilled salmon seasoned with salt and pepper\n4. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n5. Mildly spicy chili recipe\n6. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n7. Pork glazed with milk and cooked without nuts\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n9. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with onions, carrots, and celery ribs\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Simple creamy oyster soup\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices\n'''",
+            " 1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Soup made with shrimp, onions, and scallops\n4. Soup made from onions, carrots, and celery ribs\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices\n''''",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nVery low-fat assortment of shredded vegetables with seasoning",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Homemade soup with chicken, noodles, and spices\n5. Soup made with vegetables and chicken\n6. Soup made with onions, carrots, and celery ribs\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with shrimp, onions, and scallops\n9. Assorted cheese soup with chicken\n10. Calcium-rich soup made with broccoli and beans",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Cheese and vegetable soup with a beer broth\n10. Homemade soup with chicken, noodles, and spices",
+            "1.  Soup made with cabbage, carrots, potatoes, and onions\n2.  High protein skillet with rice and vegetables\n3.  Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4.  Soup made with ground turkey that is low fat, high carb\n5.  Low fat sweet potato fries made with cajun seasoning\n6.  Very low-fat assortment of shredded vegetables with seasoning\n7.  South African vegetable curry flavoured with curry powder and ground tumeric\n8.  Baked breakfast bars made with nuts and seeds\n9.  Assorted cheese soup with chicken\n10. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Large portion fries with gravy and bacon\n3. High protein skillet with rice and vegetables\n4. Grilled salmon seasoned with salt and pepper\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Assorted cheese soup with chicken\n7. Low fat sweet potato fries made with cajun seasoning\n8. Baked squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Roasted almonds\n10. Spanish rice with chicken breast\n",
+            " Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made from onions, carrots, and celery ribs\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nCalcium-rich soup made with broccoli and beans\nSoup made with vegetables and chicken\nCheese and vegetable soup with a beer broth\nChicken cooked and flavored with lemon sauce\nSaut\u00e9ed vegetables\n****\n****"
+        ]
+    }
+}

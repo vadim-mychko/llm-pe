@@ -1,0 +1,58 @@
+{
+    "6": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in any vegetarian venues?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for any Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want any items in the American cuisine category?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in delis?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in any sandwich shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in specialty food items?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nFederal Donuts \nHeritage \nKokopelli Restaurant & Tequila Bar \nGrain Exchange \nIzumi",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nFederal Donuts \\n\nMong Kok Station \\n\nCanton 11 \\n\nDim Sum House \\n\nRistorante La Buca \\n\nSteve's Prince of Steaks \\n\nTrolley Car Diner",
+            "Water Works Restaurant & Lounge\nGrain Exchange\nZuzu's Kitchen\nThe Milk House\nThe Grill  Smuckers\nCO-OP Restaurant & Lounge\nMisconduct Tavern\nMacaroni's Restaurant\nPearl's Oyster Bar\nTrolley Car Diner",
+            "Talluto's Authentic Italian Food \nThe Juice Merchant \nFederal Donuts \nZuzu's Kitchen \nDaleng Restaurant \nPrimoHoagies \nLe Pain Quotidien \nCastellino's \nA Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant",
+            "1. PrimoHoagies\n2. Talluto's Authentic Italian Food\n3. Castellino's\n4. The Fresh Grocer - Progress Plaza\n5. Trolley Car Diner\n6. Luhv Vegan Deli\n7. Spread Bagelry\n8. Wawa\n9. Oteri's Italian Bakery | North 5th St\n10. CJ & Eck's",
+            "Dim Sum House\nLa Buca\nRistorante Italiano A Tutti\nPearl's Oyster Bar\nTalluto's Authentic Italian Food\nCastellino's Sardinian Cuisine\nDim Sum Garden\nMiga Korean BBQ & Sushi\nBaan Thai\nSang Kee Peking Duck House",
+            "Dim Sum House \nCanton 11 \nThe Fresh Grocer - Progress Plaza \nCastellino's \nEssene Market & Caf\u00e9 \nTrolley Car Diner \nOteri's Italian Bakery | North 5th St \n Fiore Fine Foods \nLuce \nBetty's Speakeasy",
+            "Oteri's Italian Bakery | North 5th St\nBetty's Speakeasy\nEvan's Pizza\nFiore Fine Foods\nTu's Tea & Banh Mi South Philly\nSister Muhammad's Kitchen\nKC's Pastries\nSpread Bagelry\nEssene Market & Caf\u00e9\nThe Fresh Grocer - Progress Plaza",
+            "Oteri's Italian Bakery | North 5th St\nSister Muhammad's Kitchen \nTrolley Car Diner \nLuhv Vegan Deli \nDim Sum House \nJack's Firehouse \nFranklin's \nFounding Fathers Sports Bar & Grill\nChestnut 7 \nSpreed Bagelry",
+            "- Fiore Fine Foods \n- KC's Pastries \n- Benna's Cafe \n- Essene Market & Caf\u00e9 \n- Sister Muhammad's Kitchen \n-Betty's Speakeasy \n- Spread Bagelry \n- Talluto's Authentic Italian Food \n- The Fresh Grocer - Progress Plaza \n- Pure Tacos"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer dishes with vegetables that are raw or cooked?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweets or savoury dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian sausage?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Queso made from melted cheese and chili peppers\n2. Low fat baked breakfast pie made with sausage (pork) and apples\n3. Baked mozzarella cheese sticks with marinara sauce\n4. Cheese and olive appetizer made to look like an eyeball\n5. Assorted cheese soup with chicken\n6. Cheese with crackers\n7. Grilled cheese sandwich with mozzarella and tomatoes\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. French bread pizza made with mozzarella cheese and chicken\n10. Cheese and vegetable soup with a beer broth",
+            " Cheese and vegetable soup with a beer broth\nCheese and olive appetizer made to look like an eyeball\nAssorted cheese soup with chicken\nBaked spinach quiche containing bacon\nQueso made from melted cheese and chili peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBread made swiss style with swiss cheese\nGrilled salmon seasoned with salt and pepper\nHomemade soup with chicken, noodles, and spices",
+            "Creamy base with dill flavoring, eggs, and noodles\nVegetable and chicken soup\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nAssorted cheese soup with chicken\nClassic salad with creamy caesar dressing and croutons\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Assorted cheese soup with chicken\n3. Cheese and vegetable soup with a beer broth\n4. Homemade soup with chicken, noodles, and spices\n5. Simple creamy oyster soup\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with vegetables and chicken\n8. Soup made with ground turkey that is low fat, high carb\n9. Soup made with onions, carrots, and celery ribs\n10. Calcium-rich soup made with broccoli and beans\n''''",
+            " Assorted cheese soup with chicken\n****\n Cheese and vegetable soup with a beer broth\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nSoup made with ground turkey that is low fat, high carb\n****\nSoup made with vegetables and chicken\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nSoup made with shrimp, onions, and scallops\n****\nSoup made with onions, carrots, and celery ribs\n****\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\nCheese with crackers",
+            "Cheese and vegetable soup with a beer broth\nAssorted cheese soup with chicken\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSpaghetti noodles with mussels, anchovy fillets, and capers\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCreamy base with dill flavoring, eggs, and noodles\nCheese and olive appetizer made to look like an eyeball",
+            "Assorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nCreamy base with dill flavoring, eggs, and noodles\nCalcium-rich soup made with broccoli and beans\nVegetable and chicken soup with noodles and spice\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with onions, carrots, and celery ribs\nSoup made with shrimp, onions, and scallops\nSoup made with vegetables and chicken\n****\nBaked spinach quiche containing bacon\nBacon wrapped dates\nCheese sticks made with mozzarella\nMozzarella dip recipe\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried calamari with marinara sauce\nBaked cheese sticks\nPasta salad containing cheese, onions, celery, bell peppers, mayonaise, and dijon mustard\nSpaghetti noodles topped with cheese, ground beef, and tomato sauce\n****\nHomemade soup with chicken, noodles, and spices\nGrilled salmon seasoned with salt and pepper\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nBaked pork shoulder with a glaze\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nBreakfast egg with chili, jalapenos, and cheese\n****\nChinese stir-fry made with tofu, noodles, and vegetables\nGrilled eggplant and zucchini seasoned with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nTaco pizza with ground beef taco meat, taco seasoning, cheese, onions, and tomatoes\nPepperoni and sausage pizza\nPenne with rosted peppers, sun-dried tomatoes, pesto sauce, mozarella, and cooked shrimp\nPizza made with a crust consisting of tomatoes, olive oil, yeast, sugar, and oregano topped with ground turkey sauce, onions, and cheese\nBreakfast pizza made with bacon (pork) meat, mozzarella cheese, sausage (pork) meat, peppers, and eggs\nMeatless meatballs made with mushrooms, rice, and mix of your favorite spices consisting of basil, oregano, rosemary, onion powder, and thyme\n****\nMeatballs made with ground beef and ground pork\nPork sandwich made with poppy seed kaiser rolls, green bell peppers, and onions\nGrilled pork belly\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nLow-fat assorted fruit dessert\nPork chops glazed with milk and cooked without nuts\nVery low-fat assortment of shredded vegetables with seasoning\nRoasted almonds\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\nPumpkin sugar cookies\nLow-sugar oatmeal cookies\nSugar-free peanut butter cookies\n****\nBaked oatmeal cup made with mashed baby banana, almond butter, nutmeg, cinnamon, pure maple syrup, rolled oats, and vanilla extract\nLow-fat and low-carb trail mix\nWhole wheat blueberry muffins with lemon glaze\nNo-bake chocolate peanut butter oatmeal balls\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nChocolate and orange-flavoured smoothie\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n****\nBanana bread made with whole wheat flour and walnuts\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip",
+            "Assorted cheese soup with chicken\nCheese and vegetable soup with a beer broth\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nCreamy base with dill flavoring, eggs, and noodles\nBaked mozzarella cheese sticks with marinara sauce\nCheese and olive appetizer made to look like an eyeball\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with onions, carrots, and celery ribs\nSoup made with vegetables and chicken\n****",
+            "1. Creamy base with dill flavoring, eggs, and noodles\n2. Cheese and vegetable soup with a beer broth\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Low fat vegetables shredded with seasoning\n5. Bruschetta\n6. Mozzarella and tomato salad\n7. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n8. Mozzarella cheese sticks with marinara sauce\n9. Broccoli cheddar soup\n10. Vegetable lasagna\n''''",
+            "1. Assorted cheese soup with chicken\n2. Cheese and olive appetizer made to look like an eyeball\n3. Cheesecake made with cream cheese\n4. Chicken breasts stuffed with bacon and mozzarella\n5. Queso made from melted cheese and chili peppers\n6. Garlic bread with cheddar, green onions, and mayonnaise\n7. Italian salad made from romain lettuce, artichokes, and tomatoes\n8. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa"
+        ]
+    }
+}

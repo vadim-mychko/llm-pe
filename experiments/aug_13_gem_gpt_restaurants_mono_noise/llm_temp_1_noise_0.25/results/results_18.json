@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a chicken shop?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place that serves cheesesteaks?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a sports bar ideal for you?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer places that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Can I interest you in a place that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for comfort food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a deli?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Heritage \n2. Azad's Mediterranean Grill \n3. The Green Line Cafe \n4. Love & Honey Fried Chicken \n5. The Juice Merchant \n6. Federal Donuts \n7. The Cheesecake Factory \n8. Wishbone \n9. Lucky's Last Chance \n10. Oishii Pok\u00e9",
+            "Veda - Modern Indian Bistro \n**Tu's Tea & Banh Mi South Philly** \n**The QUICK FIXX** \nThe Juice Merchant \nThe Tasty Toast \nMonster Vegan \nBenna's Cafe \nHey Hummus \n**Green Leafs & Bananas** \n**Luvh Vegan Deli**",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "1. Five Guys \n2. Shake Shack \n3. Lucky's Last Chance \n4. Lisa's Kitchen \n5. Misconduct Tavern \n6. The Blue Duck \n7. Franklin's \n8. Tavern On the Hill \n9. Founders Tavern \n10. Paddy's Old City Pub",
+            "Five Guys \\n\nJack's Firehouse \\n\nBlackbird Pizzeria \\n\nThe Blue Duck \\n\nSteve's Prince of Steaks \\n\nLucky's Last Chance \\n\nFranklin's \\n\nLisa's Kitchen \\n\nLuvh Vegan Deli \\n\nMisconduct Tavern",
+            "1. Misconduct Tavern\n2. Paddy's Old City Pub\n3. Mad River Manayunk\n4. Franklin's \n5. JD Mcgillicuddy's Manayunk \n6. Foundry Father's Sports Bar & Grill \n7. Steve's Prince of Steaks \n8. Lisa's Kitchen \n9. Blackbird Pizzeria \n10. The Blue Duck",
+            "JD Mcgillicuddy's Manayunk \nFranklin's \nWishbone \nPaddy's Old City Pub \nMisconduct Tavern \nLisa's Kitchen \nRoy-Pitz Barrel House \nMad River Manayunk \nThe Tavern Restaurant \nSteve's Prince of Steaks",
+            "Misconduct Tavern\nWishbone\nPaddy's Old City Pub\nFranklin's \nTrolley Car Diner\nSteve's Prince of Steaks \nLuvh Vegan Deli\nLisa's Kitchen \nJack's Firehouse \nJD Mcgillicuddy's Manayunk",
+            "Laurel Hill Burgers \\n\nGood Dog Bar \\n\nBrigantino \\n\nLucky Strike Social Philadelphia \\n\nRay's Happy Birthday Bar \\n\nTony's Place Bar & Grill \\n\nThe Pine Street \\n\nLacroix at the Rittenhouse \\n\nCity Tap House Logan Square \\n\n1 Tippling Place",
+            "Lisa's Kitchen \nSteve's Prince of Steaks \nLuhv Vegan Deli \nThe Green Line Cafe \nSpread Bagelry \nTrolley Car Diner \nGreen Leafs & Bananas \nLucky's Last Chance \nFive Guys \nMisconduct Tavern"
+        ]
+    }
+}

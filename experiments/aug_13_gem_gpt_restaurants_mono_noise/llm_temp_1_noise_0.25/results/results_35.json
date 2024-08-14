@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for places that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for vegan restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that fit your dietary needs?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for American cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in any bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Japanese cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Mood Indian Restaurant \\n\nLocal Tavern \\n\nGrain Exchange \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nIndia's Garden \\n\nGermantown Garden \\n\nThe Juice Merchant \\n\nFuji Mountain \\n\nBenna's Cafe",
+            " Pearl's Oyster Bar\nWater Works Restaurant & Lounge\nThe Milk House\nLacroix Restaurant at The Rittenhouse\nRistorante La Buca\nMacaroni's Restaurant\nAudrey Claire\nThe Juice Merchant\nIzumi\nZuzu's Kitchen\nCO-OP Restaurant & Lounge",
+            " Daleng Restaurant \nThe Juice Merchant \nFederal Donuts \nThe Tasty Toast \nLe Pain Quotidien \nFederal Donuts \nGrain Exchange \nA Tutti, Ristorante Italiano \nCanton 11 \nMiga Korean BBQ & Sushi",
+            "- Sang Kee Peking Duck House\n- CinCin Restaurant\n- Daleng Restaurant\n- Bistro SouthEast\n- Miga Korean BBQ & Sushi\n- Tu's Tea & Banh Mi South Philly\n- Gran Caffe L'Aquila\n- Dim Sum House\n- KC's Pastries\n- Lucky's Last Chance",
+            " Federal Donuts \nMiga Korean BBQ & Sushi \nVeda - Modern Indian Bistro \nFuji Mountain \nChow Shabu & Bar \nBistro SouthEast \nChez Abe Mill Hill \nOishii Pok\u00e9 \nGrain Exchange \nPearl's Oyster Bar",
+            "Fuji Mountain\nCanton 11\nThe El Bar\nTavern On the Hill\nPaddy's Old City Pub\nSang Kee Peking Duck House\nLucky's Last Chance\nFederal Donuts\nWawa\nGreen Leafs & Bananas",
+            " The Juice Merchant \\n\nThe Fresh Grocer - Progress Plaza \\n\nGreen Leafs & Bananas \\n\nWawa \\n\nThe Green Line Cafe \\n\nFederal Donuts \\n\nOlive Garden Italian Restaurant \\n\nWawa \\n\nTrolley Car Diner \\n\nLuhv Vegan Deli",
+            "Germantown Garden \nLavox Restaurant at The Rittenhouse \nFreddy's Beer & Wine Bar & Restaurant \nMaison 208 \nTavern On the Hill \nThe El Bar \nAldo Lamberti Trattoria \nRistorante Pesto \nAlla Spina \nCaffe Delfina",
+            "- Vedga\n- Monster Vegan \n- Benna's Cafe \n- Hey Hummus! \n- Luhv Vegan Deli \n- Blackbird Pizzeria\n- The QUICK FIXX \n- Green Leafs & Bananas \n- Pure Tacos \n- Misconduct Tavern",
+            "1. Bistro SouthEast\n2. The Cheesecake Factory\n3. Parc\n4. The El Bar\n5. Jacks Firehouse\n6. Lucky's Last Chance\n7. Oishii Pok\u00e9\n8. Mugshots Coffee and Coffeehouse\n9. Riva Cafe\n10. Sang Kee Peking Duck House"
+        ]
+    }
+}

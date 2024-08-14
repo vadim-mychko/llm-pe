@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled salmon seasoned with salt and pepper\nLow fat smoothies made with greek yogurt, and pineapple\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour\nClassic salad with creamy caesar dressing and croutons\n",
+            "----\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nShrimp, onions, and scallops soup\nPoke of tofu, mushroom and tomatoes\nTuna salad pasta\n----",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSalmon roasted with olive oil, chives, and tarragon leaves\nNorway cake with lingonberry and whipped cream layers\nMozzarella cheese sticks with marinara sauce\nSalmon fillets grilled in a pan with herbs and spices\nCheese with crackers\n''''",
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPoke of tofu, mushroom and tomatoes\nShrimp, onions, and scallops soup\nTrout\nFish pie",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nFish Soup (with cooked fish fillet)\nFried shrimp and scallops\nSpaghetti with mussels, anchovy fillets, and capers\nPork chops glazed with milk and cooked without nuts\nSimple creamy oyster soup\nSoup made with shrimp, onions, and scallops\nPoke of tofu, mushroom and tomatoes",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nFried shrimp and scallops\nPork chops glazed with milk and cooked without nuts\n Mozzarella cheese dip\nSoft gelatin-free lime and amaretto jelly",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n Grilled salmon seasoned with salt and pepper\n Salmon roasted with olive oil, chives, and tarragon leaves\n Salmon fillets grilled in a pan with herbs and spices\n Fried shrimp and scallops\n Spaghetti noodles with mussels, anchovy fillets, and capers\n Cheese and vegetable soup with a beer broth\n Baked mozzarella cheese sticks with marinara sauce\n Mozzarella dip recipe\n Meatballs made with ground beef and ground pork",
+            "Baked mozzarella cheese sticks with marinara sauce\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nMozzarella dip recipe\nGrilled salmon seasoned with salt and pepper\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nMeatballs made with ground beef and ground pork\nSalmon roasted with olive oil, chives, and tarragon leaves\nCheese with crackers\nBaked breakfast bars made with nuts and seeds\nSalmon fillets grilled in a pan with herbs and spices\n'''",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nGrilled salmon seasoned with salt and pepper\nFish soup\nBaked mozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCreamy base with dill flavoring, eggs, and noodles\nCheese and vegetable soup with a beer broth\nAssorted cheese soup with chicken",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Queso made from melted cheese and chili peppers\n8. Smoothies made from fruit juice and bananas\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Baked mozzarella cheese sticks with marinara sauce"
+        ]
+    }
+}

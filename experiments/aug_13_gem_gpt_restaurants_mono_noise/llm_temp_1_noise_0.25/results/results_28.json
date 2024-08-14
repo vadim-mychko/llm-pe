@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Does Italian cuisine sound interesting to you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in American food?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegan food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Japanese cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "Vedge \nDim Sum House \nParc \nTaste of Tuscany Italian Cuisine \nRistorante La Buca \nA Tutti, Ristorante Italiano \nSteve's Prince of Steaks \nDim Sum Garden \nThe QUICK FIXX \nCafe L'Aube",
+            "Pearl's Oyster Bar \nAudrey Claire \n Ristorante La Buca \nVedge \n The Green Line Cafe \nGreen Leafs & Bananas \nMcMenamin's Tavern \nBenna's Cafe \n Betty's Speakeasy \nBloomsday Cafe",
+            "Fuji Mountain\nSmokey's Tavern\nThe Blue Duck\nRaymond's Cafe\nThe QUICK FIXX\nCook and Shaker\nHan Dynasty\nKings Oak Kitchen+Bar\nThe Cheesecake Factory\nSage\nIzumi",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast",
+            "- Mood Indian Restaurant\n- Golden Triangle\n- Daleng Restaurant\n- Fuji Mountain\n- Sang Kee Peking Duck House\n- Baan Thai\n- Canton 11\n- Tu's Tea & Banh Mi South Philly\n- Dim Sum House\n- Ristorante La Buca",
+            "Zuzu's Kitchen \nDaleng Restaurant \nGermantown Garden \nPrimoHoagies \nThe Juice Merchant \nMong Kok Station \nA Tutti, Ristorante Italiano \nCanton 11 \nEssenes Market & Cafe \nMacaroni's Restaurant \nTamarind",
+            "- The QUICK FIXX \n- Fiore Fine Foods \n- Betty's Speakeasy \n- Spread Bagelry \n- Cafe L'Aube \n- Evan's Pizza \n- Parc \n- McMenamin's Tavern \n- Chestnut 7 \n- Vedge",
+            "1. Izumi\n2. Miga Korean BBQ & Sushi\n3. Oishii Pok\u00e9\n4. Fuji Mountain\n5. Tu's Tea & Banh Mi South Philly\n6. Canton 11\n7. Sang Kee Peking Duck House\n8. Dim Sum House\n9. Lucky's Last Chance\n10. Ristorante La Buca"
+        ]
+    }
+}

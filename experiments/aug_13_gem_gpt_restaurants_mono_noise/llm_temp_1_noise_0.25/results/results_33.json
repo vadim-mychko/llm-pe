@@ -1,0 +1,58 @@
+{
+    "33": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in food with options for vegan, gluten-free, and organic?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for food with kosher dining options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for any American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegetarian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would it be helpful to have recommendations that have a wide variety of menu options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically searching for American cuisine with vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want recommendations that include dessert options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for dining options that include both vegan and kosher items?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer Mediterranean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Vedge \nCook and Shaker \nMonster Vegan \nHey Hummus \nBloomsday Cafe \nNorth Bowl \nBenna's Cafe \nEssene Market & Caf\u00e9 \nThe Green Line Cafe \nPure Tacos",
+            "1. Vedge \n2. Benna's Cafe \n3. Monster Vegan \n4. North Bowl \n5. The Fresh Grocer - Progress Plaza \n6. Essene Market & Caf\u00e9 \n7. Hey Hummus \n8. Blackbird Pizzeria \n9. The QUICK FIXX \n10. Luhv Vegan Deli",
+            "1. Vedge \n2. Monster Vegan \n3. Hey Hummus \n4. Benna's Cafe \n5. Essene Market & Caf\u00e9 \n6. Blackbird Pizzeria \n7. Betty's Speakeasy \n8. Green Leafs & Bananas \n9. Wawa \n10. Mud City Cafe",
+            "1. Vedge \n2. Hey Hummus \n3. Blackbird Pizzeria \n4. Kosher CrossRoads \n5. Pure Tacos \n6. Federal Donuts \n7. Monster Vegan \n8. The QUICK FIXX \n9. Betty's Speakeasy \n10. Essene Market & Caf\u00e9",
+            "Vedge \nHummus Market & Caf\u00e9 \nBloomsday Cafe \nSabrina's Cafe \nThe Farm and Fisherman \nGreen Leaf & Bananas \nMyridian \nPure Tacos\nHoneygrow \nSabrina's Cafe",
+            "Blackbird Pizzeria \nVegan Monster \nHey Hummus \nVedge \nThe QUICK FIXX \nTu's Tea & Banh Mi South Philly \nEssene Market & Caf\u00e9 \nCook and Shaker \nGreen Leafs & Bananas \nCinCin Resturant",
+            "1. Vedge \\n\n2. Hey Hummus \\n\n3. Jake's & Cooper's Wine Bar & Wine Shop \\n\n4. Daleng Restaurant \\n\n5. Tu's Tea & Banh Mi South Philly \\n\n6. Essene Market & Caf\u00e9 \\n\n7. Fiore Fine Foods \\n\n8. The QUICK FIXX \\n\n9. Green Leafs & Bananas \\n\n10. Sister Muhammad's Kitchen\n",
+            "Vedge \nGreen Leafs & Bananas \nMonster Vegan \nHey Hummus \nFiore Fine Foods \nCastellino's \nThe Cheesecake Factory \nThe Juice Merchant \nSpread Bagelry \nBenna's Cafe",
+            "*********\n1. Vedge\n2. Monster Vegan \n3. Blackbird Pizzeria \n4. Hey Hummus \n5. Luhv Vegan Deli \n6. Betty's Speakeasy \n7. Fiore Fine Foods \n8. Gran Caffe L'Aquila \n9. Roy-Pitz Barrel House \n10. Malbec Argentine Steakhouse\n*********",
+            "1. Fiore Fine Foods \n2. PrimoHoagies \n3. The QUICK FIXX \n4. Castellino's \n5. CinCin Restaurant \n6. A Tutti, Ristorante Italiano \n7. Talluto's Authentic Italian Food \n8. Trattoria Stella \n9. Olive Garden Italian Restaurant \n10. Ristorante La Buca"
+        ]
+    }
+}

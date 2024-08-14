@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for places to get seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to Vietnamese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bakeries?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for fast food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a sandwich shop with more traditional options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for gourmet or specialty sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a regular sandwich place?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nThe Juice Merchant\nThe Tasty Toast\nHeritage\nKokopelli Restaurant & Tequila Bar\nGrain Exchange\nIzumi",
+            "Water Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGrain Exchange \nValley Green Inn \nTavern On the Hill \nPearl's Oyster Bar \nAudrey Claire \nRistorante La Buca \nThe Cheesecake Factory \nPearl's Oyster Bar",
+            " Maison 208\nThe Green Line Cafe\nRoy-Pitz Barrel House\nOishii Pok\u00e9\nCaf\u00e9 L'Aube\nChestnut 7\nBlue Duck\nMacaroni's Restaurant\nThe Fresh Grocer - Progress Plaza\nRed Robin Gourmet Burgers and Brews",
+            "* Zuzu's Kitchen\n* Golden Triangle\n* Water Works Restaurant & Lounge\n* Lacroix Restaurant at The Rittenhouse\n* Germantown Garden\n* PrimoHoagies\n* Daleng Restaurant\n* The Juice Merchant\n* Federal Donuts\n* Mong Kok Station\n* The Tasty Toast\n* Le Pain Quotidien\n* CinCin Restaurant\n* Heritage\n* Kokopelli Restaurant & Tequila Bar\n* Grain Exchange\n* Izumi\n* A Tutti, Ristorante Italiano\n* The Milk House\n* Valley Green Inn\n* Veda - Modern Indian Bistro\n* Talluto's Authentic Italian Food\n* Mugshots Coffeehouse\n* Fuji Mountain\n* Castellino's\n* Sang Kee Peking Duck House\n* The Grill  Smuckers\n* Bistro SouthEast\n* The Tavern Restaurant\n* Maison 208\n* Bloomsday Cafe\n* Olive Garden Italian Restaurant\n* CO-OP Restaurant & Lounge\n* Misconduct Tavern\n* Five Guys\n* Wawa\n* Baan Thai\n* Canton 11\n* Tavern On the Hill\n* Paddy's Old City Pub\n* Monster Vegan\n* North Bowl\n* Malbec Argentine Steakhouse\n* Benna's Cafe\n* Miga Korean BBQ & Sushi\n* The Fresh Grocer - Progress Plaza\n* The Continental Restaurant and Martini Bar\n* Vedge\n* Roy-Pitz Barrel House\n* Hey Hummus\n* Essene Market & Caf\u00e9\n* Jake's & Cooper's Wine Bar & Wine Shop\n* Pearl's Oyster Bar\n* Tu's Tea & Banh Mi South Philly\n* Macaroni's Restaurant\n* The Blue Duck\n* Mad River Manayunk\n* The El Bar\n* Libert\u00e9 Lounge\n* Federal Donuts\n* Wishbone\n* Aldine\n* Dim Sum House\n* Fiore Fine Foods\n* Cook and Shaker\n* Evan's Pizza\n* Blackbird Pizzeria\n* The QUICK FIXX\n* Lisa's Kitchen\n* Jack's Firehouse\n* Franklin's\n* JD Mcgillicuddy's Manayunk\n* Betty's Speakeasy\n* New York Gyro Truck\n* Ristorante La Buca\n* Steve's Prince of Steaks\n* Green Leafs & Bananas\n* Sister Muhammad's Kitchen\n* Trolley Car Diner\n* Luhv Vegan Deli\n* Founding Fathers Sports Bar & Grill\n* Chestnut 7\n* The Cheesecake Factory\n* Oishii Pok\u00e9\n* The Green Line Cafe\n* KC's Pastries\n* Spread Bagelry\n* Wawa\n* Audrey Claire\n* Oteri's Italian Bakery | North 5th St\n* Pure Tacos\n* Lucky's Last Chance\n* Parc\n* Love & Honey Fried Chicken\n* McMenamin's Tavern\n* Cafe L'Aube\n* CJ & Eck's\n* Rival Bros Coffee\n* Gran Caffe L'Aquila",
+            "1. Zuzu's Kitchen\n2. Golden Triangle\n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse\n5. Germantown Garden\n6. PrimoHoagies\n7. Daleng Restaurant\n8. The Juice Merchant\n9. Federal Donuts\n10. Mong Kok Station",
+            "- Misconduct Tavern\n- Lisa's Kitchen\n- The QUICK FIXX\n- PrimoHoagies\n- Steve's Prince of Steaks\n- Spread Bagelry\n- The Green Line Cafe\n- Green Leafs & Bananas\n- Love & Honey Fried Chicken\n- Subway\n",
+            "PrimoHoagies \nFive Guys \nRoy-Pitz Barrel House \nLisa's Kitchen\nWawa \nChickie's & Pete's \nLuhv Vegan Deli \nJason's Deli \nSpread Bagelry \nGreen Leafs & Bananas",
+            "Zuzu's Kitchen \\n\nFederal Donuts \\n\nThe Juice Merchant \\n\nLisa's Kitchen \\n\nThe Green Line Cafe \\n\nSpread Bagelry \\n\nGreen Leafs & Bananas \\n\nThe QUICK FIXX \\n\nBetty's Speakeasy \\n\nTu's Tea & Banh Mi South Philly",
+            " The Green Line Cafe \nGreen Leafs & Bananas \nMacaroni's Restaurant \nSpread Bagelry \nThe Blue Duck \nThe QUICK FIXX \\n \nWawa \\n\nPrimos Hoagies \\n\nThe Juice Merchant \\n\nThe Tasty Toast",
+            "1. The Blue Duck\n2. Banh Mi +, South Philadelphia\n3. Blackbird Pizzeria\n4. Green Leaf's and Banana's\n5. The QUICK FIXX\n6. Spread Bagel\n7. Subway\n8. The Green Line Cafe\n9. Jack's Fire House\n10. Roy-Pitz Barrel House"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "94": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Does sushi interest you?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you recommend chicken restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "How about American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Asian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want Korean food?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station \n The Tasty Toast",
+            " Zuzu's Kitchen\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nDaleng Restaurant\nThe Tasty Toast\nHeritage\nCinCin Restaurant\nMugshots Coffeehouse\nRoy-Pitz Barrel House\nCook and Shaker",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nFederal Donuts\nMong Kok Station\nFederal Donuts",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. Water Works Restaurant & Lounge \n4. Germantown Garden \n5. Daleng Restaurant \n6. PrimoHoagies \n7. Federal Donuts \n8. Valley Green Inn \n9. Tavern On the Hill \n10. Roy-Pitz Barrel House",
+            "1. The Cheesecake Factory\n2. Zuzu's Kitchen \n3. Pearl's Oyster Bar \n4. The Blue Duck \n5. Canton 11 \n6. Freshii \n7. Misconduct Tavern \n8. Love & Honey Fried Chicken\n9. Bloomsday Cafe \n10. Sabrina's Cafe \n11. Wishbone \n12. Gran Caffe L'Aquila \n13. Olive Garden Italian Restaurant \n14. Parc \n15. Trolley Car Diner \n16. Blackbird Pizzeria \n17. Mugshots Coffeehouse \n18. Le Pain Quotidien\n19. Sang Kee Peking Duck House \n20. A Tutti, Ristorante Italiano \n21. T&A Pizza \n22. The Continental Restaurant and Martini Bar \n23. Heritage \n24. Franklin's \n25. The Green Line Cafe \n26. JD Mcgillicuddy's Manayunk \n27. Green Leafs & Bananas \n28. Steve's Prince of Steaks \n29. Five Guys \n30. Chestnut 7 \n31. The Fresh Grocer - Progress Plaza \n32. Malbec Argentine Steakhouse \n33. Audrey Claire \n34. Jack's Firehouse \n35. Spread Bagelry \n36. Tavern On the Hill \n37. Valley Green Inn \n38. Oishii Pok\u00e9 \n39. Wawa \n40. Tavern on Camac\n41. Betty's Speakeasy \n42. The Tavern Restaurant \n43. Ristorante La Buca \n44. Macaroni's Restaurant \n45. Lisa's Kitchen \n46. Cane Rosso \n47. Fiore Fine Foods \n48. Germania\n49. CinCin Restaurant \n50. PrimoHoagies \n51. Castellino's \n52. Paddy's Old City Pub \n53. The Milk House \n54. Veda - Modern Indian Bistro \n55. Talluto's Authentic\n56. PJ Whelihan's Manayunk\n57. Izumi \n58. The El Bar \n59. Benna's Cafe \n60. Roy-Pitz Barrel House \n61. North Bowl \n62. The Grill  Smuckers \n63. Di Bruno Bros. \n64. KC's Pastries \n65. Jake's & Cooper's Wine Bar & Wine Shop \n66. The QUICK FIXX \n67. Vedge \n68. Federal Donuts \n69. The Juice Merchant \n70. Kokopelli Restaurant & Tequila Bar \n71. Founding Fathers Sports Bar & Grill \n72. Cafe L'Aube \n73. The Mad Mex \n74. The Green Room \n75. Dirty Franks \n76. Luhv Vegan Deli \n77. Golden Triangle \n78. Tu's Tea & Banh Mi South Philly \n79. Sweetgreen Society Hill \n80. Bistro SouthEast \n81. Mugshot Saloon \n82. Eat.Drink.Live \n83. Clementine's Cafe \n84. Daleng Restaurant \n85. Han Dynasty \n86. World Cafe Live \n87. Middle Eastern Grill \n88. Canton Chinese Restaurant & Cafe \n89. Cafe Nhan \n90. Atrium Cafe \n91. Grain Exchange \n92. Seoul Bistro \n93. Miga Korean BBQ & Sushi \n94. Hai Street Kitchen & Co \n95. Nhu Lan \n96. Wonton King \n97. Dim Sum House \n98. Noodle Khan \n99. La Colombe Rittenhouse \n100. Green Eggs Cafe \n101. Kalaya \n102. Apricot Cafe \n103. Seal Beach Coffee\n104. Lucky's Last Chance \n105. Fork \n106. The Dandelion \n107. Osteria \n108. Tampopo \n109. Oyj China \n110. Entree Filipino Cuisine \n111. Hook & Master \n112. Kung Fu Tea \n113. Con Murphy's Irish Pub \n114. Coco's Amazing Burgers and More \n115. Wonton Noodle Garden \n116. Flambo \n117. Whole Foods Market \n118. Sincerity \n119. Monsu \n120, Claudia \n121, Bing Bing Dumplings \n122. Kyoto Sushi \n123, Aroma Coffee \n124, Percy St. Barbecue \n125, San Sui Japanese Restaurant \n126, Fortune Garden Restaurant \n127, Talula's Garden \n128, Supra \n129, Brauhaus Schmitz \n130, Pizzeria Beddia\n131, Kaladi Brothers Coffee\n132, Distrito \n133, Talula's Daily \n134, Craft Hall \n135, High Street on Market \n136, Square 168\n137, Xing Fu Tang Downtown Philadelphia\n138, Thirsty Dice\n139, Genji \n140, Fork & Barrel \n141, Kensington Quarters\n142, Tria Cafe & Wine Bar \n143, El Olivo Pasta & Pizza \n144, Pizzeria da Monica \n145, Dottie's Donuts Borough Market \n146, The Alchemist \n147, Ela \n148, FUEL Pizza and BrewDayton \n149, Tired Hands Brewing Company Fermentaria \n150, Royal Sushi & Izakaya \n151, Acme \n152, Anna Maria \n153, South Bowl \n154, R&D \n155, Nomad Pizza \n156, Green Aisle Grocery \n157, River Wards \n158, Cry Baby Pasta \n159, Amada \n160, Athena Pizza \n161, Susser \n162, Stock \n163, Kajitsu \n164, Cafe Ynez \n165, Brickyard Farms \n166, Barcade \n167, Hai Sushi \n168, Bing Bing Dim Sum \n169, Spice 28 Indian Cuisine \n170, Poi Dog\n171, Kanella Greek Cuisine \n172, Malaysian St. Kitchen \n173, Dock Street Brewery\n174, Pizzeria Stella \n175, Taco Bell \n176, Zanzibar Blue \n177, The Coupe \n178, Nunu \n179, Mica \n180, El Vez \n181, Queen & Rook Game Cafe\n182, Joe's Steaks & Soda Shop \n183, Millcreek Tavern\n184, Izakaya By Yanaga \n185, Miso Sushi & Hibachi\n186, Blue Hill \n187, down home diner \n188, Fabrika \n189, Dominick's Pizza \n190, Shake Shack \n191, The Bagel Place North Wales \n192, Hunan Palace \n193, Max Brenner \n194, Little Ma's\n195, Agi's Elite Pizza \n196, Wendy's \n197, Brooklyn Bowl Philly \n198, Hunan \n199, Banh Mi Bar \n200, Cheu \n201, Shake Shack Signature\n202, Urban Saloon \n203, Bar Hygge \n204, Hibiscus Tea House \n205, Bistro Romano Center City \n206, John's Water Ice \n207, Leni Lenape Brewing Company \n208, Suburban Restaurant \n209, Hamming Ethical Spirits & Cocktails \n210, La Fontana della Citta \n211, Tavern on the Square Doylestown \n212, Supano's Steaks, Hoagies and Cheesesteaks \n213, Nicholas Pizza and Italian Restaurant \n214, Bru Craft & Wurst \n215, Parc Rittenhouse \n216, Y Cookery \n217, Ms. Tootsie's \n218, Famous 4th St. Delicatessen \n219, Hunan Garden \n220, Green Leaf Cafe Rittenhouse \n221, Sabrina's Cafe \n222, Oyster House \n223, Butter & Oak\n224,",
+            "Federal Donuts\nOlive Garden Italian Restaurant\nThe Cheesecake Factory\nLucky's Last Chance\nCinCin Restaurant\nOlive Garden Italian Restaurant\nFuji Mountain\nMiga Korean BBQ & Sushi\nFranklin's\nFederal Donuts",
+            "Pacific Rim Thai \\n\nYokohama Sushi 2 \\n\nCaffe Roma \\n\nKrazy Kats \\n\nDonaldson's Seafood \\n\nRedwood \\n\nDave & Busters \\n\nLas Vegas Nails & Spa \\n\nPearl Asian Kitchen \\n\nXuong's Cafe \\n",
+            "Daleng Restaurant\nMong Kok Station\nGolden Triangle\nBistro SouthEast\n canton 11\nTu's Tea & Banh Mi South Philly\nHan Dynasty\nMiga Korean BBQ & Sushi\nOishii Pok\u00e9\nGrain Exchange",
+            "Golden Triangle \\n\nDaleng Restaurant \\n\nCinCin Restaurant \\n\nBistro SouthEast \\n\nCanton 11 \\n\nMiga Korean BBQ & Sushi \\n\nNorth Bowl \\n\nOishii Pok\u00e9 \\n\nPure Tacos \\n\nOteri's Italian Bakery | North 5th St",
+            " Golden Triangle \\n\nDaleng Restaurant \\n\nZuzu's Kitchen \\n\nMiga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly \\n\nOishii Pok\u00e9 \\n\nGran Caffe L'Aquila \\n\nKC's Pastries"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that is worth watching?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about computers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about adventure?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that came out within the last 10 years?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Tomb Raider (2018) \n4. Laura (1944) \n5. Last Temptation of Christ, The (1988) \n6. Abraham Lincoln: Vampire Hunter (2012) \n7. Santa Sangre (1989) \n8. August Rush (2007) \n9. The Blair Witch Project (1999) \n10. Martyrs (2008)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. Terminator 3: Rise of the Machines (2003)\n6. A.I. Artificial Intelligence (2001)\n7. Real Genius (1985)\n8. Bruce Almighty (2003)\n9. Cronos (1993)\n10. Runaway Train (1985)\n'''",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. All Quiet on the Western Front (1930)\n4. Terminator 3: Rise of the Machines (2003)\n5. What's Up, Doc? (1972)\n6. Timeline (2003)\n7. The Big Lebowski (1998)\n8. American Graffiti (1973)\n9. Real Genius (1985)\n10. The Grapes of Wrath (1940)",
+            "1. Tomb Raider (2018)\n2. August Rush (2007)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. The Big Lebowski (1998)\n6. Dangerous Liaisons (1988)\n7. 50 First Dates (2004)\n8. Real Genius (1985)\n9. What's Up, Doc? (1972)\n10. American Graffiti (1973)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. Pirates of the Caribbean: At World's End (2007)\n5. August Rush (2007)\n6. Proposition, The (2005)\n7. Terms of Endearment (1983)\n8. All Quiet on the Western Front (1930)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Gremlins 2: The New Batch (1990)",
+            "1. Lost World: Jurassic Park, The (1997)\n2. Ant-Man (2015)\n3. Titan AE (2000)\n4. Timeline (2003)\n5. Ready Player One\n6. Big Red One, The (1980)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. Black Robe (1991)\n10. Eragon (2006)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. The Proposition (2005)\n4. Cach\u00e9 (2005)\n5. Bad Education (La mala educaci\u00f3n) (2004)\n6. Man from Earth, The (2007)\n7. Breach (2007)\n8. The Sure Thing (1985)\n9. Stranger than Fiction (2006)\n10. Real Genius (1985)",
+            "1. Runaway Train (1985)\n2. Mayday (A\u00e9roports) (1974)\n3. Big Red One, The (1980)\n4. Brewster's Millions (1985)\n5. The Sure Thing (1985)\n6. Von Ryan's Express (1965)\n7. What's Up, Doc? (1972)\n8. Real Genius (1985)\n9. Gremlins 2: The New Batch (1990)\n10. Darkman (1990)\n",
+            "1. National Lampoon's Vacation (1983)\n2. Indiana Jones and the Temple of Doom (1984)\n3. Runaway Train (1985)\n4. Big Trouble in Little China (1986)\n5. The King of Comedy (1982)\n6. Tron (1982)\n7. Fast Times at Ridgemont High (1982)\n8. Star Wars: Episode VI - Return of the Jedi (1983)\n9. E.T. the Extra-Terrestrial (1982)\n10. The Thing (1982)",
+            "1. Airplane! (1980) \n2. Big Trouble in Little China (1986) \n3. The Goonies (1985) \n4. Indiana Jones and the Raiders of the Lost Ark (1981) \n5. Labyrinth (1986) \n6. Poltergeist (1982) \n7. The Princess Bride (1987) \n8. The Thing (1982) \n9. Tron (1982) \n10. Who Framed Roger Rabbit (1988)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "59": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for some humor?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like movies with lots of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a love story?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer to watch a movie that is slow paced?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a foreign movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in watching an animated comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in watching \"Enter the Void\", a psychedelic foreign movie set in the present day?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about space exploration?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a non-animated Japanese movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Naked Gun: From the Files of Police Squad!, The (1988)\n4. Last Action Hero (1993)\n5. Man from Earth, The (2007)\n6. UHF (1989)\n7. We Bought a Zoo (2011)\n8. Big Red One, The (1980)\n9. The Big Lebowski (1998)\n10. Brewster's Millions (1985)",
+            "1. American Graffiti (1973)\n2. Stranger than Fiction (2006)\n3. Dead Poets Society (1989)\n4. The Princess Bride (1987)\n5. The Grand Budapest Hotel (2014)\n6. Shaun of the Dead (2004)\n7. The Life Aquatic with Steve Zissou (2004)\n8. Ferris Bueller's Day Off (1986)\n9. Airplane! (1980)\n10. Monty Python and the Holy Grail (1975)",
+            "1. Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. What's Up, Doc? (1972)\n4. Airplane! (1980)\n5. Real Genius (1985)\n6. Intolerable Cruelty (2003)\n7. Stranger than Fiction (2006)\n8. The Pink Panther (1963)\n9. The Big Sick (2017)\n10. Booksmart (2019)",
+            "1. Naked Gun: From the Files of Police Squad!, The (1988) \n2. Big Lebowski, The (1998) \n3. What's Up, Doc? (1972) \n4. Real Genius (1985) \n5. Intolerable Cruelty (2003)\n6. Brewster's Millions (1985) \n7. American Graffiti (1973) \n8. Tenacious D in The Pick of Destiny (2006) \n9. Meet John Doe (1941) \n10. Darkman (1990)\n",
+            "1. American Graffiti (1973) \n2. Real Genius (1985) \n3. Big Lebowski, The (1998) \n4. Rush Hour (1998) \n5. Stranger than Fiction (2006) \n6. Nightcrawler (2014) \n7. Into the Void (2009) \n8. Control (2007) \n9. Ready Player One \n10. Trapped (2002)",
+            "1. Chungking Express (Chung Hing sam lam) (1994) \n2. Delicatessen (1991) \n3. Europa (Zentropa) (1991) \n4. Cronos (1993) \n5. Jane Eyre (1996) \n6. The Land Before Time (1988) \\\n7. Love Me If You Dare (Jeux d'enfants) (2003)\n8. Von Ryan's Express (1965) \\\n9. Black Robe (1991) \n10. Tokyo-ga (Tokyo Story) (1953)",
+            "1. Europa (Zentropa) (1991)\n2. Delicatessen (1991)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Lost in Translation (2003)\n5. Love Me If You Dare (Jeux d'enfants) (2003)\n6. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n7. Black Robe (1991)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. The Secret of Kells (2009)\n10. Enter the Void (2009)",
+            "1. Lost in Translation (2003) \n2. Enter the Void (2009) \n3. Delicatessen (1991) \n4. Cronos (1993) \n5. Jane Eyre (1996) \n6. Rosetta (1999) \n7. Am\u00e9lie (2001) \n8. Dancer in the Dark (2000) \n9. Cach\u00e9 (Hidden) (2005)\n10. The Lives of Others (Das Leben der Anderen) (2006)\n",
+            "1. Lost in Translation (2003)\n2. Enter the Void (2009)\n3. Delicatessen (1991)\n4. Black Robe (1991)\n5. Cronos (1993)\n6. The Corporation (2003)\n7. Europa (Zentropa) (1991)\n8. Chungking Express (Chung Hing sam lam) (1994)\n9. Punch-Drunk Love (2002)\n10. The Emperor's New Groove (2000)",
+            "1. Lost in Translation (2003)\n2. Delicatessen (1991)\n3. Cronos (1993)\n4. Black Robe (1991)\n5. Umberto D. (1952)\n6. The Grapes of Wrath (1940)\n7. Real Genius (1985)\n8. Brewster's Millions (1985)\n9. American Graffiti (1973)\n10. The Big Lebowski (1998)"
+        ]
+    }
+}

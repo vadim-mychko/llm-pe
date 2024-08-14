@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Do you like oatmeal?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like the taste of pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like the taste of chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet or savory foods?",
+                "response": "sweet"
+            },
+            {
+                "query": "Do you like the taste of beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like the taste of vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like the taste of potatoes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Baked oatmeal pie made with sausage (pork) and apples\nCreamy oatmeal with nuts and seeds\nSlow-cooker pumpkin oatmeal\nApple pie with oatmeal crumble topping\nBlueberry and oatmeal jam\nOvernight oats\nOatmeal cookies\nYogurt with berries, oatmeal, and flaxseed\nOatmeal and raisin breakfast bar\nOatmeal pancakes\nHomemade strawberry oatmeal with bananas\nBaked sweet potato fries with oatmeal crust\nChicken dinner with oats and roasted vegetables\n\n",
+            "Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n2-ingredient yogurt from scratch\nSoup made with cabbage, carrots, potatoes, and onions\nHomemade soup with chicken, noodles, and spices\nCreamy base with dill flavoring, eggs, and noodles\nLow-fat coconut alcohol-free cocktail\nStir-fried tofu, noodles and vegetables Bento\nLow fat diced baked or fried potatoes\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\n'''",
+            "1. Oatmeal\n2. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n3. Baked breakfast bars made with nuts and seeds\n4. Low fat assorted fruit dessert\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Chicken cooked and flavored with lemon sauce\n7. 2-ingredient yogurt from scratch\n8. Digesting-friendly waffles\n9. Classic salad with creamy caesar dressing and croutons\n10. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned",
+            "Oatmeal soup with ground turkey that is low fat, high carb\nBaked breakfast bars made with nuts and seeds\nAssorted cheese soup with chicken\nVery low-fat assortment of shredded vegetables with seasoning\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow sugar applesauce cupcakes\nOatmeal with banana puree with milk\nHomemade soup with chicken, noodles, and spices\n",
+            "1. Simple creamy oyster soup\n2. Fried shrimp and scallops\n3. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Tuna salad that has celery lining with diced pickles\n6. Soup made with shrimp, onions, and scallops\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Salmon fillets grilled in a pan with herbs and spices",
+            "1. Shrimp and scallops\n2. Fried shrimp and scallops\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Simple creamy oyster soup\n8. Seafood avocado toast\n9. Seafood soup with shrimp and crab\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. Meatballs made with ground beef and ground pork\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Salmon roasted with olive oil, chives, and tarragon leaves\n7. Shrimp cooked over medium low heat in melted butter and garlic\n8. Fried shrimp and scallops\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Creamy base with dill flavoring, eggs, and noodles",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nSpaghetti noodles with mussels, anchovy fillets, and capers\nVegetable curry flavoured with curry powder and ground tumeric\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSeafood soup with a tomato broth base\nHomemade soup with chicken, noodles, and spices\nSoup made with shrimp, onions, and scallops\nFried shrimp and scallops\n''''",
+            "1. Shrimp, onions, and scallops soup\n2. Fried shrimp and scallops\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Simple creamy oyster soup\n6. Peach cobbler dessert containing whole wheat flour\n7. Grilled salmon seasoned with salt and pepper\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Mildly spicy chili recipe\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "1. Shrimp and scallops soup\n2. Creamy base with dill flavoring, eggs, and noodles - (contains eggs)\n3. Creamy oyster soup\n4. Fried shrimp and scallops\n5. Simple creamy oyster soup\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Spaghetti noodles with mussels, anchovy fillets, and capers\n10. Seafood hot pot\n''''"
+        ]
+    }
+}

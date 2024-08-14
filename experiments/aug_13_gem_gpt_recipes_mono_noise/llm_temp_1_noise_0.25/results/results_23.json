@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Do you like salmon?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer pork or beef?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer Chinese to Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "What cuisines do you like besides beef?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mozarella?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegan cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Pork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSpanish rice with chicken breast\nHomemade soup with chicken, noodles, and spices\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nPork chops glazed with milk and cooked without nuts\n****\nShredded barbecued pork shoulder\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMeatballs made with ground beef and ground pork\n****\nBeef stew made with beef, carrots and potatoes\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n3. Pork chops glazed with milk and cooked without nuts\n4. Low fat diced baked or fried potatoes\n5. Grilled salmon seasoned with salt and pepper\n6. Beef stew made with beef, carrots and potatoes\n7. Salmon roasted with olive oil, chives, and tarragon leaves\n8. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n9. Shredded barbecued pork shoulder\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nShredded barbecued pork shoulder\n****\nChopped French duck confit preserved by duck oil\n****\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nLow fat diced baked or fried potatoes\n****\nMeatballs made with ground beef and ground pork\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nBeef stew made with beef, carrots and potatoes\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****",
+            "Pork chops glazed with milk and cooked without nuts\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nShredded barbecued pork shoulder\nPeppermint chocolate bonbon\nSpicy chili recipe\nFried shrimp and scallops\nBacon\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nBerry cobbler that uses frozen mixed berries\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese",
+            " Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n****\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nBaked breakfast bars made with nuts and seeds\n****\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n****\nPeppermint chocolate bonbon\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n****\nSweet salad made with corn and three types of beans\n****",
+            " ****\n Poke of tofu, mushroom and tomatoes\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n****\n Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile\n****\n Spanish rice with chicken breast\n****\n Shredded barbecued pork shoulder\n****\n Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n****\n Garlic bread with cheddar, green onions, and mayonnaise\n****\n Meatballs made with ground beef and ground pork\n****",
+            "1. Pork chops glazed with milk and cooked without nuts\n2. Sweet salad made with corn and three types of beans\n3. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Korean soup containing beef brisket and flavoured with red pepper powder\n7. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n8. Cheese with crackers\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail\n",
+            "1. High protein skillet with rice and vegetables\n2. Chicken breasts stuffed with bacon and mozzarella\n3. Beef stew made with beef, carrots and potatoes\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n6. Baked breakfast bars made with nuts and seeds\n7. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n8. South African vegetable curry flavoured with curry powder and ground tumeric\n9. Chicken cooked and flavored with lemon sauce\n10. Roast chicken with plum sauce\n",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Italian salad made from romain lettuce, artichokes, and tomatoes\n5. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n6. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n7. Diggestion-friendly waffles\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Meatballs made with ground beef and ground pork"
+        ]
+    }
+}

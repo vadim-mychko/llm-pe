@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like grilled foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian meals?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like soups and salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like salty desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit desserts?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Queso made from melted cheese and chili peppers\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers \\n\nSalmon roasted with olive oil, chives, and tarragon leaves \\n\nNorway cake with lingonberry and whipped cream layers \\n\nFried shrimp and scallops \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nPeppermint chocolate bonbon \\n\nTaiwanese deep fried crispy chicken cutlets \\n\nRoasted almonds \\n\nKorean soup containing beef brisket and flavoured with red pepper powder \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            " 2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nLow sugar applesauce cupcakes\nSoup made with ground turkey that is low fat, high carb\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nAssorted cheese soup with chicken\nBaked breakfast bars made with nuts and seeds\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes",
+            " High protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nVery low-fat assortment of shredded vegetables with seasoning\nVegetable curry flavoured with curry powder and ground tumeric\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nBaked breakfast bars made with nuts and seeds\nSpaghetti made with year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon, cheddar cheese, parmesan, and tomatoes\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nRoasted tofu, mushroom and tomatoes\nRoasted almonds\nHot pot that is not spicy\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nEggless sauerkraut cake\nBanana bread made with whole wheat flour and walnuts\nMozzarella dip recipe",
+            "Sure, do you mind summarizing what you are asking me to do?",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Poke of tofu, mushroom and tomatoes\n4. Low fat breakfast pie made with sausage (pork) and apples\n5. Queso made from melted cheese and chili peppers\n6. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n7. Low fat sweet potato fries made with cajun seasoning\n8. Low fat assorted fruit dessert\n9. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n10. Stir-fried tofu, noodles and vegetables Bento",
+            "6. Poke of tofu, mushroom and tomatoes\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. High protein skillet with rice and vegetables\n10. South African vegetable curry flavoured with curry powder and ground tumeric",
+            "1. Low sugar applesauce cupcakes\n2. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n3. Sugar-free peanut butter cookies\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n6. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. Peach cobbler dessert containing whole wheat flour\n9. Berry cobbler that uses frozen mixed berries\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n11. Sugar-free peanut butter cookies",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\nLow sugar applesauce cupcakes\\n\nLow fat baked breakfast pie made with sausage (pork) and apples\\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\\n\nNorway cake with lingonberry and whipped cream layers\\n\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\\n\nPeach cobbler dessert containing whole wheat flour\\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\\n\nPeppermint chocolate bonbon\\n\nLow fat coconut alcohol-free cocktail",
+            "Low sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked fruit dessert\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nVery low-fat assortment of shredded vegetables with seasoning\nSugar-free peanut butter cookies\nAssorted cheese soup with chicken\nHomemade soup with chicken, noodles, and spices\nLow fat diced baked or fried potatoes\n'''"
+        ]
+    }
+}

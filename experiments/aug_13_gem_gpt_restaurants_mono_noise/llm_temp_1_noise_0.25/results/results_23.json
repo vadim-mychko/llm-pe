@@ -1,0 +1,58 @@
+{
+    "23": {
+        "conv_hist": [
+            {
+                "query": "Do you enjoy Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Is ethnic food something you'd be interested in?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer food that is American style?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in Chinese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dim sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ethnic food that is Mexican?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Korean BBQ?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nGermantown Garden \nLacroix Restaurant at The Rittenhouse \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            " Daleng Restaurant\n Sang Kee Peking Duck House \\n\nCanton 11 \\n\nGolden Triangle \\n\n Pure Tacos \\n\n Oishii Pok\u00e9 \\n\n KC's Pastries \\n\n Dim Sum House \\n\n New York Gyro Truck \\n\n Oteri's Italian Bakery | North 5th St",
+            "Dim Sum House \nBaan Thai \nSang Kee Peking Duck House \nCanton 11 \nKC's Pastries \nPure Tacos \nNew York Gyro Truck \nOishii Pok\u00e9 \nTu's Tea & Banh Mi South Philly \nMiga Korean BBQ & Sushi",
+            "Daleng Restaurant \\n\nThe Juice Merchant \\n\nGrain Exchange \\n\nIzumi \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nBetty's Speakeasy \\n\nRistorante La Buca \\n\nGreen Leafs & Bananas \\n\nPure Tacos",
+            " Canton 11 \\n\nDim Sum House \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nMong Kok Station \\n\nTu's Tea & Banh Mi South Philly \\n\nKC's Pastries \\n\nMiga Korean BBQ & Sushi \\n\nXiang Dynasty Bistro",
+            "Mong Kok Station \n dim Sum House \n Sang Kee Peking Duck House \nCanton 11 \n Golden Triangle \n Daleng Restaurant \n Baan Thai \n Izumi \n Bistro SouthEast \n Miga Korean BBQ & Sushi",
+            "Daleng Restaurant \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nDim Sum House \\n\nChinatown Kitchen \\n\nE Mei Restaurant \\n\nYun Nan Flavour Garden \\n\nKC's Pastries \\n\nPeter's Place - Chinatown \\n\nPearl River Restaurant",
+            "Canton 11 \n Sang Kee Peking Duck House \n Dim Sum House \n KC's Pastries \n Daleng Restaurant \n Oishii Pok\u00e9 \n Pearl's Oyster Bar \n Bistro SouthEast \n Miga Korean BBQ & Sushi \n Golden Triangle",
+            "1. Daleng Restaurant \n2. Mong Kok Station \n3. Sang Kee Peking Duck House \n4. Canton 11 \n5. Tu's Tea & Banh Mi South Philly \n6. Miga Korean BBQ & Sushi \n7. KC's Pastries \n8. Pearl's Oyster Bar \n9. Dim Sum House \n10. Baan Thai",
+            "1. KC's Pastries \\n\n2. Sang Kee Peking Duck House \\n\n3. Carton 11 \\n\n4. Dim Sum House \\n\n5. Oteri's Italian Bakery | North 5th St \\n\n6. Green Leafs & Bananas \\n\n7. The QUICK FIXX \\n\n8. Chung Wow City \\n\n9. The Fresh Grocer - Progress Plaza \\n\n10. Essene Market & Caf\u00e9"
+        ]
+    }
+}

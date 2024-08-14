@@ -1,0 +1,58 @@
+{
+    "34": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in ordering takeout from or getting delivery of your food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in ordering pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for restaurants that serve burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that also has a sports bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a restaurant that also has a full bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking to get delivery from a restaurant that serves salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in ordering burgers from a restaurant that delivers them and also has a full bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sports bar that serves burgers and has a full bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen\n2. Golden Triangle \n3. Water Works Restaurant & Lounge\n4. Lacroix Restaurant at The Rittenhouse \n5. Germantown Garden\n6. PrimoHoagies \n7. Daleng Restaurant \n8. The Juice Merchant \n9. Mong Kok Station \n10. The Tasty Toast ",
+            "Jack's Firehouse \nMisconduct Tavern \nMad River Manayunk \nGrain Exchange \nThe Tavern Restaurant \nThe El Bar \nWishbone \nRoy-Pitz Barrel House \nPaddy's Old City Pub \nFranklin's",
+            "Dim Sum House \\n\nCanton 11 \\n\nGrain Exchange \\n\nMacaroni's Restaurant \\n\nMcMenamin's Tavern \\n\nFountain Porter \\n\nTired Hands Fermentaria \\n\nRistorante La Buca \\n\nPearl's Oyster Bar \\n\nMalbec Argentine Steakhouse",
+            "Federal Donuts \nZuzu's Kitchen \nGrain Exchange \nRiver Horse Bar & Grill \nThe QUICK FIXX \nRoy-Pitz Barrel House \nCook and Shaker \nThe Continental Restaurant and Martini Bar \nJohnny Brenda's \nThe Cambridge\n",
+            " The Tavern Restaurant \\n\nMacaroni's Restaurant \\n\nWishbone \\n\nFive Guys \\n\nLisa's Kitchen \\n\nFranklin's \\n\nMisconduct Tavern \\n\nChestnut 7 \\n\nJack's Firehouse \\n\nLucky's Last Chance",
+            "Franklin's \\n\nMacaroni's Restaurant \\n\nWishbone \\n\nMcMenamin's Tavern \\n\nMad River Manayunk \\n\nJD Mcgillicuddy's Manayunk \\n\nTrolley Car Diner \\n\nSteve's Prince of Steaks \\n\nLuvh Vegan Deli \\n\nJack's Firehouse \\n",
+            "1. Mad River Manayunk\n2. Franklin's\n3. Misconduct Tavern \n4. JD Mcgillicuddy's Manayunk\n5. Founding Fathers Sports Bar & Grill \n6. CJ & Eck's\n7. Lucky's Last Chance\n8. Tavern On the Hill\n9. Paddy's Old City Pub\n10. Jack's Firehouse",
+            "McMenamin's Tavern \nCJ & Eck's \nFounding Fathers Sports Bar & Grill \nFranklin's \nWishbone \nJack's Firehouse \nJD Mcgillicuddy's Manayunk \nThe El Bar \nPaddy's Old City Pub \nMad River Manayunk",
+            "Five Guys \\n\nMisconduct Tavern \\n\nWishbone \\n\nPaddy's Old City Pub \\n\nMad River Manayunk \\n\nFranklin's \\n\nFounding Fathers Sports Bar & Grill \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe Blue Duck \\n\nJack's Firehouse",
+            "1. Paddy's Old City Pub \n2. McMenamin's Tavern \n3. Mad River Manayunk \n4. Franklin's \n5. JD Mcgillicuddy's Manayunk \n6. The Green Line Cafe \n7. Lucky's Last Chance \n8. Founding Fathers Sports Bar & Grill \n9. The Tavern Restaurant \n10. Misconduct Tavern \n"
+        ]
+    }
+}

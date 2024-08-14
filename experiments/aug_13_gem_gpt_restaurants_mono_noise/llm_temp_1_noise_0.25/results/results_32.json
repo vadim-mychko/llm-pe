@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Have you looked at any pizza places yet?",
+                "response": "yes"
+            },
+            {
+                "query": "What about Asian-inspired dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for American-cuisine restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches and bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer sandwiches or bagels?",
+                "response": "sandwiches"
+            },
+            {
+                "query": "What type of sandwiches are you looking for?",
+                "response": "yes"
+            },
+            {
+                "query": "Have you considered vegetarian sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that offer Italian-style sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Does Italian hoagies sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegan sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Daleng Restaurant \n A Tutti, Ristorante Italiano \n Talluto's Authentic Italian Food \n Roy-Pitz Barrel House \n Tu's Tea & Banh Mi South Philly \n Fiore Fine Foods \n Blackbird Pizzeria \n Evan's Pizza",
+            "Zuzu's Kitchen \\n\nGolden Triangle \\n\nDaleng Restaurant \\n\nLacroix Restaurant at The Rittenhouse \\n\nLe Pain Quotidien \\n\nA Tutti, Ristorante Italiano \\n\nFuji Mountain \\n\nIzumi \\n\nCanton 11 \\n\nTu's Tea & Banh Mi South Philly",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \nGermantown Garden \nGran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nChestnut 7 \nPizza\n",
+            "1. The Green Line Cafe \n2. Spread Bagelry \n3. Trolley Car Diner \n4. Steve's Prince of Steaks \n5. Luhv Vegan Deli \n6. Lisa's Kitchen \n7. PrimoHoagies \n8. The QUICK FIXX \n9. Blackbird Pizzeria \n10. Evan's Pizza",
+            " Zuzu's Kitchen\n PrimoHoagies\n The Juice Merchant\n Golden Triangle\n Daleng Restaurant\n BistriSouthEast\n The Tasty Toast\n Fiore Fine Foods\n The QUICK FIXX\n Luhv Vegan Deli",
+            "1. PrimoHoagies \n2. The Juice Merchant \n3. Federal Donuts \n4. The Tasty Toast \n5. Le Pain Quotidien \n6. CinCin Restaurant \n7. Federal Donuts \n8. The Milk House \n9. Mugshots Coffeehouse \n10. Monster Vegan",
+            "The QUICK FIXX \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry \nLuvh Vegan Deli \nVedge \nHey Hummus \nMonster Vegan \nPearl's Oyster Bar \nSam's Place",
+            "The QUICK FIXX \nZuzu's Kitchen \nMonster Vegan \nFiore Fine Foods \nPrimoHoagies \nA Tutti, Ristorante Italiano \nTalluto's Authentic Italian Food \nGreen Leafs & Bananas \nThe Green Line Cafe \nSpread Bagelry",
+            "PrimoHoagies \nThe QUICK FIXX \nLisa's Kitchen \nThe Green Line Cafe \nSpread Bagelry \nLuhv Vegan Deli \nGreen Leafs & Bananas \nJack\u2019s Firehouse \nRoy-Pitz Barrel House \nTrolley Car Diner",
+            "PrimoHoagies\nDaleng Restaurant\nChin Chin Restaurant\nCanton 11\nTrolley Car Diner\nLuvh Vegan Deli\nThe QUICK FIXX\nBlackbird Pizzeria\nBetty's Speakeasy\nThe Green Line Cafe"
+        ]
+    }
+}

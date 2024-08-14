@@ -1,0 +1,58 @@
+{
+    "0": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in ordering donuts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a French restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like going to coffee shops?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a Chinese restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place for sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in American food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do burgers sound appealing?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like steak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Juice Merchant \n2. Wawa \n3. Fuji Mountain \n4. Jack's Firehouse \n5. Franklin's \n6. Oishii Pok\u00e9 \n7. Rival Bros Coffee \n8. Betty's Speakeasy \n9. Spread Bagelry \n10. Parc",
+            " Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nDaleng Restaurant\nZuzu's Kitchen\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Daleng Restaurant \nThe Juice Merchant \nZuzu's Kitchen \nThe Tasty Toast \nLe Pain Quotidien \nIzumi \nA Tutti, Ristorante Italiano \nGran Caffe L'Aquila \nCafe L'Aube \nRival Bros Coffee\n****",
+            "Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Tasty Toast \n Le Pain Quotidien \n CinCin Restaurant",
+            "1. Federal Donuts\n2. Franklin's\n3. Chestnut 7\n4. Green Leafs & Bananas\n5. The Cheesecake Factory\n6. Trolley Car Diner\n7. Spread Bagelry\n8. Wawa\n9. Parc\n10. Betty's Speakeasy",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n The Tasty Toast \n Le Pain Quotidien \n CinCin Restaurant \n Heritage \n Kokopelli Restaurant & Tequila Bar",
+            "The Continental Restaurant and Martini Bar \\n\nFounding Fathers Sports Bar & Grill \\n\nFranklin's \\n\nRoy-Pitz Barrel House \\n\nThe Grill  Smuckers \\n\nGrain Exchange \\n\nFederal Donuts \\n\nWishbone \\n\nBlackbird Pizzeria \\n\nThe Blue Duck",
+            "The Blue Duck \nFranklin's \nLisa's Kitchen \nChestnut 7 \nThe Cheesecake Factory \nGreen Leafs & Bananas \nSpead Bagelry \nLove & Honey Fried Chicken \nMcMenamin's Tavern \nCJ & Eck's",
+            "The Blue Duck \nJack's Firehouse \nFranklin's \nBetty's Speakeasy \nSteve's Prince of Steaks \nGreen Leafs & Bananas \nThe Cheesecake Factory \nAudrey Claire \nLove & Honey Fried Chicken \nMcMenamin's Tavern",
+            "The Tavern Restaurant \nMisconduct Tavern \nFounding Fathers Sports Bar & Grill \nJack's Firehouse \nFranklin's \nChestnut 7 \nJD Mcgillicuddy's Manayunk \nLucky's Last Chance \nMad River Manayunk \nPaddy's Old City Pub"
+        ]
+    }
+}

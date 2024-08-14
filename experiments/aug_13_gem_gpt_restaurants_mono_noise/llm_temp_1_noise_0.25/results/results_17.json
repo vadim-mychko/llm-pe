@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for American cuisine at the moment?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like places that serve pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Have you considered trying some hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you thinking about ordering some Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to go to a place that serves burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you thinking about having chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for some pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want Indian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Blue Duck \nThe Tasty Toast \nGrain Exchange \nThe Milk House \nThe Grill  Smuckers \nCO-OP Restaurant & Lounge \nMisconduct Tavern \nFive Guys \nPaddy's Old City Pub \nFounding Fathers Sports Bar & Grill",
+            "The Blue Duck \nZuzu's Kitchen \nThe Milk House \nThe QUICK FIXX \nDaleng Restaurant \nLisa's Kitchen \nTrolley Car Diner \nWawa \nBlackbird Pizzeria \nChestnut 7",
+            "The Grill  Smuckers\nThe Tavern Restaurant \nMonster Vegan \nJack's Firehouse\nJake's & Cooper's Wine Bar & Wine Shop\nBloomsday Cafe\nBetty's Speakeasy\nBierstube\nBlackbird Pizzeria\nAudrey Claire",
+            "La Croix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nPrimoHoagies \nPasta Pomodoro \nDaleng Restaurant \nOlive Garden Italian Restaurant \nCinCin Restaurant \nTosc \nSouth 9th Street Italian BYOB \nLuigi's Italian Restaurant",
+            "Macaroni's Restaurant \nZazu's Kitchen \nRistorante La Buca \nTalluto's Authentic Italian Food \nA Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant \nPearl's Oyster Bar \nAudrey Claire \nLuisa's Mexican Restaurant \nCaffe Viola",
+            "1. PrimoHoagies\n2. A Tutti, Ristorante Italiano\n3. Castellino's\n4. Macaroni's Restaurant\n5. The Green Line Cafe\n6. Vuva\n7. The QUICK FIXX\n8. Fiore Fine Foods\n9. Spread Bagelry\n10. Betty's Speakeasy\n",
+            "1. LaCroix Restaurant at The Rittenhouse \\n\n2. A Tutti, Ristorante Italiano \\n\n3. Talluto's Authentic Italian Food \\n\n4. Castellino's \\n\n5. Olive Garden Italian Restaurant \\n\n6. Macaroni's Restaurant \\n\n7. Fiore Fine Foods \\n\n8. Ristorante La Buca \\n\n9. Chestnut 7 \\n\n10. Oteri's Italian Bakery | North 5th St \n''''",
+            "1. LaCroix Restaurant at The Rittenhouse  \n2. A Tutti, Ristorante Italiano  \n3. Pearl's Oyster Bar  \n4. Olive Garden Italian Restaurant  \n5. Castellino's  \n6. Fiore Fine Foods  \n7. Macaroni's Restaurant  \n8. Ristorante La Buca  \n9. Oteri's Italian Bakery | North 5th St  \n10. Audrey Claire",
+            " Water Works Restaurant & Lounge \nLocal Tavern\nOlive Garden Italian Restaurant\nMacaroni's Restaurant\nDaleng Restaurant\nLacroix Restaurant at The Rittenhouse\nTalluto's Authentic Italian Food\nA Tutti, Ristorante Italiano\nPrimoHoagies\nMiga Korean BBQ & Sushi",
+            "A Tutti, Ristorante Italiano \n\n\nPrimoHoagies \n\n\nCastellino's \n\n\nGran Caffe L'Aquila \n\n\nChestnut 7 \n\n\nBocca Coffee Bar \n\n\nItalian Bistro & Clam Bar \n\n\nMacaroni's Restaurant \n\n\nOlive Garden Italian Restaurant \n\n\nParc "
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like citric flavours?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetarian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer grilled dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fried dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are spicy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like dishes that are easy to cut and eat?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Pork chops glazed with milk and cooked without nuts\nShredded barbecued pork shoulder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nDog food made from pork, green beans, cheddar cheese and brown rice\nPoland sausage with fermented cabbage\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nMeatballs made with ground beef and ground pork",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nClassic salad with creamy caesar dressing and croutons\nSweet salad made with corn and three types of beans\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\nMildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n''''",
+            " South African vegetable curry flavoured with curry powder and ground tumeric\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nItalian salad made from romain lettuce, artichokes, and tomatoes\nClassic salad with creamy caesar dressing and croutons\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSweet salad made with corn and three types of beans\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nAssorted cheese soup with chicken\nMildly spicy chili recipe\nCheese and vegetable soup with a beer broth\n''''",
+            " Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nClassic salad with creamy caesar dressing and croutons\nSweet salad made with corn and three types of beans\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nMildly spicy chili recipe\nPork chops glazed with milk and cooked without nuts\nGrilled salmon seasoned with salt and pepper\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n'''",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. South African vegetable curry flavoured with curry powder and ground tumeric\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Salad with creamy caesar dressing and croutons\n6. Sweet salad made with corn and three types of beans\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. North African vegetable soup\n9. Chow mein noodles with a variety of vegetables\n10. High protein Romanesco and cauliflower blend",
+            "1. Vegetable salad with lima beans, kidney beans, and corn\n2. Creamy shrimp and scallop soup\n3. Spinach quiche with bacon\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Shredded barbecued pork shoulder\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Sweet salad made with corn and three types of beans\n8. Low carb simple creamy oyster soup\n9. Cheesy fries with gravy and bacon\n10. Assorted cheese soup with chicken",
+            "1. Caeser salad with cooked chicken, tomatoes, and croutons\n2. Fried shrimp and scallops\n3. Classic salad with creamy caesar dressing and croutons\n4. Large portion fries with gravy and bacon\n5. Low fat assorted fruit dessert\n6. Assorted cheese soup with chicken\n7. Italian salad made from romain lettuce, artichokes, and tomatoes\n8. Soup made with ground turkey that is low fat, high carb\n9. Sweet salad made with corn and three types of beans\n10. Baked cheese sticks with marinara sauce\n'''",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Low fat diced baked or fried potatoes\n3. Low sugar applesauce cupcakes\n4. Low fat assorted fruit dessert\n5. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n6. Sweet salad made with corn and three types of beans\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Kale, carrot, and citrus salad\n9. Classic salad with creamy caesar dressing and croutons\n10.Creamy base with dill flavoring, eggs, and noodles",
+            "1. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Sweet salad made with corn and three types of beans\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Classic salad with creamy caesar dressing and croutons\n6. Fried shrimp and scallops\n7. Pork chops glazed with milk and cooked without nuts\n8. Large portion fries with gravy and bacon\n9. Pepper and bacon fries\n10. Low-fat coconut alcohol-free cocktail",
+            "Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nSimple creamy oyster soup\nBaked mozzarella cheese sticks with marinara sauce\nSoup made with vegetables and chicken\nPeach cobbler dessert containing whole wheat flour\nFried shrimp and scallops\nSoup made with cabbage, carrots, potatoes, and onions\nMildly spicy chili recipe\nPolishes sausage with fermented cabbage"
+        ]
+    }
+}

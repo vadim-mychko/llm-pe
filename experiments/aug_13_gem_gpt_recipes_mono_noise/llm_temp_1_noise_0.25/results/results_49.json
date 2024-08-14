@@ -1,0 +1,58 @@
+{
+    "49": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer savory or sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer hot or cold foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetarian dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer crunchy or soft textures?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like noodle dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups and stews?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like dishes with mushrooms?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCheesecake made with cream cheese\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nLow fat smoothies made with greek yogurt, and pineapple\nPeach cobbler dessert containing whole wheat flour\nBerry cobbler that uses frozen mixed berries\nLow fat assorted fruit dessert\nMilkshake made with fresh strawberries and ice cream\n****",
+            "Chocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nSmoothie made from fruit juice and bananas\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSugar-free peanut butter cookies\nLow sugar applesauce cupcakes\nCheesecake made with cream cheese\nPeach cobbler dessert containing whole wheat flour\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nMilkshake made with fresh strawberries and ice cream\n''''",
+            "1. \tLow fat assorted fruit dessert\n2. \tVery low-fat assortment of shredded vegetables with seasoning\n3. \tLow sugar applesauce cupcakes\n4. \tChocolate and orange-flavoured smoothie\n5. \tSlushie drink made from orange juice blended with ice\n6. \tDairy-free, egg-free, gluten-free, nut-free fudge\n7. \tPeppermint chocolate bonbon\n8. \tPeach cobbler dessert containing whole wheat flour\n9. \tBreakfast egg, bean, and cheese burrito with jalapeno peppers\n10. \tStrawberry and ice cream milkshake",
+            " Assorted cheese soup with chicken \\n\nCheese and olive appetizer made to look like an eyeball \\n\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\n Low sugar applesauce cupcakes \\n\n  Cheese with crackers \\n\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime \\n\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes. \\n\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu \\n\n Bread made swiss style with swiss cheese \\n\n Fried shrimp and scallops\n''''",
+            "2-ingredient yogurt from scratch\nCreamy base with dill flavoring, eggs, and noodles\nLow fat baked breakfast pie made with sausage (pork) and apples\nQueso made from melted cheese and chili peppers\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with ground turkey that is low fat, high carb\nLow fat smoothies made with greek yogurt, and pineapple\nJam made from blackberries, lemon juice, and sugar\nSweet salad made with corn and three types of beans\nLow fat diced baked or fried potatoes",
+            " High protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nBaked vegetables assorted with parmesan\n****\nMildly spicy chili recipe\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nStir-fried tofu, noodles and vegetables Bento\n****",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nMildly spicy chili recipe\nQueso made from melted cheese and chili peppers\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nSpaghetti noodles with mussels, anchovy fillets, and capers\nAssorted cheese soup with chicken\nPeppermint chocolate bonbon",
+            "1. Veggie protein stir-fry \n2. Creamy base with dill flavoring, eggs, and noodles \n3. Vegetarian meatballs\n4. Roasted almonds\n5. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n6. Ramen noodles made from scratch made with: wheat flour, baking soda, and water\n7. Baked tofu jerky \n8. Eggs with mixed sauteed vegetables\n9. Smoothie made from banana puree with milk\n10. Baked oatmeal with apple \n\n''''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Simple creamy oyster soup\n6. Soup made from onions, carrots, and celery ribs\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Vegetarian macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n10. Stir-fried tofu, noodles and vegetables Bento",
+            "Soup made with cabbage, carrots, potatoes, and onions\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouffle\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nLow fat baked breakfast pie made with sausage (pork) and apples\nChopped French duck confit preserved by duck oil\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nVery low-fat assortment of shredded vegetables with seasoning\n"
+        ]
+    }
+}

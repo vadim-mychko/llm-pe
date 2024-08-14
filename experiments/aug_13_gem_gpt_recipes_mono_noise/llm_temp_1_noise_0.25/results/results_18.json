@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fish?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in low-fat foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Chinese cuisine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n2. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n3. Italian salad made from romaine lettuce, artichokes, and tomatoes\n4. Soup made with onions, carrots, and celery ribs\n5. Noodle made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n6. Pork chops glazed with milk and cooked without nuts\n7. Peach cobbler dessert containing whole wheat flour\n8. Classic salad with creamy caesar dressing and croutons\n9. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n10. Soup made with shrimp, onions, and scallops",
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Pizza made with Oreo cookies, butter, milk, and Cool Whip\n3. Skillet with rice and vegetables\n4. Simple creamy oyster soup\n5. Low fat assorted fruit dessert\n6. Low fat baked breakfast pie made with sausage (pork) and apples\n7. Chocolate and orange-flavored smoothie\n8. Low fat sweet potato fries made with cajun seasoning\n9. Calcium-rich soup with broccoli and beans\n10. Creamy base with dill flavoring, eggs, and noodles\n",
+            "1. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n2. Pork chops glazed with milk and cooked without nuts\n3. Steak marinated in a herb mixture, pan-fried\n4. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n5. Chicken breasts stuffed with bacon and mozzarella\n6. Baked mozzarella cheese sticks with marinara sauce\n7. Meatballs made with ground beef and ground pork\n8. Salmon fillets grilled in a pan with herbs and spices\n9. Queso made from melted cheese and chili peppers\n10. Cheese and olive appetizer made to look like an eyeball",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Simple creamy oyster soup\n8. Soup made with shrimp, onions, and scallops\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Soup made with cabbage, carrots, potatoes, and onions\n''''",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nSalmon roasted with olive oil, chives, and tarragon leaves\nSalmon fillets grilled in a pan with herbs and spices\nFried shrimp and scallops\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSimple creamy oyster soup\nHomemade soup with chicken, noodles, and spices\nSoup made with shrimp, onions, and scallops",
+            "1. Tofu, mushroom and tomatoes poke\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Baked mozzarella cheese sticks with marinara sauce\n6. Mozzarella dip recipe\n7. Cheese and crackers\n8. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n9. Cheese and olive appetizer made to look like an eyeball\n10. Swiss cheese bread",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSalmon roasted with olive oil, chives, and tarragon leaves\nMozzarella dip recipe\nTofu, noodles and vegetables Bento\nCheesy salmon\nFried tofu with orange honey sauce\nCrispy tofu marinated in teriyaki sauce and sesame oil",
+            "Grilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nPoke of tofu, mushroom and tomatoes\nChopped French duck confit preserved by duck oil\nSpaghetti made using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSalmon fillets grilled in a pan with herbs and spices\nSpaghetti noodles with mussels, anchovy fillets, and capers\nNorway cake with lingonberry and whipped cream layers\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\n",
+            "Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nGrill salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nStir-fried tofu, noodles and vegetables Bento\nTaiwanese deep fried crispy chicken cutlets\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSlushie drink made from orange juice blended with ice",
+            "Poke of tofu, mushroom and tomatoes\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nTaiwanese deep fried crispy chicken cutlets\nKorean soup containing beef brisket and flavoured with red pepper powder\nStir-fried tofu, noodles and vegetables Bento\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nLow sugar applesauce cupcakes"
+        ]
+    }
+}

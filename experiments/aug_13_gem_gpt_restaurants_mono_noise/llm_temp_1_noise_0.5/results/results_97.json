@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Chinese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant that serves Thai food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves Japanese food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a vegetarian restaurant?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves both Thai and Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves breakfast or brunch?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "The Juice Merchant \nCinCin Restaurant \nLacroix Restaurant at The Rittenhouse \nThe Continental Restaurant and Martini Bar \nVEDGE\nParc \nCafe L'Aube \nAudrey Claire \n Fiore Fine Foods \nCook and Shaker \nRistorante La Buca \nPearl's Oyster Bar \nDim Sum House \nIzumi \nMiga Korean BBQ & Sushi \nSang Kee Peking Duck House \nGolden Triangle \nBistro SouthEast \nBaan Thai",
+            "Daleng Restaurant \\n\nDim Sum House \\n\nWawa \\n\nFuji Mountain \\n\nSang Kee Peking Duck House \\n\nCanton 11 \\n\nNew York Gyro Truck \\n\nMiga Korean BBQ & Sushi \\n\nKC's Pastries \\n\nTu's Tea & Banh Mi South Philly \\n",
+            "Baan Thai \\n\nBistro SouthEast \\n\nDaleng Restaurant \\n\nGolden Triangle \\n\nMiga Korean BBQ & Sushi \\n\nOishii Pok\u00e9 \\n\nSang Kee Peking Duck House \\n\nTu's Tea & Banh Mi South Philly \\n\nCanton 11 \\n\nThai Evergreen Vegetarian Restaurant",
+            " Daleng Restaurant \nIzumi \nBistro SouthEast \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nOishii Pok\u00e9 \nBaan Thai \nAudrey Claire \nFederal Donuts \nGolden Triangle",
+            "Daleng Restaurant \\n\nGolden Triangle \\n\nThe Juice Merchant \\n\nBistro SouthEast \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi \\n\nTu's Tea & Banh Mi South Philly \\n\nEvan's Pizza \\n\nThe QUICK FIXX \\n\nGreen Leafs & Bananas",
+            "Kokopelli Restaurant & Tequila Bar\nBistro SouthEast\nBaan Thai\nIzumi\nTu's Tea & Banh Mi South Philly\nMiga Korean BBQ & Sushi\nGrain Exchange\nMisconduct Tavern\nThe QUICK FIXX\nThe Green Line Cafe",
+            "Daleng Restaurant \nMiga Korean BBQ & Sushi \nFuji Mountain \nIzumi \nBistro SouthEast \nBaan Thai \nTu's Tea & Banh Mi South Philly \nJake's & Cooper's Wine Bar & Wine Shop \nDim Sum House \nThe QUICK FIXX",
+            "Daleng Restaurant\nBistro SouthEast\nMiga Korean BBQ & Sushi\nTu's Tea & Banh Mi South Philly\nOishii Pok\u00e9\nFederal Donuts\nZuzu's Kitchen \nGolden Triangle \nThe QUICK FIXX",
+            "Miga Korean BBQ & Sushi\nDaleng Restaurant\nBistro SouthEast\nChinatown 11\nPearl's Oyster Bar\nAudrey Claire\nMandarin Garden Chinese Restaurant\nTu's Tea & Banh Mi South Philly\nOishii Poke \nBaan Thai",
+            "Golden Triangle \nDaleng Restaurant \nBistro SouthEast \nBaan Thai \nCanton 11 \nMiga Korean BBQ & Sushi \nTu's Tea & Banh Mi South Philly \nEvan's Pizza \nThe QUICK FIXX \nBlackbird Pizzeria"
+        ]
+    }
+}

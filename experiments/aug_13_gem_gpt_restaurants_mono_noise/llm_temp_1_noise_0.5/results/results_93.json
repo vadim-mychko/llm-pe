@@ -1,0 +1,58 @@
+{
+    "93": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like places that serve sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in bagels?",
+                "response": "yes"
+            },
+            {
+                "query": "Any interest in bakeries?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to find a coffee shop?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            " 1. Heritage\n2. Tavern On the Hill\n3. Lacroix Restaurant at The Rittenhouse\n4. CO-OP Restaurant & Lounge\n5. Cook and Shaker\n6. Aldo Lamberti Cucina\n7. Zama\n8. Audrey Claire\n9. Parc\n10. Federal Donuts",
+            "PrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nThe Tasty Toast \\n\nFederal Donuts \\n\nLe Pain Quotidien \\n\nZuzu's Kitchen \\n\nRoy-Pitz Barrel House \\n\nGreen Leafs & Bananas \\n\nSpread Bagelry",
+            "Zuzu's Kitchen \nPrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nWedgwood Cafe \nValanni \nKnead Bagelry Co. \nSesame Place Cafe \nBubbakoo's Burritos \nMr. Dim Sum",
+            " PrimoHoagies \nThe Green Line Cafe \nSpread Bagelry \nMonster Vegan \nLisa's Kitchen \nLuvh Vegan Deli \nThe QUICK FIXX \nLove & Honey Fried Chicken \nGreen Leafs & Bananas \nJack's Firehouse",
+            "Zuzu's Kitchen\nPrimoHoagies\nThe Tasty Toast\nFive Guys\nWawa\nMacaroni's Restaurant\nGreen Leafs & Bananas\nSpread Bagelry\nThe Green Line Cafe\nCafe L'Aube",
+            "1. PrimoHoagies \\n\n2. Spread Bagelry \\n\n3. Chickie\u2019s & Pete\u2019s \\n\n4. The Juice Merchant \\n\n5. The QUICK FIXX \\n\n6. Green Leafs & Bananas \\n\n7. Aw Shucks \\n\n8. Dirty Frank\u2019s \\n\n9. Sabrina\u2019s Cafe \\n\n10. Steve\u2019s Prince of Steaks",
+            " The Green Line Cafe\n Spread Bagelry\nTrolley Car Diner \n Lisa's Kitchen \nThe QUICK FIXX \nDiNic's \nPrimoHoagies \nThe Juice Merchant \nWawa \nGreen Leafs & Bananas",
+            " Betty's Speakeasy \nLe Pain Quotidien \nTrolley Car Diner \nKC's Pastries \nFiore Fine Foods \nSpread Bagelry \nA Tutti, Ristorante Italiano \nThe Green Line Cafe \nEssene Market & Caf\u00e9 \nTu's Tea & Banh Mi South Philly",
+            "1. PrimoHoagies \n2. Spread Bagelry \n3. Green Leafs & Bananas\n4. Sister Muhammad's Kitchen \n5. Fiore Fine Foods \n6. Benna's Cafe \n7. Essene Market & Caf\u00e9 \n8. Betty's Speakeasy\n9. KC's Pastries\n10. The Green Line Cafe"
+        ]
+    }
+}

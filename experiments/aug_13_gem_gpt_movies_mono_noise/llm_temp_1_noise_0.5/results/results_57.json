@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a contempary movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a comedy about gangsters?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with lots of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about criminals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy about lawyers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Runaway Train (1985)\n2. The Proposition (2005)\n3. The Quantum of Solace (2008)\n4. Ant-Man (2015)\n5. Ready Player One\n6. Real Steel (2011)\n7. Dragonheart\n8. The Black Cauldron (1985)\n9. Reign of Fire (2002)\n10. Escape from New York (1981)",
+            "1. The Big Lebowski (1998) \n2. Intolerable Cruelty (2003) \n3. The Sure Thing (1985) \n4. American Graffiti (1973) \n5. What's Up, Doc? (1972) \n6. Meet John Doe (1941) \n7. Gangs of New York (2002) \n8. Brewster's Millions (1985) \n9. Nightcrawler (2014) \n10. Trapped (2002) \n''''",
+            "1. American Graffiti (1973)\n2. Big Lebowski, The (1998)\n3. Brewster's Millions (1985)\n4. Face/Off (1997)\n5. Homeward Bound: The Incredible Journey (1993)\n6. Intolerable Cruelty (2003)\n7. Real Genius (1985)\n8. Sure Thing, The (1985)\n9. What's Up, Doc? (1972)\n10. Zeppelin (1971)",
+            "1. The Big Lebowski (1998) \n2. Intolerable Cruelty (2003) \n3. Brewster's Millions (1985) \n4. Real Genius (1985) \n5. What's Up, Doc? (1972) \n6. American Graffiti (1973) \n7. The Sure Thing (1985) \n8. 50 First Dates (2004) \n9. Cadet Kelly (2000) \n10. Elf (2003)\n",
+            "1.  What's Up, Doc? (1972)\n2.  Delicatessen (1991)\n3.  Brewster's Millions (1985)\n4.  Real Genius (1985)\n5.  American Graffiti (1973)\n6.  The Big Lebowski (1998)\n7.  Intolerable Cruelty (2003)\n8.  Bruce Almighty (2003)\n9.  Tenacious D in The Pick of Destiny (2006)\n10. Dick Tracy (1990)",
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. What's Up, Doc? (1972)\n4. Arsenic and Old Lace (1944)\n5. Brewster's Millions (1985)\n6. The Big Lebowski (1998)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. Strange than Fiction (2006)\n10. Bruce Almighty (2003)",
+            "1. Crimes and Misdemeanors (1989)\n2. Big Lebowski, The (1998)\n3. What's Up, Doc? (1972)\n4. Intolerable Cruelty (2003)\n5. American Graffiti (1973)\n6. Real Genius (1985)\n7. Brewster's Millions (1985)\n8. The Big Red One (1980)\n9. Sure Thing, The (1985)\n10. St. Elmo's Fire (1985)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. UHF (1989)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. What's Up, Doc? (1972)\n6. The Sure Thing (1985)\n7. Intolerable Cruelty (2003)\n8. Face/Off (1997)\n9. The Corpse (2011)\n10. Delicatessen (1991)\n",
+            "1. Intolerable Cruelty (2003)\n2. Brewster's Millions (1985)\n3. What's Up, Doc? (1972)\n4. Delicatessen (1991)\n5. The Big Lebowski (1998)\n6. American Graffiti (1973)\n7. Real Genius (1985)\n8. The Sure Thing (1985)\n9. Meet John Doe (1941)\n10. Europa (Zentropa) (1991)",
+            "1. Tomb Raider (2018)\n2. The Naked Gun: From the Files of Police Squad!, The (1988)\n3. Bad Education (La mala educaci\u00f3n) (2004)\n4. Cage aux Folles, La (1978)\n5. Intolerable Cruelty (2003)\n6. The Big Lebowski (1998)\n7. Brewster's Millions (1985)\n8. Bruce Almighty (2003)\n9. Johnny English Reborn (2011)\n10. Meet John Doe (1941)"
+        ]
+    }
+}

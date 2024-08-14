@@ -1,0 +1,58 @@
+{
+    "56": {
+        "conv_hist": [
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like grilled food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like beans?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meats?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\n''''",
+            "- Soup made with cabbage, carrots, potatoes, and onions\n- Grilled salmon seasoned with salt and pepper\n- Soup made with ground turkey that is low fat, high carb\n- Soup made with shrimp, onions, and scallops\n- Soup made from onions, carrots, and celery ribs\n- Simple creamy oyster soup\n- Soup made with vegetables and chicken\n- Calcium-rich soup made with broccoli and beans\n- Cheese and vegetable soup with a beer broth\n- Homemade soup with chicken, noodles, and spices\n'''",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nSpanish rice with chicken breast\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nRoasted almonds\nHomemade soup with chicken, noodles, and spices\nMushy peas that are soft\nSmoothie made from banana puree with milk\nLow fat assorted fruit dessert\nEggless sauerkraut cake\nMozzarella dip recipe\nMeatballs made with ground beef and ground pork",
+            " 1. Grilled salmon seasoned with salt and pepper\n2. Salmon fillets grilled in a pan with herbs and spices\n3. Salmon roasted with olive oil, chives, and tarragon leaves\n4. Soup made with shrimp, onions, and scallops\n5. Simple creamy oyster soup\n6. Spinach and mushroom quiche\n7. Cabbage, carrots, potatoes, and onions soup\n8. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n9. Stir-fried tofu, noodles and vegetable \n10. Lemon loaf made of flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Grilled salmon seasoned with salt and pepper\n3. Roasted almonds\n4. Pork chops glazed with milk and cooked without nuts\n5. Mushy peas that are soft\n6. Fried shrimp and scallops\n7. Low fat sweet potato fries made with cajun seasoning\n8. Baked spinach quiche containing bacon\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Strawberry and banana smoothie",
+            " Pork chops glazed with milk and cooked without nuts\nSoup made with cabbage, carrots, potatoes, and onions\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSoup made with ground turkey that is low fat, high carb\nLow fat coconut alcohol-free cocktail\nLow fat assorted fruit dessert\nVegetable soup\nGrilled salmon seasoned with salt and pepper\nSoup made with onions, carrots, and celery ribs\nSoup made with shrimp, onions, and scallops",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nSimple creamy oyster soup\nSoup made with shrimp, onions, and scallops\nSoup made with vegetables and chicken\nGrilled salmon seasoned with salt and pepper\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nGrilled salmon with olive oil, chives, and tarragon leaves\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "Pearl barley and butter bean soup with seasonal vegetables\nCajun chicken and sausage gumbo\nSimple creamy oyster soup\nSoup made with ground turkey that is low fat, high carb\nSpicy black bean soup\nCreamy tomato soup with toasted bread cubes\nOlive Garden-style chicken and gnocchi soup\nChunky vegetable soup\nBaked mozzarella cheese sticks with marinara sauce\nCreamy base with dill flavoring, eggs, and noodles\n****",
+            "Smoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nChocolate and orange-flavoured smoothie\nSlushie drink made from orange juice blended with ice\nCreamy base with dill flavoring, eggs, and noodles\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nPeppermint chocolate bonbon\nLow-fat coconut alcohol-free cocktail\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. Smoothie made from fruit juice and bananas\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made with ground turkey that is low fat, high carb\n4. Soup made with onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Soup made with vegetables and chicken\n7. Creamy base with dill flavoring, eggs, and noodles\n8. Soup made with shrimp, onions, and scallops\n9. Low fat smoothies made with greek yogurt, and pineapple\n10. Korea soup containing beef brisket and flavoured with red pepper powder"
+        ]
+    }
+}

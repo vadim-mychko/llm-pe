@@ -1,0 +1,58 @@
+{
+    "24": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in Vietnamese cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a seafood restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Dim Sum?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Thai cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Hawaiian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for poke?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Japanese cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in dining at restaurants with live or raw food options?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant\nBistro SouthEast\nTu's Tea & Banh Mi South Philly\nSang Kee Peking Duck House\nCanton 11\nVeda - Modern Indian Bistro\nFederal Donuts \nMiga Korean BBQ & Sushi\nBaan Thai\nOishii Pok\u00e9",
+            " Daleng Restaurant \nBistro SouthEast \nVedge \nTu's Tea & Banh Mi South Philly \nGrain Exchange \nMiga Korean BBQ & Sushi \nPearl's Oyster Bar \n Audrey Claire \nRistorante La Buca \nFuji Mountain",
+            "Bistro SouthEast \\n\nVeda - Modern Indian Bistro \\n\nTu's Tea & Banh Mi South Philly \\n\nDim Sum House \\n\nIzumi \\n\nRistorante La Buca \\n\nSang Kee Peking Duck House \\n\nPearl's Oyster Bar \\n\nFederal Donuts \\n\nOishii Pok\u00e9",
+            "Bistro SouthEast\nDaleng Restaurant\nVeda - Modern Indian Bistro\nFuji Mountain \nSang Kee Peking Duck House \nRoy-Pitz Barrel House \nFederal Donuts \nJack's Firehouse \nOishii Pok\u00e9 \nMiga Korean BBQ & Sushi ",
+            "Miga Korean BBQ & Sushi \nIzumi \nCanton 11 \nDim Sum House \nSang Kee Peking Duck House \nFuji Mountain \nOishii Pok\u00e9 \nPearl's Oyster Bar \nBistro SouthEast \nDaleng Restaurant",
+            "Miga Korean BBQ & Sushi \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nDim Sum House \nIzumi \nSang Kee Peking Duck House \nCanton 11 \nRistorante La Buca \nSushi Monster \nOishii Pok\u00e9",
+            "Sang Kee Peking Duck House\nBaan Thai\nVeda - Modern Indian Bistro\nPearl's Oyster Bar\nRistorante La Buca\nOishii Pok\u00e9\nMiga Korean BBQ & Sushi\nGran Caffe L'Aquila\nAudrey Claire\nDaleng Restaurant",
+            "1. Bistro SouthEast\n2. Miga Korean BBQ & Sushi\n3. Izumi \n4. Sang Kee Peking Duck House \n5. Water Works Restaurant & Lounge \n6. Pearl's Oyster Bar \n7. Oishii Pok\u00e9 \n8. Fuji Mountain \n9. Canton 11\n10. Golden Triangle",
+            "Miga Korean BBQ & Sushi \\n\nSang Kee Peking Duck House \\n\nFederal Donuts \\n\nGrain Exchange \\n\nPearl's Oyster Bar \\n\nCanton 11 \\n\nWishbone \\n\nVeda - Modern Indian Bistro \\n\nOishii Pok\u00e9 \\n\nFuji Mountain",
+            "1. Miga Korean BBQ & Sushi \n2. Saigon Restaurant \n3. Nhan's Kitchen \n4. Vietnam Garden Restaurant \n5. Pho Ha \n6. Dakzen \n7. Pho 75 \n8. Pho Ga Thanh Van Inc \n9. Tieu's Vietnamese Restaurant \n10. Pho Huong Nam #2"
+        ]
+    }
+}

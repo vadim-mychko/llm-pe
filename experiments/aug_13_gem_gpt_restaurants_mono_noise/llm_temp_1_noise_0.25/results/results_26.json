@@ -1,0 +1,58 @@
+{
+    "26": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in food delivery services?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to order food that's American style?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for some pizzas?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a bar to grab a bite to eat and a drink?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a restaurant that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you consider Italian for dinner tonight?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a place with a delivery service that offers burgers and sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant that serves chicken wings as well?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Sang Kee Peking Duck House\n2. Luhv Vegan Deli\n3. Vedge\n4. Hey Hummus\n5. Monster Vegan\n6. Green Leafs & Bananas\n7. Benna's Cafe\n8. Blackbird Pizzeria\n9. Betty's Speakeasy\n10. The QUICK FIXX\n",
+            "- Vedge \n- Pure Tacos \n- Federal Donuts \n- Sang Kee Peking Duck House \n- Malbec Argentine Steakhouse \n- Canton 11 \n- Hey Hummus \n- Monster Vegan \n- Spread Bagelry\n- Benna's Cafe",
+            " Zuzu's Kitchen\nThe Tasty Toast\nThe Milk House\nThe Grill  Smuckers\nThe Continental Restaurant and Martini Bar\nPearl's Oyster Bar\nThe Blue Duck\nJack's Firehouse\nMcCormick & Schmick's Seafood Restaurant\n Founding Fathers Sports Bar & Grill",
+            "Golden Triangle\nLacroix Restaurant at The Rittenhouse\nMalbec Argentine Steakhouse\nPearl's Oyster Bar\nLe Pain Quotidien\nFuji Mountain\nSang Kee Peking Duck House\nPaddy's Old City Pub\nSweet Nectar\nfederal Donuts",
+            " Wishbone \nFive Guys \nLisa's Kitchen \nCook and Shaker \nThe Blue Duck \nFederal Donuts \nFranklin's \nMisconduct Tavern \nRoy-Pitz Barrel House \nThe Green Line Cafe",
+            "Federal Donuts \\n\nFive Guys \\n\nJack's Firehouse \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nRoy-Pitz Barrel House \\n\nThe Blue Duck \\n\nThe QUICK FIXX \\n\nThe Tavern Restaurant \\n\nMisconduct Tavern\n",
+            "Five Guys \\n\nMacaroni's Restaurant \\n\nThe Blue Duck \\n\nRoy-Pitz Barrel House \\n\nThe Tavern Restaurant \\n\nWishbone \\n\nFranklin's \\n\nLisa's Kitchen \\n\nJack's Firehouse\nSteve's Prince of Steaks",
+            "1. The Blue Duck \n2. Luhv Vegan Deli \n3. Misconduct Tavern \n4. Lisa's Kitchen \n5. Franklin's \n6. Monster Vegan \n7. Blackbird Pizzeria \n8. Five Guys \n9. Lucky's Last Chance \n10. Love & Honey Fried Chicken",
+            "Five Guys \\n\nMisconduct Tavern \\n\nJack's Firehouse \\n\nLisa's Kitchen \\n\nFranklin's \\n\nThe Blue Duck \\n\nSpread Bagelry \\n\nSteve's Prince of Steaks \\n\nGreen Leafs & Bananas \\n\nThe Green Line Cafe",
+            "1. Roy-Pitz Barrel House \n2. Federal Donuts \n3. Five Guys \n4. Misconduct Tavern \n5. Cook and Shaker \n6. Wishbone \n7. Lisa's Kitchen \n8. Franklin's \n9. Founding Fathers Sports Bar & Grill \n10. Chestnut 7"
+        ]
+    }
+}

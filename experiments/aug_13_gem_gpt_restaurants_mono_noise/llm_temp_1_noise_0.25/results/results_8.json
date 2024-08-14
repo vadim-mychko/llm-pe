@@ -1,0 +1,58 @@
+{
+    "8": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a bakery?",
+                "response": "no"
+            },
+            {
+                "query": "Are you currently craving Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for wine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer restaurants or bars with wine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you primarily seeking wine bars?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer Italian restaurants?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a place with both Italian food and a wine bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you searching for Italian food and a restaurant with wine?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Five Guys \\n\nWishbone \\n\nFranklin's \\n\nJD Mcgillicuddy's Manayunk \\n\nLuvh Vegan Deli \\n\nLove & Honey Fried Chicken \\n\nLucky's Last Chance \\n\nThe Blue Duck \\n\nLisa's Kitchen \\n\nBlackbird Pizzeria",
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Lacroix Restaurant at The Rittenhouse \n Germantown Garden \n PrimoHoagies \n Daleng Restaurant \n The Juice Merchant \n Federal Donuts \n Mong Kok Station",
+            "Zuzu's Kitchen\nWater Works Restaurant & Lounge\nGolden Triangle\nLacroix Restaurant at The Rittenhouse\nThe Juice Merchant\nGermantown Garden\nGrain Exchange\nIzumi\nVeda - Modern Indian Bistro\nThe Milk House",
+            "- Castellino's \n- Talluto's Authentic Italian Food \n- A Tutti, Ristorante Italiano \n- PrimoHoagies \n- Olive Garden Italian Restaurant \n- Macaroni's Restaurant \n- Pizzeria Stella \n- Fiore Fine Foods \n- The QUICK FIXX \n- Ristorante La Buca",
+            "1. A Tutti, Ristorante Italiano\n2. Olive Garden Italian Restaurant\n3. Castellino's\n4. Macaroni's Restaurant\n5. Panevino Nectar Lounge\n6. Fiore Fine Foods\n7. Gran Caffe L'Aquila\n8. Ristorante La Buca\n9. Audrey Claire \n10. Oteri's Italian Bakery | North 5th St\n",
+            "1. A Tutti, Ristorante Italiano \n2. Castellino's \n3. CinCin Restaurant \n4. Fiore Fine Foods \n5. Gran Caffe L'Aquila \n6. Italian Market \n7. Macaroni's Restaurant \n8. Olive Garden Italian Restaurant \n9. Parc \n10. Ristorante La Buca",
+            "A Tutti, Ristorante Italiano \nOlive Garden Italian Restaurant \nMacaroni's Restaurant \nRistorante La Buca \nAldo Lamberti Ristorante and Wine Bar \nValentino's Cucina Italiana \nSabrina's Cafe \nLa Fontana Della Citta \nFiore Fine Foods \nIl Pittore Italiano Ristorante \nLa Collina Ristorante \nPositano Coast by Aldo Lamberti \nOsteria \nCaffe Roma \nTalula's Garden \nCapogiro Gelato \nSidecar Bar & Grille \nSabrina's Cafe \nGirard Avenue \nIl Pittore Italiano Ristorante \nPali Wine & Spirits \nBarclay Prime",
+            "1. A Tutti, Ristorante Italiano\n2. Fiore Fine Foods\n3. Macaroni's Restaurant\n4. Pearl's Oyster Bar\n5. Ristorante La Buca\n6. Audrey Claire\n7. Castellino's\n8. Talluto's Authentic Italian Food\n9. PrimoHoagies\n10. The QUICK FIXX",
+            "1. A Tutti, Ristorante Italiano \n2. Fiore Fine Foods \n3. Ristorante La Buca \n4. Oteri's Italian Bakery | North 5th St \n5. Macaroni's Restaurant \n6. Castellino's \n7. Talluto's Authentic Italian Food \n8. PrimoHoagies \n9. Audrey Claire \n10. CinCin Restaurant",
+            " A Tutti, Ristorante Italiano \\n\nOlive Garden Italian Restaurant \\n\nRistorante La Buca \\n\nMacaroni's Restaurant \\n\nTalluto's Authentic Italian Food \\n\nFiorentino Trattoria \\n\nParc \\n\nAudrey Claire \\n\nGran Caffe L'Aquila \\n\nLa Fontana Della Citta"
+        ]
+    }
+}

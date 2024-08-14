@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a children's movie or an action movie with an engaging plot?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for an action movie or something more thought-provoking?",
+                "response": "action movie"
+            },
+            {
+                "query": "Can you tell me if you want to see something set in the present day or the past?",
+                "response": "past"
+            },
+            {
+                "query": "Are you interested in period pieces or historical war films?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with lots of action and an epic historical setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that is set in ancient Greece or medieval times?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that deals with  any war or specific wars, for example World War I or II?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in an action movie with historical characters such as Clancy from Patriot Games?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a medieval movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Ready Player One\n4. Transporter 2 (2005)\n5. Nightcrawler (2014)\n6. The Big Red One (1980)\n7. Trapped (2002)\n8. Face/Off (1997)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. August Rush (2007)\n5. Martyrs (2008)\n6. Last Action Hero (1993)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Man on Fire (2004)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Transporter 2 (2005)",
+            "1. Lost in Translation (2003) \n2. Terminator 3: Rise of the Machines (2003) \n3. Transporter 2 (2005) \n4. Face/Off (1997) \n5. Clash of the Titans (1981) \n6. Von Ryan's Express (1965) \n7. Big Red One, The (1980) \n8. Black Robe (1991) \n9. Brewster's Millions (1985) \n10. Real Genius (1985)",
+            "1. All Quiet on the Western Front (1930)\n2. Big Red One, The (1980)\n3. Clash of the Titans (1981)\n4. Von Ryan's Express (1965)\n5. Intolerable Cruelty (2003)\n6. True Grit (2010)\n7. The Guns of Navarone (1961)\n8. Paths of Glory (1957)\n9. Patton (1970)\n10. Dunkirk (2017)",
+            "1. Clash of the Titans (1981)\n2. Von Ryan's Express (1965)\n3. A.I. Artificial Intelligence (2001)\n4. Big Red One, The (1980)\n5. Black Robe (1991)\n6. Braveheart (1995)\n7. Gladiator (2000)\n8. Kingdom of Heaven (2005)\n9. Last Samurai, The (2003)\n10. Patriot, The (2000)",
+            "1. Clash of the Titans (1981)\n2. Von Ryan's Express (1965)\n3. Big Red One, The (1980)\n4. All Quiet on the Western Front (1930)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Dracula (1992) \n8. King Kong (2005)\n9. Eragon (2006)\n10. Black Robe (1991)",
+            "1. Clash of the Titans (1981)\n2. All Quiet on the Western Front (1930)\n3. Von Ryan's Express (1965)\n4. Big Red One, The (1980)\n5. Black Robe (1991)\n6. Braveheart (1995)\n7. Kingdom of Heaven (2005)\n9. Apocalypto(2006)\n10. Gladiator (2000)",
+            "1. Clash of the Titans (1981)\n2. Von Ryan's Express (1965)\n3. All Quiet on the Western Front (1930)\n4. The Big Red One (1980)\n5. Terminator 3: Rise of the Machines (2003)\n6. Inglourious Basterds (2009)\n7. Gladiator (2000)\n8. Braveheart (1995)\n9. The Patriot (2000)\n10. Apocalypto (2006)",
+            "1. The Last Samurai (2003) \n2. 300 (2006) \n3. Alexander (2004) \n4. Gladiator (2000) \n5. Kingdom of Heaven (2005) \n6. Braveheart (1995) \n7. Troy (2004) \n8. Robin Hood (2010) \n9. The Eagle (2011) \n10. Centurion (2010)",
+            "1. Von Ryan's Express (1965)\n2. The Siege of Firebase Gloria (1989)\n3. Cross of Iron (1977)\n4. Battle of the Bulge (1965)\n5. Inglourious Basterds (2009)\n6. Fury (2014)\n7. The Hurt Locker (2008)\n8. Dunkirk (2017)\n9. 1917 (2019)\n10. Saving Private Ryan (1998)"
+        ]
+    }
+}

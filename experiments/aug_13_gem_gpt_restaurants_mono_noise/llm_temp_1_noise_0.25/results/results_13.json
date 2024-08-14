@@ -1,0 +1,58 @@
+{
+    "13": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in breakfast or lunch places?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to eat somewhere that serves sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a pizza place?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in deli sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for sports bars?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a sports bar that serves burgers?",
+                "response": "yes"
+            },
+            {
+                "query": "Does the sports bar also serve pizza?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Maison 208 \nMcMenamin's Tavern \nLiberte Lounge \nParc \nThe Continental Restaurant and Martini Bar \nAldo Lamberti Ristorante & Enoteca \nAldine \nCook and Shaker \nVedge \nJake's & Cooper's Wine Bar & Wine Shop",
+            "Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLe Pain Quotidien \nCinCin Restaurant",
+            "PrimoHoagies\nThe Juice Merchant \nFederal Donuts\nGolden Triangle\nDaleng Restaurant \nThe Tasty Toast \nA Tutti, Ristorante Italiano\nLisa's Kitchen\nThe QUICK FIXX \nGreen Leafs & Bananas",
+            "* Sang Kee Peking Duck House \\n\n* Roy-Pitz Barrel House \\n\n* Steve's Prince of Steaks \\n\n* Green Leafs & Bananas \\n\n* The Green Line Cafe \\n\n* Spread Bagelry \\n\n* Ballast Point Brewing Co \\n\n* Love & Honey Fried Chicken \\n\n* Rival Bros Coffee \\n\n* Gran Caffe L'Aquila \\n",
+            "PrimoHoagies \\n\nGreen Leafs & Bananas \\n\nWawa \\n\nSpread Bagelry \\n\nThe Green Line Cafe \\n\nRoy-Pitz Barrel House \\n\nThe QUICK FIXX \\n\nMcMenamin's Tavern \\n\nLisa's Kitchen \\n\nSteve's Prince of Steaks",
+            "Wishbone \\n\nFederal Donuts \\n\nJack's Firehouse \\n\nFranklin's \\n\nDave & Buster's \\n\nJD Mcgillicuddy's Manayunk \\n\nThe Irish Pub \\n\nLisa's Kitchen \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken",
+            "1. Wishbone\n2. Franklin's\n3. Jack's Firehouse\n4. Mad River Manayunk\n5. JD Mcgillicuddy's Manayunk\n6. Macaroni's Restaurant\n7. Lisa's Kitchen\n8. Founding Fathers Sports Bar & Grill\n9. Chestnut 7\n10. Lucky's Last Chance",
+            "Misconduct Tavern \nThe Tavern Restaurant \nFederal Donuts \nLucky's Last Chance \nFranklin's \nLisa's Kitchen \nJack's Firehouse \nWishbone \nJD Mcgillicuddy's Manayunk \nFounding Fathers Sports Bar & Grill",
+            "Jack's Firehouse \nFranklin's \nJD Mcgillicuddy's Manayunk \nWishbone \nMisconduct Tavern \nFive Guys \nThe Blue Duck \nLisa's Kitchen \nLuvh Vegan Deli \nCJ & Eck's",
+            "McMenamin's Tavern\nMad River Manayunk\nFranklin's\nJD Mcgillicuddy's Manayunk\nFounding Fathers Sports Bar & Grill\nWishbone\nLucky's Last Chance\nCJ & Eck's\nFive Guys\nPaddy's Old City Pub\nMisconduct Tavern"
+        ]
+    }
+}

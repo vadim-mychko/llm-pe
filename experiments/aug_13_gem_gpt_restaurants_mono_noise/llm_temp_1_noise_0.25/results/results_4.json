@@ -1,0 +1,58 @@
+{
+    "4": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for vegan dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Japanese food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "How do you feel about pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in also looking for Italian food that includes sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you also interested in desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in restaurants that also serve chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian restaurants that serve gourmet desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a salad to pair with your pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in also looking for Italian food that includes seafood?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. PrimeHoagies \n2. Golden Triangle \n3. Zuzu's Kitchen \n4. A Tutti, Ristorante Italiano \n5. Federal Donuts \n6. Castellino's \n7. Fuji Mountain \n8. KC's Pastries \n9. Dim Sum House \n10. McMenamin's Tavern\n",
+            " Zuzu's Kitchen \\n\nGolden Triangle \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nGermantown Garden \\n\nPrimoHoagies \\n\nDaleng Restaurant \\n\nThe Juice Merchant \\n\nFederal Donuts \\n\nMong Kok Station",
+            "Daleng Restaurant \\n\nPrimoHoagies \\n\nA Tutti, Ristorante Italiano \\n\nCastellino's \\n\nMacaroni's Restaurant \\n\nRistorante La Buca \\n\nGran Caffe L'Aquila \\n\nPure Tacos \\n\nOlive Garden Italian Restaurant \\n\nTalluto's Authentic Italian Food",
+            "A Tutti, Ristorante Italiano \\n\nMacaroni's Restaurant \\n\nZazu's Kitchen \\n\nThe QUICK FIXX \\n\nFiore Fine Foods \\n\nOlive Garden Italian Restaurant \\n\nTalluto's Authentic Italian Food \\n\nPrimoHoagies \\n\nCastellino's \\n\nChestnut 7",
+            "A Tutti, Ristorante Italiano\nCastellino's\nPrimoHoagies \nThe Blue Duck \nMacaroni's Restaurant \nOlive Garden Italian Restaurant \nTalluto's Authentic Italian Food \nThe QUICK FIXX \nFiore Fine Foods \nEvan's Pizza",
+            "A Tutti, Ristorante Italiano \\n\nThe QUICK FIXX \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nFederal Donuts \\n\nBlackbird Pizzeria \\n\nSister Muhammad's Kitchen \\n\nOteri's Italian Bakery | North 5th St \\n\nFiore Fine Foods \\n\nOlive Garden Italian Restaurant",
+            "Ristorante La Buca\nA Tutti, Ristorante Italiano\nPrimoHoagies\nSapori Ristorante Italiano\nThe QUICK FIXX\nMacaroni's Restaurant\nEvan's Pizza\nZazu's Kitchen\nSabrina's Caf\u00e9 \nParc",
+            "A Tutti, Ristorante Italiano\nZuzu's Kitchen\nFiore Fine Foods\nRistorante La Buca\nOlive Garden Italian Restaurant\nThe QUICK FIXX\nMacaroni's Restaurant\nLuhv Vegan Deli\nCafe L'Aube\nAudrey Claire",
+            "Gran Caffe L'Aquila \nA Tutti, Ristorante Italiano \nZuzus Kitchen \nFiorel Fine Foods \nThe QUICK FIXX \nChestnut 7 \nPastaficio \nThe Blue Duck \nMacaroni's Restaurant \nBlackbird Pizzeria",
+            "- Fiore Fine Foods \n- A Tutti, Ristorante Italiano \n- Pizzeria Stella \n- The QUICK FIXX \n- Ristorante La Buca \n- Gran Caffe L'Aquila \n- Blackbird Pizzeria \n- Talutto's Authentic Italian Food \n- Olive Garden Italian Restaurant \n- Macaroni's Restaurant"
+        ]
+    }
+}

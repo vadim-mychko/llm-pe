@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Do you like foods that remind you of other cuisines?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smooth, creamy foods?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer spicy foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer desserts?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like desserts that have cream cheese in them?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like desserts that have bananas in them?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer sweet or sour desserts?",
+                "response": "sweet"
+            },
+            {
+                "query": "Do you like desserts that are baked?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruity desserts with a creamy base?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like citrus flavors in your desserts?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "- French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n- French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n- Norway cake with lingonberry and whipped cream layers\n- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Italian salad made from romain lettuce, artichokes, and tomatoes\n- Spaghetti noodles with mussels, anchovy fillets, and capers\n- Peach cobbler dessert containing whole wheat flour\n- Classic salad with creamy caesar dressing and croutons\n- Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n- Raspberry layer cake filled with lemon, lime, and cherries\n''''",
+            " Creamy base with dill flavoring, eggs, and noodles\n****\nBaked spinach quiche containing bacon\n****\nQueso made from melted cheese and chili peppers\n****\nSoup made with ground turkey that is low fat, high carb\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nSmoothie made from fruit juice and bananas\n****\nCreamy oyster soup\n****\nChocolate and orange-flavoured smoothie\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nSoup made with vegetables and chicken",
+            " Creamy base with dill flavoring, eggs, and noodles\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\nVery low-fat assortment of shredded vegetables with seasoning\nBaked breakfast bars made with nuts and seeds\nCreamy oyster soup\nShredded barbecued pork shoulder\nSpicy chili recipe \nSimple creamy oyster soup\nLow fat smoothies made with greek yogurt, and pineapple",
+            "1. Baked mozzarella cheese sticks with marinara sauce\n2. Mozzarella dip recipe\n3. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n4. Norway cake with lingonberry and whipped cream layers\n5. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Cheesecake made with cream cheese\n8. Low sugar applesauce cupcakes\n9. Chocolate and orange-flavoured smoothie\n10. Sugar-free peanut butter cookies\n",
+            "Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nBaked breakfast bars made with nuts and seeds\nLow fat sweet potato fries made with cajun seasoning\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\nLow sugar applesauce cupcakes\nChicken cooked and flavored with lemon sauce\nGrilled salmon seasoned with salt and pepper\nBanana bread made with whole wheat flour and walnuts\n''''",
+            "1. Chocolate and orange-flavored smoothie\n2. Peach cobbler dessert containing whole wheat flour\n3. Baked breakfast bars made with nuts and seeds\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Low sugar applesauce cupcakes\n6. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n7. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n8. Salmon roasted with olive oil, chives, and tarragon leaves\n9. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n10. Baked mozzarella cheese sticks with marinara sauce\n",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nCheesecake made with cream cheese\nLow sugar applesauce cupcakes\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBerry cobbler that uses frozen mixed berries\nPeach cobbler dessert containing whole wheat flour\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nLow fat assorted fruit dessert\nEggless sauerkraut cake\nMozzarella dip recipe",
+            "1. Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\n2. Low sugar applesauce cupcakes\n3. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n4. Very low-fat assortment of shredded vegetables with seasoning\n5. Assorted cheese soup with chicken\n6. Low fat assorted fruit dessert\n7. Grilled salmon seasoned with salt and pepper\n8. Creamy base with dill flavoring, eggs, and noodles\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Veggie dogs.",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nChocolate and orange-flavoured smoothie\nPeach cobbler dessert containing whole wheat flour\nSmoothie made from banana puree with milk\nSauerkraut cake\nLow fat smoothies made with greek yogurt, and pineapple\nBaked breakfast bars made with nuts and seeds\nSmoothie made from fruit juice and bananas\nLow sugar applesauce cupcakes\nCreamy base with dill flavoring, eggs, and noodles",
+            "Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nLow fat sweet potato fries made with cajun seasoning\nStrawberry ice cream\nMozzarella cheese sticks with marinara sauce made in the air fryer\nBaked oatmeal with raisins and nuts\nHomemade soup with chicken, noodles, and spices\nSweet salad made with corn and three types of beans\nVegetarian chili with loads of vegetables\nLow sugar applesauce cupcakes\nSpaghetti ice cream"
+        ]
+    }
+}

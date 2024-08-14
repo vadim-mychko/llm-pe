@@ -1,0 +1,58 @@
+{
+    "16": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegetarian dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sports bars?",
+                "response": "no"
+            },
+            {
+                "query": "Is Italian cuisine something you might be interested in?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fast food?",
+                "response": "no"
+            },
+            {
+                "query": "What about sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking in having some chicken dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sushi?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Asian fusion dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Golden Triangle \\n\nZuzu's Kitchen \\n\nWater Works Restaurant & Lounge \\n\nLacroix Restaurant at The Rittenhouse \\n\nDaleng Restaurant \\n\nFederal Donuts \\n\nThe Tasty Toast \\n\nLe Pain Quotidien \\n\nA Tutti, Ristorante Italiano \\n\nThe Juice Merchant",
+            "Heritage \nLacroix Restaurant at The Rittenhouse \nVedge \nDaleng Restaurant \nGrain Exchange \nThe Blue Duck \nPearl's Oyster Bar \nMonster Vegan \nRoy-Pitz Barrel House \n Cook and Shaker",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nLacroix Restaurant at The Rittenhouse\nGermantown Garden\nPrimoHoagies\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station",
+            "Fuji Mountain \nKorean BBQ & Sushi \nDim Sum House \nCanton 11 \nSang Kee Peking Duck House \nIzumi \nLucky's Last Chance \nDaleng Restaurant \nSteve's Prince of Steaks \nGreen Leafs & Bananas",
+            " Zuzu's Kitchen\nDaleng Restaurant\nThe Juice Merchant\nFederal Donuts\nMong Kok Station\nThe Tasty Toast\nGermantown Garden\nChinatown Garden \nSergio's\nPearl's Oyster Bar",
+            "1. The Grill  Smuckers\n2. Pearl's Oyster Bar\n3. Ristorante La Buca\n4. Green Leafs & Bananas\n5. Steve's Prince of Steaks\n6. Lisa's Kitchen\n7. Jack's Firehouse\n8. Love & Honey Fried Chicken\n9. Parc\n10. Cafe L'Aube",
+            " Golden Triangle \n Water Works Restaurant & Lounge \n Daleng Restaurant \n Zuzu's Kitchen \n Federal Donuts \n The Milk House \n Mugshots Coffeehouse \n The Blue Duck \n Macaroni's Restaurant \n The El Bar",
+            " Daleng Restaurant \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nFuji Mountain \nGrain Exchange \nIzumi \nMong Kok Station \nVeda - Modern Indian Bistro \nPearl's Oyster Bar",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nDaleng Restaurant \nFederal Donuts \nMong Kok Station \nThe Tasty Toast",
+            "Izumi \nFuji Mountain \nCanton 11 \nMiga Korean BBQ & Sushi \nDim Sum House \nBubblefish Belmont \nOishii Pok\u00e9 \nAudrey Claire \nBaan Thai \nDaleng Restaurant"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in cakes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer meat or vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salads?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like shellfish?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mild and non-spicy dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Asian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fried dishes?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n2. Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n3. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n4. Queso made from melted cheese and chili peppers\n5. Assortment cheese soup with chicken\n6. Cheese and olive appetizer made to look like an eyeball\n7. Steak sandwich with mozzarella, banana pepper rings and romaine lettuce\n8. Mozzarella cheese dip\n9. Mozzarella dip recipe\n10. Mozzarella cheese sticks with marinara sauce",
+            "1. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Easy salmon fried rice\n7. 2-ingredient yogurt from scratch\n8. Baked mozzarella cheese sticks with marinara sauce\n9. Mozzarella dip recipe\n10. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs",
+            "2-ingredient yogurt from scratch\nChopped French duck confit preserved by duck oil\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nItalian salad made from romain lettuce, artichokes, and tomatoes\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nLow fat assorted fruit dessert\nLow fat diced baked or fried potatoes\nSmoothie made from banana puree with milk",
+            "Chinese salad made of eggplant and zucchini, flavoured with soy sauce\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSweet salad made with corn and three types of beans\nClassic salad with creamy caesar dressing and croutons\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled vegetables\nSimple creamy oyster soup\nSoup made with ground turkey that is low fat, high carb",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n4. Soup made with shrimp, onions, and scallops\n5. Fried shrimp and scallops\n6. Spaghetti noodles with mussels, anchovy fillets, and capers\n7. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n8. Assorted cheese soup with chicken\n9. Seafood salad with surimi, squid, and clams\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            "Sweet salad made with corn and three types of beans\nItalian salad made from romain lettuce, artichokes, and tomatoes\nSoup made with onions, carrots, and celery ribs\nMildly spicy chili recipe\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nClassic salad with creamy caesar dressing and croutons\nGarden salad with homemade vinegarette\nQueso made from melted cheese and chili peppers\nCheesecake made with cream cheese\n````",
+            "1. Soup made with shrimp, onions, and scallops\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Fried shrimp and scallops\n4. Spaghetti noodles with mussels, anchovy fillets, and capers\n5. Creamy base with dill flavoring, eggs, and noodles\n6. Soup made with onions, carrots, and celery ribs\n7. Sandwich made with: grilled / broiled marinated chicken\n8. Italian salad made from romain lettuce, artichokes, and tomatoes\n9. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n10. Classic salad with creamy caesar dressing and croutons",
+            "1. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n2. Italian salad made from romain lettuce, artichokes, and tomatoes\n3. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n4. Classic salad with creamy caesar dressing and croutons\n5. Sweet salad made with corn and three types of beans\n6. Fried shrimp and scallops\n7. Spaghetti noodles with mussels, anchovy fillets, and capers\n8. Grilled salmon seasoned with salt and pepper\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "1. Classic salad with creamy caesar dressing and croutons\n2. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Chicken breasts stuffed with bacon and mozzarella\n7. Pepperoni pizza\n8. Pizza made with cheese, tomato sauce, and cheese\n9. French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n10. Peach cobbler dessert containing whole wheat flour",
+            "1. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n2. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n3. Grilled salmon seasoned with salt and pepper\n4. Baked salmon dessert pie filled with a sweet pumpkin spice based custard\n5. Low sugar applesauce cupcakes\n6. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n7. Salmon fillets grilled in a pan with herbs and spices\n8. Roasted almonds\n9. Sweet salad made with corn and three types of beans\n10. Mustard potato salad without celery\n''''"
+        ]
+    }
+}

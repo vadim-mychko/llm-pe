@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you have a sweet tooth?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you typically enjoy eating fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Asian food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Vegetable curry flavoured with curry powder and ground tumeric\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nCheese and olive appetizer made to look like an eyeball\nBaked breakfast bars made with nuts and seeds\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nAssorted cheese soup with chicken\nGrilled salmon seasoned with salt and pepper\nBaked spinach quiche containing bacon\nSoup made with ground turkey that is low fat, high carb\nPeaches and cream smoothie",
+            "Chicken breasts stuffed with bacon and mozzarella \\n\nMozzarella dip recipe \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nBaked spinach quiche containing bacon \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned \\n\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.",
+            "1. Norwegian cake with lingonberry and whipped cream layers\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Sticky rice wrapped pork shoulder for Chinese dragon boat festival\n5. Roasted almonds\n6. Smoothies made with banana puree with milk\n7. Hot pot that is not spicy\n8. Assorted cheese soup with chicken\n9. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n10. Roasted almonds",
+            "1. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n2. 2-ingredient yogurt from scratch\n3. Low fat sweet potato fries made with cajun seasoning\n4. Chopped French duck confit preserved by duck oil\n5. Very low-fat assortment of shredded vegetables with seasoning\n6. Low sugar applesauce cupcakes\n7. Smoothie made from fruit juice and bananas\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Peach cobbler dessert containing whole wheat flour",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n3. Low-fat coconut alcohol-free cocktail\n4. Low fat assorted fruit dessert\n5. Mozzarella dip recipe\n6. Diggestion-friendly waffles\n7. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n8. Baked spinach quiche containing bacon\n9. Roasted almonds\n10. Hot pot that is not spicy",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMildly spicy chili recipe\nGrilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nKorean soup containing beef brisket and flavoured with red pepper powder\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nHigh protein skillet with rice and vegetables\nSteak seasoned with salt and pepper\nFried shrimp and scallops",
+            "Mindy chili recipe\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nLow fat shredded vegetables with seasoning\nMeatballs made with ground beef and ground pork\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning\nMildly spicy chili recipe\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nChicken cooked and flavored with lemon sauce",
+            "Very low-fat assortment of shredded vegetables with seasoning \\n\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nChinese salad made of eggplant and zucchini, flavoured with soy sauce \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nItalian salad made from romain lettuce, artichokes, and tomatoes \\n\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears \\n\nSweet salad made with corn and three types of beans \\n\nClassic salad with creamy caesar dressing and croutons \\n\nMildly spicy chili recipe \\n\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper",
+            " Grilled vegetables seasoned with balsamic vinegar and herbs\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nPeppermint chocolate bonbon\n**** \nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n**** \nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSpanish rice with chicken breast\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            "1. Italian salad made from romain lettuce, artichokes, and tomatoes\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n4. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n5. Veggie burger with onion, lettuce, and tomato\n6. Grilled vegetables seasoned with a spices\n7. Roasted almonds\n8. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n9. Low fat assorted fruit dessert\n10. Subway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes"
+        ]
+    }
+}

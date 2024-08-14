@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Do you like dishes with squash in them?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fish or meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetarian or non-vegetarian dishes?",
+                "response": "vegetarian"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like citrus flavours?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer homemade dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer dishes that are baked or fried?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like vegetable soup?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nVery low-fat assortment of shredded vegetables with seasoning\nSoup made with cabbage, carrots, potatoes, and onions\nChocolate cupcakes with blue vanilla custard filling hidden inside the cupcake\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSmoothie made from banana puree with milk\nBreakfast egg, bean, and cheese burrito with jalapeno peppers\n'''",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Soup made with onions, carrots, and celery ribs\n****\n Soup made from vegetables and chicken\n****\n Mildly spicy chili recipe\n****\n Low sugar applesauce cupcakes\n****\n Nokkedli Hungarian dumplings\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Chicken breasts stuffed with bacon and mozzarella",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Vegetable curry flavoured with curry powder and ground tumeric\n****\n Broccoli and beans calcium-rich soup\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Beef stew made with beef, carrots and potatoes\n****\n Grilled salmon seasoned with salt and pepper\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Cabbage, carrots, potatoes, and onions soup\n****\n Carrot, potato, and onion soup\n****\n Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce",
+            "- Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n- Vegetable curry flavoured with curry powder and ground tumeric\n- High protein skillet with rice and vegetables\n- South African vegetable curry flavoured with curry powder and ground tumeric\n- Very low-fat assortment of shredded vegetables with seasoning\n- Assorted cheese soup with chicken\n- High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n- Italian salad made from romain lettuce, artichokes, and tomatoes\n- Sweet salad made with corn and three types of beans\n- Soup made with cabbage, carrots, potatoes, and onions",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n High protein skillet with rice and vegetables\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Assorted cheese soup with chicken\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n Baked breakfast bars made with nuts and seeds\n****\n Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n Sandwich made with: grilled / broiled marinated chicken\n****\n Sweet salad made with corn and three types of beans",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****\nHigh protein skillet with rice and vegetables\n****\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\nSouth African vegetable curry flavoured with curry powder and ground tumeric\n****\nSoup made with vegetables and chicken\n****\nItalian salad made from romain lettuce, artichokes, and tomatoes\n****\nSoup made with cabbage, carrots, potatoes, and onions\n****\nMixed Salad of cucumber, tomato, and red onion with lemon vinaigrette\n****\nSweet salad made with corn and three types of beans\n****\n****\nVegetarian chili recipe\n****\nHomemade soup with chicken, noodles, and spices\n****\nSimple creamy oyster soup\n****\nAssorted cheese soup with chicken\n****\nBean salad recipe\n****\nMushroom chili\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nCheese and vegetable soup with a beer broth\n****\nKorean soup containing beef brisket and flavoured with red pepper powder\n****\nChopped French duck confit preserved by duck oil\n****\nCalcium-rich soup made with broccoli and beans\n****\nGluten-free, egg-free, dairy-free, nut-free fudge\n****\nSmoothie made from banana puree with milk\n****\nLow fat assorted fruit dessert\n****\nCheese with crackers\n****\nPolish sausage with fermented cabbage\n****\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\n****\nStir-fried tofu, noodles and vegetables Bento\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nDigestion-friendly waffles\n****\nHomemade granola\n****\nLow fat diced baked or fried potatoes\n****\nLow-fat coconut alcohol-free cocktail\n****\nMushy peas that are soft\n****\nHot pot that is not spicy\n****\nMozzarella dip recipe\n****\nMeatballs made with ground beef and ground pork\n****",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs \\n\nSouth African vegetable curry flavoured with curry powder and ground tumeric \\n\nVery low-fat assortment of shredded vegetables with seasoning \\n\nSoup made with cabbage, carrots, potatoes, and onions \\n\nDigi\\ngestions-friendly waffles \\n\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce \\n\nLow fat diced baked or fried potatoes \\n\nLow fat assorted fruit dessert \\n\nCreamy base with dill flavoring, eggs, and noodles \\n\nCheese and crackers",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n South African vegetable curry flavoured with curry powder and ground tumeric\n****\n High protein skillet with rice and vegetables\n****\n Soup made with cabbage, carrots, potatoes, and onions\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Assorted cheese soup with chicken\n****\n High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\n Simple creamy oyster soup\n****\n Stir-fried tofu, noodles and vegetables Bento",
+            "Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with cabbage, carrots, potatoes, and onions\nHomemade soup with chicken, noodles, and spices\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat coconut alcohol-free cocktail\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nHigh protein skillet with rice and vegetables\nEggless sauerkraut cake\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nLow fat sweet potato fries made with cajun seasoning",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nSoup made with ground turkey that is low fat, high carb\nSoup made with onions, carrots, and celery ribs\nCreamy base with dill flavoring, eggs, and noodles\nGrilled salmon seasoned with salt and pepper\nHomemade soup with chicken, noodles, and spices\nVegetable soup\nSoup made with vegetables and chicken"
+        ]
+    }
+}

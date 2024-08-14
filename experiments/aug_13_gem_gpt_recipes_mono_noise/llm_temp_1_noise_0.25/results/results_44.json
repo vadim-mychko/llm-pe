@@ -1,0 +1,58 @@
+{
+    "44": {
+        "conv_hist": [
+            {
+                "query": "Do you like low-fat meals?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like mushrooms?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to try hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try shrimp and scallops?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nSoup made with ground turkey that is low fat, high carb\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nSoup with vegetables and chicken",
+            "1. Low fat sweet potato fries made with cajun seasoning\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat diced baked or fried potatoes\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Low fat baked breakfast pie made with sausage (pork) and apples\n6. Low fat assorted fruit dessert\n7. Soup made with ground turkey that is low fat, high carb\n8. Soup made with cabbage, carrots, potatoes, and onions\n9. Salmon fillets grilled in a pan with herbs and spices\n10. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n''''",
+            " Poke of tofu, mushroom and tomatoes\nGrilled salmon seasoned with salt and pepper\nLow fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nLow fat smoothies made with greek yogurt, and pineapple\nSimple creamy oyster soup\nFried shrimp and scallops\nSeafood soup with tomato and rice",
+            "Creamy base with dill flavoring, eggs, and noodles\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow sugar applesauce cupcakes\n2-ingredient yogurt from scratch\nLow fat smoothies made with greek yogurt, and pineapple\nCalcium-rich soup made with broccoli and beans\nLow fat sweet potato fries made with cajun seasoning\nHomemade soup with chicken, noodles, and spices",
+            " Korean soup containing beef brisket and flavoured with red pepper powder\n Grilled salmon seasoned with salt and pepper\n Low fat shrimp soup with onions and scallops\n Grilled salmon fillets in a pan with herbs and spices\n Parmesan and risotto cooked with shrimp, scallops and mushrooms\n Salmon roasted with olive oil, chives, and tarragon leaves\n Spaghetti noodles with mussels, anchovy fillets, and capers\n Fried shrimp and scallops\n Creamy base with dill flavoring, eggs, and noodles\n Soup made with shrimp, onions, and scallops",
+            "1. High protein skillet with rice and vegetables\n2. Chicken breasts stuffed with bacon and mozzarella\n3.Baked mozza cheese sticks with marina sauce \n4. Alfredo spaghetti with no shrimp or scallops\n5.Mozzarella cheese dip recipe\n6. Grilled salmon seasoned with salt and pepper\n7. Grilled herb-seasoned salmon fillets\n8. Salmon roasted with olive oil, chives, and tarragon\n9. Pan-fried, bacon-stuffed chicken breasts\n10. Creamy base with dill flavoring, eggs, and noodles",
+            "1. Cheese with crackers\n2. Simple creamy oyster soup\n3. Mozzarella dip recipe\n4. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n7. Roasted almonds\n8. Roasted almonds\n9. Banana bread made with whole wheat flour and walnuts\n10. Very low-fat assortment of shredded vegetables with seasoning",
+            " Cheese and vegetable soup with a beer broth\n****\nGrilled salmon seasoned with salt and pepper\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nCheese with crackers\n****\nQueso made from melted cheese and chili peppers\n****\nCreamy base with dill flavoring, eggs, and noodles\n****\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\n****\nGarlic bread with cheddar, green onions, and mayonnaise",
+            "Queso made from melted cheese and chili peppers\nMozzarella cheese sticks with marinara sauce\nMozzarella dip recipe\nCalcium-rich soup made with broccoli and beans\nPasta with frozen peas, olive oil, nutritional yeast, and seasoning\nLarge portion fries with gravy and bacon\nLow-fat assorted fruit dessert\nGrilled salmon seasoned with salt and pepper\nSalad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\nHomemade soup with chicken, noodles, and spices\nChicken cooked and flavored with lemon sauce\nBaked mozzarella cheese sticks with marinara sauce\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nFried shrimp and scallops\nMozzarella dip recipe\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nLow fat baked breakfast pie made with sausage (pork) and apples\nPork chops glazed with milk and cooked without nuts\nRoasted almonds\nLow sugar applesauce cupcakes\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nSpam",
+            "High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n****\nBaked breakfast bars made with nuts and seeds\n****\nBaked mozzarella cheese sticks with marinara sauce\n****\nMozzarella dip recipe\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nAssorted cheese soup with chicken\n****\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\nQueso made from melted cheese and chili peppers\n****\nCheese and vegetable soup with a beer broth\n****\nCheese with crackers"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in pork?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in apples?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in low-fat food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chicken?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soups and stews?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sweet foods?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Sweet salad made with corn and three types of beans\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat assorted fruit dessert\nCreamy base with dill flavoring, eggs, and noodles\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nMozzarella dip recipe\nBacon made with brown sugar\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nCreamy base with dill flavoring, eggs, and noodles\n****",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Low fat sweet potato fries made with cajun seasoning\n6. Peach cobbler dessert containing whole wheat flour\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat diced baked or fried potatoes\n9. Digestion-friendly waffles\n10. Vegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "1. Baked breakfast bars made with nuts and seeds\n2. Noodle soup made with turkey, bacon, chicken broth, and seasoned \n3. Spaghetti noodles with mussels, anchovy fillets, and capers\n4. Peaches and cream cobbler containing whole wheat flour\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Minestrone soup made with broccoli, beans, eggs, carrots, celery, pasta, and peppers, enriched with calcium\n7. Breakfast egg, bean, and cheese burrito with jalapeno peppers\n8. Sandwich made with: grilled / broiled marinated chicken\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Roasted almonds\n'''",
+            " Baked breakfast pie made with sausage (pork) and apples\n****\nBaked breakfast bars made with nuts and seeds\n****\nBaked spinach quiche containing bacon\n****\nLow sugar applesauce cupcakes\n****\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n****\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n****\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n****\nBanana bread made with whole wheat flour and walnuts\n****\nPeach cobbler dessert containing whole wheat flour\n****\nBerry cobbler that uses frozen mixed berries",
+            "1. Low fat baked breakfast pie made with sausage (pork) and apples\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Low fat sweet potato fries made with cajun seasoning\n4. Grilled salmon seasoned with salt and pepper\n5. Salmon fillets grilled in a pan with herbs and spices\n6. Soup made with ground turkey that is low fat, high carb\n7. Low fat smoothies made with greek yogurt, and pineapple\n8. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n9. Low fat diced baked or fried potatoes\n10. Low-fat coconut alcohol-free cocktail\n''''",
+            " Low fat baked breakfast pie made with sausage (pork) and apples\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat diced baked or fried potatoes\nFish stew containing ground cod, onion, tomatoes, etc., served with side salad\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nGarlic bread with cheddar, green onions, and mayonnaise\n2-ingredient yogurt from scratch",
+            " Low fat diced baked or fried potatoes\n****\n Low-fat coconut alcohol-free cocktail\n****\n 2-ingredient yogurt from scratch\n****\n Vegetarian low-fat Chili\n****\n Low-sugar applesauce cupcakes\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low fat assorted fruit dessert\n****\n Dog food made from pork, green beans, cheddar cheese and brown rice\n****\n",
+            "1. Very low-fat assortment of shredded vegetables with seasoning\n2. 2-ingredient yogurt from scratch\n3. Low fat baked breakfast pie made with sausage (pork) and apples\n4. Vegetable stirfry with nothing spicy\n5. Simple creamy oyster soup\n6. Low fat smoothies made with greek yogurt, and pineapple\n7. Low-fat coconut alcohol-free cocktail\n8. Low fat sweet potato fries made with cajun seasoning\n9. Low fat baked or fried potatoes\n10. Gluten-free, egg-free, dairy-free, nut-free fudge\n",
+            " 1. Very low-fat assortment of shredded vegetables with seasoning\n2. Low fat sweet potato fries made with cajun seasoning\n3. Cream cheese and green olive stuffed cherry tomatoes\n4. Queso made from melted cheese and chili peppers, served with tortilla chips\n5. Homemade soup with chicken, noodles, and spices\n6. Calcium-rich soup made with broccoli and beans\n7. 2-ingredient yogurt from scratch\n8. Berry cobbler that uses frozen mixed berries\n9. Eggs and potato hash with onion and seasonings\n10. Gingerbread cookies made with ginger, molasses, brown sugar, and cinnamon",
+            " very low-fat assortment of shredded vegetables with seasoning\n****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n 2-ingredient yogurt from scratch\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Low fat diced baked or fried potatoes\n****\n Low-fat coconut alcohol-free cocktail\n****\n Very low-fat assortment of shredded vegetables with a margarine and seasoning\n****\n Low sugar applesauce cupcakes\n****\n Vegetable soup with egg noodles \n****\n Sorghum and tapioca flour flatbread\n****\n Low fat smoothies made with greek yogurt, and pineapple\n****\n Low-fat coconut alcohol-free cocktail\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n****\n 2-ingredient yogurt from scratch****\n Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Low fat assorted fruit dessert\n****\n Low fat sweet potato fries made with cajun seasoning\n****\n Low fat diced baked or fried potatoes\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Low-fat coconut alcohol-free cocktail\n****\n Vegetarian cottage cheese\n****\n Mozzarella dip recipe\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Gluten-free, egg-free, dairy-free, nut-free fudge\n****"
+        ]
+    }
+}

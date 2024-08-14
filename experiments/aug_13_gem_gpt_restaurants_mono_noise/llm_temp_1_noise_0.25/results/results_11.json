@@ -1,0 +1,58 @@
+{
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in vegan cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a restaurant with a bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a place to get sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegetarian or Italian-style sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Is a chicken sandwich something you would like?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a regular ham-and-cheese or turkey-type sandwich?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a cheesesteak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " The Juice Merchant \nZuzu's Kitchen \nThe Tasty Toast \nVeda - Modern Indian Bistro \nBenna's Cafe \nMonster Vegan \nHey Hummus \nJake's & Cooper's Wine Bar & Wine Shop \nChinatown 11 \nNew York Gyro Truck",
+            " Izumi \n Fuji Mountain \n Canton 11 \n Tavern On the Hill \n North Bowl \n Paddy's Old City Pub \n North Bowl \n Mad River Manayunk \n CJ & Eck's \n Founding Fathers Sports Bar & Grill",
+            "PrimoHoagies \nThe Juice Merchant \nThe Tasty Toast \nZuzu's Kitchen \nFederal Donuts \nWerk Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nDaleng Restaurant \nThe QUICK FIXX",
+            " Zuzu's Kitchen \n PrimoHoagies \n Daleng Restaurant \n The Tasty Toast \n The Juice Merchant \n Mugshots Coffeehouse \n Castellino's \n Benna's Cafe \n Lisa's Kitchen \n Green Leafs & Bananas",
+            " The QUICK FIXX \nLisa's Kitchen \nSpread Bagelry \nGreen Leafs & Bananas\nThe Green Line Cafe \nSteve's Prince of Steaks \nTrolley Car Diner \nWawa \nRoy-Pitz Barrel House \nBoathouse Restaurant \nSabrina's Cafe \nJack's Firehouse",
+            "Steve's Prince of Steaks \nLisa's Kitchen \nGreen Leafs & Bananas \nTrolley Car Diner \nSpread Bagelry \nMacaroni's Restaurant \nWawa \nThe Green Line Cafe \nJake's & Cooper's Wine Bar & Wine Shop \nDim Sum House ",
+            "Dim Sum House\nTavern On the Hill\nRoy-Pitz Barrel House\nHouse\nCanton 11\nNorth Bowl\nHeritage\nRistorante La Buca\nFOUNDING FATHERS SPORTS BAR & GRILL\nWater Works Restaurant & Lounge",
+            " PrimoHoagies \nLisa's Kitchen \nBenna's Cafe \nGreen Leafs & Bananas \nThe Green Line Cafe \nTrolley Car Diner \nJack's Firehouse \nLuvh Vegan Deli \nSpread Bagelry \nThe QUICK FIXX",
+            "1. PrimoHoagies \n2. Steve's Prince of Steaks \n3. Luhv Vegan Deli \n4. Spread Bagelry \n5. The Green Line Cafe \n6. Trolley Car Diner \n7. Jack's Firehouse \n8. Chinatown \n9. Lisa's Kitchen \n10. Green Leafs & Bananas",
+            "1. PrimoHoagies\n2. Daleng Restaurant\n3. Golden Triangle\n4. The Juice Merchant\n5. Zuzu's Kitchen\n6. Sang Kee Peking Duck House\n7. Baan Thai\n8. The QUICK FIXX\n9. Canton 11\n10. Luhv Vegan Deli"
+        ]
+    }
+}

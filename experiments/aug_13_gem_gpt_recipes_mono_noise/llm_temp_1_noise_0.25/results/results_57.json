@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Do you usually have pork or chicken for dinner?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer vegetables or fish for dinner?",
+                "response": "vegetables"
+            },
+            {
+                "query": "Are you interested in soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer pork or fish for dinner?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot pot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer soups made with vegetables or soups made with meat?",
+                "response": "soups made with meat"
+            },
+            {
+                "query": "Do you prefer soups that are creamy or broth-based?",
+                "response": "broth-based"
+            },
+            {
+                "query": "Do you like soups that are low-fat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups that are made with ground turkey?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " 1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n2. Grilled salmon seasoned with salt and pepper\n****\n3. Salmon fillets grilled in a pan with herbs and spices\n****\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n****\n5. Beef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\n****\n6. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n****\n7. Italian salad made from romain lettuce, artichokes, and tomatoes\n****\n8. Spinach and ham quiche\n****\n9. Roasted almonds\n****\n10. Eggs with cheese or meat\n****",
+            " High protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nMildly spicy chili recipe\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            "Korean soup containing beef brisket and flavoured with red pepper powder\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nCalcium-rich soup made with broccoli and beans\nDigestion-friendly waffles\nChicken soup flavored with lemon sauce\nSoup made with vegetables and chicken\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\n```",
+            " Soup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nLow fat coconut alcohol-free cocktail\nHomemade soup with chicken, noodles, and spices\nCalcium-rich soup made with broccoli and beans\nSoup made with vegetables and chicken\n****\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nLow fat diced baked or fried potatoes\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nAssorted cheese soup with chicken\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nHomemade soup with chicken, noodles, and spices\nAssorted cheese soup with chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nLow fat soup made with vegetables and chicken",
+            " Soup made with cabbage, carrots, potatoes, and onions\n****\n Vegetable or fish for dinner?\nUser: vegetables\n****\n Soup made with ground turkey that is low fat, high carb\n****\n Very low-fat assortment of shredded vegetables with seasoning\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Assorted cheese soup with chicken\n****\n Soup made with onions, carrots, and celery ribs\n****\n Calcium-rich soup made with broccoli and beans\n****\n Soup made with vegetables and chicken\n****\n Low-fat soup made with chicken, noodles, and spices\n****\n Homemade soup with chicken, noodles, and spices\n****",
+            "1. Soup made with shrimp, onions, and scallops\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Soup made with ground turkey that is low fat, high carb\n4. Soup made with onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Soup made with vegetables and chicken\n7. Calcium-rich soup made with broccoli and beans\n8. Korean soup containing beef brisket and flavoured with red pepper powder\n9. Homemade soup with chicken, noodles, and spices\n10. Soup made with cabbage, carrots, potatoes, and onions\n'''",
+            "Soup made with ground turkey that is low fat, high carb\nAssorted cheese soup with chicken\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSoup made with shrimp, onions, and scallops\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nMeat loaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nKorean soup containing beef brisket and flavoured with red pepper powder\nShredded barbecued pork shoulder\nVery low-fat assortment of shredded vegetables with seasoning",
+            "Soup made with ground turkey that is low fat, high carb\nSoup made with cabbage, carrots, potatoes, and onions\nBeef stew made with beef, carrots and potatoes\nSoup made with vegetables and chicken\nSoup made with shrimp, onions, and scallops\nAssorted cheese soup with chicken\nMildly spicy chili recipe\nCalcium-rich soup made with broccoli and beans\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth"
+        ]
+    }
+}

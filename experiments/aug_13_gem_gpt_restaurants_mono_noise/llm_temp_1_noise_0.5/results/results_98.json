@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in vegan sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for burgers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for hot dogs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken sandwiches?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for breakfast sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want chicken wings as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian sandwiches?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Daleng Restaurant \n2. The Juice Merchant \n3. Golden Triangle \n4. Zuzu's Kitchen \n5. PrimoHoagies \n6. Mong Kok Station \n7. Water Works Restaurant & Lounge \n8. The Tasty Toast \n9. Federal Donuts \n10. Le Pain Quotidien",
+            " PrimoHoagies \nFederal Donuts \nThe QUICK FIXX \nGreen Leafs & Bananas \nSubway \nThe Green Line Cafe \nSpread Bagelry \nLisa's Kitchen \nJersey Mike's Subs \nRittenhouse Deli",
+            "1. Zuzu's Kitchen\n2. Germantown Garden\n3. PrimoHoagies\n4. The Tavern Restaurant\n5. Five Guys\n6. Lisa's Kitchen\n7. Steve's Prince of Steaks\n8. Green Leafs & Bananas\n9. The Green Line Cafe\n10. Spread Bagelry",
+            "Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nGermantown Garden \nPrimoHoagies \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nDaleng Restaurant",
+            "Zuzu's Kitchen\nPrimoHoagies\nThe Juice Merchant\nThe Tasty Toast\nLe Pain Quotidien\nThe Milk House\nWawa\nGreen Leafs & Bananas\nThe Green Line Cafe\nSpread Bagelry\n",
+            "1. Zuzu's Kitchen \n2. Golden Triangle \n3. PrimoHoagies \n4. The Tasty Toast\n5. The Juice Merchant\n6. Federal Donuts \n7. Five Guys \n8. Cucina Zapata \n9. Momofuku Ssam Bar\n10. Wawa ",
+            "1. Love & Honey Fried Chicken\n2. Lisa's Kitchen\n3. Wishbone\n4. Macaroni's Restaurant\n5. Franklin's\n6. Jack's Firehouse\n7. Canton 11\n8. JD Mcgillicuddy's Manayunk \n9. Blackbird Pizzeria\n10. Luhv Vegan Deli",
+            "Love & Honey Fried Chicken \nLisa's Kitchen \nBetty's Speakeasy \nWishbone \nFive Guys \nMisconduct Tavern \nThe Blue Duck \nSpread Bagelry \nThe Green Line Cafe \nMcDonalds",
+            "Lisa's Kitchen \\n\nThe QUICK FIXX \\n\nThe Blue Duck \\n\nFederal Donuts \\n\nLucky's Last Chance \\n\nLove & Honey Fried Chicken \\n\nFive Guys \\n\nMcMenamin's Tavern \\n\nFranklin's \\n\nWawa",
+            "1) Wishbone\n2) Lisa's Kitchen\n3) Five Guys\n4) Founding Fathers Sports Bar & Grill\n5) Love & Honey Fried Chicken\n6) Misconduct Tavern\n7) Jack's Firehouse\n8) Federal Donuts\n9) Green Leafs & Bananas\n10) Wawa"
+        ]
+    }
+}

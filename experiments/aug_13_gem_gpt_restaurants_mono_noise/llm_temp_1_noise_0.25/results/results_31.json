@@ -1,0 +1,58 @@
+{
+    "31": {
+        "conv_hist": [
+            {
+                "query": "Do you eat Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a place with street parking?",
+                "response": "i'm sorry, but i don't have enough information to answer that question."
+            },
+            {
+                "query": "Are you looking for a juice bar?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want a place that serves pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a bakery that offers gluten-free options?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer a bakery that offers vegan options?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bakery with breakfast options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you more interested in getting a bagel for breakfast?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you specifically looking for a place that also offers chicken wings?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Lacroix Restaurant at The Rittenhouse \n Noto - Northern Italian Dining \n The Rittenhouse - A Belmond Hotel, Philadelphia \n Buddakan \n Sampan \n Horizons Rooftop at Hyatt Centric Center City \n The Olde Bar \n Talula's Garden \n Parc \n Martha \n Zahav",
+            "1. Golden Triangle\n2. Grain Exchange\n3. Water Works Restaurant & Lounge\n4. Zuzu's Kitchen\n5. Fiore Fine Foods\n6. Cook and Shaker\n7. PrimoHoagies\n8. A Tutti, Ristorante Italiano\n9. Macaroni's Restaurant\n10. Founding Fathers Sports Bar & Grill",
+            "****\n name: Zuzu's Kitchen\n categories: Restaurants, Pizza, Salad, Sandwiches, Food Delivery Services, Food\n****\n name: Golden Triangle\n categories: Restaurants, Malaysian, Burmese, Asian Fusion, Thai\n****\n name: Daleng Restaurant\n categories: Restaurants, Cambodian, Thai, Vietnamese, Asian Fusion\n****\n name: Federal Donuts\n categories: Restaurants, Donuts, Chicken Wings, Food, Coffee & Tea\n****\n name: The Tasty Toast\n categories: Restaurants, Breakfast & Brunch, American (Traditional), Cheesesteaks, Cafes\n****\n name: ChinChin Restaurant\n categories: Restaurants, Event Planning & Services, Pan Asian, Venues & Event Spaces, Chinese, Caterers, Asian Fusion\n****\n name: The Grill  Smuckers\n categories: Restaurants, American (New), Breakfast & Brunch, Farmers Market, Food\n****\n name: Tavern On the Hill\n categories: Restaurants, Nightlife, American (New), American (Traditional), Bars, Pubs, Lounges\n****\n name: Paddy's Old City Pub\n categories: Restaurants, American (Traditional), Nightlife, Bars, Pubs\n****\n name: Macaroni's Restaurant\n categories: Restaurants, Nightlife, Beer Gardens, Italian, Pizza",
+            "Blackbird Pizzeria \nThe Cheesecake Factory \nTu's Tea & Banh Mi South Philly \nBetty's Speakeasy \nThe Green Line Cafe \nKC's Pastries \nSpread Bagelry \nOteri's Italian Bakery | North 5th St \nFiore Fine Foods \nParc",
+            "1. Tu's Tea & Banh Mi South Philly \n2. Betty's Speakeasy \n3. Oteri's Italian Bakery | North 5th St \n4. Fiore Fine Foods \n5. KC's Pastries \n6. Gran Caffe L'Aquila \n7. A Tutti, Ristorante Italiano \n8. Chestnut 7 \n9. Green Leafs & Bananas \n10. Fiore Fine Foods \n11. Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. The Cheesecake Factory \n2. Lucky's Last Chance \n3. Blackbird Pizzeria \n4. Sang Kee Peking Duck House \n5. Betty's Speakeasy \n6. Founding Fathers Sports Bar & Grill \n7. Oishii Pok\u00e9 \n8. Federal Donuts \n9. CinCin Restaurant \n10. Miga Korean BBQ & Sushi",
+            "Essene Market & Caf\u00e9 \nGreen Leafs & Bananas \nThe Juice Merchant \nTu's Tea & Banh Mi South Philly \nPure Tacos \nMonster Vegan \nVedge \nHey Hummus \nBenna's Cafe \nThe QUICK FIXX",
+            "Gran Caffe L'Aquila\nBetty's Speakeasy\nSister Muhammad's Kitchen\nEssene Market & Caf\u00e9\nTrolley Car Diner\nOteri's Italian Bakery | North 5th St\nParc\nThe Fresh Grocer - Progress Plaza\nSpread Bagelry\nFiore Fine Foods",
+            "Talutto's Authentic Italian Food \nThe QUICK FIXX \nSister Muhammad's Kitchen \nEssence Market & Cafe \nSpread Bagelry \nTrolley Car Diner \nWawa \nKC'S Pastries \nBlackbird Pizzeria \nBetty's Speakeasy",
+            "Trolley Car Diner \\n\nWawa \\n\nSpread Bagelry \\n\nTu's Tea & Banh Mi South Philly \\n\nGran Caffe L'Aquila \\n\nSister Muhammad's Kitchen \\n\nBetty's Speakeasy \\n\nGreen Leafs & Bananas \\n\nThe Fresh Grocer - Progress Plaza \\n\nEssene Market & Caf\u00e9"
+        ]
+    }
+}

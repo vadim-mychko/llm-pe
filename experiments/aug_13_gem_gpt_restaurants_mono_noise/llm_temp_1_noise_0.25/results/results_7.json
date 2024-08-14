@@ -1,0 +1,58 @@
+{
+    "7": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in American cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a sit-down restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering \"Zuzu's Kitchen\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a bar or a restaurant to eat at?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Zuzu's Kitchen \n2. Water Works Restaurant & Lounge \n3. The Tasty Toast \n4. The Milk House \n5. Valley Green Inn \n6. The Grill  Smuckers \n7. Bistro SouthEast \n8. Olive Garden Italian Restaurant \n9. Macaroni's Restaurant \n10. The Cheesecake Factory",
+            " Zuzu's Kitchen \nGrain Exchange \nThe Blue Duck \nBlackbird Pizzeria \nThe QUICK FIXX \nChestnut 7 \nSpread Bagelry \nWawa \nO'Connors Bar & Grill \nThe Cheesecake Factory",
+            " Chestnut 7 \nZuzu's Kitchen \nFederal Donuts \nRoy-Pitz Barrel House \nBlackbird Pizzeria \nEvan's Pizza \nThe QUICK FIXX \nA Tutti, Ristorante Italiano \nFiore Fine Foods \n Jake's & Cooper's Wine Bar & Wine Shop",
+            "1. Chestnut 7\n2. Spread Bagelry\n3. McMenamin's Tavern\n4. Jake's & Cooper's Wine Bar & Wine Shop\n5. Parc\n6. The QUICK FIXX\n7. Evan's Pizza\n8. Roy-Pitz Barrel House\n9. Fiore Fine Foods\n10. A Tutti, Ristorante Italiano",
+            " Zuzu's Kitchen \n Golden Triangle \n PrimoHoagies \n Daleng Restaurant \n Federal Donuts \n The Tasty Toast \n A Tutti, Ristorante Italiano \n Talluto's Authentic Italian Food \n SanguKee Peking Duck House \n Canton 11",
+            "1. Zuzu's Kitchen \n2. The QUICK FIXX \n3. Chestnut 7 \n4. Roy-Pitz Barrel House \n5. Parc \n6. Jake's & Cooper's Wine Bar & Wine Shop \n7. Misconduct Tavern \n8. Founding Fathers Sports Bar & Grill \n9. Federal Donuts \n10. Lucky's Last Chance ",
+            " Zuzu's Kitchen \nGolden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nA Tutti, Ristorante Italiano \nChestnut 7 \nRoy-Pitz Barrel House \nEvan's Pizza \nThe QUICK FIXX \nAudrey Claire",
+            " Golden Triangle \nWater Works Restaurant & Lounge \nLacroix Restaurant at The Rittenhouse \nZuzu's Kitchen \nPrimoHoagies \nA Tutti, Ristorante Italiano \nRoy-Pitz Barrel House \nEvan's Pizza \nBlackbird Pizzeria \nThe QUICK FIXX",
+            "1. Chestnut 7\n2. Royal Pizza\n3. The QUICK FIXX\n4. Fiore Fine Foods\n5. Roy-Pitz Barrel House\n6. Jake's & Cooper's Wine Bar & Wine Shop\n7. Gran Caffe L'Aquila\n8. Audrey Claire\n9. The Blue Duck\n10. Rival Bros Coffee",
+            "Golden Triangle \nLongHorn Steakhouse \nChipotle Mexican Grill \nBloomsday Cafe \nGran Caffe L\u2019Aquila \nTiki Pineapple Co \nBarclay Prime \nPhilly Flavors \nToh Daeng Thai Basil \nLaRosa's Pizzeria"
+        ]
+    }
+}

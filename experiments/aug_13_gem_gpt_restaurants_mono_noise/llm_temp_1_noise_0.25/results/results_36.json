@@ -1,0 +1,58 @@
+{
+    "36": {
+        "conv_hist": [
+            {
+                "query": "Do you like Jamaican cuisine?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you enjoy food trucks?",
+                "response": "no"
+            },
+            {
+                "query": "Have you tried Colombian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in vegetarian pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in Mediterranean food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a restaurant with a bar?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in breakfast and brunch?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a burger over a steak?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in venues and event spaces?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Daleng Restaurant \nZuzu's Kitchen \nBistro SouthEast \nFederal Donuts \nBaan Thai \nMiga Korean BBQ & Sushi \nSang Kee Peking Duck House \nMacaroni's Restaurant \nJing's House Jamaican Kitchen\nTu's Tea & Banh Mi South Philly",
+            "Sister Muhammad's Kitchen \nOishii Pok\u00e9 \nJamaica Mia \nSteve's Prince of Steaks \nDim Sum House \nPearl's Oyster Bar \nTu's Tea & Banh Mi South Philly \nBaan Thai \nDaleng Restaurant \nBistro SouthEast",
+            "1. Jamaican Jerk Hut\n2. Ting Wong\n3. Tea Room Cafe\n4. Stella Maris Bakery\n5. Pennsylvania 6\n6. Potbelly Sandwich Shop\n7. New York Gyro Truck\n8. One Shot Cafe\n9. Paladar Rittenhouse Square\n10. Necho's Mexican Food & Soups\n'''''",
+            " Ristorante La Buca \\n\nA Tutti, Ristorante Italiano \\n\nTalluto's Authentic Italian Food \\n\nCastellino's \\n\nFiore Fine Foods \\n\nMacaroni's Restaurant \\n\nThe QUICK FIXX \\n\nOlive Garden Italian Restaurant \\n\nDiNic's Roast Pork with Broccoli Rabe and Sharp Provolone \\n\nPorcini",
+            "1. The QUICK FIXX \n2. Fiore Fine Foods \n3. A Tutti, Ristorante Italiano \n4. Macaroni's Restaurant \n5. Pizzeria Stella \n6. Connie's Ric Rac \n7. Rustica Pizza Napoletana \n8. Pietro's Coal Oven Pizza \n9. Capogiro Gelato Artisans \n10. Sat\u00e9 Kampar",
+            "- Zuzu's Kitchen\n- Golden Triangle\n- A Tutti, Ristorante Italiano\n- Olive Garden Italian Restaurant\n- Roy-Pitz Barrel House\n- Macaroni's Restaurant\n- The QUICK FIXX\n- Blackbird Pizzeria\n- Fiore Fine Foods\n- The Cheesecake Factory",
+            "*********\n1. Lacroix Restaurant at The Rittenhouse \n2. A Tutti, Ristorante Italiano \n3. CinCin Restaurant \n4. Le Pain Quotidien \n5. Talluto's Authentic Italian Food \n6. Castellino's \n7. Ristorante La Buca \n8. Olive Garden Italian Restaurant \n9. Macaroni's Restaurant\n10. Fiore Fine Foods\n*********",
+            "1. A Tutti, Ristorante Italiano\n2. Daleng Restaurant\n3. Golden Triangle\n4. Izumi\n5. Mong Kok Station\n6. PrimoHoagies\n7. Ristorante La Buca\n8. Fiore Fine Foods\n9. Macaroni's Restaurant\n10. Olive Garden Italian Restaurant",
+            "LaCroix Restaurant At The Rittenhouse \nA Tutti, Ristorante Italiano \nZuzu's Kitchen \nOlivo Garden Italian Restaurant \nTalluto's Authentic Italian Food \nLa Buca Ristorante \nCinCin Restaurant \nCastellino's \nThe QUICK FIXX \nPrimoHoagies",
+            "Jake's & Cooper's Wine Bar & Wine Shop \nItalian Market & Caffe \nVetri Cucina \nAudrey Claire \nRistorante La Buca \nCantina Los Caballitos \nAmis \nZama \nGiorgio on Pine \nZahav"
+        ]
+    }
+}

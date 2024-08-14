@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Would you like something alcoholic?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegetarian options?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in soup?",
+                "response": "yes"
+            },
+            {
+                "query": "Does the soup contain vegetables?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like cream soups?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in meat-based soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like spicy soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in meat-based soups that contain spicy peppers?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Low-fat coconut alcohol-free cocktail\nLow fat sweet potato fries made with cajun seasoning\nLow sugar applesauce cupcakes\nSmoothie made from fruit juice and bananas\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple\nLow fat assortment of shredded vegetables with seasoning\nLow fat baked breakfast pie made with sausage (pork) and apples\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n2-ingredient yogurt from scratch",
+            " High protein skillet with rice and vegetables\n****\nBeef stew made with beef, carrots and potatoes\n****\nGrilled salmon seasoned with salt and pepper\n****\nLow fat baked breakfast pie made with sausage (pork) and apples\n****\nChicken breasts stuffed with bacon and mozzarella\n****\nChopped French duck confit preserved by duck oil\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nLow fat sweet potato fries made with cajun seasoning\n****\nVery low-fat assortment of shredded vegetables with seasoning\n****",
+            " High protein skillet with rice and vegetables\n****\nGrilled salmon seasoned with salt and pepper\n****\nPoke of tofu, mushroom and tomatoes\n****\nQueso made from melted cheese and chili peppers\n****\nBeef stew made with beef, carrots and potatoes\n****\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\nSalmon roasted with olive oil, chives, and tarragon leaves\n****\nShredded barbecued pork shoulder\n****\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar",
+            "1. 2-ingredient yogurt from scratch\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n4. Large portion fries with gravy and bacon\n5. Beef stew made with beef, carrots and potatoes\n6. Poke of tofu, mushroom and tomatoes\n7. Queso made from melted cheese and chili peppers\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nItalian salad made from romain lettuce, artichokes, and tomatoes\nLow fat smoothies made with greek yogurt, and pineapple\nVegetable and chicken soup\nCalcium-rich soup made with broccoli and beans",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nCreamy base with dill flavoring, eggs, and noodles\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, celery ribs\nSimple creamy oyster soup\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nAssorted cheese soup with chicken\nSimple creamy oyster soup\nVegetable and chicken soup\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\n****\n\nAdditional Notes:\nThe code below is written in Python and can be used to generate the list of recipe descriptions in order of most to least relevant for the user.\n\n```python\ndef generate_recipe_list(item_descriptions, conversation_history, list_length):\n  \"\"\"Generates a list of recipe descriptions in order of most to least relevant for the user.\n\n  Args:\n    item_descriptions: A list of recipe descriptions.\n    conversation_history: A list of conversation turns.\n    list_length: The length of the list to generate.\n\n  Returns:\n    A newline-separated list of recipe descriptions in order of most to least relevant for the user.\n  \"\"\"\n\n  # Create a dictionary of conversation history items.\n  conversation_history_dict = {}\n  for turn in conversation_history:\n    for item in turn.split():\n      conversation_history_dict[item] = True\n\n  # Create a list of tuples, each containing a recipe description and a relevance score.\n  recipe_descriptions_with_relevance = []\n  for description in item_descriptions:\n    relevance_score = 0\n    for word in description.split():\n      if word in conversation_history_dict:\n        relevance_score += 1\n    recipe_descriptions_with_relevance.append((description, relevance_score))\n\n  # Sort the list of tuples by relevance score in descending order.\n  recipe_descriptions_with_relevance.sort(key=lambda x: x[1], reverse=True)\n\n  # Return a newline-separated list of the top `list_length` recipe descriptions.\n  return \"\\n\".join([description for description, relevance_score in recipe_descriptions_with_relevance[:list_length]])\n```",
+            "Soup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nBeef stew made with beef, carrots and potatoes\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with onions, carrots, and celery ribs\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nVery low-fat assortment of shredded vegetables with seasoning\nSimple creamy oyster soup\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nCalcium-rich soup made with broccoli and beans",
+            "Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \\n\nSpicy Korean soup containing beef brisket and flavoured with red pepper powder \\n\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar \\n\nHomemade soup with chicken, noodles, and spices \\n\nAssorted cheese soup with chicken \\n\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \\n\nBeef stew made with beef, carrots and potatoes \\n\nLow fat turkey soup that is low fat, high carb \\n\nShredded barbecued pork shoulder \\n\nSoup made with ground turkey that is low fat, high carb\n''''",
+            "Spicy chili recipe \nMildly spicy chili recipe \nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper \nSoup made with ground turkey that is low fat, high carb \nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese \nKorean soup containing beef brisket and flavoured with red pepper powder \nPeppermint chocolate bonbon \nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa \nMozzarella dip recipe \nSoup made with shrimp, onions, and scallops "
+        ]
+    }
+}

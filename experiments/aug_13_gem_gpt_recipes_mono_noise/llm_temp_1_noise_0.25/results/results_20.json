@@ -1,0 +1,58 @@
+{
+    "20": {
+        "conv_hist": [
+            {
+                "query": "Do you eat meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot and spicy food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to bake?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like sweet items?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like chocolate?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fruit?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like cheese?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like crackers?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "2-ingredient yogurt from scratch\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nVery low-fat diced baked or fried potatoes\nLow-fat coconut alcohol-free cocktail\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nStir-fried tofu, noodles and vegetables Bento\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\nLow fat smoothies made with greek yogurt, and pineapple",
+            " 2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nVery low-fat assortment of shredded vegetables with seasoning\nLow fat sweet potato fries made with cajun seasoning\nLow fat smoothies made with greek yogurt, and pineapple\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning\nMushy peas that are soft\nLow fat assorted fruit dessert\nBanana bread made with whole wheat flour and walnuts\nEggless sauerkraut cake\n",
+            "High protein skillet with rice and vegetables\nLow fat baked breakfast pie made with sausage (pork) and apples\nNoodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\nBaked breakfast bars made with nuts and seeds\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nLow fat smoothies made with greek yogurt, and pineapple\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nCalcium-rich soup made with broccoli and beans\nGluten-free, egg-free, dairy-free, nut-free fudge\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            " More results based on your last conversation:\n\n1. Creamy base with dill flavoring, eggs, and noodles\n2. Noodles made with egg with a mixture of turkey, bacon, chicken broth, and seasoned\n3. Very low-fat assortment of shredded vegetables with seasoning\n4. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n5. Spaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\n6. Baked breakfast bars made with nuts and seeds\n7. Oatmeal cookies with cranberries and apple sauce\n8. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n9. Smoothies made with low-fat kefir\n10. Milky smooth fruit smoothie\n",
+            "Chocolate and orange-flavoured smoothie \\n\nLow sugar applesauce cupcakes \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nLow fat baked breakfast pie made with sausage (pork) and apples \\n\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\nNorwegian cake with lingonberry and whipped cream layers \\n\nGluten-free, egg-free, dairy-free, nut-free fudge \\n\nPeppermint chocolate bonbon \\n\nPeach cobbler dessert containing whole wheat flour \\n\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\n''''",
+            " Chocolate cupcakes with blue vanilla custard filling hidden inside the cupcake \\n\n Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\n Norway cake with lingonberry and whipped cream layers \\n\n French chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar \\n\n Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\n Peach cobbler dessert containing whole wheat flour \\n\n Berry cobbler that uses frozen mixed berries \\n\n Low sugar applesauce cupcakes \\n\n Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk \\n\n Sugar-free peanut butter cookies",
+            " Low sugar applesauce cupcakes \\n\nChocolate and orange-flavoured smoothie \\n\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\nPeach cobbler dessert containing whole wheat flour \\n\nN//A",
+            " Baked breakfast bars made with nuts and seeds\nLow sugar applesauce cupcakes\nGluten-free, egg-free, dairy-free, nut-free fudge\nLow fat assorted fruit dessert\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPeach cobbler dessert containing whole wheat flour\nBanana bread made with whole wheat flour and walnuts\nEggless sauerkraut cake\nVery low-fat assortment of shredded vegetables with seasoning",
+            "1. Chopped French duck confit preserved by duck oil\n2. Grilled salmon seasoned with salt and pepper\n3. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n4. Roasted almonds\n5. Strawberry banana pancakes\n6. Spam musubi\n7. Tapioca pearls\n8. Sausage and kale soup\n9. Kabocha congee\n10. Vanilla coconut overnight oats\n11. Vietnamese summer rolls\n12. Vegan sundae with pineapple ice cream and coconut whipped cream\n13. Sesame glazed meatballs\n14. Vegetable salad with hard-boiled eggs and bacon\n15. Chocolate chip banana pancakes\n16. Sweet potato chocolate cake with cream cheese frosting\n17. Steamed rice\n18. Peanut butter oatmeal cookies\n19. Oatmeal with banana and peanut butter\n20. Banana chocolate chip muffins\n21. Oatmeal with apple and cinnamon\n22. Apple pie smoothie\n23. Grilled chicken with pineapple salsa\n24. Cream of broccoli soup\n25. Bean and cheese burritos with green sauce\n26. Coconut yogurt\n27. Ice cream\n28. Scrambled eggs with cheese\n29. Fresh fruit\n30. Greek salad\n31. Chicken noodle soup\n32. Tuna salad\n33. Potato salad\n34. Pasta salad\n35. Bean salad\n36. Ham sandwich\n37. Turkey sandwich\n38. Grilled cheese sandwich\n39. Peanut butter and jelly sandwich\n40. Popcorn\n41. Chips and salsa\n42. Guacamole\n43. Queso\n44. Nachos\n45. Hummus\n46. Tzatziki\n47. Baba ganoush\n48. Falafel\n49. Dolmas\n50. Baklava\n51. Kheer\n52. Gulab jamun\n53. Jalebi\n54. Laddu\n55. Mochi\n56. Taiyaki\n57. Dango\n58. Dorayaki\n59. Manju\n60. Mochi ice cream\n61. Matcha green tea ice cream\n62. Uji matcha green tea ice cream\n63. Hojicha green tea ice cream\n64. Genmaicha green tea ice cream\n65. Bancha green tea ice cream\n66. Kukicha green tea ice cream\n67. Mugicha green tea ice cream\n68. Sencha green tea ice cream\n69. Gyokuro green tea ice cream\n70. Kabusecha green tea ice cream\n71. Tencha green tea ice cream\n72. Matcha green tea latte\n73. Uji matcha green tea latte\n74. Hojicha green tea latte\n75. Genmaicha green tea latte\n76. Bancha green tea latte\n77. Kukicha green tea latte\n78. Mugicha green tea latte\n79. Sencha green tea latte\n80. Gyokuro green tea latte\n81. Kabusecha green tea latte\n82. Tencha green tea latte\n83. Matcha green tea smoothie\n84. Uji matcha green tea smoothie\n85. Hojicha green tea smoothie\n86. Genmaicha green tea smoothie\n87. Bancha green tea smoothie\n88. Kukicha green tea smoothie\n89. Mugicha green tea smoothie",
+            "1. Applesauce cupcakes\n2. Sugar-free peanut butter cookies\n3. Baked pumpkin dessert pie\n4. Baked breakfast bars made with nuts and seeds\n5. Simple creamy oyster soup\n6. Soup made from vegetables and chicken\n7. Roasted almonds\n8. Banana bread made with whole wheat flour and walnuts\n9. Eggless sauerkraut cake\n10. Meatballs made with ground beef and ground pork\n"
+        ]
+    }
+}

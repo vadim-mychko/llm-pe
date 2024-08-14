@@ -1,0 +1,58 @@
+{
+    "14": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer Italian cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Japanese restaurants?",
+                "response": "no"
+            },
+            {
+                "query": "Would you go for a Vietnamese spot?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy American food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Mexican food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try Indian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer vegetarian Indian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for Thai food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a Korean restaurant?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you prefer a Korean BBQ spot?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            " Fuji Mountain \\n\nCanton 11 \\n\nDaleng Restaurant \\n\nSang Kee Peking Duck House \\n\nGolden Triangle \\n\nMiga Korean BBQ & Sushi \\n\nBistro SouthEast \\n\nTu's Tea & Banh Mi South Philly \\n\nRistorante La Buca \\n\nA Tutti, Ristorante Italiano",
+            "Golden Triangle \\n\nWater Works Restaurant & Lounge \\n\nGrain Exchange \\n\nFuji Mountain \\n\nCanton 11 \\n\nBistro SouthEast \\n\nBaan Thai \\n\nMiga Korean BBQ & Sushi \\n\nDim Sum House \\n\nOishii Pok\u00e9",
+            "Zuzu's Kitchen\nGolden Triangle\nWater Works Restaurant & Lounge\nGrain Exchange\nVeda - Modern Indian Bistro\nNorth Bowl\nMacaroni's Restaurant\nDim Sum House\nPearl's Oyster Bar\nMiga Korean BBQ & Sushi",
+            "Water Works Restaurant & Lounge \nZuzu's Kitchen \nGolden Triangle \nThe Tasty Toast \nThe Juice Merchant \nFederal Donuts \nMong Kok Station \nLacroix Restaurant at The Rittenhouse \nLe Pain Quotidien \nThe Milk House",
+            " Fuji Mountain \nIzumi \nMiga Korean BBQ & Sushi \nOishii Pok\u00e9 \nSang Kee Peking Duck House \nBistro SouthEast \nDaleng Restaurant \nThe Blue Duck \nTu's Tea & Banh Mi South Philly \nBaan Thai",
+            "1) Veda - Modern Indian Bistro\n2) Mood Indian Restaurant\n3) Daleng Restaurant\n4) Heritage \n5) Grain Exchange \n6) Izumi \n7) A Tutti, Ristorante Italiano \n8) Kokopelli Restaurant & Tequila Bar\n9) Bistro SouthEast\n10) Miga Korean BBQ & Sushi",
+            "Mood Indian Restaurant \\n\nVeda - Modern Indian Bistro \\n\nA Tutti, Ristorante Italiano \\n\nDaleng Restaurant \\n\nCanton 11 \\n\nDim Sum House \\n\nRoy-Pitz Barrel House \\n\nIzumi \\n\nBetty's Speakeasy \\n\nThe QUICK FIXX",
+            "Veda - Modern Indian Bistro \nMood Indian Restaurant \nGolden Triangle \nDaleng Restaurant \nCinCin Restaurant \nBistro SouthEast \nMiga Korean BBQ & Sushi \nBaan Thai \nIzumi \nAudrey Claire",
+            "1. Daleng Restaurant \n2. Bistro SouthEast \n3. Miga Korean BBQ & Sushi \n4. Federal Donuts \n5. Oishii Pok\u00e9 \n6. CinCin Restaurant \n7. Benna's Cafe \n8. Kokopelli Restaurant & Tequila Bar \n9. Golden Triangle \n10. Grain Exchange",
+            "Miga Korean BBQ & Sushi\nBistro SouthEast\nDaleng Restaurant\nFederal Donuts\nFuji Mountain\nGolden Triangle\nJang Koy Korean BBQ House\nKangnam BBQ \nSang Kee Peking Duck House\nTsaocaa King of Fruit Teas - Cheltenham & Port Richmond"
+        ]
+    }
+}

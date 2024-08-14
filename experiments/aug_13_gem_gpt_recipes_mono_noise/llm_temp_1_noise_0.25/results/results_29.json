@@ -1,0 +1,58 @@
+{
+    "29": {
+        "conv_hist": [
+            {
+                "query": "Output: Do you prefer veggie or meat dishes?",
+                "response": "yes"
+            },
+            {
+                "query": "What fish flavours do you enjoy?",
+                "response": "none"
+            },
+            {
+                "query": "Do you like meatloaf?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like soups?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like your soups to be creamy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salmon?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be more interested in soups with or without meat?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pork?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like noodles and rice?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer your salmon dishes to be cooked on the stovetop or in the oven?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Grilled salmon seasoned with salt and pepper\nSalmon fillets grilled in a pan with herbs and spices\nSalmon roasted with olive oil, chives, and tarragon leaves\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nVegetable curry flavoured with curry powder and ground tumeric\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nVery low-fat assortment of shredded vegetables with seasoning",
+            "****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n High protein skillet with rice and vegetables\n****\n Tofu, mushroom and tomato poke bowl\n****\n Low fat baked breakfast pie made with sausage (pork) and apples\n****\n Grilled salmon seasoned with salt and pepper\n****\n Queso made from melted cheese and chili peppers\n****\n Chicken breasts stuffed with bacon and mozzarella\n****\n Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n****\n Meatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\n****\n Shredded barbecued pork shoulder\n****",
+            "1. High protein skillet with rice and vegetables\n2. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n3. Grilled salmon seasoned with salt and pepper\n4. Low fat baked breakfast pie made with sausage (pork) and apples\n5. Beef stew made with beef, carrots and potatoes\n6. Spaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\n7. Large portion fries with gravy and bacon\n8. Queso made from melted cheese and chili peppers\n9. Poke of tofu, mushroom and tomatoes\n10. Soup made with cabbage, carrots, potatoes, and onions",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nItalian salad made from romain lettuce, artichokes, and tomatoes\nBerry cobbler that uses frozen mixed berries\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nVegan macaroni pasta with frozen peas, olive oil, nutritional yeast, and seasoning",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with onions, carrots, and celery ribs\nSimple creamy oyster soup\nCalcium-rich soup made with broccoli and beans\nSoup made with vegetables and chicken\nKorean soup containing beef brisket and flavoured with red pepper powder\nCheese and vegetable soup with a beer broth\nHomemade soup with chicken, noodles, and spices\nPolish sausage with fermented cabbage",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Grilled salmon seasoned with salt and pepper\n3. Poke of tofu, mushroom and tomatoes\n4. Salmon fillets grilled in a pan with herbs and spices\n5. Salmon roasted with olive oil, chives, and tarragon leaves\n6. Creamy base with dill flavoring, eggs, and noodles\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with shrimp, onions, and scallops\n9. Soup made with ground turkey that is low fat, high carb\n10. Soup made with onions, carrots, and celery ribs",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. Soup made with ground turkey that is low fat, high carb\n3. Creamy base with dill flavoring, eggs, and noodles\n4. Soup made with shrimp, onions, and scallops\n5. Soup made with onions, carrots, and celery ribs\n6. Simple creamy oyster soup\n7. Soup made with vegetables and chicken\n8. Calcium-rich soup made with broccoli and beans\n9. Grilled salmon seasoned with salt and pepper\n10. Salmon roasted with olive oil, chives, and tarragon leaves\n",
+            "Soup made with cabbage, carrots, potatoes, and onions\nSoup made with shrimp, onions, and scallops\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\nLow fat sweet potato fries made with cajun seasoning\nSalmon roasted with olive oil, chives, and tarragon leaves\nLemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk\nBaked spinach quiche containing bacon\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nSoup made with vegetables and chicken\nChicken cooked and flavored with lemon sauce",
+            "1. Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n2. Soup made with cabbage, carrots, potatoes, and onions\n3. Soup made with shrimp, onions, and scallops\n4. Soup made with onions, carrots, and celery ribs\n5. Simple creamy oyster soup\n6. Vietnamese noodle soup & marinated grilled pork\n7. Soup made with vegetables and chicken\n8. Homemade soup with chicken, noodles, and spices\n9. Salmon roasted with olive oil, chives, and tarragon leaves\n10. Grilled salmon seasoned with salt and pepper",
+            " Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nSoup made with cabbage, carrots, potatoes, and onions\nSoup made with ground turkey that is low fat, high carb\nSoup made with shrimp, onions, and scallops\nSoup made from onions, carrots, and celery ribs\nSimple creamy oyster soup\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSoup made with vegetables and chicken\nCalcium-rich soup made with broccoli and beans\nCheese and vegetable soup with a beer broth\nKorean soup containing beef brisket and flavoured with red pepper powder\nHomemade soup with chicken, noodles, and spices\nBaked salmon dessert pie filled with a sweet pumpkin spice based custard\nLow fat sweet potato fries made with cajun seasoning\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie with aliens in it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a video game related movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie where the main character is a vampire hunter?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like watching movies with car chases?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a video game adaptation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for movies based on a comic book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with music based on the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a concert documentary?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Children's Movie: Monsters, Inc. (2001)\n2. Action Movie: Tomb Raider (2018)\n3. Drama Movie: August Rush (2007)\n4. Horror Movie: The Blair Witch Project (1999)\n5. Scary Movie: Martyrs (2008)\n6. Thriller Movie: Before the Devil Knows You're Dead (2007)\n7. War Movie: All Quiet on the Western Front (1930)\n8. Comedy Movie: The Naked Gun: From the Files of Police Squad! (1988)\n9. Romantic Drama Movie: Love Me If You Dare (Jeux d'enfants) (2003)\n10. Animated Movie: Homeward Bound: The Incredible Journey (1993)\n''''",
+            "Monsters, Inc. (2001) \nRunaway Train (1985) \nTomb Raider (2018) \nPirates of the Caribbean: At World's End (2007) \nLaura (1944) \nAugust Rush (2007) \nSanta Sangre (1989) \nBlair Witch Project, The (1999) \nTerms of Endearment (1983) \nNaked Gun: From the Files of Police Squad!, The (1988)",
+            "1. Lost World: Jurassic Park, The (1997)\n2. The Land Before Time (1988)\n3. The Secret of Kells (2009)\n4. A.I. Artificial Intelligence (2001)\n5. Timeline (2003)\n6. The Matrix (1999)\n7. Real Steel (2011)\n8. Robot & Frank (2012)\n9. Cronos (1993)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Tron Legacy (2010)\n2. WarGames (1983)\n3. The Last Starfighter (1984)\n4. Tron (1982)\n5. Ready Player One (2018)\n6. Pixels (2015)\n7. Scott Pilgrim vs. the World (2010)\n8. Wreck-It Ralph (2012)\n9. The Super Mario Bros. Movie (1993)\n10. Free Guy (2021)",
+            "* Tomb Raider (2018) \n* Last Action Hero (1993) \n* Alita: Battle Angel (2019) \n* Ant-Man (2015) \n* Ready Player One \n* Real Steel (2011) \n* King Kong (2005) \n* Tenacious D in The Pick of Destiny (2006) \n* Eragon (2006) \n* Control (2007) ",
+            "Tomb Raider (2018)\nAnt-Man (2015)\nReady Player One\nTerminator 3: Rise of the Machines (2003)\nControl (2007)\nScott Pilgrim vs. the World (2010)\nTron: Legacy (2010)\nPixels (2015)\nWreck-It Ralph (2012)\nJumanji: Welcome to the Jungle (2017)",
+            "Tomb Raider (2018)\nAnt-Man (2015)\nAlita: Battle Angel (2019)\nReady Player One \nFace/Off (1997)\nTenacious D in The Pick of Destiny (2006)\nEragon (2006)\nReal Genius (1985)\nTron: Legacy (2010)\nThe Last Starfighter (1984)",
+            "Tomb Raider (2018) \nAnt-Man (2015) \nReady Player One \nTenacious D in The Pick of Destiny (2006) \nEragon (2006) \nBruce Almighty (2003) \nThe Big Lebowski (1998) \nThe Last Action Hero (1993) \nSt. Elmo's Fire (1985) \nAmerican Graffiti (1973)",
+            "Stranger than Fiction (2006)\nTerminator 3: Rise of the Machines (2003)\nIntolerable Cruelty (2003)\nFace/Off (1997)\nLost in Translation (2003)\nAnt-Man (2015)\nControl (2007)\nThe Big Red One (1980)\nStranger than Fiction (2006)\nAmerican Graffiti (1973)",
+            "1. Ready Player One\n2. Tenacious D in The Pick of Destiny\n3. The Big Lebowski\n4. The Commitments\n5. 20 Feet from Stardom\n6. Let It Be\n7. Sound of Metal\n8. Stopping By\n9. Joy Division\n10. Searching for Sugar Man"
+        ]
+    }
+}

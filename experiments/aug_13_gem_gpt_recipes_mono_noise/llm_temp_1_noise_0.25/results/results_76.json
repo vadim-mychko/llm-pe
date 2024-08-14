@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in soup?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in fish or seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like spicy food?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you prefer meat dishes over vegetarian?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like tofu dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like smoothies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in salads?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like berry desserts?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet smoothies?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Soup made with cabbage, carrots, potatoes, and onions\n2-ingredient yogurt from scratch\nHigh protein skillet with rice and vegetables\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nLarge portion fries with gravy and bacon\nBeef stew made with beef, carrots and potatoes\nGrilled salmon seasoned with salt and pepper\nPoke of tofu, mushroom and tomatoes\nQueso made from melted cheese and chili peppers\nLow fat baked breakfast pie made with sausage (pork) and apples\n",
+            "1. High protein skillet with rice and vegetables\n2. Grilled salmon seasoned with salt and pepper\n3. Salmon fillets grilled in a pan with herbs and spices\n4. Salmon roasted with olive oil, chives, and tarragon leaves\n5. Poke of tofu, mushroom and tomatoes\n6. Chopped French duck confit preserved by duck oil\n7. Fried shrimp and scallops\n8. Spaghetti noodles with mussels, anchovy fillets, and capers\n9. Simple creamy oyster soup\n10. Pork chops glazed with milk and cooked without nuts",
+            "Baked spinach quiche containing bacon\nBaked breakfast bars made with nuts and seeds\nChocolate and orange-flavoured smoothie\nSalmon fillets grilled in a pan with herbs and spices\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nFrench chocolate cake made from chocolate baking squares, strong coffee, butter, and brown sugar\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nVery low-fat assortment of shredded vegetables with seasoning\nPeppermint chocolate bonbon",
+            "South African vegetable curry flavoured with curry powder and ground tumeric\nMildly spicy chili recipe\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nSpaghetti noodles with mussels, anchovy fillets, and capers\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nKorean soup containing beef brisket and flavoured with red pepper powder\nChocolate and orange-flavoured smoothie\nMeatloaf made with ground beef meat, sauce made with salsa, ready-to-serve delallo, italian seasoned breadcrumbs, and salsa\nSoup made with ground turkey that is low fat, high carb",
+            "1. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n2. Korean soup containing beef brisket and flavoured with red pepper powder\n3. Mildly spicy chili recipe\n4. Stuffed Green Peppers\n5. High protein skillet with rice and vegetables\n6. Salmon fillets grilled in a pan with herbs and spices\n7. Chicken cooked and flavored with lemon sauce\n8. Smoked paprika feta cheese dip\n9. Pulled bbq chicken sandwiches\n10. Pork chops glazed with milk and cooked without nuts\n'''",
+            "1. Mildly spicy chili recipe\n2. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n3. South African vegetable curry flavoured with curry powder and ground tumeric\n4. Korean soup containing beef brisket and flavoured with red pepper powder\n5. High protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\n6. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n7. Very low-fat assortment of shredded vegetables with seasoning\n8. Taiwanes deep fried crispy chicken cutlets\n9. Steak\n10. Grilled salmon seasoned with salt and pepper",
+            "1. Mildly spicy chili recipe\n2. Creamy base with dill flavoring, eggs, and noodles\n3. Chocolate and orange-flavoured smoothie\n4. Low fat smoothies made with greek yogurt, and pineapple\n5. Smoothie made from fruit juice and bananas\n6. Smoothie made from banana puree with milk\n7. Peach cobbler dessert containing whole wheat flour\n8. Pepperment chocolate bonbon\n9. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n10. Baked spinach quiche containing bacon",
+            " Mildly spicy chili recipe\nKorean soup containing beef brisket and flavoured with red pepper powder\nChocolate and orange-flavoured smoothie\nSpaghetti with mushrooms, onion, green pepper, chicken breasts, and alfredo sauce\nSlushie drink made from orange juice blended with ice\nSouth African vegetable curry flavoured with curry powder and ground tumeric\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nBaked mozzarella cheese sticks with marinara sauce\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nSpaghetti noodles with mussels, anchovy fillets, and capers",
+            "Mildly spicy chili recipe \nSpicy beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nFajitas made with chicken or shrimp, and grilled with vegetables\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nSpaghetti noodles with mussels, anchovy fillets, and capers\nRamen noodles made from scratch made with: wheat flour, baking soda, and water\nHot pot that is not spicy\nPeppermint chocolate bonbon\nChinese salad made of eggplant and zucchini, flavoured with soy sauce\nGrilled tofu topped with peanut and a sweet-spicy chili sauce\n'''",
+            "1. Chocolate and orange-flavoured smoothie\n2. Sweet salad made with corn and three types of beans\n3. Low fat smoothies made with greek yogurt, and pineapple\n4. Smoothie made from fruit juice and bananas\n5. Milkshake made with fresh strawberries and ice cream\n6. Smoothie made from banana puree with milk\n7. Mildly spicy chili recipe\n8. Very low-fat assortment of shredded vegetables with seasoning\n9. Spanish rice with chicken breast\n10. Almonds coated with butter and salt\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "22": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for Korean cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Italian food?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in Pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to look at sandwich options?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for vegetarian sandwiches?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to try Asian fusion dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in breakfast spots?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to search for pizza places with Italian food?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in wine bars?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Zuzu's Kitchen \n Golden Triangle \n Water Works Restaurant & Lounge \n Germantown Garden \n Daleng Restaurant \n Lacroix Restaurant at The Rittenhouse \n The Juice Merchant \n Mong Kok Station \n Water Works Restaurant & Lounge\n PrimoHoagies",
+            " Zuzu's Kitchen\nGolden Triangle\nDaleng Restaurant\nFederal Donuts\nThe Juice Merchant\nThe Tasty Toast\nSang Kee Peking Duck House\nCastellino's Bistro\nCanton 11\nRoy-Pitz Barrel House",
+            " Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nFiore Fine Foods\nFederal Donuts\nThe QUICK FIXX\nChestnut 7\nRoy-Pitz Barrel House\nJake's & Cooper's Wine Bar & Wine Shop\nPearl's Oyster Bar\nTu's Tea & Banh Mi South Philly",
+            " Fiores Fine Foods \\n\nEvan's Pizza \\n\nBlackbird Pizzeria \\n\nMacaroni's Restaurant \\n\nChestnut 7 \\n\nThe Blue Duck \\n\nRoy-Pitz Barrel House \\n\nThe QUICK FIXX \\n\nJake's & Cooper's Wine Bar & Wine Shop \\n\nThe Green Line Cafe",
+            "1. The QUICK FIXX \n2. Roy-Pitz Barrel House\n3. PrimoHoagies \n4. Lisa's Kitchen\n5. Green Leafs & Bananas \n6. Spread Bagelry\n7. Steve's Prince of Steaks \n8. Wishbone \n9. Chestnut 7 \n10. The Blue Duck\n",
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nPrimoHoagies\nEvan's Pizza\nThe QUICK FIXX\nBocconcino \nDim Sum House \nFiore Fine Foods \nGran Caffe L'Aquila \n Chestnut 7",
+            "A Tutti, Ristorante Italiano \nZuzu's Kitchen \nThe QUICK FIXX \nThe Crust Corner\nChestnut 7 \nRival Bros Coffee \nRoy-Pitz Barrel House \nThe Green Line Cafe \nSpread Bagelry \nJake's & Cooper's Wine Bar & Wine Shop",
+            "Zuzu's Kitchen \nThe Juice Merchant \nBetty's Speakeasy \nZweigle's White Horse Inn \nM\u00fcrm\u00fcr \nThe Bourse \nCafe La Maude \nGiorgio on Pine \na.kitchen \nThe Cambridge Cafe \nZahav",
+            "1.  A Tutti, Ristorante Italiano\n2.  Castellino's\n3.  Che Chestnut 7\n4.  Evan's Pizza\n5.  Fiore Fine Foods\n6.  Gran Caffe L'Aquila\n7.  Macaroni's Restaurant\n8.  PrimoHoagies\n9.  Roy-Pitz Barrel House\n10. The Blue Duck",
+            " Mong Kok Station \\n\nOteri's Italian Bakery | North 5th St \\n\nPrimoHoagies \\n\nMacaroni's Restaurant \\n\nA Tutti, Ristorante Italiano \\n\n Fiore Fine Foods \\n\nThe QUICK FIXX \\n\nChestnut 7 \\n\nSpread Bagelry \\n\nThe Green Line Cafe"
+        ]
+    }
+}

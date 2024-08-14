@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Are you currently seeking out fantasy movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a sci-fi action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like visually appealing movies?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that's plotted in ancient Greece?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in movies of rough and tumble fights aboard colossal robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie starring dinosaurs battling against the forces of evil?",
+                "response": "no"
+            },
+            {
+                "query": "Are you currently in the mood for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about advanced robotics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about modern police and crime technology?",
+                "response": "no"
+            },
+            {
+                "query": "I am finding you a sci-fi action movie that is visually appealing. Would you like to see one that's set in space and features fights aboard colossal robots?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. One Hour Photo (2002)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. The Lost World: Jurassic Park (1997)\n7. Before the Devil Knows You're Dead (2007)\n8. No Man's Land (2001)\n9. Crimes and Misdemeanors (1989)\n10. Out of Sight (1998)\n''''",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. Ready Player One\n4. Timeline (2003)\n5. Real Steel (2011)\n6. Starship Troopers (1997)\n7. Lost World: Jurassic Park, The (1997)\n8. King Kong (2005)\n9. Face/Off (1997)\n10. Big Red One, The (1980)",
+            "1. Ant-Man (2015)\n2. Terminator 3: Rise of the Machines (2003)\n3. Ready Player One \n4. Corporation, The (2003)\n5. Enter the Void (2009)\n6. Timeline (2003)\n7. Real Genius (1985)\n8. Face/Off (1997)\n9. King Kong (2005)\n10. Eragon (2006)",
+            "1. Alita: Battle Angel (2019)\n2. Ant-Man (2015)\n3. Terminator 3: Rise of the Machines (2003)\n4. The Matrix (1999)\n5. Edge of Tomorrow (2014)\n6. Ready Player One (2018)\n7. Tron: Legacy (2010)\n8. Cloud Atlas (2012)\n9. Inception (2010)\n10. Passengers (2016)",
+            "1. Real Steel (2011) \n2. Ready Player One \n3. A.I. Artificial Intelligence (2001) \n4. Terminator 3: Rise of the Machines (2003) \n5. Ant-Man (2015) \n6. Metropolis (2001) \n7. Robot & Frank (2012) \n8. Timeline (2003) \n9. Alita: Battle Angel (2019) \n10. Face/Off (1997)\n",
+            "1. Real Steel (2011) \n2. Terminator 3: Rise of the Machines (2003) \n3. Alita: Battle Angel (2019) \n4. King Kong (2005) \n5. Ant-Man (2015) \n6. Matrix Reloaded, The (2003) \n7. The Colony (2013) \n8. Total Recall (2012)\n9. Tron: Legacy (2010) \n10. Ender's Game (2013)",
+            " Terminator 3: Rise of the Machines (2003) \\n\nReal Steel (2011) \\n\nAnt-Man (2015) \\n\nReady Player One \nTransporter 2 (2005) \\n\nRoboCop (2014) \\n\nKing Kong (2005) \\n\nAlita: Battle Angel (2019) \\n\nI, Robot (2004) \\n\nPacific Rim (2013)",
+            "1. Ready Player One\n2. Terminator 3: Rise of the Machines\n3. Ant-Man\n4. Nightcrawler\n5. The Real Steel\n6. Face/Off\n7. Bruce Almighty\n8. Minority Report\n9. Hard Target 2\n10. Deep Blue Sea",
+            "1. Alita: Battle Angel (2019) \\n\n2. Ready Player One (2018) \\n\n3. Real Steel (2011) \\n\n4. The Matrix (1999) \\n\n5. Big Lebowski, The (1998) \\n\n6. Blade Runner 2049 (2017) \\n\n7. Source Code (2011) \\n\n8. RoboCop (1987) \\n\n9. Starship Troopers (1997) \\n\n10. Minority Report (2002) \\n",
+            "1. Real Steel (2011) \\n\n2. A.I. Artificial Intelligence (2001) \\n\n3. The Matrix (1999) \\n\n4. Star Wars: Episode VI - Return of the Jedi (1983) \\n\n5. I, Robot (2004) \\n\n6. Terminator 2: Judgment Day (1991) \\n\n7. Aliens (1986) \\n\n8. Ender's Game (2013) \\n\n9. Avatar (2009) \\n\n10. Transformers (2007)"
+        ]
+    }
+}

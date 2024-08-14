@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Do you want a hot meal?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer fruity foods?",
+                "response": "no"
+            },
+            {
+                "query": "Is a vegetable focused soup more appealing?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like any meat-based soups?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like hot soup?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like stir-fried tofu, noodles, and vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like fish?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet foods?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy spicy dishes?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a savory meal?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            " Salad with creamy caesar dressing and croutons\n****\n Peach cobbler dessert containing whole wheat flour\n****\n Low fat smoothies made with greek yogurt, and pineapple\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n Soup made with vegetables and chicken\n****\n Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n****\n Chicken cooked and flavored with lemon sauce\n****\n Berry cobbler that uses frozen mixed berries\n****\n Sweet salad made with corn and three types of beans\n****\n Breakfast egg, bean, and cheese burrito with jalapeno peppers\n****\n Almond-based dip\n****\n Chicken breasts with a semi-sweet taste\n****\n Barbeque or teriyaki-sauced / glazed chicken wings\n****\n Smoothies made from various fruit sources\n****\n Almonds coated with butter and salt\n****\n Pork chops cooked without nuts with a gravy or glaze on top\n****\n Lighter Asian dishes, such as sushi, stir-fry, wonton soup, etc.\n****\n Soup made with vegetable broth\n****\n Rice cooked in a simple manner with spices or seasonings\n****\n Salad made from romaine lettuce and topped with grilled vegetables and meat\n****\n Cake with chocolate cake and chocolate frosting\n****\n Beef-based dish containing a hearty sauce\n****\n Sandwich filled with lettuce, tomato, and onion (with optional meat)\n****\n Creamy mac and cheese\n****\n Grilled or baked fish topped with a lemon-herb seasoning\n****\n Oatmeal made with oats, milk, and fruit or nuts\n****\n Chicken baked with vegetables in the same pan\n****\n Roasted or fried vegetables seasoned with salt and pepper",
+            " Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n****\n Grilled salmon seasoned with salt and pepper\n****\n Salmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\n****\n Salmon roasted with olive oil, chives, and tarragon leaves\n****\n Creamy base with dill flavoring, eggs, and noodles\n****\n 2-ingredient yogurt from scratch\n****\n Oatmeal blueberry energy bites\n****\n Low fat diced baked or fried potatoes\n****\n Low fat assorted fruit dessert\n****\n Chinese salad made of eggplant and zucchini, flavoured with soy sauce",
+            " Low sugar applesauce cupcakes\nLow-fat coconut alcohol-free cocktail\nVery low-fat assortment of shredded vegetables with seasoning\nMushy peas that are soft\nLow fat assorted fruit dessert\nSmoothie made from banana puree with milk\nSoup made from ground turkey that is low fat, high carb\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nPoke of tofu, mushroom and tomatoes\nSouth African vegetable curry flavoured with curry powder and ground tumeric",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Vegetable focused soup made with a beer broth\n3. Soup made with cabbage, carrots, potatoes, and onions\n4. Low-fat coconut alcohol-free cocktail\n5. South African vegetable curry flavoured with curry powder and ground tumeric\n6. Mildly spicy chili recipe\n7. Soup made with onions, carrots, and celery ribs\n8. Berry cobbler that uses frozen mixed berries\n9. Low fat coconut alcohol-free cocktail\n10. Calcium-rich soup made with broccoli and beans",
+            " 1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Large portion fries with gravy and bacon\n6. Grilled salmon seasoned with salt and pepper\n7. Poke of tofu, mushroom and tomatoes\n8. Queso made from melted cheese and chili peppers\n9. Low fat baked breakfast pie made with sausage (pork) and apples\n10. Chicken breasts stuffed with bacon and mozzarella\n'''",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. 2-ingredient yogurt from scratch\n3. High protein skillet with rice and vegetables\n4. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n5. Large portion fries with gravy and bacon\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Poke of tofu, mushroom and tomatoes\n9. Queso made from melted cheese and chili peppers\n10. Low fat baked breakfast pie made with sausage (pork) and apples",
+            " Cheese and olive appetizer made to look like an eyeball\nBeef lasagna with whole wheat noodles, low-fat cottage cheese, and part-skim mozzarella cheese\nJam made from blackberries, lemon juice, and sugar\nSubway-style sandwich made from french baguette bread, ham, lettuce, and tomatoes\nSpaghetti using year round egg catsup noodles, made with sauce consisting of ground beef meat, bacon (pork) meat, cheddar cheese, parmesan, and tomatoes.\nCheese and vegetable soup with a beer broth\nPolish sausage with fermented cabbage\nHigh protein pizza made with whole wheat pizza crusts, cheese, onions, and tofu\nLow-fat shredded vegetables with seasoning\nBeef stew made with beef, carrots and potatoes",
+            "1. Soup made with cabbage, carrots, potatoes, and onions\n2. High protein skillet with rice and vegetables\n3. Chinese salad made of eggplant and zucchini, flavored with soy sauce\n4. 2-ingredient yogurt from scratch\n5. Large portion fries with gravy and bacon\n6. Beef stew made with beef, carrots and potatoes\n7. Grilled salmon seasoned with salt and pepper\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Chicken breasts stuffed with bacon and mozzarella\n10. Chopped French duck confit preserved by duck oil\n'''",
+            "1. Cheese with crackers\n2. Salad made from 5 fruits: oranges, strawberries, blackberries, grapes, and pears\n3. Low fat assorted fruit dessert\n4. Low sugar applesauce cupcakes\n5. Jam made from blackberries, lemon juice, and sugar\n6. Assorted cheese soup with chicken\n7. Soup made with ground turkey that is low fat, high carb\n8. Sweet salad made with corn and three types of beans\n9. Creamy base with dill flavoring, eggs, and noodles\n10. Soup made with cabbage, carrots, potatoes, and onions\n'''",
+            "1. Grilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\n2. Very low-fat assortment of shredded vegetables with seasoning\n3. Italian salad made from romain lettuce, artichokes, and tomatoes\n4. Soup made with ground turkey that is low fat, high carb\n5. Chinese salad made of eggplant and zucchini, flavoured with soy sauce\n6. Beef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\n7. Soup made with cabbage, carrots, potatoes, and onions\n8. Soup made with shrimp, onions, and scallops\n9. Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\n10. Classic salad with creamy caesar dressing and croutons"
+        ]
+    }
+}

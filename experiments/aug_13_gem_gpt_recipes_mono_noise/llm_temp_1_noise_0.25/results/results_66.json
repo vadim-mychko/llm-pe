@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Do you like pies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like fruits?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like pasta?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like savory food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like to eat breakfast food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like seafood?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like sweet pies?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you like to eat vegetables?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like salty food?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like chocolate?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n3. Crustless raspberry pie with a pretzel crumb topping\n4. Peach cobbler dessert containing whole wheat flour\n5. Morello cherry pie made with lemon, sugar, water, cornstarch, and butter\n6. Low sugar applesauce cupcakes\n7. Turkey pot pie with vegetables\n8. Chicken and vegetable pie\n9. Banana cream pie using pudding mix\n10. Honey sweetened apple pie with cinnamon\n''''",
+            "Spaghetti noodles with mussels, anchovy fillets, and capers\nPeppermint chocolate bonbon\nGrilled salmon seasoned with salt and pepper\nSalmon roasted with olive oil, chives, and tarragon leaves\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nPork chops glazed with milk and cooked without nuts\nSalmon cooked in the oven, seasoned with garlic, onion, cumin, dill, and lime\nPork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nBaked mozzarella cheese sticks with marinara sauce\nFried shrimp and scallops",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard \n2. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \n3. Low sugar applesauce cupcakes \n4. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip \n5. Norway cake with lingonberry and whipped cream layers \n6. Peach cobbler dessert containing whole wheat flour \n7. Berry cobbler that uses frozen mixed berries\n8. Breakfast egg, bean, and cheese burrito with jalapeno peppers \n9. Caesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese \n10. Roast turkey with plum sauce",
+            "1. Oreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip\n2. Norwegian cake with lingonberry and whipped cream layers\n3. Apple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\n4. Peach cobbler dessert containing whole wheat flour\n5. Pork chops glazed with milk and cooked without nuts\n6. Roast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\n7. Roast turkey with plum sauce\n8. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n9. Low sugar applesauce cupcakes\n10. Lemon loaf made with flour, baking powder, salt, shortening, sugar, eggs, lemons, milk",
+            "Pork cooked with onions, peppers, pineapple chunks, ketchup, karo syrup, and cider vinegar\nJam made from blackberries, lemon juice, and sugar\nPork chops glazed with milk and cooked without nuts\nSticky rice wrapped pork shoulder for Chinese dragon boat festival\nVery low-fat assortment of shredded vegetables with seasoning\nGrilled squash, zucchinis, tomatoes and mushrooms seasoned with balsamic vinegar and herbs\nFried shrimp and scallops\nTaiwanese deep fried crispy chicken cutlets\nRoast beef sandwich with mozzarella, banana pepper rings and romaine lettuce\nCaesar salad with cooked chicken, lettuce, tomatoes, croutons, and cheese\n'''",
+            "Assorted cheese soup with chicken\nBeef chili containing jalapeno pepper, chili powder, cayenne pepper, and ground chipotle chile pepper\nChicken cooked and flavored with lemon sauce\nHomemade soup with chicken, noodles, and spices\nItalian salad made from romain lettuce, artichokes, and tomatoes\nMildly spicy chili recipe\nSandwich made with: grilled / broiled marinated chicken\nSimple creamy oyster soup\nSpaghetti noodles with mussels, anchovy fillets, and capers\nSpam burger patties seasoned with mustard and cajun seasoning",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Peach cobbler dessert containing whole wheat flour\n3. Berry cobbler that uses frozen mixed berries\n4. Low sugar applesauce cupcakes\n5. Sugar-free peanut butter cookies\n6. Baked breakfast bars made with nuts and seeds\n7. Jam made from blackberries, lemon juice, and sugar\n8. Low fat baked breakfast pie made with sausage (pork) and apples\n9. Baked mozzarella cheese sticks with marinara sauce\n10. Banana bread made with whole wheat flour and walnuts\n''''",
+            "1. Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\n2. Low sugar applesauce cupcakes\n3. Blackberry jam\n4. Oreo pie\n5. Peach cobbler dessert \n6. Sugar-free peanut butter cookies\n7. Baked breakfast bars \n8. Norwegian cake\n9. Peppermint chocolate bonbon\n10. French chocolate cake",
+            " Peach cobbler dessert containing whole wheat flour \\n\nBaked pumpkin dessert pie filled with a sweet pumpkin spice based custard \\n\nNorway cake with lingonberry and whipped cream layers \\n\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust \\n\nLow sugar applesauce cupcakes \\n\nSweet salad made with corn and three types of beans \\n\nPeppermint chocolate bonbon \\n\nGluten-free, egg-free, dairy-free, nut-free fudge \\n\nMozzarella cheese sticks with marinara sauce \\n\nOreo pie made with oreo cookies, butter, milk, and a tub of Cool Whip",
+            "Baked pumpkin dessert pie filled with a sweet pumpkin spice based custard\nNorway cake with lingonberry and whipped cream layers\nLow sugar applesauce cupcakes\nApple pie made with apples, cinnamon, sugar, butter, and premade shell and crust\nBerry cobbler that uses frozen mixed berries\nBaked breakfast bars made with nuts and seeds\nChocolate and orange-flavoured smoothie\nMilkshake made with fresh strawberries and ice cream\nPeppermint chocolate bonbon\nPeach cobbler dessert containing whole wheat flour"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "29": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you have a preference for Italian pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for chicken wings?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to try vegetarian pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for Asian fusion cuisine?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in vegan pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you currently thinking of pizza with Mediterranean toppings?",
+                "response": "no"
+            },
+            {
+                "query": "Have you tried American pizza?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be open to trying Mexican pizza?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in pizza with Hawaiian toppings?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Zuzu's Kitchen\nA Tutti, Ristorante Italiano\nRoy-Pitz Barrel House\nChestnut 7\nJake's & Cooper's Wine Bar & Wine Shop\nThe QUICK FIXX\nEvan's Pizza\nFiore Fine Foods\nBlackbird Pizzeria\nBetty's Speakeasy",
+            "Zuzu's Kitchen \nGolden Triangle \nA Tutti, Ristorante Italiano \nThe QUICK FIXX \nBlackbird Pizzeria \nEvan's Pizza \nFiore Fine Foods \nChestnut 7 \nFederal Donuts \nRoy-Pitz Barrel House",
+            "Federal Donuts \nA Tutti, Ristorante Italiano \nZuzu's Kitchen \nThe QUICK FIXX \nEvan's Pizza \nBlackbird Pizzeria \nRoy-Pitz Barrel House \nThe Blue Duck \nChestnut 7 \nMacaroni's Restaurant\nFiore Fine Foods",
+            "1. The QUICK FIXX \n2. Fiore Fine Foods \n3. Chestnut 7 \n4. Zuzu's Kitchen \n5. Roy-Pitz Barrel House \n6. The Blue Duck \n7. Blackbird Pizzeria \n8. Gran Caffe L'Aquila \n9. A Tutti, Ristorante Italiano \n10. The Tasty Toast",
+            "- The QUICK FIXX\n- Green Leafs & Bananas\n- Pizzeria Uno \n- Macaroni's Restaurant \n- The Tasty Toast \n- Fiorino \n- Nomad Pizza\n- Rival Bros Coffee\n- Mojo Pizza\n- Scarpetta",
+            "The QUICK FIXX \nBlackbird Pizzeria \nZuzu's Kitchen \nA Tutti, Ristorante Italiano \nMonster Vegan \nThe Green Line Cafe \nBetty's Speakeasy \nGran Caffe L'Aquila \nCafe L'Aube \nVedge",
+            "The QUICK FIXX\nBlackbird Pizzeria\nZuzu's Kitchen\nA Tutti, Ristorante Italiano\nThe Blue Duck\nFiore Fine Foods\nJake's & Cooper's Wine Bar & Wine Shop\nRoy-Pitz Barrel House\nSpread Bagelry\nEvan's Pizza",
+            "The QUICK FIXX \\n\nMonster Vegan \\n\nGreen Leafs & Bananas \\n\nLuvh Vegan Deli \\n\nBetty's Speakeasy \\n\nBlackbird Pizzeria \\n\nEssene Market & Caf\u00e9 \\n\nHey Hummus \\n\nVedge \\n\nJake's & Cooper's Wine Bar & Wine Shop",
+            "The Green Line Cafe\nOishii Pok\u00e9 \nThe QUICK FIXX \nThe Juice Merchant \nSpread Bagelry \nBlackbird Pizzeria \nJake's & Cooper's Wine Bar & Wine Shop\nPearl's Oyster Bar \nCo-op Restaurant & Lounge \nThe Continental Restaurant and Martini Bar",
+            "1. Fiore Fine Foods\n2. The Slice Pizza & Soda\n3. The QUICK FIXX\n4. Monster Vegan\n5. Oishii Poke\n6. Rey de Pizza\n7. A Tutti, Ristorante Italiano\n8. Italian Riviera Bakery\n9. Yellow Submarine Coffee and Pizza\n10. Olde Kensington Pizza Co."
+        ]
+    }
+}
