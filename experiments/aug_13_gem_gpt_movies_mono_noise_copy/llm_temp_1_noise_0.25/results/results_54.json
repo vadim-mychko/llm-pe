@@ -1,0 +1,58 @@
+{
+    "54": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in college life and movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a screen or computer-based character?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie involving the police or other law enforcement figures as main characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a light-hearted film about a group of relatives?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about space and aliens?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a sports movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's animated movie with a non-human main character?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Term of Endearment (1983)\n5. The Naked Gun: From the Files of Police Squad! (1988)\n6. Dracula (Bram Stoker's Dracula) (1992)\n7. St. Elmo's Fire (1985)\n8. The Sure Thing (1985)\n9. 50 First Dates (2004)\n10. Brewster's Millions (1985)",
+            "1. What's Up, Doc? (1972) \n2. Airplane! (1980) \n3. American Graffiti (1973) \n4. Big Lebowski, The (1998) \n5. Brewster's Millions (1985) \n6. Real Genius (1985) \n7. Stranger than Fiction (2006) \n8. Intolerable Cruelty (2003) \n9. The Big Sick (2017) \n10. Lady Bird (2017) ",
+            "1. The Big Lebowski (1998)\n2. Real Genius (1985)\n3. Brewster's Millions (1985)\n4. Brewster's Millions (1985)\n5. What's Up, Doc? (1972)\n6. Bruce Almighty (2003)\n7. Intolerable Cruelty (2003)\n8. Trapped (2002)\n9. The Big Red One (1980)\n10. Surfer, Dude (2008)",
+            "1. Brewster's Millions (1985) \n2. What's Up, Doc? (1972) \n3. The Sure Thing (1985) \n4. The Big Lebowski (1998) \n5. American Graffiti (1973) \n6. Real Genius (1985) \n7. Bruce Almighty (2003) \n8. Intolerable Cruelty (2003) \n9. Stranger than Fiction (2006) \n10. Nightcrawler (2014) \n",
+            "1. P.S. I Love You (2007) \n2. 50 First Dates (2004) \n3. The Big Lebowski (1998) \n4. Harold & Kumar Go to White Castle (2004) \n5. Real Genius (1985) \n6. Brewster's Millions (1985) \n7. Planes, Trains & Automobiles (1987) \n8. Big (1988) \n9. Caddy Shack (1980) \n10. Groundhog Day (1993) ",
+            "Big Lebowski, The (1998) \\n\nIntolerable Cruelty (2003) \\n\nDelicatessen (1991) \\n\nAmerican Graffiti (1973) \\n\nBrewster's Millions (1985) \\n\nReal Genius (1985) \\n\n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \\n\nJane Eyre (1996) \\n\nUmberto D. (1952) \\n\nBlack Robe (1991)",
+            "A.I. Artificial Intelligence (2001) \\n\nMeet John Doe (1941) \\n\nWhat's Up, Doc? (1972) \\n\nThe Sure Thing (1985) \\n\nCollege (1927) \\n\nDangerous Liaisons (1988) \\n\nThe Proposition (2005) \\n\nBenny & Joon (1993) \\n\nBernie (2011) \\n\nColossal (2016)",
+            "1. Meet John Doe (1941) \n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. American Graffiti (1973)\n5. Big Lebowski, The (1998)\n6. The (1998)\n7. What's Up, Doc? (1972)\n8. True Grit (2010) \n9. A.I. Artificial Intelligence (2001) \n10. What We Do in the Shadows (2014)",
+            "1. Tomb Raider (2018)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. What's Up, Doc? (1972)\n4. The Big Lebowski (1998)\n5. Brewster's Millions (1985)\n6. Real Genius (1985)\n7. Intolerable Cruelty (2003)\n8. Control (2007)\n9. Delicatessen (1991)\n10. Black Robe (1991)",
+            "Monsters, Inc. (2001) \nRunaway Train (1985) \nAugust Rush (2007) \nAnt-Man (2015) \nHomeward Bound: The Incredible Journey (1993) \nMadagascar (2005) \nRobots (2005) \nIce Age (2002) \nKung Fu Panda (2008) \nDespicable Me (2010)"
+        ]
+    }
+}

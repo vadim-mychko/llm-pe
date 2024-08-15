@@ -1,0 +1,58 @@
+{
+    "57": {
+        "conv_hist": [
+            {
+                "query": "Do you like animated movies?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a historical movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies with action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is intense?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a film with horror?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy with horror?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's pretty intense and has horror?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Last Temptation of Christ, The (1988)\n3. Laura (1944)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Santa Sangre (1989)\nDrama\n6. Terms of Endearment (1983)\n7. The Proposition (2005)\n8. Bernie (2011)\n9. The Naked Gun: From the Files of Police Squad! (1988)\n10. Last Action Hero (1993)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Interview with the Vampire (1994)\n3. Dracula (Bram Stoker's Dracula) (1992)\n4. Pirates of the Caribbean: The Curse of the Black Pearl (2003)\n5. Pirates of the Caribbean: Dead Man's Chest (2006)\n6. Interview with the Vampire (1994)\n7. Dracula (Bram Stoker's Dracula) (1992)\n8. Pirates of the Caribbean: On Stranger Tides (2011)\n9. Pirates of the Caribbean: Dead Men Tell No Tales (2017)\n10. Interview with the Vampire (1994)",
+            "1. Movies, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012) \n4. Terminator 3: Rise of the Machines (2003)\n5. Alita: Battle Angel (2019) \n6. Ant-Man (2015)  \n7. Terminator 3: Rise of the Machines (2003)\n8. Meet John Doe (1941)\n9. Timeline (2003)\n10. Ready Player One ",
+            "1. Tomb Raider (2018) \n2. Terminator 3: Rise of the Machines (2003) \n3. Bad Education (La mala educaci\u00f3n) (2004) \n4. The Terminator (1984) \n5. Shanghai Knights (2003) \n6. Ace Ventura: Pet Detective (1994) \n7. Planet of the Apes (2001) \n8. Captain America: The First Avenger (2011) \n9. The Lord of the Rings: The Return of the King (2003) \n10. King Kong (2005)",
+            "1. Brewster's Millions (1985) \\n\n2. A.I. Artificial Intelligence (2001) \\n\n3. King Kong (2005) \\n\n4. \nFace/Off (1997) \\n\n5. Transformers 3: Rise of the Machines (2003) \\n\n6. Terminator 3: Rise of the Machines (2003)\n7. Minority Report (2002) \\n\n8. Ant-Man (2015) \\n\\\n9.\nThe Terminator (1984) \\n\n10. Ready Player One (2018) \\n",
+            "1. Departed, The (2006) \\n\n2. No Man's Land (2001) \\n\n3. Nightcrawler (2014) \\n\n4. The Proposition (2005) \\n\n5. Reservoir Dogs (1992) \\n\n6. Trapped (2002) \\n\n7. Man on Fire (2004) \\n\n8. Darkman (1990) \\n\n9. Martyrs (2008) \\n\n10. Punch-Drunk Love (2002) \\n",
+            "1. Enter the Void (2009) \n2. Nightcrawler (2014) \n3. Departed, The (2006) \n4. Control (2007) \n5. The Big Lebowski (1998)\n6. A.I. Artificial Intelligence (2001) \n7. Timeline (2003) \n8. Last Temptation of Christ, The (1988) \n9. Magnolia (1999) \n10. The Mothman Prophecies (2002) ",
+            "1. Martyrs (2008) \n2. The Last Exorcism (2010)\n3. The Babadook (2014)\n4. Get Out (2017)\n5. The Witch (2015)\n6. Host (2020)\n7. It Follows (2014)\n8. The Conjuring (2013)\n9. Insidious (2010)\n10. Sinister (2012)",
+            "The Departed (2006)\nNightcrawler (2014)\nEnter the Void (2009)\nMothman Prophecies, The (2002)\nGremlins 2: The New Batch (1990)\nHostage (2005)\nThe Last Supper (1995)\nDarkman (1990)\nCronos (1993)\nEragon (2006)",
+            "1. Nightcrawler (2014) \n2. Enter the Void (2009) \n3. Martyrs (2008) \n4. The Conjuring (2013) \n5. The Texas Chainsaw Massacre (1974) \n6. The Shining (1980) \n7. A Nightmare on Elm Street (1984) \n8. Psycho (1960) \n9. The Silence of the Lambs (1991) \n10. Cabin Fever (2002)"
+        ]
+    }
+}

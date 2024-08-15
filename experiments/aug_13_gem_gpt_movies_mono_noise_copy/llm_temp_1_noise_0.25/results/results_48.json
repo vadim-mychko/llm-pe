@@ -1,0 +1,58 @@
+{
+    "48": {
+        "conv_hist": [
+            {
+                "query": "Are you specifically looking for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies about war?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie from the 90's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Do you usually prefer animated films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dramatic film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a film about crime and mystery?",
+                "response": "no"
+            },
+            {
+                "query": "Have you seen the dramatic film \"August Rush\" (2007)?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a dramatic film about a Canadian historical figure with Native American people?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a boy in a striped pajama?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007) \n4. Tomb Raider (2018) \n5. Santa Sangre (1989) \n6. Abraham Lincoln: Vampire Hunter (2012) \n7. The Blair Witch Project (1999) \n8. August Rush (2007) \n9. Martyrs (2008) \n10. The Proposition (2005)\n'''",
+            "1. Last Temptation of Christ, The (1988) - Drama\n2. The Piano (1993) - Drama, Romance\n3. August Rush (2007) - Drama, Musical\n4. The Proposition (2005) - Crime, Drama, Western\n5. Bad Education (La mala educaci\u00f3n) (2004) - Drama, Thriller\n6. Out of Sight (1998) - Comedy, Crime, Drama, Romance, Thriller\n7. The Mothman Prophecies (2002) - Drama, Fantasy, Horror, Mystery, Thriller\n8. Mis\u00e9rables, Les (1998) - Crime, Drama, Romance, War\n9. Meet John Doe (1941) - Comedy, Drama\n10. What's Up, Doc? (1972) - Comedy",
+            "1. The Piano (1993) \n2. Dracula (Bram Stoker's Dracula) (1992) \n3. Star Trek: Insurrection (1998) \n4. Little Men (1998) \n5. Ever After: A Cinderella Story (1998) \n6. The Siege (1998) \n7. Love Is the Devil: Study for a Portrait of Francis Bacon (1998) \n8. Fear and Loathing in Las Vegas (1998) \n9. Patch Adams (1998) \n10. Homegrown (1998)",
+            "1. The Piano (1993)\n2. August Rush (2007)\n3. Lost World: Jurassic Park, The (1997)\n4. Terminator 3: Rise of the Machines (2003)\n5. A.I. Artificial Intelligence (2001)\n6. American Graffiti (1973)\n7. Face/Off (1997)\n8. Jane Eyre (1996)\n9. Lost in Translation (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Terminator 3: Rise \n3. Dracula (Bram Stoker's Dracula) (1992) \n4. Drugstore Cowboy (1989) \n5. Terminator 3: Rise \n6. Lost World: Jurassic Park, The (1997) \n7. Europa (Zentropa) (1991) \n8. Meet John Doe (1941) \n9. The Thing (1999) \n10. The Thing (1999)",
+            "1. Mr. Holmes (2015)\n2. Legends of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n3. Cronos (1993)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. Grapes of Wrath, The (1940)\n7. A.I. Artificial Intelligence (2001)\n8. Courage Under Fire (1996)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Drugstore Cowboy (1989)",
+            "1. Autumn Sonata (H\u00f6stsonaten) (1978)\n2. Europa (Zentropa) (1991)\n3. American Graffiti (1973)\n4. Lost in Translation (2003)\n5. Magnolia (1999)\n6. Delicatessen (1991)\n7. Black Robe (1991)\n8. Umberto D. (1952)\n9. Grapes of Wrath, The (1940)\n10. After the Devil Knows You're Dead (2007)",
+            "Pirates of the Caribbean: At World's End (2007) \nThe Piano (1993) \nTerms of Endearment (1983) \nThe Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998) \nDangerous Liaisons (1988) \nMis\u00e9rables, Les (1998) \nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \nTimeline (2003) \nJane Eyre (1996) \nUmberto D. (1952)",
+            "1. Angels in the Outfield (1994) \n2. Bridges of Madison County, The (1995) \n3. Father of the Bride Part II (1995) \n4. Little Princess, A (1995) \n5. Practical Magic (1998) \n6. Spice World (1997) \n7. Stepmom (1998) \n8. Tarzan (1999) \n9. American Beauty (1999) \n10. Boys Don't Cry (1999) ",
+            "1.  Big Lebowski, The (1998)\n2.   American Graffiti (1973)\n3.  Cronos (1993)\n4.  Enter the Void (2009)\n5.  The Big Red One (1980)\n6.  Hurricane, The (1999)\n7.  Umberto D. (1952)\n8.  Darkman (1990)\n9.  Europa (Zentropa) (1991)\n10. Real Genius (1985)"
+        ]
+    }
+}

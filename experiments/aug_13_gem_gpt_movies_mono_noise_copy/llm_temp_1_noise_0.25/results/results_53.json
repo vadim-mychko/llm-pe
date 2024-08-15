@@ -1,0 +1,58 @@
+{
+    "53": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with a lot of action and adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Do you prefer movies like horror and comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a modern horror film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about magic or the supernatural?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you okay with watching a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a supernatural element that is not a horror film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an adventure-action movie with a touch of the supernatural, like Krull (1983)?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that has adventure and high-fantasy elements, like Vikings returning to their village and fighting off witches and demons, from the 200th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a supernatural element but not a horror film or action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action comedy or a supernatural movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Monsters, Inc. (2001)\nLaura (1944)\nThe Piano (1993)\nAll Quiet on the Western Front (1930)\nThe Secret of Kells (2009)\nLand Before Time, The (1988)\nThe Searching (2018)\nMagnolia (1999)\n Hachiko: A Dog's Story (2009)\n Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Gremlins 2: The New Batch (1990)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. The Big Lebowski (1998)\n4. Intolerable Cruelty (2003)\n5. UHF (1989)\n6. Real Genius (1985)\n7. What's Up, Doc? (1972)\n8. Brewsters Millions (1985)\n9. The Thing (1982)\n10. Terminator 2: Judgement Day (1991)",
+            "1. Nightcrawler (2014)\n2. Terminator 3: Rise of the Machines (2003)\n3. Face/Off (1997)\n4. Darkman (1990)\n5. The Mothman Prophecies (2002)\n6. Enter the Void (2009)\n7. Cronos (1993)\n8. Gremlins 2: The New Batch (1990)\n9. Trapped (2002)\n10. The Last Supper (1995)",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Witch (2015)\n3. Shaun of the Dead (2004)\n4. Trick 'r Treat (2007)\n5. Trollhunter (2010)\n6. Night of the Demons (1988)\n7. John Dies at the End (2012)\n8. A Girl Walks Home Alone at Night (2014)\n9. The Babadook (2014)\n10. It Follows (2014)",
+            "1. **The Secret of Kells (2009)**\n2. **The Nightmare Before Christmas (1993)**\n3. **Arsenic and Old Lace (1944)**\n4. **Practical Magic (1998)**\n5. **Hocus Pocus (1993)**\n6. **Gremlins (1984)**\n7. **The Witches (1990)**\n8. **Beetlejuice (1988)**\n9. **Ghostbusters (1984)**\n10. **Poltergeist (1982)**",
+            "1. The Proposition (2005)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. Creature, The (2011)\n4. Darkman (1990)\n5. Santa Sangre (1989)\n6. Saint Ange (2004)\n7. The Mothman Prophecies (2002)\n8. Hellboy (2004)\n9. Bad Education (La mala educaci\u00f3n) (2004)\n10. Red Riding Hood (2011)",
+            "1. The Last Temptation of Christ (1988)\n2. Santa Sangre (1989)\n3. The Piano (1993)\n4. One Hour Photo (2002)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. No Man's Land (2001)\n7. The Secret of Kells (2009)\n8. Mothman Prophecies, The (2002)\n9. Europa (Zentropa) (1991)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. The Last Temptation of Christ, The (1988)\n2. Santa Sangre (1989)\n3. Dracula (Bram Stoker's Dracula) (1992)\n4. Bad Education (La mala educaci\u00f3n) (2004)\n5. The Mothman Prophecies (2002)\n6. Cabin Fever (2002)\n7. Darkman (1990)\n8. Cronos (1993)\n9. Enter the Void (2009)\n10. Delicatessen (1991)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Enter the Void (2009)\n3. Cronos (1993)\n4. Delicatessen (1991)\n5. The Last Supper (1995)\n6. The Big Red One (1980)\n7. Von Ryan's Express (1965)\n8. Alita: Battle Angel (2019)\n9. Jigsaw\n10. Cube",
+            "1. The Secret of Kells (2009)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. The Mothman Prophecies (2002)\n4. Cronos (1993)\n5. Enter the Void (2009)\n6. Delicatessen (1991)\n7. Europa (Zentropa) (1991)\n8. August Rush (2007)\n9. Pan's Labyrinth (2006)\n10. The Land Before Time (1988)\n"
+        ]
+    }
+}

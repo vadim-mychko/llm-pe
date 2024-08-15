@@ -1,0 +1,58 @@
+{
+    "60": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a child's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is there a crime-themed movie you would enjoy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie that takes place during a war?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies about politics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with robots?",
+                "response": "no"
+            },
+            {
+                "query": "Would you prefer a movie that features a kidnapping?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with adventure and fantasy themes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama about a crime that could be considered a drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that's set in a medieval era?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime-based comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Last Temptation of Christ, The (1988)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. Laura (1944)\n5. August Rush (2007)\n6. Martyrs (2008)\n7. Piano, The (1993)\n8. Terms of Endearment (1983)\n9. Proposition, The (2005)\n10. Bernie (2011)\n''''",
+            "1. Departed, The (2006) \\n\n2. Nightcrawler (2014) \\n\n3. Intolerable Cruelty (2003) \\n\n4. Face/Off (1997) \\n\n5. Bruce Almighty (2003) \\n\n6. BreakBrewster's Millions (1985) \\n\n7. Corpse Bride (2005) \\n\n8. Big Red One, The (1980) \\n\n9. Cronos (1993) \\n\n10. Last Supper, The (1995)",
+            "1. Departed, The (2006) \n2. No Man's Land (2001) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Departed (2006) \n5. Man from Earth, The (2007) \n6. Road to Perdition (2002) \n7. Control (2007) \n8. Delicatessen (1991) \n9. The Conversation (1974) \n10. Strangers on a Train (1951) ",
+            "1. The Departed (2006)\n2. Terminator 3: Rise of the Machines (2003)\n3. Face/Off (1997)\n4. Real Genius (1985)\n5. Brewster's Millions (1985)\n6. Darkman (1990)\n7. Intolerable Cruelty (2003)\n8. Breach (2007)\n9. Thomas Crown Affair, The (1968)\n10. Crime and Misdemeanors (1989)\n",
+            "1. Breach (2007) \n2. Control (2007) \n3. The Departed (2006) \n4. American Graffiti (1973) \n5. Last Supper, The (1995) \n6. True Crime (1999) \n7. Hannibal (2001) \n8. Blow (2001) \n9. Zodiac (2007) \n10. Crimson Tide (1995)",
+            "1. The Departed (2006) \n2. Intolerable Cruelty (2003)\n3. Stranger than Fiction (2006) \n4. Crimes and Misdemeanors (1989)\n5. Breach (2007) \n6. Delicatessen (1991)\n7. Last Supper, The (1995) \n8. Europa (Zentropa) (1991) \n9. Darkman (1990)\n10. Black Robe (1991)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Meet John Doe (1941)\n3. The Departed (2006)\n4. Darkman (1990)\n5. Control (2007)\n6. Brewster's Millions (1985)\n7. Last Supper, The (1995)\n8. The Proposition (2005)\n9. Crimes and Misdemeanors (1989)\n10. Before the Devil Knows You're Dead (2007)",
+            "1. The Departed (2006)\n2. Intolerable Cruelty (2003)\n3. Brewster's Millions (1985)\n4. Before the Devil Knows You're Dead (2007)\n5. Breach (2007)\n6. Darkman (1990)\n7. Trapped (2002)\n8. The Last Supper (1995)\n9. Face/Off (1997)\n10. Bad Education (La mala educaci\u00f3n) (2004)",
+            "1. The Last Supper (1995) \\n\n2. Brewster's Millions (1985) \\n\n3. Terminator 3: Rise of the Machines (2003) \\n\n4. The Departed (2006) \\n\n5. Real Genius (1985) \\n\n6. Metropolis (2001) \\n\n7. Intolerable Cruelty (2003) \\n\n8. Trapped (2002) \\n\n9. Breach (2007) \\n\n10. The Thomas Crown Affair (1968) \\n",
+            "1. Departed, The (2006)\n2. Minority Report (2002)\n3. Kiss Kiss Bang Bang (2005)\n4. Point Break (1991)\n5. Heat (1995)\n6. Collateral (2004)\n7. The Italian Job (2003)\n8. Fargo (1996)\n9. The General (1927)\n10. King of New York (1990)\n"
+        ]
+    }
+}

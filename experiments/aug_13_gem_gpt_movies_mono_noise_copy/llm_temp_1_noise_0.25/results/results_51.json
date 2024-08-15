@@ -1,0 +1,58 @@
+{
+    "51": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Given your interest in a movie about artificial intelligence, but not an action movie, I recommend \"A.I. Artificial Intelligence\" (2001). Are you interested in this movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robotics?",
+                "response": "no"
+            },
+            {
+                "query": "Given your disinterest in action movies and movies about World War II, but your interest in movies about artificial intelligence and robotics, I recommend \"Ex Machina\" (2014). Are you interested in this movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that takes place in the time of Knights and Kings?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to watching a movie that makes you think?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. August Rush (2007)\n7. Martyrs (2008)\n8. The Piano (1993)\n9. Naked Gun: From the Files of Police Squad!, The (1988)\n10. Last Action Hero (1993)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Proposition (2005)\n5. Terminator 3: Rise of the Machines (2003)\n6. Europa (Zentropa) (1991)\n7. Von Ryan's Express (1965)\n8. Timeline (2003)\n9. The Big Red One (1980)\n10. Black Robe (1991)\n''''",
+            "1. A.I. Artificial Intelligence (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Darkman (1990)\n4. Ant-Man (2015)\n5. Control (2007)\n6. The Big Red One (1980)\n7. Robot & Frank (2012)\n8. Face/Off (1997)\n9. Bruce Almighty (2003)\n10. Real Genius (1985)\n",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \n3. Robot & Frank (2012) \n4. Real Steel (2011) \n5. Corporation, The (2003) \n6. Timeline (2003) \n7. Darkman (1990) \n8. Ant-Man (2015) \n9. Robot & Frank (2012) \n10. Metropolis (2001) ",
+            "Corporation, The (2003)\nA.I. Artificial Intelligence (2001)\n2001: A Space Odyssey (1968)\nEx Machina (2014)\nHer (2013)\nI, Robot (2004)\nBlade Runner (1982)\nWALL\u00b7E (2008)\nInterstellar (2014)\nThe Matrix (1999)\nRoboCop (1987)\n",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \\n\n3. Real Steel (2011) \n4. Robot & Frank (2012) \\n\n5. Darkman (1990) \n6. Ant-Man (2015) \n7. Metropolis (2001) \n8. Enter the Void (2009) \n9. The Machine (2013)\n10. Transcendence (2014)",
+            "1. Ex Machina (2014)\n2. A.I. Artificial Intelligence (2001)\n3. The Terminator (1984)\n4. I, Robot (2004)\n5. Terminator 2: Judgment Day (1991)\n6. Her (2013)\n7. Transcendence (2014)\n8. Lucy (2014)\n9. Blade Runner (1982)\n10. Tron: Legacy (2010)",
+            "1. Ex Machina (2014)\n2. Blade Runner (1982)\n3. Robot & Frank (2012)\n4. Her (2013)\n5. I, Robot (2004)\n6. Transcendence (2014)\n7. The Machine (2013)\n8. A.I. Artificial Intelligence (2001)\n9. Real Steel (2011)\n10. Wall-E (2008)",
+            "1. Transcendence (2014) \n2. Robot & Frank (2012) \n3. The Man from Earth (2007) \n4. Stranger than Fiction (2006) \n5. Real Steel (2011) \n6. The Thirteenth Floor (1999) \n7. A.I. Artificial Intelligence (2001) \n8. Her (2013) \n9. Chappie (2015) \n10. Blade Runner 2049 (2017)",
+            "1. Ex Machina (2014)\n2. A.I. Artificial Intelligence (2001)\n3. The Terminator (1984)\n4. Blade Runner (1982)\n5. 2001: A Space Odyssey (1968)\n6. Minority Report (2002)\n7. Her (2013)\n8. WALL-E (2008)\n9. I, Robot (2004)\n10. The Matrix (1999)"
+        ]
+    }
+}

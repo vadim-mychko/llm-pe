@@ -1,0 +1,58 @@
+{
+    "47": {
+        "conv_hist": [
+            {
+                "query": "Are you in the mood for an animated children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you more interested in a comedy or a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama about a lost spacecraft?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a foreign horror movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a romantic Korean movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a sci-fi movie that takes place during World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a 1988 drama film based on a book about Christian beliefs?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama that is based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an atmospheric horror movie about an abandoned house?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an old school screwball comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nTomb Raider (2018) \nPirates of the Caribbean: At World's End (2007)\nLaura (1944)\nAugust Rush (2007)\nThe Blair Witch Project (1999)\nMartyrs (2008)\nThe Piano (1993)\nTerms of Endearment (1983)",
+            "1. August Rush (2007) \n2. Big Red One, The (1980) \n3. Enter the Void (2009) \n4. Face/Off (1997) \n5. Royal Tenenbaums, The (2001) \n6. Crank (2006) \n7. Corpse Bride (2005) \n8. Tommy (1975) \n9. Fright Night (1985) \n10. Force Awakens, The (2015)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Naked Gun: From the Files of Police Squad!, The (1988)\n5. Bernie (2011)\n6. Man on Fire (2004)\n7. Breach (2007)\n8. Sure Thing, The (1985)\n9. What's Up, Doc? (1972)\n10. Stranger Than Fiction (2006)",
+            "1. The Proposition (2005) \\n\n2. Bernie (2011) \\n\n3. August Rush (2007) \\n\n4. Intolerable Cruelty (2003) \\n\n5. Delicatessen (1991) \\n\n6. Bruce Almighty (2003) \\n\n7. Drugstore Cowboy (1989) \\n\n8. Fear and Loathing in Las Vegas (1998) \\n\n9. Last Picture Show, The (1971) \\n\n10. American Graffiti (1973) \\n",
+            "1. Chungking Express (Chung Hing sam lam) (1994)\n2. Love Me If You Dare (Jeux d'enfants) (2003)\n3. Europa (Zentropa) (1991)\n4. The Corporation (2003)\n5. Enter the Void (2009)\n6. The Big Lebowski (1998)\n7. Delicatessen (1991)\n8. Cronos (1993)\n9. Umberto D. (1952)\n10. Intolerable Cruelty (2003)",
+            "1. Intolerable Cruelty (2003) \n2. Delicatessen (1991) \n3. Enter the Void (2009) \n4. Europa (Zentropa) (1991) \n5. Eraserhead (1977) \n6. Cabin Fever (2002) \n7. Eden Lake (2008) \n8. Inside (\u00c0 l'int\u00e9rieur) (2007) \n9. Martyrs (2008) \n10. Santa Sangre (1989)",
+            "1. Cronos (1993)\n2. Europa (Zentropa) (1991)\n3. The Secret of Kells (2009)\n4. Chungking Express (Chung Hing sam lam) (1994)\n5. Enter the Void (2009)\n6. Delicatessen (1991)\n7. Last Temptation of Christ, The (1988)\n8. Martyr (2008)\n9. Santa Sangre (1989)\n10. The Mothman Prophecies (2002)\n",
+            "1. Europa (Zentropa) (1991) \n2. Cronos (1993) \n3. Umberto D. (1952) \n4. The Last Supper (1995) \n5. Black Robe (1991) \n6. Grasp of Wrath, The (1940) \n7. Brewster's Millions (1985) \n8. Real Genius (1985) \n9. American Graffiti (1973) \n10. Big Lebowski, The (1998)",
+            "1. Them (2006) \n2. Audition (1999) \n3. A Tale of Two Sisters (2003)\n4. Miss Zombie (2013) \n5. The Babadook (2014) \n6. The Invitation (2015) \n7. Don't Breathe (2016) \n8. Get Out (2017) \n9. Hereditary (2018)\n10. Midsommar (2019)\n",
+            "1. Enter the Void (2009)\n2. Martyrs (2008)\n3. Santa Sangre (1989)\n4. The Mothman Prophecies (2002)\n5. Cronos (1993)\n6. Delicatessen (1991)\n7. Black Robe (1991)\n8. Europa (Zentropa) (1991)\n9. Last Supper, The (1995)\n10. Darkman (1990)"
+        ]
+    }
+}

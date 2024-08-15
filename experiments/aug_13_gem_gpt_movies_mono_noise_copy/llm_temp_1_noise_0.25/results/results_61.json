@@ -1,0 +1,58 @@
+{
+    "61": {
+        "conv_hist": [
+            {
+                "query": "Would you prefer a drama, or an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is a comedy or horror movie better for you today?",
+                "response": "comedy"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like a movie with robots in it?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a movie with lots of special effects?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie set on the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking to watch an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you want to watch a movie that's a big budget production?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a live action comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Children of Men (2006)\n2. Pan's Labyrinth (2006)\n3. City of God (2002)\n4. The Lives of Others (2006)\n5. Spirited Away (2001)\n6. Oldboy (2003)\n7. The Diving Bell and the Butterfly (2007)\n8. 4 Months, 3 Weeks and 2 Days (2007)\n9. Persepolis (2007)\n10. The Secret in Their Eyes (2009)",
+            "1. Monty Python and the Holy Grail (1975)\n2. Airplane! (1980)\n3. The Big Lebowski (1998)\n4. What We Do in the Shadows (2014)\n5. Shaun of the Dead (2004)\n6. Hot Fuzz (2007)\n7. The World's End (2013)\n8. 21 Jump Street (2012)\n9. 22 Jump Street (2014)\n10. The Lego Movie (2014)",
+            "* What's Up, Doc? (1972)\n\n* Intolerable Cruelty (2003)\n\n* American Graffiti (1973)\n\n* Big Red One, The (1980)\n\n* Real Genius (1985)\n\n* Brewster's Millions (1985)\n\n* UHF (1989)\n\n* How High (2001)\n\n* The Big Lebowski (1998)\n\n* A Fish Called Wanda (1988)",
+            "1. American Graffiti (1973)\n2. Brewster's Millions (1985)\n3. Big Lebowski, The (1998)\n4. Tenacious D in The Pick of Destiny (2006)\n5. Real Genius (1985)\n6. Delicatessen (1991)\n7. Intolerable Cruelty (2003)\n8. Last Supper, The (1995)\n9. Bruce Almighty (2003)\n10. What's Up, Doc? (1972)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The Naked Gun: From the Files of Police Squad! (1988)\n3. Ant-Man (2015)\n4. King Kong (2005)\n5. Real Steel (2011)\n6. Transporter 2 (2005)\n7. The Last Action Hero (1993)\n8. Face/Off (1997)\n9. Terminator 3: Rise of the Machines (2003)\n10. Alita: Battle Angel (2019)",
+            "1. Robot & Frank (2012) \n2. Meet John Doe (1941) \n3. What's Up, Doc? (1972) \n4. Thomas Crown Affair, The (1968) \n5. Control (2007) \n6. Big Lebowski, The (1998) \n7. American Graffiti (1973) \n8. Intolerable Cruelty (2003) \n9. Brewster's Millions (1985) \n10. Real Genius (1985)",
+            "1. Monsters, Inc. (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Delicatessen (1991)\n4. Darkman (1990)\n5. Terminator 3: Rise of the Machines (2003)\n6. Last Action Hero (1993)\n7. Darkman (1990)\n8. Ready Player One \n9. Big Red One, The (1980)\n10. Black Robe (1991)",
+            "Tomb Raider (2018)\nThe Naked Gun: From the Files of Police Squad!, The (1988)\nLast Action Hero (1993)\nBad Education (La mala educaci\u00f3n) (2004)\nCag",
+            "1. Tomb Raider (2018)\n2. August Rush (2007)\n3. Love Me If You Dare (Jeux d'enfants) (2003)\n4. Searching (2018)\n5. Meet John Doe (1941)\n6. The Sure Thing (1985)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. Tenacious D in The Pick of Destiny (2006)\n10. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n'''",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. Real Steel (2011) \n3. What's Up, Doc? (1972) \n4. Intolerable Cruelty (2003) \n5. Bruce Almighty (2003) \n6. Big Lebowski, The (1998) \n7. Tenacious D in The Pick of Destiny (2006) \n8. Delicatessen (1991) \n9. Brewster's Millions (1985) \n10. The Sure Thing (1985) "
+        ]
+    }
+}

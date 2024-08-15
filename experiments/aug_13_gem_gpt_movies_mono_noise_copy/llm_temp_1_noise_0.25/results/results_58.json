@@ -1,0 +1,58 @@
+{
+    "58": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a historical or action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film with older characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a horror film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie involving technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie involving space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a novel or book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a film that has been critically acclaimed?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Monsters, Inc. (2001) \nPirates of the Caribbean: At World's End (2007) \nAugust Rush (2007) \nTerms of Endearment (1983) \nOne Hour Photo (2002) \nDracula (Bram Stoker's Dracula) (1992) \nMan on Fire (2004) \nThe Man from Earth (2007)\nSearching (2018) \nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n",
+            "1. Moonlight (2016) \n2. Lost in Translation (2003) \n3. Never Let Me Go (2010) \n4. The Tree of Life (2011) \n5. Boyhood (2014) \n6. Frances Ha (2012) \n7. Marriage Story (2019) \n8. The Souvenir (2019) \n9. Eighth Grade (2018) \n10. Columbus (2017)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Last Temptation of Christ, The (1988)\n4. Holy Mountain, The (1973)\n5. Hausu (House) (1977)\n6. Eraserhead (1977)\n7. Pink Flamingos (1972)\n8. El Topo (1970)\n9. Dawn of the Dead (1978)\n10. Suspiria (1977)",
+            "- Monsters, Inc. (2001)\n- Pirates of the Caribbean: At World's End (2007)\n- August Rush (2007)\n- The Blair Witch Project (1999)\n- The Piano (1993)\n- Proposition, The (2005)\n- Naked Gun: From the Files of Police Squad!, The (1988)\n- Arsenic and Old Lace (1944)\n- American Graffiti (1973)\n- Real Genius (1985)",
+            "1. The Secret of Kells (2009)\n2. Strangers than Fiction (2006)\n3. Alita: Battle Angel (2019)\n4. The Craft (1996)\n5. Ocean's Eleven (2001)\n6. Hitch (2005)\n7. Clueless (1995)\n8. Searching (2018)\n9. 10 Things I Hate About You (1999)\n10. Knives Out (2019)",
+            "* Stranger than Fiction (2006)\n* The Proposition (2005)\n* Very Bad Things (1998)\n* Last Supper, The (1995)\n* Mr. Holmes (2015)\n* Robot & Frank (2012)\n* 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n* Girl with a Pearl Earring (2003)\n* Atonement (2007)\n* August Rush (2007)\n* Perfume: The Story of a Murderer (2006)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Piano (1993)\n5. The Blair Witch Project (1999)\n6. Proposition, The (2005)\n7. Bernie (2011)\n8. Naked Gun: From the Files of Police Squad!, The (1988)\n9. Last Action Hero (1993)\n10. One Hour Photo (2002)",
+            "1. Laura (1944) \n2. The Grapes of Wrath (1940) \n3. Jane Eyre (1996) \n4. Dangerous Liaisons (1988) \n5. Mis\u00e9rables, Les (1998) \n6. A.I. Artificial Intelligence (2001) \n7. Moby Dick (1956) \n8. The Last Supper (1995) \n9. Cronos (1993) \n10. The Last Duel (2021)",
+            "Jane Eyre (1996) \nLost in Translation (2003) \nGrapes of Wrath, The (1940) \nUmberto D. (1952) \nBlack Robe (1991) \nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \nA.I. Artificial Intelligence (2001) \nTimeline (2003) \nDangerous Liaisons (1988) \nMoby Dick (1956) ",
+            "1. Grapes of Wrath, The (1940)\n2. King Kong (2005)\n3. Umberto D. (1952)\n4. Laura (1944)\n5. The Piano (1993)\n6. The Corporation (2003)\n7. Delicatessen  (1991)\n8. Cronos  (1993)\n9. Last Supper, The (1995)\n10. Jane Eyre (1996)"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "52": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie with animation?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that takes place in the 1980s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about mind bending?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a TV show about global politics?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 90s?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. RoboCop (1987) \n2. The Thing (1982) \n3. The Terminator (1984) \n4. Blade Runner (1982) \n5. Aliens (1986) \n6. Predator (1987) \n7. Die Hard (1988) \n8. Lethal Weapon (1987) \n9. Indiana Jones and the Raiders of the Lost Ark (1981) \n10. Ghostbusters (1984)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Laura (1944) \n4. Abraham Lincoln: Vampire Hunter (2012) \n5. August Rush (2007) \n6. Martyrs (2008) \n7. The Proposition (2005) \n8. Deja Vu (2006) \n9. October Sky (1999) \n10. John Q (2002)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. Men in Black: International (2019)\n4. National Treasure: Book of Secrets (2007)\n5. Men in Black 3 (2012)\n6. Jumanji: Welcome to the Jungle (2017)\n7. Men in Black (1997)\n8. Hancock (2008)\n9. Jumanji: The Next Level (2019)\n10. Zathura: A Space Adventure (2005)",
+            "1. Runaway Train \n2. Laura \n3. The Last Temptation of Christ \n4. August Rush \n5. The Proposition \n6. Breach \n7. Clash of the Titans \n8. Sure Thing, The \n9. Europa \n10. The Thomas Crown Affair",
+            "1. The Big Lebowski, The (1998)\n2. Tomb Raider (2018)\n3. Face/Off (1997)\n4. Trapped (2002)\n5. Intolerable Cruelty (2003)\n6. 50 First Dates (2004)\n7. American Graffiti (1973)\n8. Actino, Fantasy, War (1993) \n9. Terminator 3: Rise of the Machines (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Intolerable Cruelty (2003)\n2. Terminator 3: Rise of the Machines (2003)\n3. Corp. (2003)\n4. Man on Fire (2004)\n5. Bad Education (2004)\n6. King Kong (2005)\n7. No Country for Old Men (2007)\n8. There Will Be Blood (2007)\n9. Zodiac (2007)\n10. No Country for Old Men (2007)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Clash of the Titans (1981) \n3. Europa (Zentropa) (1991) \n4. A.I. Artificial Intelligence (2001) \n5. Ready Player One \n6. Big Lebowski, The (1998) \n7. Face/Off (1997) \n8. Real Genius (1985) \n9. Eragon (2006) \n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "**1. Terminator 3: Rise of the Machines (2003)**\n**2. Meet John Doe (1941)**\n**3. Searching (2018)**\n**4. Alvin and the Chipmunks (2007)**\n**5. What's Up, Doc? (1972)**\n**6. Brewster's Millions (1985)**\n**7. Real Genius (1985)**\n**8. Gremlins 2: The New Batch (1990)**\n**9. Darkman (1990)**\n**10. Terminator 3: Rise of the Machines (2003)**",
+            "1. Blade Runner (1982)\n2. Interstellar (2014)\n3. Her (2013)\n4. Arrival (2016)\n5. 2001: A Space Odyssey (1968)\n6. The Matrix (1999)\n7. Star Wars: Episode V - The Empire Strikes Back (1980)\n8. Aliens (1986)\n9. Terminator 2: Judgment Day (1991)\n10. The Fifth Element (1997)",
+            "****\n Movie Title: Metropolis (2001)\n Genres: Animation, Sci-Fi \n Tags: anime, visually appealing, robots, androids, deus ex machina, future, Japan, Sad Ending, cookie-cutter, psychopath, tezuka, DVD-Video, Rintaro, See: Metropolis (1927), animation, based on comic, childish style, comic book, control, homage\n****\n Movie Title: Terminator 3: Rise of the Machines (2003)\n Genres: Action, Adventure, Sci-Fi \n Tags: franchise, time travel, Arnold Schwarzenegger, action, artificial intelligence, apocalypse, androids, car chase, android(s)/cyborg(s), Nudity (Topless), nuclear war, murder, sci-fi, big budget, Nudity (Rear), Nudity (Topless - Brief), alternate universe, assassin, end of the world, fighting\n****\n Movie Title: A.I. Artificial Intelligence (2001)\n Genres: Adventure, Drama, Sci-Fi \n Tags: artificial intelligence, dystopia, Steven Spielberg, sci-fi, robots, Bittersweet, androids, depressing, fairy tale, future, emotional, Jude Law, too long, spielberg, Stanley Kubrick, ending kinda ruined it, disturbing, beautiful, Haley Joel Osment, creepy child\n****\n Movie Title: Ant-Man (2015)\n Genres: Action, Adventure, Sci-Fi \n Tags: Marvel, superhero, sci-fi, heist, comic book, paul rudd, Marvel Cinematic Universe, ants, entertaining, funny moments, Michael Douglas, superheroes, Evangeline Lilly, based on a comic, MCU, special effects, San Francisco, adapted from:comic, burglary, super strength\n****\n Movie Title: Real Steel (2011)\n Genres: Action, Drama, Sci-Fi, IMAX \n Tags: robots, boxing, Science Fiction, father-son relationship, Hugh Jackman, Fighting Robots, android(s)/cyborg(s), predictable, feel-good, obnoxious kid, Evangeline Lilly, Rocky Homage, childish, fighting, hugh  jackman, robot, sci-fi, sport:boxing, Dakota Goyo, Writer: Dan Gilroy\n****\n Movie Title: Robot & Frank (2012)\n Genres: Comedy, Drama, Sci-Fi \n Tags: robots, future, memory, family, science fiction, gentle, crime, soft crime, human condition, friendship, life, near future, Alfred P. Sloan Feature Film Prize, Frank Langella, Jake Schreier, MTSKAF, amazon, cat thief, good robot, growing old\n****\n Movie Title: Matrix, The (1999)\n Genres: Action, Sci-Fi, Thriller \n Tags: neo, VR, virtual reality, dystopia, fantasy, Laurence Fishburne, martial arts, cyberpunk, hacking, action packed, bad guys, hero/heroics, rebels conquering opposition, science fiction, Digital, Duo, Hope, humans vs machines, Matrix, Morpheus, mystery, underground\n****\n Movie Title: 2001: A Space Odyssey (1968)\n Genres: Adventure, Sci-Fi \n Tags: kubrick, Sci-Fi, space, Stanley Kubrick, Arthur C. Clarke, slow, masterpiece, AFI 100, very long, epic, mysterious, enigmatic, Hal 9000, futuristic, space opera, thought-provoking, transcendental, wondering what is happening, 70s, aliens, outer space, movie everyone must see, visuals, Farout, ground-breaking, classical music, computer as antagonist, Consuming, Fine Cinematography, visually stunning, man vs machine, primal, Religious Symbolism\n****\n Movie Title: Moon (2009) \n Genres: Drama, Sci-Fi, Thriller \n Tags: thought-provoking, beautiful, sci-fi, space, clone, virtual reality, psychology, philosophical, space travel, twist ending, Sam Rockwell, Atmospheric, isolation, existentialism, brilliant, Luke Skywalker, betrayal, limited dialog, lonesome, Stalker, a scheme\n****\n Movie Title: Blade Runner 2049 (2017)\n Genres: Adventure, Drama, Sci-Fi \n Tags: visually appealing, cinematography, beautiful, sci-fi, visually stunning, Harrison Ford, action, Ryan Gosling, thought-provoking, excellent sequel, snyders cut, Judge Dredd, noir, cinematic, epic, red dragon, based on a novel, based on a short story, groundbreaking, oscar nom, new age\n****\n Movie Title: Blade Runner (1982)\n Genres: Action, Drama, Mystery, Sci-Fi, Thriller \n Tags: sci-fi, dystopia, Harrison Ford, Ridley Scott, cyberpunk, Philip K. Dick, futuristic, neo noir, intriguing, must see, unconventional ending, Science Fiction, Philip K Dick, mystifying, old but still good, rain, seen more than once, set design, voigt kampff\n****"
+        ]
+    }
+}

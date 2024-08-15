@@ -1,0 +1,58 @@
+{
+    "46": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie that discusses computers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where technology and music play a major part?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the middle ages?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animation about children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about heists?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a lighthearted comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a kid's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic comedy?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. Terminator 3: Rise of the Machines (2003)\n3. A.I. Artificial Intelligence (2001)\n4. Timeline (2003)\n5. Ready Player One\n6. Nightcrawler (2014)\n7. Trapped (2002)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "Monsters, Inc. (2001) \\n\nRunaway Train (1985) \\n\nLaura (1944) \\n\nLast Temptation of Christ, The (1988) \\n\nAbraham Lincoln: Vampire Hunter (2012) \\n\nSanta Sangre (1989) \\n\nAugust Rush (2007) \\n\nBlair Witch Project, The (1999) \\n\nMartyrs (2008) \\n\nPiano, The (1993)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. August Rush (2007) \n4. Blair Witch Project, The (1999) \n5. Laura (1944) \n6. Santa Sangre (1989) \n7. Last Temptation of Christ, The (1988) \n8. Abraham Lincoln: Vampire Hunter (2012) \n9. Proposition, The (2005) \n10. Terms of Endearment (1983)",
+            "1. The Incredible Journey (1993) \\n\n2. The Land Before Time (1988) \\n\n3. Monsters, Inc. (2001) \\n\n4. August Rush (2007) \\n\n5. Nanny McPhee (2005) \\n\n6. How to Train Your Dragon (2010) \\n\n7. The Secret of Kells (2009) \\n\n8. Fantastic Mr. Fox (2009) \\n\n9. Wreck-It Ralph (2012) \\n\n10. Brave (2012) \\n",
+            "1. Searching (2018) \n2. Nightcrawler (2014) \n3. Control (2007) \n4. Stranger than Fiction (2006) \n5. The Departed (2006) \n6. Lost in Translation (2003) \n7. The Big Lebowski (1998) \n8. American Graffiti (1973) \n9. Real Genius (1985) \n10. The Grapes of Wrath (1940)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. We Bought a Zoo (2011)\n5. What's Up, Doc? (1972)\n6. Homeward Bound: The Incredible Journey (1993)\n7. The Hurricane (1999)\n8. American Graffiti (1973)\n9. Robot & Frank (2012)\n10. Grapes of Wrath, The (1940)",
+            "1. Bomb the System (2002)\n2. Surplus (2003)\n3. Robot & Frank (2012)\n4. Bruce Almighty (2003)\n5. The Big Lebowski (1998)\n6. Eternal Sunshine of the Spotless Mind (2004)\n7. Frequency (2000)\n8. Baume, Le (2018)\n9. Timbuktu (2014)\n10. Freeheld (2015)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Von Ryan's Express (1965) \n3. A.I. Artificial Intelligence (2001) \n4. All Quiet on the Western Front (1930) \n5. Alita: Battle Angel (2019) \n6. Man from Earth, The (2007) \n7. Magnolia (1999) \n8. Hannibal (2001) \n9. Dangerous Liaisons (1988) \n10. How High (2001)",
+            "1. Enter the Void (2009) \n2. Strange than Fiction (2006) \n3. Cronos (1993) \n4. Lost in Translation (2003) \n5. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n6. Tenacious D in The Pick of Destiny (2006) \n7. Brewster's Millions (1985) \n8. Grapes of Wrath, The (1940) \n9. Lost in Translation (2003) \n10. Last Supper, The (1995)",
+            "1. Von Ryan's Express (1965) \n2. American Graffiti (1973) \n3. Big Lebowski, The (1998) \n4. Bruce Almighty (2003) \n5. Brewster's Millions (1985) \n6. Cloud Atlas (2012)\n7. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n8. Cronos (1993) \n9. Drugstore Cowboy (1989) \n10. Ant-Man (2015) \n'''"
+        ]
+    }
+}
