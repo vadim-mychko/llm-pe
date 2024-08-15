@@ -1,0 +1,58 @@
+{
+    "42": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie originally based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that takes place in the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "What type of genre are you looking for?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a movie that is action packed?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a movie about royalty?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie set in a historical setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a robbery?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Lost in Translation (2003)\n2. Grapes of Wrath, The (1940)\n3. Dangerous Liaisons (1988)\n4. Jane Eyre (1996)\n5. Umberto D. (1952)\n6. Moby Dick (1956)\n7. A.I. Artificial Intelligence (2001)\n8. Black Robe (1991)\n9. Eragon (2006)\n10. Boy in the Striped Pajamas, The (2008)",
+            "1. The Grapes of Wrath (1940) \n2. Dangerous Liaisons (1988) \n3. Dracula (Bram Stoker's Dracula) (1992)\n4. The Last Supper (1995) \n5. Last Temptation of Christ, The (1988) \n6. Moby Dick (1956) \n7. Jane Eyre (1996) \n8. Laura (1944) \n9. August Rush (2007) \n10. What's Up, Doc? (1972)\n",
+            "****\n Movie Title: What's Up, Doc? (1972) \n Genres: Comedy \n\n****\n Movie Title: Thomas Crown Affair, The (1968) \n Genres: Crime, Drama, Romance, Thriller \n\n****\n Movie Title: Grapes of Wrath, The (1940) \n Genres: Drama \n\n****\n Movie Title: Lost in Translation (2003) \n Genres: Comedy, Drama, Romance \n\n****\n Movie Title: Jane Eyre (1996) \n Genres: Drama, Romance \n\n****\n Movie Title: The Remains of the Day (1993) \n Genres: Drama, Romance \n\n****\n Movie Title: The Last Emperor (1987) \n Genres: Biography, Drama, Historical \n\n****\n Movie Title: Dangerous Liaisons (1988) \n Genres: Drama, Romance \n\n****\n Movie Title: Ran (1985) \n Genres: Action, Drama, Historical \n\n****\n Movie Title: Amadeus (1984) \n Genres: Biography, Drama, Historical \n****",
+            "1. Dangerous Liaisons (1988) \n2. Jane Eyre (1996) \n3. Moby Dick (1956) \n4. The Grapes of Wrath (1940) \n5. Von Ryan's Express (1965) \n6. Timeline (2003) \n7. Cronos (1993) \n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n9. The Hurricane (1999) \n10. Thomas Crown Affair, The (1968)\n",
+            "1. Gone Girl (2014)\n2. Kill Bill: Vol. 1 (2003)\n3. Fargo (1996)\n4. Pulp Fiction (1994)\n5. Reservoir Dogs (1992)\n6. No Country for Old Men (2007)\n7. The Departed (2006)\n8. Zodiac (2007)\n9. Mystic River (2003)\n10. Prisoners (2013)",
+            "1. Term of Endearment (1983) \n2. The Departed (2006) \n3. American Graffiti (1973) \n4. Grapes Of Wrath, The (1940) \n5. Pulp Fiction (1994) \n6. Black Robe (1991) \n7. 5 Centimeters Per Second (By\u00f4soku 5 Senchim\u00eatoru) (2007) \n8. Primer (2004) \n9. Yeelen (1987) \n10. No End (2006)",
+            "Drugs and addiction: Drugstore Cowboy (1989)\nChild abuse: Bad Education (La mala educaci\u00f3n) (2004)\nSpying: Breach (2007)\nCorporate greed: The Corporation (2003)\nFemale empowerment: Thelma and Louise (1991)\nMurder: Arsenic and Old Lace (1944)\nDivorces: Chungking Express (Chung Hing sam lam) (1994)\nFriendship: The Theory of Everything (2014)\nPolice Corruption: Training Day (2001)\nRevenge: Raid, The (Serbuan Maut) (2011)\n",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. The King's Speech (2010)\n3. The Queen (2006)\n4. Marie Antoinette (2006)\n5. Elizabeth (1998)\n6. Amadeus (1984)\n7. Dangerous Liaisons (1988)\n8. Barry Lyndon (1975)\n9. The Madness of King George (1994)\n10. Anne of the Thousand Days (1969)",
+            "1. Dracula (Bram Stoker's Dracula) (1992)\n2. Dangerous Liaisons (1988)\n3. The Thomas Crown Affair (1968)\n4. Intolerable Cruelty (2003)\n5. Brewster's Millions (1985)\n6. Jane Eyre (1996)\n7. Umberto D. (1952)\n8. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Delicatessen (1991)\n10. Mr. Holmes (2015)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Tomb Raider (2018)\n3. Dangerous Liaisons (1988)\n4. Pirates of the Caribbean: At World's End (2007)\n5. Elizabeth (1998)\n6. Jane Eyre (1996)\n7. The Last Emperor (1987)\n8. Queen Margot (1994)\n9. Marie Antoinette (2006)\n10. Dangerous Liaisons (1988)"
+        ]
+    }
+}

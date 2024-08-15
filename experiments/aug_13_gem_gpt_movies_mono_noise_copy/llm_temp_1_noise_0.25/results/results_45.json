@@ -1,0 +1,58 @@
+{
+    "45": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a foreign film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with realistic special effects?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that is set in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a film that involves technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a high IMDb rating?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a video game?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that has a captivating soundtrack?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a strong female lead?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Last Temptation of Christ, The (1988)\n2. Laura (1944).\n3. Pirates of the Caribbean: At World's End (2007).\n4. Tomb Raider (2018).\n5. August Rush (2007).\n6. The Piano (1993)\n7. Dracula (Bram Stoker's Dracula) (1992).\n8. The Proposition, The (2005). \n9. Clash of the Titans (1981)\n10. Bad Education (La mala educaci\u00f3n) (2004).",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Last Temptation of Christ, The (1988)\n4. August Rush (2007)\n5. The Piano (1993)\n6. The Proposition (2005)\n7. One Hour Photo (2002)\n8. Terminator 3: Rise of the Machines (2003)\n9. Control (2007)\n10. Transporter 2 (2005)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Meet John Doe (1941) \n3. The Thomas Crown Affair (1968) \n4. Timline (2003) \n5. Ready Player One \n6. Transporter 2 (2005) \n7. Nightcrawler (2014) \n8. Trapped (2002) \n9. American Graffiti (1973) \n10. Face/Off (1997) ",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Proposition (2005)\n5. The Last Action Hero (1993)\n6. Man on Fire (2004)\n7. The Greatest Showman (2017)\n8. Real Steel (2011)\n9. Brewster's Millions (1985)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Darkman (1990) \n2. Blade Runner (1982) \n3. A.I. Artificial Intelligence (2001) \n4. Control (2007) \n5. Enter the Void (2009) \n6. Real Steel (2011)\n7. The Matrix (1999)\n8. Inception (2010)\n9. Ex Machina (2014) \n10. Her (2013) \n",
+            "1. Searching (2018)\n2. Darkman (1990) \n3. A.I. Artificial Intelligence (2001) \n4. Ready Player One \n5. Nightcrawler (2014) \n6. Delicatessen (1991) \n7. Robot & Frank (2012) \n8. Real Genius (1985) \n9. Cronos (1993) \n10. Black Robe (1991)",
+            "1. The Corporation (2003)\n2. Big Lebowski, The (1998)\n3. Intolerable Cruelty (2003)\n4. Nightcrawler (2014)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ready Player One\n7. Ant-Man (2015)\n8. Face/Off (1997)\n9. Austin Powers: International Man of Mystery (1997)\n10. Robot & Frank (2012)",
+            "1. Searching (2018)\n2. Corporation, The (2003)\n3. Terminator 3: Rise of the Machines (2003)\n4. Ant-Man (2015)\n5. Real Steel (2011)\n6. Delicatessen (1991)\n7. Trapped (2002)\n8. Robot & Frank (2012)\n9. Tenacious D in The Pick of Destiny (2006)\n10. Bruce Almighty (2003)",
+            "1. Enter the Void (2009)\n2. A.I. Artificial Intelligence (2001)\n3. The Big Lebowski (1998)\n4. Robot & Frank (2012)\n5. Terminator 3: Rise of the Machines (2003)\n6. Meet John Doe (1941)\n7. Control (2007)\n8. Real Genius (1985)\n9. Stranger than Fiction (2006)\n10. Face/Off (1997)",
+            "* Pirates of the Caribbean: At World's End (2007)\n* Tomb Raider (2018)\n* The Proposition (2005)\n* Terminator 3: Rise of the Machines (2003)\n* August Rush (2007)\n* Alita: Battle Angel (2019)\n* 50 First Dates (2004)\n* Ready Player One\n* Big Lebowski, The (1998)\n* Brewster's Millions (1985)"
+        ]
+    }
+}

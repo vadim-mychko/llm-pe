@@ -1,0 +1,58 @@
+{
+    "19": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie or film with children as the main characters?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an animated movie from your childhood?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that includes talking animals?",
+                "response": "no"
+            },
+            {
+                "query": "What kind of movie are you in the mood for tonight?",
+                "response": "i am in the mood for an animated sci-fi movie."
+            },
+            {
+                "query": "Do you want to watch an adventure movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie with a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animated movie with a robot in it?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Abraham Lincoln: Vampire Hunter (2012)\n5. Terminator 3: Rise of the Machines (2003)\n6. Europa (Zentropa) (1991)\n7. Big Red One, The (1980)\n8. Breach (2007)\n9. Intolerable Cruelty (2003)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "Monsters, Inc. (2001) \nThe Land Before Time (1988) \nHomeward Bound: The Incredible Journey (1993) \nHachi: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\nAnt-Man (2015) \nThe Secret of Kells (2009) \nAdventure, Animation, Children, Fantasy \nAugust Rush (2007) \n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\nMetropolis (2001) \nAnimation, Sci-Fi \nUp (2009) \n",
+            "1. Monsters, Inc. (2001) \n2. August Rush (2007) \n3. Ant-Man (2015) \n4. Homeward Bound: The Incredible Journey (1993) \n5. Real Steel (2011) \n6. Robot & Frank (2012) \n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Land Before Time, The (1988) \n10. Secret of Kells, The (2009)",
+            "1. Monsters, Inc. (2001)\n2. The Secret of Kells (2009)\n3. The Land Before Time (1988)\n4. Hachiko: A Dog's Story (2009)\n5. Homeward Bound: The Incredible Journey (1993)\n6. American Graffiti (1973)\n7. August Rush (2007)\n8. The Boy in the Striped Pajamas (2008)\n9. Real Genius (1985)\n10. Moana (2016)\n",
+            "1. Metropolis (2001)\n2. What's Up, Doc? (1972)\n3. The Incredibles (2004)\n4. Ant-Man (2015)\n5. A.I. Artificial Intelligence (2001)\n6. Terminator 2: Rise of the Machines (2003)\n7. Timeline (2003)\n8. The Iron Giant (1999)\n9. Spirited Away (2001)\n10. Fantastic Planet (1973)",
+            "1. Ant-Man (2015)\n2. A.I. Artificial Intelligence (2001)\n3. Terminator 3: Rise of the Machines (2003)\n4. Metropolis (2001)\n5. Ready Player One\n6. Big Hero 6 (2014)\n7. Wall-E (2008)\n8. Wreck-It Ralph (2012)\n9. Toy Story (1995)\n10. Monsters, Inc. (2001)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ant-Man (2015)\n3. Metropolis (2001)\n4. The Secret of Kells (2009)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Real Steel (2011)\n7. Lost in Translation (2003)\n8. Robot & Frank (2012)\n9. Terminator 3: Rise of the Machines (2003)\n10. Ready Player One",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Piano (1993)\n5. The Secret of Kells (2009)\n6. Chungking Express (Chung Hing sam lam) (1994)\n7. Ant-Man (2015)\n8. Timeline (2003)\n9. A.I. Artificial Intelligence (2001)\n10. Real Steel (2011)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. August Rush (2007)\n4. The Secret of Kells (2009)\n5. The Land Before Time (1988)\n6. Alita: Battle Angel (2019)\n7. Ant-Man (2015)\n8. Homeward Bound: The Incredible Journey (1993)\n9. Robot & Frank (2012)\n10. Real Genius (1985)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Metropolis (2001) \n3. Wall-E (2008) \n4. The Iron Giant (1999) \n5. Astro Boy (2009) \n6. Titan A.E. (2000) \n7. Robots (2005) \n8. Big Hero 6 (2014) \n9. The Incredibles (2004) \n10. Bolt (2008)"
+        ]
+    }
+}

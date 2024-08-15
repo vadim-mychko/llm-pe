@@ -1,0 +1,58 @@
+{
+    "29": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with a political or social theme?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking to watch a movie that deals with a crime or other criminal activity?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a movie set during a war or period of conflict?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a foreign film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a political or social satire?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you particularly interested in the romance genre?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction romance movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romance film set in a foreign country?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a romantic drama?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Corporation, The (2003)\n2. Grapes of Wrath, The (1940)\n3. Intolerable Cruelty (2003)\n4. The Hurricane (1999)\n5. Nightcrawler (2014)\n6. Born to Kill (1947)\n7. Meet John Doe (1941)\n8. The Departed (2006)\n9. Brewster's Millions (1985)\n10. Quicksand (1950)",
+            "1. **The Corporation (2003)**\n2. **Corporation, The (2003)**\n3. **No Man's Land (2001)**\n4. **Before the Devil Knows You're Dead (2007)**\n5. **Dangerous Liaisons (1988)**\n6. **Intolerable Cruelty (2003)**\n7. **Last Supper, The (1995)**\n8. **Terms of Endearment (1983)**\n9. **Mis\u00e9rables, Les (1998)**\n10. **Crimes and Misdemeanors (1989)**",
+            "1. No Man's Land (2001)\n2. Corporation, The (2003)\n3. Grapes of Wrath, The (1940)\n4. Intolerable Cruelty (2003)\n5. Meet John Doe (1941)\n6. Magnolia (1999)\n7. Crimes and Misdemeanors (1989)\n8. How High (2001)\n9. Perfect Blue (1997)\n10. Big Lebowski, The (1998)",
+            "1. Delicatessen (1991)\n2. Black Robe (1991)\n3. Europa (Zentropa) (1991)\n4. Cronos (1993)\n5. Chungking Express (Chung Hing sam lam) (1994)\n6. The Last Supper (1995)\n7. Jane Eyre (1996)\n8. No Man's Land (2001)\n9. Lost in Translation (2003)\n10. Bad Education (La mala educaci\u00f3n) (2004)",
+            "1. Europa (Zentropa) (1991)\n2. Corporation, The (2003)\n3. Delicatessen (1991)\n4. Umberto D. (1952)\n5. Black Robe (1991)\n6. Enter the Void (2009)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. Jane Eyre (1996)\n9. Lost in Translation (2003)\n10. Whale Rider (2002)",
+            "1. Europa (Zentropa) (1991)\n2. Black Robe (1991)\n3. Corporation, The (2003)\n4. Delicatessen (1991)\n5. Intolerable Cruelty (2003)\n6. Jane Eyre (1996)\n7. Love Me If You Dare (Jeux d'enfants) (2003)\n8. Mis\u00e9rables, Les (1998)\n9. Stranger than Fiction (2006)\n10. Thomas Crown Affair, The (1968)",
+            "1. The Proposition (2005)\n2. Europa (Zentropa) (1991)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Love Me If You Dare (Jeux d'enfants) (2003)\n5. The Secret of Kells (2009)\n6. Les Mis\u00e9rables (1998)\n7. 50 First Dates (2004)\n8. What's Up, Doc? (1972)\n9. The Thomas Crown Affair (1968)\n10. Jane Eyre (1996)",
+            "Lost in Translation (2003) \nEternal Sunshine of the Spotless Mind (2004) \nThe Science of Sleep (La science des r\u00eaves) (2006) \n5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \nStranger than Fiction (2006) \nPunch-Drunk Love (2002) \nIl Postino (The Postman) (1994) \n10 Things I Hate About You (1999) \nAm\u00e9lie (Le fabuleux destin d'Am\u00e9lie Poulain) (2001) \nHarold and Maude (1971)",
+            "1. Departed, The (2006) \n2. Big Lebowski, The (1998) \n3. Tomb Raider (2018) \n4. Terminator 3: Rise of the Machines (2003) \n5. Europa (Zentropa) (1991) \n6. Metropolis (2001) \n7. A.I. Artificial Intelligence (2001) \n8. Chungking Express (Chung Hing sam lam) (1994) \n9. Love Me If You Dare (Jeux d'enfants) (2003) \n10. Lost in Translation (2003)\n",
+            "1. Europa (Zentropa) (1991)\n2. Chungking Express (Chung Hing sam lam) (1994)\n3. Rosetta (1999)\n4. Amour (2012)\n5. The White Ribbon (Das wei\u00dfe Band) (2009)\n6. No Man's Land (2001)\n7. Corporation, The (2003)\n8. The Secret in Their Eyes (El secreto de sus ojos) (2009)\n9. Albert Nobbs (2011)\n10. Pride (2014)"
+        ]
+    }
+}

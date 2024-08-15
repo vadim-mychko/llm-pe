@@ -1,0 +1,58 @@
+{
+    "28": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for something that is action packed?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the movie you're looking for based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Is the story set in a fantasy realm?",
+                "response": "no"
+            },
+            {
+                "query": "What about a movie with car chases?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about a person who uses computers and gets into trouble?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a thriller movie?",
+                "response": "no"
+            },
+            {
+                "query": "What about a movie involving time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that has non-human technology such as androids or robots?",
+                "response": "yes"
+            },
+            {
+                "query": "Do you want to watch a sci-fi movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "****\n1. Tomb Raider (2018) \n2. Terminator 3: Rise of the Machines (2003) \\n\n3. Ant-Man (2015)\n4. The Big Red One (1980) \\n\n5. King Kong (2005)\n6. Face/Off (1997) \n7. The Last Supper (1995) \n8. Bruce Almighty (2003)\n9. Eragon (2006)\n10. Tenacious D in The Pick of Destiny (2006) \n****",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. The Proposition (2005)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ant-Man (2015)\n7. Ready Player One\n8. Big Red One, The (1980)\n9. Nightcrawler (2014)\n10. Face/Off (1997)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. Ready Player One\n5. Transformers Franchise\n6. Pacific Rim Franchise\n7. Mad Max Franchise\n8. The Matrix Franchise\n9. John Wick Franchise\n10. Terminator Franchise",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Von Ryan's Express (1965)\n3. Transporter 2 (2005)\n4. Face/Off (1997)\n5. National Treasure (2004)\n6. **The Last Airbender (2010)**\n7. **Jumanji: Welcome to the Jungle (2017)**\n8. **Moll Flanders (1996)**\n9. **The Perfect Storm (2000)**\n10. **Twister (1996)**",
+            "Terminator 3: Rise of the Machines (2003)\nAnt-Man (2015)\nReady Player One\nTrapped (2002)\nFace/Off (1997)\nBruce Almighty (2003)\nKing Kong (2005)\nReal Genius (1985)\nTenacious D in The Pick of Destiny (2006)\nEragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Steel (2011)\n3. Ant-Man (2015)\n4. Darkman (1990)\n5. Nightcrawler (2014)\n6. Face/Off (1997)\n7. Bruce Almighty (2003)\n8. King Kong (2005)\n9. Ready Player One\n10. Big Red One, The (1980)\n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Blade Runner: 2049 (2017)\n4. Pacific Rim: Uprising (2018)\n5. Kingsman: The Secret Service (2014)\n6. Ready Player One (2018)\n7. Upgrade (2018)\n8. Overlord (2018)\n9. Bumblebee (2018)\n10. Venom (2018)",
+            " Terminator 3: Rise of the Machines (2003) \\n\nTransporter 2 (2005) \\n\nNightcrawler (2014) \\n\nThe Departed (2006) \\n\nBig Lebowski, The (1998) \\n\nBruce Almighty (2003) \\n\nKing Kong (2005) \\n\nLost in Translation (2003) \\n\nTenacious D in The Pick of Destiny (2006) \\n\nThe Boy in the Striped Pajamas (2008)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. A.I. Artificial Intelligence (2001) \n3. Ant-Man (2015) \n4. Alita: Battle Angel (2019) \n5. Real Steel (2011) \n6. Robot & Frank (2012) \n7. Metropolis (2001) \n8. Blade Runner (1982) \n9. Tron (1982) \n10. Wall-E (2008)",
+            "1. I, Robot (2004) \n2. Minority Report (2002) \n3. A.I. Artificial Intelligence (2001) \n4. Ready Player One \n5. Robot & Frank (2012)\n6. Alita: Battle Angel (2019)\n7. Ant-Man (2015)\n8. Real Steel (2011)\n9. Terminator 3: Rise of the Machines (2003)\n10. The Matrix (1999) "
+        ]
+    }
+}

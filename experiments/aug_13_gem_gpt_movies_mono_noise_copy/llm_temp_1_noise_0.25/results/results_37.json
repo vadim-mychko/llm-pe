@@ -1,0 +1,58 @@
+{
+    "37": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in animated movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 19th century?",
+                "response": "no"
+            },
+            {
+                "query": "Are you seeking a movie that has action and war elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you considering a movie that features music or is about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to watching a movie that has elements of romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a movie that is a drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you seeking a science fiction movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is set in the past?\n''''",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. August Rush (2007)\n3. The Secret of Kells (2009)\n4. Ant-Man (2015)\n5. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n6. Homeward Bound: The Incredible Journey (1993)\n7. Corpse Bride (2005)\n8. Fantastic Mr. Fox (2009)\n9. The Incredibles (2004)\n10. Up (2009)",
+            "1. Tomb Raider (2018)\n2. Abraham Lincoln: Vampire Hunter (2012)\n3. Lost World: Jurassic Park, The (1997)\n4. Terminator 3: Rise of the Machines (2003)\n5. Ready Player One\n6. Big Red One, The (1980)\n7. Real Genius (1985)\n8. Grapes of Wrath, The (1940)\n9. Cronos (1993)\n10. Bruce Almighty (2003)",
+            "1. Searching (2018)\n2. Magnolia (1999)\n3. The Man from Earth (2007)\n4. Strange than Fiction (2006)\n5. Lost in Translation (2003)\n6. Corpse and Frank (2012)\n7. American Graffiti (1973)\n8. Contact (1997)\n9. The Secret of Kells (2009)\n10. Big Lebowski, The (1998)\n",
+            "1. Nightcrawler (2014)\n2. Terminator 3: Rise of the Machines (2003)\n3. Alita: Battle Angel (2019)\n4. The Land Before Time (1988)\n5. Escape from New York (1981)\n6. Drugstore Cowboy (1989)\n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n8. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Clash of the Titans (1981)\n10. Eragon (2006)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Control (2007) \n3. Don't Stop Me Now (1952) \n4. Clash of the Titans (1981) \n5. Laura (1944) \n6. Platoon (1986) \n7. Transporter 2 (2005) \n8. Face/Off (1997) \n9. Eragon (2006) \n10. Stargate (1994)",
+            "1. Real Steel (2011) \n2. The Big Red One (1980) \n3. Nightcrawler (2014) \n4. Stranger than Fiction (2006) \n5. The Big Lebowski (1998) \n6. American Graffiti (1973) \n7. Trapped (2002) \n8. Face/Off (1997) \n9. Brewster's Millions (1985) \n10. Real Genius (1985) ",
+            "1. Last Supper, The (1995) \n2. Black Robe (1991) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Mothman Prophecies (2002) \n5. Breach (2007) \n6. Alita: Battle Angel (2019) \n7. Man on Fire (2004) \n8. Von Ryan's Express (1965) \n9. Timeline (2003) \n10. American Graffiti (1973) ",
+            "****\n Movie Title: Bright Star (2009) \n Genres: Drama, Romance \n\n****\n Movie Title: Love (2015) \n Genres: Drama, Romance \n\n****\n Movie Title: Philomena (2013) \n Genres: Drama \n\n****\n Movie Title: Still Alice (2014) \n Genres: Drama \n\n****\n Movie Title: Wild (2014) \n Genres: Drama, Adventure, Biography \n\n****\n Movie Title: Elizabeth: The Golden Age (2007) \n Genres: Drama, History, Romance \n\n****\n Movie Title: Water for Elephants (2011) \n Genres: Drama, Romance \n\n****\n Movie Title: Brokeback Mountain (2005) \n Genres: Drama, Romance \n\n****\n Movie Title: Capote (2005) \n Genres: Biography, Crime, Drama \n\n****\n Movie Title: The Artist (2011) \n Genres: Comedy, Drama, Romance\n",
+            "1. Rain Man (1988) \n2. Dancer in the Dark (2000) \n3. City Lights (1931) \n4. The Passion of Joan of Arc (1928) \n5. The Apu Trilogy (1955\u20131959) \n6. Breathless (1960) \n7. Casablanca (1942) \n8. The Godfather: Part II (1974) \n9. The Shawshank Redemption (1994) \n10. Schindler's List (1993)",
+            "1. The Last of the Mohicans (1992)\n2. Atonement (2007)\n3. Presumed Innocent (1990)\n4. We Need to Talk About Kevin (2011)\n5. The Elephant Man (1980)\n6. The Age of Innocence (1993)\n7. The Remains of the Day (1993)\n8. Restoration (1995)\n9. The Piano (1993)\n10. Howards End (1992)"
+        ]
+    }
+}

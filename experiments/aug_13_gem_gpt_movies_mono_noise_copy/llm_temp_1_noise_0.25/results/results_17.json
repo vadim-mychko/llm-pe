@@ -1,0 +1,58 @@
+{
+    "17": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in seeing a movie with science fiction and action elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dramatic romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary about the evil inherent in corporations?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see a thriller or suspense movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with crime or noir themes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a thriller set against a medieval backdrop?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a thriller featuring a sociopath?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a thrilling action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama with a thriller/suspenseful edge to it?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thriller set during the World War II-era?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Ant-Man (2015)\n2. Lost in Translation (2003)\n3. Bruce Almighty (2003)\n4. Real Steel (2011)\n5. Alien (1979)\n6. The Big Red One (1980)\n7. Terminator 3: Rise of the Machines (2003)\n8. Real Genius (1985)\n9. American Graffiti (1973)\n10. Robot & Frank (2012)",
+            "1. Tomb Raider (2018)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terminator 3: Rise of the Machines (2003)\n5. Searching (2018)\n6. Ant-Man (2015)\n7. Ready Player One (2018)\n8. The Big Lebowski (1998)\n9. American Graffiti (1973)\n10. Mr. Holmes (2015)",
+            "1. Eragon (2006)\n2. Alita: Battle Angel (2019)\n3. Terminator 3: Rise of the Machines (2003)\n4. King Kong (2005)\n5. A.I. Artificial Intelligence (2001)\n6. Timeline (2003)\n7. Ready Player One\n8. Real Steel (2011)\n9. Big Red One, The (1980)\n10. Black Robe (1991)",
+            "1. Departed, The (2006)\n2. Nightcrawler (2014)\n3. Man on Fire (2004)\n4. Before the Devil Knows You're Dead (2007)\n5. Breach (2007)\n6. Runaway Train (1985)\n7. Control (2007)\n8. Zodiac (2007)\n9. Memories of Murder (2003)\n10. Oldboy (2003)\n",
+            "1. One Hour Photo (2002)\n2. The Departed (2006)\n3. Before the Devil Knows You're Dead (2007)\n4. Nightcrawler (2014)\n5. Searching (2018)\n6. The Silence of the Lambs (1991)\n7. The Thing (1982)\n8. Seven (1995)\n9. No Country for Old Men (2007)\n10. Prisoners (2013)",
+            "1. Intolerable Cruelty (2003)\n2. Trapped (2002)\n3. Departed, The (2006)\n4. Nightcrawler (2014)\n5. Terminator 3: Rise of the Machines (2003)\n6. Face/Off (1997)\n7. Europa (Zentropa) (1991)\n8. Before the Devil Knows You're Dead (2007)\n9. Man from Earth, The (2007)\n10. Last Supper, The (1995)",
+            "Nightcrawler (2014)\nThe Departed (2006)\nThe Big Lebowski (1998)\nNo Man's Land (2001)\nSearching (2018)\nThe Last Supper (1995)\nTrapped (2002)\nMan on Fire (2004)\nBefore the Devil Knows You're Dead (2007)\nControl (2007)",
+            "1. Nightcrawler (2014)\n2. The Departed (2006)\n3. The Last Supper (1995)\n4. Face/Off (1997)\n5. Real Genius (1985)\n6. A.I. Artificial Intelligence (2001)\n7. Cronos (1993)\n8. Black Robe (1991)\n9. Terminator 3: Rise of the Machines (2003)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Timeline (2003)\n2. The Terminator: Rise of the Machines (2003)\n3. Identity (2003)\n4. Real Steel (2011)\n5. Robocop Remake (2014)\n6. Intolerable Cruelty (2003)\n7. Bruce Almighty (2003)\n8. The Thin Red Line (1995)\n9. FearDotCom (2002)\n10. The House of the Devil (2009)",
+            "1. Europa (Zentropa) (1991)\n2. Nightcrawler (2014)\n3. Enter the Void (2009)\n4. Departed, The (2006)\n5. Trapped (2002)\n6. Last Supper, The (1995)\n7. Cronos (1993)\n8. Black Robe (1991)\n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n10. Macbeth (2015)"
+        ]
+    }
+}

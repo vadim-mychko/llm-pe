@@ -1,0 +1,58 @@
+{
+    "41": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies involving science fiction?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with college themes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a coming of age movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to watch a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 1970s?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Cocoon (1985)\n2. Brewster's Millions (1985)\n3. St. Elmo's Fire (1985)\n4. Real Genius (1985)\n5. Thief (1981)\n6. The sure Thing (1985)\n7. Conan the Barbarian (1982)\n8. Indiana Jones and the Temple of Doom (1984)\n9. The Terminator (1984)\n10. Tron (1982)\n",
+            "1. Lost in Translation (2003)\n2. Grapes of Wrath, The (1940)\n3. Umberto D. (1952)\n4. Real Genius (1985) \n5. St. Elmo's Fire (1985) \n6. Brewster's Millions (1985) \n7. Runaway Train (1985) \n8. Sure Thing, The (1985) \n9. Goonies, The (1985) \n10. Cocoon (1985) \n",
+            "Real Genius (1985) \nSt. Elmo's Fire (1985) \nThe Sure Thing (1985) \nBrewster's Millions (1985) \nRunaway Train (1985) \nHalloween (1978) \nChu Teh (1972) \nHigh Risk (1981) \nValley Girl (1983) \nWhere the Boys Are '84 (1984) \nWhatever It Takes (1982) ",
+            "1. Real Genius (1985)\n2. National Lampoon's Vacation (1983)\n3. Fast Times at Ridgemont High (1982)\n4. The Breakfast Club (1985)\n5. Caddyshack (1980)\n6. Ferris Bueller's Day Off (1986)\n7. Revenge of the Nerds (1984)\n8. Sixteen Candles (1984)\n9. Risky Business (1983)\n10. Animal House (1978)",
+            "1. Real Genius (1985) \n2. Brewster's Millions (1985) \n3. Runaway Train (1985) \n4. Sure Thing, The (1985) \n5. American Graffiti (1973) \n6. What's Up, Doc? (1972) \n7. St. Elmo's Fire (1985)\n8. Von Ryan's Express (1965)\n9. The Big Red One (1980)\n10. UHF (1989)",
+            "Sure Thing, The (1985)\nSt. Elmo's Fire (1985)\nBrewster's Millions (1985)\nReal Genius (1985)\nRunaway Train (1985)\nAmerican Graffiti (1973)\nReal Steel (2011)\nWe Bought a Zoo (2011)\nBig Red One, The (1980)\nMeet John Doe (1941)\n",
+            "1. Brewster's Millions (1985)\n2. St. Elmo's Fire (1985)\n3. American Graffiti (1973)\n4. Sure Thing, The (1985)\n5. Real Genius (1985)\n6. Runaway Train (1985)\n7. Cocoon (1985)\n8. What's Up, Doc? (1972)\n9. The Man from Earth (2007)\n10. College Road Trip (2008)",
+            "- Real Genius (1985) \n- Brewster's Millions (1985) \n- Sure Thing, The (1985) \n- St. Elmo's Fire (1985) \n- Runaway Train (1985) \n- The Last Dragon (1985) \n- Lost in Translation (2003) \n- David Searching (2018) \n- The Social Network (2010) \n- Ex Machina (2014)",
+            "1. American Graffiti (1973)\n2. Brewster's Millions (1985)\n3. Real Genius (1985)\n4. Sure Thing, The (1985)\n5. St. Elmo's Fire (1985)\n6. The Last American Virgin (1982)\n7. Risky Business (1983)\n8. Sixteen Candles (1984)\n9. The Breakfast Club (1985)\n10. Ferris Bueller's Day Off (1986)",
+            "1. Real Genius (1985) \n2. Sure Thing, The (1985) \n3. American Graffiti (1973) \n4. St. Elmo's Fire (1985) \n5. Darkman (1990) \n6. The Last Dragon (1985) \n7. Risky Business (1983) \n8. The Breakfast Club (1985) \n9. Girls Just Want to Have Fun (1985) \n10. Sixteen Candles (1984)\n"
+        ]
+    }
+}

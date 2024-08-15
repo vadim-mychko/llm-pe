@@ -1,0 +1,58 @@
+{
+    "40": {
+        "conv_hist": [
+            {
+                "query": "Do you prefer old movies or new movies?",
+                "response": "it is not possible to determine whether the user prefers old movies or new movies based on the given item description."
+            },
+            {
+                "query": "Do you like movies about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Is the story set in a school setting?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about criminals trying to hide in a school?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like romantic comedies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a book adaptation?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a character who murders in prison?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie from the 90's?",
+                "response": "yes"
+            },
+            {
+                "query": "Looking through the list, I found a 1999 book adaptation where there are a series of murders outside and inside a prison named \"The Hurricane\". Is this what you are looking for?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with murder in a school setting?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. Santa Sangre (1989)\n7. August Rush (2007)\n8. Blair Witch Project, The (1999)\n9. Martyrs (2008)\n10. Piano, The (1993)\n'''",
+            "1. Big Red One, The (1980) \n2. American Graffiti (1973) \n3. Black Robe (1991) \n4. Out of Sight (1998) \n5. Brewster's Millions (1985) \n6. Grapes of Wrath, The (1940) \n7. Von Ryan's Express (1965) \n8. Corporation, The (2003) \n9. Spider-Man: Homecoming (2017) \n10. Ready Player One (2018) ",
+            "1. Bad Education (La mala educaci\u00f3n) (2004)\n2. Black Robe (1991)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. St. Elmo's Fire (1985)\n6. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n7. Von Ryan's Express (1965)\n8. Cage aux Folles, La (1978)\n9. Intolerable Cruelty (2003)\n10. The Last Supper (1995)",
+            "1. Brewster's Millions (1985)\n2. Gentleman of Fortune (Dzhentlmeny udachi) (1972)\n3. Lost World: Jurassic Park, The (1997)\n4. St. Elmo's Fire (1985)\n5. Terminator 3: Rise of the Machines (2003)\n6. Transformer 2 (2005)\n7. Intolerable Cruelty (2003)\n8. Strangers than Fiction (2006)\n9. Face/Off (1997)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n2. The Land Before Time (1988)\n3. Cage aux Folles, La (1978)\n4. Intolerable Cruelty (2003)\n5. The Secret of Kells (2009)\n6. Summer School (1987)\n7. Brewster's Millions (1985)\n8. St. Elmo's Fire (1985)\n9. What's Up, Doc? (1972)\n10. Real Genius (1985)",
+            "1. Jane Eyre (1996) \\n\n2. Mr. Holmes (2015) \\n\n3. Extremely Loud & Incredibly Close (2011) \\n\n4. Dangerous Liaisons (1988) \\n\n5. Enter the Void (2009) \\n\n6. Europa (Zentropa) (1991) \\n\n7. Enter the Void (2009) \\n\n8. Breach (2007) \\n\n9. Being John Malkovich (1999) \\n\n10. Before the Devil Knows You're Dead (2007)",
+            "1. The Proposition (2005)\n2. The Crime and Misdemeanors (1989)\n3. Brewster's Millions (1985)\n4. The Last Supper (1995)\n5. Jane Eyre (1996)\n6. A.I. Artificial intelligence (2001)\n7. Eragon (2006)\n8. The Boy in the Striped Pajamas (2008)\n9. Black Robe (1991)\n10. Grapes of Wrath, The (1940)",
+            "1. How High (2001) \n2. Last Supper, The (1995) \n3. Boys N the Hood (1991) \n4. Matilda (1996) \n5. School of Rock (2003) \n6. Angus (1995) \n7. Welcome to the Dollhouse (1995) \n8. Clueless (1995) \n9. Fast Times at Ridgemont High (1982) \n10. 10 Things I Hate About You (1999) \n",
+            "1. The Proposition (2005) \n2. Bad Education (La mala educaci\u00f3n) (2004) \n3. Breach (2007) \n4. Dangerous Liaisons (1988) \n5. Darkman (1990) \n6. The Hurricane (1999) \n7. Intolerable Cruelty (2003) \n8. Face/Off (1997) \n9. Bruce Almighty (2003)\n10. Cronos (1993) ",
+            "1. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n2. Preparatory Academy, The (1987)\n3. Burning Season, The (1968)\n4. CLASS OF 1984 (1982)\n5. American Graffiti (1973)\n6. Catch Me If You Can (2002)\n7. Dead Poets Society (1989)\n8. Ferris Bueller's Day Off (1986)\n9. Heathers (1988)\n10. American Pie (1999)"
+        ]
+    }
+}

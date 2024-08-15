@@ -1,0 +1,58 @@
+{
+    "32": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a video game adaptation?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you be interested in a movie that is also a sci-fi or fantasy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an interactive children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a video game adaptation that is also a sci-fi adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a video game adaptation that is also an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a video game adaptation that is also a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a video game adaptation that is specifically an action adventure fantasy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a video game adaptation that is also an action adventure fantasy comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a video game that is an action adventure fantasy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a video game movie that is an action adventure fantasy with lots of shooting?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018)\n2. Laura (1944)\n3. Abraham Lincoln: Vampire Hunter (2012)\n4. August Rush (2007)\n5. One Hour Photo (2002)\n6. Last Action Hero (1993)\n7. Man on Fire (2004)\n8. Ant-Man (2015)\n9. Eragon (2006)\n10. Tomb Raider (2018)",
+            "1. Tomb Raider (2018)\n2. Dungeons & Dragons (2000)\n3. Alita: Battle Angel (2019)\n4. The Last Airbender (2010)\n5. Mortal Kombat (2021)\n6. Uncharted (2022)\n7. Warcraft (2016)\n8. Monster Hunter (2020)\n9. The Witcher (2019)\n10. Assassin's Creed (2016)",
+            "1. Tomb Raider (2018) \n2. Alita: Battle Angel (2019) \n3. A.I. Artificial Intelligence (2001) \n4. Ready Player One\n5. Ender\u2019s Game (2013)\n6. Real Steel (2011)\n7. Surrogates (2009)\n8. Tron: Legacy (2010)\n9. The Lego Movie (2014)\n10. Warcraft (2016)",
+            "Tomb Raider (2018)\nA.I. Artificial Intelligence (2001)\nA Stranger than Fiction (2006) \nEragon (2006)\nLast Action Hero (1993) \nReal Steel (2011) \nReady Player One\nAnt-Man (2015) \nTerminator 3: Rise of the Machines (2003)\nTransformers (2007)",
+            "Tomb Raider (2018) \\n\nAnt-Man (2015) \\n\nReady Player One \\n\nTron: Legacy (2010) \\n\nWarcraft (2016) \\n\nThe Matrix (1999) \\n\nPok\u00e9mon Detective Pikachu (2019) \\n\nResident Evil (2002) \\n\nSilent Hill (2006) \\n\nHitman (2007)",
+            "Tomb Raider (2018) \nAnt-Man (2015) \nReady Player One \nBig Red One, The (1980) \nReal Genius (1985) \nTenacious D in The Pick of Destiny (2006) \nEragon (2006) \nBoy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \nGremlins 2: The New Batch (1990) \nSure Thing, The (1985)",
+            "1. Tomb Raider (2018)\n2. August Rush (2007)\n3. Last Action Hero (1993)\n4. Metropolis (2001)\n5. Monster''s, Inc. (2001)\n6. Alita: Battle Angel (2019)\n7. Ant-Man (2015)\n8. Ready Player One \n9. Big Red One, The (1980)\n10. King Kong (2005)",
+            "1. Tomb Raider (2018) \n2. Last Action Hero (1993) \n3. Alita: Battle Angel (2019) \n4. Ant-Man (2015) \n5. Ready Player One \n6. The Big Red One (1980) \n7. Face/Off (1997) \n8. King Kong (2005) \n9. Eragon (2006) \n10. Tenacious D in The Pick of Destiny (2006) ",
+            "1. Tomb Raider (2018) \n2. Ant-Man (2015) \n3. Warcraft (2016) \n4. Ready Player One \n5. Prince of Persia: The Sands of Time (2010) \n6. Scott Pilgrim vs. the World (2010) \n7. Final Fantasy: The Spirits Within (2001) \n8. Pixels (2015) \n9. Assassin's Creed (2016) \n10. Need for Speed (2014)",
+            "1. Tomb Raider (2018) \n2. Warcraft (2016) \n3. Alita: Battle Angel (2019) \n4. Ready Player One \n5. The Witcher (2019) \n6. Ant-Man and the Wasp (2018) \n7. Mortal Engines (2018) \n8. Rampage (2018) \n9. The Predator (2018) \n10. Annihilation (2018)"
+        ]
+    }
+}

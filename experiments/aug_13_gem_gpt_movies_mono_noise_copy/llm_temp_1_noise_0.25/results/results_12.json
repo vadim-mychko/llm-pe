@@ -1,0 +1,58 @@
+{
+    "12": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie with a strong female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a Japanese film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is entertaining?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a futuristic movie that involves an evil corporation?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about AI?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a female protagonist who goes on an adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about hackers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a dystopian future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that has robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a corporation's villainous acts against people and planet?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018) \n2. August Rush (2007) \n3. Laura (1944) \n4. The Piano (1993) \n5. All Quiet on the Western Front (1930) \n6. Cach\u00e9 (Hidden) (2005) \n7. Bad Education (La mala educaci\u00f3n) (2004) \n8. Meet John Doe (1941) \n9. The Hurricane (1999) \n10. The Departed (2006)\n",
+            "1. Monster's Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. Tomb Raider (2018)\n6. The Big Lebowski (1998)\n7. American Graffiti (1973)\n8. Bruce Almighty (2003)\n9. Meet John Doe (1941)\n10. Rush Hour (2001)",
+            "1. Intolerable Cruelty (2003)\n2. Face/Off (1997)\n3. A.I. Artificial Intelligence (2001)\n4. Dracula (Bram Stoker's Dracula) (1992)\n5. Nightcrawler (2014)\n6. Big Red One, The (1980)\n7. The Naked Gun: From the Files of Police Squad! (1988)\n8. Terminator 3: Rise of the Machines (2003)\n9. Babylon A.D. (2008)\n10. Breach (2007)\n''''",
+            "1. Blade Runner (1982)\n2. The Matrix (1999)\n3. Terminator 2: Judgment Day (1991)\n4. The Fifth Element (1997)\n5. Total Recall (1990)\n6. Minority Report (2002)\n7. District 9 (2009)\n8. Inception (2010)\n9. Blade (1998)\n10. The Dark Knight (2008)",
+            "1. Corporation, The (2003) \\n\n2. The Big Red One (1980) \\n\n3. Face/Off (1997) \\n\n4. Terminator 3: Rise of the Machines (2003) \\n\n5. King Kong (2005) \\n\n6. Bruce Almighty (2003) \\n\n7. Minority Report (2002) \\n\n8. District 9 (2009) \\n\n9. The Matrix (1999) \\n\n10. Tron (1982) \\n",
+            "1. Ready Player One \n2. Nightcrawler \n3. Big Lebowski, The \n4. The Departed \n5. King Kong (2005) \n6. Intolerable Cruelty \n7. Stranger than Fiction \n8. Face/Off \n9. Darkman \n10. American Graffiti",
+            "1. Robocop\n2. Darkman\n3. Tron Uprising\n4. The Terminator\n5. Demolition Man\n6. The Blade Runner\n7. Aliens\n8. Predator\n9. Matrix Series\n10. Battlestar Galactica",
+            "1. Ready Player One \n2. Real Steel (2011) \n3. Nightcrawler (2014) \n4. Big Hero 6 (2014) \n5. The Martian (2015) \n6. Terminator 3: Rise of the Machines (2003) \n7. Lucy (2014) \n8. Ex Machina (2014) \n9. The Matrix (1999) \n10. Blade Runner 2049 (2017)",
+            "1. Ready Player One\n2. The Big Lebowski (1998) \n3. Stranger than Fiction (2006) \n4. Mr. Holmes (2015) \n5. Bruce Almighty (2003) \n6. Real Genius (1985) \n7. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n8. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n9. Billy Elliot (2000) \n10. Stand By Me (1986)",
+            "1. **The Corporation (2003)**\n2. **Corporation, The (2003)**\n3. **Enter the Void (2009)**\n4. **Twelve Monkeys (1995)**\n5. **Nightcrawler (2014)**\n6. **Control (2007)**\n7. **Ready Player One (2018)**\n8. **Cocoon (1985)**\n9. **Lost in Translation (2003)**\n10. **Blade Runner 2049 (2017)**"
+        ]
+    }
+}

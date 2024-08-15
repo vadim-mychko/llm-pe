@@ -1,0 +1,58 @@
+{
+    "11": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie involving fantasy elements?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comical action sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in science fiction movies involving artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in science fiction movies involving time travel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romantic science fiction movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a science fiction movie about the future?",
+                "response": "no"
+            },
+            {
+                "query": "Is this a science-fiction movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. August Rush (2007)\n7. The Blair Witch Project (1999)\n8. Martyrs (2008)\n9. The Last Action Hero (1993)\n10. Man from Earth, The (2007)\n''''",
+            "1. Lost in Translation (2003)\n2. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n3. Nightcrawler (2014)\n4. Enter the Void (2009)\n5. Cronos (1993)\n6. Europa (Zentropa) (1991)\n7. The Last Supper (1995)\n8. The Proposition (2005)\n9. Delicatessen (1991)\n10. Big Red One, The (1980)\n",
+            "1. Metropolis (2001) \n2. The Matrix (1999) \n3. 2001: A Space Odyssey (1968) \n4. Arrival (2016) \n5. Alien (1979)\n6. Sunshine (2007)\n7. Interstellar (2014) \n8. Gravity (2013) \n9. The Martian (2015) \n10. Blade Runner 2049 (2017)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Real Steel (2011) \n3. Lost in Translation (2003) \n4. Robot & Frank (2012) \n5. Terminator 3: Rise of the Machines (2003) \n6. Timeline (2003) \n7. Ready Player One \n8. Ant-Man (2015) \n9. The Matrix (1999) \n10. Minority Report (2002)",
+            "1. Blade Runner 2049 (2017)\n2. The Matrix (1999)\n3. Annihilation (2018)\n4. Arrival (2016)\n5. District 9 (2009)\n6. Ex Machina (2014)\n7. Her (2013)\n8. Interstellar (2014)\n9. Moon (2009)\n10. Sunshine (2007)",
+            "1. Mid90s (2018)\n2. Being John Malkovich (1999)\n3. Good Time (2017)\n4. Black Panther (2018)\n5. Manchester by the Sea (2016)\n6. Annihilation (2018)\n7. The Florida Project (2017)\n8. Lady Bird (2017)\n9. The Killing of a Sacred Deer (2017)\n10. Three Billboards Outside Ebbing, Missouri (2017)",
+            "****\n Movie Title: Star Wars: Episode VII - The Force Awakens (2015) \n Genres: Action, Adventure, Fantasy, Sci-Fi \n Tags: action, star wars, adventure, feel good, science fiction, Harrison Ford, lightsaber, disney, new trilogy, original trilogy, BB-8, good vs evil, family, Luke Skywalker, relatable, re-make, fan service, sequel trilogy, young adult, star:harrison ford, epic\n****\n Movie Title: Arrival (2016) \n Genres: Drama, Sci-Fi \n Tags: aliens, Amy Adams, sci-fi, language, cerebral, Denis Villeneuve, fantastic, thought provoking, alien language, aliens communicating, alien, ambiguous ending, astronomy, complex characters, existentialism, linguistics, politics, science fiction\n****\n Movie Title: The Martian (2015) \n Genres: Adventure, Drama, Sci-Fi \n Tags: trapped, Matt Damon, Andy Weir, suspense, survival, stranded, Ridley Scott, sci-fi, NASA, Cast Away in Space, botanist, captivity, character development, entertaining, family, heroism, humor, mars\n****\n Movie Title: Alien (1979) \n Genres: Horror, Sci-Fi \n Tags: aliens, Alien, monsters, scary as hell, horror, Ripley, science fiction, suspenseful, tense, sci-fi, suspense, slasher, Sigourney Weaver, great soundtrack, creepy, feminist, alien, classic, effects hold up, greats sci-fi movie, jump scares\n****\n Movie Title: It Follows (2014) \n Genres: Horror, Sci-Fi, Thriller \n Tags: indie, supernatural, music, horror, scary, female protagonist, suspense, disturbing, terrifying, psychological, running, vulnerable, stalking, anomaly, haunting, manipulation, on the run, toothless nothingness, violent\n****\n Movie Title: Ex Machina (2014) \n Genres: Drama, Sci-Fi, Thriller \n Tags: artificial intelligence, psychological, thriller, sci-fi, Alicia Vikander, A24, modern horror, minimalist, AI, smart, horror movie, existentialism, everything is perfect in this film, unforgiving, thriller, thought-provoking, android, claustrophobic, Computer Science\n****\n Movie Title: Cloud Atlas (2012) \n Genres: Drama, Sci-Fi \n Tags: intelligent design, star-studded, Wachowski Brothers, sci-fi, multi-plots, Tom Hanks, Hugo Weaving, existential, masterpiece, cast does double duty, cross-cutting interwoven narratives, 100 Greatest Movies, philosophy, range, rambling\n****\n Movie Title: Predestination (2014) \n Genres: Drama, Sci-Fi, Thriller \n Tags: time travel, paradox, Ethan Hawke, science fiction, thought-provoking, complicated, twist ending, engaging, brain-buster, character study, surveillance, thriller, Astronomy, the metaphysics aspects, ESPIONAGE, Identity, philosophy, surprise, Domestic Violence\n****\n Movie Title: Gattaca (1997) \n Genres: Drama, Sci-Fi \n Tags: genetic engineering, what's in our genes and what's in our soul, sci-fi, Ethan Hawke, Jude Law, uma thurman, physical perfection does not guarantee happiness, flawed but spectacularly talented, discrimination, Gattaca Corporation, genetic engineering, good score, our inner strength,, truly inspiring movie, suberb storytelling, substance over style\n****\n Movie Title: District 9 (2009) \n Genres: Action, Drama, Sci-Fi \n Tags: aliens, apartheid, action, sci-fi, Neill Blomkamp, South Africa, special effects, government corruption, class issues, refugee, shakespearen elements, metaphoric, Non human protagonist, political commentary",
+            "1. A.I. Artificial Intelligence (2001)\n2. Timeline (2003)\n3. The Corporation (2003)\n4. Ready Player One\n5. Control (2007)\n6. Stranger than Fiction (2006)\n7. Into the Void (2009)\n8. Mr. Holmes (2015)\n9. Robot & Frank (2012)\n10. Bruce Almighty (2003)\n",
+            "1. Brazil (1985)\n2. Blade Runner (1982)\n3. Solaris (1972)\n4. Stalker (1979)\n5. 2001: A Space Odyssey (1968)\n6. The Hitchhiker's Guide to the Galaxy (2005)\n7. Aliens (1986)\n8. The Thing (1982)\n9. Event Horizon (1997)\n10. Pandorum (2009)\n'''",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Ant-Man (2015)\n3. A.I. Artificial Intelligence (2001)\n4. Corporation, The (2003)\n5. Timeline (2003)\n6. Real Steel (2011)\n7. Trapped (2002)\n8. Robot & Frank (2012)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Eragon (2006)"
+        ]
+    }
+}

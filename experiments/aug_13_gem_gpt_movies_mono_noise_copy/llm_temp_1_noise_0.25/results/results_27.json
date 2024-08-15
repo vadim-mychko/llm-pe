@@ -1,0 +1,58 @@
+{
+    "27": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a war movie to watch with your family?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with action and adventure?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a female protagonist?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a romantic storyline?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a comedy movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a modern romantic comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a romantic comedy that takes place in present times?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie like When Harry Met Sally?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. Terms of Endearment (1983)\n5. Bernie (2011)\n6. The Naked Gun: From the Files of Police Squad! (1988)\n7. Last Action Hero (1993)\n8. One Hour Photo (2002)\n9. The Last Supper (1995)\n10. Tenacious D in The Pick of Destiny (2006)\n",
+            "1. Monsters, Inc. (2001)\n2. The Proposition (2005)\n3. Reign of Fire (2002)\n4. Trainspotting (1996)\n5. The Losers (2010)\n6. Bad Boys (1995)\n7. Face/Off (1997)\n8. Total Recall (1990)\n9. The A-Team (2010)\n10. Die Hard (1988)",
+            "1. The Big Red One (1980)\n2. Intolerable Cruelty (2003)\n3. August Rush (2007)\n4. A.I. Artificial Intelligence (2001)\n5. Face/Off (1997)\n6. What's Up, Doc? (1972)\n7. A Clockwork Orange (1971)\n8. King Kong (2005)\n9. Dangerous Liaisons (1988)\n10. The Terminator (1984)",
+            "1. Children of Men (2006)\n2. Nightcrawler (2014)\n3. Departed, The (2006)\n4. Zodiac (2007)\n5. King Kong (2005)\n6. Eragon (2006)\n7. Brewster's Millions (1985)\n8. Face/Off (1997)\n9. RoboCop (1987)\n10. Man on Fire (2004)",
+            "1. The Lost World: Jurassic Park (1997) \n2. The Proposition (2005) \n3. Cloud Atlas (2012) \n4. Byzantium (2013) \n5. The Matrix (1999) \n6. Sunshine (2007) \n7. Drive (2011) \n8. Hanna (2011) \n9. The Guest (2014) \n10. Salt (2010) \n'''",
+            "1. Love Me If You Dare (Jeux d'enfants) (2003)\n2. Out of Sight (1998)\n3. Chungking Express (Chung Hing sam lam) (1994)\n4. Dangerous Liaisons (1988)\n5. Lost in Translation (2003)\n6. Thomas Crown Affair, The (1968)\n7. Intolerable Cruelty (2003)\n8. Bruce Almighty (2003)\n9. Jane Eyre (1996)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n",
+            "1. About Time\n2. Away We Go\n3. Begin Again\n4. Crazy, Stupid, Love.\n5. Forgetting Sarah Marshall\n6. Love Actually\n7. Monsieur Ibrahim\n8. Nick and Norah's Infinite Playlist\n9. Philadelphia\n10. Punch-Drunk Love",
+            "1. Bernie (2011)\n2. Drugstore Cowboy (1989)\n3. Robot & Frank (2012)\n4. Real Genius (1985)\n5. Brewster's Millions (1985)\n6. Bad Education (La mala educaci\u00f3n) (2004)\n7. UHF (1989)\n8. Bruce Almighty (2003)\n9. Delicatessen (1991)\n10. Intolerable Cruelty (2003)",
+            "Intolerable Cruelty (2003) \nBridget Jones's Diary (2001)\nLove Actually (2003)\nThe Princess Bride (1987)\nWhen Harry Met Sally... (1989)\nFour Weddings and a Funeral (1994)\nPretty Woman (1990)\n10 Things I Hate About You (1999)\nSleepless in Seattle (1993)\nYou've Got Mail (1998)",
+            "Intolerable Cruelty (2003)\nStranger than Fiction (2006)\nThe Love Me If You Dare (Jeux d'enfants) (2003)\nLost in Translation (2003)\nKiss the Girls (1997)\nAlmost Famous (2000)\nLove Actually (2003)\n50 First Dates (2004)\nThe Wedding Date (2005)\nThe Proposal (2009)"
+        ]
+    }
+}

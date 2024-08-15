@@ -1,0 +1,58 @@
+{
+    "38": {
+        "conv_hist": [
+            {
+                "query": "What kind of movie would you like to watch? An action movie or a comedy?",
+                "response": "comedy"
+            },
+            {
+                "query": "Are you intersted in a murder comedy, a musical comedy, a teen comedy, or a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a quirky romantic comedy like You've Got Mail, or a dark comedy like In Bruges?",
+                "response": "quirky romantic comedy"
+            },
+            {
+                "query": "Are you more interested in a movie which is more family-friendly, like Parent Trap, or a raunchy comedy, like Bridesmaids?",
+                "response": "family-friendly"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in an animated comedy about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a futuristic comedy like Real Genius or a time travel comedy like Timeline?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about virtual reality or video games?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Naked Gun: From the Files of Police Squad! (1988) \\n\n2. What's Up, Doc? (1972) \\n\n3. UHF (1989) \\n\n4. Brewster's Millions (1985) \\n\n5. Real Genius (1985) \\n\n6. Intolerable Cruelty (2003) \\n\n7. The Big Lebowski (1998) \\n\n8. American Graffiti (1973) \\n\n9. Face/Off (1997) \\n\n10. Bruce Almighty (2003) \\n",
+            "1. The Naked Gun: From the Files of Police Squad! (1988) \n2. What's Up, Doc? (1972) \n3. Intolerable Cruelty (2003) \n4. Delicatessen (1991) \n5. Big Lebowski, The (1998) \n6. Brewster's Millions (1985) \n7. Real Genius (1985) \n8. American Graffiti (1973) \n9. Tenacious D in The Pick of Destiny (2006) \n10. Mr. Holmes (2015)",
+            "1. Mr. Holmes (2015)\n2. Real Genius (1985)\n3. Strange than Fiction (2006)\n4. Brewster's Millions (1985)\n5. The Sure Thing (1985)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. American Graffiti (1973)\n8. UHF (1989)\n9. What's Up, Doc? (1972)\n10. Darkman (1990)",
+            "1. You've Got Mail (1998)\n2. Stranger than Fiction (2006)\n3. 50 First Dates (2004)\n4. Lost in Translation (2003)\n5. Punch-Drunk Love (2002)\n6. Delicatessen (1991)\n7. Am\u00e9lie (2001)\n8. Harold and Maude (1971)\n9. Love Actually (2003)\n10. Shaun of the Dead (2004)",
+            "Monsters, Inc. (2001) \nPirates of the Caribbean: At World's End (2007) \nAugust Rush (2007) \nAnt-Man (2015) \nHomeward Bound: The Incredible Journey (1993) \nReal Steel (2011) \nThe Big Red One (1980) \nAmerican Graffiti (1973) \nReal Genius (1985) \nThe Parent Trap (1998)",
+            "1. Real Genius (1985)\n2. The Sure Thing (1985)\n3. American Graffiti (1973)\n4. Homeward Bound: The Incredible Journey (1993)\n5. Brewster's Millions (1985)\n6. St. Elmo's Fire (1985)\n7. Cocoon (1985)\n8. Runaway Train (1985)\n9. What's Up, Doc? (1972)\n10. Meet John Doe (1941)",
+            "Bruce Almighty (2003) \nAbout a man granted powers by God for one week.\n\nMy Super Ex-Girlfriend (2006)\nAbout a superheroine fighting to keep her boyfriend in New York City after he takes a job in Boston.\n\nRobot & Frank (2012) \nAbout a retired thief who becomes friends with a robot caretaker.\n\nE.T.: The Extra-Terrestrial (1982) \nAbout an alien who is stranded on Earth and befriends a young boy.\n\nBig (1988) \nAbout a 12-year-old boy who makes a wish to become an adult and gets his wish.\n\nThe Sorcerer's Apprentice (2010) \nAbout a sorcerer who hires a reluctant protege.\n\nFlubber (1997) \nAbout a professor who accidentally creates a new substance that has mind of its own.\n\nThe Absent-Minded Professor (1961) \nAbout a professor who creates a substance that allows him to fly.\n\nThe Computer Wore Tennis Shoes (1969)\nAbout a computer that is plugged into a pair of sneakers and gives its wearer superhuman abilities.\n\nHoney, We Shrunk Ourselves (1997) \nAbout a family who accidentally shrinks themselves to the size of insects.",
+            "1. Real Genius (1985)\n2. Timeline (2003)\n3. Hachiko: A Dog's Story (2009)\n4. Homeward Bound: The Incredible Journey (1993)\n5. The Parent Trap (1998)\n6. Man From Earth, The (2007)\n7. Meet John Doe (1941)\n8. What's Up, Doc? (1972)\n9. Thomas Crown Affair, The (1968)\n10. Chain Reaction (1996)",
+            "1. Real Genius (1985)\n2. The Thomas Crown Affair (1968)\n3. Timeline (2003)\n4. The Big Lebowski (1998)\n5. American Graffiti (1973)\n6. Intolerable Cruelty (2003)\n7. Bruce Almighty (2003)\n8. Lost in Translation (2003)\n9. Black Robe (1991)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Ready Player One\n2. The Big Lebowski\n3. Intolerable Cruelty\n4. You've Got Mail\n5. Real Genius\n6. Subject: \"Liked your profile\"\n7. Love Actually\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru)\n9. Strange than Fiction\n10. Delicatessen"
+        ]
+    }
+}

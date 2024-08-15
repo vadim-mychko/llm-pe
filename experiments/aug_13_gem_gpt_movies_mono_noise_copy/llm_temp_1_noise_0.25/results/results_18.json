@@ -1,0 +1,58 @@
+{
+    "18": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy set in the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a heist movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about stealing technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime heist movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a heist movie set in space?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a crime heist movie about art?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime heist movie based on a true story?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime heist movie based around a revenge plot?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003) \\n\n2. King Kong (2005) \\n\n3. The Big Red One (1980) \n4. The Hurricane (1999)  \n5. Jaws (1975) \n6. Von Ryan's Express (1965)\n7. Timeline (2003)  \n8. Black Robe (1991) \n9. Clash of the Titans (1981) \n10. War Horse (2011)  ",
+            "1. Pirates of the Caribbean: At World's End (2007) \n2. Terminator 2: Rise of the Machines (2003)\n3. The Departed (2006) \n4. Lost in Translation (2003) \n5. Face/Off (1997) \n6. Stranger than Fiction (2006) \n7. What's Up, Doc? (1972) \n8. American Graffiti (1973) \n9. Real Genius (1985) \n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Last Action Hero (1993) \n4. Lost World: Jurassic Park, The (1997) \n5. Man on Fire (2004) \n6. Terminator 3: Rise of the Machines (2003) \n7. Transporter 2 (2005) \n8. Nightcrawler (2014) \n9. Face/Off (1997) \n10. King Kong (2005) ",
+            "1. Tomb Raider (2018)\n2. Out of Sight (1998)\n3. Bruce Almighty (2003)\n4. Intolerable Cruelty (2003)\n5. The Thomas Crown Affair (1968)\n6. Transporter 2 (2005)\n7. Real Genius (1985)\n8. Brewster's Millions (1985)\n9. Eragon (2006)\n10. Tenacious D in The Pick of Destiny (2006)",
+            "1. Thomas Crown Affair, The (1968)\n2. Out of Sight (1998)\n3. Terminator 3: Rise of the Machines (2003)\n4. Face/Off (1997)\n5. Broken Arrow (1996)\n6. Die Hard with a Vengeance (1995)\n7. True Lies (1994)\n8. The Rock (1996)\n9. Con Air (1997)\n10. Speed (1994)",
+            "1. Ready Player One\n2. In Time\n3. Breach\n4. The Departed\n5. Face/Off\n6. Intolerable Cruelty\n7. The Thomas Crown Affair\n8. Bruce Almighty\n9. Black Robe\n10. The Bank Job",
+            "1. Thomas Crown Affair, The (1968)\n2. Out of Sight (1998)\n3. Reservoir Dogs (1992)\n4. Inception (2010)\n5. Intolerable Cruelty (2003)\n6. The Usual Suspects (1995)\n7. Heat (1995)\n8. Ocean's Eleven (2001)\n9. The Italian Job (1969)\n10. Lock, Stock and Two Smoking Barrels (1998)",
+            "Out of Sight (1998)\nAnt-Man (2015)\nReady Player One\nThe Big Lebowski (1998)\nBruce Almighty (2003)\nThe Thomas Crown Affair (1968)\nIntolerable Cruelty (2003)\nBrewster\u2019s Millions (1985)\nFace/Off (1997)\nOut of Sight (1998)",
+            "1. The Thomas Crown Affair (1968)\n2. Intolerable Cruelty (2003)\n3. Out of Sight (1998)\n4. The Departed (2006)\n5. Face/Off (1997)\n6. Bruce Almighty (2003)\n7. American Graffiti (1973)\n8. Thomas Crown Affair, The (1968)\n9. Brewster's Millions (1985)\n10. Real Genius (1985)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Departed (2006)\n3. Thomas Crown Affair, The (1968)\n4. Snatchers (1994)\n5. The Last Deal (2014)\n6. Takers (2010)\n7. Intolerable Cruelty (2003)\n8. War Dogs (2016)\n9. Den of Thieves (2018)\n10. Logan Lucky (2017)"
+        ]
+    }
+}

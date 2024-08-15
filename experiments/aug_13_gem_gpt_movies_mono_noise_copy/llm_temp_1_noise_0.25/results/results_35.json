@@ -1,0 +1,58 @@
+{
+    "35": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in science-fiction films featuring robots?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in foreign language films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in computer-animated films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in slow-paced films exploring the human condition?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a film with visually stunning backgrounds and backgrounds?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a black and white drama about journalism?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama featuring a writer?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an action film based on a video game?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a bleak comedy with a revenge plot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a slow-paced film about an elderly pensioner struggling to survive in the city?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Big Red One (1980)\n2. The Terminator (1984)\n3. Terminator 2: Judgment Day (1991)\n4. The Matrix (1999)\n5. Minority Report (2002)\n6. I, Robot (2004)\n7. Wall-E (2008)\n8. District 9 (2009)\n9. Avatar (2009)\n10. Blade Runner 2049 (2017)",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Term of Endearment (1983)\n6. Proposition, The (2005)\n7. All Quiet on the Western Front (1930)\n8. No Man's Land (2001)\n9. Metropolis (2001)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Stranger than Fiction (2006)\n2. Mr. Holmes (2015)\n3. What's Up, Doc? (1972)\n4. Terminator 3: Rise of the Machines (2003)\n5. August Rush (2007)\n6. Brewster's Millions (1985)\n7. Rushmore (1998)\n8. Am\u00e9lie (2001)\n9. Meet Joe Black (1998)\n10. Big Fish (2003)",
+            "1. Terms of Endearment (1983)\n2. Man on Fire (2004)\n3. Before the Devil Knows You're Dead (2007)\n4. Magnolia (1999)\n5. Europa (Zentropa) (1991)\n6. The Dedarted (2006)\n7. Control (2007)\n8. Lost in Translation (2003)\n9. Umberto D. (1952)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Monastery (1991)\n2. Love Me If You Dare (Jeux d'enfants) (2003)\n3. Europa (Zentropa) (1991)\n4. Control (2007)\n5. The Last Supper (1995)\n6. Grapes of Wrath, The (1940)\n7. Babel (2006)\n8. Babel (2006)\n9. Umberto D. (1952)\n10. All Quiet on the Western Front (1930)",
+            "1. The Grapes of Wrath (1940)\n2. Umberto D. (1952)\n3. Meet John Doe (1941)\n4. All Quiet on the Western Front (1930)\n5. The Human Condition Trilogy (1959-1961)\n6. The Trial (1962)\n7. The Sacrifice (1986)\n8. La Dolce Vita (1960)\n9. 8\u00bd (1963)\n10. The Holy Mountain (1973)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Big Fish (2003)\n3. The Hurricane (1999)\n4. The Man from Earth (2007)\n5. Lost in Translation (2003)\n6. Moonrise Kingdom (2012)\n7. Searching (2018)\n8. Stranger than Fiction (2006)\n9. The Graduate (1967)\n10. The Prestige (2006)",
+            "1. Meet John Doe (1941)\n2. The Grapes of Wrath (1940)\n3. Black Robe (1991)\n4. Delicatessen (1991)\n5. Europa (Zentropa) (1991)\n6. Cr\u00f3nos (1993)\n7. Umberto D. (1952)\n8. What's Up, Doc? (1972)\n9. The Thief (Vor) (1967)\n10. The Last Temptation of Christ (1988)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Control (2007) \n3. Corpuration, The (2003) \n4. Darkman (1990) \n5. Last Supper, The (1995) \n6. Man on Earth, The (2007) \n7. Meet John Doe (1941) \n8. Nightcrawler (2014) \n9. Stranger than Fiction (2006) \n10. Umberto D. (1952)\n",
+            "1. August Rush (2007)\n2. Searching (2018)\n3. Grapes of Wrath, The (1940)\n4. Darkman (1990)\n5. Thomas Crown Affair, The (1968)\n6. Timeline (2003)\n7. Nightcrawler (2014)\n8. The Last Supper (1995)\n9. Cronos (1993)\n10. Black Robe (1991)"
+        ]
+    }
+}
