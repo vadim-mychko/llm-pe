@@ -1,0 +1,58 @@
+{
+    "87": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie about action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dark comedy or a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in movies with a romantic plot?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a short film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie that features imagery from the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in seeing a movie set in the future about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to watch a movie about hackers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a thought-provoking dialogue?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film about artificial intelligence?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018)\n2. What\u2019s Up, Doc? (1972)\n3. Out of Sight (1998)\n4. Drugstore Cowboy (1989)\n5. American Graffiti (1973)\n6. No Man\u2019s Land (2001)\n7. Control (2007)\n8. Runaway Train (1985)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Secret of Kells, The (2009)",
+            "1. Last Temptation of Christ, The (1988)\n2. August Rush (2007)\n3. Terms of Endearment (1983)\n4. Proposition, The (2005)\n5. Man from Earth, The (2007)\n6. Alita: Battle Angel (2019)\n7. Beautiful Girls (1996)\n8. Time Bandits (1981)\n9. Into The Wild (2007)\n10. Mosquito Coast, The (1986)\n",
+            "1. Searching (2018) \n2. Corporation, The (2003) \n3. Ready Player One \n4. Nightcrawler (2014) \n5. Brazil (1985) \n6. Stranger than Fiction (2006) \n7. Mr. Holmes (2015) \n8. Robot & Frank (2012) \n9. The Man from Earth (2007) \n10. Intolerable Cruelty (2003)",
+            "1. Burning (2018)\n2. Out of Sight (1998)\n3. Secret of Kells, The (2009)\n4. Searching (2018)\n5. Enter the Void (2009)\n6. Stranger than Fiction (2006)\n7. Control (2007)\n8. The Big Lebowski (1998)\n9. Robot & Frank (2012)\n10. Mr. Holmes (2015)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Steel (2011)\n3. Europa (Zentropa) (1991)\n4. The Corporation (2003)\n5. Searching (2018)\n6. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n7. Eragon (2006)\n8. Brewster's Millions (1985)\n9. Trapped (2002)\n10. Big Lebowski, The (1998)\n",
+            "1. Lost in Translation (2003)\n2. Searching (2018)\n3. Darkman (1990)\n4. Enter the Void (2009)\n5. Blade Runner 2049 (2017)\n6. Ex Machina (2014)\n7. Mr. Holmes (2015)\n8. Robot & Frank (2012)\n9. Control (2007)\n10. The Matrix (1999)",
+            "1. Cronos (1993)\n2. A.I. Artificial Intelligence (2001)\n3. Robot & Frank (2012)\n4. Real Genius (1985)\n5. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n6. Enter the Void (2009)\n7. Ready Player One \n8. Minority Report (2002)\n9. Bladerunner (1982)\n10. Wall*E (2008)",
+            "The Conversation History indicates the user is not interested in action, short films, movies set in the future, or movies about hackers. The user is interested in dark comedies, dramas, movies about technology, and romantic ones.\n\n1. **Departed, The (2006)** Drama, Crime, Thriller\n2. **5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)** Animation, Drama, Romance\n3. ******Bladerunner (1982)**  Science Fiction\n4. **Black Mirror: Bandersnatch (2018)** Interactive film, Drama, Sci-Fi\n5. **Her (2013)** Science Fiction, Romance, Drama\n6. **Eternal Sunshine of the Spotless Mind (2004)** Science Fiction, Romance, Drama\n7. **Mr. Nobody (2009)** Drama, Fantasy, Romance\n8. **Arrival (2016)** Science Fiction, Drama, Mystery\n9. **Ex Machina (2014)** Science Fiction, Thriller, Drama\n10. **Arrival (2016)** Science Fiction, Drama, Mystery",
+            "1. The Man from Earth (2007) \\n\n2. Primer (2004) \\n\n3. Ex Machina (2014) \\n\n4. Moon (2009) \\n\n5. 2001: A Space Odyssey (1968) \\n\n6. Solaris (1972) \\n\n7. Artificial Intelligence: AI (2001) \\n\n8. Blade Runner 2049 (2017) \\n\n9. Arrival (2016) \\n\n10. Her (2013) \\n",
+            "1. Intolerable Cruelty (2003)\n2. Delicatessen (1991)\n3. The Big Lebowski (1998)\n4. Robots & Frank (2012)\n5. Bruce Almighty (2003)\n6. Jane Eyre (1996)\n7. Lost in Translation (2003)\n8. The Truman Show (1998)\n9. Perfect Blue (1997)\n10. Equilibrium (2002)"
+        ]
+    }
+}

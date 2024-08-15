@@ -1,0 +1,58 @@
+{
+    "97": {
+        "conv_hist": [
+            {
+                "query": "Can you give me a movie with a dark, depressing ambiance?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a historical drama?",
+                "response": "no"
+            },
+            {
+                "query": "Are you into something featuring robots?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like movies based on true stories and involving crime?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with sexual abuse?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like films about journalism and war?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you enjoy a movie that includes kidnapping?",
+                "response": "no"
+            },
+            {
+                "query": "Would you be interested in a movie that incorporates themes of corruption and espionage?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like a movie that has a lot of action?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a man who uncovers espionage?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. **Stalker (1979)**\n2. **Come and See (1985)**\n3. **The Road (2009)**\n4. **No Country for Old Men (2007)**\n5. **Requiem for a Dream (2000)**\n6. **The Witch (2015)**\n7. **The Shining (1980)**\n8. **Hereditary (2018)**\n9. **Midsommar (2019)**\n10. **The Lighthouse (2019)**",
+            "1. Umberto D. (1952)\n2. Cronos (1993)\n3. My Name Is Modesty (1996)\n4. Black Robe (1991)\n5. Eugenia (1979)\n6. Enter the Void (2009)\n7. Happiness (1998)\n8. Fathers and Sons (1989)\n9. About Cherry (2012)\n10. Mis\u00e9rables, Les (1998)",
+            "1. The Grapes of Wrath (1940) \n2. Umberto D. (1952) \n3. The Last Supper (1995) \n4. Cronos (1993) \n5. Enter the Void (2009) \n6. Big Red One, The (1980) \n7. Black Robe (1991) \n8. The Boy in the Striped Pajamas (2008) \n9. Nightcrawler (2014) \n10. Departed, The (2006) ",
+            "1. The Silence of the Lambs (1991)\n2. Se7en (1995)\n3. Zodiac (2007)\n4. Prisoners (2013)\n5. The Girl with the Dragon Tattoo (2011)\n6. Gone Girl (2014)\n7. Nightcrawler (2014)\n8. Sicario (2015)\n9. Hell or High Water (2016)\n10. Wind River (2017)",
+            "1. Zodiac (2007)\n2. Prisoners (2013)\n3. Memories of Murder (2003)\n4. Mystic River (2003)\n5. Man on Fire (2004)\n6. True Detective (2014)\n7. The Silence of the Lambs (1991)\n8. Seven (1995)\n9. No Country for Old Men (2007)\n10. The Girl with the Dragon Tattoo (2011)",
+            "1. The Departed (2006) \\n\n2. Zodiac (2007) \\n\n3. Mystic River (2003) \\n\n4. Nightcrawler (2014) \\n\n5. Prisoners (2013) \\n\n6. True Detective (2014) \\n\n7. The Departed (2006) \\n\n8. The Insider (1999) \\n\n9. The Killing Fields (1984) \\n\n10. Citizenfour (2014) \\n",
+            "1. **Departed, The (2006)**\n2. **Meet John Doe (1941)**\n3. **Von Ryan's Express (1965)**\n4. **Hurricane, The (1999)**\n5. **Nightcrawler (2014)**\n6. **Intolerable Cruelty (2003)**\n7. **Last Supper, The (1995)**\n8. **Grapes of Wrath, The (1940)**\n9. **Umberto D. (1952)**\n10. **Black Robe (1991)**\n",
+            "1. Breach (2007)\n2. The Corporation (2003)\n3. Meet John Doe (1941)\n4. All Quiet on the Western Front (1930)\n5. Grapes of Wrath, The (1940)\n6. Von Ryan's Express (1965)\n7. Control (2007)\n8. Strange than Fiction (2006)\n9. Mr. Holmes (2015)\n10. The Last Supper (1995)",
+            "1. Control (2007) \n2. Big Red One, The (1980) \n3. Stranger than Fiction (2006) \n4. The Last Supper, The (1995) \n5. Grapes of Wrath, The (1940) \n6. Cronos (1993) \n7. Black Robe (1991) \n8. Bad Education (La mala educaci\u00f3n) (2004) \n9. Europa (Zentropa) (1991) \n10. Meet John Doe (1941) \n",
+            "Of the titles you have provided, here is a list of up to 10 movies ranked by relevance to your request.\n\n1. Von Ryan's Express (1965)\n2. Timeline (2003)\n3. Meet John Doe (1941)\n4. Dangerous Liaisons (1988)\n5. Breach (2007)\n6. The Hurricane (1999)\n7. Crimes and Misdemeanors (1989)\n8. Submarine (2010)\n9. Hearts and Minds (1974)\n10. The Anderson Tapes (1971)"
+        ]
+    }
+}

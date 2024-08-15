@@ -1,0 +1,58 @@
+{
+    "92": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a superhero or Sci-Fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch something with animals in it?",
+                "response": "yes"
+            },
+            {
+                "query": "Is a comedy a suitable genre?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie set in nature?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with dogs in it?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that is kid-friendly?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in modern times?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a crime movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Big Lebowski (1998)\n2. Intolerable Cruelty (2003)\n3. Delicatessen (1991)\n4. Mr. Holmes (2015)\n5. Robot & Frank (2012)\n6. Brewster's Millions (1985)\n7. Real Genius (1985)\n8. Cronos (1993)\n9. Jane Eyre (1996)\n10. The Big Red One (1980)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Homeward Bound: The Incredible Journey (1993)\n3. Land Before Time, The (1988)\n4. Ant-Man (2015)\n5. Animal Kingdom (2010)\n6. Mighty Joe Young (1998)\n7. March of the Penguins (2005)\n8. Born Free (1966)\n9. Old Yeller (1957)\n10. Watership Down (1978)",
+            "1. Homeward Bound: The Incredible Journey (1993)\n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n3. The Land Before Time (1988)\n4. UHF (1989)\n5. American Graffiti (1973)\n6. RoboCop (1987)\n7. Bruce Almighty (2003)\n8. Toy Story (1995)\n9. Shrek (2001)\n10. The Big Lebowski (1998)",
+            "1. Homeward Bound: The Incredible Journey (1993) \\n\n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \\n\n3. Land Before Time, The (1988) \\n\n4. How High (2001) \\n\n5. UHF (1989) \\n\n6. Gremlins 2: The New Batch (1990) \\n\n7. Born in East L.A. (1987)\n8. Clueless (1995) \\n\n9. Big Lebowski, The (1998) \\n\n10. Dumb and Dumber (1994)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Homeward Bound: The Incredible Journey (1993) \n3. The Secret of Kells (2009) \n4. Big Red One, The (1980) \n5. Land Before Time, The (1988) \n6. All Quiet on the Western Front (1930) \n7. Terminator 3: Rise of the Machines (2003) \n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n9. The Grapes of Wrath (1940)\n10. Lost in Translation (2003)",
+            "1. Homeward Bound: The Incredible Journey (1993) \n2. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n3. The Spirit of Lassie (1957) \n4. White Fang (1991) \\n\n5. The Call of the Wild (2020) \n6. Marley & Me \n7. My Dog Skip (2000) \n8. Turner & Hooch (1989) \n9. Dog Day Afternoon (1975) \n10. 101 Dalmatians (1996) \\n\n''''",
+            "1. Dog Day Afternoon (1975) \n2. National Lampoon's Animal House (1978) \n3. Lady and the Tramp (1955)  \n4. 101 Dalmatians (1961)\n5. Babe (1995) \n6. Cats & Dogs (2001) \n7. Bolt (2008) \n8. The Great Outdoors (1988)\n9. Up (2009) \n10. Homeward Bound: The Incredible Journey (1993) ",
+            "1. American Graffiti (1973)\n2. Big Red One, The (1980)\n3. Eragon (2006)\n4. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n5. Marley & Me (2008)\n6. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n7. Von Ryan's Express (1965)\n8. Wilbur Wants to Kill Himself (2002)\n9. Where the Red Fern Grows (1974)\n10. A Dog's Purpose (2017)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n2. Homeward Bound: The Incredible Journey (1993)\n3. Eight Below (2006)\n4. My Dog Skip (2000)\n5. Marley & Me (2008)\n6. Lassie (2005)\n7. Beethoven (1992)\n8. The Shaggy Dog (2006)\n9. 101 Dalmatians (1996)\n10. Lady and the Tramp (1955)\n\n",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Homeward Bound: The Incredible Journey (1993)\n3. Trapped (2002)\n4. Lassie Come Home (1943)\n5. White Eagle (1982)\n6. Old Yeller (1957)\n7. Turner & Hooch (1989)\n8. Marley & Me (2008)\n9. My Dog Skip (2000)\n10. Beethoven (1992)\n"
+        ]
+    }
+}

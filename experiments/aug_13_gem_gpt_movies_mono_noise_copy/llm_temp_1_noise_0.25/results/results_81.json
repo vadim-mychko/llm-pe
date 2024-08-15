@@ -1,0 +1,58 @@
+{
+    "81": {
+        "conv_hist": [
+            {
+                "query": "Is the type of movie you're looking for a futuristic setting?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about technology?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama or a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in Artificial Intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a sci-fi element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the present day?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018) \n2. A.I. Artificial Intelligence (2001) \n3. Robot & Frank (2012) \n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n5. How High (2001) \n6. Terminator 3: Rise of the Machines (2003) \n7. Ant-Man (2015) \n8. Europa (Zentropa) (1991) \n9. Metropolis (2001) \n10. Real Steel (2011) \n",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terminator 3: Rise of the Machines (2003)\n3. Alita: Battle Angel (2019)\n4. Ant-Man (2015)\n5. A.I. Artificial Intelligence (2001)\n6. Timeline (2003)\n7. Ready Player One\n8. Real Steel (2011)\n9. Mr. Holmes (2015)\n10. Robot & Frank (2012)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Alita: Battle Angel (2019)\n3. Anthem (2019)\n4. Corporation, The (2003)\n5. Darkman (1990)\n6. Enter the Void (2009)\n7. Hackers (1995)\n8. Minority Report (2002)\n9. Real Steel (2011)\n10. Tron (1982)",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Matrix (1999)\n3. Blade Runner (1982)\n4. Ex Machina (2014)\n5. The Terminator (1984)\n6. Alien (1979)\n7. 2001: A Space Odyssey (1968)\n8. The Fifth Element (1997)\n9. Minority Report (2002)\n10. RoboCop (1987)",
+            "1. Corporation, The (2003)\n2. Limitless (2011)\n3. Into the Void (2003)\n4. A.I. Artificial Intelligence (2001)\n5. Barry Lyndon (1975)\n6. Black Mirror: Bandersnatch (2018)\n7. The Matrix (1999)\n8. Her (2013)\n9. Primer (2004)\n10. Blade Runner (1982)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. A.I. Artificial Intelligence (2001)\n3. The Man from Earth (2007)\n4. Enter the Void (2009)\n5. Dangerous Liaisons (1988)\n6. Thomas Crown Affair, The (1968)\n7. Stardust Memories (1980)\n8. Imagine Me & You (2005)\n9. Mr. Holmes (2015)\n10. Kontroll (2003)",
+            "1. Metropolis (2001)\n2. Brazil (1985)\n3. The Truman Show (1998)\n4. The Matrix (1999)\n5. Eternal Sunshine of the Spotless Mind (2004)\n6. Ex Machina (2014)\n7. Blade Runner (1982)\n8. The Terminator (1984)\n9. 2001: A Space Odyssey (1968)\n10. Her (2013)",
+            "1. Crimes and Misdemeanors (1989)\n2. The Man from Earth (2007)\n3. A.I. Artificial Intelligence (2001)\n4. Timeline (2003)\n5. Jane Eyre (1996)\n6. The Grapes of Wrath (1940)\n7. Umberto D. (1952)\n8. Brewster's Millions (1985)\n9. The Last Supper (1995)\n10. Eragon (2006)",
+            "Based on a book: The Grapes of Wrath (1940)\nFuturistic setting: Darkman (1990)\nTechnology: The Corporation (2003)\nSci-Fi: The Big Red One (1980)\nDrama: Brewster's Millions (1985)\nComedy: What's Up, Doc? (1972)\nBased on a book: Jane Eyre (1996)\nSci-Fi: Tron (1982)\nBased on a book: Real Genius (1985)\nAction: Mission: Impossible (1996)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. A.I. Artificial Intelligence (2001)\n3. Ready Player One \n4. Nightcrawler (2014)\n5. Intolerable Cruelty (2003) \n6. The Hurricane (1999)\n7. The Last Supper (1995)\n8. Jane Eyre (1996) \n9. Lost in Translation (2003) \n10. Boy in the Striped Pajamas, The (2008)"
+        ]
+    }
+}

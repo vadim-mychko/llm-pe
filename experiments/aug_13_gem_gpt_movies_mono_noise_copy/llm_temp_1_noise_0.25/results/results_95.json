@@ -1,0 +1,58 @@
+{
+    "95": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in watching a Holocaust documentary or drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama movie from before the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an animated drama?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch an animated comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama movie involving true crime?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama with christmas music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 80's?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Last Temptation of Christ, The (1988) \n4. Abraham Lincoln: Vampire Hunter (2012) \n5. Santa Sangre (1989) \n6. August Rush (2007) \n7. Blair Witch Project, The (1999) \n8. Martyrs (2008) \n9. Piano, The (1993) \n10. Terms of Endearment (1983)",
+            "1. Big Lebowski, The (1998)\n2. Departed, The (2006)\n3. Grapes of Wrath, The (1940)\n4. Magnolia (1999)\n5. Stranger than Fiction (2006)\n6. Control (2007)\n7. Lost in Translation (2003)\n8. Before the Devil Knows You're Dead (2007)\n9. Corpse Bride (2005)\n10. Enter the Void (2009)",
+            "1. Men in Black III (2012)\n2. RoboCop (2014)\n3. The Amazing Spider-Man 2 (2014)\n4. Godzilla (2014)\n5. Big Hero 6 (2014)\n6. Interstellar (2014)\n7. Guardians of the Galaxy (2014)\n8. Maleficent (2014)\n9. Lucy (2014)\n10. Dawn of the Planet of the Apes (2014)",
+            "1. Term of Endearment (1973)\n2. Magnolia (1999)\n3. Control (2007)\n4. Brokeback Mountain (2005)\n5. Lost in Translation (2003)\n6. Big Lebowski, The (1998)\n7. American Graffiti (1973)\n8. Intolerable Cruelty (2003)\n9. Delicatessen (1991)\n10. Robot & Frank (2012)",
+            "1. Inside Out (2015)\n2. The Big Bang Theory (2007)\n3. Modern Family (2009)\n4. Brooklyn Nine-Nine (2013)\n5. The Good Place (2016)\n6. Crazy Ex-Girlfriend (2015)\n7. Community (2009)\n8. Parks and Recreation (2009)\n9. The Office (2005)\n10. 30 Rock (2006)",
+            "1. *****Love Me If You Dare (Jeux d'enfants) (2003)***** \n2. *****Searching (2018)***** \n3. *****Ready Player One***** \n4. *****Nightcrawler (2014)***** \n5. *****Stranger than Fiction (2006)***** \n6. *****Big Lebowski, The (1998)***** \n7. *****American Graffiti (1973)***** \n8. *****Intolerable Cruelty (2003)***** \n9. *****Bruce Almighty (2003)***** \n10. *****Tenacious D in The Pick of Destiny (2006)*****",
+            "1. The Big Short (2015)\n2. The Fault in Our Stars (2014)\n3. La La Land (2016)\n4. Moonlight (2016)\n5. Get Out (2017)\n6. The Shape of Water (2017)\n7. Three Billboards Outside Ebbing, Missouri (2017)\n8. Lady Bird (2017)\n9. The Post (2017)\n10. Call Me by Your Name (2017)",
+            "1. Lost in Translation (2003)\n2. Stranger than Fiction (2006)\n3. The Departed (2006)\n4. Nightcrawler (2014)\n5. The Big Lebowski (1998)\n6. The Grapes of Wrath (1940)\n7. Black Robe (1991)\n8. Umberto D. (1952)\n9. Tenacious D in The Pick of Destiny (2006)\n10. The Boy in the Striped Pajamas (2008)",
+            "1. Lost in Translation (2003)\n2. Stranger than Fiction (2006)\n3. Intolerable Cruelty (2003)\n4. Control (2007)\n5. Searching (2018)\n6. Departed, The (2006)\n7. Nightcrawler (2014)\n8. Bruce Almighty (2003)\n9. Big Red One, The (1980)\n10. Grapes of Wrath, The (1940)",
+            "1. August Rush (2007) \n2. A.I. Artificial Intelligence (2001) \n3. Bad Education (La mala educaci\u00f3n) (2004) \n4. Terminator 3: Rise of the Machines (2003) \n5. Tim Burton's Corpse Bride (2005)\n6. Girl, Interrupted (1999) \n7. The Sisterhood of the Traveling Pants (2005) \n8. Calendar Girls (2003) \n9. Finding Neverland (2004)\n10. Erin Brockovich (2000)\n'''"
+        ]
+    }
+}

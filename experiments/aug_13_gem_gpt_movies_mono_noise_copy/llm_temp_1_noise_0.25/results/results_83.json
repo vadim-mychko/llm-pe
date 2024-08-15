@@ -1,0 +1,58 @@
+{
+    "83": {
+        "conv_hist": [
+            {
+                "query": "Is the movie you're looking for animated?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on  a novel or book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie made in the 80's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about children?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about the holocaust?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about science?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a black and white movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a foreign movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie about World War II?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Tomb Raider (2018) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Abraham Lincoln: Vampire Hunter (2012) \n4. August Rush (2007) \n5. Proposition, The (2005) \n6. Bernie (2011) \n7. Dracula (Bram Stoker's Dracula) (1992) \n8. Lost World: Jurassic Park, The (1997) \n9. Man on Fire (2004) \n10. No Man's Land (2001)",
+            ": Grapes of Wrath, The (1940)\n: Umberto D. (1952)\n: Intolerable Cruelty (2003)\n: Jane Eyre (1996)\n: Moby Dick (1956)\n: Laura (1944)\n: Thomas Crown Affair, The (1968)\n: Cronos (1993)\n: Europa (Zentropa) (1991)\n: Dangerous Liaisons (1988)",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Terms of Endearment (1983)\n3. The Man from Earth (2007)\n4. Dangerous Liaisons (1988)\n5. Moby Dick (1956)\n6. Jane Eyre (1996)\n7. Grapes of Wrath, The (1940)\n8. Umberto D. (1952)\n9. Black Robe (1991)\n10. Eragon (2006)",
+            "1. Dangerous Liaisons (1988)\n2. Intolerable Cruelty (2003)\n3. The Grapes of Wrath (1940)\n4. Moby Dick (1956)\n5. The Last Supper (1995)\n6. Jane Eyre (1996)\n7. Mr. Holmes (2015)\n8. Black Robe (1991)\n9. The Boy in the Striped Pajamas (2008)\n10. Eragon (2006)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nDangerous Liaisons (1988) \nKing Kong (2005) \nMis\u00e9rables, Les (1998) \nGrapes of Wrath, The (1940) \nHotel Rwanda (2004) \nSchindler's List (1993) \nWarsaw Uprising (2014) \nLife is Beautiful (1997) \nSon of Saul (2015) \nMonsieur Klein (1976) \nEuropa Europa (1990) \nNuremberg (2000) \nSchindler's List (1993) \nCome and See (1985) \nPersepolis (2007) \nSophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005)",
+            "1. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n\n\n2. Grapes of Wrath, The (1940) \n\n\n3. Jane Eyre (1996) \n\n\n4. Last Supper, The (1995) \n\n\n5. Lost in Translation (2003) \n\n\n6. Mr. Holmes (2015)\n\n\n7. Mothman Prophecies, The (2002)\n\n\n8. Out of Sight (1998)\n\n\n9. Robot & Frank (2012)\n\n\n10. The Lord of the Rings: The Fellowship of the Ring (2001)\n''''",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nGrapes of Wrath, The (1940)\nCronos (1993)\nUmberto D. (1952)\nBlack Robe (1991)\nHolocaust (1978)\nSophie's Choice (1982)\nSchindler's List (1993)\nAll Quiet on the Western Front (1930)\nEuropa Europa (1990)",
+            "Laura (1944) \\n\nEuropa (Zentropa) (1991) \\n\nA.I. Artificial Intelligence (2001) \\n\nThe Big Lebowski (1998) \\n\nIntolerable Cruelty (2003) \\n\nLast Supper, The (1995) \\n\nCronos (1993) \\n\nJane Eyre (1996) \\n\nGrapes of Wrath, The (1940) \\n\nUmberto D. (1952)",
+            "* The Last Supper, The (1995)\n* Laura (1944)\n* Ulysses (Ulisse) (1954)\n* No Man's Land (2001)\n* Europa (Zentropa) (1991)\n* Schindler's List (1993)\n* Von Ryan's Express (1965)\n* TImestalker (1987)\n* The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n* Umberto D. (1952)",
+            "Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\nLaura (1944)\nMissing\nSchindler's List\nSophie's Choice\nThe Reader\nThe Pianist\nLife Is Beautiful\nTrain de Vie\nHotel Rwanda"
+        ]
+    }
+}

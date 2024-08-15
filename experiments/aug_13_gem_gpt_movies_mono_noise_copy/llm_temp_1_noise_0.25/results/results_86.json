@@ -1,0 +1,58 @@
+{
+    "86": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in 1980's movies such as \"Eragon (2006)\"?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in action movies from the 1980's?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for World War II movies such as \"The Boy in the Striped Pajamas (2008)\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with comic book adaptations such as \"Alita: Battle Angel (2019)\"?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for another movie featuring superheroes?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for movies with robots as the main character such as \"Robot & Frank (2012)\"?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with superheroes based on a comic?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for another 1980's action movie from the 1980's featuring superheroes adapted from comic books, with superheroes based on a comic, but not featuring robots as the main characters, and the movie is not based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a superhero movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Eragon (2006)\n2. Boy in the Striped Pajamas, The (2008)\n3. 5 Centimeters per Second (2007)\n4. Tenacious D in The Pick of Destiny (2006)\n5. Black Robe (1991)\n6. Umberto D. (1952)\n7. Cronos (1993)\n8. King Kong (2005)\n9. Bruce Almighty (2003)\n10. The Last Supper (1995)",
+            "1. Eragon (2006) \n2. Tenacious D in The Pick of Destiny (2006) \n3. Breach (2007) \n4. August Rush (2007) \n5. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n6. Martyrs (2008) \n7. How High (2001) \n8. The Sure Thing (1985) \n9. F/X: Murder by Illusion (1986)\n10. Real Genius (1985) ",
+            "1. Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)\n2. Corporation, The (2003)\n3. Strange than Fiction (2006)\n4. Thirteen (2003)\n5. Layer Cake (2004)\n6. Punch-Drunk Love (2002)\n7. Amelie (Le Fabuleux Destin d'Am\u00e9lie Poulain) (2001)\n8. How to Lose Friends & Alienate People (2008)\n9. Dogma (1999)\n10. Transporter 2 (2005)\n",
+            "1. Alita: Battle Angel (2019)\n2. Tomb Raider (2018)\n3. Last Action Hero (1993)\n4. The Incredible Hulk (2008)\n5. Man of Steel (2013)\n6. Venom (2018)\n7. Logan (2017)\n8. Deadpool (2016)\n9. Wonder Woman (2017)\n10. Black Panther (2018)",
+            "1. Tomb Raider (2018)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. Real Steel (2011)\n5. Black Robe (1991)\n6. Dracula (Bram Stoker's Dracula) (1992)\n7. American Graffiti (1973)\n8. Real Genius (1985)\n9. Terminator 3: Rise of the Machines (2003)\n10. The Big Red One (1980)",
+            "Alita: Battle Angel (2019)\nReal Steel (2011)\nA.I. Artificial Intelligence (2001)\nAnt-Man (2015)\nReady Player One\nTerminator 3: Rise of the Machines (2003)\nThe Last Action Hero (1993)\nIron Man (2008)\nThe Avengers (2012)\nSuicide Squad (2016)",
+            "Tomb Raider (2018) \nAnt-Man (2015) \nReady Player One \nDarkman (1990) \nTerminator 3: Rise of the Machines (2003) \nAlita: Battle Angel (2019) \nReal Steel (2011) \nBig Red One, The (1980) \nFace/Off (1997) \nKing Kong (2005)",
+            "Tomb Raider (2018)\nLast Action Hero (1993)\nThe Man from Earth (2007)\nCronos (1993)\nJane Eyre (1996)\nEragon (2006)\nControl (2007)\nRobot & Frank (2012)\nMr. Holmes (2015)\nA.I. Artificial Intelligence (2001)",
+            "Tomb Raider (2018)\nPirates of the Caribbean: At World's End (2007)\nLast Temptation of Christ, The (1988)\nAbraham Lincoln: Vampire Hunter (2012)\nAnt-Man (2015)\n50 First Dates (2004)\nDarkman (1990)\nFace/Off (1997)\nHellboy (2004)\nWatchmen (2009)\n",
+            "1. Tomb Raider (2018) \n2. Ant-Man (2015) \n3. The Last Action Hero (1993) \n4. Ready Player One \n5. Alita: Battle Angel (2019) \n6. Big Hero 6 (2014) \n7. Captain Marvel (2019) \n8. Aquaman (2018) \n9. Black Panther (2018) \n10. Avengers: Endgame (2019)"
+        ]
+    }
+}

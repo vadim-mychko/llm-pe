@@ -1,0 +1,58 @@
+{
+    "80": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy film?",
+                "response": "no"
+            },
+            {
+                "query": "Would you watch a fantasy film?",
+                "response": "no"
+            },
+            {
+                "query": "Looking for a romance film?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a chick flick?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a drama about a journey?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama about a friendship?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a romantic movie about a journey undertaken with friends?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. August Rush (2007)\n2. One Hour Photo (2002)\n3. Amadeus (1984)\n4. Whiplash (2014)\n5. Once (2007)\n6. Control (2007)\n7. Lost in Translation (2003)\n8. The Concert (2009)\n9. Yo Yo Ma: Inspired by Bach (2015)\n10. The Grand Budapest Hotel (2014)\n",
+            "1. Terms of Endearment (1983)\n2. The Proposition (2005)\n3. All Quiet on the Western Front (1930)\n4. The Man from Earth (2007)\n5. Magnolia (1999)\n6. Control (2007)\n7. Stranger than Fiction (2006)\n8. American Graffiti (1973)\n9. Grapes of Wrath, The (1940)\n10. Umberto D. (1952)",
+            "1. The Grapes of Wrath (1940) \n2. Black Robe (1991) \n3. Umberto D. (1952) \n4. Lost in Translation (2003) \n5. Jane Eyre (1996) \n6. Cronos (1993) \n7. Real Genius (1985) \n8. Bruce Almighty (2003) \n9. Last Supper, The (1995) \n10. Face/Off (1997)\n",
+            "1. August Rush (2007)\n2. Terms of Endearment (1983)\n3. Autumn Sonata (H\u00f6stsonaten) (1978)\n4. No Man's Land (2001)\n5. The Man from Earth (2007)\n6. Magnolia (1999)\n7. Europa (Zentropa) (1991)\n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n9. Control (2007)\n10. The Grapes of Wrath (1940)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Love Me If You Dare (Jeux d'enfants) (2003)\n3. Dangerous Liaisons (1988)\n4. 50 First Dates (2004)\n5. Jane Eyre (1996)\n6. Lost in Translation (2003)\n7. Thomas Crown Affair, The (1968)\n8. Stranger than Fiction (2006)\n9. Intolerable Cruelty (2003)\n10. Bruce Almighty (2003)",
+            "1. Drama\n  - Umberto D. (1952)\n  - Grapes of Wrath, The (1940)\n2. Science Fiction\n  - A.I. Artificial Intelligence (2001)\n3. Chick Flick\n  - What's Up, Doc? (1972)\n4. Crime\n  - Breach (2007)\n5. Comedy, Drama, Romance\n  - Last Supper, The (1995)\n6. Action\n  - Terminator 3: Rise of the Machines (2003)\n7. Thriller\n  - Darkman (1990)\n8. Animation\n  - Secret of Kells, The (2009)\n8. Romance\n  - Love Me If You Dare (Jeux d'enfants) (2003)\n9. Musical\n  - August Rush (2007)\n10. Horror\n  - Mothman Prophecies, The (2002)",
+            "1. Intolerable Cruelty (2003)\n2. Last Supper, The (1995)\n3. Love Me If You Dare (Jeux d'enfants) (2003)\n4. Stranger than Fiction (2006)\n5. Dangerous Liaisons (1988)\n6. What's Up, Doc? (1972)\n7. Jane Eyre (1996)\n8. Thomas Crown Affair, The (1968)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. Bad Education (La mala educaci\u00f3n) (2004)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Love Me If You Dare (Jeux d'enfants) (2003)\n3. Secret of Kells, The (2009)\n4. A.I. Artificial Intelligence (2001)\n5. Control (2007)\n6. Robot & Frank (2012)\n7. Homeward Bound: The Incredible Journey (1993)\n8. Black Robe (1991)\n9. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n10. The Last Supper (1995)",
+            "1. Lost in Translation (2003)\n2. Big Fish (2003)\n3. The Shawshank Redemption (1994)\n4. Into the Wild (2007)\n5. The Green Mile (1999)\n6. Life Is Beautiful (1997)\n7. Cinema Paradiso (1988)\n8. Forrest Gump (1994)\n9. The Intouchables (2011)\n10. Cast Away (2000)",
+            "1. The Secret of Kells (2009)\n2. Little Miss Sunshine (2006)\n3. The Way, Way Back (2013)\n4. Into the Wild (2007)\n5. Wild (2014)\n6. The Bucket List (2007)\n7. Chef (2014)\n8. The Lord of the Rings: The Fellowship of the Ring (2001)\n9. Cast Away (2000)\n10. The Shawshank Redemption (1994)\n"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "85": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie where the protagonist dies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a dark or depressing tone?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like comedies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie set in the 18th century?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a historical or war theme?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the 18th century that focuses on romance?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie with a mystery or crime plot?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie with a gothic or sinister atmosphere?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a mystery movie set in Europe?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Searching (2018) \n2. Europa (Zentropa) (1991) \n3. Nightcrawler (2014) \n4. The Departed (2006) \n5. Real Steel (2011) \n6. Intolerable Cruelty (2003) \n7. Real Genius (1985) \n8. Lost in Translation (2003) \n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Monsters, Inc. (2001)\n2. Secret of Kells, The (2009)\n3. Ready Player One \n4. Transformers (2007) \n5. Nightcrawler (2014) \n6. Terminator 3: Rise of the Machines (2003) \n7. Control (2007) \n8. Stranger than Fiction (2006) \n9. The Proposal (2009) \n10. Lost in Translation (2003)",
+            "1. Children of Men (2006)\n2. I Am Legend (2007)\n3. WALL-E (2008)\n4. District 9 (2009)\n5. Monsters (2010)\n6. The Twilight Zone Movie (1983)\n7. Arrival (2016)\n8. Inception (2010)\n9. Blade Runner (1982)\n10. The Edge of Tomorrow (2014)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. Pirates of the Caribbean: At World's End (2007) \n4. August Rush (2007) \n5. Laura (1944) \n6. The Naked Gun: From the Files of Police Squad!, The (1988) \n7. Sure Thing, The (1985) \n8. Terminator 3: Rise of the Machines (2003) \n9. Intolerable Cruelty (2003) \n10. Bruce Almighty (2003) ",
+            "Lost in Translation (2003)\nJane Eyre (1996)\nDangerous Liaisons (1988)\nMis\u00e9rables, Les (1998)\nEuropa (Zentropa) (1991)\nDangerous Liaisons (1988)\nThomas Crown Affair, The (1968)\nIntolerable Cruelty (2003)\n18th Century\nBruce Almighty (2003)",
+            "1. Europa (Zentropa) (1991)\n2. Bernardo Bertolucci's Little Buddha (1993)\n3. The Piano (1993)\n4. Dangerous Liaisons (1988)\n5. Mis\u00e9rables, Les (1998)\n6. What's Up, Doc? (1972)\n7. Dangerous Liaisons (1988)\n8. Thomas Crown Affair, The (1968)\n9. Jane Eyre (1996)\n10. Intolerable Cruelty (2003)",
+            "1. Dangerous Liaisons (1988)\n2. The Mis\u00e9rables (1998)\n3. Dangerous Liaisons (1988)\n4. Dangerous Liaisons (1988)\n5. Dangerous Liaisons (1988)\n6. Dangerous Liaisons (1988)\n7. Dangerous Liaisons (1988)\n8. Dangerous Liaisons (1988)\n9. Dangerous Liaisons (1988)\n10. Meet John Doe (1941)",
+            "Dangerous Liaisons (1988)\n\u30e8\u30fc\u30ed\u30c3\u30d1 (Zentropa) (1991)\nHabeas Corpus (1997)\nThe Man of the Year (1995)\nThe Thomas Crown Affair (1968)\nThe Princess and the Bounty Hunter (1995)\nThe Affair of the Necklace (2001)\nGrifters (1990)\nThe Crucible (1996)\nThe Mystery of Charles Dickens (1993)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Terminator 3: Rise of the Machines (2003)\n3. Terminator 3: Rise of the Machines (2003)\n4. Terminator 3: Rise of the Machines (2003)\n5. Terminator 3: Rise of the Machines (2003)\n6. Terminator 3: Rise of the Machines (2003)\n7. Terminator 3: Rise of the Machines (2003)\n8. Terminator 3: Rise of the Machines (2003)\n9. Terminator 3: Rise of the Machines (2003)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Dangerous Liaisons (1988) \n2. Crimes and Misdemeanors (1989) \n3. The Name of the Rose (1986)\n4. The Remains of the Day (1993)\n5. The Piano (1993) \n6. A Room with a View (1985) \n7. Sense and Sensibility (1995) \n8. The Age of Innocence (1993) \n9. Othello (1995) \n10. Quills (2000)"
+        ]
+    }
+}

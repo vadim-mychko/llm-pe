@@ -1,0 +1,58 @@
+{
+    "98": {
+        "conv_hist": [
+            {
+                "query": "Might you prefer to see a 1920s-40s black and white movie about a woman facing injustice?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie from the 70s?",
+                "response": "no"
+            },
+            {
+                "query": "Would you enjoy a 19th century period drama about the landed gentry?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want a movie with a strong female character?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a 1970s suspense movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is something stylish with scenic views more your interest?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a kids movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film from the 1990s?",
+                "response": "yes"
+            },
+            {
+                "query": "Would you like to see a 1990s animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a stylish movie from the 1990s with scenic views?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Corpse Bride (2005) \n2. Rango (2011) \n3. Frankenweenie (2012) \n4. ParaNorman (2012) \n5. Kubo and the Two Strings (2016) \n6. Isle of Dogs (2018)\n7. The Willoughbys (2020) \n8. Mitchell's vs. the Machines (2021)\n9. Turning Red (2022)\n10. Wendell & Wild (2022)",
+            "1. Enter the Void (2009) \n2. Intolerable Cruelty (2003) \n3. Face/Off (1997) \n4. Stranger than Fiction (2006) \n5. Darkman (1990) \n6. Good Will Hunting (1997) \n7. Grapes of Wrath, The (1940) \n8. The Last Picture Show (1971) \n9. Jules and Jim (1962) \n10. El Topo (1970)\n",
+            "1. Last Temptation of Christ, The (1988) \n2. Terms of Endearment (1983) \n3. Laura (1944) \n4. Dracula (Bram Stoker's Dracula) (1992) \n5. Dangerous Liaisons (1988) \n6. 12 Angry Men (1957) \n7. Grapes of Wrath, The (1940) \n8. Citizen Kane (1941) \n9. Singin' in the Rain (1952) \n10. Wings (1927)",
+            "1. Enter the Void (2009) \\n\n2. Cronos (1993) \\n\n3. The Corporation (2003) \\n\n4. Europa (Zentropa) (1991) \\n\n5. Moby Dick (1956) \\n\n6. Umberto D. (1952) \\n\n7. The Big Red One (1980) \\n\n8. The Last Supper (1995) \\n\n9. Grapes of Wrath, The (1940) \\n\n10. Delicatessen (1991) \\n",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Blair Witch Project (1999)\n5. Terms of Endearment (1983)\n6. Napoleon Dynamite (2004)\n7. Man on Fire (2004)\n8. All Quiet on the Western Front (1930)\n9. The Land Before Time (1988)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Hurricane (1999)\n3. The Departed (2006)\n4. Enter the Void (2009)\n5. Nightcrawler (2014)\n6. The Big Lebowski (1998)\n7. American Graffiti (1973)\n8. Bruce Almighty (2003)\n9. Real Genius (1985)\n10. The Grapes of Wrath (1940)",
+            "1. Tomb Raider (2018) \n2. Terminator 3: Rise of the Machines (2003) \n3. Alita: Battle Angel (2019) \n4. Clash of the Titans (1981) \n5. Ready Player One \n6. Ant-Man (2015) \n7. Transporter 2 (2005) \n8. Face/Off (1997) \n9. King Kong (2005) \n10. Eragon (2006)",
+            "1. The Piano (1993) \n2. Secrets and Lies (1996) \n3. The Last Supper (1995) \n4. Clueless (1995) \n5. The Big Lebowski (1998) \n6. The Truman Show (1998) \n7. Lost in Translation (2003) \n8. Mystic River (2003) \n9. Eternal Sunshine of the Spotless Mind (2004) \n10. Crash (2004)",
+            "1. The Land Before Time (1988)\n2. The Big Lebowski (1998)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Lost in Translation (2003)\n5. Election (1999)\n6. Fight Club (1999)\n7. The Matrix (1999)\n8. American Beauty (1999)\n9. The Sixth Sense (1999)\n10. Magnolia (1999)",
+            "1. Laura (1944)\n2. August Rush (2007)\n3. The Piano (1993)\n4. Secrets & Lies (1996)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. Before the Devil Knows You're Dead (2007)\n7. Chungking Express (Chung Hing sam lam) (1994)\n8. Love Me If You Dare (Jeux d'enfants) (2003)\n9. The Sure Thing (1985)\n10. What's Up, Doc? (1972)"
+        ]
+    }
+}

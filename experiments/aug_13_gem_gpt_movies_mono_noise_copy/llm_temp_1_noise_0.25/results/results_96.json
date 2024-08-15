@@ -1,0 +1,58 @@
+{
+    "96": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a fantasy or adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Is this movie for children or family time?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a comedy movie with black humor?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a documentary?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a western movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a romance movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thriller movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Children of Men (2006)\n2. The Road (2009)\n3. Gravity (2013)\n4. Melancholia (2011)\n5. The Martian (2015)\n6. Interstellar (2014)\n7. 2001: A Space Odyssey (1968)\n8. Arrival (2016)\n9. Blade Runner 2049 (2017)\n10. Ex Machina (2014)",
+            "1. Airplane (1980)\n2. Homeward Bound: The Incredible Journey (1993)\n3. Labryinth (1986)\n4. Meet Joe Doe0 (1941)\n5. Robots (2005)\n6. What's Up, Doc? (1972)\n7. Enter the Void (2009)\n8. The Life Aquatic (2004)\n9. The Secret Life of Walter Mitty (2013)\n10. The Night Listener (2006)",
+            "1. The Naked Gun: From the Files of Police Squad!, The (1988)\n2. What's Up, Doc? (1972)\n3. Intolerable Cruelty (2003)\n4. Brewsters's Millions (1985)\n5. Bruce Almighty (2003)\n6. Tenacious D in The Pick of Destiny (2006)\n7. American Graffiti (1973)\n8. The Big Lebowski (1998)\n9. Real Genius (1985)\n10. UHF (1989)",
+            "1. Brewster's Millions (1985)\n2. American Graffiti (1973)\n3. Big Lebowski, The (1998)\n4. Stranger than Fiction (2006)\n5. Intolerable Cruelty (2003)\n6. Delicatessen (1991)\n7. Real Genius (1985)\n8. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n9. What's Up, Doc? (1972)\n10. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Robot & Frank (2012) \n3. UHF (1989) \n4. Blades of Glory (2007) \n5. Death at a Funeral (2010) \n6. The Great Outdoors (1988) \n7. Fletch (1985) \n8. Wild America (1997) \n9. idiocracy (2006) \n10. Big (1988)",
+            "Clueless (1995)\nThe Princess Bride (1987)\nAirplane! (1980)\nThe Big Sick (2017)\nBridesmaids (2011)\nThe Lego Movie (2014)\n21 Jump Street (2012)\nBooksmart (2019)\nThe Grand Budapest Hotel (2014)\nLady Bird (2017)",
+            "* Monsters, Inc. (2001)\n* Pirates of the Caribbean: At World's End (2007)\n* August Rush (2007)\n* The Naked Gun: From the Files of Police Squad!, The (1988)\n* Last Action Hero (1993)\n* We Bought a Zoo (2011)\n* What's Up, Doc? (1972)\n* Brewster's Millions (1985)\n* Real Genius (1985)\n* Tenacious D in The Pick of Destiny (2006)",
+            "1. The Big Lebowski (1998) \n2. Brewster's Millions (1985) \n3. American Graffiti (1973)\n4. Arsenic and Old Lace (1944) \n5. The Big Red One (1980)\n6. Delicatessen (1991)\n7. The Nightcrawler (2014)\n8. Von Ryan's Express (1965) \n9. Terminator 3: Rise of the Machines (2003) \n10. King Kong (2005) ",
+            "1. Dumb and Dumber (1994)\n2. Airplane! (1980)\n3. Monty Python and the Holy Grail (1975)\n4. The Big Lebowski (1998)\n5. Naked Gun: From the Files of Police Squad! (1988)\n6. Spinal Tap (1984)\n7. Shaun of the Dead (2004)\n8. Hot Fuzz (2007)\n9. Bridesmaids (2011)\n10. Bridesmaids (2011)",
+            "1. The Naked Gun: From the Files of Police Squad! (1988)\n2. American Graffiti (1973)\n3. What\u2019s Up, Doc? (1972)\n4. Brewster\u2019s Millions (1985)\n5. Real Genius (1985)\n6. Big Lebowski, The (1998)\n7. Tenacious D in The Pick of Destiny (2006)\n8. Intolerable Cruelty (2003)\n9. Control (2007)\n10. Stranger than Fiction (2006)\n"
+        ]
+    }
+}
