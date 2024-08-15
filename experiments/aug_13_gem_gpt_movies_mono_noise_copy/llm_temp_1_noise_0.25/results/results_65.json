@@ -1,0 +1,58 @@
+{
+    "65": {
+        "conv_hist": [
+            {
+                "query": "Do you like movies with car chases?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like foreign films?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is set in  World War II?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is good for children?",
+                "response": "no"
+            },
+            {
+                "query": "Do you like historical movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Do you like disaster movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about science fiction?",
+                "response": "yes"
+            },
+            {
+                "query": "You mentioned you were interested in a movie about science fiction. Are  interested in an action movie as well?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a robot movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Abraham Lincoln: Vampire Hunter (2012) \n3. The Proposition (2005) \n4. Terminator 3: Rise of the Machines (2003) \n5. **The Big Red One (1980)** \n6. **Mr. Holmes (2015)**\n7. **Bruce Almighty (2003)**\n8. **King Kong (2005)**\n9. **Real Genius (1985)** \n10. **Black Robe (1991)**",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. Tomb Raider (2018)\n4. Laura (1944)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. August Rush (2007)\n7. The Blair Witch Project (1999)\n8. Santa Sangre (1989)\n9. The Land Before Time (1988)\n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Tomb Raider (2018)\n4. August Rush (2007)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. The Proposition (2005)\n7. Man from Earth, The (2007)\n8. Searching (2018)\n9. Ant-Man (2015)\n10. Real Steel (2011) \n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Thomas Crown Affair, The (1968)\n3. TheCorporation (2003)\n4. Stranger than Fiction (2006)\n5. Nightcrawler (2014)\n6. TheDeparted (2006)\n7. Lost in Translation (2003)\n8.Tenacious D in The Pick of Destiny (2006)\n9. Eragon (2006)\n10. TheBoy in theStriped Pajamas (2008)",
+            "1. Gone Girl (2014) \n2. Terminator 2: Judgment Day (1991) \n3. The Dark Knight (2008) \n4. Inception (2010) \n5. The Matrix (1999) \n6. Fight Club (1999) \n7. The Departed (2006) \n8. The Godfather (1972) \n9. The Godfather Part II (1974) \n10. Pulp Fiction (1994)",
+            "****\n Movie Title: Last Temptation of Christ, The (1988) \n Genres: Drama \n Tags: jesus, christian, Martin Scorsese, based on a book, christianity, controversial, Criterion, good soundtrack, religion, violence, Biblical, blasphemy, edgy, god, soundtrack, storytelling, 70mm, A \u00daltima Tenta\u00e7\u00e3o de Cristo, Bible\n****\n Movie Title: Laura (1944) \n Genres: Crime, Film-Noir, Mystery \n Tags: film noir, black and white, Vincent Price, murder, Oscar (Best Cinematography), murder mystery, noir, Dana Andrews, Gene Tierney, 1940s, Clifton Webb, adapted from:book, plot twist, romance, AFI 100 (Thrills), National Film Registry, Otto Preminger, author:Vera Caspary, famous theme song, investigation\n****\n Movie Title: Piano, The (1993) \n Genres: Drama, Romance \n Tags: atmospheric, New Zealand, beautiful, 19th century, adultery, Oscar (Best Actress), erotic, melancholy, sexuality, Holly Hunter, Oscar (Best Supporting Actress), great acting, intense, lyrical, Harvey Keitel, Jane Campion, Nudity (Full Frontal - Notable), good soundtrack, great soundtrack, stylized\n****\n Movie Title: Terms of Endearment (1983) \n Genres: Comedy, Drama \n Tags: Oscar (Best Picture), sentimental, Jack Nicholson, tear jerker, Oscar (Best Actress), Oscar (Best Directing), Oscar (Best Supporting Actor), marriage, James L. Brooks, MOTHERS AND DAUGHTERS, Shirley MacLaine, adapted from:book, astronauts, terminal illness, 100 Essential Female Performances, 1940's, 1950s, 1960s, 1970s, 3 tissues\n****\n Movie Title: August Rush (2007) \n Genres: Drama, Musical \n Tags: inspirational, power of music, music, love of music, thought-provoking, uplifting and compelling, unique, Freddie Highmore, Jonathan Rhys Meyers, Musical, KAF, Kaki King, Kirsten Sheridan, Robin Williams, builds up, children, different but very good, forbidden love, guitar, holes in the plot\n****\n Movie Title: One Hour Photo (2002) \n Genres: Drama, Thriller \n Tags: Robin Williams, creepy, suspense, dark, stalker, psychotic tendencies, psychological, strange story, bizarre, photography, Nudity (Topless), psychopaths, Dream Sequence, Mark Romanek, serial killer, great acting, horror, one of the best movies ever, oppression, sad but good\n****\n Movie Title: All Quiet on the Western Front (1930) \n Genres: Action, Drama, War \n Tags: World War I, Oscar (Best Picture), anti-war, based on a book, German perspective, Oscar (Best Directing), imdb top 250, literary adaptation, war ugliness, world war I, AFI #54, BEST PICTURE, Lewis Milestone, military, war, war movie, 100 Greatest Movies, AFI 100, Arnold Lucy, BD-R\n****\n Movie Title: Dracula (Bram Stoker's Dracula) (1992) \n Genres: Fantasy, Horror, Romance, Thriller \n Tags: vampires, vampire, based on a book, gothic, Anthony Hopkins, Keanu Reeves, Winona Ryder, Gary Oldman, Nudity (Topless), gary oldman, erotic, visually rich, Francis Ford Coppola, Oscar (Best Makeup), dracula, Bruce Willis, Oscar (Best Costume Design), adapted from:book, stylized, Oscar (Best Effects - Visual Effects)\n****\n Movie Title: Intolerable Cruelty (2003) \n Genres: Comedy, Romance \n Tags: screwball comedy, divorce, lawyers, George Clooney, black comedy, coen bros, Catherine Zeta-Jones, Coen Brothers, fun, money, revenge, seen more than once, farce, lawyer, piss funny, predictable, BGAB LRC, Paul Adelstein, assassin, california\n****\n Movie Title: Pirates of the Caribbean: At World's End (2007) \n Genres: Action, Adventure, Comedy, Fantasy \n Tags: Johnny Depp, pirates, adventure, Keira Knightley, comedy, Orlando Bloom, anti-hero, treasure, quirky, seafaring, Geoffrey Rush, sequel, swashbuckler, funny, surreal, big budget, confusing, BORING!, stupid ending, Disney",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Von Ryan's Express (1965)\n3. Time Travel (2003)\n4. Ready Player One\n5. Nightcrawler (2014)\n6. The Big Red One (1980)\n7. American Graffiti (1973)\n8. Brewster's Millions (1985)\n9. Face/Off (1997)\n10. Real Genius (1985)",
+            "1. A.I. Artificial Intelligence (2001) \n2. Ant-Man (2015) \n3. Timeline (2003) \n4. Ready Player One \n5. Terminator 3: Rise of the Machines (2003) \n6. Real Steel (2011) \n7. Robot & Frank (2012) \n8. Cronos (1993) \n9. Eragon (2006) \n10. Matrix, The (1999) \n",
+            "A.I. Artificial Intelligence (2001) \\n\nAnt-Man (2015) \\n\nArrival (2016) \\n\nBlade Runner 2049 (2017) \\n\nCloud Atlas (2012) \\n\nDune (2021) \\n\nEx Machina (2014) \\n\nThe Matrix (1999) \\n\n2001: A Space Odyssey (1968) \\n\nArrival (2016)\n",
+            "1. The Matrix (1999)\n2. Ex Machina (2014)\n3. Her (2013)\n4. Blade Runner 2049 (2017)\n5. Arrival (2016)\n6. Annihilation (2018)\n7. Moon (2009)\n8. District 9 (2009)\n9. Primer (2004)\n10. Predestination (2014)"
+        ]
+    }
+}

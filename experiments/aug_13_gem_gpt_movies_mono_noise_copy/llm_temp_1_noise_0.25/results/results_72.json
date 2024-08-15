@@ -1,0 +1,58 @@
+{
+    "72": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie that takes place in the future?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie about robots or other artificial intelligence?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a space movie?",
+                "response": "no"
+            },
+            {
+                "query": "Do you want to see a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a movie about science or technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a sci-fi movie of an animated one?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a coming-of-age movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a drama or a comedy?",
+                "response": "drama"
+            },
+            {
+                "query": "Are you in the mood for a sad drama?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Alita: Battle Angel (2019)\n3. Ant-Man (2015)\n4. Real Steel (2011)\n5. A.I. Artificial Intelligence (2001)\n6. Ready Player One\n7. Timeline (2003)\n8. Robot & Frank (2012)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. The Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n''''",
+            "1. The Terminator 3: Rise of the Machines (2003)\n2. RoboCop (1987)\n3. Blade Runner (1982)\n4. The Matrix (1999)\n5. Minority Report (2002)\n6. Ex Machina (2014)\n7. WALL-E (2008)\n8. The Martian (2015)\n9. Arrival (2016)\n10. Blade Runner 2049 (2017)",
+            "1. A.I. Artificial Intelligence\t\n2. Real Steel\n3. Terminator 3: Rise of the Machines\t\n4. Ant-Man\t\n5. Ready Player One\t\n6. The Matrix\n7. Minority Report\n8. I, Robot\n9. Ex Machina\n10. Blade Runner",
+            "1. A.I. Artificial Intelligence (2001)\n2. Real Steel (2011)\n3. Terminator 3: Rise of the Machines (2003)\n4. Ant-Man (2015)\n5. Timeline (2003)\n6. Ready Player One\n7. Blade Runner 2049 (2017)\n8. Minority Report (2002)\n9. The Martian (2015)\n10. Interstellar (2014)",
+            "1. Blade Runner 2049 (2017)\n2. Ex Machina (2014)\n3. Arrival (2016)\n4. Interstellar (2014)\n5. Her (2013)\n6. The Martian (2015)\n7. Gravity (2013)\n8. Moon (2009)\n9. District 9 (2009)\n10. The Matrix (1999)",
+            "1. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n2. The Big Lebowski (1998)\n3. Intolerable Cruelty (2003)\n4. American Graffiti (1973)\n5. Enter the Void (2009)\n6. Real Genius (1985)\n7. Grapes of Wrath, The (1940)\n8. 50 First Dates (2004)\n9. Tenacious D in The Pick of Destiny (2006)\n10. What's Up, Doc? (1972)",
+            "Ready Player One\nThe Matrix\nMinority Report\nTranscendence\n2001: A Space Odyssey\nHer\nBlade Runner\nAlien\nInception\nDune",
+            "1. Lost in Translation (2003) \n2. Real Genius (1985) \n3. The Big Red One (1980) \n4. Hurricane, The (1999) \n5. Brewster's Millions (1985) \n6. American Graffiti (1973) \n7. Jane Eyre (1996) \n8. Umberto D. (1952) \n9. Coming Home (1978) \n10. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Lost in Translation (2003)\n2. Nebraska (2013)\n3. The Big Sick (2017)\n4. Paterson (2016)\n5. 20th Century Women (2016)\n6. Frances Ha (2012)\n7. The Squid and the Whale (2005)\n8. Boyhood (2014)\n9. Lady Bird (2017)\n10. Moonlight (2016)",
+            "1. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n2. Stranger than Fiction (2006)\n3. The Hurricane (1999)\n4. Mr. Holmes (2015)\n5. Lost in Translation (2003)\n6. Gattaca (1997)\n7. Me and Earl and the Dying Girl (2015)\n8. The Spectacular Now (2013)\n9. The Boy in the Striped Pajamas, The (2008)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)"
+        ]
+    }
+}

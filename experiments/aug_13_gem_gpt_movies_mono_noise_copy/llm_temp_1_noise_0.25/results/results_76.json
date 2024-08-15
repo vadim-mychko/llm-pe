@@ -1,0 +1,58 @@
+{
+    "76": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an action movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a sci-fi action movie?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you currently in the mood for a drama film based on a classic novel?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a modern drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a drama set in the past?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a war drama?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a popcorn flick with lots of explosions or are you in the mood for a more realistic war drama?",
+                "response": "i am in the mood for a more realistic war drama."
+            },
+            {
+                "query": "Are you looking for a war drama set in World War I or World War II?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Terminator 3: Rise of the Machines (2003) \n2. The Matrix (1999)\n3. Face/Off (1997)\n4. The Bourne Identity (2002)\n5. Speed (1994)\n6. Die Hard (1988)\n7. Raiders of the Lost Ark (1981)\n8. Terminator 2: Judgment Day (1991)\n9. The Fast and the Furious (2001)\n10. Skyfall (2012)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Man from Earth, The (2007)\n3. Alita: Battle Angel (2019)\n4. Ant-Man (2015)\n5. Big Lebowski, The (1998)\n6. Bruce Almighty (2003)\n7. Face/Off (1997)\n8. Real Genius (1985)\n9. Grapes of Wrath, The (1940)\n10. Black Robe (1991)\n",
+            "1. The Terminator (1984)\n2. Die Hard (1988)\n3. Lethal Weapon (1987)\n4. Aliens (1986)\n5. Predator (1987)\n6. Rambo: First Blood (1982)\n7. Commando (1985)\n8. The Running Man (1987)\n9. Total Recall (1990)\n10. RoboCop (1987)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ready Player One (2018) \n3. Departed, The (2006) \n4. Terminator 3: Rise of the Machines (2003) \n5. Nightcrawler (2014) \n6. Stranger than Fiction (2006) \n7. Big Lebowski, The (1998) \n8. American Graffiti (1973) \n9. Brewster's Millions (1985) \n10. Mr. Holmes (2015)",
+            "1. The Departed (2006)\n2. Magnolia (1999)\n3. The Hurricane (1999)\n4. Enter the Void (2009)\n5. Control (2007)\n6. The Grapes of Wrath (1940)\n7. Umberto D. (1952)\n8. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n9. Cronos (1993)\n10. Black Robe (1991)",
+            "1. The Last Action Hero (1993) \n2. Face/Off (1997) \n3. Bruce Almighty (2003) \n4. Man on Fire (2004) \n5. The Big Lebowski (1998) \n6. Reservoir Dogs (1992) \n7. American Graffiti (1973) \n8. John Wick (2014) \n9. The Matrix (1999) \n10. Aliens (1986)",
+            "1. Grapes of Wrath, The (1940)\n2. Grapes of Wrath, The (1940)\n3. Grapes of Wrath, The (1940)\n4. Grapes of Wrath, The (1940)\n5. Grapes of Wrath, The (1940)\n6. Black Robe (1991)\n7. Umberto D. (1952)\n8. Jane Eyre (1996)\n9. Cronos (1993)\n10. Last Supper, The (1995)",
+            "1. All Quiet on the Western Front (1930)\n2. Clash of the Titans (1981)\n3. Terminator 3: Rise of the Machines (2003)\n4. Von Ryan's Express (1965)\n5. Big Red One, The (1980)\n6. American Graffiti (1973)\n7. Battle of the Bulge (1965)\n8. Patton (1970)\n9. A Bridge Too Far (1977)\n10. Fury (2014)",
+            "1. All Quiet on the Western Front (1930) \n2. No Man's Land (2001)\n3. Von Ryan's Express (1965)\n4. War Big Red One, The (1980) \n5. Black Robe (1991) \n6. Grapes of Wrath, The (1940)\n7. Umberto D. (1952) \n8. Europa (Zentropa) (1991) \n9. The Mis\u00e9rables (1998)\n10. Hurricane, The (1999)",
+            "1. Von Ryan's Express (1965)\n2. All Quiet on the Western Front (1930)\n3. The Big Red One (1980)\n4. Dunkirk (2017)\n5. Grave of the Fireflies (1988)\n6. Letters from Iwo Jima  (2006)\n7. A Bridge Too Far (1977)\n8. Gallipoli (1981)\n9. Das Boot (1981)\n10. Enemy at the Gates (2001)"
+        ]
+    }
+}

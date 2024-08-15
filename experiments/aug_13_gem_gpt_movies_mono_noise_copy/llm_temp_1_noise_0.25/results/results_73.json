@@ -1,0 +1,58 @@
+{
+    "73": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for a funny movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an animated movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie related to IT or computers?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a scary movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something older, such as an 80's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for something related to politics or corporations?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in movies with a supernatural or mystical element?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with strong female characters?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in action movies?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. The Grapes of Wrath (1940) \n2. Grapes of Wrath, The (1940) \n3. The Lost World: Jurassic Park (1997) \n4. Lost World: Jurassic Park, The (1997) \n5. Bruce Almighty (2003) \n6. No Man's Land (2001) \n7. Mr. Holmes (2015) \n8. What's Up, Doc? (1972) \n9. Intolerable Cruelty (2003) \n10. Brewster's Millions (1985)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Face/Off (1997)\n3. King Kong (2005)\n4. Blade (1998)\n5. Night of the Living Dead (1968)\n6. Dawn of the Planet of the Apes (2014)\n7. Zombieland (2009)\n8. Dawn of the Dead (1978)\n9. 28 Days Later (2002)\n10. Shaun of the Dead (2004)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Darkman (1990)\n3. Aliens (1986)\n4. The Matrix Reloaded (2003)\n5. Minority Report (2002)\n6. RoboCop (1987)\n7. Independence Day (1996)\n8. I, Robot (2004)\n9. The Terminator (1984)\n10. Total Recall (1990)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. Real Genius (1985)\n3. A.I. Artificial Intelligence (2001)\n4. Mad Max: Fury Road (2015)\n5. Nightcrawler (2014)\n6. Intolerable Cruelty (2003)\n7. Face/Off (1997)\n8. The Departed (2006)\n9. Control (2007)\n10. Big Lebowski, The (1998)",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. A.I. Artificial Intelligence (2001)\n3. Big Lebowski, The (1998)\n4. Face/Off (1997)\n5. Terminator 3: Rise of the Machines (2003)\n6. A.I. Artificial Intelligence (2001)\n7. Big Lebowski, The (1998)\n8. Face/Off (1997)\n9. Intolerable Cruelty (2003)\n10. Ghostbusters (1984)",
+            "1. A.I. Artificial Intelligence (2001)\n2. American Graffiti (1973)\n3. Big Lebowski, The (1998)\n4. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n5. Bruce Almighty (2003)\n6. Clash of the Titans (1981)\n7. Darkman (1990)\n8. Delicatessen (1991)\n9. Drugstore Cowboy (1989)\n10. Europa (Zentropa) (1991)",
+            "1. Strangers with Candy (2005) \n2. Nick and Norah's Infinite Playlist (2008) \n3. Me and Orson Welles (2008) \n4. The Final (2010) \n5. Premium Rush (2012) \n6. Drinking Buddies (2013) \n7. 20th Century Women (2016) \n8. Lady Bird (2017) \n9. Eighth Grade (2018) \n10. Booksmart (2019)",
+            "1. Laura (1944)\n2. The Piano (1993)\n3. Before the Devil Knows You're Dead (2007)\n4. Bad Education (La mala educaci\u00f3n) (2004)\n5. Europa (Zentropa) (1991)\n6. Corporation, The (2003)\n7. The Grapes of Wrath (1940)\n8. Lost in Translation (2003)\n9. Boy in the Striped Pajamas, The (2008)",
+            "1. Before the Devil Knows You're Dead (2007) \n2. Laura (1944) \n3. Lost in Translation (2003) \n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007) \n5. Starring Bette Davis (1994)\n6. The Proposition (2005) \n7. Killers (2010) \n8. The Land Before Time (1988) \n9. October Sky (1999) \n10. Elizabeth (1998)\n",
+            "Laura (1944)\nTerms of Endearment (1983)\nAutumn Sonata (H\u00f6stsonaten) (1978)\nThe Secret of Kells (2009)\nSearching (2018)\nHachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\nControl (2007)\nStranger than Fiction (2006)\nMr. Holmes (2015)\nThe Grapes of Wrath (1940)"
+        ]
+    }
+}

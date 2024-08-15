@@ -1,0 +1,58 @@
+{
+    "66": {
+        "conv_hist": [
+            {
+                "query": "Can you share if you prefer watching stories set in the past or stories focused on the future?",
+                "response": "i cannot determine your preference based on the given item description."
+            },
+            {
+                "query": "Are you interested in a movie with historical events?",
+                "response": "no"
+            },
+            {
+                "query": "Do you enjoy watching movies about technology?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a book?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a children's film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a foreign film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about animals?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about a dog?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie that is set in the present time?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n2. Real Genius (1985)\n3. We Bought a Zoo (2011)\n4. Crimson Tide (1995)\n5. Tomb Raider (2018)\n6. Terminator 3: Rise of the Machines (2003)\n7. Last Action Hero (1993)\n8. Jurassic Park III (2001)\n9. Ready Player One \n10. Ant-Man (2015)\n",
+            "1. Intolerable Cruelty (2003)\n2. The Proposition (2005)\n3. 10th Kingdom, The (miniseries) (2000)\n4. Pride & Prejudice (2005)\n5. Delicatessen (1991)\n6. Jane Eyre (1996)\n7. Umberto D. (1952)\n8. Black Robe (1991)\n9. Brewster's Millions (1985)\n10. Mr. Holmes (2015)",
+            "1. Monsters, Inc. (2001)\n2. Laura (1944)\n3. The Big Red One (1980)\n4. Brewster's Millions (1985)\n5. Von Ryan's Express (1965)\n6. Clash of the Titans (1981)\n7. All Quiet on the Western Front (1930)\n8. Gentlemen of Fortune (Dzhentlmeny udachi) (1972)\n9. No Man's Land (2001)\n10. Hurricane, The (1999)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. Last Temptation of Christ, The (1988)\n5. Abraham Lincoln: Vampire Hunter (2012)\n6. August Rush (2007)\n7. The Blair Witch Project (1999)\n8. Martyrs (2008)\n9. The Piano (1993)\n10. Terms of Endearment (1983)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Big Red One, The (1980)\n5. Von Ryan's Express (1965)\n6. Grapes of Wrath, The (1940)\n7. Black Robe (1991)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Sure Thing, The (1985)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirate of the Caribbean: At Worlds End (2007)\n4. Tomb Raider (2018)\n5. The Proposition (2005)\n6. Terminator 3: Rise of the Machines (2003)\n7. Transporter 2 (2005)\n8. King Kong (2005)\n9. Face/Off (1997)\n10. Ant-Man (2015)",
+            "1. The Lost World: Jurassic Park (1997)\n2. Terminator 3: Rise of the Machines (2003)\n3. Real Steel (2011)\n4. A.I. Artificial Intelligence (2001)\n5. King Kong (2005)\n6. RoboCop (2014)\n7. Blade: Trinity (2004)\n8. How to Train Your Dragon: The Hidden World (2019)\n9. Life (2017)\n10. Alita: Battle Angel (2019)\n",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Ant-Man (2015) \n3. Ready Player One \n4. Real Genius (1985) \n5. Eragon (2006) \n6. Lost in Translation (2003) \n7. Grapes of Wrath, The (1940) \n8. Black Robe (1991) \n9. Face/Off (1997) \n10. Last Supper, The (1995) \n",
+            "1. Terminator 3: Rise of the Machines (2003)\n2. The Land Before Time (1988)\n3. Clash of the Titans (1981)\n4. Alita: Battle Angel (2019)\n5. The Terminator (1984)\n6. The Big Lebowski (1998)\n7. Big Red One, The (1980)\n8. Ant-Man (2015)\n9. American Graffiti (1973)\n10. Bruce Almighty (2003)",
+            "Searching (2018)\nReady Player One \nNightcrawler (2014) \nStranger than Fiction (2006) \nThe Big Lebowski (1998)\nAmerican Graffiti (1973) \nBruce Almighty (2003) \nTenacious D in The Pick of Destiny (2006)\nEragon (2006) \nThe Boy in the Striped Pajamas (2008)"
+        ]
+    }
+}

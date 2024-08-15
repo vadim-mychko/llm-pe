@@ -1,0 +1,58 @@
+{
+    "77": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a fantasy movie?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a thriller movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie set in the past?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a funny movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a satirical movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a light-hearted or comedic movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie about music?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated movie?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. The Proposition (2005)\n2. Bernie (2011)\n3. Europa (Zentropa) (1991)\n4. The Stranger than Fiction (2006)\n5. American Graffiti (1973)\n6. The Intolerable Cruelty (2003)\n7. Mr. Holmes (2015)\n8. The Last Supper (1995)\n9. Umberto D. (1952)\n10. Enter the Void (2009)\n",
+            "1. Once Upon a Time in Mexico (2003)\n2. Stardust (2007)\n3. Practical Magic (1998)\n4. The Craft (1996)\n5. Interview with the Vampire (1994)\n6. Never Let Me Go (2010)\n7. The Age of Innocence (1993)\n8. The English Patient (1996)\n9. Atonement (2007)\n10. Brokeback Mountain (2005)",
+            "1. Lost in Translation (2003) \n2. Trainspotting (1996) \n3. Nightcrawler (2014) \n4. Zodiac (2007) \n5. American Gangster (2007) \n6. The Big Short (2015) \n7. The Social Network (2010) \n8. The Wolf of Wall Street (2013) \n9. The Departed (2006) \n10. No Country for Old Men (2007)",
+            "1. Monsters, Inc. (2001) \n2. Halloween 4: The Return of Michael Myers (1988) \n3. Last Temptation of Christ, The (1988) \n4. The Naked Gun: From the Files of Police Squad! (1988) \n5. Cocoon (1985) \n6. St. Elmo's Fire (1985) \n7. Crimes and Misdemeanors (1989) \n8. Crossing Delancey (1988) \n9. The Last Emperor (1987) \n10. Brewster's Millions (1985) \n11. Popeye (1980) \n12. Mo' Better Blues (1990)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Big Red One, The (1980)\n4. Transporter 2 (2005)\n5. Clash of the Titans (1981)\n6. King Kong (2005)\n7. Eragon (2006)\n8. Intolerable Cruelty (2003)\n9. Brewster's Millions (1985)\n10. Face/Off (1997)",
+            "1. What's Up, Doc? (1972)\n2. Stranger than Fiction (2006)\n3. Intolerable Cruelty (2003)\n4. Big Lebowski, The (1998)\n5. American Graffiti (1973)\n6. Tenacious D in The Pick of Destiny (2006)\n7. Big Red One, The (1980)\n8. Real Steel (2011)\n9. Robot & Frank (2012) \n10. Brewster's Millions (1985)",
+            "1. Big Lebowski, The (1998)\n2. American Graffiti (1973)\n3. Brewster's Millions (1985)\n4. Real Genius (1985)\n5. Intolerable Cruelty (2003)\n6. What's Up, Doc? (1972)\n7. Dude, Where's My Car? (2000)\n8. Office Space (1999)\n9. Idiocracy (2006)\n10. Anchorman (2004)",
+            "1. Monty Python and the Holy Grail (1975)\n2. The Big Lebowski (1998)\n3. Airplane! (1980)\n4. Shaun of the Dead (2004)\n5. Hot Fuzz (2007)\n6. 21 Jump Street (2012)\n7. The Hangover (2009)\n8. Bridesmaids (2011)\n9. The Other Guys (2010)\n10. Anchorman: The Legend of Ron Burgundy (2004)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Naked Gun: From the Files of Police Squad!, The (1988)\n4. UHF (1989)\n5. We Bought a Zoo (2011)\n6. What's Up, Doc? (1972)\n7. The Big Lebowski (1998)\n8. Brewster's Millions (1985)\n9. Real Genius (1985)\n10. Bruce Almighty (2003)",
+            "1. American Graffiti (1973)\n2. What's Up, Doc? (1972)\n3. The Big Lebowski (1998)\n4. Moonstruck (1987)\n5. Fargo (1996)\n6. The Apartment (1960)\n7. Some Like It Hot (1959)\n8. Tootsie (1982)\n9. Sixteen Candles (1984)\n10. Monty Python and the Holy Grail (1975)"
+        ]
+    }
+}

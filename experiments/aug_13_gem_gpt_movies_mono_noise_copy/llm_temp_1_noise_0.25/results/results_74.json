@@ -1,0 +1,58 @@
+{
+    "74": {
+        "conv_hist": [
+            {
+                "query": "Was the last movie you watched a children's movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a film with strong dialogue or memorable performances?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a drama about the film industry?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to watch a black comedy film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in seeing an action or adventure film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a musical with entertaining characters?",
+                "response": "no"
+            },
+            {
+                "query": "How about an animated fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a lot of action scenes?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a heartwarming film with a strong message?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a film with a complex or thought-provoking plot?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. The Secret of Kells (2009)\n4. Land Before Time, The (1988)\n5. Homeward Bound: The Incredible Journey (1993)\n6. American Graffiti (1973)\n7. Brewster's Millions (1985)\n8. Real Genius (1985)\n9. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n10. Hugo (2011)\n",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Laura (1944)\n4. The Piano (1993)\n5. Terms of Endearment (1983)\n6. The Big Lebowski (1998)\n7. Stranger than Fiction (2006)\n8. Lost in Translation (2003)\n9. Grapes of Wrath, The (1940)\n10. Umberto D. (1952)",
+            "1. Monsters, Inc. (2001)\u2028\n2. Laura (1944)\n\u20283. The Miracle Worker (1962)\n\u20284. Lost in Translation (2003)\u2028\n5. A Thousand Clowns (1965)\n\u20286. Hugo (2011)\n\u20287. Terms of Endearment (1983)\n\u20288. The Artist (2011)\n\u20289. The Royal Tenenbaums (2001)\n\u202810. What Dreams May Come (1998)",
+            "1. Monsters, Inc. (2001)\n2. Big Lebowski, The (1998)\n3. American Graffiti (1973)\n4. Brewster's Millions (1985)\n5. Real Genius (1985)\n6. Face/Off (1997)\n7. Cronos (1993)\n8. Black Robe (1991)\n9. Grapes of Wrath, The (1940)\n10. Umberto D. (1952)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. What's Up, Doc? (1972)\n5. Terminator 3: Rise of the Machines (2003)\n6. Transporter 2 (2005)\n7. The Last Supper (1995)\n8. The Big Lebowski (1998)\n9. Brewster's Millions (1985)\n10. Real Genius (1985)",
+            "1. Monsters, Inc. (2001)\n2. August Rush (2007)\n3. Laura (1944)\n4. Terms of Endearment (1983)\n5. Bicycle Thieves (Ladri di biciclette, I) (1948)\n6. Out of Sight (1998)\n7. Pirates of the Caribbean: At World's End (2007)\n8. Godfather Part II, The (1974)\n9. Big Lebowski, The (1998)\n10. Amadeus (1984)",
+            "1. Monsters, Inc. (2001) \n2. Laura (1944) \n3. Bad Education (La mala educaci\u00f3n) (2004) \n4. The Man from Earth (2007) \n5. Searching (2018) \n6. Stranger than Fiction (2006) \n7. Nightcrawler (2014) \n8. Departures (Okuribito) (2008) \n9. The Grapes of Wrath (1940) \n10. Lost in Translation (2003) ",
+            "1. Monsters, Inc. (2001)\n2. Pirates of the Caribbean: At World's End (2007)\n3. August Rush (2007)\n4. The Proposition (2005)\n5. The Man from Earth (2007)\n6. Crimes and Misdemeanors (1989)\n7. Safe (1995)\n8. Real Genius (1985)\n9. Lost in Translation (2003)\n10. Umberto D. (1952)",
+            "1. Stranger than Fiction (2006)\n2. Control (2007)\n3. The Big Lebowski (1998)\n4. Hurricane, The (1999)\n5. Big Red One, The (1980)\n6. Enter the Void (2009)\n7. Graphes of Wrath, The (1940)\n8. August Rush (2007)\n9. Botticelli's Inferno (1994)\n10. Mr. Holmes (2014)",
+            "1. Crimes and Misdemeanors (1989) \n2. Stranger than Fiction (2006) \n3. Magnolia (1999) \n4. The Man from Earth (2007) \n5. Lost in Translation (2003) \n6. Before the Devil Knows You're Dead (2007) \n7. The Corporation (2003) \n8. Control (2007) \n9. Nightcrawler (2014) \n10. Enter the Void (2009)"
+        ]
+    }
+}

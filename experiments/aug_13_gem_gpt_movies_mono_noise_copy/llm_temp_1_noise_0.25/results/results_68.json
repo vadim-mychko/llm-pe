@@ -1,0 +1,58 @@
+{
+    "68": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in a movie about robotics?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie from the 80's?\n''''",
+                "response": "no"
+            },
+            {
+                "query": "Are you open to watching an animated adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you up for a fantasy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you consider anything in the drama genre?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about humor?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a science fiction movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a movie featuring anthropomorphic characters?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie based on a comic book?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Ant-Man (2015)\n2. Real Steel (2011)\n3. A.I. Artificial Intelligence (2001)\n4. Darkman (1990)\n5. Robot & Frank (2012)\n6. Terminator 3: Rise of the Machines (2003)\n7. Big Red One, The (1980)\n8. RoboCop (1987)\n9. Chappie (2015)\n10. Ex Machina (2014)\n''''",
+            "1. Monsters, Inc. (2001) \n2. Pirates of the Caribbean: At World's End (2007) \n3. Terminator 3: Rise of the Machines (2003) \n4. The Lost World: Jurassic Park (1997) \n5. Man on Fire (2004) \n6. All Quiet on the Western Front (1930) \n7. The Hurricane (1999) \n8. The Big Red One (1980) \n9. Grapes of Wrath, The (1940) \n10. Black Robe (1991)",
+            "1. Enter the Void (2009) \n2. A.I. Artificial Intelligence (2001) \n3. Alita: Battle Angel (2019) \n4. Barbarella (1968)\n5. Blade Runner (1982)\n6. Cocoon (1985)\n7. Dark City (1998)\n8. Demolition Man (1993)\n9. Ex Machina (2014)\n10. The Fifth Element (1997)",
+            "1. Terminator 3: Rise of the Machines (2003) \n2. Darkman (1990) \n3. Face/Off (1997) \n4. Delicatessen (1991) \n5. Real Steel (2011) \n6. Tron (1982) \n7. Blade Runner (1982) \n8. 2001: A Space Odyssey (1968) \n9. RoboCop (1987) \n10. The Matrix (1999) ",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007) \n4. Laura (1944) \n5. Abraham Lincoln: Vampire Hunter (2012) \n6. August Rush (2007) \n7. The Blair Witch Project (1999)\n8. Martyrs (2008)\n9. The Piano (1993)\n10. Terms of Endearment (1983)",
+            "1. Nightcrawler (2014) \n2. Darkman (1990) \n3. Stranger than Fiction (2006) \n4. Intolerable Cruelty (2003) \n5. Robot & Frank (2012) \n6. Face/Off (1997) \n7. The Big Lebowski (1998) \n8. Trapped (2002) \n9. Brewster's Millions (1985) \n10. Bruce Almighty (2003) \n",
+            "1. Terms of Endearment (1983) \n2. St. Elmo's Fire (1985) \n3. Terminator 3: Rise of the Machines (2003) \n4. Intolerable Cruelty (2003) \n5. Bruce Almighty (2003) \n6. The Departed (2006) \n7. Face/Off (1997) \n8. Grapes of Wrath, The (1940) \n9. Umberto D. (1952)\n10. The Big Lebowski (1998)",
+            "1. The Man from Earth (2007)\n2. AI Artificial Intelligence (2001)\n3. Terminator 3: Rise of the Machines (2003)\n4. Arrival\n5. The Matrix (1999)\n6. Blade Runner 2049 (2017)\n7. Ex Machina (2014)\n8. Inception (2010)\n9. Cloud Atlas (2012)\n10. Minority Report (2002)",
+            "1. A.I. Artificial Intelligence (2001)\n2. The Matrix (1999)\n3. Ex Machina (2014)\n4. Blade Runner (1982)\n5. District 9 (2009)\n6. Arrival (2016)\n7. Moon (2009)\n8. 2001: A Space Odyssey (1968)\n9. Star Wars: Episode IV - A New Hope (1977)\n10. Terminator 2: Judgment Day (1991)",
+            "* Alita: Battle Angel (2019)\n* Ant-Man (2015)\n* A.I. Artificial Intelligence (2001)\n* Timeline (2003)\n* Ready Player One\n* Robot & Frank (2012)\n* Bruce Almighty (2003)\n* King Kong (2005)\n* Tenacious D in The Pick of Destiny (2006)\n* Eragon (2006)"
+        ]
+    }
+}

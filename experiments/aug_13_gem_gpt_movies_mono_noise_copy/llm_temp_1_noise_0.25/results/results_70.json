@@ -1,0 +1,58 @@
+{
+    "70": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an anime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a cartoon movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie with a strong female lead?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a sci-fi movie?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for an action movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for an adventure movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a movie about artificial intelligence?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie based on a book?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Pirates of the Caribbean: At World's End (2007)\n\n2. August Rush (2007)\n\n3. Ant-Man (2015)\n\n4. Shutter Island (2010)\n\n5. Ready Player One (2018)\n\n6. Intolerable Cruelty (2003)\n\n7. Lost in Translation (2003)\n\n8. Homeward Bound: The Incredible Journey (1993)\n\n9. King Kong (2005)\n\n10. The Last Supper (1995)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007)\n4. Laura (1944)\n5. Terminator 3: Rise of the Machines (2003)\n6. Memphis Belle (1990)\n7. Abraham Lincoln: Vampire Hunter (2012)\n8. August Rush (2007)\n9. The Last Airbender (2010)\n10. The Blair Witch Project (1999)",
+            "1. Drop-Out, The (1975)\n2. Ladykillers, The (1955)\n3. Omaha Beach (1944)\n4. Oswaldia (1981)\n5. Oscuros, Los (2016)\n6. Ossessione (1943)\n7. Otkazat'sia Nel'zia Ostavit'sia (2015)\n8. Otogi: Nanatsu o Iseki (2003)\n9. Otomo, Un (1994)\n10. Out of the Blue into the Black (2007)\n",
+            "1. Pirates of the Caribbean: At World's End (2007)\n2. Laura (1944)\n3. The Proposition (2005)\n4. Terminator 3: Rise of the Machines (2003)\n5. Transporter 2 (2005)\n6. The Departed (2006)\n7. Stranger than Fiction (2006)\n8. American Graffiti (1973)\n9. Trapped (2002)\n10. Intolerable Cruelty (2003)",
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985) \n3. October Sky (1999)\n4. Labyrinth (1986)\n5. Hugo (2011)\n6. Moonrise Kingdom (2012)\n7. The Princess Bride (1987)\n8. The Truman Show (1998)\n9. Raiders of the Lost Ark (1981)\n10. The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "1. Metropolis (2001)\n2. A.I. Artificial Intelligence (2001)\n3. After the Future (2016)\n4. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)\n5. Timeline (2003)\n6. Ready Player One\n7. Real Steel (2011)\n8. Arrival (2016)\n9. Ant-Man (2015)\n10. The Martian (2015)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Terminator 3: Rise of the Machines (2003)\n3. Timeline (2003)\n4. Ready Player One\n5. Real Steel (2011)\n6. Robot & Frank (2012)\n7. The Matrix (1999)\n8. Chronicle  (2012)\n9. Upgrade (2018)\n10. Alita: Battle Angel (2019)",
+            "Alita: Battle Angel (2019)\nA.I. Artificial Intelligence (2001)\nEnter the Void (2009)\nTimeline (2003)\nMetropolis (2001)\nReal Steel (2011)\nTerminator 3: Rise of the Machines (2003)\nThe Mothman Prophecies (2002)\nThe Land Before Time (1988)\nTron: Legacy (2010)\n",
+            "1. A.I. Artificial Intelligence (2001) \n2. Terminator 3: Rise of the Machines (2003) \n3. The Man from Earth (2007) \n4. Ant-Man (2015) \n5. Ready Player One \n6. Control (2007) \n7. Robot & Frank (2012) \n8. Real Steel (2011) \n9. Bruce Almighty (2003) \n10. Eragon (2006)",
+            "A.I. Artificial Intelligence (2001)\nTerminator 3: Rise of the Machines (2003)\nMetropolis (2001)\nMan from Earth, The (2007)\n2001: A Space Odyssey (1968)\nEx Machina (2014)\nHer (2013)\nBlade Runner 2049 (2017)\nArrival (2016)\nThe Martian (2015)\n"
+        ]
+    }
+}

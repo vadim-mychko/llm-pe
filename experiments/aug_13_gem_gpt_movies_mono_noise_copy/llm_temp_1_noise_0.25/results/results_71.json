@@ -1,0 +1,58 @@
+{
+    "71": {
+        "conv_hist": [
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a crime movie?",
+                "response": "no"
+            },
+            {
+                "query": "Would you like to see a history film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a horror movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a romance film?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a documentary?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in watching a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a dramatic documentary?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a recent documentary?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "Ant-Man (2015) \\n\nHomeward Bound: The Incredible Journey (1993) \\n\nThe Lion King (2019) \\n\nMoana (2016) \\n\nThe Princess and the Frog (2009) \\n\nFrozen (2013) \\n\nTangled (2010) \\n\nZootopia (2016) \\n\nInside Out (2015) \\n\nBrave (2012)",
+            "1. The Big Lebowski, The (1998) \n2. American Graffiti (1973) \n3. What's Up, Doc? (1972) \n4. Stranger than Fiction (2006) \n5. Terminator 3: Rise of the Machines (2003) \n6. The Hurricane (1999) \n7. Tomb Raider (2018) \n8. Terminator 2: Judgment Day (1991) \n9. Terminator (1984) \n10. Ready Player One (2018)",
+            "Monsters, Inc. (2001)\nRunaway Train (1985)\nPi of Destiny, The (2006)\nHow High (2001)\nAmerican Graffiti (1973)\nBruce Almighty (2003)\nTrapped (2002)\nFace/Off (1997)\nBrewster's Millions (1985)\nRobot & Frank (2012)",
+            "1. Monsters, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Clash of the Titans (1981)\n5. Dracula (Bram Stoker's Dracula) (1992)\n6. Man on Fire (2004)\n7. Reminiscence (2021)\n8. Sin City: A Dame to Kill For (2014)\n9. We Die Young (2019)\n10. The Machinist (2004)",
+            "1. Monsters, Inc. (2001)\n2. American Graffiti (1973)\n3. Arsenic and Old Lace (1944)\n4. Laura (1944)\n5. The Land Before Time (1988)\n6. What's Up, Doc? (1972)\n7. Tomb Raider (2018)\n8. Hachiko: A Dog's Tale (2009)\n9. Upgrade (2018)\n10. Casino Royale (2006)",
+            "Corporation, The (2003)\nGrapes of Wrath, The (1940)\nStop Making Sense (1984)\nUmberto D. (1952)\nSearchers, The (1956)\nMan on Wire (2008)\nTouching the Void (2003)\nCapturing the Friedmans (2003)\nHarlan County U.S.A. (1976)\nCrumb (1994)\n",
+            "1. Corporation, The (2003) \n2. What's Up, Doc? (1972) \n3. Thomas Crown Affair, The (1968) \n4. Dog Day Afternoon (1975) \n5. Intolerable Cruelty (2003) \n6. Robot & Frank (2012) \n7. Brewster's Millions (1985) \n8. Real Genius (1985) \n9. Cronos (1993) \n10. Jane Eyre (1996) ",
+            "1. Corporation, The (2003) \n2. August Rush (2007) \n3. What's Up, Doc? (1972) \n4. America (1929)\n5. Last Temptation of Christ, The (1988) \n6. Moby Dick (1956) \n7. Laura (1944) \n8. Von Ryan's Express (1965) \n9. All Quiet on the Western Front (1930) \n10. Man from Earth, The (2007)",
+            "1. Corporation, The (2003)\n2. Lost in Translation (2003)\n3. Umberto D. (1952)\n4. The Grapes of Wrath (1940)\n5. Social Network, The (2010)\n6. The Last Supper (1995)\n7. Burn After Reading (2008)\n8. Rushmore (1998)\n9. Mighty Wind, A (2003)\n10. Drop Dead Gorgeous (1999)",
+            "1. Corporation, The (2003)\n2. Grapes of Wrath, The (1940)\n3. Big Red One, The (1980)\n4. American Graffiti (1973)\n5. Mister Roberts (1955)\n6. Judgment at Nuremberg (1961)\n7. The Devil, Probably (2017)\n8. Iris (2001)\n9. Enron: The Smartest Guys in the Room (2006)\n10. Stalin's Wife (2017)"
+        ]
+    }
+}

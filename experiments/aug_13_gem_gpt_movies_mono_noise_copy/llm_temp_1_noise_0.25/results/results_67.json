@@ -1,0 +1,58 @@
+{
+    "67": {
+        "conv_hist": [
+            {
+                "query": "Are you interested in watching a children's show?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a movie about a futuristic dystopia where robots replace humans and run a society instead?",
+                "response": "no"
+            },
+            {
+                "query": "Can you tell me more about the genres of movie that you like?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a movie about a superhero?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you in the mood for a movie based on a book?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you looking for a superhero movie that is based on a Marvel Comic?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for something that takes place in the future?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in watching a superhero movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a dark comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you in the mood for a historical biopic?",
+                "response": "no"
+            }
+        ],
+        "rec_items": [
+            "1. Monsters, Inc. (2001) \n2. Runaway Train (1985)\n3. Tomb Raider (2018) \n4. Pirates of the Caribbean: At World's End (2007) \n5. Laura (1944) \n6. Last Temptation of Christ, The (1988) \n7. Abraham Lincoln: Vampire Hunter (2012) \n8. Santa Sangre (1989) \n9. August Rush (2007) \n10. Blair Witch Project, The (1999)\n",
+            "1. Movies, Inc. (2001)\n2. Runaway Train (1985)\n3. Terminator 3: Rise of the Machines (2003)\n4. Darkman (1990)\n5. Moby Dick (1956)\n6. Big Red One, The (1980)\n7. Nightcrawler (2014)\n8. Brewster's Millions (1985)\n9. Face/Off (1997)\n10. Real Genius (1985)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ready Player One (2018) \n3. Timeline (2003) \n4. Real Steel (2011) \n5. Robot & Frank (2012) \n6. Ant-Man (2015) \n7. Corporation, The (2003) \n8. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009) \n9. Alita: Battle Angel (2019) \n10. Terminator 3: Rise of the Machines (2003)",
+            "1. Ant-Man (2015)\n2. Robot & Frank (2012)\n3. Real Steel (2011)\n4. Predators (2010)\n5. Terminator 3: Rise of the Machines (2003)\n6. Big Red One, The (1980)\n7. Hellboy (2004)\n8. Blade II (2002)\n9. Hancock (2008)\n10. Teenage Mutant Ninja Turtles (2014)",
+            "1. A.I. Artificial Intelligence (2001)\n2. Ant-Man (2015)\n3. Ready Player One \n4. The Hurricane (1999)\n5. Hulk (2003)\n6. Spider-Man: Homecoming (2017)\n7. Captain America (2011)\n8. Doctor Strange (2016)\n9. Black Panther (2018)\n10. Wonder Woman (2017)",
+            "Ant-Man (2015) \\n\nReady Player One \\n\nMr. Holmes (2015) \\n\nThe Last Supper (1995) \\n\nThe Big Lebowski (1998) \\n\nLost in Translation (2003) \\n\nUmberto D. (1952) \\n\nTenacious D in The Pick of Destiny (2006) \\n\nEragon (2006) \\n\nThe Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. Real Steel (2011)\n2. Ant-Man (2015)\n3. Who Framed Roger Rabbit (1988)\n4. The Dark Knight (2008)\n5. Batman Begins (2005)\n6. Spider-Man: Homecoming (2017)\n7. The Incredibles (2004)\n8. Iron Man (2008)\n9. Thor (2011)\n10. Captain America: The First Avenger (2011)\n",
+            "1. Enter the Void (2009)\n2. A.I. Artificial Intelligence (2001)\n3. Robot & Frank (2012)\n4. Real Steel (2011)\n5. Terminator 3: Rise of the Machines (2003)\n6. Ant-Man (2015)\n7. Bruce Almighty (2003)\n8. King Kong (2005)\n9. Eragon (2006)\n10. Real Genius (1985)",
+            "1. Penelope (2008)\n2. Vincent (1982)\n3. The Blues Brothers (1980)\n4. 12 Monkeys (1995)\n5. Reservoir Dogs (1992)\n6. Do the Right Thing (1989)\n7. Clerks (1994)\n8. Fight Club (1999)\n9. Trainspotting (1996)\n10. Pulp Fiction (1994)",
+            "1. A.I. Artificial Intelligence (2001) \n2. RoboCop (1987) \n3. Blade Runner (1982) \n4. Metropolis (2001) \n5. Wall-E (2008) \n6. Terminator 2: Judgment Day (1991) \n7. Children of Men (2006) \n8. Her (2013) \n9. The Terminator (1984) \n10. Blade Runner 2049 (2017) "
+        ]
+    }
+}

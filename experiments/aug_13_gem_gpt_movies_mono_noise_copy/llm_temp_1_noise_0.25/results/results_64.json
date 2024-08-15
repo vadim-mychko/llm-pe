@@ -1,0 +1,58 @@
+{
+    "64": {
+        "conv_hist": [
+            {
+                "query": "Is this a children's movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for an animated film?",
+                "response": "no"
+            },
+            {
+                "query": "Is this a sci-fi movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in anything supernatural?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie that deals with death and loss?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a movie with a happy ending?",
+                "response": "yes"
+            },
+            {
+                "query": "Are you interested in a romantic comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in a comedy?",
+                "response": "no"
+            },
+            {
+                "query": "Are you looking for a drama movie?",
+                "response": "no"
+            },
+            {
+                "query": "Are you interested in an action movie?",
+                "response": "yes"
+            }
+        ],
+        "rec_items": [
+            "Pirates of the Caribbean: At World's End (2007)\nThe Big Lebowski (1998)\nTomb Raider (2018)\nThe Big Red One (1980)\nStranger than Fiction (2006)\nAugust Rush (2007)\nThe Land Before Time (1988)\nHow High (2001)\nThe Mothman Prophecies (2002)\nAmerican Graffiti (1973)",
+            "1. The Grapes of Wrath (1940)\n2. American Graffiti (1973)\n3. Stranger than Fiction (2006)\n4. The Corporation (2003)\n5. Darkman (1990)\n6. Lost in Translation (2003)\n7. Nightcrawler (2014)\n8. Into the Void (2009)\n9. Homeward Bound: The Incredible Journey (1993)\n10. Black Robe (1991)",
+            "1. Monsters, Inc. (2001) \\n\n2. Runaway Train (1985)\n3. Pirates of the Caribbean: At World's End (2007) \n4. Laura (1944) \n5. August Rush (2007) \n6. The Blair Witch Project (1999) \n7. One Hour Photo (2002) \n8. All Quiet on the Western Front (1930) \n9. The Grapes of Wrath (1940) \n10. Black Robe (1991)\n'''",
+            "1. The Mothman Prophecies (2002)\n2. The Conjuring (2013)\n3. The Sixth Sense (1999)\n4. The Shining (1980)\n5. Poltergeist (1982)\n6. Cabin Fever (2002)\n7. The Babadook (2014)\n8. The Innkeepers (2011)\n9. Paranormal Activity (2007)\n10. The Exorcist (1973)",
+            "1. Mothman Prophecies, The (2002) \n2. Magnolia (1999) \n3. Searching (2018) \n4. Europa (Zentropa) (1991) \n5. Big Red One, The (1980) \n6. Nightcrawler (2014) \n7. Cronos (1993) \n8. Black Robe (1991) \n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008) \n10. Bruce Almighty (2003)",
+            "1. Secret of Kells, The (2009) \n2. The Mothman Prophecies (2002) \n3. Hachiko: A Dog's Story (2009) \n4. John Doe (1941) \n5. Europa (Zentropa) (1991) \n6. Thomas Crown Affair, The (1968) \n7. The Departed (2006) \n8. Big Red One, The (1980) \n9. Stranger than Fiction (2006) \n10. Mr. Holmes (2015)",
+            "1. The Secret of Kells (2009)\n2. Mothman Prophecies, The (2002)\n3. Europa (Zentropa) (1991)\n4. Enter the Void (2009)\n5. The Departed (2006)\n6. Corpse Bride (2005)\n7. Cronos (1993)\n8. The Boy in the Striped Pajamas (Boy in the Striped Pyjamas, The) (2008)\n9. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n10. 5 Centimeters per Second (By\u00f4soku 5 senchim\u00eatoru) (2007)",
+            "1. Mothman Prophecies, The (2002)\n2. Searching (2018)\n3. Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009)\n4. Terminator 3: Rise of the Machines (2003)\n5. Ready Player One\n6. Nightcrawler (2014)\n7. Trapped (2002)\n8. Bruce Almighty (2003)\n9. King Kong (2005)\n10. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",
+            "1. The Mothman Prophecies (2002)\n2. Cronos (1993)\n3. Enter the Void (2009)\n4. Supernatural (1998)\n5. The Last Supper (1995)\n6. Europa (Zentropa) (1991)\n7. Delicatessen (1991)\n8. Black Robe (1991)\n9. Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)\n10. Thomas Crown Affair, The (1968)",
+            "1. Man on Fire (2004)\n2. The Departed (2006)\n3. Nightcrawler (2014)\n4. Into the Void (2009)\n5. Control (2007)\n6. Terminator 3: Rise of the Machines (2003)\n7. Trapped (2002)\n8. Darkman (1990)\n9. RoboCop (1987)\n10. Face/Off (1997)"
+        ]
+    }
+}
