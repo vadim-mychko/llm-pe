@@ -1,0 +1,28 @@
+\begin{tabular}{lrrr}
+\toprule
+ & 0 & 0.25 & 0.5 \\
+Noise Level &  &  &  \\
+\midrule
+MonoLLM GPT Mean &       0.12 &       0.08 &       0.05 \\
+MonoLLM GPT CI LB &       0.06 &       0.03 &       0.01 \\
+MonoLLM GPT CI UB &       0.17 &       0.13 &       0.09 \\
+MonoLLM Gemini Mean &       0.17 &       0.09 &       0.07 \\
+MonoLLM Gemini CI LB &       0.12 &       0.05 &       0.02 \\
+MonoLLM Gemini CI UB &       0.23 &       0.14 &       0.11 \\
+ER Mean &       0.26 &       0.14 &       0.07 \\
+ER CI LB &       0.18 &       0.08 &       0.03 \\
+ER CI UB &       0.33 &       0.19 &       0.11 \\
+Greedy Mean &       0.22 &       0.14 &       0.08 \\
+Greedy CI LB &       0.16 &       0.09 &       0.04 \\
+Greedy CI UB &       0.29 &       0.19 &       0.11 \\
+Random Mean &       0.21 &       0.14 &       0.10 \\
+Random CI LB &       0.15 &       0.09 &       0.05 \\
+Random CI UB &       0.28 &       0.19 &       0.14 \\
+Thompson Mean &       0.27 &       0.14 &       0.12 \\
+Thompson CI LB &       0.20 &       0.08 &       0.06 \\
+Thompson CI UB &       0.34 &       0.20 &       0.17 \\
+UCB Mean &       0.23 &       0.13 &       0.10 \\
+UCB CI LB &       0.16 &       0.08 &       0.05 \\
+UCB CI UB &       0.30 &       0.18 &       0.14 \\
+\bottomrule
+\end{tabular}
